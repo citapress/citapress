@@ -1,0 +1,123 @@
+body {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 20px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+div.lang {
+  position: absolute;
+  bottom: 30px;
+  font-size: 1em;
+  font-weight: 600;
+  width: 100%;
+  text-align: center;
+}
+
+img.logo {
+  width: 200px;
+  margin: 60px auto 0;
+  display: block;
+}
+
+ul.menu {
+  list-style: none;
+  margin: 20px auto 50px;
+  padding: 0;
+  text-align: center;
+}
+
+ul.menu li {
+  display: inline-block;
+  letter-spacing: 1px;
+  color: #1B30F1;
+}
+
+ul.menu li::after {
+  content: '/';
+  padding-left: 15px;
+  padding-right: 8px;
+}
+
+ul.menu li:last-child::after {
+  content: '';
+}
+
+section p {
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  padding: 0 30px;
+  line-height: 1.5em;
+}
+
+b {
+  color: #1B30F1;
+}
+
+section.books {
+  padding-right: 20px;
+  margin-top: 30px;
+}
+
+div.book-wrapper {
+  float: left;
+  width: 33.33%;
+  padding: 45px;
+}
+
+div.book {
+  position: relative;
+}
+
+div.book-wrapper img {
+  width: 100%;
+}
+
+div.book img.shadow {
+  position: absolute;
+  right: -15px;
+  margin-top: -15px;
+  /*backgro,und-color: red;*/
+  border: 5px solid black;
+
+}
+
+img.shadow.blue { background-color: #1B30F1; }
+img.shadow.yellow { background-color: #F8CD53; }
+
+div.book img.cover {
+  position: absolute;
+  z-index: 20;
+  border: 5px solid black; 
+}
+
+div.responsive-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+
+@media screen and (max-width: 600px) {
+  div.book-wrapper {
+    float: left;
+    width: 100%;
+  }
+
+  div.book-wrapper {
+    height: 90vw;
+  }
+
+  body {
+    margin-bottom: 100px;
+  }
+}
