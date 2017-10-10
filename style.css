@@ -8,12 +8,12 @@ body {
 }
 
 div.lang {
-  position: absolute;
-  bottom: 30px;
   font-size: 1em;
   font-weight: 600;
+  margin-top: 50px;
   width: 100%;
   text-align: center;
+  margin-bottom: 50px;
 }
 
 img.logo {
@@ -27,6 +27,8 @@ ul.menu {
   margin: 20px auto 50px;
   padding: 0;
   text-align: center;
+  padding: 0 30px;
+  line-height: 2em;
 }
 
 ul.menu li {
@@ -65,6 +67,8 @@ div.book-wrapper {
   float: left;
   width: 33.33%;
   padding: 45px;
+  padding-bottom: 25%;
+
 }
 
 div.book {
