@@ -63,19 +63,28 @@ section.books {
   margin-top: 30px;
 }
 
-div.book-wrapper {
+a.book-wrapper {
+  display: block;
   float: left;
   width: 33.33%;
   padding: 45px;
   padding-bottom: 25%;
+}
 
+a.book-wrapper:hover div.book img.shadow {
+  right: -20px;
+  margin-top: -20px;
+}
+
+a.book-wrapper:hover div.book img.cover {
+  transform: scale(1.05);
 }
 
 div.book {
   position: relative;
 }
 
-div.book-wrapper img {
+a.book-wrapper img {
   width: 100%;
 }
 
@@ -86,6 +95,7 @@ div.book img.shadow {
   /*backgro,und-color: red;*/
   border: 5px solid black;
 
+  transition: 0.3s all ease;
 }
 
 img.shadow.blue { background-color: #1B30F1; }
@@ -95,6 +105,8 @@ div.book img.cover {
   position: absolute;
   z-index: 20;
   border: 5px solid black; 
+
+  transition: 0.3s all ease;
 }
 
 div.responsive-container {
@@ -112,12 +124,12 @@ div.responsive-container {
 }
 
 @media screen and (max-width: 600px) {
-  div.book-wrapper {
+  a.book-wrapper {
     float: left;
     width: 100%;
   }
 
-  div.book-wrapper {
+  a.book-wrapper {
     height: 90vw;
   }
 
