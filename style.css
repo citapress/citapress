@@ -114,7 +114,7 @@ div.responsive-container {
   margin: 0 auto;
 }
 
-.clearfix:after {
+.clearfix::after {
   visibility: hidden;
   display: block;
   font-size: 0;
