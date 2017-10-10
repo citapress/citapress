@@ -136,4 +136,14 @@ div.responsive-container {
   body {
     margin-bottom: 100px;
   }
+
+  section.books {
+    padding-right: 40px;
+  }
+
+  div.book img.shadow {
+  position: absolute;
+    right: -25px;
+    margin-top: -25px;
+  }
 }
