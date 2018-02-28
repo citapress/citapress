@@ -5,9 +5,6 @@ var rev        = require('gulp-rev-append');
 // TASKS FOR LIVE RELOADING ==========
 gulp.task('css', function() {
   gulp.src(['*.css', 'styles/*.css']).pipe(livereload());
-  gulp.src('./index.html')
-    .pipe(rev())
-    .pipe(gulp.dest('.'));
 });
 
 gulp.task('js', function() {
@@ -16,6 +13,12 @@ gulp.task('js', function() {
 
 gulp.task('html', function() {
   gulp.src(['*.html', 'views/*.html']).pipe(livereload())
+});
+
+gulp.task('rev', function() {
+  gulp.src('./index.html')
+    .pipe(rev())
+    .pipe(gulp.dest('.'));
 });
 
 // WATCH TASK =========================
