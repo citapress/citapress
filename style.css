@@ -94,6 +94,8 @@ header h1:after {
   z-index: 20;
   background-color: #3634FB;
 
+  -moz-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
 }
 
@@ -135,6 +137,8 @@ header nav ul {
 .btn-menu .chulo {
   width: 30px;
 
+  -moz-transition: transform 0.3s ease;
+  -webkit-transition: transform 0.3s ease;
   transition: transform 0.3s ease;
 }
 
@@ -155,7 +159,8 @@ header nav ul {
   border-bottom: none;
   z-index: 20;
 
-  -webkit-transition: height 0.3s ease-in-out;
+  -moz-transition: height 0.3s ease-in-out; ;
+  -webkit-transition: height 0.3s ease-in-out;  
   transition: height 0.3s ease-in-out;  
 }
 
@@ -204,28 +209,55 @@ body.hide {
   overflow: hidden;
 }
 
-main:before,
+/*main:before,*/
 main:after {
   content: '';
   position: absolute;
   top: 0;
   right: 0;
+  width: 100px;
+  height: 100px;
   border-color: transparent;
   border-style: solid;
+  border-width: 100px;
 
   z-index: 30;
 
-  transition: 0.6s ease-in-out border-width;
+  -moz-transition: transform 0.6s ease-in-out;
+  -webkit-transition: transform 0.6s ease-in-out;
+  transition: transform 0.6s ease-in-out;
 }
 
 main:after {
-  border-width: 0;
+  /*border-width: 0;*/
+  transform: scale(0);
   border-top-color: #3634FB;
   border-right-color: #3634FB;
 }
 
 body.hide main:after {
-  border-width: calc(100vh + 100vw);
+  transform: scale(15);
+  transform-origin: top right;
+}
+
+body.unhide main:before,
+body.unhide main:after {
+  bottom: 0;
+  left: 0;
+  border-bottom-color: #3634FB;
+  border-left-color: #3634FB;
+  transform-origin: bottom left;
+
+  top: initial;
+  right: initial;
+  border-top-color: transparent;
+  border-right-color: transparent;
+}
+
+body.unhide main:after {
+  /*border-width: 0;*/
+  transform: scale(0);
+  
 }
 
 body #section-title {
@@ -243,6 +275,8 @@ body #section-title {
   text-align: center;
   overflow-x: hidden;
 
+  -moz-transition: width 0.4s ease-in-out 0.2s;
+  -webkit-transition: width 0.4s ease-in-out 0.2s;
   transition: width 0.4s ease-in-out 0.2s;
 }
 
@@ -258,24 +292,9 @@ body.hide #section-title {
 body.unhide #section-title {
   opacity: 0;
   /*width: 0%;*/
+  -moz-transition: all 0.2s linear 0.2s;
+  -webkit-transition: all 0.2s linear 0.2s;
   transition: all 0.2s linear 0.2s;
-}
-
-body.unhide main:before,
-body.unhide main:after {
-  bottom: 0;
-  left: 0;
-  border-bottom-color: #3634FB;
-  border-left-color: #3634FB;
-
-  top: initial;
-  right: initial;
-  border-top-color: transparent;
-  border-right-color: transparent;
-}
-
-body.unhide main:after {
-  border-width: 0;
 }
 
 article h1 {

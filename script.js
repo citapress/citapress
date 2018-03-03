@@ -89,7 +89,7 @@ $(document).on('click', 'a', function (e) {
         setTimeout(function(){
           $('body').removeClass('hide');
           $('body').removeClass('unhide');
-        }, 600);
+        }, 1200);
       }
     });
     }
