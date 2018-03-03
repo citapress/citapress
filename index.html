@@ -9,31 +9,47 @@
 
   <link rel="stylesheet" type="text/css" href="./webfonts/stylesheet.css">
   <link rel="stylesheet" type="text/css" href="./style.css?rev=2e337bfba42d7890bfc0d9e85d6e640b">
-  <link href="https://fonts.googleapis.com/css?family=Eczar:700|Poppins:400,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 </head>
 
-<body>
+<body class="">
   <header>
-  <h1>cita</h1>
+  <h1><a href="ajax/home.html" data-title="(">cita</a></h1>
   <nav>
   <button class="btn-menu">
     <img class="chulo" src="./assets/chulo.png"/>
   </button>
   <ul>
-    <li><a href="#">Home</a></li>
-    <li><a href="#">About</a></li>
-    <li><a href="#">Services</a></li>
-    <li><a href="#">Blog</a></li>
-    <li><a href="#">Contact</a></li>
+    <li><a class="menu-link" href="ajax/about.html">About</a></li>
+    <li><a class="menu-link" href="ajax/books.html">Books</a></li>
+    <li><a class="menu-link" href="ajax/collaborate.html">Collaborate</a></li>
+    <li><a class="menu-link" href="ajax/donate.html">Donate</a></li>
+    <li><a class="menu-link" href="ajax/news.html">News</a></li>
+    <li><a class="menu-link" href="ajax/contact.html">Contact</a></li>
   </ul>
   </nav>
   </header>
   <main role="main">
     <article>
-      <p class="dotted">an indie press publishing open licensed books written by women. We carefully design books for both print and web, for free. Watch our video, become a collaborator, or just start reading</p>
+      <script type="text/javascript">
+        $('article').load('ajax/home.html');
+      </script>
     </article>
   </main>
-  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <footer>
+    <div class="top">
+      <div class="social">
+      <a class="social" href="http://facebook.com"><img src="assets/fb.png"/></a>
+      <a class="social" href="http://facebook.com"><img src="assets/tw.png"/></a>
+      </div>
+      <span class="sharing">SHARING IS CARING</span>
+    </div>
+    <div class="bottom">
+      <span>All rights reversed <img class="copyleft" src="assets/copyleft.png"/> CC-SA-NC 3.0</span>
+    </div>
+  </footer>
+  <div id="section-title">Loading</div>
   <script type="text/javascript" src="./script.js"></script>
 </body>
 

@@ -1,3 +1,350 @@
-hola holasdas das
-fasdfsadf
-dasfas
+
+/* https://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* ===================
+
+CUSTOM
+
+=================== */
+
+main {
+  display: block; 
+}
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Bluu', serif;
+}
+
+header {
+  height: 60px;
+  overflow: hidden;
+  background-color: #3634FB; 
+}
+
+header h1 {
+  font-weight: bold;
+  color: #fff;
+  font-size: 2.5rem;
+  line-height: 60px;
+  margin-left: 20px;
+  float: left;  
+  display: inline-block;
+}
+
+header h1 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+header h1:after {
+  content: ':';
+  display: inline-block;
+  padding-right: 200px;
+  z-index: 20;
+  background-color: #3634FB;
+
+  transition: all 0.3s ease;
+}
+
+.show header h1:after {
+  transform: translate(-70px, -5px) ;
+  font-size: 2.5rem;
+
+  padding-right: 200px;
+}
+
+header nav ul {
+  display: none;  
+}
+
+.btn-menu {
+  display: block;
+  float: right;
+  margin-top: 20px;
+  /*margin-bottom: 2px;*/
+  margin-right: 15px;
+  border: 0;
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  position: relative;
+}
+
+.btn-menu:focus {
+  outline: none;  
+}
+
+.btn-menu .text {
+  display: block;
+  text-indent: 150%;
+  white-space: nowrap;
+  overflow: hidden; 
+}
+
+.btn-menu .chulo {
+  width: 30px;
+
+  transition: transform 0.3s ease;
+}
+
+.show .btn-menu .chulo {
+  transform: rotate(180deg);
+}
+
+.mobile-nav {
+  height: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #3634FB;
+  border: 1px solid #3634FB;
+  border-top: none;
+  border-bottom: none;
+  z-index: 20;
+
+  -webkit-transition: height 0.3s ease-in-out;
+  transition: height 0.3s ease-in-out;  
+}
+
+.mobile-nav ul {
+  padding-top: 40px;
+}
+
+.mobile-nav a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 2.3rem;
+  text-indent: 10px;
+  display: block;
+  line-height: 3.5rem;
+  padding-left: 10px;
+}
+
+.mobile-nav a:after {
+  content: ':';
+  padding-left: 2px;
+}
+
+.mobile-nav a:focus,
+.mobile-nav a:hover,
+.mobile-nav a:active {
+  background-color: #004301;  
+}
+
+.show .mobile-nav {
+  height: auto;
+}
+
+main {
+  padding: 10px 20px;
+  position: relative;
+  height: 100vh
+}
+
+body.hide main {
+  position: initial;
+  overflow: hidden;
+}
+
+
+body.hide {
+  overflow: hidden;
+}
+
+main:before,
+main:after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  border-color: transparent;
+  border-style: solid;
+
+  z-index: 30;
+
+  transition: 0.6s ease-in-out border-width;
+}
+
+main:after {
+  border-width: 0;
+  border-top-color: #3634FB;
+  border-right-color: #3634FB;
+}
+
+body.hide main:after {
+  border-width: calc(100vh + 100vw);
+}
+
+body #section-title {
+  content: 'Books';
+  color: white;
+  font-size: 2em;
+  position: absolute;
+  top: 50%;
+  line-height: 2em;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 40;
+  opacity: 0;
+  width: 0%;
+  text-align: center;
+  overflow-x: hidden;
+
+  transition: width 0.4s ease-in-out 0.2s;
+}
+
+body #section-title:after {
+  content: ':';
+}
+
+body.hide #section-title {
+  opacity: 1;
+  width: 100%;
+}
+
+body.unhide #section-title {
+  opacity: 0;
+  /*width: 0%;*/
+  transition: all 0.2s linear 0.2s;
+}
+
+body.unhide main:before,
+body.unhide main:after {
+  bottom: 0;
+  left: 0;
+  border-bottom-color: #3634FB;
+  border-left-color: #3634FB;
+
+  top: initial;
+  right: initial;
+  border-top-color: transparent;
+  border-right-color: transparent;
+}
+
+body.unhide main:after {
+  border-width: 0;
+}
+
+article h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 16px;  
+}
+
+article p {
+  line-height: 1.2;
+  font-size: 2.1rem;  
+}
+
+p.dotted:after {
+  content: ':';
+  font-size: 0.75em;
+  padding-left: 3px;
+  color: #3634FB;
+}
+
+a, a:visited, a:active {
+  color: black;
+}
+
+footer {
+  font-family: 'Roboto', sans-serif;
+  margin-top: 50px;
+  text-align: right;
+  font-size: 0.8em;
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+
+footer span.sharing {
+  font-weight: 700;
+  font-size: 1.2em;
+  line-height: 30px;
+  /*display: inline-block;*/
+}
+
+footer > div {
+  /*padding-bottom: 5px;*/
+  display: inline-block;
+}
+
+footer div.social {
+  float: left;
+  padding-right: 8px;
+}
+
+footer a.social {
+  margin-right: 3px;
+  /*line-height: 30px;*/
+  /*height: 30px;*/
+}
+
+footer a.social img {
+  height: 25px;
+  margin-top: -2px;
+  display: inline-block;
+}
+
+footer div.bottom {
+  letter-spacing: 0.2px;
+}
+
+footer img.copyleft {
+  width: 11px;
+  margin: 0 1px;
+  display: inline;
+}

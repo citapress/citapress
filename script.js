@@ -52,3 +52,56 @@ function MobileMenu(){
   } // end init()
   
 } // end MobileMenu Constructor
+
+
+$(document).on('click', 'a', function (e) {
+  
+  console.log(e.target.href);
+  // If the link goes within the same page
+  if (e.target.href.indexOf(window.location.origin) > -1) {
+    e.preventDefault();
+    
+    console.log(e.target);
+
+    // If it's a menu link
+    if ($(e.target).hasClass('menu-link')) {
+      // Load page
+      $('article').load(e.target.href);
+      $('.mobile-nav').removeAttr('style');
+      $('body').removeClass('show');
+
+    } else { // If it's a non-menu link
+
+      var alreadyHidden = false;
+      $('body').addClass('hide');
+      console.log(e.target.getAttribute("data-title"));
+      $('#section-title').text(e.target.getAttribute("data-title"));
+
+      $("main").one("transitionend webkitTransitionEnd oTransitionEnd", function(){
+      if (!alreadyHidden) {
+        alreadyHidden = true;
+
+        // Load page
+        $('article').load(e.target.href);
+        $('body').addClass('unhide');
+
+        // Remove unnecessary classes after 0.4 seconds
+        setTimeout(function(){
+          $('body').removeClass('hide');
+          $('body').removeClass('unhide');
+        }, 600);
+      }
+    });
+    }
+    // Close menu
+    
+
+    
+
+  } else {
+    console.log("Goes somewhere else ");
+  }
+  // console.log(e.target.href);
+  // console.log(document.domain);
+  // console.log("AAAAAAAAAAAA");
+});
