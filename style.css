@@ -66,6 +66,10 @@ body {
   font-family: 'Bluu', serif;
 }
 
+a, a:visited, a:active {
+  color: initial;
+}
+
 header {
   height: 60px;
   overflow: hidden;
@@ -85,6 +89,10 @@ header h1 {
 header h1 a {
   color: inherit;
   text-decoration: none;
+}
+
+header h1 a:active {
+  color: white;
 }
 
 header h1:after {
@@ -181,7 +189,7 @@ header nav ul {
 .mobile-nav a:focus,
 .mobile-nav a:hover,
 .mobile-nav a:active {
-  background-color: #004301;  
+  /*opacity: 0.5;*/
 }
 
 .show .mobile-nav {
@@ -191,7 +199,7 @@ header nav ul {
 main {
   padding: 10px 20px;
   position: relative;
-  height: 100vh
+  /*height: 100vh*/
 }
 
 body.hide main {
@@ -207,7 +215,7 @@ body.hide {
 main:before,
 main:after {
   content: '';
-  position: absolute;
+  position: fixed;
   top: 0;
   right: 0;
   border-color: transparent;
@@ -232,7 +240,7 @@ body #section-title {
   content: 'Books';
   color: white;
   font-size: 2em;
-  position: absolute;
+  position: fixed;
   top: 50%;
   line-height: 2em;
   left: 50%;
@@ -243,7 +251,7 @@ body #section-title {
   text-align: center;
   overflow-x: hidden;
 
-  transition: width 0.4s ease-in-out 0.2s;
+  transition: width 0.4s ease-in-out 0.3s;
 }
 
 body #section-title:after {
@@ -252,7 +260,7 @@ body #section-title:after {
 
 body.hide #section-title {
   opacity: 1;
-  width: 100%;
+  width: 90%;
 }
 
 body.unhide #section-title {
@@ -278,15 +286,96 @@ body.unhide main:after {
   border-width: 0;
 }
 
-article h1 {
-  font-size: 24px;
-  font-weight: bold;
-  margin-bottom: 16px;  
+article {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.1rem;
+  line-height: 1.4rem;
+  font-weight: 300;
+}
+
+article #books {
+  line-height: 1.8rem;
+}
+
+article .video {
+  width: 100%;
+  height: 100px;
+  background-color: #C6FDFE;
+  margin-bottom: 20px;
+  background-image: url(./assets/video.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 80px;
 }
 
 article p {
+  margin-bottom: 20px;
+}
+
+
+article #home {
+  line-height: 1.2;
+  font-size: 2.1rem; 
+  font-family: 'Bluu', serif;
+}
+
+article h1 {
   line-height: 1.2;
   font-size: 2.1rem;  
+  margin-bottom: 10px;  
+  font-family: 'Bluu', serif;
+}
+
+article h2 {
+  display: inline;
+  font-size: 2.1rem;  
+  font-weight: bold;
+  margin-bottom: 10px;  
+  font-family: 'Bluu', serif;
+  padding-right: 10px;
+}
+
+article .mini-title {
+  font-family: 'Bluu', serif;
+}
+
+article .books {
+  padding-top: 10px;
+  margin-right: -2%;
+}
+
+article .books a {
+  text-decoration: none;
+  display: block;
+  width: 48%;
+  margin-right: 2%;
+  margin-bottom: 2%;
+  float: left;
+  padding: 0;
+  /*padding: 10px;*/
+  /*padding-bottom: 45%;*/
+  position: relative;
+}
+
+article .books a span.title {
+  position: absolute;
+  display: block;
+  top: 15px;
+  left: 8px;
+  right: 8px;
+  font-size: 1.2em;
+  font-family: 'Bluu', serif;
+}
+
+article .books a span.author {
+  position: absolute;
+  display: block;
+  bottom: 10px;
+  left: 8px;
+  font-weight: 700;
+  font-size: 0.9rem;
+  line-height: 1rem;
+  letter-spacing: 0.5px;
 }
 
 p.dotted:after {
@@ -296,18 +385,15 @@ p.dotted:after {
   color: #3634FB;
 }
 
-a, a:visited, a:active {
-  color: black;
-}
-
 footer {
   font-family: 'Roboto', sans-serif;
-  margin-top: 50px;
+  margin-top: 30px;
   text-align: right;
   font-size: 0.8em;
-  position: absolute;
-  bottom: 20px;
+  position: relative;
+  /*bottom: 20px;*/
   right: 20px;
+  margin-bottom: 30px;
 }
 
 footer span.sharing {
@@ -347,4 +433,241 @@ footer img.copyleft {
   width: 11px;
   margin: 0 1px;
   display: inline;
+}
+
+#books-home {
+  display: none;
+}
+
+hr {
+  background-color: #3634FB;
+  border: none;
+  height: 2px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.books a img {
+  width: 100%;
+  display: block;
+}
+
+a.big-button {
+  display: inline-block;
+  /*width: 300px;*/
+  
+  border: 1.5px solid black;
+  
+  padding: 10px 10px;
+  font-weight: 800;
+  font-size: 1rem;
+  /*margin-top: 0px;*/
+  text-decoration: none;
+  margin-bottom: 70px;
+}
+
+#collaborate {
+  line-height: 1.8rem;
+}
+
+#collaborate h2 {
+  font-size: 1.5em;
+}
+
+@media screen and (min-width: 768px) {
+  body {
+    padding-top: 90px;
+  }
+
+  header {
+    background-color: transparent;
+    height: 90px;
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    z-index: 1000;
+  }
+
+  header h1 {
+    line-height: 90px;
+    font-size: 2.7rem;
+  }
+
+  header h1 a,
+  header h1 a:hover,
+  header h1 a:active,
+  header h1 a:visited {
+    color: #3634FB;
+
+  }
+
+  header h1:after {
+    display: none;
+  }
+
+  header h1 a:after {
+    content: ':';
+    display: inline-block;
+    padding-right: 0px;
+    z-index: 20;
+    background-color: transparent;
+    color: #3634FB;
+
+    transition: all 0.3s ease;
+  }
+
+  header h1 a:hover:after {
+    transform: translate(5px);
+  }
+
+  header nav ul {
+    display: block;  
+    float: right;
+  }
+
+  header nav ul li {
+    display: inline-block;
+    padding-top: 5px;
+    line-height: 85px;
+    font-size: 1.3rem;
+    margin-right: 20px;
+  }
+
+  header nav ul li a,
+  header nav ul li a:active,
+  header nav ul li a:hover,
+  header nav ul li a:visited {
+    color: #3634FB;
+    text-decoration: none;
+  }
+
+  header nav ul li a:after {
+    content: ':';
+    display: inline-block;
+    transition: all 0.3s ease;
+  }
+
+  header nav ul li a:hover:after {
+    transform: translate(5px);
+  }
+
+  article {
+    padding: 0 30px;
+  }
+
+  article #home {
+    font-size: 2.4em;
+  }
+
+
+  .btn-menu {
+    display: none;
+  }
+
+  footer {
+    right: 50px;
+    clear: both;
+    /*position: fixed;*/
+    /*bottom: 40px;*/
+  }
+
+  main:after {
+    border-top-color: white;
+    border-right-color: white;
+  }
+
+  body.unhide main:before,
+  body.unhide main:after {
+    border-bottom-color: white;
+    border-left-color: white;
+  }
+
+  body #section-title {
+    color: black;
+  }
+
+  #books-home {
+    display: block;
+  }
+
+  article .books {
+    margin-right: -3%;
+  }
+
+  article .books a {
+    width: 30.333%;
+    margin-right: 3%;
+    margin-bottom: 3%;
+    /*padding-bottom: 30%;*/
+  }
+
+  article .books a span.title {
+    top: 20px;
+    left: 16px;
+    right: 16px;
+    font-size: 2.2rem;
+    line-height: 3rem;
+  }
+
+  article .books a span.author {
+    bottom: 20px;
+    left: 16px;
+    font-size: 1.2rem;
+  }
+
+  footer div.top span:after {
+    content: '//';
+    padding: 0 5px 0 8px;
+  }
+
+  div.video {
+    height: 400px;
+    background-size: 200px;
+  }
+
+  article > h1 {
+    display: none;
+  }
+
+  article {
+    font-size: 1.3rem;
+    line-height: 2rem;
+  }
+
+  div.two-columns {
+    margin-right: -40px;
+  }
+
+  div.two-columns > div {
+    width: 50%;
+    float: left;
+    padding-right: 40px;
+  }
+
+   div.two-columns:after {
+    content: '.';
+    opacity: 0;
+    clear: both;
+   }
+
+  #collaborate {
+    font-size: 1.6rem;
+    line-height: 2.8rem;
+  }
+
+  a.big-button {
+    font-size: 1.4rem;
+    text-align: center;
+    display: block;
+    
+    margin-top: 10px;
+    width: 300px;
+    margin: 0 auto;
+  }
+
+  hr {
+    width: 50%;
+    margin: 40px auto;
+  }
 }

@@ -1,72 +1,57 @@
-var menu01 = new MobileMenu;
 
-menu01.init();
 
-function MobileMenu(){
-  
-  // set variables
-  var $body = $('body');
-  var $btnMenu = $('.btn-menu');
-  var $header = $('header');
-  // get the nav li elements from the 
-  // desktop menu
-  var navLiHTML = $('header nav ul').html();
-  // create the mobile menu from the desktop li elements...
-  var mobileNavHTML = $('<nav class="mobile-nav"><ul>' + navLiHTML  + '</ul></nav>');
-  
-  // Add the mobile menu to the main element...
-  $('main').prepend(mobileNavHTML);
-  
-  // select the newly created mobile menu
-  var $mobileNav = $('.mobile-nav');
-  
-  
-  // initialization method for the
-  // MobileMenu class 
-  this.init = function(){
-    
-    // get header height
-    var mobileHeaderHeight = $header.height();
+function changePage(url, title) {
+  $('article').load(url);
+  window.history.pushState({
+    name: title,
+    url:url
+  }, title, "#" + url.match(/(?:ajax\/)(.*)(?:\.html)/)[1]);
+}
 
-    // Click event handler for the mobile menu
-    $btnMenu.click(function(){
-      // check if body element has the
-      // class show
-      if($body.hasClass('show')){
-        // menu is open...
-        // remove any heights set on the mobile nav
-        $mobileNav.removeAttr('style');
-        // remove the "show" class from the body
-        // element
-        $body.removeClass('show');
-      }else{
-        // menu is closed...
-        // set height of mobile menu to the open height
-        $mobileNav.css('height', $(document).height() - mobileHeaderHeight);
-        // add the class "show" to the body element
-        $body.addClass('show'); 
-      } // end if menu is open...
-        
-    }); // end mobile menu click event handler
+// function getURLFrom
 
-  } // end init()
-  
-} // end MobileMenu Constructor
-
+window.onpopstate = function(e){
+    if(e.state) {
+      $('article').load(e.state.url);
+    }
+};
 
 $(document).on('click', 'a', function (e) {
+
+  // BORRAR CUANDO ESTÉN TODAS ==================================
+  console.log(e.target);
+  if (e.target.getAttribute("data-comingsoon")) {
+    console.log("Ajá")
+    e.preventDefault();
+    var alreadyHidden = false;
+    $('body').addClass('hide');
+    $('#section-title').text("Coming soon");
+
+    $("main").one("transitionend webkitTransitionEnd oTransitionEnd", function() {
+      if (!alreadyHidden) {
+        alreadyHidden = true;
+        $('body').addClass('unhide');
+        // Remove unnecessary classes after 0.4 seconds
+        setTimeout(function(){
+          $('body').removeClass('hide');
+          $('body').removeClass('unhide');
+        }, 600);
+      }
+    });
+    return;
+  }
+  // ============================================================
   
-  console.log(e.target.href);
   // If the link goes within the same page
   if (e.target.href.indexOf(window.location.origin) > -1) {
     e.preventDefault();
-    
-    console.log(e.target);
+
+    var title = e.target.getAttribute("data-title");
 
     // If it's a menu link
-    if ($(e.target).hasClass('menu-link')) {
+    if ($(e.target).hasClass('menu-link') && window.matchMedia('(max-width: 768px)').matches) {
       // Load page
-      $('article').load(e.target.href);
+      changePage(e.target.href, title);
       $('.mobile-nav').removeAttr('style');
       $('body').removeClass('show');
 
@@ -74,7 +59,7 @@ $(document).on('click', 'a', function (e) {
 
       var alreadyHidden = false;
       $('body').addClass('hide');
-      console.log(e.target.getAttribute("data-title"));
+      
       $('#section-title').text(e.target.getAttribute("data-title"));
 
       $("main").one("transitionend webkitTransitionEnd oTransitionEnd", function(){
@@ -82,7 +67,7 @@ $(document).on('click', 'a', function (e) {
         alreadyHidden = true;
 
         // Load page
-        $('article').load(e.target.href);
+        changePage(e.target.href, title);
         $('body').addClass('unhide');
 
         // Remove unnecessary classes after 0.4 seconds

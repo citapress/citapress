@@ -9,31 +9,40 @@
 
   <link rel="stylesheet" type="text/css" href="./webfonts/stylesheet.css">
   <link rel="stylesheet" type="text/css" href="./style.css?rev=2e337bfba42d7890bfc0d9e85d6e640b">
-  <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet">
   <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script type="text/javascript" src="./script.js"></script>
 </head>
 
 <body class="">
   <header>
-  <h1><a href="ajax/home.html" data-title="(">cita</a></h1>
+  <h1><a href="ajax/home.html" data-title="Home">cita</a></h1>
   <nav>
   <button class="btn-menu">
     <img class="chulo" src="./assets/chulo.png"/>
   </button>
   <ul>
-    <li><a class="menu-link" href="ajax/about.html">About</a></li>
-    <li><a class="menu-link" href="ajax/books.html">Books</a></li>
-    <li><a class="menu-link" href="ajax/collaborate.html">Collaborate</a></li>
-    <li><a class="menu-link" href="ajax/donate.html">Donate</a></li>
-    <li><a class="menu-link" href="ajax/news.html">News</a></li>
-    <li><a class="menu-link" href="ajax/contact.html">Contact</a></li>
+    <li><a class="menu-link" href="ajax/about.html" data-title="About">About</a></li>
+    <li><a class="menu-link" href="ajax/books.html" data-title="Books">Books</a></li>
+    <li><a class="menu-link" href="ajax/collaborate.html" data-title="Collaborate">Collaborate</a></li>
+    <!-- <li><a class="menu-link" href="ajax/donate.html" data-title="Donate">Donate</a></li> -->
+    <!-- <li><a class="menu-link" href="ajax/news.html" data-title="News">News</a></li> -->
+    <li><a class="menu-link" href="ajax/contact.html" data-title="Contact">Contact</a></li>
   </ul>
   </nav>
   </header>
   <main role="main">
     <article>
       <script type="text/javascript">
-        $('article').load('ajax/home.html');
+        
+        var index = document.URL.lastIndexOf('#');
+        if (index !== -1) {
+          var name = document.URL.substr(index + 1,document.URL.length);
+          changePage('ajax/' + name + '.html', name);
+        } else {
+          changePage('ajax/home.html', "Home");
+        }
+        // window.history.pushState({page: 1}, "AA", "#home");
       </script>
     </article>
   </main>
@@ -50,7 +59,62 @@
     </div>
   </footer>
   <div id="section-title">Loading</div>
-  <script type="text/javascript" src="./script.js"></script>
+  <script type="text/javascript">
+    var menu01 = new MobileMenu;
+
+menu01.init();
+
+function MobileMenu(){
+  
+  // set variables
+  var $body = $('body');
+  var $btnMenu = $('.btn-menu');
+  var $header = $('header');
+  // get the nav li elements from the 
+  // desktop menu
+  var navLiHTML = $('header nav ul').html();
+  // create the mobile menu from the desktop li elements...
+  var mobileNavHTML = $('<nav class="mobile-nav"><ul>' + navLiHTML  + '</ul></nav>');
+  
+  // Add the mobile menu to the main element...
+  $('main').prepend(mobileNavHTML);
+  
+  // select the newly created mobile menu
+  var $mobileNav = $('.mobile-nav');
+  
+  
+  // initialization method for the
+  // MobileMenu class 
+  this.init = function(){
+    
+    // get header height
+    var mobileHeaderHeight = $header.height();
+
+    // Click event handler for the mobile menu
+    $btnMenu.click(function(){
+      // check if body element has the
+      // class show
+      if($body.hasClass('show')){
+        // menu is open...
+        // remove any heights set on the mobile nav
+        $mobileNav.removeAttr('style');
+        // remove the "show" class from the body
+        // element
+        $body.removeClass('show');
+      }else{
+        // menu is closed...
+        // set height of mobile menu to the open height
+        $mobileNav.css('height', $(document).height() - mobileHeaderHeight);
+        // add the class "show" to the body element
+        $body.addClass('show'); 
+      } // end if menu is open...
+        
+    }); // end mobile menu click event handler
+
+  } // end init()
+  
+}
+  </script>
 </body>
 
 </html>
