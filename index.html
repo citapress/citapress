@@ -11,7 +11,8 @@
   <link rel="stylesheet" type="text/css" href="./style.css?rev=2e337bfba42d7890bfc0d9e85d6e640b">
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet">
   <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-  <script type="text/javascript" src="./script.js"></script>
+  <script type="text/json" src="./js/books.js"></script>
+  <script type="text/javascript" src="./js/script.js"></script>
 </head>
 
 <body class="">
@@ -37,8 +38,15 @@
         
         var index = document.URL.lastIndexOf('#');
         if (index !== -1) {
-          var name = document.URL.substr(index + 1,document.URL.length);
-          changePage('ajax/' + name + '.html', name);
+          var suffix = '#books/';
+          var indexBooks = document.URL.lastIndexOf(suffix);
+          if (indexBooks !== -1) {
+            var bookName = document.URL.substr(indexBooks + suffix.length,document.URL.length);
+            loadBookFront(bookName);
+          } else {
+            var name = document.URL.substr(index + 1,document.URL.length);
+            changePage('ajax/' + name + '.html', name);
+          } 
         } else {
           changePage('ajax/home.html', "Home");
         }

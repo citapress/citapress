@@ -1,22 +1,61 @@
 
-
+// change page function
+//
 function changePage(url, title) {
   $('article').load(url);
   window.history.pushState({
     name: title,
-    url:url
+    url: url
   }, title, "#" + url.match(/(?:ajax\/)(.*)(?:\.html)/)[1]);
 }
 
 // function getURLFrom
-
+//
 window.onpopstate = function(e){
-    if(e.state) {
-      $('article').load(e.state.url);
-    }
+  if(e.state) {
+    $('article').load(e.state.url);
+  }
 };
 
+// load books
+//
+function loadBooks() {
+  $.getJSON( "js/books.json", function( data ) {
+    var items = [];
+    $.each( data, function( key, val ) {
+      items.push( "<a class='book-link' id='" + key + "' style='background-image: url(" + val["square-thumbnail"] + ")'></a>" );
+    });
+
+    $('.books').html(items.join(''));
+  });
+}
+
+// load book
+//
+function loadBookFront(book) {
+  $.getJSON( "js/books.json", function( data ) {
+    $('article').load("ajax/books/front.html", function() {
+      var title = data[book]["title"];
+      window.history.pushState({ name: title }, title, "#books/" + book);
+      $.each( data[book], function( key, val ) {
+        console.log(val[key]);
+        $("#" + key).text(data[book][key]);
+      });
+    });
+  });
+}
+
+// on-click
+//
 $(document).on('click', 'a', function (e) {
+  console.log($(e.target));
+
+  if ($(e.target).hasClass("book-link")) {
+    e.preventDefault();
+    // console.log(e.target.id);
+      loadBookFront(e.target.id);
+    return;
+  }
 
   // BORRAR CUANDO ESTÉN TODAS ==================================
   console.log(e.target);
@@ -79,14 +118,12 @@ $(document).on('click', 'a', function (e) {
     });
     }
     // Close menu
-    
-
-    
-
   } else {
     console.log("Goes somewhere else ");
   }
-  // console.log(e.target.href);
-  // console.log(document.domain);
-  // console.log("AAAAAAAAAAAA");
 });
+
+
+
+
+

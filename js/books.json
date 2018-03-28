@@ -1,0 +1,13 @@
+{
+  "yellow-wallpaper": {
+    "title": "Texty-text",
+    "author": "Texty-text",
+    "book-paragraph": "Texty-text",
+    "blue-info1": "Texty-text",
+    "blue-info2": "Texty-text",
+    "html-content": "ajax/books/content/yellowwallpaper.html",
+    "square-thumbnail": "assets/yellowwallpaper.png",
+    "cover-image": "assets/cover-yellowwallpaper.jpg"
+  }
+}
+

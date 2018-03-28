@@ -352,6 +352,7 @@ article .books a {
   text-decoration: none;
   display: block;
   width: 48%;
+  height: 48%;
   margin-right: 2%;
   margin-bottom: 2%;
   float: left;
@@ -359,6 +360,13 @@ article .books a {
   /*padding: 10px;*/
   /*padding-bottom: 45%;*/
   position: relative;
+  background-size: cover;
+}
+
+article .books a:after {
+  content: "";
+  display: block;
+  padding-bottom: 100%;
 }
 
 article .books a span.title {
@@ -477,6 +485,58 @@ a.big-button {
 #collaborate h2 {
   font-size: 1.5em;
 }
+
+#book-front > .book-cover {
+  float: left;
+  width: 40%;
+  padding: 0 40px;
+}
+
+#book-front > .book-cover > img {
+  width: 100%;
+}
+
+#book-front > .book-info {
+  float: right;
+  width: 60%;
+}
+
+.book-info #title {
+  font-size: 2.2em;
+  margin-bottom: 0;
+}
+
+.book-info #author {
+  font-size: 1.2em;
+  font-weight: 900;
+  margin-bottom: 20px;
+}
+
+.book-info #book-paragraph {
+  margin-bottom: 20px;
+}
+
+.book-info #blue-info1,
+.book-info #blue-info2 {
+  color: #3634FB;
+  font-size: 0.8em;
+  font-weight: 500;
+}
+
+#book-front .read-links {
+  width: 100%;
+  clear: both;
+  text-align: center;
+  padding-top: 20px;
+}
+
+#book-front .read-links a {
+  border: 2px solid black;
+  padding: 5px 10px;
+  text-decoration: none;
+  margin: 5px;
+}
+
 
 @media screen and (min-width: 768px) {
   body {
