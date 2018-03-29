@@ -517,7 +517,9 @@ a.big-button {
 }
 
 .book-info #blue-info1,
-.book-info #blue-info2 {
+.book-info #blue-info2,
+.book-info #blue-info1 a
+.book-info #blue-info2 a {
   color: #3634FB;
   font-size: 0.8em;
   font-weight: 500;
@@ -734,4 +736,58 @@ a.big-button {
     width: 50%;
     margin: 40px auto;
   }
+}
+
+/* BOOK CONTENT STYLES
+========================= */
+
+#book-html-content {
+  line-height: 1.5em;
+}
+
+#book-html-content ul.toc {
+  list-style: circle;
+  padding-left: 40px;
+  margin: 20px 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+#book-html-content h1 {
+  font-size: 2em;
+  margin-bottom: 10px;
+  line-height: 1.5em;
+}
+
+#book-html-content h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+#book-html-content h3 {
+  margin: 10px 0;
+  font-weight: 900;
+}
+
+#book-html-content p {
+  margin: 20px 0;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+}
+
+#book-html-content img {
+  width: 50%;
+  padding: 10px;
+  /*display: block;*/
+}
+
+/* BINDERY CONTENT OVERRIDING STYLES (.📖-viewing)
+========================= */
+
+.📖-viewing #book-html-content p {
+  font-size: 14px;
+}
+
+.📖-viewing #book-html-content h1 {
+  font-size: 1.6em;
 }

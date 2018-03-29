@@ -38,9 +38,40 @@ function loadBookFront(book) {
       var title = data[book]["title"];
       window.history.pushState({ name: title }, title, "#books/" + book);
       $.each( data[book], function( key, val ) {
-        console.log(val[key]);
-        $("#" + key).text(data[book][key]);
+        $("#" + key).html(data[book][key]);
       });
+    });
+  });
+}
+
+// load book Print
+//
+function loadBookPrint(book) {
+  $.getJSON( "js/books.json", function( data ) {
+  // var title = data[book]["title"];
+    // window.history.pushState({ name: book }, book, "#books/" + book);
+    Bindery.makeBook({
+      content: {
+        selector: '#book-html-content',
+        url: data[book]["html-content"]
+      }
+    });
+    
+  });
+}
+
+// load book Web
+//
+function loadBookWeb(book) {
+  console.log(book)
+  $.getJSON( "js/books.json", function( data ) {
+    $('article').load("ajax/books/web.html", function() {
+      $('#book-web-content').load(data[book]["html-content"], function() {
+        console.log("done");
+        // window.history.pushState({ name: book }, book, "#books/" + book);
+      })
+      //var title = data[book]["title"];
+      
     });
   });
 }
@@ -52,33 +83,54 @@ $(document).on('click', 'a', function (e) {
 
   if ($(e.target).hasClass("book-link")) {
     e.preventDefault();
-    // console.log(e.target.id);
-      loadBookFront(e.target.id);
+    loadBookFront(e.target.id);
     return;
   }
+
+  var suffix = '#books/';
+  var indexBooks = document.URL.lastIndexOf(suffix);
+  if (indexBooks !== -1) {
+    var bookName = document.URL.substr(indexBooks + suffix.length,document.URL.length);
+
+    if ($(e.target).is("#read-web")) {
+      e.preventDefault();
+      loadBookWeb(bookName);
+      return;
+    }
+
+    if ($(e.target).is("#read-print")) {
+      e.preventDefault();
+      loadBookPrint(bookName);
+      return;
+    }
+  }
+
+  
+
+
 
   // BORRAR CUANDO ESTÉN TODAS ==================================
-  console.log(e.target);
-  if (e.target.getAttribute("data-comingsoon")) {
-    console.log("Ajá")
-    e.preventDefault();
-    var alreadyHidden = false;
-    $('body').addClass('hide');
-    $('#section-title').text("Coming soon");
+  // console.log(e.target);
+  // if (e.target.getAttribute("data-comingsoon")) {
+  //   console.log("Ajá")
+  //   e.preventDefault();
+  //   var alreadyHidden = false;
+  //   $('body').addClass('hide');
+  //   $('#section-title').text("Coming soon");
 
-    $("main").one("transitionend webkitTransitionEnd oTransitionEnd", function() {
-      if (!alreadyHidden) {
-        alreadyHidden = true;
-        $('body').addClass('unhide');
-        // Remove unnecessary classes after 0.4 seconds
-        setTimeout(function(){
-          $('body').removeClass('hide');
-          $('body').removeClass('unhide');
-        }, 600);
-      }
-    });
-    return;
-  }
+  //   $("main").one("transitionend webkitTransitionEnd oTransitionEnd", function() {
+  //     if (!alreadyHidden) {
+  //       alreadyHidden = true;
+  //       $('body').addClass('unhide');
+  //       // Remove unnecessary classes after 0.4 seconds
+  //       setTimeout(function(){
+  //         $('body').removeClass('hide');
+  //         $('body').removeClass('unhide');
+  //       }, 600);
+  //     }
+  //   });
+  //   return;
+  // }
   // ============================================================
   
   // If the link goes within the same page

@@ -1,34 +1,10 @@
 {
   "yellow-wallpaper": {
-    "title": "Texty-text",
-    "author": "Texty-text",
-    "book-paragraph": "Texty-text",
-    "blue-info1": "Texty-text",
-    "blue-info2": "Texty-text",
-
-    "html-content": "ajax/books/content/yellowwallpaper.html",
-    "square-thumbnail": "assets/yellowwallpaper.png",
-    "cover-image": "assets/cover-yellowwallpaper.jpg"
-  },
-
-  "silly-novels": {
-    "title": "Silly Novels",
-    "author": "Juan José Castro",
-    "book-paragraph": "Texty-text",
-    "blue-info1": "Texty-text",
-    "blue-info2": "Texty-text",
-
-    "html-content": "ajax/books/content/yellowwallpaper.html",
-    "square-thumbnail": "assets/sillynovels.png",
-    "cover-image": "assets/cover-yellowwallpaper.jpg"
-  },
-
-  "yellow-wallpaper": {
-    "title": "Texty-text",
-    "author": "Texty-text",
-    "book-paragraph": "Texty-text",
-    "blue-info1": "Texty-text",
-    "blue-info2": "Texty-text",
+    "title": "The Yellow Wall-Paper",
+    "author": "Charlotte Perkins Gilman",
+    "book-paragraph": "Charlotte Perkins Gilman’s “The Yellow Wall-Paper” (1892) holds an important place among rediscovered works by turn-of-the-century American women writers for its bold critique of gender politics in a patriarchal society. The nameless narrator, undergoing the infamous rest cure for what doctors now diagnose as postpartum depression, experiences debilitating psychological effects.  At first repulsed by the wallpaper in the room where she is sequestered in a country estate, the narrator comes to like it as she vows to decodes its pattern—she imagines many women creeping behind bars and identifies with one trapped woman, arguably a reflection of her painful position as a woman in Victorian America. Many of the story’s first readers considered it a psychological horror tale in the fashion of Poe.",
+    "blue-info1": "Foreword: Catherine J. Golden, PhD. - Professor of English and The Tisch Chair in Arts and Letters, Skidmore College",
+    "blue-info2": "Cover: <a href=http://laurasavina.com>Laura Savina</a> - Italian illustrator and tap dance student.",
 
     "html-content": "ajax/books/content/yellowwallpaper.html",
     "square-thumbnail": "assets/yellowwallpaper.png",
