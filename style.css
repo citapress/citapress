@@ -517,12 +517,17 @@ a.big-button {
 }
 
 .book-info #blue-info1,
-.book-info #blue-info2,
-.book-info #blue-info1 a
-.book-info #blue-info2 a {
-  color: #3634FB;
+.book-info #blue-info2 {
   font-size: 0.8em;
   font-weight: 500;
+  color: #3634FB;
+}
+
+.book-info a,
+.book-info a.active,
+.book-info a.visited,
+.book-info a.hover {
+  color: #3634FB;
 }
 
 #book-front .read-links {
