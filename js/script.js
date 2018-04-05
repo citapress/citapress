@@ -37,7 +37,7 @@ function readURL(url) {
 function changePage(url, title) {
   $('article').load(url);
   window.history.pushState({
-    name: title,
+    title: title,
     url: url
   }, title, "#" + url.match(/(?:ajax\/)(.*)(?:\.html)/)[1]);
 }
@@ -45,15 +45,18 @@ function changePage(url, title) {
 // function getURLFrom
 //
 window.onpopstate = function(e){
-  if (e.state.url) {
-    $('article').load(e.state.url);
-  } else if (e.state.bookId) {
-    if (e.state.mode == WEB_VIEW) {
-      loadBookWeb(e.state.bookId, false);
-    } else if (e.state.mode == FRONT_VIEW) {
-      loadBookFront(e.state.bookId, false);
+  animateChange(e.state.title, function() {
+    if (e.state.url) {
+      $('article').load(e.state.url);
+    } else if (e.state.bookId) {
+      if (e.state.mode == WEB_VIEW) {
+        loadBookWeb(e.state.bookId, false);
+      } else if (e.state.mode == FRONT_VIEW) {
+        loadBookFront(e.state.bookId, false);
+      }
     }
-  }
+  });
+  
 };
 
 
@@ -106,7 +109,8 @@ function loadBookFront(book, shouldPushState) {
       if (shouldPushState) {
         window.history.pushState({
           bookId: book,
-          mode: FRONT_VIEW
+          mode: FRONT_VIEW,
+          title: title
         }, title, "#books/" + book);
       }
 
@@ -146,7 +150,8 @@ function loadBookWeb(book, shouldPushState) {
         if (shouldPushState) {
           window.history.pushState({
             bookId: book,
-            mode: WEB_VIEW
+            mode: WEB_VIEW,
+            title: "Read online"
           }, book, "#books/" + book + "/web");
         }
       });
