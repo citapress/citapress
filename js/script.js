@@ -12,7 +12,8 @@ function changePage(url, title) {
 // function getURLFrom
 //
 window.onpopstate = function(e){
-  if(e.state) {
+  console.log(e);
+  if (e.state) {
     $('article').load(e.state.url);
   }
 };
@@ -56,6 +57,7 @@ function loadBookPrint(book) {
         url: data[book]["html-content"]
       }
     });
+    window.history.pushState({ name: book }, book, "#books/" + book + "/print");
     
   });
 }
@@ -66,11 +68,11 @@ function loadBookWeb(book) {
   console.log(book)
   $.getJSON( "js/books.json", function( data ) {
     $('article').load("ajax/books/web.html", function() {
+
       $('#book-web-content').load(data[book]["html-content"], function() {
         console.log("done");
-        // window.history.pushState({ name: book }, book, "#books/" + book);
+        window.history.pushState({ name: book }, book, "#books/" + book + "/web");
       })
-      //var title = data[book]["title"];
       
     });
   });
@@ -104,34 +106,6 @@ $(document).on('click', 'a', function (e) {
       return;
     }
   }
-
-  
-
-
-
-  // BORRAR CUANDO ESTÉN TODAS ==================================
-  // console.log(e.target);
-  // if (e.target.getAttribute("data-comingsoon")) {
-  //   console.log("Ajá")
-  //   e.preventDefault();
-  //   var alreadyHidden = false;
-  //   $('body').addClass('hide');
-  //   $('#section-title').text("Coming soon");
-
-  //   $("main").one("transitionend webkitTransitionEnd oTransitionEnd", function() {
-  //     if (!alreadyHidden) {
-  //       alreadyHidden = true;
-  //       $('body').addClass('unhide');
-  //       // Remove unnecessary classes after 0.4 seconds
-  //       setTimeout(function(){
-  //         $('body').removeClass('hide');
-  //         $('body').removeClass('unhide');
-  //       }, 600);
-  //     }
-  //   });
-  //   return;
-  // }
-  // ============================================================
   
   // If the link goes within the same page
   if (e.target.href.indexOf(window.location.origin) > -1) {

@@ -40,10 +40,10 @@
         var index = document.URL.lastIndexOf('#');
         if (index !== -1) {
           var suffix = '#books/';
-          var indexBooks = document.URL.lastIndexOf(suffix);
-          if (indexBooks !== -1) {
-            var bookName = document.URL.substr(indexBooks + suffix.length,document.URL.length);
-            loadBookFront(bookName);
+          var bookName = document.URL.match(/(?:#books\/)((\w|\d|-)*)(?:(\b|\/))/);
+          
+          if (bookName != null) {
+            loadBookFront(bookName[1]);
           } else {
             var name = document.URL.substr(index + 1,document.URL.length);
             changePage('ajax/' + name + '.html', name);
