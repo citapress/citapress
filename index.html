@@ -36,22 +36,9 @@
   <main role="main">
     <article>
       <script type="text/javascript">
+
+        readURL(document.URL);
         
-        var index = document.URL.lastIndexOf('#');
-        if (index !== -1) {
-          var suffix = '#books/';
-          var bookName = document.URL.match(/(?:#books\/)((\w|\d|-)*)(?:(\b|\/))/);
-          
-          if (bookName != null) {
-            loadBookFront(bookName[1]);
-          } else {
-            var name = document.URL.substr(index + 1,document.URL.length);
-            changePage('ajax/' + name + '.html', name);
-          } 
-        } else {
-          changePage('ajax/home.html', "Home");
-        }
-        // window.history.pushState({page: 1}, "AA", "#home");
       </script>
     </article>
   </main>

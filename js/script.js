@@ -1,4 +1,37 @@
 
+// Constants for dealing with dynamic book links
+const FRONT_VIEW = "FRONT";
+const WEB_VIEW   = "WEB";
+
+// reads the url and goes to the appropriate place
+// (only to be executed on the main page)
+//
+function readURL(url) {
+  var index = url.lastIndexOf('#');
+  if (index !== -1) {
+
+    var suffix = '#books/';
+    var bookName = url.match(/(?:#books\/)((\w|\d|-)*)(?:(\b|\/))/);
+
+    // if page is a dynamic book page
+    if (bookName != null) {
+
+      // check for suffixes
+      if (url.endsWith("web")) {
+        loadBookWeb(bookName[1], true);
+      } else {
+        loadBookFront(bookName[1], true);
+      }
+
+    } else {
+      var name = url.substr(index + 1,url.length);
+      changePage('ajax/' + name + '.html', name);
+    } 
+  } else {
+    changePage('ajax/home.html', "Home");
+  }
+}
+
 // change page function
 //
 function changePage(url, title) {
@@ -12,83 +45,131 @@ function changePage(url, title) {
 // function getURLFrom
 //
 window.onpopstate = function(e){
-  console.log(e);
-  if (e.state) {
+  if (e.state.url) {
     $('article').load(e.state.url);
+  } else if (e.state.bookId) {
+    if (e.state.mode == WEB_VIEW) {
+      loadBookWeb(e.state.bookId, false);
+    } else if (e.state.mode == FRONT_VIEW) {
+      loadBookFront(e.state.bookId, false);
+    }
   }
 };
 
-// load books
+
+// animates a change of page
+//
+function animateChange(title, todo) {
+  var alreadyHidden = false;
+  $('body').addClass('hide');
+  
+  $('#section-title').text(title);
+
+  $("main").one("transitionend webkitTransitionEnd oTransitionEnd", function(){
+    if (!alreadyHidden) {
+      alreadyHidden = true;
+
+      // Do what we need to do
+      todo();
+      $('body').addClass('unhide');
+
+      // Remove unnecessary classes after 0.4 seconds
+      setTimeout(function(){
+        $('body').removeClass('hide');
+        $('body').removeClass('unhide');
+      }, 600);
+    }
+  });
+};
+
+// loads books dinamically in div
 //
 function loadBooks() {
   $.getJSON( "js/books.json", function( data ) {
     var items = [];
     $.each( data, function( key, val ) {
-      items.push( "<a class='book-link' id='" + key + "' style='background-image: url(" + val["square-thumbnail"] + ")'></a>" );
+      items.push( "<a href='#' class='book-link' data-title='" + val["title"] + "' id='" + key +
+                  "' style='background-image: url(" + val["square-thumbnail"] + ")'></a>" );
     });
 
     $('.books').html(items.join(''));
   });
-}
+};
 
-// load book
+// load book front
 //
-function loadBookFront(book) {
+function loadBookFront(book, shouldPushState) {
   $.getJSON( "js/books.json", function( data ) {
     $('article').load("ajax/books/front.html", function() {
       var title = data[book]["title"];
-      window.history.pushState({ name: title }, title, "#books/" + book);
+
+      if (shouldPushState) {
+        window.history.pushState({
+          bookId: book,
+          mode: FRONT_VIEW
+        }, title, "#books/" + book);
+      }
+
+      $('a#read-print').attr("href", "print#" + book)
+      
       $.each( data[book], function( key, val ) {
         $("#" + key).html(data[book][key]);
       });
     });
   });
-}
+};
 
 // load book Print
+// (only to be used in print/index.html)
 //
 function loadBookPrint(book) {
-  $.getJSON( "js/books.json", function( data ) {
-  // var title = data[book]["title"];
-    // window.history.pushState({ name: book }, book, "#books/" + book);
+  $.getJSON( "../js/books.json", function( data ) {
     Bindery.makeBook({
       content: {
         selector: '#book-html-content',
-        url: data[book]["html-content"]
+        url: "../" + data[book.substr(1,book.length)]["html-content"]
       }
     });
-    window.history.pushState({ name: book }, book, "#books/" + book + "/print");
-    
   });
-}
+};
 
-// load book Web
+// load book in Web reading version
 //
-function loadBookWeb(book) {
+function loadBookWeb(book, shouldPushState) {
   console.log(book)
   $.getJSON( "js/books.json", function( data ) {
     $('article').load("ajax/books/web.html", function() {
 
       $('#book-web-content').load(data[book]["html-content"], function() {
         console.log("done");
-        window.history.pushState({ name: book }, book, "#books/" + book + "/web");
-      })
-      
+
+        if (shouldPushState) {
+          window.history.pushState({
+            bookId: book,
+            mode: WEB_VIEW
+          }, book, "#books/" + book + "/web");
+        }
+      });
+
     });
   });
-}
+};
 
 // on-click
 //
 $(document).on('click', 'a', function (e) {
-  console.log($(e.target));
 
+  // If it's a book link inside the page
   if ($(e.target).hasClass("book-link")) {
     e.preventDefault();
-    loadBookFront(e.target.id);
+    var title = e.target.getAttribute("data-title");
+    animateChange(title, function() {
+      loadBookFront(e.target.id, true);
+    });
     return;
   }
 
+  // If it's a books web or books print link inside the page
   var suffix = '#books/';
   var indexBooks = document.URL.lastIndexOf(suffix);
   if (indexBooks !== -1) {
@@ -96,20 +177,28 @@ $(document).on('click', 'a', function (e) {
 
     if ($(e.target).is("#read-web")) {
       e.preventDefault();
-      loadBookWeb(bookName);
+      animateChange("Read online", function() {
+        loadBookWeb(bookName, true);
+      });
       return;
-    }
-
-    if ($(e.target).is("#read-print")) {
-      e.preventDefault();
-      loadBookPrint(bookName);
+    } else if ($(e.target).is("#read-print")) {
       return;
     }
   }
   
-  // If the link goes within the same page
+  // If it's a normal link inside the page
   if (e.target.href.indexOf(window.location.origin) > -1) {
     e.preventDefault();
+
+    // if it's a normal tag anchor link within the same page
+    var hash = e.target.href.match(/(?:#)((\w)+)/);
+    if (hash != null) {
+      console.log("yay");
+      $('html, body').animate({
+        scrollTop: $("#" + hash[1]).offset().top - 100
+      }, 800);
+      return;
+    }
 
     var title = e.target.getAttribute("data-title");
 
@@ -122,34 +211,12 @@ $(document).on('click', 'a', function (e) {
 
     } else { // If it's a non-menu link
 
-      var alreadyHidden = false;
-      $('body').addClass('hide');
-      
-      $('#section-title').text(e.target.getAttribute("data-title"));
+      var title = e.target.getAttribute("data-title");
 
-      $("main").one("transitionend webkitTransitionEnd oTransitionEnd", function(){
-      if (!alreadyHidden) {
-        alreadyHidden = true;
-
-        // Load page
-        changePage(e.target.href, title);
-        $('body').addClass('unhide');
-
-        // Remove unnecessary classes after 0.4 seconds
-        setTimeout(function(){
-          $('body').removeClass('hide');
-          $('body').removeClass('unhide');
-        }, 600);
-      }
-    });
+      animateChange(title, function() {
+        window.changePage(e.target.href, title);
+      });
     }
-    // Close menu
-  } else {
-    console.log("Goes somewhere else ");
+    return;
   }
 });
-
-
-
-
-
