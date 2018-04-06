@@ -844,6 +844,8 @@ a.make-book {
 #book-html-content img {
   width: 50%;
   padding: 10px;
+  display: block;
+  margin: 0 auto;
 }
 
 /* BINDERY CONTENT OVERRIDING STYLES (.📖-viewing)
