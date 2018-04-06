@@ -102,7 +102,7 @@ header h1 a:active {
 header h1:after {
   content: ':';
   display: inline-block;
-  padding-right: 200px;
+  padding-right: 100px;
   z-index: 20;
   background-color: #3634FB;
 
@@ -113,7 +113,7 @@ header h1:after {
   transform: translate(-75px, -5px) ;
   font-size: 2.5rem;
 
-  padding-right: 200px;
+  padding-right: 100px;
 }
 
 header nav ul {
@@ -254,6 +254,7 @@ body #section-title {
   width: 0%;
   text-align: center;
   overflow-x: hidden;
+  text-transform: capitalize;
 
   transition: width 0.4s ease-in-out 0.3s;
 }
@@ -312,10 +313,11 @@ article .video {
   background-size: 80px;
 }
 
-article p {
+article p, #book-paragraph {
+  margin-top: 20px;
   margin-bottom: 20px;
+  line-height: 1.6em;
 }
-
 
 article #home {
   line-height: 1.2;
@@ -330,9 +332,9 @@ article h1 {
   font-family: 'Bluu', serif;
 }
 
-article h2 {
+article span.inside-title {
   display: inline;
-  font-size: 2.1rem;  
+  font-size: 1.8rem;  
   font-weight: bold;
   margin-bottom: 10px;  
   font-family: 'Bluu', serif;
@@ -437,6 +439,10 @@ footer a.social img {
   display: inline-block;
 }
 
+footer div.top {
+  padding-left: 20px;
+}
+
 footer div.bottom {
   letter-spacing: 0.2px;
 }
@@ -486,28 +492,13 @@ a.big-button {
   font-size: 1.5em;
 }
 
-#book-front > .book-cover {
-  float: left;
-  width: 40%;
-  padding: 0 40px;
-}
-
-#book-front > .book-cover > img {
-  width: 100%;
-}
-
-#book-front > .book-info {
-  float: right;
-  width: 60%;
-}
-
 .book-info #title {
-  font-size: 2.2em;
-  margin-bottom: 0;
+  font-size: 30px;
+  margin-bottom: 10px;
 }
 
 .book-info #author {
-  font-size: 1.2em;
+  font-size: 20px;
   font-weight: 900;
   margin-bottom: 20px;
 }
@@ -530,10 +521,16 @@ a.big-button {
   color: #3634FB;
 }
 
+#book-front > .book-cover > img {
+  width: 60%;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
 #book-front .read-links {
   width: 100%;
   clear: both;
-  text-align: center;
   padding-top: 20px;
 }
 
@@ -541,9 +538,9 @@ a.big-button {
   border: 2px solid black;
   padding: 5px 10px;
   text-decoration: none;
-  margin: 5px;
+  margin: 5px 0;
+  display: inline-block;
 }
-
 
 @media screen and (min-width: 768px) {
   body {
@@ -741,12 +738,54 @@ a.big-button {
     width: 50%;
     margin: 40px auto;
   }
+
+  #book-front > .book-cover {
+    float: left;
+    width: 40%;
+    padding: 0 40px;
+  }
+
+  #book-front > .book-cover > img {
+    width: 100%;
+  }
+
+  #book-front > .book-info {
+    float: right;
+    width: 60%;
+  }
+
+  #book-front .read-links {
+    text-align: center;
+  }
+
+  .book-info #title {
+    font-size: 2.2em;
+    margin-bottom: 0;
+  }
+
+  .book-info #author {
+    font-size: 1.2em;
+  }
+
+  #book-front .read-links a {
+    margin: 5px;
+  }
+}
+
+@media screen and (min-width: 1439px) {
+
+  main {
+    max-width: 1300px;
+    margin: 0 auto;
+  }
+
 }
 
 /* BOOK CONTENT STYLES
 ========================= */
 
 #book-html-content {
+  font-family: 'Bitter';
   line-height: 1.5em;
 }
 
@@ -754,36 +793,37 @@ a.big-button {
   list-style: circle;
   padding-left: 40px;
   margin: 20px 0;
-  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
 }
 
 #book-html-content h1 {
-  font-size: 2em;
+  font-size: 32px;
   margin-bottom: 10px;
   line-height: 1.5em;
 }
 
 #book-html-content h2 {
-  font-family: 'Roboto', sans-serif;
-  font-size: 1.2em;
+  font-size: 24px;
   margin-bottom: 20px;
+  font-family: 'Bluu', serif;
 }
 
 #book-html-content h3 {
   margin: 10px 0;
   font-weight: 900;
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
 }
 
 #book-html-content p {
   margin: 20px 0;
-  font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  line-height: 23px;
 }
 
 #book-html-content img {
   width: 50%;
   padding: 10px;
-  /*display: block;*/
 }
 
 /* BINDERY CONTENT OVERRIDING STYLES (.📖-viewing)
@@ -791,6 +831,7 @@ a.big-button {
 
 .📖-viewing #book-html-content p {
   font-size: 14px;
+  font-family: 'Bitter';
 }
 
 .📖-viewing #book-html-content h1 {

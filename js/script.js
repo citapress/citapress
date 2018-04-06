@@ -25,29 +25,33 @@ function readURL(url) {
 
     } else {
       var name = url.substr(index + 1,url.length);
-      changePage('ajax/' + name + '.html', name);
+      changePage('ajax/' + name + '.html', name, true);
     } 
   } else {
-    changePage('ajax/home.html', "Home");
+    changePage('ajax/home.html', "Home", true);
   }
 }
 
 // change page function
 //
-function changePage(url, title) {
+function changePage(url, title, shouldPushState) {
   $('article').load(url);
-  window.history.pushState({
-    title: title,
-    url: url
-  }, title, "#" + url.match(/(?:ajax\/)(.*)(?:\.html)/)[1]);
+  if (shouldPushState) {
+    window.history.pushState({
+      title: title,
+      url: url
+    }, title, "#" + url.match(/(?:ajax\/)(.*)(?:\.html)/)[1]);
+  }
+  $('main').attr('id', url.match(/(?:ajax\/)(.*)(?:\.html)/)[1]);
 }
 
 // function getURLFrom
 //
 window.onpopstate = function(e){
   animateChange(e.state.title, function() {
+
     if (e.state.url) {
-      $('article').load(e.state.url);
+      changePage(e.state.url, e.state.title, false);
     } else if (e.state.bookId) {
       if (e.state.mode == WEB_VIEW) {
         loadBookWeb(e.state.bookId, false);
@@ -210,7 +214,7 @@ $(document).on('click', 'a', function (e) {
     // If it's a menu link
     if ($(e.target).hasClass('menu-link') && window.matchMedia('(max-width: 768px)').matches) {
       // Load page
-      changePage(e.target.href, title);
+      changePage(e.target.href, title, true);
       $('.mobile-nav').removeAttr('style');
       $('body').removeClass('show');
 
@@ -219,7 +223,7 @@ $(document).on('click', 'a', function (e) {
       var title = e.target.getAttribute("data-title");
 
       animateChange(title, function() {
-        window.changePage(e.target.href, title);
+        window.changePage(e.target.href, title, true);
       });
     }
     return;
