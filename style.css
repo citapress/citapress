@@ -296,11 +296,13 @@ article {
   font-size: 1.1rem;
   line-height: 1.4rem;
   font-weight: 300;
-}
+} 
 
 article #books {
   line-height: 1.8rem;
 }
+
+
 
 article .video {
   width: 100%;
@@ -348,6 +350,12 @@ article .mini-title {
 article .books {
   padding-top: 10px;
   margin-right: -2%;
+}
+
+article .books::after {
+  content: "";
+  clear: both;
+  display: block;
 }
 
 article .books a {
@@ -540,6 +548,10 @@ a.big-button {
   text-decoration: none;
   margin: 5px 0;
   display: inline-block;
+}
+
+a.make-book {
+  display: none;
 }
 
 @media screen and (min-width: 768px) {
@@ -769,6 +781,14 @@ a.big-button {
 
   #book-front .read-links a {
     margin: 5px;
+  }
+
+  a.make-book {
+    display: inline-block;
+    float: right;
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 5px 10px;
   }
 }
 

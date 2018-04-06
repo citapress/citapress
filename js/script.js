@@ -148,9 +148,9 @@ function loadBookWeb(book, shouldPushState) {
   $.getJSON( "js/books.json", function( data ) {
     $('article').load("ajax/books/web.html", function() {
 
-      $('#book-web-content').load(data[book]["html-content"], function() {
-        console.log("done");
+      $('a#read-print').attr("href", "print#" + book);
 
+      $('#book-web-content').load(data[book]["html-content"], function() {
         if (shouldPushState) {
           window.history.pushState({
             bookId: book,
