@@ -246,6 +246,7 @@ body #section-title {
   font-size: 2em;
   position: fixed;
   top: 50%;
+  height: 2em;
   line-height: 2em;
   left: 50%;
   transform: translate(-50%, -50%);
