@@ -1,4 +1,10 @@
 
+// Disable auto scroll restoration on chrome 43 onwards
+if ('scrollRestoration' in history) {
+  // Back off, browser, I got this...
+  history.scrollRestoration = 'manual';
+}
+
 // Constants for dealing with dynamic book links
 const FRONT_VIEW = "FRONT";
 const WEB_VIEW   = "WEB";
@@ -33,9 +39,13 @@ function readURL(url) {
 }
 
 // change page function
+// loadCallback can be null
 //
 function changePage(url, title, shouldPushState) {
-  $('article').load(url);
+  $('article').load(url, function() {
+    window.scrollTo(0, 0);
+  });
+
   if (shouldPushState) {
     window.history.pushState({
       title: title,
@@ -108,6 +118,9 @@ function loadBooks() {
 function loadBookFront(book, shouldPushState) {
   $.getJSON( "js/books.json", function( data ) {
     $('article').load("ajax/books/front.html", function() {
+      // Fix for scroll restoration
+      window.scrollTo(0, 0);
+
       var title = data[book]["title"];
 
       if (shouldPushState) {
@@ -147,6 +160,13 @@ function loadBookWeb(book, shouldPushState) {
   console.log(book)
   $.getJSON( "js/books.json", function( data ) {
     $('article').load("ajax/books/web.html", function() {
+
+      // Save state
+      if (typeof(Storage) !== "undefined") {
+          // Code for localStorage/sessionStorage.
+      } else {
+          // Sorry! No Web Storage support..
+      }
 
       $('a#read-print').attr("href", "print#" + book);
 
@@ -228,4 +248,29 @@ $(document).on('click', 'a', function (e) {
     }
     return;
   }
+});
+
+$(document).ready(function() {
+  var val = HighlightShare({
+      selector: '#book-web-content',
+      sharers: [HighlightShareViaFacebook, HighlightShareViaTwitter, HighlightShareViaEmail, HighlightShareViaCopy]
+  });
+  val.init();
+  console.log(HighlightShareViaFacebook);
+
+});
+
+// $var p = $( "p:first" );
+// $( "p:last" ).text( "scrollTop:" + p.scrollTop() );
+
+$(document).on( 'scroll', function(){
+  var total = $(document).height() - window.innerHeight;
+  var position = $(document).scrollTop();
+
+
+  var barHeight = $("#progress-bar").height() - 20;
+  var progress = position / total;
+
+  $("#progress-indicator").css("margin-top", progress * barHeight );
+  $("#progress-indicator > span").text(Math.round(progress * 100) + "%");
 });

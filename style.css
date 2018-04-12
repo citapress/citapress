@@ -211,7 +211,6 @@ body.hide main {
   overflow: hidden;
 }
 
-
 body.hide {
   overflow: hidden;
 }
@@ -557,7 +556,7 @@ a.make-book {
 
 @media screen and (min-width: 768px) {
   body {
-    padding-top: 90px;
+    /*padding-top: 90px;*/
   }
 
   header {
@@ -651,6 +650,10 @@ a.make-book {
     clear: both;
     /*position: fixed;*/
     /*bottom: 40px;*/
+  }
+
+  main {
+    padding-top: 90px;
   }
 
   main:after {
@@ -786,14 +789,48 @@ a.make-book {
 
   a.make-book {
     display: inline-block;
+    /*height: 50px;*/
     float: right;
     text-decoration: none;
     border: 2px solid black;
     padding: 5px 10px;
   }
+
+  #book-web-content {
+    padding-right: 110px;
+  }
+
+  #progress-bar-wrapper {
+    position:absolute;
+    right: 20px;
+    top: 70px;
+  }
+  
+  #progress-bar {
+    position:fixed;
+    background-color: white;
+    border: 2px solid black;
+    height: 70vh;
+    width: 20px;
+  }
+
+  #progress-indicator {
+    width: 100%;
+    height: 20px;
+    background-color: black;
+    position: relative;
+  }
+
+  #progress-indicator > span {
+    display: inline-block;
+    position: absolute;
+    right: 30px;
+    text-align: right;
+    bottom: -9px;
+  }
 }
 
-@media screen and (min-width: 1439px) {
+@media screen and (min-width: 1300px) {
 
   main {
     max-width: 1300px;
