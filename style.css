@@ -257,6 +257,7 @@ body #section-title {
   text-transform: capitalize;
 
   transition: width 0.4s ease-in-out 0.3s;
+  /*transition: opacity 0.1s ease-in-out 0.3s;*/
 }
 
 body #section-title:after {
@@ -265,12 +266,12 @@ body #section-title:after {
 
 body.hide #section-title {
   opacity: 1;
-  width: 90%;
+  width: 100%;
 }
 
 body.unhide #section-title {
   opacity: 0;
-  /*width: 0%;*/
+  width: 0%;
   transition: all 0.2s linear 0.2s;
 }
 
@@ -554,6 +555,10 @@ a.make-book {
   display: none;
 }
 
+#progress-bar-wrapper {
+  display: none;
+}
+
 @media screen and (min-width: 768px) {
   body {
     /*padding-top: 90px;*/
@@ -669,6 +674,14 @@ a.make-book {
 
   body #section-title {
     color: black;
+  }
+
+  body.hide #section-title {
+    width: 50%;
+  }
+
+  body.unhide #section-title {
+    width: 0%;
   }
 
   #books-home {
@@ -801,6 +814,7 @@ a.make-book {
   }
 
   #progress-bar-wrapper {
+    display: block;
     position:absolute;
     right: 20px;
     top: 70px;

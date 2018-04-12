@@ -256,13 +256,11 @@ $(document).ready(function() {
       sharers: [HighlightShareViaFacebook, HighlightShareViaTwitter, HighlightShareViaEmail, HighlightShareViaCopy]
   });
   val.init();
-  console.log(HighlightShareViaFacebook);
 
 });
 
-// $var p = $( "p:first" );
-// $( "p:last" ).text( "scrollTop:" + p.scrollTop() );
 
+// Scroll progress
 $(document).on( 'scroll', function(){
   var total = $(document).height() - window.innerHeight;
   var position = $(document).scrollTop();
