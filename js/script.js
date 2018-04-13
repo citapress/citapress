@@ -298,7 +298,7 @@ $(document).on( 'scroll', function(){
 
   var barHeight = $("#progress-bar").height() - 20;
   var progress = position / total;
-  var value = progress == null ? "" : Math.round(progress * 100);
+  var value = !isNaN(progress) ? Math.round(progress * 100) : 0;
 
   $("#progress-indicator").css("margin-top", progress * barHeight );
   $("#progress-indicator > span").text( value + "%");
