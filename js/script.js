@@ -249,10 +249,11 @@ $(document).on('click', 'a', function (e) {
     // If it's a menu link
     if ($(e.target).hasClass('menu-link') && window.matchMedia('(max-width: 768px)').matches) {
       // Load page
-      changePage(e.target.href, title, true);
-      $('.mobile-nav').removeAttr('style');
-      $('body').removeClass('show');
-
+      changePage(e.target.href, title, true, function() {
+        $('.mobile-nav').removeAttr('style');
+        $('body').removeClass('show');
+      });
+      
     } else { // If it's a non-menu link
 
       var title = e.target.getAttribute("data-title");
