@@ -569,6 +569,10 @@ main#credits li {
   list-style: square;
 }
 
+#coming-soon {
+  display: none;
+}
+
 @media screen and (min-width: 768px) {
   body {
     /*padding-top: 90px;*/
