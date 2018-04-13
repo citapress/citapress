@@ -59,25 +59,6 @@ function changePage(url, title, shouldPushState, callback) {
   });
 }
 
-// function getURLFrom
-//
-window.onpopstate = function(e){
-  animateChange(e.state.title, function(callback) {
-
-    if (e.state.url) {
-      changePage(e.state.url, e.state.title, false, callback);
-    } else if (e.state.bookId) {
-      if (e.state.mode == WEB_VIEW) {
-        loadBookWeb(e.state.bookId, false, callback);
-      } else if (e.state.mode == FRONT_VIEW) {
-        loadBookFront(e.state.bookId, false, callback);
-      }
-    }
-  });
-  
-};
-
-
 // animates a change of page
 // todo is a function of the form todo(callback) where callback
 // should be called when all content is loaded properly
@@ -200,6 +181,23 @@ function loadBookWeb(book, shouldPushState, callback) {
   });
 };
 
+// on-popstate
+//
+window.onpopstate = function(e){
+  animateChange(e.state.title, function(callback) {
+
+    if (e.state.url) {
+      changePage(e.state.url, e.state.title, false, callback);
+    } else if (e.state.bookId) {
+      if (e.state.mode == WEB_VIEW) {
+        loadBookWeb(e.state.bookId, false, callback);
+      } else if (e.state.mode == FRONT_VIEW) {
+        loadBookFront(e.state.bookId, false, callback);
+      }
+    }
+  });
+};
+
 // on-click
 //
 $(document).on('click', 'a', function (e) {
@@ -238,16 +236,28 @@ $(document).on('click', 'a', function (e) {
     // if it's a normal tag anchor link within the same page
     var hash = e.target.href.match(/(?:#)((\w)*)/);
     if (hash != null) {
-      $('html, body').animate({
-        scrollTop: $("#" + hash[1]).offset().top - 100
-      }, 800);
+      if (hash[0] == "#") {
+        var targetOffset = $(e.target).offset();
+        targetOffset.top = targetOffset.top - 20;
+
+        $('#coming-soon').css('display', 'inline-block');
+        $('#coming-soon').css('opacity', 1);
+
+        $('#coming-soon').offset(targetOffset);
+        $('#coming-soon').animate({ opacity: 0 }, 500);
+      } else {
+        $('html, body').animate({
+          scrollTop: $("#" + hash[1]).offset().top - 100
+        }, 800);
+      }
       return;
     }
 
     var title = e.target.getAttribute("data-title");
 
     // If it's a menu link
-    if ($(e.target).hasClass('menu-link') && window.matchMedia('(max-width: 768px)').matches) {
+    if ($(e.target).hasClass('menu-link') &&
+        window.matchMedia('(max-width: 768px)').matches) {
       // Load page
       changePage(e.target.href, title, true, function() {
         $('.mobile-nav').removeAttr('style');
@@ -266,8 +276,9 @@ $(document).on('click', 'a', function (e) {
   }
 });
 
-
-// Enable highlight sharing on page load
+// on-load
+// enables highlight sharing on page load
+//
 $(document).ready(function() {
   var val = HighlightShare({
       selector: '#book-web-content',
@@ -277,7 +288,9 @@ $(document).ready(function() {
 });
 
 
-// Scroll progress
+// on-scroll
+// displays a reading marker on book view
+//
 $(document).on( 'scroll', function(){
   var total = $(document).height() - window.innerHeight;
   var position = $(document).scrollTop();
@@ -285,7 +298,8 @@ $(document).on( 'scroll', function(){
 
   var barHeight = $("#progress-bar").height() - 20;
   var progress = position / total;
+  var value = progress == null ? "" : Math.round(progress * 100);
 
   $("#progress-indicator").css("margin-top", progress * barHeight );
-  $("#progress-indicator > span").text(Math.round(progress * 100) + "%");
+  $("#progress-indicator > span").text( value + "%");
 });
