@@ -39,34 +39,38 @@ function readURL(url) {
 }
 
 // change page function
-// loadCallback can be null
 //
-function changePage(url, title, shouldPushState) {
+function changePage(url, title, shouldPushState, callback) {
   $('article').load(url, function() {
     window.scrollTo(0, 0);
-  });
 
-  if (shouldPushState) {
-    window.history.pushState({
-      title: title,
-      url: url
-    }, title, "#" + url.match(/(?:ajax\/)(.*)(?:\.html)/)[1]);
-  }
-  $('main').attr('id', url.match(/(?:ajax\/)(.*)(?:\.html)/)[1]);
+    if (shouldPushState) {
+      window.history.pushState({
+        title: title,
+        url: url
+      }, title, "#" + url.match(/(?:ajax\/)(.*)(?:\.html)/)[1]);
+    }
+
+    $('main').attr('id', url.match(/(?:ajax\/)(.*)(?:\.html)/)[1]);
+
+    if (callback != null) {
+      callback();
+    }
+  });
 }
 
 // function getURLFrom
 //
 window.onpopstate = function(e){
-  animateChange(e.state.title, function() {
+  animateChange(e.state.title, function(callback) {
 
     if (e.state.url) {
-      changePage(e.state.url, e.state.title, false);
+      changePage(e.state.url, e.state.title, false, callback);
     } else if (e.state.bookId) {
       if (e.state.mode == WEB_VIEW) {
-        loadBookWeb(e.state.bookId, false);
+        loadBookWeb(e.state.bookId, false, callback);
       } else if (e.state.mode == FRONT_VIEW) {
-        loadBookFront(e.state.bookId, false);
+        loadBookFront(e.state.bookId, false, callback);
       }
     }
   });
@@ -75,6 +79,8 @@ window.onpopstate = function(e){
 
 
 // animates a change of page
+// todo is a function of the form todo(callback) where callback
+// should be called when all content is loaded properly
 //
 function animateChange(title, todo) {
   var alreadyHidden = false;
@@ -87,14 +93,17 @@ function animateChange(title, todo) {
       alreadyHidden = true;
 
       // Do what we need to do
-      todo();
-      $('body').addClass('unhide');
+      // Send a callback to the function
+      // Higher order functions yay!
+      todo(function() {
+        $('body').addClass('unhide');
 
-      // Remove unnecessary classes after 0.4 seconds
-      setTimeout(function(){
-        $('body').removeClass('hide');
-        $('body').removeClass('unhide');
-      }, 600);
+        // Remove unnecessary classes after 0.4 seconds
+        setTimeout(function(){
+          $('body').removeClass('hide');
+          $('body').removeClass('unhide');
+        }, 600);
+      });
     }
   });
 };
@@ -115,9 +124,10 @@ function loadBooks() {
 
 // load book front
 //
-function loadBookFront(book, shouldPushState) {
+function loadBookFront(book, shouldPushState, callback) {
   $.getJSON( "js/books.json", function( data ) {
     $('article').load("ajax/books/front.html", function() {
+
       // Fix for scroll restoration
       window.scrollTo(0, 0);
 
@@ -136,6 +146,10 @@ function loadBookFront(book, shouldPushState) {
       $.each( data[book], function( key, val ) {
         $("#" + key).html(data[book][key]);
       });
+
+      if (callback != null) {
+        callback();
+      }
     });
   });
 };
@@ -156,8 +170,7 @@ function loadBookPrint(book) {
 
 // load book in Web reading version
 //
-function loadBookWeb(book, shouldPushState) {
-  console.log(book)
+function loadBookWeb(book, shouldPushState, callback) {
   $.getJSON( "js/books.json", function( data ) {
     $('article').load("ajax/books/web.html", function() {
 
@@ -180,6 +193,9 @@ function loadBookWeb(book, shouldPushState) {
         }
       });
 
+      if (callback != null) {
+        callback();
+      }
     });
   });
 };
@@ -192,8 +208,8 @@ $(document).on('click', 'a', function (e) {
   if ($(e.target).hasClass("book-link")) {
     e.preventDefault();
     var title = e.target.getAttribute("data-title");
-    animateChange(title, function() {
-      loadBookFront(e.target.id, true);
+    animateChange(title, function(callback) {
+      loadBookFront(e.target.id, true, callback);
     });
     return;
   }
@@ -206,8 +222,8 @@ $(document).on('click', 'a', function (e) {
 
     if ($(e.target).is("#read-web")) {
       e.preventDefault();
-      animateChange("Read online", function() {
-        loadBookWeb(bookName, true);
+      animateChange("Read online", function(callback) {
+        loadBookWeb(bookName, true, callback);
       });
       return;
     } else if ($(e.target).is("#read-print")) {
@@ -220,9 +236,8 @@ $(document).on('click', 'a', function (e) {
     e.preventDefault();
 
     // if it's a normal tag anchor link within the same page
-    var hash = e.target.href.match(/(?:#)((\w)+)/);
+    var hash = e.target.href.match(/(?:#)((\w)*)/);
     if (hash != null) {
-      console.log("yay");
       $('html, body').animate({
         scrollTop: $("#" + hash[1]).offset().top - 100
       }, 800);
@@ -242,21 +257,22 @@ $(document).on('click', 'a', function (e) {
 
       var title = e.target.getAttribute("data-title");
 
-      animateChange(title, function() {
-        window.changePage(e.target.href, title, true);
+      animateChange(title, function(callback) {
+        window.changePage(e.target.href, title, true, callback);
       });
     }
     return;
   }
 });
 
+
+// Enable highlight sharing on page load
 $(document).ready(function() {
   var val = HighlightShare({
       selector: '#book-web-content',
       sharers: [HighlightShareViaFacebook, HighlightShareViaTwitter, HighlightShareViaEmail, HighlightShareViaCopy]
   });
   val.init();
-
 });
 
 
