@@ -58,6 +58,10 @@ main {
   display: block; 
 }
 
+b {
+  font-weight: 600;
+}
+
 *, *:before, *:after {
   box-sizing: border-box;
 }
@@ -557,6 +561,12 @@ a.make-book {
 
 #progress-bar-wrapper {
   display: none;
+}
+
+main#credits li {
+  margin-bottom: 5px;
+  margin-left: 20px;
+  list-style: square;
 }
 
 @media screen and (min-width: 768px) {
