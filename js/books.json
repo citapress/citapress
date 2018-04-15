@@ -4,11 +4,35 @@
     "author": "Charlotte Perkins Gilman",
     "book-paragraph": "Charlotte Perkins Gilman’s “The Yellow Wall-Paper” (1892) holds an important place among rediscovered works by turn-of-the-century American women writers for its bold critique of gender politics in a patriarchal society. The nameless narrator, undergoing the infamous rest cure for what doctors now diagnose as postpartum depression, experiences debilitating psychological effects.  At first repulsed by the wallpaper in the room where she is sequestered in a country estate, the narrator comes to like it as she vows to decodes its pattern—she imagines many women creeping behind bars and identifies with one trapped woman, arguably a reflection of her painful position as a woman in Victorian America. Many of the story’s first readers considered it a psychological horror tale in the fashion of Poe.",
     "blue-info1": "Foreword: Catherine J. Golden, PhD. - Professor of English and The Tisch Chair in Arts and Letters, Skidmore College",
-    "blue-info2": "Cover: <a href=http://laurasavina.com>Laura Savina</a> - Italian illustrator and tap dance student.",
+    "blue-info2": "Cover: <a href='http://laurasavina.com'>Laura Savina</a> - Italian illustrator and tap dance student.",
 
     "html-content": "ajax/books/content/yellowwallpaper.html",
     "square-thumbnail": "assets/yellowwallpaper.png",
     "cover-image": "assets/cover-yellowwallpaper.jpg"
+  },
+
+  "the-awakening": {
+    "title": "The Awakening",
+    "author": "Kate Chopin",
+    "book-paragraph": "Passion’s necessity may be one of the lessons we can take from Chopin’s controversial text, but certainly it is not the only lesson. The novel emerged from obscurity like a different kind of storm: taking the literary world to new heights and awareness of what women writers could do.",
+    "blue-info1": "Foreword: Heather Ostman, PhD - President, Kate Chopin International Society",
+    "blue-info2": "Cover: <a href='jiwonpark.kr'>Jiwon Park</a> - Graphic designer, educator, and social entrepreneur, living and working in Austin and Seoul.",
+
+    "html-content": "ajax/books/content/theawakening.html",
+    "square-thumbnail": "assets/theawakening.png",
+    "cover-image": "assets/cover-the-awakening.png"
+  },
+
+  "on-the-equality-of-the-sexes": {
+    "title": "On the Equality of the Sexes",
+    "author": "Judith Sargent Murray",
+    "book-paragraph": "Charlotte Perkins Gilman’s “The Yellow Wall-Paper” (1892) holds an important place among rediscovered works by turn-of-the-century American women writers for its bold critique of gender politics in a patriarchal society. The nameless narrator, undergoing the infamous rest cure for what doctors now diagnose as postpartum depression, experiences debilitating psychological effects.  At first repulsed by the wallpaper in the room where she is sequestered in a country estate, the narrator comes to like it as she vows to decodes its pattern—she imagines many women creeping behind bars and identifies with one trapped woman, arguably a reflection of her painful position as a woman in Victorian America. Many of the story’s first readers considered it a psychological horror tale in the fashion of Poe.",
+    "blue-info1": "Foreword: Bonnie J. Smith - President, Judith Sargent Murray Society",
+    "blue-info2": "Cover: Natalia Rojas - Colombian artist and illustrator",
+
+    "html-content": "ajax/books/content/ontheequalityofthesexes.html",
+    "square-thumbnail": "assets/ontheequality.png",
+    "cover-image": "assets/cover-on-the-equality.png"
   }
 
 }

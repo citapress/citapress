@@ -128,6 +128,8 @@ function loadBookFront(book, shouldPushState, callback) {
         $("#" + key).html(data[book][key]);
       });
 
+      $("#cover-img").attr("src", data[book]["cover-image"]);
+
       if (callback != null) {
         callback();
       }
