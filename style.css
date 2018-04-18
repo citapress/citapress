@@ -99,7 +99,7 @@ header h1 a {
   text-decoration: none;
 }
 
-header h1 a:active {
+header h1 a:active, header h1 a:visited {
   color: white;
 }
 
