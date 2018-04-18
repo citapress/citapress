@@ -121,12 +121,19 @@ function loadBookFront(book, shouldPushState, callback) {
           title: title
         }, title, "#books/" + book);
       }
-
-      $('a#read-print').attr("href", "print#" + book)
       
       $.each( data[book], function( key, val ) {
         $("#" + key).html(data[book][key]);
       });
+
+      // If there's a book file, change links, otherwise show conming soon
+      if (data[book]["html-content"] !== "#" && data[book]["html-content"] !== "") {
+        $('a#read-print').attr("href", "print#" + book)
+      } else {
+        $('a#read-print').attr('href', '#');
+        $('a#read-print').removeAttr('id');
+        $('a#read-web').removeAttr('id');
+      }
 
       $("#cover-img").attr("src", data[book]["cover-image"]);
 

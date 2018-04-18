@@ -33,6 +33,30 @@
     "html-content": "ajax/books/content/ontheequalityofthesexes.html",
     "square-thumbnail": "assets/ontheequality.png",
     "cover-image": "assets/cover-on-the-equality.png"
+  },
+
+  "silly-novels": {
+    "title": "Silly Novels by Silly Lady Novelists",
+    "author": "Mary Anne Evans",
+    "book-paragraph": "In “Silly Novels by Silly Lady Novelists” the author criticises the majority of novels written by and for women, claiming that their triviality and disregard for reality hurt for the cause of women’s education. This essay was published anonymously in the Westminster Review in 1856, and was Evans’ first publication, right before before adopting the pen name for which she would become known: George Eliot.",
+    "blue-info1": "Foreword: Carol H. MacKay, PhD - Professor of English, University Distinguished Teaching Professor, The University of Texas at Austin",
+    "blue-info2": "Cover: <a href='jeanyangdesign.com'>Jean Yang</a> - Visual and product designer",
+
+    "html-content": "#",
+    "square-thumbnail": "assets/sillynovels.png",
+    "cover-image": "assets/cover-silly-novels.png"
+  },
+
+  "the-beautiful": {
+    "title": "The Beautiful",
+    "author": "Violet Paget",
+    "book-paragraph": "I have tried in this little volume to explain aesthetic preference, particularly as regards visible shapes, by the facts of mental science. But my explanation is addressed to readers in whom I have no right to expect a previous knowledge of psychology, particularly in its more modern developments. I have therefore based my explanation of the problems of aesthetics as much as possible upon mental facts familiar, or at all events easily intelligible, to the lay reader.",
+    "blue-info1": "Preface by the author, Violet Paget, a.k.a Vernon Lee.",
+    "blue-info2": "Cover: Juliana Castro, Colombian graphic designer and art director",
+
+    "html-content": "#",
+    "square-thumbnail": "assets/thebeautiful.png",
+    "cover-image": "assets/cover-the-beautiful.png"
   }
 
 }
