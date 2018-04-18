@@ -200,6 +200,18 @@ window.onpopstate = function(e){
   });
 };
 
+// mouse functions to enable gifs
+//
+$(document).on('mousemove', function(e){
+  $('span.gif-link > img').offset({left: e.pageX + 10, top: e.pageY + 10});
+});
+
+$(document).on('mouseenter','span.gif-link', function (event) {
+  $(event.target.children[0]).css('opacity', 1);
+}).on('mouseleave','span.gif-link', function() {
+  $('span.gif-link > img').css('opacity', 0);
+});
+
 // on-click
 //
 $(document).on('click', 'a', function (e) {
