@@ -114,7 +114,7 @@ header h1:after {
 }
 
 .show header h1:after {
-  transform: translate(-75px, -5px) ;
+  transform: translate(-78px, -5px) ;
   font-size: 2.5rem;
 
   padding-right: 100px;
