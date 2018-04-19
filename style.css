@@ -307,19 +307,6 @@ article #books {
   line-height: 1.8rem;
 }
 
-
-
-article .video {
-  width: 100%;
-  height: 100px;
-  background-color: #C6FDFE;
-  margin-bottom: 20px;
-  background-image: url(./assets/video.png);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: 80px;
-}
-
 article p, #book-paragraph {
   margin-top: 20px;
   margin-bottom: 20px;
@@ -577,6 +564,20 @@ span.gif-link > img {
   display: none;
 }
 
+.video {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  /*padding-top: 25px;*/
+  height: 0;
+}
+.video iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 @media screen and (min-width: 768px) {
   body {
     /*padding-top: 90px;*/
@@ -768,11 +769,6 @@ span.gif-link > img {
   footer div.top span:after {
     content: '//';
     padding: 0 5px 0 8px;
-  }
-
-  div.video {
-    height: 400px;
-    background-size: 200px;
   }
 
   article > h1 {
