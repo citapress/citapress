@@ -578,6 +578,15 @@ span.gif-link > img {
   height: 100%;
 }
 
+.blue {
+  color: #3634FB;
+  font-weight: 500;
+}
+
+i {
+  font-style: italic !important;
+}
+
 @media screen and (min-width: 768px) {
   body {
     /*padding-top: 90px;*/
