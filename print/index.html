@@ -13,12 +13,43 @@
   <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
   <script type="text/json" src="../js/books.json"></script>
   <script type="text/javascript" src="../lib/bindery.min.js"></script>
-  <script type="text/javascript" src="../js/script.js"></script>
+  <script type="text/javascript" src='../lib/bindery-controls.min.js'></script>
+
+  <style type="text/css">
+    figure {
+      margin: 0;
+      width: 100%;
+      height: 100%;
+      position: relative;
+      background: #eee;
+    }
+
+    figure img {
+      height: 100%;
+      width: 100%;
+    }
+  </style>
+
+  <!-- <script type="text/javascript" src="../js/script.js"></script> -->
 </head>
+
 
 <body>
   <script type="text/javascript">
-    loadBookPrint(window.location.hash);
+    console.log(BinderyControls);
+    let book = window.location.hash;
+    $.getJSON( "../js/books.json", function( data ) {
+      Bindery.makeBook({
+        content: {
+          selector: '#book-html-content',
+          url: "../" + data[book.substr(1,book.length)]["html-content"]
+        },
+        ControlsComponent: BinderyControls,
+        rules: [
+          Bindery.FullBleedPage({ selector: '.fullpage' })
+        ]
+      });
+    });
   </script>
 </body>
 
