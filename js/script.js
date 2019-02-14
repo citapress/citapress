@@ -240,6 +240,7 @@ $(document).on('click', 'a', function (e) {
     var fontSize = parseInt($("#book-html-content p").css("font-size"));
     fontSize = fontSize + 1 + "px";
     $("#book-html-content p").css({'font-size':fontSize});
+    return;
   }
 
   // If it's a books web or books print link inside the page
