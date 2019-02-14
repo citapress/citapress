@@ -866,14 +866,19 @@ i {
     padding: 5px 10px;
   }
 
-  a.font-size {
+  div.font-button {
+    margin-left: 30px;
+    position: fixed;
+  }
+
+  div.font-button a.font-size {
     display: inline-block;
-    /*height: 50px;*/
-    float: right;
     text-decoration: none;
+    font-weight: 900;
+    width: 35px;
+    text-align: center;
     border: 2px solid black;
-    padding: 5px 10px;
-    margin-right: 2px;
+    margin-bottom: 5px;
   }
 
   #book-web-content {

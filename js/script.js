@@ -238,7 +238,12 @@ $(document).on('click', 'a', function (e) {
     e.preventDefault();
 
     var fontSize = parseInt($("#book-html-content p").css("font-size"));
-    fontSize = fontSize + 1 + "px";
+    if ($(e.target).hasClass("plus")) {
+      fontSize = fontSize + 1 + "px";
+    } else {
+      fontSize = fontSize - 1 + "px";
+    }
+    
     $("#book-html-content p").css({'font-size':fontSize});
     return;
   }
