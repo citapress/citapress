@@ -866,6 +866,16 @@ i {
     padding: 5px 10px;
   }
 
+  a.font-size {
+    display: inline-block;
+    /*height: 50px;*/
+    float: right;
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 5px 10px;
+    margin-right: 2px;
+  }
+
   #book-web-content {
     padding-right: 110px;
   }
@@ -947,7 +957,7 @@ i {
 #book-html-content p {
   margin: 20px 0;
   font-size: 14px;
-  line-height: 23px;
+  /*line-height: 23px;*/
 }
 
 #book-html-content img {

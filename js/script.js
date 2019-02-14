@@ -233,6 +233,15 @@ $(document).on('click', 'a', function (e) {
     return;
   }
 
+  // If it's a book link inside the page
+  if ($(e.target).hasClass("font-size")) {
+    e.preventDefault();
+
+    var fontSize = parseInt($("#book-html-content p").css("font-size"));
+    fontSize = fontSize + 1 + "px";
+    $("#book-html-content p").css({'font-size':fontSize});
+  }
+
   // If it's a books web or books print link inside the page
   var suffix = '#books/';
   var indexBooks = document.URL.lastIndexOf(suffix);
