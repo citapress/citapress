@@ -4,11 +4,11 @@ A dynamic website for **Cita**, a feminist open-source digital library publishin
 
 :)
 
-## Welcome🐣 
+## Welcome 🐣 
 
 Thank you for your interest in Cita. Here you’ll find how to contribute, suggest, reproduce. There are many ways of helping. Please take a look at this document, and if you still have some questions, [reach out](mailto://citabooks@gmail.com). 👀
 
-💻 **For developers and experience designers:** You’llfat our How-to-Contribute guidelines and our issues. Feel free to suggest things that you think would improve Cita’s UX/UI experience, but don’t file an issue to ask a question. 
+💻 **For developers and experience designers:** You’ll find our [How-to-Contribute](#) guidelines and our issues. Feel free to suggest things that you think would improve Cita’s UX/UI experience, but don’t file an issue to ask a question. 
 
 🖍 **For artists, illustrators and graphic designers:** Here’s the current list of books we are working on or considering working on. If you think you can make the cover for one of these books or want to suggest a new book, e-mail us. / Tender Buttons / The Incidents in the Live of a Slave Girl / La Voz de la Mujer
 
