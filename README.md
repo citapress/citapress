@@ -1,6 +1,6 @@
-# citapress
+# Cita
 
-A dynamic website for **Cita**, a feminist open-source digital library publishing books by women. 💪🏻
+A dynamic website for [**Cita Press**](https://citapress.org], a feminist open-source digital library publishing books by women. 💪🏻
 
 :)
 
