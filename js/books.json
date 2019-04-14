@@ -69,6 +69,18 @@
     "html-content": "#",
     "square-thumbnail": "assets/behindamask.png",
     "cover-image": "assets/cover-behind-a-mask.png"
-  }
+  },
+
+"incidents": {
+    "title": "Incidents in the Life of a Slave Girl",
+    "author": "Harriet Ann Jacobs",
+    "book-paragraph": "TBD",
+    "blue-info1": "Foreword: TBD",
+    "blue-info2": "Cover: TBD",
+
+    "html-content": "ajax/books/content/incidents.html",
+    "square-thumbnail": "assets/incidents.png",
+    "cover-image": "assets/cover-incidents.png"
+}
 
 }
