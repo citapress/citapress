@@ -6,7 +6,7 @@ A dynamic website for [**Cita Press**](https://citapress.org), a feminist open-s
 
 Thank you for your interest in Cita. Here you’ll find how to contribute, suggest, reproduce. There are many ways to help. Please take a look at this document, and if you still have some questions, [feel free to reach out](mailto://citabooks@gmail.com). 👀
 
-* 💻 **For developers and experience designers:** You’ll find our [How-to-Contribute](#) guidelines and our issues. Feel free to suggest things that you think would improve Cita’s UX/UI experience, but don’t file an issue to ask a question. 
+* 💻 **For developers and experience designers:** You’ll find our [How-to-Contribute](https://github.com/citapress/citapress/blob/master/docs/contribute.md) guidelines and our issues. Feel free to suggest things that you think would improve Cita’s UX/UI experience, but don’t file an issue to ask a question. 
 
 * 🖍 **For artists, illustrators and graphic designers:** Please [head over to our books repository](https://github.com/citapress/books) to see the current list of books we are working on and the work that has to be done for each of them.
 
