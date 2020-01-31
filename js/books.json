@@ -58,17 +58,17 @@
     "square-thumbnail": "assets/thebeautiful.png",
     "cover-image": "assets/cover-the-beautiful.png"
   },
-  
+
   "behind-a-mask": {
     "title": "Behind a Mask",
     "author": "Louisa May Alcott",
-    "book-paragraph": "Behind a Mask, or A Woman's Power is a novella written by American author Louisa May Alcott. The novella was originally published in 1866 under the pseudonym of A. M. Barnard in The Flag of Our Union. Set in Victorian era Britain, the story follows Jean Muir, the deceitful governess of the wealthy Coventry family. With expert manipulation, Jean Muir obtains the love, respect, and eventually the fortune of the Coventry family. (Wikipedia)",
-    "blue-info1": "You could write a foreword for this book. Contact us",
-    "blue-info2": "Lauren Smedley",
+    "book-paragraph": "This novella was first published in 1866 under the pseudonym of A. M. Barnard in The Flag of Our Union. Set in Victorian era Britain, the story follows Jean Muir, the deceitful governess of the wealthy Coventry family. With expert manipulation, Jean Muir obtains the love, respect, and eventually the fortune of the Coventry family.<br/>Since it was republished by Madeleine B. Stern in 1975, the novel has become important in critical reinterpretation of Alcott's corpus of works and literary importance. Many literary critics treat the novel; for example, one critic treated the novel as a version of the \"Beauty and the Beast\" trope, while others provide feminist critiques of the narrative. Alcott's treatment of themes like acting, social class, and the struggle for agency all inform these larger discussions by critics. (Wikipedia)",
+    "blue-info1": "Cover: Lauren Smedley - Graphic designer and museums lover",
+    "blue-info2": "",
 
     "html-content": "#",
     "square-thumbnail": "assets/behindamask.png",
     "cover-image": "assets/cover-behind-a-mask.png"
-  },
-  
+  }
+
 }
