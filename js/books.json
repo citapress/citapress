@@ -69,6 +69,38 @@
     "html-content": "#",
     "square-thumbnail": "assets/behindamask.png",
     "cover-image": "assets/cover-behind-a-mask.png"
-  }
+  },
 
+  "incidents-in-the-life-of-a-slave-girl": {
+    "title": "Incidents in the Life of a Slave Girl",
+    "author": "Harriet Jacobson",
+    "book-paragraph": "Incidents in the Life of a Slave Girl is an autobiography by a young mother and fugitive slave published in 1861 by L. Maria Child, who edited the book for its author, Harriet Ann Jacobs. Jacobs used the pseudonym Linda Brent. The book documents Jacobs' life as a slave and how she gained freedom for herself and for her children. Jacobs contributed to the genre of slave narrative by using the techniques of sentimental novels \"to address race and gender issues.\" She explores the struggles and sexual abuse that female slaves faced on plantations as well as their efforts to practice motherhood and protect their children when their children might be sold away. (Wikipedia)",
+    "blue-info1": "Cover: Thais Jacoponi, Brazilian Designer and Art Director",
+    "blue-info2": "Foreword: It could be you, contact us!",
+    "html-content": "#",
+    "square-thumbnail": "assets/thumbnail-Incidents-new.jpg",
+    "cover-image": "cover-incidents-in-the-life.png"
+  },
+
+  "tender-buttons": {
+    "title": "Tender Buttons",
+    "author": "Gertrude Stein",
+    "book-paragraph": "The thing about Stein, our dear friend Gertrude, is she made a lot of things possible. Changed what language could be, and what grammar could be. Didn’t give a shit about the rules of language and lived with her boo when people really hated lesbians. (Fragment of the foreword by Gabrielle Welsh)",
+    "blue-info1": "Cover: Luce Terrason",
+    "blue-info2": "Foreword: Gabrielle Welsh, Writer, Reader, Editor in Chicago, IL",
+    "html-content": "#",
+    "square-thumbnail": "assets/thumbnail-tender-buttons-new.jpg",
+    "cover-image": "cover-tender-buttons.jpg"
+  },
+
+  "men-women-ghosts": {
+    "title": "Men, Women, and Ghosts",
+    "author": "Amy Lowell",
+    "book-paragraph": "This is a book of stories. For that reason I have excluded all purely lyrical poems. But the word 'stories' has been stretched to its fullest application. It includes both narrative poems, properly so called; tales divided into scenes; and a few pieces of less obvious story-telling import in which one might say that the dramatis personae are air, clouds, trees, houses, streets, and such like things. (Fragment of the Preface by the author)",
+    "blue-info1": "Cover: Annika Leppaaho",
+    "blue-info2": "Preface by the Author",
+    "html-content": "https://www.gutenberg.org/cache/epub/10744/pg10744-images.html",
+    "square-thumbnail": "assets/thumbnail-men-women-new.jpg",
+    "cover-image": "cover-men-women-ghosts.png"
+  },
 }
