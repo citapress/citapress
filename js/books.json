@@ -79,7 +79,7 @@
     "blue-info2": "Foreword: It could be you, contact us!",
     "html-content": "#",
     "square-thumbnail": "assets/thumbnail-Incidents-new.jpg",
-    "cover-image": "cover-incidents-in-the-life.png"
+    "cover-image": "assets/cover-incidents-in-the-life.png"
   },
 
   "tender-buttons": {
@@ -90,7 +90,7 @@
     "blue-info2": "Foreword: Gabrielle Welsh, Writer, Reader, Editor in Chicago, IL",
     "html-content": "#",
     "square-thumbnail": "assets/thumbnail-tender-buttons-new.jpg",
-    "cover-image": "cover-tender-buttons.jpg"
+    "cover-image": "assets/cover-tender-buttons.jpg"
   },
 
   "men-women-ghosts": {
@@ -101,6 +101,6 @@
     "blue-info2": "Preface by the Author",
     "html-content": "https://www.gutenberg.org/cache/epub/10744/pg10744-images.html",
     "square-thumbnail": "assets/thumbnail-men-women-new.jpg",
-    "cover-image": "cover-men-women-ghosts.png"
-  },
+    "cover-image": "assets/cover-men-women-ghosts.png"
+  }
 }
