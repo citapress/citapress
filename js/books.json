@@ -42,7 +42,7 @@
     "blue-info1": "Foreword: Carol H. MacKay, PhD - Professor of English, University Distinguished Teaching Professor, The University of Texas at Austin",
     "blue-info2": "Cover: <a href='jeanyangdesign.com'>Jean Yang</a> - Visual and product designer",
 
-    "html-content": "#",
+    "html-content": "ajax/books/content/sillynovels.html",
     "square-thumbnail": "assets/sillynovels.png",
     "cover-image": "assets/cover-silly-novels.png"
   },
@@ -71,17 +71,6 @@
     "cover-image": "assets/cover-behind-a-mask.png"
   },
 
-  "tender-buttons": {
-    "title": "Tender Buttons",
-    "author": "Gertrude Stein",
-    "book-paragraph": "The thing about Stein, our dear friend Gertrude, is she made a lot of things possible. Changed what language could be, and what grammar could be. Didn’t give a shit about the rules of language and lived with her boo when people really hated lesbians. (Fragment of the foreword by Gabrielle Welsh)",
-    "blue-info1": "Cover: Luce Terrason",
-    "blue-info2": "Foreword: Gabrielle Welsh, Writer, Reader, Editor in Chicago, IL",
-    "html-content": "#",
-    "square-thumbnail": "assets/thumbnail-tender-buttons-new.jpg",
-    "cover-image": "assets/cover-tender-buttons.jpg"
-  },
-
   "men-women-ghosts": {
     "title": "Men, Women, and Ghosts",
     "author": "Amy Lowell",
@@ -102,5 +91,16 @@
     "html-content": "#",
     "square-thumbnail": "assets/thumbnail-Incidents-new.jpg",
     "cover-image": "assets/cover-incidents-in-the-life.png"
+  },
+  
+    "tender-buttons": {
+    "title": "Tender Buttons",
+    "author": "Gertrude Stein",
+    "book-paragraph": "The thing about Stein, our dear friend Gertrude, is she made a lot of things possible. Changed what language could be, and what grammar could be. Didn’t give a shit about the rules of language and lived with her boo when people really hated lesbians. (Fragment of the foreword by Gabrielle Welsh)",
+    "blue-info1": "Cover: Luce Terrason",
+    "blue-info2": "Foreword: Gabrielle Welsh, Writer, Reader, Editor in Chicago, IL",
+    "html-content": "#",
+    "square-thumbnail": "assets/thumbnail-tender-buttons-new.jpg",
+    "cover-image": "assets/cover-tender-buttons.jpg"
   }
 }
