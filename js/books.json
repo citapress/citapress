@@ -54,7 +54,7 @@
     "blue-info1": "Preface by the author, Violet Paget, a.k.a Vernon Lee.",
     "blue-info2": "Cover: Juliana Castro, Colombian graphic designer and art director",
 
-    "html-content": "#",
+    "html-content": "ajax/books/content/thebeautiful.html",
     "square-thumbnail": "assets/thebeautiful.png",
     "cover-image": "assets/cover-the-beautiful.png"
   },
