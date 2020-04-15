@@ -88,7 +88,7 @@
     "book-paragraph": "Incidents in the Life of a Slave Girl is an autobiography by a young mother and fugitive slave published in 1861 by L. Maria Child, who edited the book for its author, Harriet Ann Jacobs. Jacobs used the pseudonym Linda Brent. The book documents Jacobs' life as a slave and how she gained freedom for herself and for her children. Jacobs contributed to the genre of slave narrative by using the techniques of sentimental novels \"to address race and gender issues.\" She explores the struggles and sexual abuse that female slaves faced on plantations as well as their efforts to practice motherhood and protect their children when their children might be sold away. (Wikipedia)",
     "blue-info1": "Cover: Thais Jacoponi, Brazilian Designer and Art Director",
     "blue-info2": "Foreword: It could be you, contact us!",
-    "html-content": "#",
+    "html-content": "ajax/books/content/incidents-slave-girl.html",
     "square-thumbnail": "assets/thumbnail-Incidents-new.jpg",
     "cover-image": "assets/cover-incidents-in-the-life.png"
   },
