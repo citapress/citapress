@@ -102,5 +102,16 @@
     "html-content": "ajax/books/content/tender-buttons.html",
     "square-thumbnail": "assets/thumbnail-tender-buttons-new.jpg",
     "cover-image": "assets/cover-tender-buttons.jpg"
+  },
+  
+    "cypherpunk-women": {
+    "title": "Cypherpunk Women",
+    "author": "Edited by Leigh Cuen",
+    "book-paragraph": "The thing about Stein, our dear friend Gertrude, is she made a lot of things possible. Changed what language could be, and what grammar could be. Didn’t give a shit about the rules of language and lived with her boo when people really hated lesbians. (Fragment of the foreword by Gabrielle Welsh)",
+    "blue-info1": "Cover: Josie Bellini",
+    "blue-info2": "Works by: Soona Amhaz, Saga Arvidsdotter, Josie Bellini, Kiara Bickers, Audrey Chaing, Emily Faria, Janey Gak, Allie Eve Knox, Jordan Kong, Sarah Jamie Lewis, Mir Liponi, Beth McCarthy, Chrissa McFarlane, Lisa Neigut, Norika Kizawa, Chelsea Palmer, Anita Posch, Samantha Radocchia, Hannah Rosenberg, Kokab “Setareh” Shabanipour, Amber Scott, Alena Vranova, Leah Wald, Karima Williams, Joyce Yang, Linda Xie, @Bitcoinstripper, @GlitchesBrew, @Tina_in_Tech, and many more. Contributing editor: Michael McSweeney. Copyedited by Marison Bayona Román. ",
+    "html-content": "#",
+    "square-thumbnail": "assets/thumbnail-cypherpunk-women.png",
+    "cover-image": "assets/cover_cypherpunk-women.png"
   }
 }
