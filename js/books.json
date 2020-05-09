@@ -110,7 +110,7 @@
     "book-paragraph": "LAUNCH: MAY 2020 - The first open source book by women about cryptocurrency and cypherpunk pioneers. It includes a great array of international contributions from bitcoin developers and users, crypto entrepreneurs and community educators. The collection highlights the diversity of people involved with cypherpunk technology, meaning in their own ways they are all using privacy-enhancing technology to promote social change. And yet their motivations and circumstances are all wildly different. The tool enables self-sovereign financial choices, akin to independent birth control or career choices. For women brave enough to trust themselves, the world may now appear ripe for a new type of revolution.",
     "blue-info1": "Cover: Josie Bellini / Copyediting: Marisol Bayona Román",
     "blue-info2": "Works by Soona Amhaz, Saga Arvidsdotter, Josie Bellini, Kiara Bickers, Audrey Chaing, Emily Faria, Janey Gak, Allie Eve Knox, Jordan Kong, Sarah Jamie Lewis, Mir Liponi, Beth McCarthy, Chrissa McFarlane, Lisa Neigut, Norika Kizawa, Chelsea Palmer, Anita Posch, Samantha Radocchia, Hannah Rosenberg, Kokab “Setareh” Shabanipour, Amber Scott, Alena Vranova, Leah Wald, Karima Williams, Joyce Yang, Linda Xie, @Bitcoinstripper, @GlitchesBrew, @Tina_in_Tech, and many more. Contributing editor: Michael McSweeney",
-    "html-content": "#",
+    "html-content": "ajax/books/content/cypherpunk-women.html",
     "square-thumbnail": "assets/thumbnail-cypherpunk-women.png",
     "cover-image": "assets/cover_cypherpunk-women.png"
   }
