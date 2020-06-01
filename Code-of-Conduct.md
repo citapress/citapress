@@ -11,7 +11,8 @@ You can make a personal report by email to info@citapress.org. To file an anonym
 
 
 -----
-
+-----
+-----
 
 # Código de conducta⚖️
 Cita trabaja para crear un espacio seguro y generoso para todas. En aras de fomentar un entorno abierto, nos esforzamos por tratarnos con respeto, dignidad y decencia, y no toleramos ninguna forma de acoso, intimidación, discriminación u hostilidad, independientemente de la identidad y expresión de género, origen, orientación sexual, nacionalidad, raza, etnia, religión, edad, nivel de experiencia, discapacidad o apariencia física.
