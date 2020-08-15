@@ -78,7 +78,7 @@
     "blue-info1": "Cover: Josie Bellini / Copyediting: Marisol Bayona Román",
     "blue-info2": "Works by Soona Amhaz, Saga Arvidsdotter, Josie Bellini, Kiara Bickers, Audrey Chaing, Emily Faria, Janey Gak, Allie Eve Knox, Jordan Kong, Sarah Jamie Lewis, Mir Liponi, Beth McCarthy, Chrissa McFarlane, Lisa Neigut, Norika Kizawa, Chelsea Palmer, Anita Posch, Samantha Radocchia, Hannah Rosenberg, Kokab “Setareh” Shabanipour, Amber Scott, Alena Vranova, Leah Wald, Karima Williams, Joyce Yang, Linda Xie, @Bitcoinstripper, @GlitchesBrew, @Tina_in_Tech, and many more. Contributing editor: Michael McSweeney",
     "html-content": "ajax/books/content/cypherpunk-women.html",
-    "square-thumbnail": "assets/thumbnail-cypherpunk-women.png",
+    "square-thumbnail": "assets/thumbnail-cypherpunk-women.jpg",
     "cover-image": "assets/cover_cypherpunk-women.png"
   }, 
 
@@ -89,7 +89,7 @@
     "blue-info1": "Cover: Thais Jacoponi, Brazilian Designer and Art Director",
     "blue-info2": "Foreword: It could be you, contact us!",
     "html-content": "ajax/books/content/incidents-slave-girl.html",
-    "square-thumbnail": "assets/thumbnail-Incidents-new.jpg",
+    "square-thumbnail": "assets/thumbnail-Incidents.jpg",
     "cover-image": "assets/cover-incidents-in-the-life2.png"
   },
   
@@ -100,7 +100,7 @@
     "blue-info1": "Cover: Luce Terrason",
     "blue-info2": "Foreword: Gabrielle Welsh, Writer, Reader, Editor in Chicago, IL",
     "html-content": "ajax/books/content/tender-buttons.html",
-    "square-thumbnail": "assets/thumbnail-tender-buttons-new.jpg",
+    "square-thumbnail": "assets/thumbnail-tender-buttons.jpg",
     "cover-image": "assets/cover-tender-buttons.jpg"
   },
   
@@ -111,7 +111,7 @@
     "blue-info1": "Cover: Annika Leppaaho",
     "blue-info2": "Preface by the Author",
     "html-content": "ajax/books/content/men-women-ghots.html",
-    "square-thumbnail": "assets/thumbnail-men-women-new.jpg",
+    "square-thumbnail": "assets/thumbnail-men-women.jpg",
     "cover-image": "assets/cover-men-women-ghosts1.png"
   },
   
