@@ -71,15 +71,15 @@
     "cover-image": "assets/cover-behind-a-mask.png"
   },
 
-  "men-women-ghosts": {
-    "title": "Men, Women, and Ghosts",
-    "author": "Amy Lowell",
-    "book-paragraph": "This is a book of stories. For that reason I have excluded all purely lyrical poems. But the word 'stories' has been stretched to its fullest application. It includes both narrative poems, properly so called; tales divided into scenes; and a few pieces of less obvious story-telling import in which one might say that the dramatis personae are air, clouds, trees, houses, streets, and such like things. (Fragment of the Preface by the author)",
-    "blue-info1": "Cover: Annika Leppaaho",
-    "blue-info2": "Preface by the Author",
-    "html-content": "ajax/books/content/men-women-ghots.html",
-    "square-thumbnail": "assets/thumbnail-men-women-new.jpg",
-    "cover-image": "assets/cover-men-women-ghosts1.png"
+"cypherpunk-women": {
+    "title": "Cypherpunk Women",
+    "author": "Edited by Leigh Cuen",
+    "book-paragraph": "The first open source book by women about cryptocurrency and cypherpunk pioneers. It includes a great array of international contributions from bitcoin developers and users, crypto entrepreneurs and community educators. The collection highlights the diversity of people involved with cypherpunk technology, meaning in their own ways they are all using privacy-enhancing technology to promote social change. And yet their motivations and circumstances are all wildly different. The tool enables self-sovereign financial choices, akin to independent birth control or career choices. For women brave enough to trust themselves, the world may now appear ripe for a new type of revolution.",
+    "blue-info1": "Cover: Josie Bellini / Copyediting: Marisol Bayona Román",
+    "blue-info2": "Works by Soona Amhaz, Saga Arvidsdotter, Josie Bellini, Kiara Bickers, Audrey Chaing, Emily Faria, Janey Gak, Allie Eve Knox, Jordan Kong, Sarah Jamie Lewis, Mir Liponi, Beth McCarthy, Chrissa McFarlane, Lisa Neigut, Norika Kizawa, Chelsea Palmer, Anita Posch, Samantha Radocchia, Hannah Rosenberg, Kokab “Setareh” Shabanipour, Amber Scott, Alena Vranova, Leah Wald, Karima Williams, Joyce Yang, Linda Xie, @Bitcoinstripper, @GlitchesBrew, @Tina_in_Tech, and many more. Contributing editor: Michael McSweeney",
+    "html-content": "ajax/books/content/cypherpunk-women.html",
+    "square-thumbnail": "assets/thumbnail-cypherpunk-women.png",
+    "cover-image": "assets/cover_cypherpunk-women.png"
   }, 
 
   "incidents-in-the-life-of-a-slave-girl": {
@@ -104,14 +104,42 @@
     "cover-image": "assets/cover-tender-buttons.jpg"
   },
   
-    "cypherpunk-women": {
-    "title": "Cypherpunk Women",
-    "author": "Edited by Leigh Cuen",
-    "book-paragraph": "The first open source book by women about cryptocurrency and cypherpunk pioneers. It includes a great array of international contributions from bitcoin developers and users, crypto entrepreneurs and community educators. The collection highlights the diversity of people involved with cypherpunk technology, meaning in their own ways they are all using privacy-enhancing technology to promote social change. And yet their motivations and circumstances are all wildly different. The tool enables self-sovereign financial choices, akin to independent birth control or career choices. For women brave enough to trust themselves, the world may now appear ripe for a new type of revolution.",
-    "blue-info1": "Cover: Josie Bellini / Copyediting: Marisol Bayona Román",
-    "blue-info2": "Works by Soona Amhaz, Saga Arvidsdotter, Josie Bellini, Kiara Bickers, Audrey Chaing, Emily Faria, Janey Gak, Allie Eve Knox, Jordan Kong, Sarah Jamie Lewis, Mir Liponi, Beth McCarthy, Chrissa McFarlane, Lisa Neigut, Norika Kizawa, Chelsea Palmer, Anita Posch, Samantha Radocchia, Hannah Rosenberg, Kokab “Setareh” Shabanipour, Amber Scott, Alena Vranova, Leah Wald, Karima Williams, Joyce Yang, Linda Xie, @Bitcoinstripper, @GlitchesBrew, @Tina_in_Tech, and many more. Contributing editor: Michael McSweeney",
-    "html-content": "ajax/books/content/cypherpunk-women.html",
-    "square-thumbnail": "assets/thumbnail-cypherpunk-women.png",
-    "cover-image": "assets/cover_cypherpunk-women.png"
-  }
+    "men-women-ghosts": {
+    "title": "Men, Women, and Ghosts",
+    "author": "Amy Lowell",
+    "book-paragraph": "This is a book of stories. For that reason I have excluded all purely lyrical poems. But the word 'stories' has been stretched to its fullest application. It includes both narrative poems, properly so called; tales divided into scenes; and a few pieces of less obvious story-telling import in which one might say that the dramatis personae are air, clouds, trees, houses, streets, and such like things. (Fragment of the Preface by the author)",
+    "blue-info1": "Cover: Annika Leppaaho",
+    "blue-info2": "Preface by the Author",
+    "html-content": "ajax/books/content/men-women-ghots.html",
+    "square-thumbnail": "assets/thumbnail-men-women-new.jpg",
+    "cover-image": "assets/cover-men-women-ghosts1.png"
+  },
+  
+   "mathilda": {
+	    "title": "Mathilda",
+	    "author": "Mary Shelley",
+	    "book-paragraph": "Mathilda is the second long work of fiction of Mary Wollstonecraft Shelley, author of Frankenstein. It deals with common Romantic themes of incest and suicide. The narrative deals with a father's incestuous love for his daughter. Mathilda has also been seen as an example of redefining female Gothic narratives. An important characteristic of this redefined genre often includes female narrators having more control over the story than was common at the time. According to Kathleen A. Miller, 'Although Shelley's novella appears to relate a conventional female gothic narrative of a young woman victimized by her father's incestuous desire, it leaves open the possibility that, in fact, it is Mathilda, rather than her father, who wields control over the novel's gothic script. This potentially allows for Mathilda to be viewed as a positive role model in nineteenth-century literature as she overcomes paternal authority and refuses to conform to commonly accepted practices regarding female characters in literature of the time'. (Wikipedia)",
+	    "blue-info1": "Cover: Kathy Mueller",
+	    "blue-info2": " ",
+	    "html-content": "#",
+	    "square-thumbnail": "assets/thumbnail-mathilda-new.jpg",
+	    "cover-image": "assets/cover-mathilda.jpg"
+
+	    },
+
+
+	    "poor-clare": {
+	    "title": "The Poor Clare",
+	    "author": "Elizabeth Gaskell",
+	    "book-paragraph": "The Poor Clare is narrated by an unnamed young lawyer from London, reflecting on the 'extraordinary incidents' which he experienced in his youth. The Poor Clare is a gothic ghost story about a young woman unwittingly cursed by her own grandmother. Gaskell's short story was first published in serialized form in 1856 in Charles Dickens' popular weekly magazine Household Words. Despite the male narrator, feminism is another theme in The Poor Clare. Bridget is a powerful woman who confronts the patriarchal establishment through her own powers. She has a 'strong will' and 'strong nature', which enable her to exert control over not just her employers the Starkey family, but the rest of the local population as well. (Wikipedia)",
+	    "blue-info1": "Cover: <a href='http://irinakoryagina.com/'>Irina Koryagina</a>, a graphic designer based in New York",
+	    "blue-info2": " ",
+	    "html-content": "#",
+	    "square-thumbnail": "assets/thumbnail-poor-clare-new.jpg",
+	    "cover-image": "assets/cover-poor-clare.jpg"
+
+	    }
+  
+  
+  
 }
