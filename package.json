@@ -19,6 +19,10 @@
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-livereload": "^4.0.2",
-    "gulp-rev-append": "^0.1.8"
+    "gulp-rev-append": "^0.1.8",
+    "yargs-parser": ">=5.0.0-security.0"
+  },
+  "dependenciesComments": {
+    "yargs-parser": "Vulnerability in 5.0.0, as advised by Github Dependabot alerts. From gulp@4.0.2."
   }
 }
