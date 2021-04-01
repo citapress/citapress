@@ -16,9 +16,9 @@
     "url": "https://github.com/jjcastro/cita-press/issues"
   },
   "homepage": "https://github.com/jjcastro/cita-press#readme",
-  "dependencies": {
-    "gulp": "^3.9.1",
-    "gulp-livereload": "^3.8.1",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-livereload": "^4.0.2",
     "gulp-rev-append": "^0.1.8"
   }
 }
