@@ -1,1 +1,14 @@
+dist/
 node_modules/
+
+coverage/
+*.log*
+
+.DS_STORE
+.idea
+*.iml
+.vscode
+/.vs
+
+package-lock.json
+jsconfig.json
