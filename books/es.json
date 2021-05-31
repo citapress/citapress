@@ -1,0 +1,145 @@
+{
+  "yellow-wallpaper": {
+    "title": "The Yellow Wall-Paper",
+    "author": "Charlotte Perkins Gilman",
+    "book-paragraph": "Charlotte Perkins Gilman’s “The Yellow Wall-Paper” (1892) holds an important place among rediscovered works by turn-of-the-century American women writers for its bold critique of gender politics in a patriarchal society. The nameless narrator, undergoing the infamous rest cure for what doctors now diagnose as postpartum depression, experiences debilitating psychological effects.  At first repulsed by the wallpaper in the room where she is sequestered in a country estate, the narrator comes to like it as she vows to decode its pattern—she imagines many women creeping behind bars and identifies with one trapped woman, arguably a reflection of her painful position as a woman in Victorian America. Many of the story’s first readers considered it a psychological horror tale in the fashion of Poe.",
+    "blue-info1": "Foreword: Catherine J. Golden, PhD. - Professor of English and The Tisch Chair in Arts and Letters, Skidmore College",
+    "blue-info2": "Cover: <a href='http://laurasavina.com'>Laura Savina</a> - Italian illustrator and tap dance student.",
+
+    "html-content": "pages/books/content/yellowwallpaper.html",
+    "square-thumbnail": "assets/yellowwallpaper.png",
+    "cover-image": "assets/cover-yellowwallpaper.jpg"
+  },
+
+  "the-awakening": {
+    "title": "The Awakening",
+    "author": "Kate Chopin",
+    "book-paragraph": "Passion’s necessity may be one of the lessons we can take from Chopin’s controversial text, but certainly it is not the only lesson. The novel emerged from obscurity like a different kind of storm: taking the literary world to new heights and awareness of what women writers could do.",
+    "blue-info1": "Foreword: Heather Ostman, PhD - President, Kate Chopin International Society",
+    "blue-info2": "Cover: <a href='http://jiwonpark.kr'>Jiwon Park</a> - Graphic designer, educator, and social entrepreneur, living and working in Austin and Seoul.",
+
+    "html-content": "pages/books/content/theawakening.html",
+    "square-thumbnail": "assets/theawakening.png",
+    "cover-image": "assets/cover-the-awakening.png"
+  },
+
+  "on-the-equality-of-the-sexes": {
+    "title": "On the Equality of the Sexes",
+    "author": "Judith Sargent Murray",
+    "book-paragraph": "When “On the Equality of the Sexes” appeared in 1790 in the Massachusetts Magazine, it became the earliest known public claim in America for female equality.",
+    "blue-info1": "Foreword: Bonnie J. Smith - President, Judith Sargent Murray Society",
+    "blue-info2": "Cover: Natalia Rojas - Colombian artist and illustrator",
+
+    "html-content": "pages/books/content/ontheequalityofthesexes.html",
+    "square-thumbnail": "assets/ontheequality.png",
+    "cover-image": "assets/cover-on-the-equality.png"
+  },
+
+  "silly-novels": {
+    "title": "Silly Novels by Silly Lady Novelists",
+    "author": "Mary Anne Evans",
+    "book-paragraph": "In “Silly Novels by Silly Lady Novelists” the author criticises the majority of novels written by and for women, claiming that their triviality and disregard for reality hurt for the cause of women’s education. This essay was published anonymously in the Westminster Review in 1856, and was Evans’ first publication, right before before adopting the pen name for which she would become known: George Eliot.",
+    "blue-info1": "Foreword: Carol H. MacKay, PhD - Professor of English, University Distinguished Teaching Professor, The University of Texas at Austin",
+    "blue-info2": "Cover: <a href='jeanyangdesign.com'>Jean Yang</a> - Visual and product designer",
+
+    "html-content": "pages/books/content/sillynovels.html",
+    "square-thumbnail": "assets/sillynovels.png",
+    "cover-image": "assets/cover-silly-novels.png"
+  },
+
+  "the-beautiful": {
+    "title": "The Beautiful",
+    "author": "Violet Paget",
+    "book-paragraph": "I have tried in this little volume to explain aesthetic preference, particularly as regards visible shapes, by the facts of mental science. But my explanation is addressed to readers in whom I have no right to expect a previous knowledge of psychology, particularly in its more modern developments. I have therefore based my explanation of the problems of aesthetics as much as possible upon mental facts familiar, or at all events easily intelligible, to the lay reader.",
+    "blue-info1": "Preface by the author, Violet Paget, a.k.a Vernon Lee.",
+    "blue-info2": "Cover: Juliana Castro, Colombian graphic designer and art director",
+
+    "html-content": "pages/books/content/thebeautiful.html",
+    "square-thumbnail": "assets/thebeautiful.png",
+    "cover-image": "assets/cover-the-beautiful.png"
+  },
+
+  "behind-a-mask": {
+    "title": "Behind a Mask",
+    "author": "Louisa May Alcott",
+    "book-paragraph": "This novella was first published in 1866 under the pseudonym of A. M. Barnard in The Flag of Our Union. Set in Victorian era Britain, the story follows Jean Muir, the deceitful governess of the wealthy Coventry family. With expert manipulation, Jean Muir obtains the love, respect, and eventually the fortune of the Coventry family.<br/>Since it was republished by Madeleine B. Stern in 1975, the novel has become important in critical reinterpretation of Alcott's corpus of works and literary importance. Many literary critics treat the novel; for example, one critic treated the novel as a version of the \"Beauty and the Beast\" trope, while others provide feminist critiques of the narrative. Alcott's treatment of themes like acting, social class, and the struggle for agency all inform these larger discussions by critics. (Wikipedia)",
+    "blue-info1": "Cover: Lauren Smedley - Graphic designer and museums lover",
+    "blue-info2": "",
+
+    "html-content": "pages/books/content/behindamask.html",
+    "square-thumbnail": "assets/behindamask.png",
+    "cover-image": "assets/cover-behind-a-mask.png"
+  },
+
+"cypherpunk-women": {
+    "title": "Cypherpunk Women",
+    "author": "Edited by Leigh Cuen",
+    "book-paragraph": "The first open source book by women about cryptocurrency and cypherpunk pioneers. It includes a great array of international contributions from bitcoin developers and users, crypto entrepreneurs and community educators. The collection highlights the diversity of people involved with cypherpunk technology, meaning in their own ways they are all using privacy-enhancing technology to promote social change. And yet their motivations and circumstances are all wildly different. The tool enables self-sovereign financial choices, akin to independent birth control or career choices. For women brave enough to trust themselves, the world may now appear ripe for a new type of revolution.",
+    "blue-info1": "Cover: Josie Bellini / Copyediting: Marisol Bayona Román",
+    "blue-info2": "Works by Soona Amhaz, Saga Arvidsdotter, Josie Bellini, Kiara Bickers, Audrey Chaing, Emily Faria, Janey Gak, Allie Eve Knox, Jordan Kong, Sarah Jamie Lewis, Mir Liponi, Beth McCarthy, Chrissa McFarlane, Lisa Neigut, Norika Kizawa, Chelsea Palmer, Anita Posch, Samantha Radocchia, Hannah Rosenberg, Kokab “Setareh” Shabanipour, Amber Scott, Alena Vranova, Leah Wald, Karima Williams, Joyce Yang, Linda Xie, @Bitcoinstripper, @GlitchesBrew, @Tina_in_Tech, and many more. Contributing editor: Michael McSweeney",
+    "html-content": "pages/books/content/cypherpunk-women.html",
+    "square-thumbnail": "assets/thumbnail-cypherpunk-women.jpg",
+    "cover-image": "assets/cover_cypherpunk-women.png"
+  }, 
+
+  "incidents-in-the-life-of-a-slave-girl": {
+    "title": "Incidents in the Life of a Slave Girl",
+    "author": "Harriet Jacobs",
+    "book-paragraph": "Incidents in the Life of a Slave Girl is an autobiography by a young mother and fugitive slave published in 1861 by L. Maria Child, who edited the book for its author, Harriet Ann Jacobs. Jacobs used the pseudonym Linda Brent. The book documents Jacobs' life as a slave and how she gained freedom for herself and for her children. Jacobs contributed to the genre of slave narrative by using the techniques of sentimental novels \"to address race and gender issues.\" She explores the struggles and sexual abuse that female slaves faced on plantations as well as their efforts to practice motherhood and protect their children when their children might be sold away. (Wikipedia)",
+    "blue-info1": "Cover: Thais Jacoponi, Brazilian Designer and Art Director",
+    "blue-info2": "Foreword: It could be you, contact us!",
+    "html-content": "pages/books/content/incidents-slave-girl.html",
+    "square-thumbnail": "assets/thumbnail-incidents.jpg",
+    "cover-image": "assets/cover-incidents-in-the-life2.png"
+  },
+  
+    "tender-buttons": {
+    "title": "Tender Buttons",
+    "author": "Gertrude Stein",
+    "book-paragraph": "The thing about Stein, our dear friend Gertrude, is she made a lot of things possible. Changed what language could be, and what grammar could be. Didn’t give a shit about the rules of language and lived with her boo when people really hated lesbians. (Fragment of the foreword by Gabrielle Welsh)",
+    "blue-info1": "Cover: Luce Terrason",
+    "blue-info2": "Foreword: Gabrielle Welsh, Writer, Reader, Editor in Chicago, IL",
+    "html-content": "pages/books/content/tender-buttons.html",
+    "square-thumbnail": "assets/thumbnail-tender-buttons.jpg",
+    "cover-image": "assets/cover-tender-buttons.jpg"
+  },
+  
+    "men-women-ghosts": {
+    "title": "Men, Women, and Ghosts",
+    "author": "Amy Lowell",
+    "book-paragraph": "This is a book of stories. For that reason I have excluded all purely lyrical poems. But the word 'stories' has been stretched to its fullest application. It includes both narrative poems, properly so called; tales divided into scenes; and a few pieces of less obvious story-telling import in which one might say that the dramatis personae are air, clouds, trees, houses, streets, and such like things. (Fragment of the Preface by the author)",
+    "blue-info1": "Cover: Annika Leppaaho",
+    "blue-info2": "Preface by the Author",
+    "html-content": "pages/books/content/men-women-ghots.html",
+    "square-thumbnail": "assets/thumbnail-men-women.jpg",
+    "cover-image": "assets/cover-men-women-ghosts1.png"
+  },
+  
+   "mathilda": {
+	    "title": "Mathilda",
+	    "author": "Mary Shelley",
+	    "book-paragraph": "Mathilda is the second long work of fiction of Mary Wollstonecraft Shelley, author of Frankenstein. It deals with common Romantic themes of incest and suicide. The narrative deals with a father's incestuous love for his daughter. Mathilda has also been seen as an example of redefining female Gothic narratives. An important characteristic of this redefined genre often includes female narrators having more control over the story than was common at the time. According to Kathleen A. Miller, 'Although Shelley's novella appears to relate a conventional female gothic narrative of a young woman victimized by her father's incestuous desire, it leaves open the possibility that, in fact, it is Mathilda, rather than her father, who wields control over the novel's gothic script. This potentially allows for Mathilda to be viewed as a positive role model in nineteenth-century literature as she overcomes paternal authority and refuses to conform to commonly accepted practices regarding female characters in literature of the time'. (Wikipedia)",
+	    "blue-info1": "Cover: Kathy Mueller",
+	    "blue-info2": " ",
+	    "html-content": "#",
+	    "square-thumbnail": "assets/thumbnail-mathilda-new.jpg",
+	    "cover-image": "assets/cover-mathilda.jpg"
+
+	    },
+
+
+	    "poor-clare": {
+	    "title": "The Poor Clare",
+	    "author": "Elizabeth Gaskell",
+	    "book-paragraph": "The Poor Clare is a gothic ghost story about a young woman unwittingly cursed by her own grandmother. Gaskell's short story was first published in serialized form in 1856 in Charles Dickens' popular weekly magazine Household Words. Despite the male narrator, feminism is a theme in The Poor Clare. Bridget is a powerful woman who confronts the patriarchal establishment through her own powers. She has a 'strong will' and 'strong nature', which enable her to exert control over not just her employers the Starkey family, but the rest of the local population as well. (Wikipedia)",
+	    "blue-info1": "Cover: <a href='http://irinakoryagina.com/'>Irina Koryagina</a>, a graphic designer based in New York",
+	    "blue-info2": " ",
+	    "html-content": "#",
+	    "square-thumbnail": "assets/thumbnail-poor-clare-new.jpg",
+	    "cover-image": "assets/cover-poor-clare.jpg"
+
+	    }
+  
+  
+  
+}

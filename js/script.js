@@ -9,6 +9,33 @@ if ('scrollRestoration' in history) {
 const FRONT_VIEW = "FRONT";
 const WEB_VIEW   = "WEB";
 
+var booksMetadata = `books/${document.documentElement.lang}.json`;
+if (document.documentElement.lang != 'en') {
+  booksMetadata = "../" + booksMetadata;
+}
+
+// reads the book json and adds a ../ prefix if the language is not english
+//
+function readBooks(callback) {
+  $.getJSON(booksMetadata, function(metadata) {
+    if (document.documentElement.lang == 'en') {
+      callback(metadata);
+      return;
+    }
+    console.log(metadata);
+    console.log(metadata.keys);
+
+    $.each(metadata, function (bookName, book) {
+      $.each(book, function (attribute, value) {
+        if (value.startsWith('assets') || value.startsWith('./assets')) {
+          metadata[bookName][attribute] = "../" + value;
+        }
+      });
+    });
+    callback(metadata);
+  });
+}
+
 // reads the url and goes to the appropriate place
 // (only to be executed on the main page)
 //
@@ -31,10 +58,10 @@ function readURL(url) {
 
     } else {
       var name = url.substr(index + 1,url.length);
-      changePage('ajax/' + name + '.html', name, true);
+      changePage('pages/' + name + '.html', name, true);
     } 
   } else {
-    changePage('ajax/home.html', "Home", true);
+    changePage('pages/home.html', "Home", true);
   }
 }
 
@@ -48,10 +75,10 @@ function changePage(url, title, shouldPushState, callback) {
       window.history.pushState({
         title: title,
         url: url
-      }, title, "#" + url.match(/(?:ajax\/)(.*)(?:\.html)/)[1]);
+      }, title, "#" + url.match(/(?:pages\/)(.*)(?:\.html)/)[1]);
     }
 
-    $('main').attr('id', url.match(/(?:ajax\/)(.*)(?:\.html)/)[1]);
+    $('main').attr('id', url.match(/(?:pages\/)(.*)(?:\.html)/)[1]);
 
     if (callback != null) {
       callback();
@@ -92,7 +119,7 @@ function animateChange(title, todo) {
 // loads books dinamically in div
 //
 function loadBooks() {
-  $.getJSON( "js/books.json", function( data ) {
+  readBooks(function(data) {
     var items = [];
     $.each( data, function( key, val ) {
       items.push( "<a href='#' class='book-link' data-title='" + val["title"] + "' id='" + key +
@@ -106,8 +133,8 @@ function loadBooks() {
 // load book front
 //
 function loadBookFront(book, shouldPushState, callback) {
-  $.getJSON( "js/books.json", function( data ) {
-    $('article').load("ajax/books/front.html", function() {
+  readBooks(function(data) {
+    $('article').load("pages/books/front.html", function() {
 
       // Fix for scroll restoration
       window.scrollTo(0, 0);
@@ -148,7 +175,7 @@ function loadBookFront(book, shouldPushState, callback) {
 // (only to be used in print/index.html)
 //
 function loadBookPrint(book) {
-  $.getJSON( "../js/books.json", function( data ) {
+  $.getJSON("../" + booksMetadata, function(data) {
     Bindery.makeBook({
       content: {
         selector: '#book-html-content',
@@ -161,16 +188,8 @@ function loadBookPrint(book) {
 // load book in Web reading version
 //
 function loadBookWeb(book, shouldPushState, callback) {
-  $.getJSON( "js/books.json", function( data ) {
-    $('article').load("ajax/books/web.html", function() {
-
-      // Save state
-      if (typeof(Storage) !== "undefined") {
-          // Code for localStorage/sessionStorage.
-      } else {
-          // Sorry! No Web Storage support..
-      }
-
+  readBooks(function(data) {
+    $('article').load("pages/books/web.html", function() {
       $('a#read-print').attr("href", "print#" + book);
 
       $('#book-web-content').load(data[book]["html-content"], function() {

@@ -6,7 +6,7 @@
     "blue-info1": "Foreword: Catherine J. Golden, PhD. - Professor of English and The Tisch Chair in Arts and Letters, Skidmore College",
     "blue-info2": "Cover: <a href='http://laurasavina.com'>Laura Savina</a> - Italian illustrator and tap dance student.",
 
-    "html-content": "ajax/books/content/yellowwallpaper.html",
+    "html-content": "pages/books/content/yellowwallpaper.html",
     "square-thumbnail": "assets/yellowwallpaper.png",
     "cover-image": "assets/cover-yellowwallpaper.jpg"
   },
@@ -18,7 +18,7 @@
     "blue-info1": "Foreword: Heather Ostman, PhD - President, Kate Chopin International Society",
     "blue-info2": "Cover: <a href='http://jiwonpark.kr'>Jiwon Park</a> - Graphic designer, educator, and social entrepreneur, living and working in Austin and Seoul.",
 
-    "html-content": "ajax/books/content/theawakening.html",
+    "html-content": "pages/books/content/theawakening.html",
     "square-thumbnail": "assets/theawakening.png",
     "cover-image": "assets/cover-the-awakening.png"
   },
@@ -30,7 +30,7 @@
     "blue-info1": "Foreword: Bonnie J. Smith - President, Judith Sargent Murray Society",
     "blue-info2": "Cover: Natalia Rojas - Colombian artist and illustrator",
 
-    "html-content": "ajax/books/content/ontheequalityofthesexes.html",
+    "html-content": "pages/books/content/ontheequalityofthesexes.html",
     "square-thumbnail": "assets/ontheequality.png",
     "cover-image": "assets/cover-on-the-equality.png"
   },
@@ -42,7 +42,7 @@
     "blue-info1": "Foreword: Carol H. MacKay, PhD - Professor of English, University Distinguished Teaching Professor, The University of Texas at Austin",
     "blue-info2": "Cover: <a href='jeanyangdesign.com'>Jean Yang</a> - Visual and product designer",
 
-    "html-content": "ajax/books/content/sillynovels.html",
+    "html-content": "pages/books/content/sillynovels.html",
     "square-thumbnail": "assets/sillynovels.png",
     "cover-image": "assets/cover-silly-novels.png"
   },
@@ -54,7 +54,7 @@
     "blue-info1": "Preface by the author, Violet Paget, a.k.a Vernon Lee.",
     "blue-info2": "Cover: Juliana Castro, Colombian graphic designer and art director",
 
-    "html-content": "ajax/books/content/thebeautiful.html",
+    "html-content": "pages/books/content/thebeautiful.html",
     "square-thumbnail": "assets/thebeautiful.png",
     "cover-image": "assets/cover-the-beautiful.png"
   },
@@ -66,7 +66,7 @@
     "blue-info1": "Cover: Lauren Smedley - Graphic designer and museums lover",
     "blue-info2": "",
 
-    "html-content": "ajax/books/content/behindamask.html",
+    "html-content": "pages/books/content/behindamask.html",
     "square-thumbnail": "assets/behindamask.png",
     "cover-image": "assets/cover-behind-a-mask.png"
   },
@@ -77,7 +77,7 @@
     "book-paragraph": "The first open source book by women about cryptocurrency and cypherpunk pioneers. It includes a great array of international contributions from bitcoin developers and users, crypto entrepreneurs and community educators. The collection highlights the diversity of people involved with cypherpunk technology, meaning in their own ways they are all using privacy-enhancing technology to promote social change. And yet their motivations and circumstances are all wildly different. The tool enables self-sovereign financial choices, akin to independent birth control or career choices. For women brave enough to trust themselves, the world may now appear ripe for a new type of revolution.",
     "blue-info1": "Cover: Josie Bellini / Copyediting: Marisol Bayona Román",
     "blue-info2": "Works by Soona Amhaz, Saga Arvidsdotter, Josie Bellini, Kiara Bickers, Audrey Chaing, Emily Faria, Janey Gak, Allie Eve Knox, Jordan Kong, Sarah Jamie Lewis, Mir Liponi, Beth McCarthy, Chrissa McFarlane, Lisa Neigut, Norika Kizawa, Chelsea Palmer, Anita Posch, Samantha Radocchia, Hannah Rosenberg, Kokab “Setareh” Shabanipour, Amber Scott, Alena Vranova, Leah Wald, Karima Williams, Joyce Yang, Linda Xie, @Bitcoinstripper, @GlitchesBrew, @Tina_in_Tech, and many more. Contributing editor: Michael McSweeney",
-    "html-content": "ajax/books/content/cypherpunk-women.html",
+    "html-content": "pages/books/content/cypherpunk-women.html",
     "square-thumbnail": "assets/thumbnail-cypherpunk-women.jpg",
     "cover-image": "assets/cover_cypherpunk-women.png"
   }, 
@@ -88,7 +88,7 @@
     "book-paragraph": "Incidents in the Life of a Slave Girl is an autobiography by a young mother and fugitive slave published in 1861 by L. Maria Child, who edited the book for its author, Harriet Ann Jacobs. Jacobs used the pseudonym Linda Brent. The book documents Jacobs' life as a slave and how she gained freedom for herself and for her children. Jacobs contributed to the genre of slave narrative by using the techniques of sentimental novels \"to address race and gender issues.\" She explores the struggles and sexual abuse that female slaves faced on plantations as well as their efforts to practice motherhood and protect their children when their children might be sold away. (Wikipedia)",
     "blue-info1": "Cover: Thais Jacoponi, Brazilian Designer and Art Director",
     "blue-info2": "Foreword: It could be you, contact us!",
-    "html-content": "ajax/books/content/incidents-slave-girl.html",
+    "html-content": "pages/books/content/incidents-slave-girl.html",
     "square-thumbnail": "assets/thumbnail-incidents.jpg",
     "cover-image": "assets/cover-incidents-in-the-life2.png"
   },
@@ -99,7 +99,7 @@
     "book-paragraph": "The thing about Stein, our dear friend Gertrude, is she made a lot of things possible. Changed what language could be, and what grammar could be. Didn’t give a shit about the rules of language and lived with her boo when people really hated lesbians. (Fragment of the foreword by Gabrielle Welsh)",
     "blue-info1": "Cover: Luce Terrason",
     "blue-info2": "Foreword: Gabrielle Welsh, Writer, Reader, Editor in Chicago, IL",
-    "html-content": "ajax/books/content/tender-buttons.html",
+    "html-content": "pages/books/content/tender-buttons.html",
     "square-thumbnail": "assets/thumbnail-tender-buttons.jpg",
     "cover-image": "assets/cover-tender-buttons.jpg"
   },
@@ -110,7 +110,7 @@
     "book-paragraph": "This is a book of stories. For that reason I have excluded all purely lyrical poems. But the word 'stories' has been stretched to its fullest application. It includes both narrative poems, properly so called; tales divided into scenes; and a few pieces of less obvious story-telling import in which one might say that the dramatis personae are air, clouds, trees, houses, streets, and such like things. (Fragment of the Preface by the author)",
     "blue-info1": "Cover: Annika Leppaaho",
     "blue-info2": "Preface by the Author",
-    "html-content": "ajax/books/content/men-women-ghots.html",
+    "html-content": "pages/books/content/men-women-ghots.html",
     "square-thumbnail": "assets/thumbnail-men-women.jpg",
     "cover-image": "assets/cover-men-women-ghosts1.png"
   },

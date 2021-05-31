@@ -17,9 +17,11 @@
   },
   "homepage": "https://github.com/jjcastro/cita-press#readme",
   "devDependencies": {
+    "del": "^6.0.0",
     "gulp": "^4.0.2",
     "gulp-livereload": "^4.0.2",
     "gulp-rev-append": "^0.1.8",
+    "gulp-static-i18n-html": "^0.4.0",
     "yargs-parser": ">=5.0.0-security.0"
   },
   "dependenciesComments": {

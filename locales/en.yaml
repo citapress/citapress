@@ -1,0 +1,160 @@
+metadata:
+  lang: en
+
+menu:
+  about: About
+  books: Books
+  collaborate: Collaborate
+  donate: Donate
+  news: News
+  contact: Contact
+
+home: 
+  paragraph_body: a feminist indie press publishing <span class="gif-link">open-access<img src="assets/gif/together.gif" alt="illustration of kids dancing in a circle"></span> <a href="pages/books.html" data-title="Books">books</a> written by women. We make <span class="gif-link">carefully designed<img src="assets/gif/typo.gif"/ alt="Gif in which character says -there's a typo"></span> <span class="gif-link">books<img src="assets/gif/books.gif"/ alt="Beauty and the beast gif in which main character sings in the huge library"></span> <span class="gif-link">available free<img src="assets/gif/good.gif"/ alt="kid in front of a computer smiles and shows thumbs up"></span> in both <span class="gif-link">print and web formats<img src="assets/gif/reading.gif"/ alt="a very funny cat reading a book on military strategy"></span>. <a href="https://www.youtube.com/watch?v=F21bP9pydE0" target="_blank" data-title="Youtube">Watch our video</a>, <a href="pages/collaborate.html" data-title="Collaborate">become a collaborator</a>, or <a href="pages/books.html" data-title="Books">just start reading</a>
+
+about:
+  top_paragraph_body: cita is a library and press devoted to highlighting, publishing and promoting works written by women. We pair contemporary authors and designers with open-access texts, and make carefully designed books available for free!
+  left_column_body: >-
+    <p>In Spanish, “<span class="blue">cita</span>” is the word for appointment, quotation, and date. It is also the diminutive suffix for feminine nouns, <i>mujer</i> is woman; <i>mujer<span class="blue">cita</span></i> is little woman.</b></p>
+    <p>Watch our <a href="https://www.youtube.com/watch?v=F21bP9pydE0" target="_blank"> video!</a></p>
+    <p><span class="mini-title">Manifesto:</span>
+      <li>To elevate the work of those who first addressed gender inequality </li>
+      <li>To use open-source resources and actively credit them </li>
+      <li>To maintain the content in open-access platforms, licenses and formats</li>
+      <li>To give free access to the content</li>
+      <li>To make visible and celebrate the work of contributors</li>
+      <li>To pair classic literature with contemporary open scholarship and design</li>
+      <li>To be committed to intersectionality</li>
+      <li>To be participatory, crowdsourced and open to new voices and collaborations</li>
+    </p>
+  right_column_body: >-
+    <p><span class="mini-title">What:</span> Carefully designed public-domain books written by women in free, contemporary editions for print and web. </p>
+    <p><span class="mini-title">How:</span> <span class="blue">cita</span> is a collaborative labor of love between designers and writers that relies on public-domain writings and open-source texts, fonts, code, and images. All the content of <span class="blue">cita</span> is either public-domain, or is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons License CC-NC-SA 4.0</a>, meaning it’s free forever, and sharable for non-commercial purposes so long as you can share if you say who created it. For example, we use <a href="https://github.com/evnbr/bindery">Bindery</a> by Evan Brooks. For more details, check the <a href="pages/collaborate.html" data-title="Collaborate">collaborate page</a>.</p>
+    <p><span class="mini-title">Why:</span> Women authors have historically been underrepresented and underpublicized in the male-dominated, profit-driven publishing industry. We make these women writers’ works accessible to all, in free editions.</p>
+    <p><span class="mini-title">Who:</span> <span class="blue">cita</span> was created by <a href="http://julianacastro.co">Juliana Castro</a>, a Colombian graphic designer and editor, in collaboration with a growing list of <a href="pages/collaborate.html" data-title="Collaborate">contributors</a>. <a href="pages/collaborate.html" data-title="Collaborate">Join us!</a></p>
+
+books:
+  paragraph_title: "Books:"
+  paragraph_body: Our books range in genre from fiction to memoir to essay and poetry. Most texts include a foreword by a contemporary writer or scholar, which helps readers understand the context in which the author was writing, and what the work means for today.
+
+collaborate:
+  top_paragraph_title: "Collaborate:"
+  top_paragraph_body: >-
+    Do you have suggestions for public-domain or Creative Commons texts of 100 pages or less that you’d like to see reprinted in a free edition? Would you be willing to write an introduction? Design a cover? 
+    Edit a collection? Sponsor a book of a particular author? We are particularly interested in publishing books by women of color, queer and non-binary folks, and explore contemporary writing!  
+    <font color="blue">Send a message with the subject “Crazy little thing called love” to <a href="mailto:info@citapress.org?Subject=Crazy%20litte%20thing%20called%20love">info@citapress.org</a>
+    if you’d be interested in donating, or collaborating on producing new editions.</font>
+  middle_paragraph_body: >-
+    If you want to join us,<b> please read our <a href="https://github.com/citapress/citapress/blob/master/Code-of-Conduct.md"> Code of Conduct</a></b>
+  bottom_paragraph_title: "Credits:"
+  bottom_paragraph_body: >-
+    This project is a collaborative effort of love made possible by the generosity of many direct and indirect contributors.
+    <br><br>
+    <b>General Contributors:</b> Juan José Castro (Web Development Lead), Nate Angell (Mozilla Open Leaders mentor and friend), Tien Mimi Nguyen (Write Speak Code SF advocate), Jessica Meyerson (Lead Advisor and friend)
+    <br><br>
+    <b>Designers:</b> Laura Savina, Jiwon Park, Lauren Smedley, Natalia Rojas, Jean Yang, Juliana Castro, Thais Jacoponi, Luce  Terrason,
+    Annika  Leppaaho, Irina Koryagina, Kathy Mueller
+    <br><br>
+    <b>Writers:</b> Catherine J. Golden, PhD, Heather Ostman, PhD, Bonnie Hurd Smith, Carol MacKay, PhD, Gabrielle Welsh
+    <br><br>
+    <b>Other credits:</b> Video Music: Fantasy by Podington Bear, Icons by Creative Mania, Llisole, Mungang Kim, Becris and corpus delicti and Luisa Iborra. Powered by The Noun Project, and licensed under CC, Pre-formated text: Project Gutemberg
+    Interior illustrations for The Yellow Wall-Paper: Jo. H. Hatfield, currently under public domain, Video voice: Kira Street, Bindery by Evan Brooks. Licensed under MIT License, Short video / gifs: From Giphy! If you consider this could be a more concrete credit, hit ups up!
+    Roboto and Bitter, distributed by Google Fonts. Licensed under OFL, Bluu, distributed by Open Foundry. Licensed under OFL
+
+contact:
+  top_paragraph_title: "Contact:"
+  top_paragraph_body: >-
+    If you have questions, suggestions, or compliments, find us on <a href="https://github.com/citapress/citapress/">Github</a>, <a href="http://twitter.com/citapress">Twitter</a>, <a href="http://fb.com/citapress">Facebook </a> or <a href="http://instagram.com/cita.press">Instagram</a>, or write to us to <a href="mailto:info@citapress.org?Subject=Hello%20Hola%20Ciao">info@citapress.org</a>.
+    <p>For partnership offers, license questions, complaints, reading suggestions and press inquiries, please contact Juliana Castro at <a href="mailto:juliana@citapress.org?Subject=Hello%20Hola%20Ciao">juliana@citapress.org</a>.</p>
+  bottom_paragraph_body: >-
+    Please read our <a href="https://github.com/citapress/citapress/blob/master/Code-of-Conduct.md"> Code of Conduct</a> or/and <a href="pages/books.html">our books</a>!
+  join_newsletter_cta: Join our Newsletter
+
+news:
+  top_paragraph_title: "News:"
+  top_paragraph_body: To stay up to date in all our releases and news, please <a href="https://tinyletter.com/citapress" class="blue">sign up to our newsletter here!</a>
+  news_body: >-
+    <h2>2021</h2>
+    <ul>
+      <!--<li><big><b> April, 2021 - 2023 (Announcement)</b> The Andrew W. Mellon Foundation awards Educopia $245,000 USD to support Cita Press' capacity and business planning – <a href="https://github.com/citapress/citapress/raw/0ac8bd6abfcb03dae5a97564378f9adbd9389767/extradocs/press-release-images/Cita%20Press%20Mellon%20Grant%20Announcement%20-%20%20Press%20Releases.pdf">Read Cita's Full Press Release</a>.</big>  
+         </li>-->
+      <li><b>April 23, 2021 (Event)</b> Juliana Castro to speak about Cita as part of the <a href="https://us02web.zoom.us/meeting/register/tZUpcOCpqzIiHNDqJhMa1JUelcxfeC1WgH1U1" target="_blank">Digital Salon</a> 
+      </li>
+      <li><b>February, 2021 (Announcement)</b> Cita's Cypherpunk Women Anthology is <a href="https://store.bookbaby.com/book/cypherpunk-women1" target="_blank">now available for purchase in print</a>
+      </li>
+    </ul>
+    <h2>2020</h2>
+    <ul>
+      <li>
+         <b>August, 2020 (Event)</b> <a href="https://twitter.com/muladelfin/status/1292842070902800384"> Cita en MULA - Muestra de Libro Autogestionado</a>. Hablaremos de libros de acceso abierto, modelos colaborativos de publicación digital y el lanzamiento de Cita en español
+      </li>
+      <li>
+         <b>August, 2020 (Announcement)</b> <a href="/pages/collaborate.html"> New collaborators </a> and two upcoming books announced: The Poor Clare by Elizabeth Gaskell and Mathilda by Mary Wollstonecraft Shelley
+      </li>
+      <li> <b>July 27, 2020 (Press) </b> <a href="https://eyeondesign.aiga.org/what-is-designs-role-in-violating-or-upholding-digital-rights/"> Juliana Castro and Cita on AIGA's Eye on Design</a></li>
+      <li>
+         <b>May 23, 2020 (Event/Launch) </b> <a href="https://www.youtube.com/watch?v=YSGrlGHcgWI&feature=youtu.be"> Watch the Virtual Reality book launch </a> for the Cypherpunk Women Anthology. 
+      </li>
+      <li>
+         <b>April, 2020 (Press)</b> <a href="https://xd.adobe.com/ideas/perspectives/social-impact/design-violating-or-upholding-digital-rights/"> Cita mentioned in Adobe XD blogpost </a> in "Embrace open access" section 
+      </li>
+      <li>
+         <b>February, 2020 - (Announcement)</b> <a href="/pages/collaborate.html"> New collaborators </a> and three upcoming books announced: Incidents in the Life of a Slave Girl by Harriet Jacobs, Tender Buttons by Gertrude Stein, and Men, Women and Ghosts by Amy Lowell
+      </li>
+    </ul>
+    <h2>2019</h2>
+    <ul>
+      <li>
+         <b>November, 2019 (Newsletter)</b> <a href="https://citapress.org/newsletter"> Cita launches Newsletter - Subscribe!</a>
+      </li>
+      <li>
+         <b>August 9, 2019 (Press)</b> <a href="https://eyeondesign.aiga.org/no-258-inside-debbie-millmans-text-based-art-collection-the-sex-ads-that-dont-make-it-on-the-subway-more/"> Cita featured in the Design Diary at AIGA's Eye on Design</a>
+      </li>
+      <li>
+         <b>July 24, 2019 (Press)</b> <a href="https://www.typewolf.com/site-of-the-day/cita-press"> Cita featured in Typewolf - Site of the Day</a>
+      </li>
+      <li>
+         <b>April 17, 2019 (Event)</b> <a href="https://www.meetup.com/WriteSpeakCode-SFBay/events/258027001/"> Cita featured in Write/Speak/Code - San Francisco Chapter, at Postman (595 Market St), 6:30p.m.</a>
+      </li>
+      <li>
+         <b>March, 2019 (Award)</b> <a href="https://awards.latinamericandesign.org/finalistas/cita-press/?g2018=g-20-18"> Cita wins Latin American Design Award - Silver, Digital</a> - Team: Juliana Castro (Design) & Juan Castro (Development)
+      </li>
+      <li>
+         <b>Feb, 2019 (Program)</b> <a href="https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/round-7/participants/participants---cohort-d/"> Mozilla Open Leaders </a> - Juan Castro and Juliana Castro to join Mozilla Open Leaders Program January to May
+      </li>
+    </ul>
+    <h2>2018</h2>
+    <ul>
+      <li>
+         <b>Oct 27, 2018 (Event)</b> <a href="https://www.opencon2018.org/opencon_2018_new_york_city/"> OpenCon NYC</a> - Adelphi University / Juliana Castro to present "Cita: Feminist Books for Print and Web" at the Satellite Event for OpenCon in New York City
+      </li>
+      <li>
+         <b>July 31, 2018 (Press)</b> <a href="https://blogs.lib.utexas.edu/texlibris/2018/07/31/creating-space-in-the-public-domain-for-feminist-literature/">TeXLibris</a> - Creating Space in the Public Domain for Feminist Literature
+      </li>
+      <li>
+         <b>June 7, 2018 (Press)</b> <a href="https://www.facebook.com/ElleBrasil/posts/10156722882284050?comment_id=10156723882854050&comment_tracking=%7B%22tn%22%3A%22R0%22%7D/">Elle Brazil</a> - A Cita Press, iniciativa independente, edita e disponibiliza trabalhos de escritoras.
+      </li>
+      <li>
+         <b>June 6, 2018 (Press)</b> <a href="https://universomovieforward.com/2018/06/06/plataforma-oferece-livros-feministas-para-ler-online-e-de-graca/"> Universo Movie Forward </a> Plataforma oferece livros feministas para ler online e de graça!
+      </li>
+      <li>
+         <b>May 24, 2018 (Event)</b> <a href="https://www.eventbrite.com/e/open-source-design-meetup-tickets-46161272609/"> Open Source Design Meetup NYC</a> 6PM - ThoughtWorks, Inc. - 99 Madison Avenue - 15 F. / Please join us on thursday evening for a presentation and Q+A on Cita with Juliana Castro.
+      </li>
+      <li>
+         <b>April 26 - 29, 2018 (Press)</b><a href="https://libregraphicsmeeting.org/2018/"> Cita in Spain!</a> Saturday, April 28, 5 PM Tramallol, Seville, ESP - Juliana Castro will present Cita at Libre Graphics Meeting, an annual international convention for the discussion of free and open source software used with graphics.
+      </li>
+      <li>
+         <b>April 20 - May 11, 2018 (Event)</b><a href="https://art.utexas.edu/event/if-then-2018-design-mfa-exhibition"> Opening Reception for If This Then That </a>6-8 PM - At Visual Arts Center Austin, TX - The seven projects present in <i>If This Then That</i> explore solutions to complex problems, using design as a catalyst for social interaction, wellbeing and intellectual discoveries.
+      </li>
+      <li>
+         <b>March 20, 2018 (Event)</b> Can I Use That?: Open Access and Creativity - PCL Library,  4 PM, Learning Lab 1 Austin, TX - Bookmaking workshop and panel on Copyright, Fair Use, public domain and open access.
+      </li>
+    </ul>
+    </p>
+  bottom_paragraph_body: >-
+    Don’t want to miss a thing? Follow us: <a href="http://instagram.com/cita.press">Instagram</a>, <a href="http://twitter.com/citapress">Twitter</a>, <a href="http://fb.com/citapress">Facebook</a>, <a href="https://github.com/jjcastro/cita-press">GitHub</a>, etc.
+
+book_front:
+  read_online: Read in online reader
+  read_web: Read in book/print format
+  make_book_cta: Make Book

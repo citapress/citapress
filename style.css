@@ -326,13 +326,22 @@ article h1 {
   font-family: 'Bluu', serif;
 }
 
+article h2,
 article span.inside-title {
-  display: inline;
   font-size: 1.8rem;  
   font-weight: bold;
   margin-bottom: 10px;  
   font-family: 'Bluu', serif;
   padding-right: 10px;
+}
+
+article h2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+article span.inside-title {
+  display: inline;
 }
 
 article .mini-title {
