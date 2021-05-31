@@ -1,5 +1,5 @@
 # Redirect users in Spain and Latam
-/*  /es/:splat  302!  Country=ar,bo,cl,co,cr,do,ec,sv,gt,hn,mx,ni,pa,py,pe,pr,uy,veå
+/*  /es/:splat  302  Country=ar,bo,cl,co,cr,do,ec,sv,gt,hn,mx,ni,pa,py,pe,pr,uy,veå
 
 # Redirect users in Spanish to /es
-/*  /es/:splat  302!  Language=es
+/*  /es/:splat  302  Language=es
