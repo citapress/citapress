@@ -95,7 +95,6 @@ function animateChange(title, todo) {
 //
 function loadBooks() {
   $.getJSON( "js/books.json", function( data ) {
-    console.log(data);
     var items = [];
     $.each( data, function( key, val ) {
       items.push( "<a href='#' class='book-link' data-title='" + val["title"] + "' id='" + key +
