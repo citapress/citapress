@@ -47,7 +47,8 @@ gulp.task('copyStaticFiles', function () {
     '!**/*.md',
     '!**/*.html',
     '!*',
-    'style.css'
+    'style.css',
+    '_redirects'
   ]).pipe(gulp.dest('./dist'));
 });
 
