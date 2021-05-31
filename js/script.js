@@ -9,6 +9,8 @@ if ('scrollRestoration' in history) {
 const FRONT_VIEW = "FRONT";
 const WEB_VIEW   = "WEB";
 
+const test = (lang) => window.location.href = lang ? `${window.location.origin}/${lang}/${window.location.hash}` : `${window.location.origin}/${window.location.hash}`;
+
 // reads the url and goes to the appropriate place
 // (only to be executed on the main page)
 //

@@ -4,7 +4,8 @@
   "description": "",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rm -fr ./sp && static-i18n . -i sp -o . --fileFormat yaml"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,7 @@
     "gulp": "^4.0.2",
     "gulp-livereload": "^4.0.2",
     "gulp-rev-append": "^0.1.8",
+    "static-i18n": "^0.2.10",
     "yargs-parser": ">=5.0.0-security.0"
   },
   "dependenciesComments": {
