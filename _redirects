@@ -1,0 +1,2 @@
+# Redirect users in Spanish to /es
+/*  /es/:splat  302  Language=es
