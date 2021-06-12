@@ -1,5 +1,17 @@
 {
-  "yellow-wallpaper": {
+   "silly-novels": {
+    "title": "Novelas tontas de ciertas damas novelistas",
+    "author": "Mary Anne Evans",
+    "book-paragraph": "En 'Novelas tontas de ciertas damas novelistas', la autora critica la mayoría de las novelas escritas por y para mujeres, afirmando que su trivialidad y desprecio por la realidad perjudican la causa de la educación de las mujeres. Este ensayo se publicó de forma anónima en la Westminster Review en 1856 y fue la primera publicación de Evans, justo antes de adoptar el seudónimo por el que sería conocida: George Eliot. ", 
+	  "blue-info1": "Prólogo: Carol H. MacKay, PhD - Profesora de English, The University of Texas at Austin",
+    "blue-info2": "Portada <a href='jeanyangdesign.com'>Jean Yang</a> - Diseñadora visual y de producto",
+
+    "html-content": "pages/books/content/sillynovels.html",
+    "square-thumbnail": "assets/thumbnail-novelas-tontas-es.jpg",
+    "cover-image": "assets/cover-silly-novels.png"
+  },
+
+	"yellow-wallpaper": {
     "title": "El papel de pared amarillo",
     "author": "Charlotte Perkins Gilman",
     "book-paragraph": "SOLO DISPONIBLE EN INGLÉS - 'El papel de pared amarillo' de Charlotte Perkins Gilman (1892) ocupa un lugar importante entre las obras redescubiertas de las escritoras estadounidenses de principios de siglo por su audaz crítica de la política de género en una sociedad patriarcal. La narradora sin nombre, que se somete a un infame reposo parar curar lo que los médicos ahora diagnostican como depresión posparto, experimenta efectos psicológicos debilitantes. Al principio, asqueada por el papel tapiz de la habitación donde está secuestrada, a la narradora le empieza a disfrutar decodificar el patrón del papel tapiz: imagina a muchas mujeres arrastrándose tras las rejas y se identifica con una mujer atrapada, posiblemente un reflejo de su dolorosa posición como mujer en la América victoriana. Muchos de los primeros lectores de la historia lo consideraron un cuento de terror psicológico al estilo de Poe. ",
@@ -7,7 +19,7 @@
     "blue-info2": "Portada: <a href='http://laurasavina.com'> Laura Savina </a> - Ilustradora italiana y estudiante de tap.",
 
     "html-content": "pages/books/content/yellowwallpaper.html",
-    "square-thumbnail": "assets/yellowwallpaper.png",
+    "square-thumbnail": "assets/thumbnail-yellowwallpaper-es.jpg",
     "cover-image": "assets/cover-yellowwallpaper.jpg"
   },
 
@@ -19,7 +31,7 @@
     "blue-info2": "Portada: <a href='http://jiwonpark.kr'>Jiwon Park</a> - Diseñadora gráfica, educadora y emprendedora social, que vive y trabaja entre Austin y Seúl.",
 
     "html-content": "pages/books/content/theawakening.html",
-    "square-thumbnail": "assets/theawakening.png",
+    "square-thumbnail": "assets/thumbnail-eldespertar-es.jpg",
     "cover-image": "assets/cover-the-awakening.png"
   },
 
@@ -31,20 +43,8 @@
     "blue-info2": "Portada: Natalia Rojas - Artista e ilustradora colombiana",
 
     "html-content": "pages/books/content/ontheequalityofthesexes.html",
-    "square-thumbnail": "assets/ontheequality.png",
+    "square-thumbnail": "assets/thumbnail-on-equality-es.png",
     "cover-image": "assets/cover-on-the-equality.png"
-  },
-
-  "silly-novels": {
-    "title": "Novelas tontas de ciertas damas novelistas",
-    "author": "Mary Anne Evans",
-    "book-paragraph": "En 'Novelas tontas de ciertas damas novelistas', la autora critica la mayoría de las novelas escritas por y para mujeres, afirmando que su trivialidad y desprecio por la realidad perjudican la causa de la educación de las mujeres. Este ensayo se publicó de forma anónima en la Westminster Review en 1856 y fue la primera publicación de Evans, justo antes de adoptar el seudónimo por el que sería conocida: George Eliot. ", 
-	  "blue-info1": "Prólogo: Carol H. MacKay, PhD - Profesora de English, The University of Texas at Austin",
-    "blue-info2": "Portada <a href='jeanyangdesign.com'>Jean Yang</a> - Diseñadora visual y de producto",
-
-    "html-content": "pages/books/content/sillynovels.html",
-    "square-thumbnail": "assets/sillynovels.png",
-    "cover-image": "assets/cover-silly-novels.png"
   },
 
   "the-beautiful": {
@@ -55,7 +55,7 @@
     "blue-info2": "Portada: Juliana Castro, Diseñadora colombiana",
 
     "html-content": "pages/books/content/thebeautiful.html",
-    "square-thumbnail": "assets/thebeautiful.png",
+    "square-thumbnail": "assets/thumbnail-thebeautiful-es.jpg",
     "cover-image": "assets/cover-the-beautiful.png"
   },
 
@@ -67,7 +67,7 @@
     "blue-info2": "Prólogo: Podrías ser tú, contáctanos",
 
     "html-content": "pages/books/content/behindamask.html",
-    "square-thumbnail": "assets/behindamask.png",
+    "square-thumbnail": "assets/thumbnail-behindamask-es.png",
     "cover-image": "assets/cover-behind-a-mask.png"
   },
 
@@ -78,7 +78,7 @@
     "blue-info1": "Portada: Josie Bellini / Edición de estilo en inglés: Marisol Bayona Román",
     "blue-info2": "Textos de Soona Amhaz, Saga Arvidsdotter, Josie Bellini, Kiara Bickers, Audrey Chaing, Emily Faria, Janey Gak, Allie Eve Knox, Jordan Kong, Sarah Jamie Lewis, Mir Liponi, Beth McCarthy, Chrissa McFarlane, Lisa Neigut, Norika Kizawa, Chelsea Palmer, Anita Posch, Samantha Radocchia, Hannah Rosenberg, Kokab “Setareh” Shabanipour, Amber Scott, Alena Vranova, Leah Wald, Karima Williams, Joyce Yang, Linda Xie, @Bitcoinstripper, @GlitchesBrew, @Tina_in_Tech, y más. Asistencia de edición: Michael McSweeney",
     "html-content": "pages/books/content/cypherpunk-women.html",
-    "square-thumbnail": "assets/thumbnail-cypherpunk-women.jpg",
+    "square-thumbnail": "assets/thumbnail-cypherpunk-women-es.jpeg",
     "cover-image": "assets/cover_cypherpunk-women.png"
   }, 
 
@@ -100,7 +100,7 @@
     "blue-info1": "Portada: Luce Terrason",
     "blue-info2": "Prólogo: Gabrielle Welsh, Escritora, lectora y editora en Chicago, IL",
     "html-content": "pages/books/content/tender-buttons.html",
-    "square-thumbnail": "assets/thumbnail-tender-buttons.jpg",
+    "square-thumbnail": "assets/thumbnail-tender-buttons-es.jpg",
     "cover-image": "assets/cover-tender-buttons.jpg"
   },
   
@@ -111,7 +111,7 @@
 	    "blue-info1": "Portada: Annika Leppaaho",
     "blue-info2": "Prólogo de la autora",
     "html-content": "pages/books/content/men-women-ghots.html",
-    "square-thumbnail": "assets/thumbnail-men-women.jpg",
+    "square-thumbnail": "assets/thumbnail-hombres-mujeres-es.jpg",
     "cover-image": "assets/cover-men-women-ghosts1.png"
   },
   
@@ -135,7 +135,7 @@
 	    "blue-info1": "Portada: <a href='http://irinakoryagina.com/'>Irina Koryagina</a>, diseñadora gráfica en Nueva York",
 	    "blue-info2": " Prólogo: Podrías ser tú, contáctanos",
 	    "html-content": "#",
-	    "square-thumbnail": "assets/thumbnail-poor-clare-new.jpg",
+	    "square-thumbnail": "assets/thumbnail-poor-clare-es.jpg",
 	    "cover-image": "assets/cover-poor-clare.jpg"
 
 	    }
