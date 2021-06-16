@@ -6,9 +6,9 @@
 	  "blue-info1": "Prólogo: Carol H. MacKay, PhD - Profesora de English, The University of Texas at Austin",
     "blue-info2": "Portada <a href='jeanyangdesign.com'>Jean Yang</a> - Diseñadora visual y de producto",
 
-    "html-content": "pages/books/content/sillynovels.html",
+    "html-content": "pages/books/content/sillynovels-es.html",
     "square-thumbnail": "assets/thumbnail-novelas-tontas-es.jpg",
-    "cover-image": "assets/cover-silly-novels.png"
+    "cover-image": "assets/cover-silly-novels-es.png"
   },
 
 	"yellow-wallpaper": {
