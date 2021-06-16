@@ -1,9 +1,9 @@
 {
    "silly-novels": {
-    "title": "Novelas tontas de ciertas damas novelistas",
+    "title": "Novelas tontas de damas novelistas",
     "author": "Mary Anne Evans",
-    "book-paragraph": "En 'Novelas tontas de ciertas damas novelistas', la autora critica la mayoría de las novelas escritas por y para mujeres, afirmando que su trivialidad y desprecio por la realidad perjudican la causa de la educación de las mujeres. Este ensayo se publicó de forma anónima en la Westminster Review en 1856 y fue la primera publicación de Evans, justo antes de adoptar el seudónimo por el que sería conocida: George Eliot. ", 
-	  "blue-info1": "Prólogo: Carol H. MacKay, PhD - Profesora de English, The University of Texas at Austin",
+    "book-paragraph": "En 'Novelas tontas de damas novelistas', la autora critica la mayoría de las novelas escritas por y para mujeres, afirmando que su trivialidad y desprecio por la realidad perjudican la causa de la educación de las mujeres. Este ensayo se publicó de forma anónima en la Westminster Review en 1856 y fue la primera publicación de Evans, justo antes de adoptar el seudónimo por el que sería conocida: George Eliot. ", 
+	  "blue-info1": "Prólogo: Podrías ser tú, contáctanos",
     "blue-info2": "Portada <a href='jeanyangdesign.com'>Jean Yang</a> - Diseñadora visual y de producto",
 
     "html-content": "pages/books/content/sillynovels-es.html",
