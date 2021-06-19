@@ -1,5 +1,5 @@
 # Redirect users in Spain and Latam
-/index.html  /es/index.html  302  Country=ar,bo,cl,co,cr,do,ec,sv,gt,hn,mx,ni,pa,py,pe,pr,uy,ve
+/  /es/  302  Country=ar,bo,cl,co,cr,do,ec,sv,gt,hn,mx,ni,pa,py,pe,pr,uy,ve
 
 # Redirect users in Spanish to /es
-/index.html  /es/index.html  302  Language=es
+/  /es/  302  Language=es
