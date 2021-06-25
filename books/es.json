@@ -89,7 +89,7 @@
     "blue-info1": "Portada: Thais Jacoponi, Diseñadora y directora de arte brasilera",
     "blue-info2": "Prólogo: Podrías ser tú, contáctanos",
     "html-content": "pages/books/content/incidents-slave-girl.html",
-    "square-thumbnail": "assets/thumbnail-incidents.jpg",
+    "square-thumbnail": "assets/thumbnail-incidents-es.jpg",
     "cover-image": "assets/cover-incidents-in-the-life2.png"
   },
   
@@ -122,7 +122,7 @@
 	   "blue-info1": "Portada: Kathy Mueller",
 	    "blue-info2": "Prólogo: Podrías ser tú, contáctanos",
 	    "html-content": "#",
-	    "square-thumbnail": "assets/thumbnail-mathilda-new.jpg",
+	    "square-thumbnail": "assets/thumbnail-mathilda.jpg",
 	    "cover-image": "assets/cover-mathilda.jpg"
 
 	    },
