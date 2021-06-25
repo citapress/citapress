@@ -212,18 +212,19 @@ function loadBookWeb(book, shouldPushState, callback) {
 // on-popstate
 //
 window.onpopstate = function(e){
-  animateChange(e.state.title, function(callback) {
-
-    if (e.state.url) {
-      changePage(e.state.url, e.state.title, false, callback);
-    } else if (e.state.bookId) {
-      if (e.state.mode == WEB_VIEW) {
-        loadBookWeb(e.state.bookId, false, callback);
-      } else if (e.state.mode == FRONT_VIEW) {
-        loadBookFront(e.state.bookId, false, callback);
+  if (e.state != null) {
+    animateChange(e.state.title, function(callback) {
+      if (e.state.url) {
+        changePage(e.state.url, e.state.title, false, callback);
+      } else if (e.state.bookId) {
+        if (e.state.mode == WEB_VIEW) {
+          loadBookWeb(e.state.bookId, false, callback);
+        } else if (e.state.mode == FRONT_VIEW) {
+          loadBookFront(e.state.bookId, false, callback);
+        }
       }
-    }
-  });
+    });
+  }
 };
 
 // mouse functions to enable gifs
@@ -241,6 +242,33 @@ $(document).on('mouseenter','span.gif-link', function (event) {
 // on-click
 //
 $(document).on('click', 'a', function (e) {
+
+  // Read selected language
+  const selectedLang = $('.language-picker').attr("data-selected-lang");
+  // If it's a languaet)ge picker button
+  if ($(e.target).is("[data-selected-lang] > a")) {
+    e.preventDefault();
+
+    const clickedLanguage = $(e.target).attr("data-lang");
+    console.log(clickedLanguage);
+        console.log(selectedLang);
+
+    if (clickedLanguage == selectedLang) {
+      return; // Already selected.
+    }
+    const paths = (location.pathname+location.hash).split('/');
+    // Testing only, in case we're serving the page from a path with dist/ 
+    const distPathIndex = paths.indexOf("dist");
+    const baseIndex = distPathIndex < 0 ? 1 : distPathIndex + 1;
+
+    if (clickedLanguage != "en") {
+      paths.splice(baseIndex, 0, clickedLanguage);
+    } else {
+      paths.splice(baseIndex, 1);
+    }
+    console.log(paths.join('/'));
+    location.href = paths.join('/');
+  }
 
   // If it's a book link inside the page
   if ($(e.target).hasClass("book-link")) {

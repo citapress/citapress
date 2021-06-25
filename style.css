@@ -438,18 +438,37 @@ footer div.social {
 
 footer a.social {
   margin-right: 3px;
-  /*line-height: 30px;*/
-  /*height: 30px;*/
+  display: inline-block;
 }
 
 footer a.social img {
   height: 25px;
-  margin-top: -2px;
-  display: inline-block;
 }
 
 footer div.top {
   padding-left: 100px;
+}
+
+footer div.language-picker {
+  display: block;
+  line-height: 30px;
+  font-size: 1.2em;
+}
+
+footer div.language-picker a {
+  text-decoration: none;
+  cursor: auto;
+}
+
+footer div.language-picker[data-selected-lang="es"] > a[data-lang="en"],
+footer div.language-picker[data-selected-lang="en"] > a[data-lang="es"] {
+  text-decoration: underline;
+  color: #3634FB;
+  cursor: pointer;
+}
+
+footer div.language-picker > a:first-child {
+  padding-right: 10px;
 }
 
 footer div.bottom {
@@ -722,10 +741,19 @@ i {
   }
 
   footer {
-    right: 50px;
+    right: 0;
     clear: both;
-    /*position: fixed;*/
-    /*bottom: 40px;*/
+    position: fixed;
+    bottom: 0;
+    background-color: #fff;
+    width: 100%;
+    margin: 0;
+    padding: 15px 50px;
+  }
+
+  footer div.language-picker {
+    float: left;
+    display: inline-block;
   }
 
   main {
