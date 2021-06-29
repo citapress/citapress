@@ -301,7 +301,6 @@ article {
   font-size: 1.1rem;
   line-height: 1.4rem;
   font-weight: 300;
-   padding-bottom:60px;
 } 
 
 article #books {
@@ -729,7 +728,7 @@ i {
   }
 
   article {
-    padding: 0 30px;
+    padding: 0 30px 60px;
   }
 
   article #home {
