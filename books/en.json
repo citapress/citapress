@@ -126,9 +126,8 @@
 	    "cover-image": "assets/cover-mathilda.jpg"
 
 	    },
-
-
-	    "poor-clare": {
+	
+	 "poor-clare": {
 	    "title": "The Poor Clare",
 	    "author": "Elizabeth Gaskell",
 	    "book-paragraph": "The Poor Clare is a gothic ghost story about a young woman unwittingly cursed by her own grandmother. Gaskell's short story was first published in serialized form in 1856 in Charles Dickens' popular weekly magazine Household Words. Despite the male narrator, feminism is a theme in The Poor Clare. Bridget is a powerful woman who confronts the patriarchal establishment through her own powers. She has a 'strong will' and 'strong nature', which enable her to exert control over not just her employers the Starkey family, but the rest of the local population as well. (Wikipedia)",
@@ -138,7 +137,32 @@
 	    "square-thumbnail": "assets/thumbnail-poor-clare-new.jpg",
 	    "cover-image": "assets/cover-poor-clare.jpg"
 
-	    }
+	    },
+	
+"ensayos-feministas": {
+    "title": "Ensayos feministas de Latinoamérica 1844 - 1914",
+    "author": "Seis autoras",
+    "book-paragraph": "ONLY AVAILABLE IN SPANISH - Era 2009 y las repúblicas de México, Centroamérica y América del sur se preparaban para la conmemoración de dos siglos de sus declaraciones de Independencia de la corona española. Los símbolos brillaban en los escaparates de la memoria oficial, la campana de México, el florero de Colombia, el gorro frigio de Argentina; se les sacudía el polvo a los héroes patrios, la mayoría blanquitos, eso sí, y hablantes de la lengua colonial; se preparaban monumentos a pesar de la crisis económica y los cuestionamientos políticos. Honduras había vuelto, después de dos décadas de olvido regional, a lo que europeos y estadounidenses consideran una tradición golpista propia de la región (sin nunca hacerse responsables de cuánto la han fomentado). En fin, todo parecía coincidir con los desleídos preparativos de una fiesta oficial. Sólo que algo muy evidentemente faltaba y había un movimiento feminista que apuntaba el dedo señalando la ausencia. ¿Dónde estaban las mujeres en el recuento de los dos siglos de vida independiente?. Los que siguen son pocos textos que en 2009 decidimos hacer públicos. Hoy ha llegado el tiempo.",
+    "blue-info1": "Foreword: Francesca Gargallo",
+    "blue-info2": "Cover: Antonela Debiasi",
+
+    "html-content": "#",
+    "square-thumbnail": "assets/thumbnail-ensayos-feministas.jpg",
+    "cover-image": "assets/cover-ensayos-feministas.jpg"
+  },
+
+
+	  "meditaciones": {
+    "title": "Meditaciones sobre los cantares",
+    "author": "Santa Teresa de Jesús",
+    "book-paragraph": "Santa Teresa’s trajectory of personal survival is as miraculous as the survival of her Meditations. Despite almost disappearing into flames ignited by the zealous orthodoxy of some confessor, this text reaches us today, after four and a half centuries of vicissitudes. And what better way to celebrate its continued existence than through this digital edition, freely accessible to any reader from anywhere in the world with access to a device with the internet.",
+    "blue-info1": "Foreword: Ana María Carvajal, PhD. studies the works of Early Modern mystic women, particularly those of Teresa of Avila",
+    "blue-info2": "Cover: <a href='https://kathiuska.com/'> Catalina Vázquez </a> - Colombian illustrator.",
+
+    "html-content": "#",
+    "square-thumbnail": "assets/thumbnail-st-teresa-eng.jpg",
+    "cover-image": "assets/cover-st-teresa-eng.jpg"
+  }
   
   
   
