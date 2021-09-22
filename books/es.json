@@ -22,6 +22,30 @@
     "square-thumbnail": "assets/thumbnail-yellowwallpaper-es.jpg",
     "cover-image": "assets/cover-tapiz-amarillo.jpg"
   },
+	
+		"ensayos-feministas": {
+    "title": "Ensayos feministas de Latinoamérica 1844 - 1914",
+    "author": "Seis autoras",
+    "book-paragraph": "Era 2009 y las repúblicas de México, Centroamérica y América del sur se preparaban para la conmemoración de dos siglos de sus declaraciones de Independencia de la corona española. Los símbolos brillaban en los escaparates de la memoria oficial, la campana de México, el florero de Colombia, el gorro frigio de Argentina; se les sacudía el polvo a los héroes patrios, la mayoría blanquitos, eso sí, y hablantes de la lengua colonial; se preparaban monumentos a pesar de la crisis económica y los cuestionamientos políticos. Honduras había vuelto, después de dos décadas de olvido regional, a lo que europeos y estadounidenses consideran una tradición golpista propia de la región (sin nunca hacerse responsables de cuánto la han fomentado). En fin, todo parecía coincidir con los desleídos preparativos de una fiesta oficial. Sólo que algo muy evidentemente faltaba y había un movimiento feminista que apuntaba el dedo señalando la ausencia. ¿Dónde estaban las mujeres en el recuento de los dos siglos de vida independiente?. Los que siguen son pocos textos que en 2009 decidimos hacer públicos. Hoy ha llegado el tiempo.",
+    "blue-info1": "Prólogo: Francesca Gargallo",
+    "blue-info2": "Portada: Antonela Debiasi",
+
+    "html-content": "#",
+    "square-thumbnail": "assets/thumbnail-ensayos-feministas.jpg",
+    "cover-image": "assets/cover-ensayos-feministas.jpg"
+  },
+	
+		"meditaciones": {
+    "title": "Meditaciones sobre los cantares",
+    "author": "Santa Teresa de Jesús",
+    "book-paragraph": "La trayectoria de supervivencia de Santa Teresa de Jesús es tan milagrosa como la de las Meditaciones. Luego de casi desaparecer entre las llamas de los celos ortodoxos de algún confesor, este texto llega hasta nosotros ahora, después de cuatro siglos y medio de vicisitudes. Y qué mejor forma de celebrar su preservación que esta edición digital, de acceso libre para todos los lectores que, desde cualquier lugar del mundo, puedan usar un dispositivo con internet.",
+    "blue-info1": "Prólogo: Ana María Carvajal, PhD. estudia las obras de las mujeres místicas de la Edad Moderna, en particular las de Teresa de Ávila",
+    "blue-info2": "Portada: <a href='https://kathiuska.com/'> Catalina Vázquez </a> - Ilustradora colombiana.",
+
+    "html-content": "#",
+    "square-thumbnail": "assets/thumbnail-st-teresa.jpg",
+    "cover-image": "assets/cover-st-teresa.jpg"
+  },
 
   "the-awakening": {
     "title": "El despertar",
