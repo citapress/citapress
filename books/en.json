@@ -7,7 +7,7 @@
     "blue-info2": "Cover: <a href='http://laurasavina.com'>Laura Savina</a> - Italian illustrator and tap dance student.",
 
     "html-content": "pages/books/content/yellowwallpaper.html",
-    "square-thumbnail": "assets/yellowwallpaper.png"<img alt="The Yellow Wall Paper"> ,
+    "square-thumbnail": "assets/yellowwallpaper.png" alt="The Yellow Wall Paper",
     "cover-image": "assets/cover-yellowwallpaper.jpg"
   },
 
