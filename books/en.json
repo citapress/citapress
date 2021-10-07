@@ -8,7 +8,8 @@
 
     "html-content": "pages/books/content/yellowwallpaper.html",
     "square-thumbnail": "assets/yellowwallpaper.png",
-    "cover-image": "assets/cover-yellowwallpaper.jpg"
+    "cover-image": "assets/cover-yellowwallpaper.jpg",
+	         "alt": "The Yellow Wall-Paper by Charlotte Perkins Gilman"
   },
 
   "the-awakening": {
