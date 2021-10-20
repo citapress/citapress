@@ -42,7 +42,7 @@
     "blue-info1": "Prólogo: Ana María Carvajal, PhD. estudia las obras de las mujeres místicas de la Edad Moderna, en particular las de Teresa de Ávila",
     "blue-info2": "Portada: <a href='https://kathiuska.com/'> Catalina Vázquez </a> - Ilustradora colombiana.",
 
-    "html-content": "#",
+    "html-content": "pages/books/content/meditaciones.html",
     "square-thumbnail": "assets/thumbnail-meditaciones.png",
     "cover-image": "assets/cover-st-teresa.jpg"
   },
