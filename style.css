@@ -895,7 +895,8 @@ i {
   }
 
   a.make-book {
-    display: inline-block;
+      display: none;
+    /*display: inline-block;
     /*height: 50px;*/
     float: right;
     text-decoration: none;
