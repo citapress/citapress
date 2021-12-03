@@ -17,23 +17,16 @@ about:
   top_paragraph_body: "cita: una biblioteca y editorial que destaca, publica y promueve obras feministas. Emparejamos autoras y diseñadoras contemporáneas con textos de acceso abierto, ¡y ponemos a disposición de forma gratuita libros cuidadosamente diseñados! cita: una obra de amor."
   left_column_body: >-
     <p>En español, “<span class="blue">cita</span>” significa reunión, acuerdo o compromiso. También es el sufijo diminutivo para sustantivos femeninos.</p>
-    <p>Mira nuestro <a href="https://www.youtube.com/watch?v=F21bP9pydE0" target="_blank"> video</a></p>
+    <p>Mira nuestro <a href="https://www.youtube.com/watch?v=Vlnc8CdN-YU" target="_blank"> video</a></p>
     <p><span class="mini-title">Manifesto:</span>
-      <li> Elevar el trabajo de quienes primero abordaron la desigualdad de género </li>
-      <li> Usar recursos de código abierto y acreditar a quienes colaboren activamente </li>
-      <li> Mantener el contenido en plataformas de acceso abierto, licencias y formatos </li>
-      <li> Dar acceso gratuito al contenido </li>
-      <li> Hacer visible y celebrar el trabajo de las contribuyentes </li>
-      <li> Emparejar la literatura clásica con la investigación y el diseño contemporáneo </li>
-      <li> Comprometernos con la interseccionalidad </li>
-      <li> Ser participativas y abiertas a nuevas voces y colaboraciones </li>
+      <li> Elevar el trabajo de quienes primero abordaron la desigualdad de género </li><li> Usar recursos de código abierto y acreditar a quienes colaboren activamente </li> <li> Mantener el contenido en plataformas de acceso abierto, licencias y formatos </li><li> Dar acceso gratuito al contenido </li> <li> Hacer visible y celebrar el trabajo de las contribuyentes </li> <li> Emparejar la literatura clásica con la investigación y el diseño contemporáneo </li> <li> Comprometernos con la interseccionalidad </li><li> Ser participativas y abiertas a nuevas voces y colaboraciones </li>
     </p>
   right_column_body: >-  
     <p><span class="mini-title">Qué: </span> Libros de acceso abierto cuidadosamente diseñados escritos por mujeres en ediciones contemporáneas gratuitas, tanto para impresión como para web.</p>
     <p><span class="mini-title">Cómo:</span> <span class="blue">cita</span> es un trabajo de amor entre diseñadoras y escritoras que se basa en escritos de dominio público y textos, fuentes e imágenes de código abierto. El contenido de <span class="blue">cita</span> es de dominio público o tiene licencia  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons CC-NC-SA 4.0</a>, lo que significa que es gratis para siempre y se puede compartir con fines no comerciales siempre que digas quién lo creó. Por ejemplo, usamos <a href="https://github.com/evnbr/bindery">Bindery</a> de Evan Brooks. Para más detalles, visita la <a href="pages/collaborate.html" data-title="Colabora">página de colaboración</a>.</p>
     <p><span class="mini-title">Por qué:</span> Históricamente, las autoras han estado subrepresentadas en una industria editorial con fines de lucro y dominada por hombres. Hacemos que las obras de estas escritoras sean accesibles para todes, en ediciones gratuitas.</p>
     <p><span class="mini-title">Quién:</span> <span class="blue">cita</span> está patrocinada fiscalmente por Educopia y apoyada económicamente por la Fundación Andrew W. Mellon. Lee más sobre <a href="https://educopia.org/cita-press-getting-fit/">Cita Press  - Getting Fit</a>, un proyecto de  un proyecto de dos años destinado a mejorar la capacidad de cita y crear una estrategia comercial para la editorial. Cita fue creada por <a href="http://julianacastro.co">Juliana Castro</a>. La Coordinadora editorial y de programas es Jessi Haley. Trabajamos en colaboración con una larga lista de <a href="pages/collaborate.html" data-title="Colabora">contribuidores</a>. <a href="pages/collaborate.html" data-title="Colabora">¡Únete!</a></p>
-
+ <p><span class="mini-title">Junta Directiva:</span><a href="https://openreflections.wordpress.com/"target=“_blank”>Janneke Adema, <a href="https://knightfoundation.org/employee/vicky-checo/"target=“_blank”>Vicky Checo</a>, <a href="https://twitter.com/krmaher"target=“_blank”>Katherine Maher</a>, <a href="https://educopia.org/jessica-meyerson/"target=“_blank”>Jessica Meyerson,</a> <a href="https://mindyseu.com/"target=“_blank”>Mindy Seu </a>.
 books:
   paragraph_title: "Libros:"
   paragraph_body: Nuestros textos varían en género, desde ficción hasta memorias, ensayos y poesía. Algunos incluyen un prólogo que ayuda a comprender el contexto en el que la autora estaba escribiendo y lo que significa el texto hoy. Por ahora, la mayoría de nuestros libros solamente están disponibles en inglés, pero estamos trabajando para tener una mayor oferta en español. <a href="pages/collaborate.html" data-title="Colabora">Únete y colabora</a>.
@@ -73,7 +66,7 @@ news:
   top_paragraph_body: Para mantenterte al día, suscríbete a <a href="https://tinyletter.com/citapress" class="blue">nuestro newsletter</a>.
   news_body: >-
     <ul>
-    <li><b> Noviembre, 2021 (Anuncio)</b> Estamos encantadas de presentar a la Junta Directiva de Cita: <a href="https://openreflections.wordpress.com/"target=“_blank”>Janneke Adema, <a href="https://knightfoundation.org/employee/vicky-checo/"target=“_blank”>Vicky Checo, <a href="https://twitter.com/krmaher"target=“_blank”>Katherine Maher, <a href="https://educopia.org/jessica-meyerson/"target=“_blank”>Jessica Meyerson, & <a href="https://mindyseu.com/"target=“_blank”>Mindy Seu!</a> Les agradecemos por su orientación mientras damos forma al futuro de Cita.
+    <li><b> Noviembre, 2021 (Anuncio)</b> Estamos encantadas de presentar a la Junta Directiva de Cita: <a href="https://openreflections.wordpress.com/"target=“_blank”>Janneke Adema</a>, <a href="https://knightfoundation.org/employee/vicky-checo/"target=“_blank”>Vicky Checo</a>, <a href="https://twitter.com/krmaher"target=“_blank”>Katherine Maher</a>, <a href="https://educopia.org/jessica-meyerson/"target=“_blank”>Jessica Meyerson</a>, & <a href="https://mindyseu.com/"target=“_blank”>Mindy Seu</a>! Les agradecemos por su orientación mientras damos forma al futuro de Cita.
     <li><b> Noviembre, 2021 (Evento)</b> Cita participará en el debate "Abriendo libros antiguos" en el <a href="https://openpublishingfest.org/"target=blank">Open Publishing Fest</a> el 12 de noviembre a la 1 pm ET. 
     <li><b> Octubre, 2021 (Evento/Lanzamiento)</b> Cita publica una edición bilingüe de las Meditaciones sobre el Cantar de los Cantares de Santa Teresa de Ávila. ¡Mira el video de presentación con Juliana Castro, la académica Ana María Carvajal y la ilustradora Catalina Vásquez <a href="https://www.youtube.com/watch?v=AYd_gXzeqM0" target="_blank"> aquí</a>!</li
        <li><b> July, 2021 (Anuncio)</b>¡A Cita Press le encantaría saber de ti! Si eres un/una lector/a de Cita (o un/una posible lector/a) y te gustaría darnos tu opinión y consejos sobre cómo podemos avanzar  nuestro trabajo, completa nuestra breve <a href="https://forms.gle/gCnLt6umVVYKLDp39"target=“_blank”>encuesta</a>. ¡Gracias!
