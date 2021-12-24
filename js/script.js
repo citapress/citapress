@@ -122,10 +122,10 @@ function loadBooks() {
   readBooks(function(data) {
     var items = [];
     $.each( data, function( key, val ) {
-      items.push( "<a href='#' class='book-link' data-title='" + val["title"] + "' id='" + key +
-                  "' style='background-image: url(" + val["square-thumbnail"] + ")'></a>" );
+      items.push( "<a href='#' class='book-link' alt='" + val["title"] + "' data-title='" + val["title"] + 
+                  "' id='" + key + "' style='background-image: url(" + val["square-thumbnail"] + ")'></a>" );
     });
-
+ tz
     $('.books').html(items.join(''));
   });
 };
