@@ -125,7 +125,6 @@ function loadBooks() {
       items.push( "<a href='#' class='book-link' alt='" + val["title"] + "' data-title='" + val["title"] + 
                   "' id='" + key + "' style='background-image: url(" + val["square-thumbnail"] + ")'></a>" );
     });
- tz
     $('.books').html(items.join(''));
   });
 };
