@@ -54,7 +54,7 @@
     "blue-info1": "Prólogo: <a href='http://www.krithikavaragur.com/about' target='_blank'>Krithika Varagur</a>, galardonada periodista, autora, ensayista y humorista estadounidense.",
     "blue-info2": "Portada: <a href='https://petrazehner.com/' target='_blank'>Petra Zehner</a>, artista gráfica y escritora residente en Francia.",
 
-    "html-content": "the-old-maid-ES.html",
+    "html-content": "pages/books/content/the-old-maid-ES.html",
     "square-thumbnail": "assets/old-maid-square-ES.jpg",
     "cover-image": "assets/old-maid-cover-ES.jpg"
   },
