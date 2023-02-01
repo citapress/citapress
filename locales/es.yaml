@@ -5,7 +5,7 @@ menu:
   home: Casita
   about: Acerca de
   books: Libros
-  equipo: Equipo
+  people: Equipo
   donate: Donar
   news: Noticias
   contact: Contacto
@@ -31,26 +31,26 @@ about:
   paragraph_title: "Libros:"
   paragraph_body: Nuestros textos varían en género, desde ficción hasta memorias, ensayos y poesía. Algunos incluyen un prólogo que ayuda a comprender el contexto en el que la autora estaba escribiendo y lo que significa el texto hoy. Por ahora, la mayoría de nuestros libros solamente están disponibles en inglés, pero estamos trabajando para tener una mayor oferta en español. <a href="pages/collaborate.html" data-title="Colabora">Únete y colabora</a>.
 
-equipo:
-  top_paragraph_title: "Equipo:"
-  top_paragraph_body: >-
+people:
+  people_paragraph_title: "Equipo:"
+  people_paragraph_body: >-
     Cita Press es un esfuerzo colaborativo de amor hecho posible por la generosidad de muchas colaboradoras directas e indirectas. Actualmente, Cita está patrocinado fiscalmente por el Instituto Educopia y financiado a través del generoso apoyo de la Fundación Mellon. 
-  middle_paragraph_body: >-
+  join_us_paragraph_body: >-
     Si quieres unirte<b> por favor lee nuestro<a href="https://github.com/citapress/citapress/edit/master/Codigo-de-Conducta.md"> código de conducta</a>
-  bottom_paragraph_title: "Personal:"
-  bottom_paragraph_body: >-
+  staff_paragraph_title: "Personal:"
+  staff_paragraph_body: >-
     <b>Juliana Castro Varón</b> es la fundadora de Cita y co-investigadora principal de Getting Fit. Es directora creativa, diseñadora y autora de Papel sensible. Actualmente es Fellow del Berkman Klein Center for Internet & Society de la Universidad de Harvard. 
     <b>Jessi Haley</b> es la coordinadora editorial y de proyectos de Cita. Jessi anteriormente administró el programa de escritura creativa en la Universidad de Chicago y formó parte del equipo editorial de Chicago Review y Colloquium Magazine.
     <b>Equipo de consultoría de Getting Fit:</b> Lauren Dapena Fraiz, Katherine Kim, Brandon Locke, Jessica Meyerson
-  bottom_paragraph_title: "Junta Asesora:"
-  bottom_paragraph_body: >-
+  board_paragraph_title: "Junta Asesora:"
+  board_paragraph_body: >-
     <p>La <b>Dra. Janneke Adema</b> es una teórica cultural y de medios que trabaja en los campos de la publicación (de libros) y la cultura digital. En su investigación, explora el futuro de las comunicaciones académicas y las formas experimentales de producción de conocimiento. También apoya una variedad de proyectos editoriales sin fines de lucro dirigidos por académicos, incluidos Radical Open Access Collective, Open Humanities Press, ScholarLed, Post Office Press (POP) y COPIM.
     <b>Vicky Checo</b> es Gerente de Participación Comunitaria en The Miami Foundation. Habiendo trabajado en todos los sectores (gubernamental, privado, sin fines de lucro y filantrópico), puede ver los sistemas desde muchas perspectivas y apoyar proyectos desde la idea hasta el impacto. Apasionada por sus raíces, se dedica a fortalecer las organizaciones mediante el uso de su conocimiento para ayudar a construir su infraestructura, operaciones y programación.
     <b>Katherine Maher</b> es miembro senior del Atlantic Council, directora de la junta de System, Inc. y ex directora ejecutiva de la Fundación Wikimedia. Ha desarrollado su carrera en la intersección de la tecnología, los derechos humanos, la democracia y el desarrollo internacional, y ha trabajado con UNICEF, el Instituto Nacional Democrático, el Banco Mundial y Access Now.
     <b>Jessica Meyerson</b> es codirectora del Instituto Educopia, donde es la principal responsable de garantizar la implementación fluida de la dirección estratégica de la organización. También es codirectora de The Keepers, una red de investigación global interesada en los conceptos de infraestructura de mantenimiento, reparación y las innumerables formas de trabajo y experiencia que sustentan nuestro mundo construido por humanos.
     <b>Mindy Seu</b> es una diseñadora e investigadora cuya práctica reinventa la historia de Internet y cómo esto podría guiar su futuro. Enseña estas prácticas alternativas basadas en la web en la Universidad de Rutgers y la Universidad de Yale. Es la editora de Cyberfeminism Index.</p>
-  bottom_paragraph_title: "Colaboradores Generales"
-  bottom_paragraph_body: >-  
+  contributors_paragraph_title: "Colaboradores Generales"
+  contributors_paragraph_body: >-
     <p>Juan José Castro Varon</b> es Líder de desarrollo Web
     Otros colaboradores incluye a Nate Angell (Mozilla Open Leaders mentor and friend), Tien Mimi Nguyen (Write Speak Code SF advocate), Jessica Meyerson (Lead Advisor and friend)
     <b>Diseñadoras:</b> Laura Savina, Jiwon Park, Lauren Smedley, Natalia Rojas, Jean Yang, Juliana Castro, Thais  Jacoponi (upcoming), Luce Terrason (upcoming),
