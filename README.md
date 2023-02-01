@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/091f948a-f979-4baa-a28a-8621367e7582/deploy-status)](https://app.netlify.com/sites/cranky-bartik-68e51d/deploys) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Cita
 
 A dynamic website for [**Cita Press**](https://citapress.org), a feminist open-source digital library publishing books by women. 💪
@@ -15,3 +17,20 @@ Thank you for your interest in Cita. Here you’ll find how to contribute, sugge
 ---
 
 We want to create a safe and generous space for everyone. This virtual space, as well as any other of Cita's collaborative spaces, is subject to our ⚖️ [Code-of-Conduct](https://github.com/citapress/citapress/blob/master/Code-of-Conduct.md).
+
+---
+
+## Build instructions [For developers 💻]
+
+To build Cita Press locally:
+
+1. Cloned the repository (e.g. `git clone https://github.com/citapress/citapress.git`)
+2. Inside the directory, install dependencies with `npm install`
+3. Install gulp `npm install --global gulp-cli` 
+4. Build the website with `gulp localbuild`. This will build Cita inside the dist/ folder.
+
+### Deployment
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/091f948a-f979-4baa-a28a-8621367e7582/deploy-status)](https://app.netlify.com/sites/cranky-bartik-68e51d/deploys)
+
+Cita Press is deployed using [Netlify](https://www.netlify.com/). 
