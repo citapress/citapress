@@ -42,10 +42,10 @@ books:
 
 people:
   top_paragraph_title: "People:"
-  top_paragraph_body: Cita is a collaborative effort of love made possible by the generosity of many direct and indirect contributors. Currently, Cita is fiscally sponsored by Educopia Institute and funded through the generous support of the Mellon Foundation.
-  middle_paragraph_body: If you want to join us,<b> please read our <a href="https://github.com/citapress/citapress/blob/master/Code-of-Conduct.md"> Code of Conduct</a></b>.
-  bottom_paragraph_title: "Staff:"
-  bottom_paragraph_body: >-
+  top_paragraph_body: Cita is a collaborative effort of love made possible by the generosity of many direct and indirect contributors. Currently, Cita is fiscally sponsored by Educopia Institute and funded through the generous support of the Mellon Foundation. If you want to join us,<b> please read our <a href="https://github.com/citapress/citapress/blob/master/Code-of-Conduct.md"> Code of Conduct</a></b>.
+    <hr>
+  middle_paragraph_title: "Staff:"
+  middle_paragraph_body: >-
    <p><b>Juliana Castro-Varón</b> is Cita’s Founder and co-principal investigator for Getting Fit. She is  a creative director, designer, and the author of Papel sensible. She is currently a fellow at Harvard University's Berkman Klein Center for Internet & Society. </p>
    <p><b>Jessi Haley</b> is Cita’s project and editorial coordinator. Jessi previously managed the creative writing program at the University of Chicago and has served on the editorial staff of Chicago Review and Colloquium Magazine. </p>
    <p><b><i>Getting Fit</i< consulting team:</b> Lauren Dapena Fraiz, Katherine Kim, Brandon Locke, Jessica Meyerson</p>
@@ -56,8 +56,8 @@ people:
     <p><b>Katherine Maher</b> is a senior fellow at the Atlantic Council, Board Director for System, Inc.  and the former chief executive officer of the Wikimedia Foundation. She has spent her career at the intersection of technology, human rights, democracy and international development, and has worked with UNICEF, the National Democratic Institute, the World Bank, and Access Now.</p>
     <p><b>Jessica Meyerson</b> is Co-Director for Educopia Institute, where she is chiefly responsible for ensuring smooth implementation of the organization’s strategic direction. She’s also Co-Director of The Maintainers, a global research network interested in the concepts of maintenance infrastructure, repair and the myriad forms of labor and expertise that sustain our human-built world. </p>
     <p><b>Mindy Seu</b> is a designer and researcher whose practice reimagines the history of the internet and how this might guide its future. She teaches these alternative web-based practices at Rutgers University and Yale University. She is the editor of Cyberfeminism Index.</p>
-  bottom_paragraph_title: "General Contributors:"
-  bottom_paragraph_body: >-
+    <hr>
+    <br><br><p><b>GENERAL CONTRIBUTORS</b></p>
     <p><b>Volunteer Web Development Lead:</b> Juan José Castro Varón</p>
     <p>Designers: Josie Bellini, Antonela Debiasi, Fiorella Ferroni, Thaïs Jacoponi, Irina Koryagina, Annika Leppäaho, Kathy Mueller, Jiwon Park, Laura Ramírez, Natalia Rojas, Laura Savina, Lauren Smedley, Luce Terrasson, Catalina Vásquez, Jean Yang, Petra Zehner</p>
     <p>Writers: Ana María Carvajal, Francesca Gargallo, Bonnie Hurd Smith, Christy Hyman, Carol MacKay, Heather Ostman, Krithika Varagur, Gabrielle Welsh</p>
