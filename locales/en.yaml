@@ -5,7 +5,7 @@ menu:
   home: Home
   about: About
   books: Books
-  collaborate: Collaborate
+  people: People
   donate: Donate
   news: News
   contact: Contact
@@ -40,28 +40,42 @@ books:
   paragraph_title: "Books:"
   paragraph_body: Our books range in genre from fiction to memoir to essay and poetry. Most texts include a foreword by a contemporary writer or scholar, which helps readers understand the context in which the author was writing, and what the work means for today.
 
-collaborate:
-  top_paragraph_title: "Collaborate:"
+people:
+  top_paragraph_title: "People:"
   top_paragraph_body: >-
-    Do you have suggestions for public-domain or Creative Commons texts of 100 pages or less that you’d like to see reprinted in a free edition? Would you be willing to write an introduction? Design a cover? 
-    Edit a collection? Sponsor a book of a particular author? We are particularly interested in publishing books by women of color, queer and non-binary folks, and explore contemporary writing!  
-    <font color="blue">For the time being, Cita is not looking for new volunteer collaborators for upcoming book projects. Please keep an eye out for future announcements.</font>
+   Cita is a collaborative effort of love made possible by the generosity of many direct and indirect contributors. Currently, Cita is fiscally sponsored by Educopia Institute and funded through the generous support of the Mellon Foundation. 
   middle_paragraph_body: >-
     If you want to join us,<b> please read our <a href="https://github.com/citapress/citapress/blob/master/Code-of-Conduct.md"> Code of Conduct</a></b>.
-  bottom_paragraph_title: "Credits:"
+  bottom_paragraph_title: "Staff:"
   bottom_paragraph_body: >-
-    This project is a collaborative effort of love made possible by the generosity of many direct and indirect contributors. Currently, Cita is fiscally sponsored by the Educopia Institute and the generous support of the Mellon Foundation.
+<b>Juliana Castro-Varón</b> is Cita’s Founder and co-principal investigator for Getting Fit. She is  a creative director, designer, and the author of Papel sensible. She is currently a fellow at Harvard University's Berkman Klein Center for Internet & Society. 
+<br>
+<b>Jessi Haley</b> is Cita’s project and editorial coordinator. Jessi previously managed the creative writing program at the University of Chicago and has served on the editorial staff of Chicago Review and Colloquium Magazine.  <br><br>
+  <br>
+  <b><i>Getting Fit</i< consulting team:</b> Lauren Dapena Fraiz, Katherine Kim, Brandon Locke, Jessica Meyerson
+  bottom_paragraph_title: "Advisory Board:"
+  bottom_paragraph_body: >-
+<b>Dr. Janneke Adema</b> is a cultural and media theorist working in the fields of (book) publishing and digital culture. In her research she explores the future of scholarly communications and experimental forms of knowledge production. She also supports a variety of scholar-led, not-for-profit publishing projects, including the Radical Open Access Collective, Open Humanities Press, ScholarLed, Post Office Press (POP), and COPIM.
+<br>
+<b>Vicky Checo</b> is Community Engagement Manager at The Miami Foundation. Having served across all sectors— government, private, nonprofit, and philanthropic—she's able to view systems from many perspectives and support projects from idea to impact. Passionate about her roots, she's dedicated to strengthening organizations by using her knowledge to help build their infrastructure, operations and programming.
+<br>
+<b>Katherine Maher</b> is a senior fellow at the Atlantic Council, Board Director for System, Inc.  and the former chief executive officer of the Wikimedia Foundation. She has spent her career at the intersection of technology, human rights, democracy and international development, and has worked with UNICEF, the National Democratic Institute, the World Bank, and Access Now.
+<br>
+<b>Jessica Meyerson</b> is Co-Director for Educopia Institute, where she is chiefly responsible for ensuring smooth implementation of the organization’s strategic direction. She’s also Co-Director of The Maintainers, a global research network interested in the concepts of maintenance infrastructure, repair and the myriad forms of labor and expertise that sustain our human-built world. 
+<br>
+<b>Mindy Seu</b> is a designer and researcher whose practice reimagines the history of the internet and how this might guide its future. She teaches these alternative web-based practices at Rutgers University and Yale University. She is the editor of Cyberfeminism Index.
+  bottom_paragraph_title: "General Contributors:"
+  bottom_paragraph_body: >-
+    <b>Volunteer Web Development Lead:</b> Juan José Castro Varón
     <br><br>
-    <b>General Contributors:</b> Juan José Castro (Web Development Lead), Nate Angell (Mozilla Open Leaders mentor and friend), Tien Mimi Nguyen (Write Speak Code SF advocate), Camilo Villegas (Web Dev support), Jessica Meyerson (Lead Advisor and friend, Co-PI for Getting Fit)
+    Designers: Josie Bellini, Antonela Debiasi, Fiorella Ferroni, Thaïs Jacoponi, Irina Koryagina, Annika Leppäaho, Kathy Mueller, Jiwon Park, Laura Ramírez, Natalia Rojas, Laura Savina, Lauren Smedley, Luce Terrasson, Catalina Vásquez, Jean Yang, Petra Zehner
+     <br><br>
+    Writers: Ana María Carvajal, Francesca Gargallo, Bonnie Hurd Smith, Christy Hyman, Carol MacKay, Heather Ostman, Krithika Varagur, Gabrielle Welsh
+    Cypherpunk Women writers & editors: Leigh Cuen, Michael McSweeney, Marisol Bayona Román, Soona Amhaz, Saga Arvidsdotter, Josie Bellini, Kiara Bickers, Audrey Chaing, Emily Faria, Janey Gak, Allie Eve Knox, Jordan Kong, Sarah Jamie Lewis, Mir Liponi, Beth McCarthy, Chrissa McFarlane, Lisa Neigut, Norika Kizawa, Chelsea Palmer, Anita Posch, Samantha Radocchia, Hannah Rosenberg, Kokab “Setareh” Shabanipour, Amber Scott, Alena Vranova, Leah Wald, Karima Williams, Joyce Yang, Linda Xie, @Bitcoinstripper, @GlitchesBrew, @Tina_in_Tech, and many more. 
     <br><br>
-    <b>Designers:</b> <a href="https://josie.io/" target="_blank"> Josie Bellini</a> , <a href="https://antonela.design/" target="_blank">Antonela Debiasi</a>, <a href="https://www.instagram.com/fiorella.ferroni/?hl=en" target="_blank"> Fiorella Ferroni</a>, <a href="https://www.instagram.com/thatajacoponi/?hl=en" target="_blank"> Thaïs Jacoponi</a>,<a href="http://irinakoryagina.com/" target="_blank"> Irina Koryagina</a>, Annika Leppäaho, Kathy Mueller, Jiwon Park, Laura Ramírez, Natalia Rojas, Laura Savina, Lauren Smedley, Luce Terrasson, Catalina Vásquez, Jean Yang, Petra Zehner
-
-    <br><br>
-    <b>Writers:</b> Catherine J. Golden, PhD, Heather Ostman, PhD, Bonnie Hurd Smith, Carol MacKay, PhD, Gabrielle Welsh
-    <br><br>
-    <b>Other credits:</b> Video Music: Fantasy by Podington Bear, Icons by Creative Mania, Llisole, Mungang Kim, Becris and corpus delicti and Luisa Iborra. Powered by The Noun Project, and licensed under CC, Pre-formated text: Project Gutemberg
-    Interior illustrations for The Yellow Wall-Paper: Jo. H. Hatfield, currently under public domain, Video voice: Kira Street, Bindery by Evan Brooks. Licensed under MIT License, Short video / gifs: From Giphy! If you consider this could be a more concrete credit, hit ups up!
-    Roboto and Bitter, distributed by Google Fonts. Licensed under OFL, Bluu, distributed by Open Foundry. Licensed under OFL
+    <b>Additional Credits</b>
+    Other contributors and supporters: Nate Angell (Mozilla Open Leaders mentor and friend), Tien Mimi Nguyen (Write Speak Code SF advocate), Camilo Villegas (Web Dev support)
+    Video credits: Fantasy by Podington Bear, Icons by Creative Mania, Llisole, Mungang Kim, Becris and corpus delicti and Luisa Iborra. Powered by The Noun Project, and licensed under CC. Preformatted text: Project Gutenberg. Interior illustrations for The Yellow Wall-Paper: Jo. H. Hatfield, currently under public domain. Spanish translation for The Old Maid: Freeditorial. Video voice: Kira Street. Bindery by Evan Brooks. Licensed under MIT License. Short video / gifs: From Giphy! Roboto and Bitter, distributed by Google Fonts. Licensed under OFL, Bluu, distributed by Open Foundry. Licensed under OFL. If you believe this could be a more concrete credit, hit us up!
 
 contact:
   top_paragraph_title: "Contact:"
