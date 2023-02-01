@@ -42,8 +42,8 @@ books:
 
 people:
   top_paragraph_title: "People:"
-  top_paragraph_body: Cita is a collaborative effort of love made possible by the generosity of many direct and indirect contributors. Currently, Cita is fiscally sponsored by Educopia Institute and funded through the generous support of the Mellon Foundation. If you want to join us,<b> please read our <a href="https://github.com/citapress/citapress/blob/master/Code-of-Conduct.md"> Code of Conduct</a></b>.
-    <hr>
+  top_paragraph_body: >-
+    Cita is a collaborative effort of love made possible by the generosity of many direct and indirect contributors. Currently, Cita is fiscally sponsored by Educopia Institute and funded through the generous support of the Mellon Foundation. If you want to join us,<b> please read our <a href="https://github.com/citapress/citapress/blob/master/Code-of-Conduct.md"> Code of Conduct</a></b>.
   middle_paragraph_title: "Staff:"
   middle_paragraph_body: >-
    <p><b>Juliana Castro-Varón</b> is Cita’s Founder and co-principal investigator for Getting Fit. She is  a creative director, designer, and the author of Papel sensible. She is currently a fellow at Harvard University's Berkman Klein Center for Internet & Society. </p>
@@ -56,14 +56,13 @@ people:
     <p><b>Katherine Maher</b> is a senior fellow at the Atlantic Council, Board Director for System, Inc.  and the former chief executive officer of the Wikimedia Foundation. She has spent her career at the intersection of technology, human rights, democracy and international development, and has worked with UNICEF, the National Democratic Institute, the World Bank, and Access Now.</p>
     <p><b>Jessica Meyerson</b> is Co-Director for Educopia Institute, where she is chiefly responsible for ensuring smooth implementation of the organization’s strategic direction. She’s also Co-Director of The Maintainers, a global research network interested in the concepts of maintenance infrastructure, repair and the myriad forms of labor and expertise that sustain our human-built world. </p>
     <p><b>Mindy Seu</b> is a designer and researcher whose practice reimagines the history of the internet and how this might guide its future. She teaches these alternative web-based practices at Rutgers University and Yale University. She is the editor of Cyberfeminism Index.</p>
-    <hr>
     <br><br><p><b>GENERAL CONTRIBUTORS</b></p>
-    <p><b>Volunteer Web Development Lead:</b> Juan José Castro Varón</p>
-    <p>Designers: Josie Bellini, Antonela Debiasi, Fiorella Ferroni, Thaïs Jacoponi, Irina Koryagina, Annika Leppäaho, Kathy Mueller, Jiwon Park, Laura Ramírez, Natalia Rojas, Laura Savina, Lauren Smedley, Luce Terrasson, Catalina Vásquez, Jean Yang, Petra Zehner</p>
-    <p>Writers: Ana María Carvajal, Francesca Gargallo, Bonnie Hurd Smith, Christy Hyman, Carol MacKay, Heather Ostman, Krithika Varagur, Gabrielle Welsh</p>
-    <p>Cypherpunk Women writers & editors: Leigh Cuen, Michael McSweeney, Marisol Bayona Román, Soona Amhaz, Saga Arvidsdotter, Josie Bellini, Kiara Bickers, Audrey Chaing, Emily Faria, Janey Gak, Allie Eve Knox, Jordan Kong, Sarah Jamie Lewis, Mir Liponi, Beth McCarthy, Chrissa McFarlane, Lisa Neigut, Norika Kizawa, Chelsea Palmer, Anita Posch, Samantha Radocchia, Hannah Rosenberg, Kokab “Setareh” Shabanipour, Amber Scott, Alena Vranova, Leah Wald, Karima Williams, Joyce Yang, Linda Xie, @Bitcoinstripper, @GlitchesBrew, @Tina_in_Tech, and many more. </p>
-    <p>Other contributors and supporters: Nate Angell (Mozilla Open Leaders mentor and friend), Tien Mimi Nguyen (Write Speak Code SF advocate), Camilo Villegas (Web Dev support)</p>
-    <p>Video credits: Fantasy by Podington Bear, Icons by Creative Mania, Llisole, Mungang Kim, Becris and corpus delicti and Luisa Iborra. Powered by The Noun Project, and licensed under CC. Preformatted text: Project Gutenberg. Interior illustrations for The Yellow Wall-Paper: Jo. H. Hatfield, currently under public domain. Spanish translation for The Old Maid: Freeditorial. Video voice: Kira Street. Bindery by Evan Brooks. Licensed under MIT License. Short video / gifs: From Giphy! Roboto and Bitter, distributed by Google Fonts. Licensed under OFL, Bluu, distributed by Open Foundry. Licensed under OFL. If you believe this could be a more concrete credit, hit us up!</p>
+    <p><b>Volunteer Web Development Lead:</b> Juan José Castro Varón.</p>
+    <p>Designers - Josie Bellini, Antonela Debiasi, Fiorella Ferroni, Thaïs Jacoponi, Irina Koryagina, Annika Leppäaho, Kathy Mueller, Jiwon Park, Laura Ramírez, Natalia Rojas, Laura Savina, Lauren Smedley, Luce Terrasson, Catalina Vásquez, Jean Yang, Petra Zehner</p>
+    <p>Writers - Ana María Carvajal, Francesca Gargallo, Bonnie Hurd Smith, Christy Hyman, Carol MacKay, Heather Ostman, Krithika Varagur, Gabrielle Welsh</p>
+    <p>Cypherpunk Women writers & editors - Leigh Cuen, Michael McSweeney, Marisol Bayona Román, Soona Amhaz, Saga Arvidsdotter, Josie Bellini, Kiara Bickers, Audrey Chaing, Emily Faria, Janey Gak, Allie Eve Knox, Jordan Kong, Sarah Jamie Lewis, Mir Liponi, Beth McCarthy, Chrissa McFarlane, Lisa Neigut, Norika Kizawa, Chelsea Palmer, Anita Posch, Samantha Radocchia, Hannah Rosenberg, Kokab “Setareh” Shabanipour, Amber Scott, Alena Vranova, Leah Wald, Karima Williams, Joyce Yang, Linda Xie, @Bitcoinstripper, @GlitchesBrew, @Tina_in_Tech, and many more. </p>
+    <p>Other contributors and supporters - Nate Angell (Mozilla Open Leaders mentor and friend), Tien Mimi Nguyen (Write Speak Code SF advocate), Camilo Villegas (Web Dev support)</p>
+    <p>Video credits - Fantasy by Podington Bear, Icons by Creative Mania, Llisole, Mungang Kim, Becris and corpus delicti and Luisa Iborra. Powered by The Noun Project, and licensed under CC. Preformatted text - Project Gutenberg. Interior illustrations for The Yellow Wall-Paper - Jo. H. Hatfield, currently under public domain. Spanish translation for The Old Maid - Freeditorial. Video voice - Kira Street. Bindery by Evan Brooks. Licensed under MIT License. Short video / gifs - From Giphy! Roboto and Bitter, distributed by Google Fonts. Licensed under OFL, Bluu, distributed by Open Foundry. Licensed under OFL. If you believe this could be a more concrete credit, hit us up!</p>
 
 contact:
   top_paragraph_title: "Contact:"
