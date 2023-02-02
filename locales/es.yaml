@@ -40,7 +40,7 @@ people:
   staff_paragraph_title: "Personal:"
   staff_paragraph_body: >-
     <div class="row" style="display:flex;">
-    <div class="column"><img src="assets/people/juli.png" alt="Illustration of Juliana Castro" width="150px" height="auto"></div>
+    <div class="column"><img src="assets/people/juli.png" alt="Illustration of Juliana Castro" width="15%" height="auto"></div>
     <div class="column"><p><b>Juliana Castro Varón</b> es la fundadora de Cita y co-investigadora principal de Getting Fit. Es directora creativa, diseñadora y autora de Papel sensible. Actualmente es Fellow del Berkman Klein Center for Internet & Society de la Universidad de Harvard. </p></div>
     </div>
     <p><img src="assets/people/jessi.png" alt="Illustration of Juliana Castro" width="150px" height="auto"><b>Jessi Haley</b> es la coordinadora editorial y de proyectos de Cita. Jessi anteriormente administró el programa de escritura creativa en la Universidad de Chicago y formó parte del equipo editorial de Chicago Review y Colloquium Magazine.</p>
