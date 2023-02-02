@@ -48,9 +48,15 @@ people:
     If you want to join us,<b> please read our <a href="https://github.com/citapress/citapress/blob/master/Code-of-Conduct.md"> Code of Conduct</a></b>.
   staff_paragraph_title: "Staff:"
   staff_paragraph_body: >-
-   <p><b>Juliana Castro-Varón</b> is Cita’s Founder and co-principal investigator for Getting Fit. She is  a creative director, designer, and the author of Papel sensible. She is currently a fellow at Harvard University's Berkman Klein Center for Internet & Society. </p>
-   <p><b>Jessi Haley</b> is Cita’s project and editorial coordinator. Jessi previously managed the creative writing program at the University of Chicago and has served on the editorial staff of Chicago Review and Colloquium Magazine. </p>
-   <p><b><i>Getting Fit</i> consulting team:</b> Lauren Dapena Fraiz, Katherine Kim, Brandon Locke, Jessica Meyerson</p>
+   <div class="row" style="display:flex;">
+    <div class="column"><img src="assets/people/juli.png" alt="Illustration of Juliana Castro" width="150px" height="auto"></div>
+    <div class="column"><p><b>Juliana Castro Varón</b> is Cita’s Founder and co-principal investigator for Getting Fit. She is  a creative director, designer, and the author of Papel sensible. She is currently a fellow at Harvard University's Berkman Klein Center for Internet & Society. </p></div>
+    </div>
+    <div class="row" style="display:flex;">
+    <div class="column"><img src="assets/people/jessi.png" alt="Illustration of Jessi Haley" width="150px" height="auto"></div>
+    <div class="column"><p><b>Jessi Haley</b> is Cita’s project and editorial coordinator. Jessi previously managed the creative writing program at the University of Chicago and has served on the editorial staff of Chicago Review and Colloquium Magazine.</p></div>
+    </div>
+    <p><b><i>Getting Fit</i> consulting team:</b> Lauren Dapena Fraiz, Katherine Kim, Brandon Locke, Jessica Meyerson</p>
   board_paragraph_title: "Advisory Board:"
   board_paragraph_body: >-
     <p><b>Dr. Janneke Adema</b> is a cultural and media theorist working in the fields of (book) publishing and digital culture. In her research she explores the future of scholarly communications and experimental forms of knowledge production. She also supports a variety of scholar-led, not-for-profit publishing projects, including the Radical Open Access Collective, Open Humanities Press, ScholarLed, Post Office Press (POP), and COPIM.</p>
