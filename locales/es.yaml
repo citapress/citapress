@@ -21,7 +21,7 @@ about:
     <p><span class="mini-title">Manifesto:</span>
       <li> Elevar el trabajo de quienes primero abordaron la desigualdad de género </li><li> Usar recursos de código abierto y acreditar a quienes colaboren activamente </li> <li> Mantener el contenido en plataformas de acceso abierto, licencias y formatos </li><li> Dar acceso gratuito al contenido </li> <li> Hacer visible y celebrar el trabajo de las contribuyentes </li> <li> Emparejar la literatura clásica con la investigación y el diseño contemporáneo </li> <li> Comprometernos con la interseccionalidad </li><li> Ser participativas y abiertas a nuevas voces y colaboraciones </li>
     </p>
-    <p><span class="mini-title">Junta Directiva:</span> <a href="https://openreflections.wordpress.com/"target=“_blank”>Janneke Adema</a>, <a href="https://knightfoundation.org/employee/vicky-checo/"target=“_blank”>Vicky Checo</a>, <a href="https://twitter.com/krmaher"target=“_blank”>Katherine Maher</a>, <a href="https://educopia.org/jessica-meyerson/"target=“_blank”>Jessica Meyerson</a>, y <a href="https://mindyseu.com/"target=“_blank”>Mindy Seu</a>.</p>
+    <p><span class="mini-title">Junta Asesora:</span> <a href="https://openreflections.wordpress.com/"target=“_blank”>Janneke Adema</a>, <a href="https://knightfoundation.org/employee/vicky-checo/"target=“_blank”>Vicky Checo</a>, <a href="https://twitter.com/krmaher"target=“_blank”>Katherine Maher</a>, <a href="https://educopia.org/jessica-meyerson/"target=“_blank”>Jessica Meyerson</a>, y <a href="https://mindyseu.com/"target=“_blank”>Mindy Seu</a>.</p>
   right_column_body: >-  
     <p><span class="mini-title">Qué: </span> Libros de acceso abierto cuidadosamente diseñados escritos por mujeres en ediciones contemporáneas gratuitas, tanto para impresión como para web.</p>
     <p><span class="mini-title">Cómo:</span> <span class="blue">cita</span> es un trabajo de amor entre diseñadoras y escritoras que se basa en escritos de dominio público y textos, fuentes e imágenes de código abierto. El contenido de <span class="blue">cita</span> es de dominio público o tiene licencia  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons CC-NC-SA 4.0</a>, lo que significa que es gratis para siempre y se puede compartir con fines no comerciales siempre que digas quién lo creó. Por ejemplo, usamos <a href="https://github.com/evnbr/bindery">Bindery</a> de Evan Brooks. Para más detalles, visita la <a href="pages/collaborate.html" data-title="Colabora">página de colaboración</a>.</p>
@@ -39,7 +39,10 @@ people:
     Si quieres unirte<b> por favor lee nuestro <a href="https://github.com/citapress/citapress/edit/master/Codigo-de-Conducta.md">código de conducta</a>
   staff_paragraph_title: "Personal:"
   staff_paragraph_body: >-
-    <p><img src="assets/people/juli.png" alt="Illustration of Juliana Castro" width="150px" height="auto"><b>Juliana Castro Varón</b> es la fundadora de Cita y co-investigadora principal de Getting Fit. Es directora creativa, diseñadora y autora de Papel sensible. Actualmente es Fellow del Berkman Klein Center for Internet & Society de la Universidad de Harvard. </p>
+    <div class="row" style="display:flex;">
+    <div class="column"><img src="assets/people/juli.png" alt="Illustration of Juliana Castro" width="150px" height="auto"></div>
+    <div class="column"><p><b>Juliana Castro Varón</b> es la fundadora de Cita y co-investigadora principal de Getting Fit. Es directora creativa, diseñadora y autora de Papel sensible. Actualmente es Fellow del Berkman Klein Center for Internet & Society de la Universidad de Harvard. </p></div>
+    </div>
     <p><img src="assets/people/jessi.png" alt="Illustration of Juliana Castro" width="150px" height="auto"><b>Jessi Haley</b> es la coordinadora editorial y de proyectos de Cita. Jessi anteriormente administró el programa de escritura creativa en la Universidad de Chicago y formó parte del equipo editorial de Chicago Review y Colloquium Magazine.</p>
     <p><b>Equipo de consultoría de Getting Fit:</b> Lauren Dapena Fraiz, Katherine Kim, Brandon Locke, Jessica Meyerson</p>
   board_paragraph_title: "Junta Asesora:"
