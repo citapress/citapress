@@ -176,8 +176,17 @@
     "html-content": "pages/books/content/the-old-maid.html",
     "square-thumbnail": "assets/old-maid-square.jpg",
     "cover-image": "assets/old-maid-cover.jpg"
-  }
+  },
   
-  
+  "voices-around-me": {
+    "title": "Voices Around Me: Nobel Lectures",
+    "author": "Svetlana Alexievich, Nadine Gordimer, Doris Lessing, Toni Morrison, Herta Müller, Alice Munro, Wisława Szymborska",
+    "book-paragraph": "Coming soon on March 8, 2023!",
+    "blue-info1": "Foreword: Jessi Haley, Cita Press editorial coordinator",
+    "blue-info2": "Cover: <a href='https://www.instagram.com/fiore.di.ferro/?hl=en' target='blank'>Fiorella Ferroni</a>, artist and designer",
+
+    "html-content": "#",
+    "square-thumbnail": "assets/thumbnail-nobel-lectures.png",
+    "cover-image": "assets/cover-nobel-lectures.png"
   
 }
