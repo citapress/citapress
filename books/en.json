@@ -181,11 +181,11 @@
   "voices-around-me": {
     "title": "Voices Around Me: Nobel Lectures",
     "author": "Svetlana Alexievich, Nadine Gordimer, Doris Lessing, Toni Morrison, Herta Müller, Alice Munro, Wisława Szymborska",
-    "book-paragraph": "Coming soon on March 8, 2023!",
+    "book-paragraph": "hrough our work, Cita Press honors the principles of decentralization, collective knowledge production, and equitable access to knowledge. The pieces brought together here reflect these values in ways that represent each writer’s unique commitments, experiences, and style. Our mission is to make the work of women from the past and present visible, and to illuminate the long and diverse history of feminist thought and art. The Nobel Prize gave a huge platform to the writers collected here, and it feels important to think about how this rarefied group of women frame their own legacies, and how they speak to each other from the same stage across the years.",
     "blue-info1": "Foreword: Jessi Haley, Cita Press editorial coordinator",
     "blue-info2": "Cover: <a href='https://www.instagram.com/fiore.di.ferro/?hl=en' target='_blank'>Fiorella Ferroni</a>, artist and designer",
 
-    "html-content": "#",
+    "html-content": "pages/books/content/nobel-voices-around-me.html",
     "square-thumbnail": "assets/thumbnail-nobel-lectures-update.png",
     "cover-image": "assets/cover-nobel-lectures-update.png"
   }
