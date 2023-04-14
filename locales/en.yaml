@@ -11,10 +11,10 @@ menu:
   contact: Contact
 
 home: 
-  paragraph_body: a feminist indie press publishing <span class="gif-link">open-access<img src="assets/gif/together.gif" alt="illustration of kids dancing in a circle"></span> <a href="pages/books.html" data-title="Books">books</a> written by women. We make <span class="gif-link">carefully designed<img src="assets/gif/typo.gif"/ alt="Gif in which character says -there's a typo"></span> <span class="gif-link">books<img src="assets/gif/books.gif"/ alt="Beauty and the beast gif in which main character sings in the huge library"></span> <span class="gif-link">available free<img src="assets/gif/good.gif"/ alt="kid in front of a computer smiles and shows thumbs up"></span> in both <span class="gif-link">print and web formats<img src="assets/gif/reading.gif"/ alt="a very funny cat reading a book on military strategy"></span>. <a href="https://www.youtube.com/watch?v=F21bP9pydE0" target="_blank" data-title="Youtube">Watch our video</a>, <a href="pages/collaborate.html" data-title="Collaborate">become a collaborator</a>, or <a href="pages/books.html" data-title="Books">just start reading</a>
+  paragraph_body: a feminist indie press publishing <span class="gif-link">open access<img src="assets/gif/together.gif" alt="illustration of kids dancing in a circle"></span> <a href="pages/books.html" data-title="Books">books</a> written by women. We make <span class="gif-link">carefully designed<img src="assets/gif/typo.gif"/ alt="Gif in which character says -there's a typo"></span> <span class="gif-link">books<img src="assets/gif/books.gif"/ alt="Beauty and the beast gif in which main character sings in the huge library"></span> <span class="gif-link">available free<img src="assets/gif/good.gif"/ alt="kid in front of a computer smiles and shows thumbs up"></span> in both <span class="gif-link">print and web formats<img src="assets/gif/reading.gif"/ alt="a very funny cat reading a book on military strategy"></span>. <a href="https://www.youtube.com/watch?v=F21bP9pydE0" target="_blank" data-title="Youtube">Watch our video</a>, <a href="pages/collaborate.html" data-title="Collaborate">become a collaborator</a>, or <a href="pages/books.html" data-title="Books">just start reading</a>
 
 about:
-  top_paragraph_body: cita is a library and press devoted to highlighting, publishing and promoting works written by women. We pair contemporary authors and designers with open-access texts, and make carefully designed books available for free!
+  top_paragraph_body: cita is a library and press devoted to highlighting, publishing and promoting works written by women. We pair contemporary authors and designers with open access texts, and make carefully designed books available for free!
   left_column_body: >-
     <p>In Spanish, “<span class="blue">cita</span>” is the word for appointment, quotation, and date. It is also the diminutive suffix for feminine nouns, <i>mujer</i> is woman; <i>mujer<span class="blue">cita</span></i> is little woman.</b></p>
     <p>Watch our <a href="https://www.youtube.com/watch?v=F21bP9pydE0" target="_blank"> video!</a></p>
@@ -38,12 +38,12 @@ about:
 
 books:
   paragraph_title: "Books:"
-  paragraph_body: Our books range in genre from fiction to memoir to essay and poetry. Most texts include a foreword by a contemporary writer or scholar, which helps readers understand the context in which the author was writing, and what the work means for today.
+  paragraph_body: Our books range in genre from fiction to memoir to essay and poetry. Most texts include a foreword by a contemporary writer or scholar, which helps readers understand the context in which the author was writing, and how the text connects to the issues and concerns of today.
 
 people:
   people_paragraph_title: "People:"
   people_paragraph_body: >-
-    Cita is a collaborative effort of love made possible by the generosity of many direct and indirect contributors. Currently, Cita is fiscally sponsored by Educopia Institute and funded through the generous support of the Mellon Foundation.
+    Cita is a collaborative effort of love made possible by the generosity of many direct and indirect contributors. Cita is fiscally sponsored by Educopia Institute and funded through the generous support of the Mellon Foundation.
   join_us_paragraph_body: >-
     If you want to join us,<b> please read our <a href="https://github.com/citapress/citapress/blob/master/Code-of-Conduct.md"> Code of Conduct</a></b>.
   staff_paragraph_title: "Staff:"
@@ -106,9 +106,8 @@ news:
 
     <ul style="list-style: none;">
 
+     <li><b>March 2023 (Announcement/Press)</b> Our new collection, <a href="https://citapress.org/#books/voices-around-me" target="_blank"><i>Voices Around Me: Nobel Prize Lectures</a></i>, comes out on March 8 (International Women's Day). Literary Hub cross-publishes <a href="https://lithub.com/a-brief-history-of-all-the-women-who-have-won-the-nobel-prize/" target="_blank"> the foreword</a> by Jessi Haley, and the book is paired with two free, printable zines featuring the cover design by Fiorella Ferroni.</li>
     <li><b>October 2022 (Announcement)</b> Cita publishes a <a href="https://citapress.org/#books/incidents-in-the-life-of-a-slave-girl/" target="_blank">new foreword to our edition </a> of Harriet Jacobs' <i>Incidents in the Life of a Slave Girl</i> by historical geographer Dr. Christy Hyman. Read more about Harriet Jacobs' contemporary influence via <a href="https://tinyletter.com/CitaPress/letters/harriet-jacobs-incidents-in-the-life-of-a-slave-girl-with-a-new-foreword-by-dr-christy-hyman" target="_blank">our newsletter.</a></li>
-
-    <li><b>August 2022 (Press)</b> Cita Press is interviewed for <a href="https://eyeondesign.aiga.org/feminist-open-access-and-decentralized-cita-press-share-five-favorite-books/?utm_source=eod&utm_medium=social&utm_campaign=books/" target="_blank">AIGA Eye on Design's Recommended Reading series.</a></li>
 
     <li><b>August 2022 (Press)</b> Cita Press is interviewed for <a href="https://eyeondesign.aiga.org/feminist-open-access-and-decentralized-cita-press-share-five-favorite-books/?utm_source=eod&utm_medium=social&utm_campaign=books/" target="_blank">AIGA Eye on Design's Recommended Reading series.</a></li>
 
