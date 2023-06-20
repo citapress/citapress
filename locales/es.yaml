@@ -85,7 +85,8 @@ contact:
     Si tienes preguntas, sugerencias o flores, encuéntranos en <a href="https://github.com/citapress/citapress/">Github</a>, <a href="http://twitter.com/citapress">Twitter</a>, <a href="http://fb.com/citapress">Facebook </a> o <a href="http://instagram.com/cita.press">Instagram</a>, o escríbenos a <a href="mailto:info@citapress.org?Subject=Hello%20Hola%20Ciao">info@citapress.org</a>.
     <p>Para colaboraciones, preguntas sobre propiedad intelectual, quejas, sugerencias de lectura o solicitudes de prensa, por favor escribir a Juliana Castro a <a href="mailto:juliana@citapress.org?Subject=Hello%20Hola%20Ciao">juliana@citapress.org</a>.</p>
     <a class="big-button" href="https://citapress.substack.com/"> Newsletter (sobre todo en inglés) </a>
-    <p>Porfa lee nuestro <a href="https://github.com/citapress/citapress/blob/master/Code-of-Conduct.md">Código de conducta</a> y/o <a href="pages/books.html">nuestros libros</a>!</p>
+  bottom_paragraph_body: >-<p>Porfa lee nuestro <a href="https://github.com/citapress/citapress/blob/master/Code-of-Conduct.md">Código de conducta</a> y/o <a href="pages/books.html">nuestros libros</a>!</p>
+  join_newsletter_cta: Lee Nuestro Antiguo Tinyletter (Archivado)
 
 news:
   top_paragraph_title: "Noticias:"
@@ -110,7 +111,7 @@ news:
         <b>Julio, 2020 (Prensa)</b> <a href="https://eyeondesign.aiga.org/what-is-designs-role-in-violating-or-upholding-digital-rights/"> Juliana Castro y Cita en AIGA's Eye on Design</a>
       </li> 
       <li>
-        <b>May 23, 2020 (Evento/:anzamiento – En inglés)</b> <a href="https://www.youtube.com/watch?v=YSGrlGHcgWI&feature=youtu.be"> Virtual Reality Lanzamiento del libro Cypherpunk Women</a>
+        <b>May 23, 2020 (Evento/Lanzamiento – En inglés)</b> <a href="https://www.youtube.com/watch?v=YSGrlGHcgWI&feature=youtu.be"> Virtual Reality Lanzamiento del libro Cypherpunk Women</a>
       </li> 
          <li>
         <b>Abril, 2020 (Prensa)</b> <a href="https://xd.adobe.com/ideas/perspectives/social-impact/design-violating-or-upholding-digital-rights/"> Cita en AdobeXD</a> – Sección de acceso abierto
