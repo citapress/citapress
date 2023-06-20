@@ -94,9 +94,10 @@ contact:
   top_paragraph_body: >-
     If you have questions, suggestions, or compliments, find us on <a href="https://github.com/citapress/citapress/">Github</a>, <a href="http://twitter.com/citapress">Twitter</a>, <a href="http://fb.com/citapress">Facebook </a> or <a href="http://instagram.com/cita.press">Instagram</a>, or write to us to <a href="mailto:info@citapress.org?Subject=Hello%20Hola%20Ciao">info@citapress.org</a>.
     <p>For partnership offers, license questions, complaints, reading suggestions and press inquiries, please contact Jessi Haley at <a href="mailto:jessi@citapress.org?Subject=Hello%20Hola%20Ciao">jessi@citapress.org</a>.</p>
+     <a class="big-button" href="https://citapress.substack.com/"> Join our Newsletter! </a>
   bottom_paragraph_body: >-
     Please read our <a href="https://github.com/citapress/citapress/blob/master/Code-of-Conduct.md"> Code of Conduct</a> or/and <a href="pages/books.html">our books</a>!
-  join_newsletter_cta: Join our Newsletter
+  join_newsletter_cta: Old TinyLetter (Archived)
 
 news:
   top_paragraph_title: "News:"
