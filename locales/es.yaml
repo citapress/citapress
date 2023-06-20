@@ -86,7 +86,7 @@ contact:
     <p>Para colaboraciones, preguntas sobre propiedad intelectual, quejas, sugerencias de lectura o solicitudes de prensa, por favor escribir a Juliana Castro a <a href="mailto:juliana@citapress.org?Subject=Hello%20Hola%20Ciao">juliana@citapress.org</a>.</p>
   bottom_paragraph_body: >-
     Porfa lee nuestro <a href="https://github.com/citapress/citapress/blob/master/Code-of-Conduct.md">Código de conducta</a> y/o <a href="pages/books.html">nuestros libros</a>!
-  join_newsletter_cta: Suscríbete a nuestro newsletter (es sobre todo en inglés)
+  join_newsletter_cta: <a href="https://citapress.substack.com">Suscríbete a nuestro newsletter (sobre todo en inglés)</a>
 
 news:
   top_paragraph_title: "Noticias:"
