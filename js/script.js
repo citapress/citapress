@@ -68,6 +68,8 @@ function changePage(url, title, shouldPushState, callback) {
     window.scrollTo(0, 0);
 
     console.log(url);
+    var urlTarget = url.match(/(?:pages\/)([-a-zA-Z]*)(?:\.html)?/);
+    console.log(urlTarget);
 
     if (shouldPushState) {
       window.history.pushState(
@@ -76,11 +78,11 @@ function changePage(url, title, shouldPushState, callback) {
           url: url,
         },
         title,
-        "#" + url.match(/(?:pages\/)(.*)(?:\.html)?/)[1]
+        "#" + urlTarget[1]
       );
     }
 
-    $("main").attr("id", url.match(/(?:pages\/)(.*)(?:\.html)?/)[1]);
+    $("main").attr("id", urlTarget[1]);
 
     if (callback != null) {
       callback();
