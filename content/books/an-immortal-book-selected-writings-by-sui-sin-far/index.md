@@ -1,8 +1,8 @@
 ---
 title: "An Immortal Book: Selected Writings by Sui Sin Far"
-publication: 2023-09-12T14:44:26.228Z
+publication: 2023-10-23T14:44:26.228Z
 publishformat: Year
-release: 1912-05-08T15:44:26.257Z
+release: 2023-10-23T14:44:26.257Z
 releaseformat: Month and year
 sortingdate: 2023-10-23T16:36:35.473Z
 templateKey: book-page
