@@ -1,0 +1,55 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - name: 'books'
+    label: 'books'
+    folder: 'content/books'
+    create: true
+    slug: 'index'
+    media_folder: ''
+    public_folder: ''
+    path: '{{title}}/index'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'publication', widget: 'datetime' }
+      - { label: 'Publish Date Format', name: 'publishformat', widget: 'select', options: ['Month and year', 'Year'], multiple: false, default: ['Month and year'], required: false }
+      - { label: 'Release Date', name: 'release', widget: 'datetime' }
+      - { label: 'Release Date Format', name: 'releaseformat', widget: 'select', options: ['Month and year', 'Year'], multiple: false, default: ['Month and year'], required: false }
+      - { label: 'Sorting Date', name: 'sortingdate', widget: 'datetime', picker_utc: true, required: false }
+      - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'book-page' }
+      - { label: 'Author', name: 'author', widget: 'string' }
+      - { label: 'ISBN', name: 'isbn', widget: 'string' }
+      - { label: 'Image (max 500kb - preferable .jpg - lowercase name - no spaces)', name: post_image, widget: image, required: true, media_library: [{config: [{max_file_size: 62500}]}] }
+      - { label: 'Image (max 500kb - preferable .jpg - lowercase name - no spaces square)', name: square_image, widget: image, required: true, media_library: [{config: [{max_file_size: 62500}]}] }
+      - { label: 'Download link', name: 'download', widget: 'string', required: false }
+      - { label: 'Download button link', name: 'download_ebook', widget: 'string', required: false }
+      - { label: 'Download button name', name: 'download_name', widget: 'string', required: false }
+      - { label: 'Other language link', name: 'language_link', widget: 'string', required: false, hint: "this is the URL of the article in other language" }
+      - { label: 'Genre', name: 'genre', widget: 'select', options: ["fiction", "short-stories", "novella", "poetry", "nonfiction", "essay", "manifesto", "autobiography"], multiple: true }
+      - { label: 'Time period', name: 'time_period', widget: 'select', options: ['19th', '20th', 'victorian', 'early-modern', 'modernist', 'contemporary'], multiple: true }
+      - { label: 'Theme', name: 'theme', widget: 'select', options: ["motherhood", "LGBTQ+", "politics" ,"religion", "sex-romance", "suspense-gothic", "race", "science-technology", "first-person-narrator", "banned-book", "mental-health"], multiple: true }
+      - { label: 'Language', name: 'lang', widget: 'select', options: [en, es] }
+      - { label: 'Description', name: 'description', widget: 'text' }
+      - { label: 'Foreword & Cover', name: 'foreword', widget: 'text' }
+      - { label: 'is Published?', name: 'published', widget: 'boolean', default: true, required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown', required: false }
+  - name: news
+    label: News
+    folder: 'content/news'
+    slug: 'index'
+    path: '{{title}}/index'
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Language', name: 'lang', widget: 'select', options: [en, es] }
+      - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'news-page' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }

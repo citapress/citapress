@@ -1,0 +1,22 @@
+@import '/src/variables.scss';
+
+.active {
+  text-decoration: underline;
+  color: $blue;
+}
+
+.languageSelector {
+  display: flex;
+  li {
+    margin-right: 10px;
+    button {
+      background: none;
+      border: 0;
+      &:hover {
+        cursor: pointer;
+        color: black;
+        text-decoration: underline;
+      }
+    }
+  }
+}

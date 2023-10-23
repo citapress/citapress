@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400&family=Zilla+Slab:wght@400;700&display=swap');
+
+.config-body {
+  position: fixed;
+  background: white;
+  right: 10px;
+  bottom: 120px;
+  height: 40px;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  z-index: 9;
+  @media screen and (min-width: 768px) {
+    display: block;
+    bottom: 26vh;
+    height: auto;
+    padding: 20px;
+    border: 2px solid #000;
+    right: 20px;
+  }
+  label {
+    margin-bottom: 10px;
+    display: block;
+    font-size: 15px;
+  }
+  .tools {
+    width: auto;
+    display: none;
+    @media screen and (min-width: 768px) {
+      display: block; 
+    }
+  }
+  &.config-body-open {
+    padding: 20px;
+    border-radius: 0;
+    border: 2px solid #000;
+    height: auto;
+    align-items: flex-end;
+
+    .text-config-btn {
+      border: 0 solid #000 !important;
+    }
+    .tools {
+      display: block !important;
+    }
+  }
+}
+
+
+.text-config-btn {
+  display: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background: none;
+  border: 2px solid #000;
+  text-align: center;
+  display: block;
+  width: 44px;
+  line-height: 46px;
+  height: 44px;
+  cursor: pointer;
+  @media screen and (min-width: 768px) {
+    display: none;
+  }
+}
+
+.fonts {
+  display: flex;
+  justify-content: space-between;
+  button {
+    border-radius: 0;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: 2px solid black;
+    background: none;
+    font-size: 20px;
+    cursor: pointer;
+    &:focus {
+      outline: none;
+    }
+    &:hover {
+      background-color: #F3DD28;
+    }
+  }
+}

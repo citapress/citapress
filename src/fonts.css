@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400;700&display=swap');
+
+@font-face {
+  font-family: 'bluu';
+  src: url('/fonts/bluunext-bold-webfont.woff2') format('woff2'),
+       url('/fonts/bluunext-bold-webfont.woff') format('woff'),
+       url('/fonts/bluunext-bold.ttf') format('truetype'),
+       url('/fonts/bluunext-bold-webfont.svg#bluu_nextbold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'bluu';
+  src: url('/fonts/bluunext-bolditalic-webfont.woff2') format('woff2'),
+       url('/fonts/bluunext-bolditalic-webfont.woff') format('woff'),
+       url('/fonts/bluunext-bolditalic.ttf') format('truetype'),
+       url('/fonts/bluunext-bolditalic-webfont.svg#bluu_nextbold_italic') format('svg');
+  font-weight: normal;
+  font-style: italic;
+}

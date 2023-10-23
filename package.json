@@ -1,31 +1,60 @@
 {
-  "name": "cita",
-  "version": "1.0.0",
-  "description": "",
-  "main": "gulpfile.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "name": "citapress-cms",
+  "private": true,
+  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "version": "0.1.0",
+  "author": "Fabian Rios <hi@fabianrios.co>",
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
+  "dependencies": {
+    "gatsby": "^5.12.1",
+    "gatsby-plugin-feed": "^5.12.0",
+    "gatsby-plugin-image": "^3.12.0",
+    "gatsby-plugin-intl": "^5.10.0",
+    "gatsby-plugin-manifest": "^5.12.0",
+    "gatsby-plugin-netlify-cms": "^7.12.0",
+    "gatsby-plugin-sass": "^6.12.0",
+    "gatsby-plugin-sharp": "^5.12.0",
+    "gatsby-remark-autolink-headers": "^6.12.0",
+    "gatsby-remark-images": "^7.12.0",
+    "gatsby-remark-prismjs": "^7.12.0",
+    "gatsby-remark-responsive-iframe": "^6.12.0",
+    "gatsby-remark-table-of-contents": "^2.0.0",
+    "gatsby-source-filesystem": "^5.12.0",
+    "gatsby-transformer-remark": "^6.12.0",
+    "gatsby-transformer-sharp": "^5.12.0",
+    "netlify-cms-app": "^2.15.72",
+    "prismjs": "^1.29.0",
+    "rc-slider": "^10.2.1",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "sass": "^1.66.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  },
+  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "0BSD",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jjcastro/cita-press.git"
+    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jjcastro/cita-press/issues"
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "start": "gatsby develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
-  "homepage": "https://github.com/jjcastro/cita-press#readme",
-  "devDependencies": {
-    "del": "^6.0.0",
-    "gulp": "^4.0.2",
-    "gulp-filter": "^7.0.0",
-    "gulp-livereload": "^4.0.2",
-    "gulp-rev-append": "^0.1.8",
-    "gulp-static-i18n-html": "^0.4.0",
-    "yargs-parser": ">=5.0.0-security.0"
-  },
-  "dependenciesComments": {
-    "yargs-parser": "Vulnerability in 5.0.0, as advised by Github Dependabot alerts. From gulp@4.0.2."
+  "overrides": {
+    "react": "^18.0.0",
+    "@types/react": "^18.0.17",
+    "react-dom": "^18.0.0"
   }
 }

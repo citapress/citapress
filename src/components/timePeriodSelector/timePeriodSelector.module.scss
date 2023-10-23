@@ -1,0 +1,14 @@
+.select {
+  width: 100px;
+  height: 41px;
+  border-radius: 0;
+  font-family: 'Inter';
+  font-weight: bold;
+  font-size: 23px;
+  border: 2px solid #000;
+  outline: none;
+  @media (min-width: 1024px) {
+    width: auto;
+    min-width: 220px;
+  }
+}
