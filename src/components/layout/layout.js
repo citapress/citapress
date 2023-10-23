@@ -21,7 +21,7 @@ const Layout = ({ location, children, intl, where }) => {
         <li><Link to="/people"><FormattedMessage id="people" /></Link></li>
         <li><Link to="/news"><FormattedMessage id="news" /></Link></li>
         <li><Link to="/contact"><FormattedMessage id="contact" /></Link></li>
-        <li><Link to="/shop"><FormattedMessage id="shop" /></Link></li>
+        <li><a href='https://cita-press.square.site/' target='_blank'><FormattedMessage id="shop" /></a></li>
       </ul>
       <button className="btn btn-secondary menu-button" onClick={() => setClicked(!clicked)}>Menu</button>
     </div>
