@@ -153,54 +153,54 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     })
   }
 
-  // const genres = ["fiction", "short-stories", "novella", "poetry", "nonfiction", "essay", "manifesto", "autobiography"];
-  // genres.forEach((genre) => {
-  //   const genrePosts = posts.filter((post) => post.frontmatter.genre?.includes(genre));
-  //   if (genrePosts.length > 0) {
-  //     createPage({
-  //       path: `/genre/${genre}`,
-  //       component: genreTemplate,
-  //       context: {
-  //         id: genre,
-  //         data: genrePosts,
-  //         genre,
-  //         lang: "en",
-  //       },
-  //     })
-  //   }
-  // });
-  // const time_periods = ["19th", "20th", "victorian", 'early-modern', 'modernist', 'contemporary'];
-  // time_periods.forEach((period) => {
-  //   const periodPosts = posts.filter((post) => post.frontmatter.time_period?.includes(period));
-  //   if (periodPosts.length > 0) {
-  //     createPage({
-  //       path: `/time-period/${period}`,
-  //       component: timePeriodTemplate,
-  //       context: {
-  //         id: period,
-  //         period,
-  //         data: periodPosts,
-  //         lang: "en",
-  //       },
-  //     })
-  //   }
-  // });
-  // const themes = ["motherhood", "LGBTQ+", "politics" ,"religion", "sex-romance", "suspense-gothic", "race", "science-technology", "first-person-narrator", "banned-book", "mental-health"];
-  // themes.forEach((theme) => {
-  //   const themePosts = posts.filter((post) => post.frontmatter.theme?.includes(theme));
-  //   if (themePosts.length > 0) {
-  //     createPage({
-  //       path: `/theme/${theme}`,
-  //       component: themeTemplate,
-  //       context: {
-  //         id: theme,
-  //         theme,
-  //         data: themePosts,
-  //         lang: "en",
-  //       },
-  //     })
-  //   }
-  // });
+  const genres = ["fiction", "short-stories", "novella", "poetry", "nonfiction", "essay", "manifesto", "autobiography"];
+  genres.forEach((genre) => {
+    const genrePosts = posts.filter((post) => post.frontmatter.genre?.includes(genre));
+    if (genrePosts.length > 0) {
+      createPage({
+        path: `/genre/${genre}`,
+        component: genreTemplate,
+        context: {
+          id: genre,
+          data: genrePosts,
+          genre,
+          lang: "en",
+        },
+      })
+    }
+  });
+  const time_periods = ["19th", "20th", "victorian", 'early-modern', 'modernist', 'contemporary'];
+  time_periods.forEach((period) => {
+    const periodPosts = posts.filter((post) => post.frontmatter.time_period?.includes(period));
+    if (periodPosts.length > 0) {
+      createPage({
+        path: `/time-period/${period}`,
+        component: timePeriodTemplate,
+        context: {
+          id: period,
+          period,
+          data: periodPosts,
+          lang: "en",
+        },
+      })
+    }
+  });
+  const themes = ["motherhood", "LGBTQ+", "politics" ,"religion", "sex-romance", "suspense-gothic", "race", "science-technology", "first-person-narrator", "banned-book", "mental-health"];
+  themes.forEach((theme) => {
+    const themePosts = posts.filter((post) => post.frontmatter.theme?.includes(theme));
+    if (themePosts.length > 0) {
+      createPage({
+        path: `/theme/${theme}`,
+        component: themeTemplate,
+        context: {
+          id: theme,
+          theme,
+          data: themePosts,
+          lang: "en",
+        },
+      })
+    }
+  });
   
 
 }
