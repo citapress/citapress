@@ -1,6 +1,7 @@
 ---
-publication: 2023-05-01T22:12:03.284Z
-release: 2018-05-01T22:12:03.284Z
+publication: 1892-03-01T23:12:03.284Z
+publishformat: Year
+release: 2018-04-07T22:12:03.284Z
 templateKey: book-page
 author: Charlotte Perkins Gilman
 download: ""
@@ -19,6 +20,8 @@ foreword: >-
 published: true
 date: 2015-05-01T22:12:03.284Z
 title: El tapiz amarillo
+releaseformat: Year
+sortingdate: 2018-04-07T23:44:45.775Z
 isbn: "978-1-961368-09-5 "
 post_image: cover-tapiz-amarillo.jpg
 square_image: thumbnail-yellowwallpaper-es.jpg
