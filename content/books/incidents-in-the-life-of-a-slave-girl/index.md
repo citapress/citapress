@@ -1,6 +1,7 @@
 ---
-publication: 2023-05-01T22:12:03.284Z
-release: 2019-05-01T22:12:03.284Z
+publication: 1861-03-01T23:05:01.284Z
+publishformat: Year
+release: 2020-03-01T23:12:03.284Z
 templateKey: book-page
 author: Harriet Jacobs
 download: ""
@@ -23,6 +24,8 @@ foreword: >-
   <p>Foreword by historical geographer, environmental advocate, and griefworker <a href='https://spatialhumanorg.wordpress.com/about/'> Dr. Christy Hyman.</a> </>
 date: 2012-05-01T22:12:03.284Z
 title: Incidents in the Life of a Slave Girl
+releaseformat: Year
+sortingdate: 2020-03-01T23:45:56.078Z
 isbn: 978-1-961368-05-7
 post_image: cover-incidents-in-the-life-update.jpg
 square_image: thumbnail-incidents.jpg
