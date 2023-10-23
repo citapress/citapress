@@ -1,7 +1,10 @@
 ---
 title: Behind a Mask
-publication: 2023-10-20T04:40:25.186Z
-release: 2023-10-20T04:40:25.211Z
+publication: 1866-01-03T05:33:23.186Z
+publishformat: Year
+release: 2018-04-08T04:40:25.211Z
+releaseformat: Year
+sortingdate: 2018-04-14T23:38:09.898Z
 templateKey: book-page
 author: Louisa May Alcott
 isbn: 978-1-961368-16-3
