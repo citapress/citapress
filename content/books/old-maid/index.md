@@ -1,5 +1,6 @@
 ---
 publication: 1924-03-07T23:12:03.284Z
+publishformat: Year
 release: 2022-05-18T22:12:03.284Z
 templateKey: book-page
 author: Edith Wharton
@@ -20,6 +21,8 @@ foreword: >-
   Cover: Petra Zehner, East West German graphic artist and writer currently based in France."
 date: 2012-05-01T22:12:03.284Z
 title: The Old Maid
+releaseformat: Month and year
+sortingdate: 2022-05-18T23:36:49.314Z
 isbn: 978-1-961368-00-2
 post_image: old-maid-cover.jpg
 square_image: old-maid-square.jpg
