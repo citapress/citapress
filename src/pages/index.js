@@ -182,7 +182,7 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      sort: { frontmatter: { sortingdate: DESC } }
+      sort: { frontmatter: { sortingdate: ASC } }
       filter: {
         frontmatter: {
           lang: { eq: $language }
