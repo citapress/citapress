@@ -1,52 +1,20 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby's blog starter
-</h1>
+# cita-press
 
-Kick off your project with this blog boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+A dynamic website for **Cita**, a feminist open-source digital library publishing books by women. 💪🏻
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
+:)
 
-## 🚀 Quick start
+<h2> Welcome </h2> 🐣 
 
-1.  **Create a Gatsby site.**
+Thank you for your interest in Cita. Here you’ll find how to contribute, suggest, reproduce. There are many ways of helping. Please take a look at this document, and if you still have some questions, <a href=”mailto:info@cita…> reach out. </a>. 👀
 
-    Use the Gatsby CLI ([install instructions](https://www.gatsbyjs.com/docs/tutorial/getting-started/part-0/#gatsby-cli)) to create a new site, specifying the blog starter.
+💻 <bold>For developers and experience designers:</bold> You’llfat our How-to-Contribute guidelines and our issues. Feel free to suggest things that you think would improve Cita’s UX/UI experience, but don’t file an issue to ask a question. 
 
-    ```shell
-    # create a new Gatsby site using the blog starter
-    gatsby new my-blog-starter https://github.com/gatsbyjs/gatsby-starter-blog
-    ```
+🖍🏻 <bold>For artists, illustrators and graphic designers: </bold>Here’s the current list of books we are working on or considering working on. If you think you can make the cover for one of these books or want to suggest a new book, e-mail us. / Tender Buttons / The Incidents in the Live of a Slave Girl / La Voz de la Mujer
 
-1.  **Start developing.**
+📖🏻 <bold>For writers and editors:</bold> Here’s the list of books we are working on and the list of books we are considering starting. If you or someone you know can write a foreword for these books, please email us. If you are an editor, a careful reader or a writer familiar with HTML and Github, please take a look at our soon-to-be books, and read over them, comment.
 
-    Navigate into your new site’s directory and start it up.
-
-    ```shell
-    cd my-blog-starter/
-    gatsby develop
-    ```
-
-1.  **Open the source code and start editing!**
-
-    Your site is now running at `http://localhost:8000`!
-
-    Note: You'll also see a second link: `http://localhost:8000/___graphql`. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby Tutorial](https://www.gatsbyjs.com/docs/tutorial/getting-started/part-4/#use-graphiql-to-explore-the-data-layer-and-write-graphql-queries).
-
-    Open the `my-blog-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
-
-## 🚀 Quick start (Netlify)
-
-Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
-
-[<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-blog)
-
-## 🧐 What's inside?
+## 🧐 What's inside technical overview?
 
 A quick look at the top-level files and directories you'll see in a typical Gatsby project.
 
@@ -96,4 +64,7 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 The fastest way to combine your favorite tools and APIs to build the fastest sites, stores, and apps for the web. And also the best place to build, deploy, and host your Gatsby sites.
 
-<!-- AUTO-GENERATED-CONTENT:END -->
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTYzNzI5NzQ5NF19
+-->
