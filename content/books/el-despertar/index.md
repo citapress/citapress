@@ -1,25 +1,39 @@
 ---
-title: El Despertar
-date: "2012-05-01T22:12:03.284Z"
-publication: "2023-05-01T22:12:03.284Z"
-author: "Kate Chopin"
-release: "2019-05-01T22:12:03.284Z"
-post_image: cover-the-awakening.png
-square_image: thumbnail-eldespertar-es.jpg
+publication: 1899-03-01T23:12:03.284Z
+publishformat: Year
+release: 2018-04-07T22:12:03.284Z
+templateKey: book-page
+author: Kate Chopin
+download: http://link.com
 language_link: the-awakening
 genre:
   - short-stories
-time_period:
-  - modernist
-  - 19th
 theme:
   - science-technology
   - sex-romance
-isbn: "1231232131232112"
-download: "http://link.com"
-description: "SOLO DISPONIBLE EN INGLÉS - La necesidad de pasión puede ser una de las lecciones por aprender del controvertido texto de Chopin, pero ciertamente no es la única. La novela surgió de la oscuridad como un tipo diferente de tormenta: llevar el mundo literario a nuevas alturas y tomar conciencia de lo que las mujeres escritoras podrían hacer."
 lang: es
-templateKey: book-page
+foreword: >-
+  <p>Foreword: Heather Ostman, PhD - President, Kate Chopin International
+  Society</p>
+
+
+  <p>Cover: Jiwon Park - Graphic designer, educator, and social entrepreneur living and working in Austin and Seoul.</p>
+published: false
+date: 2012-05-01T22:12:03.284Z
+title: El Despertar
+releaseformat: Year
+sortingdate: 2018-04-08T23:42:05.927Z
+isbn: "1231232131232112"
+post_image: cover-the-awakening.png
+square_image: thumbnail-eldespertar-es.jpg
+time_period:
+  - modernist
+  - 19th
+description: "SOLO DISPONIBLE EN INGLÉS - La necesidad de pasión puede ser una
+  de las lecciones por aprender del controvertido texto de Chopin, pero
+  ciertamente no es la única. La novela surgió de la oscuridad como un tipo
+  diferente de tormenta: llevar el mundo literario a nuevas alturas y tomar
+  conciencia de lo que las mujeres escritoras podrían hacer."
 ---
 
 THE AWAKENING - KATE CHOPIN
