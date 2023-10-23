@@ -1,7 +1,10 @@
 ---
 title: Cypherpunk Women
-publication: 2023-09-12T14:44:26.228Z
-release: 2023-10-23T14:44:26.257Z
+publication: 2021-02-05T15:44:26.228Z
+publishformat: Month and year
+release: 2021-02-05T15:44:26.257Z
+releaseformat: Month and year
+sortingdate: 2021-02-05T23:39:57.168Z
 templateKey: book-page
 author: Edited by Leigh Cuen
 isbn: 978-1-961368-17-0
@@ -9,7 +12,6 @@ post_image: cover_cypherpunk-women.png
 square_image: thumbnail-cypherpunk-women.jpg
 download: citapress.org
 language_link: citapress.org
-published: false
 genre:
   - short-stories
   - essay
@@ -42,6 +44,7 @@ foreword: >
 
 
   <p>Works by Soona Amhaz, Saga Arvidsdotter, Josie Bellini, Kiara Bickers, Audrey Chaing, Emily Faria, Janey Gak, Allie Eve Knox, Jordan Kong, Sarah Jamie Lewis, Mir Liponi, Beth McCarthy, Chrissa McFarlane, Lisa Neigut, Norika Kizawa, Chelsea Palmer, Anita Posch, Samantha Radocchia, Hannah Rosenberg, Kokab “Setareh” Shabanipour, Amber Scott, Alena Vranova, Leah Wald, Karima Williams, Joyce Yang, Linda Xie, @Bitcoinstripper, @GlitchesBrew, @Tina_in_Tech, and many more.</p><p> Contributing editor: Michael McSweeney</p>
+published: false
 ---
 ## PART 1: Genesis Block
 
