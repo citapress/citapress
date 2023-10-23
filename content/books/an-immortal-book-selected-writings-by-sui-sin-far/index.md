@@ -10,9 +10,9 @@ author: Sui Sin Far (Edith Maude Eaton)
 isbn: Placeholder
 post_image: cover-sui-sin-far.jpg
 square_image: thumbnail-sui-sin-far2.jpg
-download: citapress.org
-download_ebook: citapress.org
-download_name: ""
+download: An-Immortal-Book-Sui-Sin-Far-low.pdf
+download_ebook: an-immortal-book.epub
+download_name: "Download PDF"
 language_link: citapress.org
 genre:
   - short-stories
