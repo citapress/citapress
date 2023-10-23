@@ -1,7 +1,10 @@
 ---
 title: Men, Women and Ghosts
-publication: 2023-10-20T04:00:20.599Z
-release: 2023-10-20T04:00:20.640Z
+publication: 1916-03-02T05:00:20.599Z
+publishformat: Year
+release: 2020-02-12T05:00:20.640Z
+releaseformat: Year
+sortingdate: 2020-02-11T23:51:50.645Z
 templateKey: book-page
 author: Amy Lowell
 isbn: 978-1-961368-14-9
