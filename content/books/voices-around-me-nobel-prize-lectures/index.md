@@ -33,9 +33,10 @@ description: "\"Read together, the reflections of the Nobel women reveal a range
   contains observations that are at once totally complex and recognizably
   true.\" - Jessi Haley"
 foreword: |-
-  Foreword: Jessi Haley, Cita Press editorial coordinator
+  <p>Foreword: Jessi Haley, Cita Press editorial coordinator</p>
 
-  Cover: Fiorella Ferroni, artist and designer
+  <p>Cover: Fiorella Ferroni, artist and designer</p>
+published: true
 ---
 ![Cover for Voices Around Me, featuring long legs striding over a podium, while a bird sits on the podium with a white handkerchief in its mouth](cover-nobel-lectures-update.png "Voices Around Me cover")
 
