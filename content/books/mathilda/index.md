@@ -1,7 +1,10 @@
 ---
 title: Mathilda
-publication: 2023-10-20T03:37:24.446Z
-release: 2023-10-20T03:37:24.471Z
+publication: 1820-02-02T04:30:22.446Z
+publishformat: Year
+release: 2021-10-13T03:37:24.471Z
+releaseformat: Year
+sortingdate: 2021-10-12T23:48:09.231Z
 templateKey: book-page
 author: Mary Wollstonecraft Shelley
 isbn: 978-1-961368-13-2
@@ -17,13 +20,12 @@ theme:
   - sex-romance
   - motherhood
 lang: en
-description: Mary Shelley wrote <i>Mathilda</i> shortly after her novel
-  Frankenstein was an immediate popular hit, but it wasn't available to the
-  public until more than a century later. Narrated by a young woman on her
-  deathbed, the novella explores grief, despair, and redemption. Despite its
-  deployment of familiar Gothic themes like suicide, incest, and a woman
-  withering away, its framing is frequently read as a feminist reclamation of
-  the genre.
+description: Mary Shelley wrote <i>Mathilda</i> from 1819-1820, shortly after
+  her novel Frankenstein was an immediate popular hit--but it wasn't published
+  until more than a century later. Narrated by a young woman on her deathbed,
+  the novella explores grief, despair, and redemption. Despite its deployment of
+  familiar Gothic themes like suicide, incest, and a woman withering away, its
+  framing is frequently read as a feminist reclamation of the genre.
 foreword: "Cover: Kathy Mueller is a designer, art director & educator."
 ---
 ![Cover of Mathilda, feat. an illustratioon of a woman in profile surrounded by a wreath of thorny, wilting blooms](cover-mathilda.jpg "Mathilda cover")
