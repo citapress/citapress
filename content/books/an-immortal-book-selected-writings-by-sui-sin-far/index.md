@@ -549,7 +549,7 @@ Than never to have loved at all?'”</p>
 
 <p>MY PRECIOUS LAURA&mdash;, May the bamboo ever wave. Next week I accompany Ah Oi to the beauteous town of San José. There will we be met by the son of the Illustrious Teacher, and in a little Mission, presided over by a benevolent American priest, the little Ah Oi and the son of the Illustrious Teacher will be joined together in love and harmony—two pieces of music made to complete one another.</p>
 <p>The Son of the Illustrious Teacher, having been through an American Hall of Learning, is well able to provide for his orphan bride and fears not the displeasure of his parents, now that he is assured that your grief at his loss will not be inconsolable. He wishes me to waft to you and to Kai Tzu—and the little Ah Oi joins with him—ten thousand rainbow wishes for your happiness.</p>
-<p style="margin-left: 1020px"> My respects to your honorable parents, and to yourself, the heart of your loving friend,<br>
+<p style="margin-left: 120px"> My respects to your honorable parents, and to yourself, the heart of your loving friend,<br>
 JADE SPRING FRAGRANCE</p>
 
 <p>To Mr. Spring Fragrance, Mrs. Spring Fragrance also indited a letter:</p>
@@ -558,7 +558,7 @@ JADE SPRING FRAGRANCE</p>
 <p>For me it is sufficient to know that the Golden Gate Park is most enchanting, and the seals on the rock at the Cliff House extremely entertaining and amiable. There is much feasting and merry-making under the lanterns in honor of your Stupid Thorn.</p>
 <p>I have purchased for your smoking a pipe with an amber mouth. It is said to be very sweet to the lips and to emit a cloud of smoke fit for the gods to inhale.</p>
 <p>Awaiting, by the wonderful wire of the telegram message, your gracious permission to remain for the celebration of the Fifth Moon Festival and the making of American “fudge,” I continue for ten thousand times ten thousand years,</p>
-<p style="margin-left: 1020px"> Your ever loving and obedient woman,<br>  JADE </p>
+<p style="margin-left: 120px"> Your ever loving and obedient woman,<br>  JADE </p>
 <p> P.S. Forget not to care for the cat, the birds, and the flowers. Do not eat too quickly nor fan too vigorously now that the weather is warming.</p>
 
 <p id="section1"><small>\\\[1] The plum blossom is the Chinese flower of virtue. It has been adopted by the Japanese, just in the same way as they have adopted the Chinese national flower, the chrysanthemum.</p></small>
@@ -1163,7 +1163,7 @@ Then speedily forgot.”</p>
 <h3>IV</h3>
 <p>A Chinese messenger-boy ran up the street, entered the store of Wan Hom Hing & Co. and asked for the junior partner. When Lin Fo came forward he handed him a dainty, flowered missive, neatly folded and addressed. The receiver opened it and read:</p>
 <p>DEAR AND HONORED HUSBAND,—Your unworthy Pau Tsu lacks the courage to face the ordeal before her. She has, therefore, left you and prays you to obtain a divorce, as is the custom in America, so that you may be happy with the Beautiful One, who is so much your Pau Tsu’s superior. This, she acknowledges, for she sees with your eyes, in which, like a star, the Beautiful One shineth. Else, why should you have your Pau Tsu follow in her footsteps? She has tried to obey your will and to be as an American woman; but now she is very weary, and the terror of what is before her has overcome.</p>
-<p style="margin-left: 600px">Your stupid thorn,<br>
+<p>Your stupid thorn,<br>
 PAU TSU</p>
 <p>Mechanically Lin Fo folded the letter and thrust it within his breast pocket. A customer inquired of him the price of a lacquered tray. “I wish you good morning,” he replied, reaching for his hat. The customer and clerks gaped after him as he left the store.</p>
 <p>Out in the street, as fate would have it, he met Adah Raymond. He would have turned aside had she not spoken to him.</p>

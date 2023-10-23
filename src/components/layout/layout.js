@@ -42,7 +42,7 @@ const Layout = ({ location, children, intl, where }) => {
               <a className="social-img" href="http://twitter.com/citapress"><img src="/img/tw.png" alt="tw" /></a>
             </div>
             <div className='footer-rights'>
-              Some rights reserved <img className='some-rights' alt="cc" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"/> CC-BY-SA 4.0 / {new Date().getFullYear()}, Built with Gatsby
+              Some rights reserved <img className='some-rights' alt="cc" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"/> CC-BY-SA 4.0 / {new Date().getFullYear()} &nbsp; <a href="https://github.com/citapress/citapress" target="_blank" rel="noreferrer">Github</a>
             </div>
           </div>
         </div>
