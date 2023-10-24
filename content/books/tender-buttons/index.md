@@ -27,19 +27,11 @@ foreword: >-
 
 
   <p>Foreword: Gabrielle Welsh is a writer, reader, editor in Chicago, Illinois.</p>
-published: true
+published: false
 ---
 ![Tender Buttons Cover: feat. black and white images on blank background](cover-tender-buttons.jpg "Tender Buttons Cover")
 
-
-  <head>
-    <title>
-      Tender Buttons
-    </title>
-  </head>
-  <body>
-
-<h2>Contents</h2>
+ 
 
 <ul>
   <li><a href="#FOREWORD"><b>Foreword</b></a></li>
@@ -48,7 +40,6 @@ published: true
    <li><a href="#ROOMS"><b>Rooms</b></a></li>
  </ul>
 
-   
 <hr style="width: 65%;" />
 <h2 id="FOREWORD">Foreword by Gabrielle Welsh</h2>
     <p>
