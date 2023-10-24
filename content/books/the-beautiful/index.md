@@ -1,7 +1,10 @@
 ---
 title: The Beautiful
-publication: 2023-10-20T04:23:43.152Z
-release: 2023-10-20T04:23:43.213Z
+publication: 2018-04-13T04:23:43.152Z
+publishformat: Year
+release: 1913-04-02T05:23:43.213Z
+releaseformat: Year
+sortingdate: 2018-04-12T00:30:54.040Z
 templateKey: book-page
 author: Vernon Lee
 isbn: 978-1-961368-15-6
@@ -16,16 +19,16 @@ theme:
   - science-technology
 lang: en
 description: >-
-  "I have tried in this little volume to explain aesthetic preference,
+  <p><i>"I have tried in this little volume to explain aesthetic preference,
   particularly as regards visible shapes, by the facts of mental science. But my
   explanation is addressed to readers in whom I have no right to expect a
   previous knowledge of psychology, particularly in its more modern
   developments. I have therefore based my explanation of the problems of
   aesthetics as much as possible upon mental facts familiar, or at all events
-  easily intelligible, to the lay reader."
+  easily intelligible, to the lay reader."</i></p>
 
 
-  Vernon Lee's 1913 text examines the nature of beauty and our response to it--examining taste, emotional responses, and debates around artistic value.
+  <p>Vernon Lee's 1913 text examines the nature of beauty and our response to it--examining taste, emotional responses, and debates around artistic value.</p>
 foreword: "Cover: Juliana Castro Varón is a Colombian graphic designer and
   author, and the founder and design director of Cita Press."
 ---
