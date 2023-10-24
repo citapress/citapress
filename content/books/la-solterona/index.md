@@ -1,29 +1,37 @@
 ---
-title: La Solterona
 publication: 2023-05-01T22:12:03.284Z
 release: 2019-05-01T22:12:03.284Z
+templateKey: book-page
 author: Edith Wharton
-isbn: "1231232131232112"
-post_image: old-maid-cover-ES.jpg
-square_image: old-maid-square-ES.jpg
 download: http://link.com
 language_link: la-solterona
 genre:
   - short-stories
-time_period:
-  - modernist
 theme:
   - first-person-narrator
   - sex-romance
 lang: es
-description: >-
-  Los personajes de La solterona (1925) aceptan al pie de la letra que dependen de otras personas y que no actúan del todo por interés propio. Están animadas por lo que hoy podríamos llamar ética feminista del cuidado, que centra la acción moral en las relaciones interpersonales impulsadas por el cuidado y la benevolencia y asume que los individuos dependen de una amplia gama de otras personas. En una situación desesperada, Delia y Charlotte se conectan.
-foreword: >-
-  Prólogo: Krithika Varagur, galardonada periodista, autora, ensayista y humorista estadounidense.
-Portada: Petra Zehner, artista gráfica y escritora residente en Francia."
+foreword: "Prólogo: Krithika Varagur, galardonada periodista, autora, ensayista
+  y humorista estadounidense."
 date: 2012-05-01T22:12:03.284Z
-templateKey: book-page
+title: La Solterona
+sortingdate: 2023-10-24T17:09:04.183Z
+isbn: "1231232131232112"
+post_image: old-maid-cover-ES.jpg
+square_image: old-maid-square-ES.jpg
+time_period:
+  - modernist
+description: Los personajes de La solterona (1925) aceptan al pie de la letra
+  que dependen de otras personas y que no actúan del todo por interés propio.
+  Están animadas por lo que hoy podríamos llamar ética feminista del cuidado,
+  que centra la acción moral en las relaciones interpersonales impulsadas por el
+  cuidado y la benevolencia y asume que los individuos dependen de una amplia
+  gama de otras personas. En una situación desesperada, Delia y Charlotte se
+  conectan.
+Portada: Petra Zehner, artista gráfica y escritora residente en Francia."
 ---
+![Portada La Solterona](old-maid-cover-ES.jpg "Portada La Solterona")
+
 ## Introducción de La Solterona de Krithika Varagur
 
 (El prólogo solo está disponible en inglés pero ya puedes leer el libro en español)
@@ -40,9 +48,9 @@ The word “free” never appears in The Old Maid. Its two main characters, Deli
 
 This delicate situation developed because both women made rash, unconventional choices like breaking off an engagement and supporting a former lover’s baby. But they didn’t do these things to pointedly reject society’s mores, or in a conscious bid for freedom. Their story is not just about a bygone society’s oppressive strictures, but also about its piecemeal accommodation of subversive actions and vehement passions.
 
-Both Delia and Charlotte enact the decisive episodes of their lives somewhat outside their most rational selves. Delia admits that “the first sight of little Tina had somehow decentralized [her] whole life, making her indifferent to everything else.” And Charlotte wastes no words prettifying her affair: “No one took advantage of me. I was lonely and unhappy. I met someone who was lonely and unhappy...” Both women accept at face value that they depend on other people, and that they act not entirely in their own self-interest. They are animated by what we might today call feminist care ethics, which centers moral action on interpersonal relationships driven by care and benevolence and assumes that individuals are dependent on a vast array of other people. In direst straits, these characters still only connect. When Delia decides to support baby Tina, she resolves to “once more break down the Ralston barriers and reach out into the world.” Moreover, after her “immediate and unflinching” vow to care for Tina, “She saw only a future full of duties.” Not choices or desires: duties. Even their rebellions create new ways to relate to one another.
+Both Delia and Charlotte enact the decisive episodes of their lives somewhat outside their most rational selves. Delia admits that “the first sight of little Tina had somehow decentralized \[her] whole life, making her indifferent to everything else.” And Charlotte wastes no words prettifying her affair: “No one took advantage of me. I was lonely and unhappy. I met someone who was lonely and unhappy...” Both women accept at face value that they depend on other people, and that they act not entirely in their own self-interest. They are animated by what we might today call feminist care ethics, which centers moral action on interpersonal relationships driven by care and benevolence and assumes that individuals are dependent on a vast array of other people. In direst straits, these characters still only connect. When Delia decides to support baby Tina, she resolves to “once more break down the Ralston barriers and reach out into the world.” Moreover, after her “immediate and unflinching” vow to care for Tina, “She saw only a future full of duties.” Not choices or desires: duties. Even their rebellions create new ways to relate to one another.
 
-Wharton sets up their world in a virtuoso, dryly comic cold open. Old New York, she writes, was ruled by a “few families… in simplicity and affluence… well-fed slow-moving people… [who] lived together in genteel monotony.” They believe in nothing except their bank accounts, in contrast to the other prominent early Americans: the Puritans who died for their “creed.” And these New Yorkers worship at an “edulcorated” Church of England – the Episcopalian Church – that has sanded off harsh dogmas for decorum’s sake. (This contrast between two modes of American faith is important to The Old Maid.) But these old New Yorkers’ conservatism is ironic – because they’re all arrivistes. The Ralstons may have socialized with George Washington and served Thomas Jefferson just three generations ago, but that’s because they live in a country that’s less than a century old. Their obscure taboos and rites, like shrouding pregnant women from public view, are all a little comic, even absurd. The business-minded Ralstons, into whom Delia marries and Charlotte is meant to marry, are paragons of this hidebound elite.
+Wharton sets up their world in a virtuoso, dryly comic cold open. Old New York, she writes, was ruled by a “few families… in simplicity and affluence… well-fed slow-moving people… \[who] lived together in genteel monotony.” They believe in nothing except their bank accounts, in contrast to the other prominent early Americans: the Puritans who died for their “creed.” And these New Yorkers worship at an “edulcorated” Church of England – the Episcopalian Church – that has sanded off harsh dogmas for decorum’s sake. (This contrast between two modes of American faith is important to The Old Maid.) But these old New Yorkers’ conservatism is ironic – because they’re all arrivistes. The Ralstons may have socialized with George Washington and served Thomas Jefferson just three generations ago, but that’s because they live in a country that’s less than a century old. Their obscure taboos and rites, like shrouding pregnant women from public view, are all a little comic, even absurd. The business-minded Ralstons, into whom Delia marries and Charlotte is meant to marry, are paragons of this hidebound elite.
 
 As Delia and Charlotte massage their social world to accommodate their subversive arrangements, the third-person narrator occasionally shifts to the collective perspective of upper-crust New York society. Like a Greek chorus, they comment on and grapple with various unusual developments over the novella’s twenty-year timespan. “You could always have told, everyone agreed afterward, that Charlotte Lovell was meant to be an old maid... there was something prim about her,” they intone as the novella’s second section opens. (In fact, just a few pages ago, it was clear that Charlotte’s broken engagement was a radical move for a well-born, pretty debutante from a family with a long history of marrying Ralstons – but a few pages is all it takes for this group to start rationalizing.) The same chorus reassures itself that she was a consumptive, “coughing her lungs out—that, of course, had been the reason for her breaking her engagement with Joe Ralston,” even though surely some of them guessed at the real reason a young woman would disappear from view for about a year. As for the baby she brings to her spinster abode in upstate New York? Rather than the obvious conclusion, society reasons that “the baffled instinct of motherhood was peculiarly intense in cases where lung-disease prevented marriage,” which is why Charlotte kept the (ostensibly random) foundling. Finally, after Delia legally adopts Clementina at the story’s end, the chorus relates yet another fresh consensus: “Her origin was really undiscoverable, that she represented one of the unsolved mysteries which occasionally perplex and irritate well-regulated societies.” As these explanations accrete, readers are clearly meant to be in on the joke. And as a result, this “old New York” is greatly defanged.
 
@@ -54,14 +62,13 @@ Charlotte appears to be the clear loser of the pair, possessing almost nothing t
 
 As the story progresses, each of Delia’s painfully-processed revelations brings its share of shame and regret, but also gives her more conviction to help the people in her life. And from their sacrificial mode in the story’s beginning, both Charlotte and Delia move toward a more loving accommodation of each others’ flawed choices. The cousins don’t shy from emotional trench warfare: When Delia first offers to help Charlotte’s baby, she unilaterally decides that Charlotte must break off her engagement. “If he weakens or if you weaken, I can do nothing for you or for little Tina,” she says, with an icy calculus. Twenty years later, they furiously debate Tina’s marriage prospects until they stand “with weapons spent.” But in the climactic final scene on the night before Tina’s wedding, when Charlotte threatens to reveal her maternity, she ultimately decides it would not be worth inflicting such confusion and pain on someone she loves, and cedes the occasion to Delia.
 
-*
-Together, Charlotte and Delia comprise one mother to Tina: her biological mother and her legal one, with real affection from both. Together, Charlotte and Delia also constituted one lover to the impecunious artist Clem Spender, providing him, respectively, a brief sexual affair and a jilted emotional one. Their half-realized lives seem consigned to long stretches of boredom and misery, whether that takes place inside the social order, in Delia’s case, or outside it, in Charlotte’s. “Social tolerance was not dealt in the same measure to men and to women, and neither Delia nor Charlotte had ever wondered why: like all the young women of their class they simply bowed to the ineluctable,” writes Wharton.
+* Together, Charlotte and Delia comprise one mother to Tina: her biological mother and her legal one, with real affection from both. Together, Charlotte and Delia also constituted one lover to the impecunious artist Clem Spender, providing him, respectively, a brief sexual affair and a jilted emotional one. Their half-realized lives seem consigned to long stretches of boredom and misery, whether that takes place inside the social order, in Delia’s case, or outside it, in Charlotte’s. “Social tolerance was not dealt in the same measure to men and to women, and neither Delia nor Charlotte had ever wondered why: like all the young women of their class they simply bowed to the ineluctable,” writes Wharton.
 
 But the rest of the plot indicates precisely otherwise. Charlotte does get to spend her life with her biological daughter, rather than consign her to an orphanage. (She doesn’t reveal her maternity to Tina within the novella’s pages, but its ending leaves open the possibility that she does so soon afterward.) And Delia does manage both to escort Clem Spender’s illegitimate child into society and then oversee her licit marriage.
 
 They do all this with a feminine can-do ethos of making the best of limited opportunities. Self-pity is neither Charlotte’s nor Delia’s emotional repertoires. Charlotte grows “robust and middle-aged, energetic and even tyrannical,” and has seemingly no regrets about her life-changing tradeoff. Delia, meanwhile, realizes early on that she will never experience real passion. “Life had passed her by, and left her with the Ralstons.” But it’s no occasion to wallow: “Very well then! She would make the best of herself, and of the Ralstons.” That attitude is precisely how she engineers such idiosyncratic arrangements into their prim world. And it entails behaving as if every outré step — adopting Tina, letting her spinster cousin move in with her — “had always been an understood thing.” Even Tina’s unusually short engagement and secular wedding, which raise some eyebrows in the “female elders of the tribe,” barrel forward thanks to Delia’s insistent smile.
 
-This enterprising spirit toward knotty human affairs is where Wharton diverges not just from Hawthornian romance, but even from many of her own novels that have a worked-over sense of inevitable tragedy. By the story’s end, Delia Ralston has earned her society-wide reputation for “carrying things off.” Her secret weapon was “a long inheritance of moral modesty [that] helped her to keep her questionings to herself.” That, surprisingly, is what emerges from this unsentimental story as something worth preserving from the way things were. By the novella’s end, the way Delia pulls things off sounds irresistible: “Behind Delia's assurance there was a tumult of doubts and uncertainties. But she had once learned that one can do almost anything (perhaps even murder) if one does not attempt to explain it.” In a world where breaking free is impossible, smoothing things over has its own charms.
+This enterprising spirit toward knotty human affairs is where Wharton diverges not just from Hawthornian romance, but even from many of her own novels that have a worked-over sense of inevitable tragedy. By the story’s end, Delia Ralston has earned her society-wide reputation for “carrying things off.” Her secret weapon was “a long inheritance of moral modesty \[that] helped her to keep her questionings to herself.” That, surprisingly, is what emerges from this unsentimental story as something worth preserving from the way things were. By the novella’s end, the way Delia pulls things off sounds irresistible: “Behind Delia's assurance there was a tumult of doubts and uncertainties. But she had once learned that one can do almost anything (perhaps even murder) if one does not attempt to explain it.” In a world where breaking free is impossible, smoothing things over has its own charms.
 
 ## PRIMERA PARTE
 
@@ -413,7 +420,7 @@ She would not have been young and tender, and a happy wife, if she had not thoug
 
 “Dinner first, my boy, if you don’t mind! A bottle of Burgundy will brush away the blue devils. Your arm to your cousin, please; I’ll just go and see that the wine is brought up.”
 
- *
+*
 
 Oyster soup, broiled bass, stuffed goose, apple fritters and green peppers, followed by one of Grandmamma Ralston’s famous caramel custards: through all her mental anguish, Delia was faintly aware of a secret pride in her achievement. Certainly it would serve to confirm the rumour that Jim Ralston could always bring a friend home to dine without notice. The Ralston and Lovell wines rounded off the effect, and even Joe’s drawn face had mellowed by the time the Lovell Madeira started westward. Delia marked the change when the two young men rejoined her in the drawing-room.
 
@@ -477,7 +484,7 @@ When poor Joe, late that evening, wrung her hand with a stammered farewell, she 
 
 “You must let me see her first, please; you must wait till she sends for you—” and she winced a little at the alacrity of his acceptance. But no amount of rhetorical bolstering-up could make it easy for a young man to face what lay ahead of Joe; and her final glance at him was one of compassion....
 
- *
+*
 
 The front door closed upon Joe, and she was roused by her husband’s touch on her shoulder.
 
@@ -683,7 +690,7 @@ In truth, Delia had looked forward more than she knew to the quiet talks with Ti
 
 And now there would be an end to these evening talks: if Charlotte had asked to be lodged next to her daughter, might it not conceivably be because she wished them to end? It had never before occurred to Delia that her influence over Tina might be resented; now the discovery flashed a light far down into the abyss which had always divided the two women. But a moment later Delia reproached herself for attributing feelings of jealousy to her cousin. Was it not rather to herself that she should have ascribed them? Charlotte, as Tina’s mother, had every right to wish to be near her, near her in all senses of the word; what claim had Delia to oppose to that natural privilege? The next morning she gave the order that Charlotte’s things should be taken down to the room next to Tina’s.
 
- *
+*
 
 That evening, when bedtime came, Charlotte and Tina went upstairs together; but Delia lingered in the drawing-room, on the pretext of having letters to write. In truth, she dreaded to pass the threshold where, evening after evening, the fresh laughter of the two girls used to waylay her while Charlotte Lovell already slept her old-maid sleep on the floor above. A pang went through Delia at the thought that henceforth she would be cut off from this means of keeping her hold on Tina.
 
@@ -911,7 +918,7 @@ Slowly, with stiff motions, she began to undress, blew out her candles, and knel
 
 LYING awake till morning, Delia lived over every detail of the fateful day when she had assumed the charge of Charlotte’s child. At the time she had been hardly more than a child herself, and there had been no one for her to turn to, no one to fortify her resolution, or to advise her how to put it into effect. Since then, the accumulated experiences of twenty years ought to have prepared her for emergencies, and taught her to advise others instead of seeking their guidance. But these years of experience weighed on her like chains binding her down to her narrow plot of life; independent action struck her as more dangerous, less conceivable, than when she had first ventured on it. There seemed to be so many more people to “consider” now (“consider” was the Ralston word): her children, their children, the families into which they had married. What would the Halseys say, and what the Ralstons? Had she then become a Ralston through and through?
 
- *
+*
 
 A few hours later she sat in old Dr. Lanskell’s library, her eyes on his sooty Smyrna rug. For some years now Dr. Lanskell had no longer practised: at most, he continued to go to a few old patients, and to give consultations in “difficult” cases. But he remained a power in his former kingdom, a sort of lay Pope or medical Elder to whom the patients he had once healed of physical ills often returned for moral medicine. People were agreed that Dr. Lanskell’s judgment was sound; but what secretly drew them to him was the fact that, in the most totem-ridden of communities, he was known not to be afraid of anything.
 
@@ -969,7 +976,7 @@ Dr. Lanskell lifted his silver eyebrows. “Yes: poor Charlotte! I suppose she�
 
 He guided her out through the dining-room, where some poor people and one or two old patients were already waiting.
 
- *
+*
 
 Delia’s course, in truth, seemed clear enough till, that afternoon, she summoned Charlotte alone to her bedroom. Tina was lying down with a headache: it was in those days the accepted state of young ladies in sentimental dilemmas, and greatly simplified the communion of their elders.
 
@@ -1091,7 +1098,7 @@ The golden flood bore them onward, nearer and nearer to the enchanted date; and 
 
 Tina, like Mrs. Ralston, was to have a “house-wedding,” though Episcopalian society was beginning to disapprove of such ceremonies, which were regarded as the despised pis-aller of Baptists, Methodists, Unitarians and the other altarless sects. In Tina’s case, however, both Delia and Charlotte felt that the greater privacy of a marriage in the house made up for its more secular character; and the Halseys favoured their decision. The ladies accordingly settled themselves at Lovell Place before the end of June, and every morning young Lanning Halsey’s catboat was seen beating across the bay, and furling its sail at the anchorage below the lawn.
 
- *
+*
 
 There had never been a fairer June in any one’s memory. The damask roses and mignonette below the verandah had never sent such a breath of summer through the tall French windows; the gnarled orange-trees brought out from the old arcaded orange-house had never been so thickly blossomed; the very haycocks on the lawn gave out whiffs of Araby.
 
@@ -1255,7 +1262,7 @@ The other yielded automatically to her touch, and side by side the two women mou
 
 “No—you,” she whispered, and turned away.
 
- *
+*
 
 Tina lay in bed, her arms folded under her head, her happy eyes reflecting the silver space of sky which filled the window. She smiled at Delia through her dream.
 
@@ -1285,5 +1292,5 @@ But suddenly she thought of Charlotte, alone behind the shut door of her own roo
 
 THE END
 
-The text for this book was taken from The Project Gutenberg EBook of The Old Maid. Produced by Chuck Greif, MWS and the Online Distributed Proofreading Team at [http://www.pgdp.net](http://www.pgdp.net) (This file was produced from images generously made available by The
+The text for this book was taken from The Project Gutenberg EBook of The Old Maid. Produced by Chuck Greif, MWS and the Online Distributed Proofreading Team at <http://www.pgdp.net> (This file was produced from images generously made available by The
 Internet Archive/American Libraries.) Thank you to Literary Hub for sharing an excerpt of the foreword by Krithika Varagur.
