@@ -20,6 +20,7 @@ foreword: >-
 
 
   <p>Cover: Jiwon Park - Graphic designer, educator, and social entrepreneur living and working in Austin and Seoul.</p>
+published: true
 date: 2012-05-01T22:12:03.284Z
 title: The Awakening
 releaseformat: Year
