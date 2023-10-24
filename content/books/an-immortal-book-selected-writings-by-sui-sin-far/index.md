@@ -4,7 +4,7 @@ publication: 1912-10-02T15:44:26.228Z
 publishformat: Year
 release: 2023-10-23T14:44:26.257Z
 releaseformat: Month and year
-sortingdate: 2017-01-02T16:36:35.473Z
+sortingdate: 2017-01-01T16:36:35.473Z
 templateKey: book-page
 author: Sui Sin Far (Edith Maude Eaton)
 isbn: 978-1-961368-01-9
