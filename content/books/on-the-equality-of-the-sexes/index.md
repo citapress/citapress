@@ -16,9 +16,9 @@ theme:
   - religion
 lang: en
 foreword: |-
-  Foreword: Bonnie J. Smith - President, Judith Sargent Murray Society 
+  <p>Foreword: Bonnie J. Smith - President, Judith Sargent Murray Society </p>
 
-  Cover: Natalia Rojas - Colombian artist and illustrator"
+  <p>Cover: Natalia Rojas - Colombian artist and illustrator"</p>
 date: 2012-05-01T22:12:03.284Z
 title: On the Equality of the Sexes
 releaseformat: Year
