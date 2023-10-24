@@ -13,7 +13,7 @@ square_image: thumbnail-sui-sin-far2.jpg
 download: An-Immortal-Book-Sui-Sin-Far-low.pdf
 download_ebook: an-immortal-book.epub
 download_name: Download PDF
-language_link: citapress.org
+language_link: ""
 genre:
   - short-stories
   - essay
