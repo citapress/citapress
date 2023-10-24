@@ -16,7 +16,7 @@ foreword: Cover by Jean Yang, visual and product designer
 date: 2012-05-01T22:12:03.284Z
 title: Silly Novels by Silly Lady Novelists
 releaseformat: Year
-sortingdate: 2018-04-06T00:06:01.342Z
+sortingdate: 2018-04-07T00:06:01.342Z
 isbn: 978-1-961368-10-1
 post_image: cover-silly-novels.png
 square_image: sillynovels.png
