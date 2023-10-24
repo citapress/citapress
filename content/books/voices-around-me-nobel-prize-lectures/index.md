@@ -12,7 +12,7 @@ isbn: 978-1-961368-11-8
 post_image: cover-nobel-lectures-update.png
 square_image: thumbnail-nobel-lectures-update.png
 download: Voices-Around-Me-Szymborska (1).pdf
-download_name: Zine: Print & Fold
+download_name: Zine - Print & Fold
 genre:
   - nonfiction
   - fiction
