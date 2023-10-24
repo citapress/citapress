@@ -2,11 +2,12 @@
 title: Meditaciones sobre los cantares
 publication: 2023-10-17T23:22:36.893Z
 release: 2023-10-17T23:22:36.904Z
+sortingdate: 2023-10-24T01:12:59.841Z
 templateKey: book-page
 author: Santa Teresa de Jesús (Santa Teresa de Ávila)
 isbn: 978-1-961368-03-3
 post_image: cover-st-teresa.jpg
-square_image: thumbnail-meditaciones-eng.jpg
+square_image: thumbnail-meditaciones.png
 language_link: meditations-on-the-song-of-songs
 genre:
   - nonfiction
@@ -32,13 +33,9 @@ foreword: >-
 
   <p>Portada: Catalina Vásquez es una artista y diseñadora de Medellín, Colombia</p>
 ---
-<div id="book-html-content">
+![Portada de meditaciones: Las manos ahuecan un sol yónico que se eleva sobre las montañas, exaltación](cover-st-teresa.jpg "Portada de meditaciones")
 
-<section class="content">
-    <!-- Book Content Starts Here-->
-    <h1>Meditaciones </h1>
-    <h2>Santa Teresa de Jes&uacute;s</h2>
-  </section>
+
   <ul class="toc">
     <li><a href="#foreword">Introducci&oacute;n de Dr. Ana Carvajal</a></li>
     <li><a href="#book">Empezar Meditaciones</a></li>
@@ -83,7 +80,7 @@ estilo de Dios; admirar y meditar los misterios; sobre el "Bésame"
 "Béseme el Señor con el beso de su boca,
 porque más valen tus pechos que el vino", etc.</h5>
     <p>
-    1. He notado mucho que parece que el alma est&aacute; &mdash;a lo que aqu&iacute; da a entender&mdash; hablando con una persona, y pide la paz de otro. Porque dice: &quot;B&eacute;seme con el beso de su boca&quot; \\[Cantares I, I]. Y luego parece que est&aacute; diciendo a con quien est&aacute;: &quot;Mejores son tus pechos&quot; \\[Cantares I, I]. Esto no entiendo c&oacute;mo es, y no entenderlo me hace gran regalo; porque verdaderamente, hijas, no ha de mirar el alma tanto, ni la hacen mirar tanto, ni la hacen tener respeto a su Dios las cosas que ac&aacute; parece podemos alcanzar con nuestros entendimientos tan bajos, como las que en ninguna manera se pueden entender. Y as&iacute; os encomiendo mucho que, cuando leyerdes alg&uacute;n libro y oyerdes serm&oacute;n, u pens&aacute;redes en los misterios de nuestra sagrada fe, que lo que buenamente no pudi&eacute;redes entender, no os cans&eacute;is ni gast&eacute;is el pensamiento en adelgazarlo; no es para mujeres, ni aun para hombres muchas cosas.
+    1. He notado mucho que parece que el alma est&aacute; &mdash;a lo que aqu&iacute; da a entender&mdash; hablando con una persona, y pide la paz de otro. Porque dice: &quot;B&eacute;seme con el beso de su boca&quot; \\\[Cantares I, I]. Y luego parece que est&aacute; diciendo a con quien est&aacute;: &quot;Mejores son tus pechos&quot; \\\[Cantares I, I]. Esto no entiendo c&oacute;mo es, y no entenderlo me hace gran regalo; porque verdaderamente, hijas, no ha de mirar el alma tanto, ni la hacen mirar tanto, ni la hacen tener respeto a su Dios las cosas que ac&aacute; parece podemos alcanzar con nuestros entendimientos tan bajos, como las que en ninguna manera se pueden entender. Y as&iacute; os encomiendo mucho que, cuando leyerdes alg&uacute;n libro y oyerdes serm&oacute;n, u pens&aacute;redes en los misterios de nuestra sagrada fe, que lo que buenamente no pudi&eacute;redes entender, no os cans&eacute;is ni gast&eacute;is el pensamiento en adelgazarlo; no es para mujeres, ni aun para hombres muchas cosas.
     </p>
     <p>
     2. Cuando &eacute;l Se&ntilde;or quiere darlo a entender, Su Majestad lo hace sin trabajo nuestro. A mujeres digo esto. Y a los hombres, que no han de sustentar con sus letras la verdad, que a los que el Se&ntilde;or tiene para declar&aacute;noslas a nosotras, ya se entiende que lo han de trabajar, y lo que en ello ganan. Mas nosotras con llaneza tomar lo que el Se&ntilde;or nos diere; y lo que no, no nos cansar, sino alegrarnos de considerar qu&eacute; tan gran Dios y Se&ntilde;or tenemos, que una palabra suya tern&aacute; en s&iacute; mil misterios, y as&iacute; su principio no entendemos nosotras. As&iacute;, si estuviere en lat&iacute;n u en hebraico u en griego, no era maravilla; mas en nuestro romance, &iexcl;qu&eacute; de cosas hay en los salmos del glorioso rey David que, cuando nos declaran el romance s&oacute;lo, tan oscuro nos queda como el lat&iacute;n! As&iacute; que siempre os guardad de gastar el pensamiento con estas cosas, ni cansaros, que mujeres no han menester m&aacute;s que para su entendimiento bastare; con esto las har&aacute; Dios merced. Cuando Su Majestad quisiere d&aacute;rnoslo sin cuidado ni trabajo nuestro, lo hallaremos sabido. En lo dem&aacute;s, humillarnos y &mdash;como he dicho&mdash; alegrarnos de que tengamos tal Se&ntilde;or, que aun palabras suyas dichas en romance nuestro no se pueden entender.
