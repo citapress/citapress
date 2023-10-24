@@ -19,8 +19,7 @@ const BookPostTemplate = ({
   const checkFormat = (f) => {
     const defaultFormat = {
       year: "numeric",
-      month: "long",
-      day: "2-digit"
+      month: "long"
     };
     if (!f || f.toString() === "Month and year") {
       return defaultFormat;
@@ -32,6 +31,7 @@ const BookPostTemplate = ({
   }
   const publish_format = checkFormat(post.frontmatter.publishformat);
   const release_format = checkFormat(post.frontmatter.releaseformat);
+  const download = post.frontmatter.download.startsWith('http') ? post.frontmatter.download : `/downloads/${post.frontmatter.download}`
 
   return (
     <Layout location={location} title={siteTitle} where={where}>
@@ -78,7 +78,9 @@ const BookPostTemplate = ({
                 <Link to={`${post.fields.slug}read`} itemProp="url" className={"btn btn-secondary"}>{intl.formatMessage({id: 'Read Online'})}</Link>
                 )
               }
-              <a href={post.frontmatter.download} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>Download Guide</a>
+              { post.frontmatter.download &&
+                <a data-cy="download_button" href={download} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>{intl.formatMessage({id: post.frontmatter.download_name ? post.frontmatter.download_name : 'Download Guide'})}</a>
+              }
             </div>
           </div>{/* /info */}
         </header>
@@ -127,6 +129,7 @@ export const pageQuery = graphql`
         download
         published
         language_link
+        download_name
         download_ebook
         date(formatString: "MMMM DD, YYYY")
         release(formatString: "MMMM DD, YYYY")

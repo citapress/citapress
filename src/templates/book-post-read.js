@@ -21,8 +21,7 @@ const BookPostReadTemplate = ({
   const checkFormat = (f) => {
     const defaultFormat = {
       year: "numeric",
-      month: "long",
-      day: "2-digit"
+      month: "long"
     };
     if (!f || f.toString() === "Month and year") {
       return defaultFormat;
@@ -71,6 +70,8 @@ const BookPostReadTemplate = ({
   const handleLineLength = (e) => {
     setLineLength(e); 
   }
+
+  const download = post.frontmatter.download.startsWith('http') ? post.frontmatter.download : `/downloads/${post.frontmatter.download}`
 
 
   useEffect(() => {
@@ -132,6 +133,7 @@ const BookPostReadTemplate = ({
           
             <div className="reference">
                 <ul>
+                  <li>{post.frontmatter.download}</li>
                   <li>ISBN: {post.frontmatter.isbn}</li>
                   <li>{intl.formatMessage({id: 'First published'})}: {intl.formatDate(post.frontmatter.release, publish_format)}</li>
                   <li>{intl.formatMessage({id: 'Publication date'})}: {intl.formatDate(post.frontmatter.publication, release_format)}</li>
@@ -143,7 +145,7 @@ const BookPostReadTemplate = ({
                   <a href={`/downloads/${post.frontmatter.download_ebook}`} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>{intl.formatMessage({id: 'Download Ebook'})}</a>
                 }
                 { post.frontmatter.download &&
-                  <a href={`/downloads/${post.frontmatter.download}`} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>{intl.formatMessage({id: post.frontmatter.download_name ? post.frontmatter.download_name : 'Download Guide'})}</a>
+                  <a href={download} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>{intl.formatMessage({id: post.frontmatter.download_name ? post.frontmatter.download_name : 'Download Guide'})}</a>
                 }
               </div>
             </div>
