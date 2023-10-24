@@ -1,7 +1,7 @@
 ---
-publication: 1861-03-01T23:05:01.284Z
+publication: 2020-03-27T22:12:03.284Z
 publishformat: Year
-release: 2020-03-01T23:12:03.284Z
+release: 1861-03-27T23:05:01.284Z
 templateKey: book-page
 author: Harriet Jacobs
 download: ""
