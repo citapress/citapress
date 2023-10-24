@@ -4,7 +4,7 @@ publishformat: Year
 release: 1899-04-07T23:12:03.284Z
 templateKey: book-page
 author: Kate Chopin
-download: http://link.com
+download: ""
 language_link: el-despertar
 genre:
   - fiction
