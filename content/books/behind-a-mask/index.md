@@ -31,9 +31,7 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
 ---
 ![Cover of Behind a Mask featuring a trick image of a mask](cover-behind-a-mask.png "Cover of Behind a Mask")
 
-\    <h2>Behind a Mask; or, a Woman&rsquo;s Power</h2>
-    <h2>Louisa May Alcott (A.M. Barnard)</h2>
-  </section>
+
   <ul class="toc">
     <li><a href="#link2H_4_0001"><i>Chapter I</i> JEAN MUIR</a></li>
     <li><a href="#link2H_4_0002"><i>Chapter II</i> A GOOD BEGINNING </a></li>
