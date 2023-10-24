@@ -1,8 +1,8 @@
 ---
 title: Behind a Mask
-publication: 1866-01-03T05:33:23.186Z
+publication: 2018-04-15T04:40:25.186Z
 publishformat: Year
-release: 2018-04-08T04:40:25.211Z
+release: 1866-04-15T05:33:23.211Z
 releaseformat: Year
 sortingdate: 2018-04-14T23:38:09.898Z
 templateKey: book-page
