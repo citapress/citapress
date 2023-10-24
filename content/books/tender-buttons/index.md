@@ -1,7 +1,10 @@
 ---
 title: Tender Buttons
-publication: 2023-10-20T03:20:11.330Z
-release: 2023-10-20T03:20:11.368Z
+publication: 2020-03-28T03:20:11.330Z
+publishformat: Year
+release: 1914-03-28T04:20:11.368Z
+releaseformat: Year
+sortingdate: 2020-03-27T00:32:41.120Z
 templateKey: book-page
 author: Gertrude Stein
 isbn: 978-1-961368-12-5
@@ -15,14 +18,16 @@ time_period:
 theme:
   - LGBTQ+
 lang: en
-description: '"The thing about Stein, our dear friend Gertrude, is she made a
+description: <i>"The thing about Stein, our dear friend Gertrude, is she made a
   lot of things possible. Changed what language could be, and what grammar could
   be. Didn’t give a shit about the rules of language and lived with her boo when
-  people really hated lesbians." '
-foreword: |-
-  Cover: Luce Terrasson is a designer, artist and professor. 
+  people really hated lesbians." </i> - Gabrielle Welsh
+foreword: >-
+  <p>Cover: Luce Terrasson is a designer, artist and professor. </p>
 
-  Foreword: Gabrielle Welsh is a writer, reader, editor in Chicago, Illinois.
+
+  <p>Foreword: Gabrielle Welsh is a writer, reader, editor in Chicago, Illinois.</p>
+published: true
 ---
 ![Tender Buttons Cover: feat. black and white images on blank background](cover-tender-buttons.jpg "Tender Buttons Cover")
 
