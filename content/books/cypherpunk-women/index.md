@@ -1,9 +1,9 @@
 ---
 title: Cypherpunk Women
 publication: 2021-02-05T15:44:26.228Z
-publishformat: Month and year
+publishformat: Year
 release: 2021-02-05T15:44:26.257Z
-releaseformat: Month and year
+releaseformat: Year
 sortingdate: 2021-02-05T23:39:57.168Z
 templateKey: book-page
 author: Edited by Leigh Cuen
