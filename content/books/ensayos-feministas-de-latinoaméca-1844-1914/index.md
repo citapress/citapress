@@ -27,3 +27,4 @@ foreword: |
   <p>Introducción: Francesca Gargallo<p><p>Portada: Antonela Debiasi</p>
 published: true
 ---
+Próximamente en español
