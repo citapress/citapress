@@ -1,6 +1,7 @@
 ---
-publication: 2023-05-01T22:12:03.284Z
-release: 2019-05-01T22:12:03.284Z
+publication: 2018-04-09T22:12:03.284Z
+publishformat: Year
+release: 1790-04-09T23:05:01.284Z
 templateKey: book-page
 author: Judith Sargent Murray
 download: ""
@@ -20,6 +21,8 @@ foreword: |-
   Cover: Natalia Rojas - Colombian artist and illustrator"
 date: 2012-05-01T22:12:03.284Z
 title: On the Equality of the Sexes
+releaseformat: Year
+sortingdate: 2018-04-09T00:03:16.361Z
 isbn: "1231232131232112"
 post_image: cover-on-the-equality.png
 square_image: ontheequality.png
