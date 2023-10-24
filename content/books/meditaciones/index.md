@@ -5,6 +5,7 @@ release: 1567-06-08T00:13:58.000Z
 templateKey: book-page
 author: Saint Teresa of Jesus (Saint Teresa of Avila)
 download: https://www.youtube.com/watch?v=AYd_gXzeqM0&feature=youtu.be
+download_name: Watch video
 language_link: meditaciones-sobre-los-cantares
 genre:
   - nonfiction
@@ -27,7 +28,7 @@ sortingdate: 2021-10-09T00:42:50.573Z
 isbn: 978-1-961368-04-0
 post_image: cover-st-teresa-eng.jpg
 square_image: thumbnail-meditaciones-eng.jpg
-download_ebook: Watch video
+download_ebook: ""
 time_period:
   - early-modern
 description: >-
