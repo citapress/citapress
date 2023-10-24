@@ -1,6 +1,7 @@
 ---
-publication: 2023-05-01T22:12:03.284Z
-release: 2019-05-01T22:12:03.284Z
+publication: 2018-04-07T22:12:03.284Z
+publishformat: Year
+release: 1899-04-07T23:12:03.284Z
 templateKey: book-page
 author: Kate Chopin
 download: http://link.com
@@ -21,6 +22,8 @@ foreword: >-
   <p>Cover: Jiwon Park - Graphic designer, educator, and social entrepreneur living and working in Austin and Seoul.</p>
 date: 2012-05-01T22:12:03.284Z
 title: The Awakening
+releaseformat: Year
+sortingdate: 2018-04-07T00:01:28.967Z
 isbn: 978-1-961368-07-1
 post_image: cover-the-awakening.png
 square_image: theawakening.png
