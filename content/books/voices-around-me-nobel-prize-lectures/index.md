@@ -10,7 +10,7 @@ author: Svetlana Alexievich, Nadine Gordimer, Doris Lessing, Toni Morrison,
   Herta Müller, Alice Munro, Wisława Szymborska
 isbn: 978-1-961368-11-8
 post_image: cover-nobel-lectures-update.png
-square_image: thumbnail-nobel-lectures-update.png
+square_image: thumbnail-nobel-lectures-update.jpg
 download: Voices-Around-Me-Szymborska (1).pdf
 download_name: Zine - Print & Fold
 genre:

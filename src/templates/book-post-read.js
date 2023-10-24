@@ -137,7 +137,6 @@ const BookPostReadTemplate = ({
           
             <div className="reference">
                 <ul>
-                  <li>{post.frontmatter.download}</li>
                   <li>ISBN: {post.frontmatter.isbn}</li>
                   <li>{intl.formatMessage({id: 'First published'})}: {intl.formatDate(post.frontmatter.release, publish_format)}</li>
                   <li>{intl.formatMessage({id: 'Publication date'})}: {intl.formatDate(post.frontmatter.publication, release_format)}</li>
