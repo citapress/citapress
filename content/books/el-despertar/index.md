@@ -1,7 +1,7 @@
 ---
-publication: 1899-03-01T23:12:03.284Z
+publication: 2018-04-05T22:12:03.284Z
 publishformat: Year
-release: 2018-04-07T22:12:03.284Z
+release: 1899-06-01T23:12:03.284Z
 templateKey: book-page
 author: Kate Chopin
 download: http://link.com
@@ -22,7 +22,7 @@ published: false
 date: 2012-05-01T22:12:03.284Z
 title: El Despertar
 releaseformat: Year
-sortingdate: 2018-04-08T23:42:05.927Z
+sortingdate: 2023-10-03T23:42:05.927Z
 isbn: "1231232131232112"
 post_image: cover-the-awakening.png
 square_image: thumbnail-eldespertar-es.jpg
