@@ -30,20 +30,9 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 ---
 ![Cover of Men, Women and Ghosts featuring a fantastical fountain with water and objects bursting out](cover-men-women-ghosts1.png "Men Women Ghosts cover")
 
-\    <title>
-      Men, Women and Ghosts, by Amy Lowell
-    </title>
-  </head>
-  <body>
-<pre xml:space="preserve">
-</pre>
-    <h2>
-     Men, Women and Ghosts
-    </h2>
-    <h2>
-   Amy Lowell
-    </h2>    
-    <blockquote>
+
+
+\    <blockquote>
   <ul class="toc">
  <li><a href="#link2H_PREF"> Preface by the Author</a></li>
 <li>  <a href="#link2H_4_0003"> <b>Start Men, Women, and Ghosts</b> </a></li>
@@ -82,10 +71,6 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 </ul>
     </blockquote>
 
-```
-
-```
-
 <pre xml:space="preserve">
   "'... See small portions of the Eternal World that ever groweth':...
   So sang a Fairy, mocking, as he sat on a streak'd tulip,
@@ -98,10 +83,6 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
                                      William Blake.
 </pre>
 
-```
-
-```
-
 <a name="link2H_4_0004" id="link2H_4_0004">
     <h2>
       FIGURINES IN OLD SAXE
@@ -109,10 +90,6 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
     <h2>
       Patterns
     </h2>
-
-```
-
-```
 
 <p>
    I walk down the garden paths,<br>
