@@ -71,7 +71,11 @@ const BookPostReadTemplate = ({
     setLineLength(e); 
   }
 
-  const download = post.frontmatter.download.startsWith('http') ? post.frontmatter.download : `/downloads/${post.frontmatter.download}`
+  const download = post.frontmatter.download ? 
+  post.frontmatter.download.startsWith('http') ?
+  post.frontmatter.download :
+  `/downloads/${post.frontmatter.download}` :
+  null
 
 
   useEffect(() => {

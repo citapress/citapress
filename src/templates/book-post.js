@@ -31,7 +31,11 @@ const BookPostTemplate = ({
   }
   const publish_format = checkFormat(post.frontmatter.publishformat);
   const release_format = checkFormat(post.frontmatter.releaseformat);
-  const download = post.frontmatter.download.startsWith('http') ? post.frontmatter.download : `/downloads/${post.frontmatter.download}`
+  const download = post.frontmatter.download ? 
+  post.frontmatter.download.startsWith('http') ?
+  post.frontmatter.download :
+  `/downloads/${post.frontmatter.download}` :
+  null
 
   return (
     <Layout location={location} title={siteTitle} where={where}>
