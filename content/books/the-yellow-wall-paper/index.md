@@ -1,6 +1,7 @@
 ---
-publication: 2023-09-01T22:12:03.284Z
-release: 2018-05-01T22:12:03.284Z
+publication: 2018-04-01T22:12:03.284Z
+publishformat: Year
+release: 1892-04-01T23:12:03.284Z
 templateKey: book-page
 author: Charlotte Perkins Gilman
 download: ""
@@ -20,6 +21,8 @@ foreword: >-
   <p>Cover: <a href="http://laurasavina.com/" target="_blank" rel="noreferrer">Laura Savina</a>, Italian illustrator and tap dance student</p>
 date: 2015-05-01T22:12:03.284Z
 title: The Yellow Wall-Paper
+releaseformat: Year
+sortingdate: 2018-04-01T00:00:31.212Z
 isbn: 978-1-961368-08-8
 post_image: cover-yellowwallpaper.jpg
 square_image: yellowwallpaper.png
