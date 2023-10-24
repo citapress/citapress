@@ -8,7 +8,7 @@ sortingdate: 2017-01-02T16:36:35.473Z
 templateKey: book-page
 author: Sui Sin Far (Edith Maude Eaton)
 isbn: 978-1-961368-01-9
-post_image: cover-sui-sin-far-immortal-book-update.png
+post_image: cover-sui-sin-far-immortal-book-low.jpg
 square_image: thumbnail-sui-sin-far2.jpg
 download: An-Immortal-Book-Sui-Sin-Far-low.pdf
 download_ebook: an-immortal-book.epub
