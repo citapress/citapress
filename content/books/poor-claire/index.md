@@ -1,6 +1,6 @@
 ---
 publication: 2021-10-15T22:12:03.284Z
-publishformat: Year
+publishformat: Month and year
 release: 1856-10-15T23:05:01.284Z
 templateKey: book-page
 author: Elizabeth Gaskell
