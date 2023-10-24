@@ -1,7 +1,7 @@
 ---
 publication: 2018-04-11T22:12:03.284Z
 publishformat: Year
-release: 1856-04-11T23:05:01.284Z
+release: 1856-04-06T23:05:01.284Z
 templateKey: book-page
 author: Mary Anne Evans (George Eliot)
 download: ""
