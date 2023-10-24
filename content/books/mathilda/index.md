@@ -31,10 +31,8 @@ foreword: "Cover: Kathy Mueller is a designer, art director & educator."
 ![Cover of Mathilda, feat. an illustratioon of a woman in profile surrounded by a wreath of thorny, wilting blooms](cover-mathilda.jpg "Mathilda cover")
 
 
-<h1>
-MATHILDA</h1>
-<h2>By MARY WOLLSTONECRAFT SHELLEY</h2>
-<p style="color:blue"><i>  <p> Edited by Elizabeth Nitchie. Chapel Hill: The University of North Carolina Press. EBook Produced by David Starner, Cori Samuel and the Online Distributed Proofreading Team. Project Gutenberg, Accessed 2021. </p></i></p>
+
+<i>  <p> Edited by Elizabeth Nitchie. Chapel Hill: The University of North Carolina Press. EBook Produced by David Starner, Cori Samuel and the Online Distributed Proofreading Team. Project Gutenberg, Accessed 2021. </p></i>
 
 <hr class="c1">
 <h2>
