@@ -1,9 +1,9 @@
 ---
 title: "An Immortal Book: Selected Writings by Sui Sin Far"
-publication: 1912-10-02T15:44:26.228Z
-publishformat: Year
-release: 2023-10-23T14:44:26.257Z
-releaseformat: Month and year
+publication: 2023-10-24T14:44:26.228Z
+publishformat: Month and year
+release: 1912-10-02T15:44:26.257Z
+releaseformat: Year
 sortingdate: 2017-01-01T16:36:35.473Z
 templateKey: book-page
 author: Sui Sin Far (Edith Maude Eaton)
