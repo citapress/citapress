@@ -11,6 +11,7 @@ author: Svetlana Alexievich, Nadine Gordimer, Doris Lessing, Toni Morrison,
 isbn: 978-1-961368-11-8
 post_image: cover-nobel-lectures-update.png
 square_image: thumbnail-nobel-lectures-update.png
+download: static/downloads/Voices-Around-Me-Szymborska (1).pdf
 download_name: Szymborska Zine - Print & Fold
 genre:
   - nonfiction
