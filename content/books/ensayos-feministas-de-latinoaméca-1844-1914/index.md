@@ -10,7 +10,7 @@ sortingdate: 2023-10-24T00:45:19.913Z
 templateKey: book-page
 author: Seis autoras
 isbn: Placeholder
-post_image: cover-ensayos-feministas.jpg
+post_image: cover-ensayosfeministas-small.jpg
 square_image: thumbnail-ensayos-feministas.jpg
 genre:
   - nonfiction
