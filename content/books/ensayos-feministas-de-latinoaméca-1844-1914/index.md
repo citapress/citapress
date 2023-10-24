@@ -1,5 +1,5 @@
 ---
-title: Ensayos feministas de Latinoaméca 1844-1914
+title: Ensayos feministas de Latinoamérica 1844-1914
 publication: 2023-10-24T00:45:19.863Z
 publishformat:
   - Month and year
