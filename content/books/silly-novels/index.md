@@ -4,7 +4,7 @@ publishformat: Year
 release: 1856-04-11T23:05:01.284Z
 templateKey: book-page
 author: Mary Anne Evans (George Eliot)
-download: http://link.com
+download: ""
 language_link: novelas-tontas
 genre:
   - manifesto
