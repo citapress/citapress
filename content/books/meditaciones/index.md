@@ -1,5 +1,6 @@
 ---
-publication: 2023-05-01T22:12:00.000Z
+publication: 2021-10-20T22:12:00.000Z
+publishformat: Month and year
 release: 1567-06-08T00:13:58.000Z
 templateKey: book-page
 author: Saint Teresa of Jesus (Saint Teresa of Avila)
@@ -21,6 +22,8 @@ foreword: >-
   <p>Cover: Catalia Vásquez is an artist, illustrator, filmmaker, and designer from the mountains of Medellín, Colombia.</p>
 date: 2012-05-01T22:12:03.284Z
 title: Meditations on the Song of Songs
+releaseformat: Year
+sortingdate: 2021-10-09T00:42:50.573Z
 isbn: 978-1-961368-04-0
 post_image: cover-st-teresa-eng.jpg
 square_image: thumbnail-meditaciones-eng.jpg
