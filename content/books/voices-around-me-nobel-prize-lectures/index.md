@@ -4,7 +4,7 @@ publication: 2023-03-08T09:46:30.467Z
 publishformat: Month and year
 release: 2023-03-08T09:46:30.492Z
 releaseformat: Month and year
-sortingdate: 2023-03-08T01:28:41.463Z
+sortingdate: 2017-01-02T01:28:41.463Z
 templateKey: book-page
 author: Svetlana Alexievich, Nadine Gordimer, Doris Lessing, Toni Morrison,
   Herta Müller, Alice Munro, Wisława Szymborska
