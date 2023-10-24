@@ -1,6 +1,7 @@
 ---
-publication: 2023-05-01T22:12:03.284Z
-release: 2019-05-01T22:12:03.284Z
+publication: 2021-10-15T22:12:03.284Z
+publishformat: Year
+release: 1856-10-15T23:05:01.284Z
 templateKey: book-page
 author: Elizabeth Gaskell
 download: ""
@@ -17,8 +18,11 @@ theme:
 lang: en
 foreword: 'Cover: <a href="http://irinakoryagina.com/">Irina Koryagina</a>, a
   graphic designer based in New York'
+published: true
 date: 2012-05-01T22:12:03.284Z
 title: The Poor Clare
+releaseformat: Year
+sortingdate: 2021-10-15T00:37:58.218Z
 isbn: 978-1-961368-06-4
 post_image: cover-poor-clare.jpg
 square_image: thumbnail-poor-clare.jpg
