@@ -10,8 +10,8 @@ author: Edited by Leigh Cuen
 isbn: 978-1-961368-17-0
 post_image: cover_cypherpunk-women.png
 square_image: thumbnail-cypherpunk-women.jpg
-download: citapress.org
-language_link: citapress.org
+download: ""
+language_link: ""
 genre:
   - short-stories
   - essay
