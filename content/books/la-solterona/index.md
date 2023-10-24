@@ -1,6 +1,7 @@
 ---
-publication: 2023-05-01T22:12:03.284Z
-release: 2019-05-01T22:12:03.284Z
+publication: 2022-05-18T22:12:03.284Z
+publishformat: Month and year
+release: 1924-07-10T23:12:03.284Z
 templateKey: book-page
 author: Edith Wharton
 download: http://link.com
@@ -15,7 +16,7 @@ foreword: "Prólogo: Krithika Varagur, galardonada periodista, autora, ensayista
   y humorista estadounidense."
 date: 2012-05-01T22:12:03.284Z
 title: La Solterona
-sortingdate: 2023-10-24T17:09:04.183Z
+sortingdate: 2022-05-22T17:09:04.183Z
 isbn: "1231232131232112"
 post_image: old-maid-cover-ES.jpg
 square_image: old-maid-square-ES.jpg
@@ -29,6 +30,7 @@ description: Los personajes de La solterona (1925) aceptan al pie de la letra
   gama de otras personas. En una situación desesperada, Delia y Charlotte se
   conectan.
 Portada: Petra Zehner, artista gráfica y escritora residente en Francia."
+releaseformat: Year
 ---
 ![Portada La Solterona](old-maid-cover-ES.jpg "Portada La Solterona")
 
