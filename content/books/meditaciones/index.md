@@ -42,7 +42,7 @@ description: >-
 
   <p>Watch <a href='https://youtu.be/AYd_gXzeqM0'> our behind-the-scenes exploration </a> with Ana María Carvajal and Catalina Vásquez!</p>
 ---
-## Meditations on the Song of Songs - Santa Teresa de Jesús
+![Meditations cover: Hands cup a yonic sun rising over the mountains, exaltation](cover-st-teresa-eng.jpg "Meditations cover")
 
 **Introduction**
 
