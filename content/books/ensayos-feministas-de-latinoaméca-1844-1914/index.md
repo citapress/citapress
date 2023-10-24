@@ -1,11 +1,9 @@
 ---
 title: Ensayos feministas de Latinoamérica 1844-1914
 publication: 2023-10-24T00:45:19.863Z
-publishformat:
-  - Month and year
+publishformat: Month and year
 release: 2023-10-24T00:45:19.896Z
-releaseformat:
-  - Month and year
+releaseformat: Month and year
 sortingdate: 2023-10-24T00:45:19.913Z
 templateKey: book-page
 author: Seis autoras
