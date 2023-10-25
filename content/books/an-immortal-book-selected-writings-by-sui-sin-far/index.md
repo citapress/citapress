@@ -11,7 +11,7 @@ isbn: 978-1-961368-01-9
 post_image: cover-sui-sin-far-immortal-book-low.jpg
 square_image: thumbnail-sui-sin-far2.jpg
 download: An-Immortal-Book-Sui-Sin-Far-low.pdf
-download_ebook: An Immortal Book_Sui Sin Far_Cita Press.epub
+download_ebook: An-Immortal Book_Sui Sin Far_Cita Press.epub
 download_name: Download PDF
 language_link: ""
 genre:
