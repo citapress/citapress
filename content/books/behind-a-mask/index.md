@@ -31,17 +31,7 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
 ---
 ![Cover of Behind a Mask featuring a trick image of a mask](cover-behind-a-mask.png "Cover of Behind a Mask")
 
-  <ul class="toc">
-    <li><a href="#link2H_4_0001"><i>Chapter I</i> JEAN MUIR</a></li>
-    <li><a href="#link2H_4_0002"><i>Chapter II</i> A GOOD BEGINNING </a></li>
-    <li><a href="#link2H_4_0003">Chapter III</i> PASSION AND PIQUE </a></li>
-    <li><a href="#link2H_4_0004"><i>Chapter IV</i> A DISCOVERY </a></li>
-    <li><a href="#link2H_4_0005"><i>Chapter V</i> HOW THE GIRL DID IT </a></li>
-    <li><a href="#link2H_4_0006">Chapter VI</i> ON THE WATCH</a></li>
-    <li><a href="#link2H_4_0007"><i>Chapter VII</i> THE LAST CHANCE </a></li>
-    <li><a href="#link2H_4_0008"><i>Chapter VIII</i> SUSPENSE </a></li>
-    <li><a href="#link2H_4_0009"><i>Chapter IX</i> LADY COVENTRY </a></li>
-  </ul>
+ 
    
     <h2>
       <i>Chapter I</i> JEAN MUIR
@@ -5373,8 +5363,4 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       Gerald the strange glance he remembered well, she said in her penetrating
       voice, &ldquo;Is not the last scene better than the first?&rdquo;
      </p>
-    <div style="height: 6em;">
-      <br /><br /><br /><br /><br /><br />
-    </div>
-
-<pre>
+   
