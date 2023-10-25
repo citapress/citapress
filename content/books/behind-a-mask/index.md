@@ -31,7 +31,6 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
 ---
 ![Cover of Behind a Mask featuring a trick image of a mask](cover-behind-a-mask.png "Cover of Behind a Mask")
 
-
   <ul class="toc">
     <li><a href="#link2H_4_0001"><i>Chapter I</i> JEAN MUIR</a></li>
     <li><a href="#link2H_4_0002"><i>Chapter II</i> A GOOD BEGINNING </a></li>
@@ -44,11 +43,8 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
     <li><a href="#link2H_4_0009"><i>Chapter IX</i> LADY COVENTRY </a></li>
   </ul>
     <p>
-      <a name="link2H_4_0001" id="link2H_4_0001"> </a>
-    <p>
-    <div style="height: 4em;">
-    
-    </div>
+
+  
     <h2>
       <i>Chapter I</i> JEAN MUIR
     </h2>
