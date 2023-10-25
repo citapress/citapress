@@ -42,9 +42,7 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
     <li><a href="#link2H_4_0008"><i>Chapter VIII</i> SUSPENSE </a></li>
     <li><a href="#link2H_4_0009"><i>Chapter IX</i> LADY COVENTRY </a></li>
   </ul>
-    <p>
-
-  
+   
     <h2>
       <i>Chapter I</i> JEAN MUIR
     </h2>
