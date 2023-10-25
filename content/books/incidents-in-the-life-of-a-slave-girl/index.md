@@ -6120,7 +6120,7 @@ to the steamboat. Neither were they aware that all the particulars of aunt
 Nancy's death and burial were conveyed to me at the time they occurred. I
 have kept the letter, of which I herewith subjoin a copy:&mdash;
 
-<pre>
+<p><i>
 Your letter to sister was received a few days ago. I gather from
 it that you are desirous of returning to your native place, among
 your friends and relatives. We were all gratified with the
@@ -6168,7 +6168,7 @@ persuasion, will be induced to let you be purchased by any person
 you may choose in our community. You will please answer this as
 soon as possible, and let us know your decision. Sister sends
 much love to you. In the mean time believe me your sincere friend
-and well wisher.
+and well wisher.</p></i>
 
 
 This letter was signed by Emily's brother, who was as yet a mere lad. I
