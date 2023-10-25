@@ -32,190 +32,226 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
 ![Cover of Behind a Mask featuring a trick image of a mask](cover-behind-a-mask.png "Cover of Behind a Mask")
 
  
-   
-    <h2>
-      <i>Chapter I</i> JEAN MUIR
+<p class="toc">
+<a href="#link2H_4_0001" class="pginternal"> <i>Chapter I</i> JEAN MUIR </a>
+</p>
+<p class="toc">
+<a href="#link2H_4_0002" class="pginternal"> <i>Chapter II</i> A GOOD BEGINNING </a>
+</p>
+<p class="toc">
+<a href="#link2H_4_0003" class="pginternal"> <i>Chapter III</i> PASSION AND PIQUE </a>
+</p>
+<p class="toc">
+<a href="#link2H_4_0004" class="pginternal"> <i>Chapter IV</i> A DISCOVERY </a>
+</p>
+<p class="toc">
+<a href="#link2H_4_0005" class="pginternal"> <i>Chapter V</i> HOW THE GIRL DID IT </a>
+</p>
+<p class="toc">
+<a href="#link2H_4_0006" class="pginternal"> <i>Chapter VI</i> ON THE WATCH </a>
+</p>
+<p class="toc">
+<a href="#link2H_4_0007" class="pginternal"> <i>Chapter VII</i> THE LAST CHANCE </a>
+</p>
+<p class="toc">
+<a href="#link2H_4_0008" class="pginternal"> <i>Chapter VIII</i> SUSPENSE </a>
+</p>
+<p class="toc">
+<a href="#link2H_4_0009" class="pginternal"> <i>Chapter IX</i> LADY COVENTRY </a>
+</p>
+<p>
+<br><br>
+</p>
+<hr>
+<p>
+<a id="link2H_4_0001"> </a>
+</p>
+<div style="height: 4em;">
+<br><br><br><br>
+</div>
+<h2>
+<i>Chapter I</i> JEAN MUIR
     </h2>
-    <p>
-      &ldquo;Has she come?&rdquo;
+<p>
+      “Has she come?”
      </p>
-    <p>
-      &ldquo;No, Mamma, not yet.&rdquo;
+<p>
+      “No, Mamma, not yet.”
      </p>
-    <p>
-      &ldquo;I wish it were well over. The thought of it worries and excites me. A
-      cushion for my back, Bella.&rdquo;
+<p>
+      “I wish it were well over. The thought of it worries and excites me. A
+      cushion for my back, Bella.”
      </p>
-    <p>
+<p>
       And poor, peevish Mrs. Coventry sank into an easy chair with a nervous
       sigh and the air of a martyr, while her pretty daughter hovered about her
       with affectionate solicitude.
     </p>
-    <p>
-      &ldquo;Who are they talking of, Lucia?&rdquo; asked the languid young man lounging on
+<p>
+      “Who are they talking of, Lucia?” asked the languid young man lounging on
       a couch near his cousin, who bent over her tapestry work with a happy
       smile on her usually haughty face.
     </p>
-    <p>
-      &ldquo;The new governess, Miss Muir. Shall I tell you about her?&rdquo;
+<p>
+      “The new governess, Miss Muir. Shall I tell you about her?”
      </p>
-    <p>
-      &ldquo;No, thank you. I have an inveterate aversion to the whole tribe. I&rsquo;ve
+<p>
+      “No, thank you. I have an inveterate aversion to the whole tribe. I’ve
       often thanked heaven that I had but one sister, and she a spoiled child,
-      so that I have escaped the infliction of a governess so long.&rdquo;
+      so that I have escaped the infliction of a governess so long.”
      </p>
-    <p>
-      &ldquo;How will you bear it now?&rdquo; asked Lucia.
+<p>
+      “How will you bear it now?” asked Lucia.
     </p>
-    <p>
-      &ldquo;Leave the house while she is in it.&rdquo;
+<p>
+      “Leave the house while she is in it.”
      </p>
-    <p>
-      &ldquo;No, you won&rsquo;t. You&rsquo;re too lazy, Gerald,&rdquo; called out a younger and more
+<p>
+      “No, you won’t. You’re too lazy, Gerald,” called out a younger and more
       energetic man, from the recess where he stood teasing his dogs.
     </p>
-    <p>
-      &ldquo;I&rsquo;ll give her a three days&rsquo; trial; if she proves endurable I shall not
-      disturb myself; if, as I am sure, she is a bore, I&rsquo;m off anywhere,
-      anywhere out of her way.&rdquo;
+<p>
+      “I’ll give her a three days’ trial; if she proves endurable I shall not
+      disturb myself; if, as I am sure, she is a bore, I’m off anywhere,
+      anywhere out of her way.”
      </p>
-    <p>
-      &ldquo;I beg you won&rsquo;t talk in that depressing manner, boys. I dread the coming
+<p>
+      “I beg you won’t talk in that depressing manner, boys. I dread the coming
       of a stranger more than you possibly can, but Bella <i>must</i> not be
       neglected; so I have nerved myself to endure this woman, and Lucia is good
-      enough to say she will attend to her after tonight.&rdquo;
+      enough to say she will attend to her after tonight.”
      </p>
-    <p>
-      &ldquo;Don&rsquo;t be troubled, Mamma. She is a nice person, I dare say, and when once
-      we are used to her, I&rsquo;ve no doubt we shall be glad to have her, it&rsquo;s so
+<p>
+      “Don’t be troubled, Mamma. She is a nice person, I dare say, and when once
+      we are used to her, I’ve no doubt we shall be glad to have her, it’s so
       dull here just now. Lady Sydney said she was a quiet, accomplished,
       amiable girl, who needed a home, and would be a help to poor stupid me, so
-      try to like her for my sake.&rdquo;
+      try to like her for my sake.”
      </p>
-    <p>
-      &ldquo;I will, dear, but isn&rsquo;t it getting late? I do hope nothing has happened.
-      Did you tell them to send a carriage to the station for her, Gerald?&rdquo;
+<p>
+      “I will, dear, but isn’t it getting late? I do hope nothing has happened.
+      Did you tell them to send a carriage to the station for her, Gerald?”
      </p>
-    <p>
-      &ldquo;I forgot it. But it&rsquo;s not far, it won&rsquo;t hurt her to walk&rdquo; was the languid
+<p>
+      “I forgot it. But it’s not far, it won’t hurt her to walk” was the languid
       reply.
     </p>
-    <p>
-      &ldquo;It was indolence, not forgetfulness, I know. I&rsquo;m very sorry; she will
+<p>
+      “It was indolence, not forgetfulness, I know. I’m very sorry; she will
       think it so rude to leave her to find her way so late. Do go and see to
-      it, Ned.&rdquo;
+      it, Ned.”
      </p>
-    <p>
-      &ldquo;Too late, Bella, the train was in some time ago. Give your orders to me
-      next time. Mother and I&rsquo;ll see that they are obeyed,&rdquo; said Edward.
+<p>
+      “Too late, Bella, the train was in some time ago. Give your orders to me
+      next time. Mother and I’ll see that they are obeyed,” said Edward.
     </p>
-    <p>
-      &ldquo;Ned is just at an age to make a fool of himself for any girl who comes in
-      his way. Have a care of the governess, Lucia, or she will bewitch him.&rdquo;
+<p>
+      “Ned is just at an age to make a fool of himself for any girl who comes in
+      his way. Have a care of the governess, Lucia, or she will bewitch him.”
      </p>
-    <p>
+<p>
       Gerald spoke in a satirical whisper, but his brother heard him and
       answered with a good-humored laugh.
     </p>
-    <p>
-      &ldquo;I wish there was any hope of your making a fool of yourself in that way,
+<p>
+      “I wish there was any hope of your making a fool of yourself in that way,
       old fellow. Set me a good example, and I promise to follow it. As for the
       governess, she is a woman, and should be treated with common civility. I
-      should say a little extra kindness wouldn&rsquo;t be amiss, either, because she
-      is poor, and a stranger.&rdquo;
+      should say a little extra kindness wouldn’t be amiss, either, because she
+      is poor, and a stranger.”
      </p>
-    <p>
-      &ldquo;That is my dear, good-hearted Ned! We&rsquo;ll stand by poor little Muir, won&rsquo;t
-      we?&rdquo; And running to her brother, Bella stood on tiptoe to offer him a kiss
+<p>
+      “That is my dear, good-hearted Ned! We’ll stand by poor little Muir, won’t
+      we?” And running to her brother, Bella stood on tiptoe to offer him a kiss
       which he could not refuse, for the rosy lips were pursed up invitingly,
       and the bright eyes full of sisterly affection.
     </p>
-    <p>
-      &ldquo;I do hope she has come, for, when I make an effort to see anyone, I hate
+<p>
+      “I do hope she has come, for, when I make an effort to see anyone, I hate
       to make it in vain. Punctuality is <i>such</i> a virtue, and I know this
-      woman hasn&rsquo;t got it, for she promised to be here at seven, and now it is
-      long after,&rdquo; began Mrs. Coventry, in an injured tone.
+      woman hasn’t got it, for she promised to be here at seven, and now it is
+      long after,” began Mrs. Coventry, in an injured tone.
     </p>
-    <p>
+<p>
       Before she could get breath for another complaint, the clock struck seven
       and the doorbell rang.
     </p>
-    <p>
-      &ldquo;There she is!&rdquo; cried Bella, and turned toward the door as if to go and
+<p>
+      “There she is!” cried Bella, and turned toward the door as if to go and
       meet the newcomer.
     </p>
-    <p>
-      But Lucia arrested her, saying authoritatively, &ldquo;Stay here, child. It is
-      her place to come to you, not yours to go to her.&rdquo;
+<p>
+      But Lucia arrested her, saying authoritatively, “Stay here, child. It is
+      her place to come to you, not yours to go to her.”
      </p>
-    <p>
-      &ldquo;Miss Muir,&rdquo; announced a servant, and a little black-robed figure stood in
+<p>
+      “Miss Muir,” announced a servant, and a little black-robed figure stood in
       the doorway. For an instant no one stirred, and the governess had time to
       see and be seen before a word was uttered. All looked at her, and she cast
       on the household group a keen glance that impressed them curiously; then
       her eyes fell, and bowing slightly she walked in. Edward came forward and
       received her with the frank cordiality which nothing could daunt or chill.
     </p>
-    <p>
-      &ldquo;Mother, this is the lady whom you expected. Miss Muir, allow me to
+<p>
+      “Mother, this is the lady whom you expected. Miss Muir, allow me to
       apologize for our apparent neglect in not sending for you. There was a
       mistake about the carriage, or, rather, the lazy fellow to whom the order
-      was given forgot it. Bella, come here.&rdquo;
+      was given forgot it. Bella, come here.”
      </p>
-    <p>
-      &ldquo;Thank you, no apology is needed. I did not expect to be sent for.&rdquo; And
+<p>
+      “Thank you, no apology is needed. I did not expect to be sent for.” And
       the governess meekly sat down without lifting her eyes.
     </p>
-    <p>
-      &ldquo;I am glad to see you. Let me take your things,&rdquo; said Bella, rather shyly,
+<p>
+      “I am glad to see you. Let me take your things,” said Bella, rather shyly,
       for Gerald, still lounging, watched the fireside group with languid
       interest, and Lucia never stirred. Mrs. Coventry took a second survey and
       began:
     </p>
-    <p>
-      &ldquo;You were punctual, Miss Muir, which pleases me. I&rsquo;m a sad invalid, as
-      Lady Sydney told you, I hope; so that Miss Coventry&rsquo;s lessons will be
+<p>
+      “You were punctual, Miss Muir, which pleases me. I’m a sad invalid, as
+      Lady Sydney told you, I hope; so that Miss Coventry’s lessons will be
       directed by my niece, and you will go to her for directions, as she knows
       what I wish. You will excuse me if I ask you a few questions, for Lady
-      Sydney&rsquo;s note was very brief, and I left everything to her judgment.&rdquo;
+      Sydney’s note was very brief, and I left everything to her judgment.”
      </p>
-    <p>
-      &ldquo;Ask anything you like, madam,&rdquo; answered the soft, sad voice.
+<p>
+      “Ask anything you like, madam,” answered the soft, sad voice.
     </p>
-    <p>
-      &ldquo;You are Scotch, I believe.&rdquo;
+<p>
+      “You are Scotch, I believe.”
      </p>
-    <p>
-      &ldquo;Yes, madam.&rdquo;
+<p>
+      “Yes, madam.”
      </p>
-    <p>
-      &ldquo;Are your parents living?&rdquo;
+<p>
+      “Are your parents living?”
      </p>
-    <p>
-      &ldquo;I have not a relation in the world.&rdquo;
+<p>
+      “I have not a relation in the world.”
      </p>
-    <p>
-      &ldquo;Dear me, how sad! Do you mind telling me your age?&rdquo;
+<p>
+      “Dear me, how sad! Do you mind telling me your age?”
      </p>
-    <p>
-      &ldquo;Nineteen.&rdquo; And a smile passed over Miss Muir&rsquo;s lips, as she folded her
+<p>
+      “Nineteen.” And a smile passed over Miss Muir’s lips, as she folded her
       hands with an air of resignation, for the catechism was evidently to be a
       long one.
     </p>
-    <p>
-      &ldquo;So young! Lady Sydney mentioned five-and-twenty, I think, didn&rsquo;t she,
-      Bella?&rdquo;
+<p>
+      “So young! Lady Sydney mentioned five-and-twenty, I think, didn’t she,
+      Bella?”
      </p>
-    <p>
-      &ldquo;No, Mamma, she only said she thought so. Don&rsquo;t ask such questions. It&rsquo;s
-      not pleasant before us all,&rdquo; whispered Bella.
+<p>
+      “No, Mamma, she only said she thought so. Don’t ask such questions. It’s
+      not pleasant before us all,” whispered Bella.
     </p>
-    <p>
+<p>
       A quick, grateful glance shone on her from the suddenly lifted eyes of
-      Miss Muir, as she said quietly, &ldquo;I wish I was thirty, but, as I am not, I
-      do my best to look and seem old.&rdquo;
+      Miss Muir, as she said quietly, “I wish I was thirty, but, as I am not, I
+      do my best to look and seem old.”
      </p>
-    <p>
+<p>
       Of course, every one looked at her then, and all felt a touch of pity at
       the sight of the pale-faced girl in her plain black dress, with no
       ornament but a little silver cross at her throat. Small, thin, and
@@ -227,35 +263,35 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       varying tones. Not an attractive woman, yet not an ordinary one; and, as
       she sat there with her delicate hands lying in her lap, her head bent, and
       a bitter look on her thin face, she was more interesting than many a
-      blithe and blooming girl. Bella&rsquo;s heart warmed to her at once, and she
+      blithe and blooming girl. Bella’s heart warmed to her at once, and she
       drew her seat nearer, while Edward went back to his dogs that his presence
       might not embarrass her.
     </p>
-    <p>
-      &ldquo;You have been ill, I think,&rdquo; continued Mrs. Coventry, who considered this
+<p>
+      “You have been ill, I think,” continued Mrs. Coventry, who considered this
       fact the most interesting of all she had heard concerning the governess.
     </p>
-    <p>
-      &ldquo;Yes, madam, I left the hospital only a week ago.&rdquo;
+<p>
+      “Yes, madam, I left the hospital only a week ago.”
      </p>
-    <p>
-      &ldquo;Are you quite sure it is safe to begin teaching so soon?&rdquo;
+<p>
+      “Are you quite sure it is safe to begin teaching so soon?”
      </p>
-    <p>
-      &ldquo;I have no time to lose, and shall soon gain strength here in the country,
-      if you care to keep me.&rdquo;
+<p>
+      “I have no time to lose, and shall soon gain strength here in the country,
+      if you care to keep me.”
      </p>
-    <p>
-      &ldquo;And you are fitted to teach music, French, and drawing?&rdquo;
+<p>
+      “And you are fitted to teach music, French, and drawing?”
      </p>
-    <p>
-      &ldquo;I shall endeavor to prove that I am.&rdquo;
+<p>
+      “I shall endeavor to prove that I am.”
      </p>
-    <p>
-      &ldquo;Be kind enough to go and play an air or two. I can judge by your touch; I
-      used to play finely when a girl.&rdquo;
+<p>
+      “Be kind enough to go and play an air or two. I can judge by your touch; I
+      used to play finely when a girl.”
      </p>
-    <p>
+<p>
       Miss Muir rose, looked about her for the instrument, and seeing it at the
       other end of the room went toward it, passing Gerald and Lucia as if she
       did not see them. Bella followed, and in a moment forgot everything in
@@ -265,50 +301,50 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       watched the slender white fingers as they flew, and wondered at the
       strength and skill which they possessed.
     </p>
-    <p>
-      &ldquo;Please sing,&rdquo; pleaded Bella, as a brilliant overture ended.
+<p>
+      “Please sing,” pleaded Bella, as a brilliant overture ended.
     </p>
-    <p>
+<p>
       With the same meek obedience Miss Muir complied, and began a little Scotch
-      melody, so sweet, so sad, that the girl&rsquo;s eyes filled, and Mrs. Coventry
+      melody, so sweet, so sad, that the girl’s eyes filled, and Mrs. Coventry
       looked for one of her many pocket-handkerchiefs. But suddenly the music
       ceased, for, with a vain attempt to support herself, the singer slid from
       her seat and lay before the startled listeners, as white and rigid as if
       struck with death. Edward caught her up, and, ordering his brother off the
       couch, laid her there, while Bella chafed her hands, and her mother rang
-      for her maid. Lucia bathed the poor girl&rsquo;s temples, and Gerald, with
-      unwonted energy, brought a glass of wine. Soon Miss Muir&rsquo;s lips trembled,
+      for her maid. Lucia bathed the poor girl’s temples, and Gerald, with
+      unwonted energy, brought a glass of wine. Soon Miss Muir’s lips trembled,
       she sighed, then murmured, tenderly, with a pretty Scotch accent, as if
-      wandering in the past, &ldquo;Bide wi&rsquo; me, Mither, I&rsquo;m sae sick an sad here all
-      alone.&rdquo;
+      wandering in the past, “Bide wi’ me, Mither, I’m sae sick an sad here all
+      alone.”
      </p>
-    <p>
-      &ldquo;Take a sip of this, and it will do you good, my dear,&rdquo; said Mrs.
+<p>
+      “Take a sip of this, and it will do you good, my dear,” said Mrs.
       Coventry, quite touched by the plaintive words.
     </p>
-    <p>
+<p>
       The strange voice seemed to recall her. She sat up, looked about her, a
       little wildly, for a moment, then collected herself and said, with a
-      pathetic look and tone, &ldquo;Pardon me. I have been on my feet all day, and,
-      in my eagerness to keep my appointment, I forgot to eat since morning. I&rsquo;m
-      better now; shall I finish the song?&rdquo;
+      pathetic look and tone, “Pardon me. I have been on my feet all day, and,
+      in my eagerness to keep my appointment, I forgot to eat since morning. I’m
+      better now; shall I finish the song?”
      </p>
-    <p>
-      &ldquo;By no means. Come and have some tea,&rdquo; said Bella, full of pity and
+<p>
+      “By no means. Come and have some tea,” said Bella, full of pity and
       remorse.
     </p>
-    <p>
-      &ldquo;Scene first, very well done,&rdquo; whispered Gerald to his cousin.
+<p>
+      “Scene first, very well done,” whispered Gerald to his cousin.
     </p>
-    <p>
-      Miss Muir was just before them, apparently listening to Mrs. Coventry&rsquo;s
+<p>
+      Miss Muir was just before them, apparently listening to Mrs. Coventry’s
       remarks upon fainting fits; but she heard, and looked over her shoulders
       with a gesture like Rachel. Her eyes were gray, but at that instant they
       seemed black with some strong emotion of anger, pride, or defiance. A
       curious smile passed over her face as she bowed, and said in her
-      penetrating voice, &ldquo;Thanks. The last scene shall be still better.&rdquo;
+      penetrating voice, “Thanks. The last scene shall be still better.”
      </p>
-    <p>
+<p>
       Young Coventry was a cool, indolent man, seldom conscious of any emotion,
       any passion, pleasurable or otherwise; but at the look, the tone of the
       governess, he experienced a new sensation, indefinable, yet strong. He
@@ -319,10 +355,10 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       change, but a look of interest in his usually dreamy eyes, and a touch of
       anger in his sarcastic voice.
     </p>
-    <p>
-      &ldquo;What a melodramatic young lady! I shall go tomorrow.&rdquo;
+<p>
+      “What a melodramatic young lady! I shall go tomorrow.”
      </p>
-    <p>
+<p>
       Lucia laughed, and was well pleased when he sauntered away to bring her a
       cup of tea from the table where a little scene was just taking place. Mrs.
       Coventry had sunk into her chair again, exhausted by the flurry of the
@@ -331,12 +367,12 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       glance at his cousin which she did not choose to answer. As he upset the
       caddy and uttered a despairing exclamation, Miss Muir quietly took her
       place behind the urn, saying with a smile, and a shy glance at the young
-      man, &ldquo;Allow me to assume my duty at once, and serve you all. I understand
+      man, “Allow me to assume my duty at once, and serve you all. I understand
       the art of making people comfortable in this way. The scoop, please. I can
       gather this up quite well alone, if you will tell me how your mother likes
-      her tea.&rdquo;
+      her tea.”
      </p>
-    <p>
+<p>
       Edward pulled a chair to the table and made merry over his mishaps, while
       Miss Muir performed her little task with a skill and grace that made it
       pleasant to watch her. Coventry lingered a moment after she had given him
@@ -346,156 +382,156 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       to take the sugar basin to Mrs. Coventry, who was quite won by the modest,
       domestic graces of the new governess.
     </p>
-    <p>
-      &ldquo;Really, my dear, you are a treasure; I haven&rsquo;t tasted such tea since my
+<p>
+      “Really, my dear, you are a treasure; I haven’t tasted such tea since my
       poor maid Ellis died. Bella never makes it good, and Miss Lucia always
       forgets the cream. Whatever you do you seem to do well, and that is <i>such</i>
-      a comfort.&rdquo;
+      a comfort.”
      </p>
-    <p>
-      &ldquo;Let me always do this for you, then. It will be a pleasure, madam.&rdquo; And
+<p>
+      “Let me always do this for you, then. It will be a pleasure, madam.” And
       Miss Muir came back to her seat with a faint color in her cheek which
       improved her much.
     </p>
-    <p>
-      &ldquo;My brother asked if young Sydney was at home when you left,&rdquo; said Edward,
+<p>
+      “My brother asked if young Sydney was at home when you left,” said Edward,
       for Gerald would not take the trouble to repeat the question.
     </p>
-    <p>
+<p>
       Miss Muir fixed her eyes on Coventry, and answered with a slight tremor of
-      the lips, &ldquo;No, he left home some weeks ago.&rdquo;
+      the lips, “No, he left home some weeks ago.”
      </p>
-    <p>
+<p>
       The young man went back to his cousin, saying, as he threw himself down
-      beside her, &ldquo;I shall not go tomorrow, but wait till the three days are
-      out.&rdquo;
+      beside her, “I shall not go tomorrow, but wait till the three days are
+      out.”
      </p>
-    <p>
-      &ldquo;Why?&rdquo; demanded Lucia.
+<p>
+      “Why?” demanded Lucia.
     </p>
-    <p>
+<p>
       Lowering his voice he said, with a significant nod toward the governess,
-      &ldquo;Because I have a fancy that she is at the bottom of Sydney&rsquo;s mystery.
-      He&rsquo;s not been himself lately, and now he is gone without a word. I rather
+      “Because I have a fancy that she is at the bottom of Sydney’s mystery.
+      He’s not been himself lately, and now he is gone without a word. I rather
       like romances in real life, if they are not too long, or difficult to
-      read.&rdquo;
+      read.”
      </p>
-    <p>
-      &ldquo;Do you think her pretty?&rdquo;
+<p>
+      “Do you think her pretty?”
      </p>
-    <p>
-      &ldquo;Far from it, a most uncanny little specimen.&rdquo;
+<p>
+      “Far from it, a most uncanny little specimen.”
      </p>
-    <p>
-      &ldquo;Then why fancy Sydney loves her?&rdquo;
+<p>
+      “Then why fancy Sydney loves her?”
      </p>
-    <p>
-      &ldquo;He is an oddity, and likes sensations and things of that sort.&rdquo;
+<p>
+      “He is an oddity, and likes sensations and things of that sort.”
      </p>
-    <p>
-      &ldquo;What do you mean, Gerald?&rdquo;
+<p>
+      “What do you mean, Gerald?”
      </p>
-    <p>
-      &ldquo;Get the Muir to look at you, as she did at me, and you will understand.
-      Will you have another cup, Juno?&rdquo;
+<p>
+      “Get the Muir to look at you, as she did at me, and you will understand.
+      Will you have another cup, Juno?”
      </p>
-    <p>
-      &ldquo;Yes, please.&rdquo; She liked to have him wait upon her, for he did it to no
+<p>
+      “Yes, please.” She liked to have him wait upon her, for he did it to no
       other woman except his mother.
     </p>
-    <p>
+<p>
       Before he could slowly rise, Miss Muir glided to them with another cup on
       the salver; and, as Lucia took it with a cold nod, the girl said under her
-      breath, &ldquo;I think it honest to tell you that I possess a quick ear, and
+      breath, “I think it honest to tell you that I possess a quick ear, and
       cannot help hearing what is said anywhere in the room. What you say of me
       is of no consequence, but you may speak of things which you prefer I
-      should not hear; therefore, allow me to warn you.&rdquo; And she was gone again
+      should not hear; therefore, allow me to warn you.” And she was gone again
       as noiselessly as she came.
     </p>
-    <p>
-      &ldquo;How do you like that?&rdquo; whispered Coventry, as his cousin sat looking
+<p>
+      “How do you like that?” whispered Coventry, as his cousin sat looking
       after the girl, with a disturbed expression.
     </p>
-    <p>
-      &ldquo;What an uncomfortable creature to have in the house! I am very sorry I
+<p>
+      “What an uncomfortable creature to have in the house! I am very sorry I
       urged her coming, for your mother has taken a fancy to her, and it will be
-      hard to get rid of her,&rdquo; said Lucia, half angry, half amused.
+      hard to get rid of her,” said Lucia, half angry, half amused.
     </p>
-    <p>
-      &ldquo;Hush, she hears every word you say. I know it by the expression of her
+<p>
+      “Hush, she hears every word you say. I know it by the expression of her
       face, for Ned is talking about horses, and she looks as haughty as ever
-      you did, and that is saying much. Faith, this is getting interesting.&rdquo;
+      you did, and that is saying much. Faith, this is getting interesting.”
      </p>
-    <p>
-      &ldquo;Hark, she is speaking; I want to hear,&rdquo; and Lucia laid her hand on her
-      cousin&rsquo;s lips. He kissed it, and then idly amused himself with turning the
+<p>
+      “Hark, she is speaking; I want to hear,” and Lucia laid her hand on her
+      cousin’s lips. He kissed it, and then idly amused himself with turning the
       rings to and fro on the slender fingers.
     </p>
-    <p>
-      &ldquo;I have been in France several years, madam, but my friend died and I came
-      back to be with Lady Sydney, till&mdash;&rdquo; Muir paused an instant, then
-      added, slowly, &ldquo;till I fell ill. It was a contagious fever, so I went of
-      my own accord to the hospital, not wishing to endanger her.&rdquo;
+<p>
+      “I have been in France several years, madam, but my friend died and I came
+      back to be with Lady Sydney, till—” Muir paused an instant, then
+      added, slowly, “till I fell ill. It was a contagious fever, so I went of
+      my own accord to the hospital, not wishing to endanger her.”
      </p>
-    <p>
-      &ldquo;Very right, but are you sure there is no danger of infection now?&rdquo; asked
+<p>
+      “Very right, but are you sure there is no danger of infection now?” asked
       Mrs. Coventry anxiously.
     </p>
-    <p>
-      &ldquo;None, I assure you. I have been well for some time, but did not leave
-      because I preferred to stay there, than to return to Lady Sydney.&rdquo;
+<p>
+      “None, I assure you. I have been well for some time, but did not leave
+      because I preferred to stay there, than to return to Lady Sydney.”
      </p>
-    <p>
-      &ldquo;No quarrel, I hope? No trouble of any kind?&rdquo;
+<p>
+      “No quarrel, I hope? No trouble of any kind?”
      </p>
-    <p>
-      &ldquo;No quarrel, but&mdash;well, why not? You have a right to know, and I will
+<p>
+      “No quarrel, but—well, why not? You have a right to know, and I will
       not make a foolish mystery out of a very simple thing. As your family,
       only, is present, I may tell the truth. I did not go back on the young
-      gentleman&rsquo;s account. Please ask no more.&rdquo;
+      gentleman’s account. Please ask no more.”
      </p>
-    <p>
-      &ldquo;Ah, I see. Quite prudent and proper, Miss Muir. I shall never allude to
+<p>
+      “Ah, I see. Quite prudent and proper, Miss Muir. I shall never allude to
       it again. Thank you for your frankness. Bella, you will be careful not to
       mention this to young friends; girls gossip sadly, and it would annoy Lady
-      Sydney beyond everything to have this talked of.&rdquo;
+      Sydney beyond everything to have this talked of.”
      </p>
-    <p>
-      &ldquo;Very neighborly of Lady S. to send the dangerous young lady here, where
+<p>
+      “Very neighborly of Lady S. to send the dangerous young lady here, where
       there are <i>two</i> young gentlemen to be captivated. I wonder why she
-      didn&rsquo;t keep Sydney after she had caught him,&rdquo; murmured Coventry to his
+      didn’t keep Sydney after she had caught him,” murmured Coventry to his
       cousin.
     </p>
-    <p>
-      &ldquo;Because she had the utmost contempt for a titled fool.&rdquo; Miss Muir dropped
+<p>
+      “Because she had the utmost contempt for a titled fool.” Miss Muir dropped
       the words almost into his ear, as she bent to take her shawl from the sofa
       corner.
     </p>
-    <p>
-      &ldquo;How the deuce did she get there?&rdquo; ejaculated Coventry, looking as if he
-      had received another sensation. &ldquo;She has spirit, though, and upon my word
+<p>
+      “How the deuce did she get there?” ejaculated Coventry, looking as if he
+      had received another sensation. “She has spirit, though, and upon my word
       I pity Sydney, if he did try to dazzle her, for he must have got a
-      splendid dismissal.&rdquo;
+      splendid dismissal.”
      </p>
-    <p>
-      &ldquo;Come and play billiards. You promised, and I hold you to your word,&rdquo; said
+<p>
+      “Come and play billiards. You promised, and I hold you to your word,” said
       Lucia, rising with decision, for Gerald was showing too much interest in
       another to suit Miss Beaufort.
     </p>
-    <p>
-      &ldquo;I am, as ever, your most devoted. My mother is a charming woman, but I
+<p>
+      “I am, as ever, your most devoted. My mother is a charming woman, but I
       find our evening parties slightly dull, when only my own family are
-      present. Good night, Mamma.&rdquo; He shook hands with his mother, whose pride
+      present. Good night, Mamma.” He shook hands with his mother, whose pride
       and idol he was, and, with a comprehensive nod to the others, strolled
       after his cousin.
     </p>
-    <p>
-      &ldquo;Now they are gone we can be quite cozy, and talk over things, for I don&rsquo;t
-      mind Ned any more than I do his dogs,&rdquo; said Bella, settling herself on her
-      mother&rsquo;s footstool.
+<p>
+      “Now they are gone we can be quite cozy, and talk over things, for I don’t
+      mind Ned any more than I do his dogs,” said Bella, settling herself on her
+      mother’s footstool.
     </p>
-    <p>
-      &ldquo;I merely wish to say, Miss Muir, that my daughter has never had a
+<p>
+      “I merely wish to say, Miss Muir, that my daughter has never had a
       governess and is sadly backward for a girl of sixteen. I want you to pass
       the mornings with her, and get her on as rapidly as possible. In the
       afternoon you will walk or drive with her, and in the evening sit with us
@@ -504,48 +540,48 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       gaiety, they go away for it. Miss Beaufort oversees the servants, and
       takes my place as far as possible. I am very delicate and keep my room
       till evening, except for an airing at noon. We will try each other for a
-      month, and I hope we shall get on quite comfortably together.&rdquo;
+      month, and I hope we shall get on quite comfortably together.”
      </p>
-    <p>
-      &ldquo;I shall do my best, madam.&rdquo;
+<p>
+      “I shall do my best, madam.”
      </p>
-    <p>
+<p>
       One would not have believed that the meek, spiritless voice which uttered
       these words was the same that had startled Coventry a few minutes before,
       nor that the pale, patient face could ever have kindled with such sudden
-      fire as that which looked over Miss Muir&rsquo;s shoulder when she answered her
-      young host&rsquo;s speech.
+      fire as that which looked over Miss Muir’s shoulder when she answered her
+      young host’s speech.
     </p>
-    <p>
+<p>
       Edward thought within himself, Poor little woman! She has had a hard life.
       We will try and make it easier while she is here; and began his charitable
       work by suggesting that she might be tired. She acknowledged she was, and
       Bella led her away to a bright, cozy room, where with a pretty little
       speech and a good-night kiss she left her.
     </p>
-    <p>
-      When alone Miss Muir&rsquo;s conduct was decidedly peculiar. Her first act was
+<p>
+      When alone Miss Muir’s conduct was decidedly peculiar. Her first act was
       to clench her hands and mutter between her teeth, with passionate force,
-      &ldquo;I&rsquo;ll not fail again if there is power in a woman&rsquo;s wit and will!&rdquo; She
+      “I’ll not fail again if there is power in a woman’s wit and will!” She
       stood a moment motionless, with an expression of almost fierce disdain on
       her face, then shook her clenched hand as if menacing some unseen enemy.
       Next she laughed, and shrugged her shoulders with a true French shrug,
-      saying low to herself, &ldquo;Yes, the last scene <i>shall</i> be better than
-      the first. <i>Mon dieu</i>, how tired and hungry I am!&rdquo;
+      saying low to herself, “Yes, the last scene <i>shall</i> be better than
+      the first. <i>Mon dieu</i>, how tired and hungry I am!”
      </p>
-    <p>
+<p>
       Kneeling before the one small trunk which held her worldly possessions,
       she opened it, drew out a flask, and mixed a glass of some ardent cordial,
       which she seemed to enjoy extremely as she sat on the carpet, musing,
       while her quick eyes examined every corner of the room.
     </p>
-    <p>
-      &ldquo;Not bad! It will be a good field for me to work in, and the harder the
+<p>
+      “Not bad! It will be a good field for me to work in, and the harder the
       task the better I shall like it. <i>Merci</i>, old friend. You put heart
       and courage into me when nothing else will. Come, the curtain is down, so
-      I may be myself for a few hours, if actresses ever are themselves.&rdquo;
+      I may be myself for a few hours, if actresses ever are themselves.”
      </p>
-    <p>
+<p>
       Still sitting on the floor she unbound and removed the long abundant
       braids from her head, wiped the pink from her face, took out several
       pearly teeth, and slipping off her dress appeared herself indeed, a
@@ -562,36 +598,36 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       a terrible glance the scar of a newly healed wound. At last she rose and
       crept to bed, like one worn out with weariness and mental pain.
     </p>
-    <p>
-      <br /><br />
-    </p>
-    <hr />
-    <p>
-      <a name="link2H_4_0002" id="link2H_4_0002"> </a>
-    </p>
-    <div style="height: 4em;">
-      <br /><br /><br /><br />
-    </div>
-    <h2>
-      <i>Chapter II</i> A GOOD BEGINNING
+<p>
+<br><br>
+</p>
+<hr>
+<p>
+<a id="link2H_4_0002"> </a>
+</p>
+<div style="height: 4em;">
+<br><br><br><br>
+</div>
+<h2>
+<i>Chapter II</i> A GOOD BEGINNING
     </h2>
-    <p>
+<p>
       Only the housemaids were astir when Miss Muir left her room next morning
       and quietly found her way into the garden. As she walked, apparently
       intent upon the flowers, her quick eye scrutinized the fine old house and
       its picturesque surroundings.
     </p>
-    <p>
-      &ldquo;Not bad,&rdquo; she said to herself, adding, as she passed into the adjoining
-      park, &ldquo;but the other may be better, and I will have the best.&rdquo;
+<p>
+      “Not bad,” she said to herself, adding, as she passed into the adjoining
+      park, “but the other may be better, and I will have the best.”
      </p>
-    <p>
+<p>
       Walking rapidly, she came out at length upon the wide green lawn which lay
       before the ancient hall where Sir John Coventry lived in solitary
       splendor. A stately old place, rich in oaks, well-kept shrubberies, gay
       gardens, sunny terraces, carved gables, spacious rooms, liveried servants,
       and every luxury befitting the ancestral home of a rich and honorable
-      race. Miss Muir&rsquo;s eyes brightened as she looked, her step grew firmer, her
+      race. Miss Muir’s eyes brightened as she looked, her step grew firmer, her
       carriage prouder, and a smile broke over her face; the smile of one well
       pleased at the prospect of the success of some cherished hope. Suddenly
       her whole air changed, she pushed back her hat, clasped her hands loosely
@@ -603,50 +639,50 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       she seemed conscious of his presence in a moment, turned with a startled
       look, uttered an exclamation of surprise, and looked as if hesitating
       whether to speak or run away. Gallant Sir John took off his hat and said,
-      with the old-fashioned courtesy which became him well, &ldquo;I beg your pardon
+      with the old-fashioned courtesy which became him well, “I beg your pardon
       for disturbing you, young lady. Allow me to atone for it by inviting you
       to walk where you will, and gather what flowers you like. I see you love
-      them, so pray make free with those about you.&rdquo;
+      them, so pray make free with those about you.”
      </p>
-    <p>
+<p>
       With a charming air of maidenly timidity and artlessness, Miss Muir
-      replied, &ldquo;Oh, thank you, sir! But it is I who should ask pardon for
+      replied, “Oh, thank you, sir! But it is I who should ask pardon for
       trespassing. I never should have dared if I had not known that Sir John
       was absent. I always wanted to see this fine old place, and ran over the
-      first thing, to satisfy myself.&rdquo;
+      first thing, to satisfy myself.”
      </p>
-    <p>
-      &ldquo;And <i>are</i> you satisfied?&rdquo; he asked, with a smile.
+<p>
+      “And <i>are</i> you satisfied?” he asked, with a smile.
     </p>
-    <p>
-      &ldquo;More than satisfied&mdash;I&rsquo;m charmed; for it is the most beautiful spot
-      I ever saw, and I&rsquo;ve seen many famous seats, both at home and abroad,&rdquo; she
+<p>
+      “More than satisfied—I’m charmed; for it is the most beautiful spot
+      I ever saw, and I’ve seen many famous seats, both at home and abroad,” she
       answered enthusiastically.
     </p>
-    <p>
-      &ldquo;The Hall is much flattered, and so would its master be if he heard you,&rdquo;
+<p>
+      “The Hall is much flattered, and so would its master be if he heard you,”
        began the gentleman, with an odd expression.
     </p>
-    <p>
-      &ldquo;I should not praise it to him&mdash;at least, not as freely as I have to
-      you, sir,&rdquo; said the girl, with eyes still turned away.
+<p>
+      “I should not praise it to him—at least, not as freely as I have to
+      you, sir,” said the girl, with eyes still turned away.
     </p>
-    <p>
-      &ldquo;Why not?&rdquo; asked her companion, looking much amused.
+<p>
+      “Why not?” asked her companion, looking much amused.
     </p>
-    <p>
-      &ldquo;I should be afraid. Not that I dread Sir John; but I&rsquo;ve heard so many
+<p>
+      “I should be afraid. Not that I dread Sir John; but I’ve heard so many
       beautiful and noble things about him, and respect him so highly, that I
-      should not dare to say much, lest he should see how I admire and&mdash;&rdquo;
+      should not dare to say much, lest he should see how I admire and—”
      </p>
-    <p>
-      &ldquo;And what, young lady? Finish, if you please.&rdquo;
+<p>
+      “And what, young lady? Finish, if you please.”
      </p>
-    <p>
-      &ldquo;I was going to say, love him. I will say it, for he is an old man, and
-      one cannot help loving virtue and bravery.&rdquo;
+<p>
+      “I was going to say, love him. I will say it, for he is an old man, and
+      one cannot help loving virtue and bravery.”
      </p>
-    <p>
+<p>
       Miss Muir looked very earnest and pretty as she spoke, standing there with
       the sunshine glinting on her yellow hair, delicate face, and downcast
       eyes. Sir John was not a vain man, but he found it pleasant to hear
@@ -654,43 +690,43 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       learn who she was. Too well-bred to ask, or to abash her by avowing what
       she seemed unconscious of, he left both discoveries to chance; and when
       she turned, as if to retrace her steps, he offered her the handful of
-      hothouse flowers which he held, saying, with a gallant bow, &ldquo;In Sir John&rsquo;s
+      hothouse flowers which he held, saying, with a gallant bow, “In Sir John’s
       name let me give you my little nosegay, with thanks for your good opinion,
-      which, I assure you, is not entirely deserved, for I know him well.&rdquo;
+      which, I assure you, is not entirely deserved, for I know him well.”
      </p>
-    <p>
+<p>
       Miss Muir looked up quickly, eyed him an instant, then dropped her eyes,
-      and, coloring deeply, stammered out, &ldquo;I did not know&mdash;I beg your
-      pardon&mdash;you are too kind, Sir John.&rdquo;
+      and, coloring deeply, stammered out, “I did not know—I beg your
+      pardon—you are too kind, Sir John.”
      </p>
-    <p>
-      He laughed like a boy, asking, mischievously, &ldquo;Why call me Sir John? How
-      do you know that I am not the gardener or the butler?&rdquo;
+<p>
+      He laughed like a boy, asking, mischievously, “Why call me Sir John? How
+      do you know that I am not the gardener or the butler?”
      </p>
-    <p>
-      &ldquo;I did not see your face before, and no one but yourself would say that
-      any praise was undeserved,&rdquo; murmured Miss Muir, still overcome with
+<p>
+      “I did not see your face before, and no one but yourself would say that
+      any praise was undeserved,” murmured Miss Muir, still overcome with
       girlish confusion.
     </p>
-    <p>
-      &ldquo;Well, well, we will let that pass, and the next time you come we will be
+<p>
+      “Well, well, we will let that pass, and the next time you come we will be
       properly introduced. Bella always brings her friends to the Hall, for I am
-      fond of young people.&rdquo;
+      fond of young people.”
      </p>
-    <p>
-      &ldquo;I am not a friend. I am only Miss Coventry&rsquo;s governess.&rdquo; And Miss Muir
-      dropped a meek curtsy. A slight change passed over Sir John&rsquo;s manner. Few
+<p>
+      “I am not a friend. I am only Miss Coventry’s governess.” And Miss Muir
+      dropped a meek curtsy. A slight change passed over Sir John’s manner. Few
       would have perceived it, but Miss Muir felt it at once, and bit her lips
       with an angry feeling at her heart. With a curious air of pride, mingled
-      with respect, she accepted the still offered bouquet, returned Sir John&rsquo;s
+      with respect, she accepted the still offered bouquet, returned Sir John’s
       parting bow, and tripped away, leaving the old gentleman to wonder where
       Mrs. Coventry found such a piquant little governess.
     </p>
-    <p>
-      &ldquo;That is done, and very well for a beginning,&rdquo; she said to herself as she
+<p>
+      “That is done, and very well for a beginning,” she said to herself as she
       approached the house.
     </p>
-    <p>
+<p>
       In a green paddock close by fed a fine horse, who lifted up his head and
       eyed her inquiringly, like one who expected a greeting. Following a sudden
       impulse, she entered the paddock and, pulling a handful of clover, invited
@@ -698,11 +734,11 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       part of a lady, and the horse careered about as if bent on frightening the
       newcomer away.
     </p>
-    <p>
-      &ldquo;I see,&rdquo; she said aloud, laughing to herself. &ldquo;I am not your master, and
-      you rebel. Nevertheless, I&rsquo;ll conquer you, my fine brute.&rdquo;
+<p>
+      “I see,” she said aloud, laughing to herself. “I am not your master, and
+      you rebel. Nevertheless, I’ll conquer you, my fine brute.”
      </p>
-    <p>
+<p>
       Seating herself in the grass, she began to pull daisies, singing idly the
       while, as if unconscious of the spirited prancings of the horse. Presently
       he drew nearer, sniffing curiously and eyeing her with surprise. She took
@@ -713,108 +749,108 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       soothing sounds, till by degrees and with much coquetting, the horse
       permitted her to stroke his glossy neck and smooth his mane.
     </p>
-    <p>
-      It was a pretty sight&mdash;the slender figure in the grass, the
+<p>
+      It was a pretty sight—the slender figure in the grass, the
       high-spirited horse bending his proud head to her hand. Edward Coventry,
       who had watched the scene, found it impossible to restrain himself any
       longer and, leaping the wall, came to join the group, saying, with mingled
-      admiration and wonder in countenance and voice, &ldquo;Good morning, Miss Muir.
+      admiration and wonder in countenance and voice, “Good morning, Miss Muir.
       If I had not seen your skill and courage proved before my eyes, I should
       be alarmed for your safety. Hector is a wild, wayward beast, and has
-      damaged more than one groom who tried to conquer him.&rdquo;
+      damaged more than one groom who tried to conquer him.”
      </p>
-    <p>
-      &ldquo;Good morning, Mr. Coventry. Don&rsquo;t tell tales of this noble creature, who
+<p>
+      “Good morning, Mr. Coventry. Don’t tell tales of this noble creature, who
       has not deceived my faith in him. Your grooms did not know how to win his
-      heart, and so subdue his spirit without breaking it.&rdquo;
+      heart, and so subdue his spirit without breaking it.”
      </p>
-    <p>
-      Miss Muir rose as she spoke, and stood with her hand on Hector&rsquo;s neck
+<p>
+      Miss Muir rose as she spoke, and stood with her hand on Hector’s neck
       while he ate the grass which she had gathered in the skirt of her dress.
     </p>
-    <p>
-      &ldquo;You have the secret, and Hector is your subject now, though heretofore he
+<p>
+      “You have the secret, and Hector is your subject now, though heretofore he
       has rejected all friends but his master. Will you give him his morning
-      feast? I always bring him bread and play with him before breakfast.&rdquo;
+      feast? I always bring him bread and play with him before breakfast.”
      </p>
-    <p>
-      &ldquo;Then you are not jealous?&rdquo; And she looked up at him with eyes so bright
+<p>
+      “Then you are not jealous?” And she looked up at him with eyes so bright
       and beautiful in expression that the young man wondered he had not
       observed them before.
     </p>
-    <p>
-      &ldquo;Not I. Pet him as much as you will; it will do him good. He is a solitary
-      fellow, for he scorns his own kind and lives alone, like his master,&rdquo; he
+<p>
+      “Not I. Pet him as much as you will; it will do him good. He is a solitary
+      fellow, for he scorns his own kind and lives alone, like his master,” he
       added, half to himself.
     </p>
-    <p>
-      &ldquo;Alone, with such a happy home, Mr. Coventry?&rdquo; And a softly compassionate
+<p>
+      “Alone, with such a happy home, Mr. Coventry?” And a softly compassionate
       glance stole from the bright eyes.
     </p>
-    <p>
-      &ldquo;That was an ungrateful speech, and I retract it for Bella&rsquo;s sake. Younger
+<p>
+      “That was an ungrateful speech, and I retract it for Bella’s sake. Younger
       sons have no position but such as they can make for themselves, you know,
-      and I&rsquo;ve had no chance yet.&rdquo;
+      and I’ve had no chance yet.”
      </p>
-    <p>
-      &ldquo;Younger sons! I thought&mdash;I beg pardon.&rdquo; And Miss Muir paused, as if
+<p>
+      “Younger sons! I thought—I beg pardon.” And Miss Muir paused, as if
       remembering that she had no right to question.
     </p>
-    <p>
-      Edward smiled and answered frankly, &ldquo;Nay, don&rsquo;t mind me. You thought I was
-      the heir, perhaps. Whom did you take my brother for last night?&rdquo;
+<p>
+      Edward smiled and answered frankly, “Nay, don’t mind me. You thought I was
+      the heir, perhaps. Whom did you take my brother for last night?”
      </p>
-    <p>
-      &ldquo;For some guest who admired Miss Beaufort. I did not hear his name, nor
+<p>
+      “For some guest who admired Miss Beaufort. I did not hear his name, nor
       observe him enough to discover who he was. I saw only your kind mother,
-      your charming little sister, and&mdash;&rdquo;
+      your charming little sister, and—”
      </p>
-    <p>
+<p>
       She stopped there, with a half-shy, half-grateful look at the young man
       which finished the sentence better than any words. He was still a boy, in
       spite of his one-and-twenty years, and a little color came into his brown
       cheek as the eloquent eyes met his and fell before them.
     </p>
-    <p>
-      &ldquo;Yes, Bella is a capital girl, and one can&rsquo;t help loving her. I know
-      you&rsquo;ll get her on, for, really, she is the most delightful little dunce.
-      My mother&rsquo;s ill health and Bella&rsquo;s devotion to her have prevented our
+<p>
+      “Yes, Bella is a capital girl, and one can’t help loving her. I know
+      you’ll get her on, for, really, she is the most delightful little dunce.
+      My mother’s ill health and Bella’s devotion to her have prevented our
       attending to her education before. Next winter, when we go to town, she is
-      to come out, and must be prepared for that great event, you know,&rdquo; he
+      to come out, and must be prepared for that great event, you know,” he
       said, choosing a safe subject.
     </p>
-    <p>
-      &ldquo;I shall do my best. And that reminds me that I should report myself to
+<p>
+      “I shall do my best. And that reminds me that I should report myself to
       her, instead of enjoying myself here. When one has been ill and shut up a
       long time, the country is so lovely one is apt to forget duty for
-      pleasure. Please remind me if I am negligent, Mr. Coventry.&rdquo;
+      pleasure. Please remind me if I am negligent, Mr. Coventry.”
      </p>
-    <p>
-      &ldquo;That name belongs to Gerald. I&rsquo;m only Mr. Ned here,&rdquo; he said as they
+<p>
+      “That name belongs to Gerald. I’m only Mr. Ned here,” he said as they
       walked toward the house, while Hector followed to the wall and sent a
       sonorous farewell after them.
     </p>
-    <p>
+<p>
       Bella came running to meet them, and greeted Miss Muir as if she had made
-      up her mind to like her heartily. &ldquo;What a lovely bouquet you have got! I
+      up her mind to like her heartily. “What a lovely bouquet you have got! I
       never can arrange flowers prettily, which vexes me, for Mamma is so fond
-      of them and cannot go out herself. You have charming taste,&rdquo; she said,
+      of them and cannot go out herself. You have charming taste,” she said,
       examining the graceful posy which Miss Muir had much improved by adding
-      feathery grasses, delicate ferns, and fragrant wild flowers to Sir John&rsquo;s
+      feathery grasses, delicate ferns, and fragrant wild flowers to Sir John’s
       exotics.
     </p>
-    <p>
-      Putting them into Bella&rsquo;s hand, she said, in a winning way, &ldquo;Take them to
+<p>
+      Putting them into Bella’s hand, she said, in a winning way, “Take them to
       your mother, then, and ask her if I may have the pleasure of making her a
       daily nosegay; for I should find real delight in doing it, if it would
-      please her.&rdquo;
+      please her.”
      </p>
-    <p>
-      &ldquo;How kind you are! Of course it would please her. I&rsquo;ll take them to her
-      while the dew is still on them.&rdquo; And away flew Bella, eager to give both
+<p>
+      “How kind you are! Of course it would please her. I’ll take them to her
+      while the dew is still on them.” And away flew Bella, eager to give both
       the flowers and the pretty message to the poor invalid.
     </p>
-    <p>
+<p>
       Edward stopped to speak to the gardener, and Miss Muir went up the steps
       alone. The long hall was lined with portraits, and pacing slowly down it
       she examined them with interest. One caught her eye, and, pausing before
@@ -823,42 +859,42 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       nod, as if she saw and caught at some unexpected chance. A soft rustle
       behind her made her look around, and, seeing Lucia, she bowed, half
       turned, as if for another glance at the picture, and said, as if
-      involuntarily, &ldquo;How beautiful it is! May I ask if it is an ancestor, Miss
-      Beaufort?&rdquo;
+      involuntarily, “How beautiful it is! May I ask if it is an ancestor, Miss
+      Beaufort?”
      </p>
-    <p>
-      &ldquo;It is the likeness of my mother&rdquo; was the reply, given with a softened
+<p>
+      “It is the likeness of my mother” was the reply, given with a softened
       voice and eyes that looked up tenderly.
     </p>
-    <p>
-      &ldquo;Ah, I might have known, from the resemblance, but I scarcely saw you last
+<p>
+      “Ah, I might have known, from the resemblance, but I scarcely saw you last
       night. Excuse my freedom, but Lady Sydney treated me as a friend, and I
-      forget my position. Allow me.&rdquo;
+      forget my position. Allow me.”
      </p>
-    <p>
+<p>
       As she spoke, Miss Muir stooped to return the handkerchief which had
-      fallen from Lucia&rsquo;s hand, and did so with a humble mien which touched the
-      other&rsquo;s heart; for, though a proud, it was also a very generous one.
+      fallen from Lucia’s hand, and did so with a humble mien which touched the
+      other’s heart; for, though a proud, it was also a very generous one.
     </p>
-    <p>
-      &ldquo;Thank you. Are you better, this morning?&rdquo; she said, graciously. And
-      having received an affirmative reply, she added, as she walked on, &ldquo;I will
+<p>
+      “Thank you. Are you better, this morning?” she said, graciously. And
+      having received an affirmative reply, she added, as she walked on, “I will
       show you to the breakfast room, as Bella is not here. It is a very
       informal meal with us, for my aunt is never down and my cousins are very
       irregular in their hours. You can always have yours when you like, without
-      waiting for us if you are an early riser.&rdquo;
+      waiting for us if you are an early riser.”
      </p>
-    <p>
+<p>
       Bella and Edward appeared before the others were seated, and Miss Muir
-      quietly ate her breakfast, feeling well satisfied with her hour&rsquo;s work.
-      Ned recounted her exploit with Hector, Bella delivered her mother&rsquo;s thanks
+      quietly ate her breakfast, feeling well satisfied with her hour’s work.
+      Ned recounted her exploit with Hector, Bella delivered her mother’s thanks
       for the flowers, and Lucia more than once recalled, with pardonable
       vanity, that the governess had compared her to her lovely mother,
       expressing by a look as much admiration for the living likeness as for the
       painted one. All kindly did their best to make the pale girl feel at home,
       and their cordial manner seemed to warm and draw her out; for soon she put
       off her sad, meek air and entertained them with gay anecdotes of her life
-      in Paris, her travels in Russia when governess in Prince Jermadoff&rsquo;s
+      in Paris, her travels in Russia when governess in Prince Jermadoff’s
       family, and all manner of witty stories that kept them interested and
       merry long after the meal was over. In the middle of an absorbing
       adventure, Coventry came in, nodded lazily, lifted his brows, as if
@@ -866,94 +902,94 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       ennui of another day had already taken possession of him. Miss Muir
       stopped short, and no entreaties could induce her to go on.
     </p>
-    <p>
-      &ldquo;Another time I will finish it, if you like. Now Miss Bella and I should
-      be at our books.&rdquo; And she left the room, followed by her pupil, taking no
+<p>
+      “Another time I will finish it, if you like. Now Miss Bella and I should
+      be at our books.” And she left the room, followed by her pupil, taking no
       notice of the young master of the house, beyond a graceful bow in answer
       to his careless nod.
     </p>
-    <p>
-      &ldquo;Merciful creature! she goes when I come, and does not make life
+<p>
+      “Merciful creature! she goes when I come, and does not make life
       unendurable by moping about before my eyes. Does she belong to the moral,
-      the melancholy, the romantic, or the dashing class, Ned?&rdquo; said Gerald,
+      the melancholy, the romantic, or the dashing class, Ned?” said Gerald,
       lounging over his coffee as he did over everything he attempted.
     </p>
-    <p>
-      &ldquo;To none of them; she is a capital little woman. I wish you had seen her
-      tame Hector this morning.&rdquo; And Edward repeated his story.
+<p>
+      “To none of them; she is a capital little woman. I wish you had seen her
+      tame Hector this morning.” And Edward repeated his story.
     </p>
-    <p>
-      &ldquo;Not a bad move on her part,&rdquo; said Coventry in reply. &ldquo;She must be an
+<p>
+      “Not a bad move on her part,” said Coventry in reply. “She must be an
       observing as well as an energetic young person, to discover your chief
       weakness and attack it so soon. First tame the horse, and then the master.
       It will be amusing to watch the game, only I shall be under the painful
-      necessity of checkmating you both, if it gets serious.&rdquo;
+      necessity of checkmating you both, if it gets serious.”
      </p>
-    <p>
-      &ldquo;You needn&rsquo;t exert yourself, old fellow, on my account. If I was not above
+<p>
+      “You needn’t exert yourself, old fellow, on my account. If I was not above
       thinking ill of an inoffensive girl, I should say you were the prize best
-      worth winning, and advise you to take care of your own heart, if you&rsquo;ve
-      got one, which I rather doubt.&rdquo;
+      worth winning, and advise you to take care of your own heart, if you’ve
+      got one, which I rather doubt.”
      </p>
-    <p>
-      &ldquo;I often doubt it, myself; but I fancy the little Scotchwoman will not be
+<p>
+      “I often doubt it, myself; but I fancy the little Scotchwoman will not be
       able to satisfy either of us upon that point. How does your highness like
-      her?&rdquo; asked Coventry of his cousin, who sat near him.
+      her?” asked Coventry of his cousin, who sat near him.
     </p>
-    <p>
-      &ldquo;Better than I thought I should. She is well-bred, unassuming, and very
+<p>
+      “Better than I thought I should. She is well-bred, unassuming, and very
       entertaining when she likes. She has told us some of the wittiest stories
-      I&rsquo;ve heard for a long time. Didn&rsquo;t our laughter wake you?&rdquo; replied Lucia.
+      I’ve heard for a long time. Didn’t our laughter wake you?” replied Lucia.
     </p>
-    <p>
-      &ldquo;Yes. Now atone for it by amusing me with a repetition of these witty
-      tales.&rdquo;
+<p>
+      “Yes. Now atone for it by amusing me with a repetition of these witty
+      tales.”
      </p>
-    <p>
-      &ldquo;That is impossible; her accent and manner are half the charm,&rdquo; said Ned.
-      &ldquo;I wish you had kept away ten minutes longer, for your appearance spoilt
-      the best story of all.&rdquo;
+<p>
+      “That is impossible; her accent and manner are half the charm,” said Ned.
+      “I wish you had kept away ten minutes longer, for your appearance spoilt
+      the best story of all.”
      </p>
-    <p>
-      &ldquo;Why didn&rsquo;t she go on?&rdquo; asked Coventry, with a ray of curiosity.
+<p>
+      “Why didn’t she go on?” asked Coventry, with a ray of curiosity.
     </p>
-    <p>
-      &ldquo;You forget that she overheard us last night, and must feel that you
+<p>
+      “You forget that she overheard us last night, and must feel that you
       consider her a bore. She has pride, and no woman forgets speeches like
-      those you made,&rdquo; answered Lucia.
+      those you made,” answered Lucia.
     </p>
-    <p>
-      &ldquo;Or forgives them, either, I believe. Well, I must be resigned to languish
-      under her displeasure then. On Sydney&rsquo;s account I take a slight interest
+<p>
+      “Or forgives them, either, I believe. Well, I must be resigned to languish
+      under her displeasure then. On Sydney’s account I take a slight interest
       in her; not that I expect to learn anything from her, for a woman with a
       mouth like that never confides or confesses anything. But I have a fancy
       to see what captivated him; for captivated he was, beyond a doubt, and by
-      no lady whom he met in society. Did you ever hear anything of it, Ned?&rdquo;
+      no lady whom he met in society. Did you ever hear anything of it, Ned?”
        asked Gerald.
     </p>
-    <p>
-      &ldquo;I&rsquo;m not fond of scandal or gossip, and never listen to either.&rdquo; With
+<p>
+      “I’m not fond of scandal or gossip, and never listen to either.” With
       which remark Edward left the room.
     </p>
-    <p>
+<p>
       Lucia was called out by the housekeeper a moment after, and Coventry left
       to the society most wearisome to him, namely his own. As he entered, he
       had caught a part of the story which Miss Muir had been telling, and it
       had excited his curiosity so much that he found himself wondering what the
       end could be and wishing that he might hear it.
     </p>
-    <p>
+<p>
       What the deuce did she run away for, when I came in? he thought. If she <i>is</i>
-      amusing, she must make herself useful; for it&rsquo;s intensely dull, I own,
-      here, in spite of Lucia. Hey, what&rsquo;s that?
+      amusing, she must make herself useful; for it’s intensely dull, I own,
+      here, in spite of Lucia. Hey, what’s that?
     </p>
-    <p>
+<p>
       It was a rich, sweet voice, singing a brilliant Italian air, and singing
       it with an expression that made the music doubly delicious. Stepping out
       of the French window, Coventry strolled along the sunny terrace, enjoying
       the song with the relish of a connoisseur. Others followed, and still he
       walked and listened, forgetful of weariness or tune. As one exquisite air
-      ended, he involuntarily applauded. Miss Muir&rsquo;s face appeared for an
+      ended, he involuntarily applauded. Miss Muir’s face appeared for an
       instant, then vanished, and no more music followed, though Coventry
       lingered, hoping to hear the voice again. For music was the one thing of
       which he never wearied, and neither Lucia nor Bella possessed skill enough
@@ -962,219 +998,219 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       Bella came out, hat in hand, and nearly stumbled over her brother, who lay
       on the grass.
     </p>
-    <p>
-      &ldquo;You lazy man, have you been dawdling here all this time?&rdquo; she said,
+<p>
+      “You lazy man, have you been dawdling here all this time?” she said,
       looking down at him.
     </p>
-    <p>
-      &ldquo;No, I&rsquo;ve been very busy. Come and tell me how you&rsquo;ve got on with the
-      little dragon.&rdquo;
+<p>
+      “No, I’ve been very busy. Come and tell me how you’ve got on with the
+      little dragon.”
      </p>
-    <p>
-      &ldquo;Can&rsquo;t stop. She bade me take a run after my French, so that I might be
-      ready for my drawing, and so I must.&rdquo;
+<p>
+      “Can’t stop. She bade me take a run after my French, so that I might be
+      ready for my drawing, and so I must.”
      </p>
-    <p>
-      &ldquo;It&rsquo;s too warm to run. Sit down and amuse your deserted brother, who has
-      had no society but bees and lizards for an hour.&rdquo;
+<p>
+      “It’s too warm to run. Sit down and amuse your deserted brother, who has
+      had no society but bees and lizards for an hour.”
      </p>
-    <p>
+<p>
       He drew her down as he spoke, and Bella obeyed; for, in spite of his
       indolence, he was one to whom all submitted without dreaming of refusal.
     </p>
-    <p>
-      &ldquo;What have you been doing? Muddling your poor little brains with all
-      manner of elegant rubbish?&rdquo;
+<p>
+      “What have you been doing? Muddling your poor little brains with all
+      manner of elegant rubbish?”
      </p>
-    <p>
-      &ldquo;No, I&rsquo;ve been enjoying myself immensely. Jean is <i>so</i> interesting,
-      so kind and clever. She didn&rsquo;t bore me with stupid grammar, but just
+<p>
+      “No, I’ve been enjoying myself immensely. Jean is <i>so</i> interesting,
+      so kind and clever. She didn’t bore me with stupid grammar, but just
       talked to me in such pretty French that I got on capitally, and like it as
-      I never expected to, after Lucia&rsquo;s dull way of teaching it.&rdquo;
+      I never expected to, after Lucia’s dull way of teaching it.”
      </p>
-    <p>
-      &ldquo;What did you talk about?&rdquo;
+<p>
+      “What did you talk about?”
      </p>
-    <p>
-      &ldquo;Oh, all manner of things. She asked questions, and I answered, and she
-      corrected me.&rdquo;
+<p>
+      “Oh, all manner of things. She asked questions, and I answered, and she
+      corrected me.”
      </p>
-    <p>
-      &ldquo;Questions about our affairs, I suppose?&rdquo;
+<p>
+      “Questions about our affairs, I suppose?”
      </p>
-    <p>
-      &ldquo;Not one. She don&rsquo;t care two sous for us or our affairs. I thought she
-      might like to know what sort of people we were, so I told her about Papa&rsquo;s
+<p>
+      “Not one. She don’t care two sous for us or our affairs. I thought she
+      might like to know what sort of people we were, so I told her about Papa’s
       sudden death, Uncle John, and you, and Ned; but in the midst of it she
-      said, in her quiet way, &lsquo;You are getting too confidential, my dear. It is
-      not best to talk too freely of one&rsquo;s affairs to strangers. Let us speak of
-      something else.&rsquo;&rdquo;
+      said, in her quiet way, ‘You are getting too confidential, my dear. It is
+      not best to talk too freely of one’s affairs to strangers. Let us speak of
+      something else.’”
      </p>
-    <p>
-      &ldquo;What were you talking of when she said that, Bell?&rdquo;
+<p>
+      “What were you talking of when she said that, Bell?”
      </p>
-    <p>
-      &ldquo;You.&rdquo;
+<p>
+      “You.”
      </p>
-    <p>
-      &ldquo;Ah, then no wonder she was bored.&rdquo;
+<p>
+      “Ah, then no wonder she was bored.”
      </p>
-    <p>
-      &ldquo;She was tired of my chatter, and didn&rsquo;t hear half I said; for she was
+<p>
+      “She was tired of my chatter, and didn’t hear half I said; for she was
       busy sketching something for me to copy, and thinking of something more
-      interesting than the Coventrys.&rdquo;
+      interesting than the Coventrys.”
      </p>
-    <p>
-      &ldquo;How do you know?&rdquo;
+<p>
+      “How do you know?”
      </p>
-    <p>
-      &ldquo;By the expression of her face. Did you like her music, Gerald?&rdquo;
+<p>
+      “By the expression of her face. Did you like her music, Gerald?”
      </p>
-    <p>
-      &ldquo;Yes. Was she angry when I clapped?&rdquo;
+<p>
+      “Yes. Was she angry when I clapped?”
      </p>
-    <p>
-      &ldquo;She looked surprised, then rather proud, and shut the piano at once,
-      though I begged her to go on. Isn&rsquo;t Jean a pretty name?&rdquo;
+<p>
+      “She looked surprised, then rather proud, and shut the piano at once,
+      though I begged her to go on. Isn’t Jean a pretty name?”
      </p>
-    <p>
-      &ldquo;Not bad; but why don&rsquo;t you call her Miss Muir?&rdquo;
+<p>
+      “Not bad; but why don’t you call her Miss Muir?”
      </p>
-    <p>
-      &ldquo;She begged me not. She hates it, and loves to be called Jean, alone. I&rsquo;ve
+<p>
+      “She begged me not. She hates it, and loves to be called Jean, alone. I’ve
       imagined such a nice little romance about her, and someday I shall tell
-      her, for I&rsquo;m sure she has had a love trouble.&rdquo;
+      her, for I’m sure she has had a love trouble.”
      </p>
-    <p>
-      &ldquo;Don&rsquo;t get such nonsense into your head, but follow Miss Muir&rsquo;s well-bred
-      example and don&rsquo;t be curious about other people&rsquo;s affairs. Ask her to sing
-      tonight; it amuses me.&rdquo;
+<p>
+      “Don’t get such nonsense into your head, but follow Miss Muir’s well-bred
+      example and don’t be curious about other people’s affairs. Ask her to sing
+      tonight; it amuses me.”
      </p>
-    <p>
-      &ldquo;She won&rsquo;t come down, I think. We&rsquo;ve planned to read and work in my
+<p>
+      “She won’t come down, I think. We’ve planned to read and work in my
       boudoir, which is to be our study now. Mamma will stay in her room, so you
-      and Lucia can have the drawing room all to yourselves.&rdquo;
+      and Lucia can have the drawing room all to yourselves.”
      </p>
-    <p>
-      &ldquo;Thank you. What will Ned do?&rdquo;
+<p>
+      “Thank you. What will Ned do?”
      </p>
-    <p>
-      &ldquo;He will amuse Mamma, he says. Dear old Ned! I wish you&rsquo;d stir about and
+<p>
+      “He will amuse Mamma, he says. Dear old Ned! I wish you’d stir about and
       get him his commission. He is so impatient to be doing something and yet
-      so proud he won&rsquo;t ask again, after you have neglected it so many times and
-      refused Uncle&rsquo;s help.&rdquo;
+      so proud he won’t ask again, after you have neglected it so many times and
+      refused Uncle’s help.”
      </p>
-    <p>
-      &ldquo;I&rsquo;ll attend to it very soon; don&rsquo;t worry me, child. He will do very well
-      for a time, quietly here with us.&rdquo;
+<p>
+      “I’ll attend to it very soon; don’t worry me, child. He will do very well
+      for a time, quietly here with us.”
      </p>
-    <p>
-      &ldquo;You always say that, yet you know he chafes and is unhappy at being
-      dependent on you. Mamma and I don&rsquo;t mind; but he is a man, and it frets
-      him. He said he&rsquo;d take matters into his own hands soon, and then you may
-      be sorry you were so slow in helping him.&rdquo;
+<p>
+      “You always say that, yet you know he chafes and is unhappy at being
+      dependent on you. Mamma and I don’t mind; but he is a man, and it frets
+      him. He said he’d take matters into his own hands soon, and then you may
+      be sorry you were so slow in helping him.”
      </p>
-    <p>
-      &ldquo;Miss Muir is looking out of the window. You&rsquo;d better go and take your
-      run, else she will scold.&rdquo;
+<p>
+      “Miss Muir is looking out of the window. You’d better go and take your
+      run, else she will scold.”
      </p>
-    <p>
-      &ldquo;Not she. I&rsquo;m not a bit afraid of her, she&rsquo;s so gentle and sweet. I&rsquo;m fond
-      of her already. You&rsquo;ll get as brown as Ned, lying here in the sun. By the
-      way, Miss Muir agrees with me in thinking him handsomer than you.&rdquo;
+<p>
+      “Not she. I’m not a bit afraid of her, she’s so gentle and sweet. I’m fond
+      of her already. You’ll get as brown as Ned, lying here in the sun. By the
+      way, Miss Muir agrees with me in thinking him handsomer than you.”
      </p>
-    <p>
-      &ldquo;I admire her taste and quite agree with her.&rdquo;
+<p>
+      “I admire her taste and quite agree with her.”
      </p>
-    <p>
-      &ldquo;She said he was manly, and that was more attractive than beauty in a man.
-      She does express things so nicely. Now I&rsquo;m off.&rdquo; And away danced Bella,
-      humming the burden of Miss Muir&rsquo;s sweetest song.
+<p>
+      “She said he was manly, and that was more attractive than beauty in a man.
+      She does express things so nicely. Now I’m off.” And away danced Bella,
+      humming the burden of Miss Muir’s sweetest song.
     </p>
-    <p>
-      &ldquo;&lsquo;Energy is more attractive than beauty in a man.&rsquo; She is right, but how
+<p>
+      “‘Energy is more attractive than beauty in a man.’ She is right, but how
       the deuce <i>can</i> a man be energetic, with nothing to expend his
-      energies upon?&rdquo; mused Coventry, with his hat over his eyes.
+      energies upon?” mused Coventry, with his hat over his eyes.
     </p>
-    <p>
+<p>
       A few moments later, the sweep of a dress caught his ear. Without
       stirring, a sidelong glance showed him Miss Muir coming across the
       terrace, as if to join Bella. Two stone steps led down to the lawn. He lay
       near them, and Miss Muir did not see him till close upon him. She started
       and slipped on the last step, recovered herself, and glided on, with a
       glance of unmistakable contempt as she passed the recumbent figure of the
-      apparent sleeper. Several things in Bella&rsquo;s report had nettled him, but
+      apparent sleeper. Several things in Bella’s report had nettled him, but
       this look made him angry, though he would not own it, even to himself.
     </p>
-    <p>
-      &ldquo;Gerald, come here, quick!&rdquo; presently called Bella, from the rustic seat
+<p>
+      “Gerald, come here, quick!” presently called Bella, from the rustic seat
       where she stood beside her governess, who sat with her hand over her face
       as if in pain.
     </p>
-    <p>
+<p>
       Gathering himself up, Coventry slowly obeyed, but involuntarily quickened
-      his pace as he heard Miss Muir say, &ldquo;Don&rsquo;t call him; <i>he</i> can do
-      nothing&rdquo;; for the emphasis on the word &ldquo;he&rdquo; was very significant.
+      his pace as he heard Miss Muir say, “Don’t call him; <i>he</i> can do
+      nothing”; for the emphasis on the word “he” was very significant.
     </p>
-    <p>
-      &ldquo;What is it, Bella?&rdquo; he asked, looking rather wider awake than usual.
+<p>
+      “What is it, Bella?” he asked, looking rather wider awake than usual.
     </p>
-    <p>
-      &ldquo;You startled Miss Muir and made her turn her ankle. Now help her to the
-      house, for she is in great pain; and don&rsquo;t lie there anymore to frighten
-      people like a snake in the grass,&rdquo; said his sister petulantly.
+<p>
+      “You startled Miss Muir and made her turn her ankle. Now help her to the
+      house, for she is in great pain; and don’t lie there anymore to frighten
+      people like a snake in the grass,” said his sister petulantly.
     </p>
-    <p>
-      &ldquo;I beg your pardon. Will you allow me?&rdquo; And Coventry offered his arm.
+<p>
+      “I beg your pardon. Will you allow me?” And Coventry offered his arm.
     </p>
-    <p>
+<p>
       Miss Muir looked up with the expression which annoyed him and answered
-      coldly, &ldquo;Thank you, Miss Bella will do as well.&rdquo;
+      coldly, “Thank you, Miss Bella will do as well.”
      </p>
-    <p>
-      &ldquo;Permit me to doubt that.&rdquo; And with a gesture too decided to be resisted,
+<p>
+      “Permit me to doubt that.” And with a gesture too decided to be resisted,
       Coventry drew her arm through his and led her into the house. She
       submitted quietly, said the pain would soon be over, and when settled on
-      the couch in Bella&rsquo;s room dismissed him with the briefest thanks.
+      the couch in Bella’s room dismissed him with the briefest thanks.
       Considering the unwonted exertion he had made, he thought she might have
       been a little more grateful, and went away to Lucia, who always brightened
       when he came.
     </p>
-    <p>
+<p>
       No more was seen of Miss Muir till teatime; for now, while the family were
       in retirement, they dined early and saw no company. The governess had
       excused herself at dinner, but came down in the evening a little paler
       than usual and with a slight limp in her gait. Sir John was there, talking
       with his nephew, and they merely acknowledged her presence by the sort of
       bow which gentlemen bestow on governesses. As she slowly made her way to
-      her place behind the urn, Coventry said to his brother, &ldquo;Take her a
-      footstool, and ask her how she is, Ned.&rdquo; Then, as if necessary to account
+      her place behind the urn, Coventry said to his brother, “Take her a
+      footstool, and ask her how she is, Ned.” Then, as if necessary to account
       for his politeness to his uncle, he explained how he was the cause of the
       accident.
     </p>
-    <p>
-      &ldquo;Yes, yes. I understand. Rather a nice little person, I fancy. Not exactly
+<p>
+      “Yes, yes. I understand. Rather a nice little person, I fancy. Not exactly
       a beauty, but accomplished and well-bred, which is better for one of her
-      class.&rdquo;
+      class.”
      </p>
-    <p>
-      &ldquo;Some tea, Sir John?&rdquo; said a soft voice at his elbow, and there was Miss
+<p>
+      “Some tea, Sir John?” said a soft voice at his elbow, and there was Miss
       Muir, offering cups to the gentlemen.
     </p>
-    <p>
-      &ldquo;Thank you, thank you,&rdquo; said Sir John, sincerely hoping she had overheard
+<p>
+      “Thank you, thank you,” said Sir John, sincerely hoping she had overheard
       him.
     </p>
-    <p>
-      As Coventry took his, he said graciously, &ldquo;You are very forgiving, Miss
-      Muir, to wait upon me, after I have caused you so much pain.&rdquo;
+<p>
+      As Coventry took his, he said graciously, “You are very forgiving, Miss
+      Muir, to wait upon me, after I have caused you so much pain.”
      </p>
-    <p>
-      &ldquo;It is my duty, sir&rdquo; was her reply, in a tone which plainly said, &ldquo;but not
-      my pleasure.&rdquo; And she returned to her place, to smile, and chat, and be
+<p>
+      “It is my duty, sir” was her reply, in a tone which plainly said, “but not
+      my pleasure.” And she returned to her place, to smile, and chat, and be
       charming, with Bella and her brother.
     </p>
-    <p>
+<p>
       Lucia, hovering near her uncle and Gerald, kept them to herself, but was
       disturbed to find that their eyes often wandered to the cheerful group
       about the table, and that their attention seemed distracted by the
@@ -1182,33 +1218,33 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       reached them. In the midst of an account of a tragic affair which she
       endeavored to make as interesting and pathetic as possible, Sir John burst
       into a hearty laugh, which betrayed that he had been listening to a
-      livelier story than her own. Much annoyed, she said hastily, &ldquo;I knew it
+      livelier story than her own. Much annoyed, she said hastily, “I knew it
       would be so! Bella has no idea of the proper manner in which to treat a
       governess. She and Ned will forget the difference of rank and spoil that
       person for her work. She is inclined to be presumptuous already, and if my
-      aunt won&rsquo;t trouble herself to give Miss Muir a hint in time, I shall.&rdquo;
+      aunt won’t trouble herself to give Miss Muir a hint in time, I shall.”
      </p>
-    <p>
-      &ldquo;Wait until she has finished that story, I beg of you,&rdquo; said Coventry, for
+<p>
+      “Wait until she has finished that story, I beg of you,” said Coventry, for
       Sir John was already off.
     </p>
-    <p>
-      &ldquo;If you find that nonsense so entertaining, why don&rsquo;t you follow Uncle&rsquo;s
-      example? I don&rsquo;t need you.&rdquo;
+<p>
+      “If you find that nonsense so entertaining, why don’t you follow Uncle’s
+      example? I don’t need you.”
      </p>
-    <p>
-      &ldquo;Thank you. I will.&rdquo; And Lucia was deserted.
+<p>
+      “Thank you. I will.” And Lucia was deserted.
     </p>
-    <p>
+<p>
       But Miss Muir had ended and, beckoning to Bella, left the room, as if
       quite unconscious of the honor conferred upon her or the dullness she left
       behind her. Ned went up to his mother, Gerald returned to make his peace
       with Lucia, and, bidding them good-night, Sir John turned homeward.
-      Strolling along the terrace, he came to the lighted window of Bella&rsquo;s
+      Strolling along the terrace, he came to the lighted window of Bella’s
       study, and wishing to say a word to her, he half pushed aside the curtain
       and looked in. A pleasant little scene. Bella working busily, and near her
       in a low chair, with the light falling on her fair hair and delicate
-      profile, sat Miss Muir reading aloud. &ldquo;Novels!&rdquo; thought Sir John, and
+      profile, sat Miss Muir reading aloud. “Novels!” thought Sir John, and
       smiled at them for a pair of romantic girls. But pausing to listen a
       moment before he spoke, he found it was no novel, but history, read with a
       fluency which made every fact interesting, every sketch of character
@@ -1218,41 +1254,41 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       as he listened, he thought how pleasantly the smoothly flowing voice would
       wile away his evenings, and he envied Bella her new acquisition.
     </p>
-    <p>
-      A bell rang, and Bella sprang up, saying, &ldquo;Wait for me a minute. I must
-      run to Mamma, and then we will go on with this charming prince.&rdquo;
+<p>
+      A bell rang, and Bella sprang up, saying, “Wait for me a minute. I must
+      run to Mamma, and then we will go on with this charming prince.”
      </p>
-    <p>
+<p>
       Away she went, and Sir John was about to retire as quietly as he came,
-      when Miss Muir&rsquo;s peculiar behavior arrested him for an instant. Dropping
+      when Miss Muir’s peculiar behavior arrested him for an instant. Dropping
       the book, she threw her arms across the table, laid her head down upon
       them, and broke into a passion of tears, like one who could bear restraint
       no longer. Shocked and amazed, Sir John stole away; but all that night the
       kindhearted gentleman puzzled his brains with conjectures about his
-      niece&rsquo;s interesting young governess, quite unconscious that she intended
+      niece’s interesting young governess, quite unconscious that she intended
       he should do so.
     </p>
-    <p>
-      <br /><br />
-    </p>
-    <hr />
-    <p>
-      <a name="link2H_4_0003" id="link2H_4_0003"> </a>
-    </p>
-    <div style="height: 4em;">
-      <br /><br /><br /><br />
-    </div>
-    <h2>
-      <i>Chapter III</i> PASSION AND PIQUE
+<p>
+<br><br>
+</p>
+<hr>
+<p>
+<a id="link2H_4_0003"> </a>
+</p>
+<div style="height: 4em;">
+<br><br><br><br>
+</div>
+<h2>
+<i>Chapter III</i> PASSION AND PIQUE
     </h2>
-    <p>
+<p>
       For several weeks the most monotonous tranquillity seemed to reign at
       Coventry House, and yet, unseen, unsuspected, a storm was gathering. The
       arrival of Miss Muir seemed to produce a change in everyone, though no one
       could have explained how or why. Nothing could be more unobtrusive and
       retiring than her manners. She was devoted to Bella, who soon adored her,
       and was only happy when in her society. She ministered in many ways to
-      Mrs. Coventry&rsquo;s comfort, and that lady declared there never was such a
+      Mrs. Coventry’s comfort, and that lady declared there never was such a
       nurse. She amused, interested and won Edward with her wit and womanly
       sympathy. She made Lucia respect and envy her for her accomplishments, and
       piqued indolent Gerald by her persistent avoidance of him, while Sir John
@@ -1263,17 +1299,17 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       inferiors, Jean Muir was the life of the house, and the friend of all but
       two.
     </p>
-    <p>
+<p>
       Lucia disliked her, and Coventry distrusted her; neither could exactly say
       why, and neither owned the feeling, even to themselves. Both watched her
       covertly yet found no shortcoming anywhere. Meek, modest, faithful, and
-      invariably sweet-tempered&mdash;they could complain of nothing and
+      invariably sweet-tempered—they could complain of nothing and
       wondered at their own doubts, though they could not banish them.
     </p>
-    <p>
+<p>
       It soon came to pass that the family was divided, or rather that two
       members were left very much to themselves. Pleading timidity, Jean Muir
-      kept much in Bella&rsquo;s study and soon made it such a pleasant little nook
+      kept much in Bella’s study and soon made it such a pleasant little nook
       that Ned and his mother, and often Sir John, came in to enjoy the music,
       reading, or cheerful chat which made the evenings so gay. Lucia at first
       was only too glad to have her cousin to herself, and he too lazy to care
@@ -1282,329 +1318,329 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       charm a man and steal into his heart. Rumors of the merry-makings that
       went on reached him and made him curious to share them; echoes of fine
       music went sounding through the house, as he lounged about the empty
-      drawing room; and peals of laughter reached him while listening to Lucia&rsquo;s
+      drawing room; and peals of laughter reached him while listening to Lucia’s
       grave discourse.
     </p>
-    <p>
+<p>
       She soon discovered that her society had lost its charm, and the more
       eagerly she tried to please him, the more signally she failed. Before long
       Coventry fell into a habit of strolling out upon the terrace of an
       evening, and amusing himself by passing and repassing the window of
-      Bella&rsquo;s room, catching glimpses of what was going on and reporting the
+      Bella’s room, catching glimpses of what was going on and reporting the
       result of his observations to Lucia, who was too proud to ask admission to
       the happy circle or to seem to desire it.
     </p>
-    <p>
-      &ldquo;I shall go to London tomorrow, Lucia,&rdquo; Gerald said one evening, as he
-      came back from what he called &ldquo;a survey,&rdquo; looking very much annoyed.
+<p>
+      “I shall go to London tomorrow, Lucia,” Gerald said one evening, as he
+      came back from what he called “a survey,” looking very much annoyed.
     </p>
-    <p>
-      &ldquo;To London?&rdquo; exclaimed his cousin, surprised.
+<p>
+      “To London?” exclaimed his cousin, surprised.
     </p>
-    <p>
-      &ldquo;Yes, I must bestir myself and get Ned his commission, or it will be all
-      over with him.&rdquo;
+<p>
+      “Yes, I must bestir myself and get Ned his commission, or it will be all
+      over with him.”
      </p>
-    <p>
-      &ldquo;How do you mean?&rdquo;
+<p>
+      “How do you mean?”
      </p>
-    <p>
-      &ldquo;He is falling in love as fast as it is possible for a boy to do it. That
+<p>
+      “He is falling in love as fast as it is possible for a boy to do it. That
       girl has bewitched him, and he will make a fool of himself very soon,
-      unless I put a stop to it.&rdquo;
+      unless I put a stop to it.”
      </p>
-    <p>
-      &ldquo;I was afraid she would attempt a flirtation. These persons always do,
-      they are such a mischief-making race.&rdquo;
+<p>
+      “I was afraid she would attempt a flirtation. These persons always do,
+      they are such a mischief-making race.”
      </p>
-    <p>
-      &ldquo;Ah, but there you are wrong, as far as little Muir is concerned. She does
+<p>
+      “Ah, but there you are wrong, as far as little Muir is concerned. She does
       not flirt, and Ned has too much sense and spirit to be caught by a silly
       coquette. She treats him like an elder sister, and mingles the most
-      attractive friendliness with a quiet dignity that captivates the boy. I&rsquo;ve
+      attractive friendliness with a quiet dignity that captivates the boy. I’ve
       been watching them, and there he is, devouring her with his eyes, while
       she reads a fascinating novel in the most fascinating style. Bella and
       Mamma are absorbed in the tale, and see nothing; but Ned makes himself the
       hero, Miss Muir the heroine, and lives the love scene with all the ardor
-      of a man whose heart has just waked up. Poor lad! Poor lad!&rdquo;
+      of a man whose heart has just waked up. Poor lad! Poor lad!”
      </p>
-    <p>
+<p>
       Lucia looked at her cousin, amazed by the energy with which he spoke, the
       anxiety in his usually listless face. The change became him, for it showed
       what he might be, making one regret still more what he was. Before she
       could speak, he was gone again, to return presently, laughing, yet looking
       a little angry.
     </p>
-    <p>
-      &ldquo;What now?&rdquo; she asked.
+<p>
+      “What now?” she asked.
     </p>
-    <p>
-      &ldquo;&lsquo;Listeners never hear any good of themselves&rsquo; is the truest of proverbs.
+<p>
+      “‘Listeners never hear any good of themselves’ is the truest of proverbs.
       I stopped a moment to look at Ned, and heard the following flattering
       remarks. Mamma is gone, and Ned was asking little Muir to sing that
       delicious barcarole she gave us the other evening.
     </p>
-    <p>
-      &ldquo;&lsquo;Not now, not here,&rsquo; she said.
+<p>
+      “‘Not now, not here,’ she said.
     </p>
-    <p>
-      &ldquo;&lsquo;Why not? You sang it in the drawing room readily enough,&rsquo; said Ned,
+<p>
+      “‘Why not? You sang it in the drawing room readily enough,’ said Ned,
       imploringly.
     </p>
-    <p>
-      &ldquo;&lsquo;That is a very different thing,&rsquo; and she looked at him with a little
+<p>
+      “‘That is a very different thing,’ and she looked at him with a little
       shake of the head, for he was folding his hands and doing the passionate
       pathetic.
     </p>
-    <p>
-      &ldquo;&lsquo;Come and sing it there then,&rsquo; said innocent Bella. &lsquo;Gerald likes your
-      voice so much, and complains that you will never sing to him.&rsquo; 
+<p>
+      “‘Come and sing it there then,’ said innocent Bella. ‘Gerald likes your
+      voice so much, and complains that you will never sing to him.’ 
     </p>
-    <p>
-      &ldquo;&lsquo;He never asks me,&rsquo; said Muir, with an odd smile.
+<p>
+      “‘He never asks me,’ said Muir, with an odd smile.
     </p>
-    <p>
-      &ldquo;&lsquo;He is too lazy, but he wants to hear you.&rsquo; 
+<p>
+      “‘He is too lazy, but he wants to hear you.’ 
     </p>
-    <p>
-      &ldquo;&lsquo;When he asks me, I will sing&mdash;if I feel like it.&rsquo; And she shrugged
+<p>
+      “‘When he asks me, I will sing—if I feel like it.’ And she shrugged
       her shoulders with a provoking gesture of indifference.
     </p>
-    <p>
-      &ldquo;&lsquo;But it amuses him, and he gets so bored down here,&rsquo; began stupid little
-      Bella. &lsquo;Don&rsquo;t be shy or proud, Jean, but come and entertain the poor old
-      fellow.&rsquo; 
+<p>
+      “‘But it amuses him, and he gets so bored down here,’ began stupid little
+      Bella. ‘Don’t be shy or proud, Jean, but come and entertain the poor old
+      fellow.’ 
     </p>
-    <p>
-      &ldquo;&lsquo;No, thank you. I engaged to teach Miss Coventry, not to amuse Mr.
-      Coventry&rsquo; was all the answer she got.
+<p>
+      “‘No, thank you. I engaged to teach Miss Coventry, not to amuse Mr.
+      Coventry’ was all the answer she got.
     </p>
-    <p>
-      &ldquo;&lsquo;You amuse Ned, why not Gerald? Are you afraid of him?&rsquo; asked Bella.
+<p>
+      “‘You amuse Ned, why not Gerald? Are you afraid of him?’ asked Bella.
     </p>
-    <p>
-      &ldquo;Miss Muir laughed, such a scornful laugh, and said, in that peculiar tone
-      of hers, &lsquo;I cannot fancy anyone being <i>afraid</i> of your elder
-      brother.&rsquo; 
+<p>
+      “Miss Muir laughed, such a scornful laugh, and said, in that peculiar tone
+      of hers, ‘I cannot fancy anyone being <i>afraid</i> of your elder
+      brother.’ 
     </p>
-    <p>
-      &ldquo;&lsquo;I am, very often, and so would you be, if you ever saw him angry,&rsquo; And
-      Bella looked as if I&rsquo;d beaten her.
+<p>
+      “‘I am, very often, and so would you be, if you ever saw him angry,’ And
+      Bella looked as if I’d beaten her.
     </p>
-    <p>
-      &ldquo;&lsquo;Does he ever wake up enough to be angry?&rsquo; asked that girl, with an air
+<p>
+      “‘Does he ever wake up enough to be angry?’ asked that girl, with an air
       of surprise. Here Ned broke into a fit of laughter, and they are at it
-      now, I fancy, by the sound.&rdquo;
+      now, I fancy, by the sound.”
      </p>
-    <p>
-      &ldquo;Their foolish gossip is not worth getting excited about, but I certainly
-      would send Ned away. It&rsquo;s no use trying to get rid of &lsquo;that girl,&rsquo; as you
+<p>
+      “Their foolish gossip is not worth getting excited about, but I certainly
+      would send Ned away. It’s no use trying to get rid of ‘that girl,’ as you
       say, for my aunt is as deluded about her as Ned and Bella, and she really
       does get the child along splendidly. Dispatch Ned, and then she can do no
-      harm,&rdquo; said Lucia, watching Coventry&rsquo;s altered face as he stood in the
+      harm,” said Lucia, watching Coventry’s altered face as he stood in the
       moonlight, just outside the window where she sat.
     </p>
-    <p>
-      &ldquo;Have you no fears for me?&rdquo; he asked smiling, as if ashamed of his
+<p>
+      “Have you no fears for me?” he asked smiling, as if ashamed of his
       momentary petulance.
     </p>
-    <p>
-      &ldquo;No, have you for yourself?&rdquo; And a shade of anxiety passed over her face.
+<p>
+      “No, have you for yourself?” And a shade of anxiety passed over her face.
     </p>
-    <p>
-      &ldquo;I defy the Scotch witch to enchant me, except with her music,&rdquo; he added,
+<p>
+      “I defy the Scotch witch to enchant me, except with her music,” he added,
       moving down the terrace again, for Jean was singing like a nightingale.
     </p>
-    <p>
-      As the song ended, he put aside the curtain, and said, abruptly, &ldquo;Has
-      anyone any commands for London? I am going there tomorrow.&rdquo;
+<p>
+      As the song ended, he put aside the curtain, and said, abruptly, “Has
+      anyone any commands for London? I am going there tomorrow.”
      </p>
-    <p>
-      &ldquo;A pleasant trip to you,&rdquo; said Ned carelessly, though usually his
-      brother&rsquo;s movements interested him extremely.
+<p>
+      “A pleasant trip to you,” said Ned carelessly, though usually his
+      brother’s movements interested him extremely.
     </p>
-    <p>
-      &ldquo;I want quantities of things, but I must ask Mamma first.&rdquo; And Bella began
+<p>
+      “I want quantities of things, but I must ask Mamma first.” And Bella began
       to make a list.
     </p>
-    <p>
-      &ldquo;May I trouble you with a letter, Mr. Coventry?&rdquo;
+<p>
+      “May I trouble you with a letter, Mr. Coventry?”
      </p>
-    <p>
+<p>
       Jean Muir turned around on the music stool and looked at him with the cold
       keen glance which always puzzled him.
     </p>
-    <p>
-      He bowed, saying, as if to them all, &ldquo;I shall be off by the early train,
-      so you must give me your orders tonight.&rdquo;
+<p>
+      He bowed, saying, as if to them all, “I shall be off by the early train,
+      so you must give me your orders tonight.”
      </p>
-    <p>
-      &ldquo;Then come away, Ned, and leave Jean to write her letter.&rdquo;
+<p>
+      “Then come away, Ned, and leave Jean to write her letter.”
      </p>
-    <p>
+<p>
       And Bella took her reluctant brother from the room.
     </p>
-    <p>
-      &ldquo;I will give you the letter in the morning,&rdquo; said Miss Muir, with a
+<p>
+      “I will give you the letter in the morning,” said Miss Muir, with a
       curious quiver in her voice, and the look of one who forcibly suppressed
       some strong emotion.
     </p>
-    <p>
-      &ldquo;As you please.&rdquo; And Coventry went back to Lucia, wondering who Miss Muir
+<p>
+      “As you please.” And Coventry went back to Lucia, wondering who Miss Muir
       was going to write to. He said nothing to his brother of the purpose which
       took him to town, lest a word should produce the catastrophe which he
       hoped to prevent; and Ned, who now lived in a sort of dream, seemed to
-      forget Gerald&rsquo;s existence altogether.
+      forget Gerald’s existence altogether.
     </p>
-    <p>
+<p>
       With unwonted energy Coventry was astir seven next morning. Lucia gave him
       his breakfast, and as he left the room to order the carriage, Miss Muir
       came gliding downstairs, very pale and heavy-eyed (with a sleepless,
       tearful night, he thought) and, putting a delicate little letter into his
-      hand, said hurriedly, &ldquo;Please leave this at Lady Sydney&rsquo;s, and if you see
-      her, say &lsquo;I have remembered.&rsquo;&rdquo;
+      hand, said hurriedly, “Please leave this at Lady Sydney’s, and if you see
+      her, say ‘I have remembered.’”
      </p>
-    <p>
+<p>
       Her peculiar manner and peculiar message struck him. His eye involuntarily
-      glanced at the address of the letter and read young Sydney&rsquo;s name. Then,
-      conscious of his mistake, he thrust it into his pocket with a hasty &ldquo;Good
-      morning,&rdquo; and left Miss Muir standing with one hand pressed on her heart,
+      glanced at the address of the letter and read young Sydney’s name. Then,
+      conscious of his mistake, he thrust it into his pocket with a hasty “Good
+      morning,” and left Miss Muir standing with one hand pressed on her heart,
       the other half extended as if to recall the letter.
     </p>
-    <p>
+<p>
       All the way to London, Coventry found it impossible to forget the almost
-      tragical expression of the girl&rsquo;s face, and it haunted him through the
-      bustle of two busy days. Ned&rsquo;s affair was put in the way of being speedily
-      accomplished, Bella&rsquo;s commissions were executed, his mother&rsquo;s pet
+      tragical expression of the girl’s face, and it haunted him through the
+      bustle of two busy days. Ned’s affair was put in the way of being speedily
+      accomplished, Bella’s commissions were executed, his mother’s pet
       delicacies provided for her, and a gift for Lucia, whom the family had
       given him for his future mate, as he was too lazy to choose for himself.
     </p>
-    <p>
-      Jean Muir&rsquo;s letter he had not delivered, for Lady Sydney was in the
+<p>
+      Jean Muir’s letter he had not delivered, for Lady Sydney was in the
       country and her townhouse closed. Curious to see how she would receive his
       tidings, he went quietly in on his arrival at home. Everyone had dispersed
       to dress for dinner except Miss Muir, who was in the garden, the servant
       said.
     </p>
-    <p>
-      &ldquo;Very well, I have a message for her&rdquo;; and, turning, the &ldquo;young master,&rdquo;
+<p>
+      “Very well, I have a message for her”; and, turning, the “young master,”
        as they called him, went to seek her. In a remote corner he saw her
       sitting alone, buried in thought. As his step roused her, a look of
       surprise, followed by one of satisfaction, passed over her face, and,
       rising, she beckoned to him with an almost eager gesture. Much amazed, he
-      went to her and offered the letter, saying kindly, &ldquo;I regret that I could
+      went to her and offered the letter, saying kindly, “I regret that I could
       not deliver it. Lady Sydney is in the country, and I did not like to post
-      it without your leave. Did I do right?&rdquo;
+      it without your leave. Did I do right?”
      </p>
-    <p>
-      &ldquo;Quite right, thank you very much&mdash;it is better so.&rdquo; And with an air
+<p>
+      “Quite right, thank you very much—it is better so.” And with an air
       of relief, she tore the letter to atoms, and scattered them to the wind.
     </p>
-    <p>
+<p>
       More amazed than ever, the young man was about to leave her when she said,
-      with a mixture of entreaty and command, &ldquo;Please stay a moment. I want to
-      speak to you.&rdquo;
+      with a mixture of entreaty and command, “Please stay a moment. I want to
+      speak to you.”
      </p>
-    <p>
+<p>
       He paused, eyeing her with visible surprise, for a sudden color dyed her
       cheeks, and her lips trembled. Only for a moment, then she was quite
       self-possessed again. Motioning him to the seat she had left, she remained
       standing while she said, in a low, rapid tone full of pain and of
       decision:
     </p>
-    <p>
-      &ldquo;Mr. Coventry, as the head of the house I want to speak to you, rather
+<p>
+      “Mr. Coventry, as the head of the house I want to speak to you, rather
       than to your mother, of a most unhappy affair which has occurred during
       your absence. My month of probation ends today; your mother wishes me to
       remain; I, too, wish it sincerely, for I am happy here, but I ought not.
-      Read this, and you will see why.&rdquo;
+      Read this, and you will see why.”
      </p>
-    <p>
+<p>
       She put a hastily written note into his hand and watched him intently
       while he read it. She saw him flush with anger, bite his lips, and knit
       his brows, then assume his haughtiest look, as he lifted his eyes and said
-      in his most sarcastic tone, &ldquo;Very well for a beginning. The boy has
+      in his most sarcastic tone, “Very well for a beginning. The boy has
       eloquence. Pity that it should be wasted. May I ask if you have replied to
-      this rhapsody?&rdquo;
+      this rhapsody?”
      </p>
-    <p>
-      &ldquo;I have.&rdquo;
+<p>
+      “I have.”
      </p>
-    <p>
-      &ldquo;And what follows? He begs you &lsquo;to fly with him, to share his fortunes,
-      and be the good angel of his life.&rsquo; Of course you consent?&rdquo;
+<p>
+      “And what follows? He begs you ‘to fly with him, to share his fortunes,
+      and be the good angel of his life.’ Of course you consent?”
      </p>
-    <p>
+<p>
       There was no answer, for, standing erect before him, Miss Muir regarded
       him with an expression of proud patience, like one who expected
       reproaches, yet was too generous to resent them. Her manner had its
-      effect. Dropping his bitter tone, Coventry asked briefly, &ldquo;Why do you show
-      me this? What can I do?&rdquo;
+      effect. Dropping his bitter tone, Coventry asked briefly, “Why do you show
+      me this? What can I do?”
      </p>
-    <p>
-      &ldquo;I show it that you may see how much in earnest &lsquo;the boy&rsquo; is, and how open
+<p>
+      “I show it that you may see how much in earnest ‘the boy’ is, and how open
       I desire to be. You can control, advise, and comfort your brother, and
-      help me to see what is my duty.&rdquo;
+      help me to see what is my duty.”
      </p>
-    <p>
-      &ldquo;You love him?&rdquo; demanded Coventry bluntly.
+<p>
+      “You love him?” demanded Coventry bluntly.
     </p>
-    <p>
-      &ldquo;No!&rdquo; was the quick, decided answer.
+<p>
+      “No!” was the quick, decided answer.
     </p>
-    <p>
-      &ldquo;Then why make him love you?&rdquo;
+<p>
+      “Then why make him love you?”
      </p>
-    <p>
-      &ldquo;I never tried to do it. Your sister will testify that I have endeavored
-      to avoid him as I&mdash;&rdquo; And he finished the sentence with an unconscious
-      tone of pique, &ldquo;As you have avoided me.&rdquo;
+<p>
+      “I never tried to do it. Your sister will testify that I have endeavored
+      to avoid him as I—” And he finished the sentence with an unconscious
+      tone of pique, “As you have avoided me.”
      </p>
-    <p>
+<p>
       She bowed silently, and he went on:
     </p>
-    <p>
-      &ldquo;I will do you the justice to say that nothing can be more blameless than
+<p>
+      “I will do you the justice to say that nothing can be more blameless than
       your conduct toward myself; but why allow Ned to haunt you evening after
       evening? What could you expect of a romantic boy who had nothing to do but
-      lose his heart to the first attractive woman he met?&rdquo;
+      lose his heart to the first attractive woman he met?”
      </p>
-    <p>
-      A momentary glisten shone in Jean Muir&rsquo;s steel-blue eyes as the last words
-      left the young man&rsquo;s lips; but it was gone instantly, and her voice was
-      full of reproach, as she said, steadily, impulsively, &ldquo;If the &lsquo;romantic
-      boy&rsquo; had been allowed to lead the life of a man, as he longed to do, he
+<p>
+      A momentary glisten shone in Jean Muir’s steel-blue eyes as the last words
+      left the young man’s lips; but it was gone instantly, and her voice was
+      full of reproach, as she said, steadily, impulsively, “If the ‘romantic
+      boy’ had been allowed to lead the life of a man, as he longed to do, he
       would have had no time to lose his heart to the first sorrowful girl whom
       he pitied. Mr. Coventry, the fault is yours. Do not blame your brother,
       but generously own your mistake and retrieve it in the speediest, kindest
-      manner.&rdquo;
+      manner.”
      </p>
-    <p>
+<p>
       For an instant Gerald sat dumb. Never since his father died had anyone
       reproved him; seldom in his life had he been blamed. It was a new
       experience, and the very novelty added to the effect. He saw his fault,
       regretted it, and admired the brave sincerity of the girl in telling him
       of it. But he did not know how to deal with the case, and was forced to
       confess not only past negligence but present incapacity. He was as
-      honorable as he was proud, and with an effort he said frankly, &ldquo;You are
+      honorable as he was proud, and with an effort he said frankly, “You are
       right, Miss Muir. I <i>am</i> to blame, yet as soon as I saw the danger, I
-      tried to avert it. My visit to town was on Ned&rsquo;s account; he will have his
-      commission very soon, and then he will be sent out of harm&rsquo;s way. Can I do
-      more?&rdquo;
+      tried to avert it. My visit to town was on Ned’s account; he will have his
+      commission very soon, and then he will be sent out of harm’s way. Can I do
+      more?”
      </p>
-    <p>
-      &ldquo;No, it is too late to send him away with a free and happy heart. He must
-      bear his pain as he can, and it may help to make a man of him,&rdquo; she said
+<p>
+      “No, it is too late to send him away with a free and happy heart. He must
+      bear his pain as he can, and it may help to make a man of him,” she said
       sadly.
     </p>
-    <p>
-      &ldquo;He&rsquo;ll soon forget,&rdquo; began Coventry, who found the thought of gay Ned
+<p>
+      “He’ll soon forget,” began Coventry, who found the thought of gay Ned
       suffering an uncomfortable one.
     </p>
-    <p>
-      &ldquo;Yes, thank heaven, that is possible, for men.&rdquo;
+<p>
+      “Yes, thank heaven, that is possible, for men.”
      </p>
-    <p>
+<p>
       Miss Muir pressed her hands together, with a dark expression on her
       half-averted face. Something in her tone, her manner, touched Coventry; he
       fancied that some old wound bled, some bitter memory awoke at the approach
@@ -1614,122 +1650,122 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       pitied her, desired to help her, and regretted his past distrust, as a
       chivalrous man always regrets injustice to a woman. She was happy here,
       poor, homeless soul, and she should stay. Bella loved her, his mother took
-      comfort in her, and when Ned was gone, no one&rsquo;s peace would be endangered
+      comfort in her, and when Ned was gone, no one’s peace would be endangered
       by her winning ways, her rich accomplishments. These thoughts swept
       through his mind during a brief pause, and when he spoke, it was to say
       gently:
     </p>
-    <p>
-      &ldquo;Miss Muir, I thank you for the frankness which must have been painful to
+<p>
+      “Miss Muir, I thank you for the frankness which must have been painful to
       you, and I will do my best to be worthy of the confidence which you repose
       in me. You were both discreet and kind to speak only to me. This thing
       would have troubled my mother extremely, and have done no good. I shall
       see Ned, and try and repair my long neglect as promptly as possible. I
       know you will help me, and in return let me beg of you to remain, for he
-      will soon be gone.&rdquo;
+      will soon be gone.”
      </p>
-    <p>
+<p>
       She looked at him with eyes full of tears, and there was no coolness in
-      the voice that answered softly, &ldquo;You are too kind, but I had better go; it
-      is not wise to stay.&rdquo;
+      the voice that answered softly, “You are too kind, but I had better go; it
+      is not wise to stay.”
      </p>
-    <p>
-      &ldquo;Why not?&rdquo;
+<p>
+      “Why not?”
      </p>
-    <p>
+<p>
       She colored beautifully, hesitated, then spoke out in the clear, steady
-      voice which was her greatest charm, &ldquo;If I had known there were sons in
+      voice which was her greatest charm, “If I had known there were sons in
       this family, I never should have come. Lady Sydney spoke only of your
-      sister, and when I found two gentlemen, I was troubled, because&mdash;I am
-      so unfortunate&mdash;or rather, people are so kind as to like me more than
+      sister, and when I found two gentlemen, I was troubled, because—I am
+      so unfortunate—or rather, people are so kind as to like me more than
       I deserve. I thought I could stay a month, at least, as your brother spoke
-      of going away, and you were already affianced, but&mdash;&rdquo;
+      of going away, and you were already affianced, but—”
      </p>
-    <p>
-      &ldquo;I am not affianced.&rdquo;
+<p>
+      “I am not affianced.”
      </p>
-    <p>
+<p>
       Why he said that, Coventry could not tell, but the words passed his lips
       hastily and could not be recalled. Jean Muir took the announcement oddly
       enough. She shrugged her shoulders with an air of extreme annoyance, and
-      said almost rudely, &ldquo;Then you should be; you will be soon. But that is
+      said almost rudely, “Then you should be; you will be soon. But that is
       nothing to me. Miss Beaufort wishes me gone, and I am too proud to remain
       and become the cause of disunion in a happy family. No, I will go, and go
-      at once.&rdquo;
+      at once.”
      </p>
-    <p>
-      She turned away impetuously, but Edward&rsquo;s arm detained her, and Edward&rsquo;s
-      voice demanded, tenderly, &ldquo;Where will you go, my Jean?&rdquo;
+<p>
+      She turned away impetuously, but Edward’s arm detained her, and Edward’s
+      voice demanded, tenderly, “Where will you go, my Jean?”
      </p>
-    <p>
+<p>
       The tender touch and name seemed to rob her of her courage and calmness,
       for, leaning on her lover, she hid her face and sobbed audibly.
     </p>
-    <p>
-      &ldquo;Now don&rsquo;t make a scene, for heaven&rsquo;s sake,&rdquo; began Coventry impatiently,
+<p>
+      “Now don’t make a scene, for heaven’s sake,” began Coventry impatiently,
       as his brother eyed him fiercely, divining at once what had passed, for
-      his letter was still in Gerald&rsquo;s hand and Jean&rsquo;s last words had reached
-      her lover&rsquo;s ear.
+      his letter was still in Gerald’s hand and Jean’s last words had reached
+      her lover’s ear.
     </p>
-    <p>
-      &ldquo;Who gave you the right to read that, and to interfere in my affairs?&rdquo;
+<p>
+      “Who gave you the right to read that, and to interfere in my affairs?”
        demanded Edward hotly.
     </p>
-    <p>
-      &ldquo;Miss Muir&rdquo; was the reply, as Coventry threw away the paper.
+<p>
+      “Miss Muir” was the reply, as Coventry threw away the paper.
     </p>
-    <p>
-      &ldquo;And you add to the insult by ordering her out of the house,&rdquo; cried Ned
+<p>
+      “And you add to the insult by ordering her out of the house,” cried Ned
       with increasing wrath.
     </p>
-    <p>
-      &ldquo;On the contrary, I beg her to remain.&rdquo;
+<p>
+      “On the contrary, I beg her to remain.”
      </p>
-    <p>
-      &ldquo;The deuce you do! And why?&rdquo;
+<p>
+      “The deuce you do! And why?”
      </p>
-    <p>
-      &ldquo;Because she is useful and happy here, and I am unwilling that your folly
-      should rob her of a home which she likes.&rdquo;
+<p>
+      “Because she is useful and happy here, and I am unwilling that your folly
+      should rob her of a home which she likes.”
      </p>
-    <p>
-      &ldquo;You are very thoughtful and devoted all at once, but I beg you will not
-      trouble yourself. Jean&rsquo;s happiness and home will be my care now.&rdquo;
+<p>
+      “You are very thoughtful and devoted all at once, but I beg you will not
+      trouble yourself. Jean’s happiness and home will be my care now.”
      </p>
-    <p>
-      &ldquo;My dear boy, do be reasonable. The thing is impossible. Miss Muir sees it
+<p>
+      “My dear boy, do be reasonable. The thing is impossible. Miss Muir sees it
       herself; she came to tell me, to ask how best to arrange matters without
-      troubling my mother. I&rsquo;ve been to town to attend to your affairs, and you
-      may be off now very soon.&rdquo;
+      troubling my mother. I’ve been to town to attend to your affairs, and you
+      may be off now very soon.”
      </p>
-    <p>
-      &ldquo;I have no desire to go. Last month it was the wish of my heart. Now I&rsquo;ll
-      accept nothing from you.&rdquo; And Edward turned moodily away from his brother.
+<p>
+      “I have no desire to go. Last month it was the wish of my heart. Now I’ll
+      accept nothing from you.” And Edward turned moodily away from his brother.
     </p>
-    <p>
-      &ldquo;What folly! Ned, you <i>must</i> leave home. It is all arranged and
+<p>
+      “What folly! Ned, you <i>must</i> leave home. It is all arranged and
       cannot be given up now. A change is what you need, and it will make a man
-      of you. We shall miss you, of course, but you will be where you&rsquo;ll see
+      of you. We shall miss you, of course, but you will be where you’ll see
       something of life, and that is better for you than getting into mischief
-      here.&rdquo;
+      here.”
      </p>
-    <p>
-      &ldquo;Are you going away, Jean?&rdquo; asked Edward, ignoring his brother entirely
+<p>
+      “Are you going away, Jean?” asked Edward, ignoring his brother entirely
       and bending over the girl, who still hid her face and wept. She did not
       speak, and Gerald answered for her.
     </p>
-    <p>
-      &ldquo;No, why should she if you are gone?&rdquo;
+<p>
+      “No, why should she if you are gone?”
      </p>
-    <p>
-      &ldquo;Do you mean to stay?&rdquo; asked the lover eagerly of Jean.
+<p>
+      “Do you mean to stay?” asked the lover eagerly of Jean.
     </p>
-    <p>
-      &ldquo;I wish to remain, but&mdash;&rdquo; She paused and looked up. Her eyes went
-      from one face to the other, and she added, decidedly, &ldquo;Yes, I must go, it
-      is not wise to stay even when you are gone.&rdquo;
+<p>
+      “I wish to remain, but—” She paused and looked up. Her eyes went
+      from one face to the other, and she added, decidedly, “Yes, I must go, it
+      is not wise to stay even when you are gone.”
      </p>
-    <p>
+<p>
       Neither of the young men could have explained why that hurried glance
       affected them as it did, but each felt conscious of a willful desire to
       oppose the other. Edward suddenly felt that his brother loved Miss Muir,
@@ -1738,62 +1774,62 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       he was quite safe. Each felt angry, and each showed it in a different way,
       one being violent, the other satirical.
     </p>
-    <p>
-      &ldquo;You are right, Jean, this is not the place for you; and you must let me
-      see you in a safer home before I go,&rdquo; said Ned, significantly.
+<p>
+      “You are right, Jean, this is not the place for you; and you must let me
+      see you in a safer home before I go,” said Ned, significantly.
     </p>
-    <p>
-      &ldquo;It strikes me that this will be a particularly safe home when your
-      dangerous self is removed,&rdquo; began Coventry, with an aggravating smile of
+<p>
+      “It strikes me that this will be a particularly safe home when your
+      dangerous self is removed,” began Coventry, with an aggravating smile of
       calm superiority.
     </p>
-    <p>
-      &ldquo;And <i>I</i> think that I leave a more dangerous person than myself
-      behind me, as poor Lucia can testify.&rdquo;
+<p>
+      “And <i>I</i> think that I leave a more dangerous person than myself
+      behind me, as poor Lucia can testify.”
      </p>
-    <p>
-      &ldquo;Be careful what you say, Ned, or I shall be forced to remind you that I
-      am master here. Leave Lucia&rsquo;s name out of this disagreeable affair, if you
-      please.&rdquo;
+<p>
+      “Be careful what you say, Ned, or I shall be forced to remind you that I
+      am master here. Leave Lucia’s name out of this disagreeable affair, if you
+      please.”
      </p>
-    <p>
-      &ldquo;You <i>are</i> master here, but not of me, or my actions, and you have no
+<p>
+      “You <i>are</i> master here, but not of me, or my actions, and you have no
       right to expect obedience or respect, for you inspire neither. Jean, I
       asked you to go with me secretly; now I ask you openly to share my
-      fortune. In my brother&rsquo;s presence I ask, and <i>will</i> have an answer.&rdquo;
+      fortune. In my brother’s presence I ask, and <i>will</i> have an answer.”
      </p>
-    <p>
+<p>
       He caught her hand impetuously, with a defiant look at Coventry, who still
-      smiled, as if at boy&rsquo;s play, though his eyes were kindling and his face
+      smiled, as if at boy’s play, though his eyes were kindling and his face
       changing with the still, white wrath which is more terrible than any
       sudden outburst. Miss Muir looked frightened; she shrank away from her
       passionate young lover, cast an appealing glance at Gerald, and seemed as
       if she longed to claim his protection yet dared not.
     </p>
-    <p>
-      &ldquo;Speak!&rdquo; cried Edward, desperately. &ldquo;Don&rsquo;t look to him, tell me truly,
-      with your own lips, do you, can you love me, Jean?&rdquo;
+<p>
+      “Speak!” cried Edward, desperately. “Don’t look to him, tell me truly,
+      with your own lips, do you, can you love me, Jean?”
      </p>
-    <p>
-      &ldquo;I have told you once. Why pain me by forcing another hard reply,&rdquo; she
+<p>
+      “I have told you once. Why pain me by forcing another hard reply,” she
       said pitifully, still shrinking from his grasp and seeming to appeal to
       his brother.
     </p>
-    <p>
-      &ldquo;You wrote a few lines, but I&rsquo;ll not be satisfied with that. You shall
-      answer; I&rsquo;ve seen love in your eyes, heard it in your voice, and I know it
+<p>
+      “You wrote a few lines, but I’ll not be satisfied with that. You shall
+      answer; I’ve seen love in your eyes, heard it in your voice, and I know it
       is hidden in your heart. You fear to own it; do not hesitate, no one can
-      part us&mdash;speak, Jean, and satisfy me.&rdquo;
+      part us—speak, Jean, and satisfy me.”
      </p>
-    <p>
+<p>
       Drawing her hand decidedly away, she went a step nearer Coventry, and
       answered, slowly, distinctly, though her lips trembled, and she evidently
-      dreaded the effect of her words, &ldquo;I will speak, and speak truly. You have
+      dreaded the effect of her words, “I will speak, and speak truly. You have
       seen love in my face; it is in my heart, and I do not hesitate to own it,
       cruel as it is to force the truth from me, but this love is not for you.
-      Are you satisfied?&rdquo;
+      Are you satisfied?”
      </p>
-    <p>
+<p>
       He looked at her with a despairing glance and stretched his hand toward
       her beseechingly. She seemed to fear a blow, for suddenly she clung to
       Gerald with a faint cry. The act, the look of fear, the protecting gesture
@@ -1808,23 +1844,23 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       severed. Edward stood aghast, for with the blow his fury passed, leaving
       him overwhelmed with remorse and shame.
     </p>
-    <p>
+<p>
       Gerald looked up at him, smiled faintly, and said, with no sign of
-      reproach or anger, &ldquo;Never mind, Ned. Forgive and forget. Lend me a hand to
-      the house, and don&rsquo;t disturb anyone. It&rsquo;s not much, I dare say.&rdquo; But his
+      reproach or anger, “Never mind, Ned. Forgive and forget. Lend me a hand to
+      the house, and don’t disturb anyone. It’s not much, I dare say.” But his
       lips whitened as he spoke, and his strength failed him. Edward sprang to
       support him, and Miss Muir, forgetting her terrors, proved herself a girl
       of uncommon skill and courage.
     </p>
-    <p>
-      &ldquo;Quick! Lay him down. Give me your handkerchief, and bring some water,&rdquo;
+<p>
+      “Quick! Lay him down. Give me your handkerchief, and bring some water,”
        she said, in a tone of quiet command. Poor Ned obeyed and watched her with
       breathless suspense while she tied the handkerchief tightly around the
       arm, thrust the handle of his riding whip underneath, and pressed it
       firmly above the severed artery to stop the dangerous flow of blood.
     </p>
-    <p>
-      &ldquo;Dr. Scott is with your mother, I think. Go and bring him here&rdquo; was the
+<p>
+      “Dr. Scott is with your mother, I think. Go and bring him here” was the
       next order; and Edward darted away, thankful to do anything to ease the
       terror which possessed him. He was gone some minutes, and while they
       waited Coventry watched the girl as she knelt beside him, bathing his face
@@ -1832,193 +1868,193 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       place. She was pale, but quite steady and self-possessed, and her eyes
       shone with a strange brilliancy as she looked down at him. Once, meeting
       his look of grateful wonder, she smiled a reassuring smile that made her
-      lovely, and said, in a soft, sweet tone never used to him before, &ldquo;Be
-      quiet. There is no danger. I will stay by you till help comes.&rdquo;
+      lovely, and said, in a soft, sweet tone never used to him before, “Be
+      quiet. There is no danger. I will stay by you till help comes.”
      </p>
-    <p>
-      Help did come speedily, and the doctor&rsquo;s first words were &ldquo;Who improvised
-      that tourniquet?&rdquo;
+<p>
+      Help did come speedily, and the doctor’s first words were “Who improvised
+      that tourniquet?”
      </p>
-    <p>
-      &ldquo;She did,&rdquo; murmured Coventry.
+<p>
+      “She did,” murmured Coventry.
     </p>
-    <p>
-      &ldquo;Then you may thank her for saving your life. By Jove! It was capitally
-      done&rdquo;; and the old doctor looked at the girl with as much admiration as
+<p>
+      “Then you may thank her for saving your life. By Jove! It was capitally
+      done”; and the old doctor looked at the girl with as much admiration as
       curiosity in his face.
     </p>
-    <p>
-      &ldquo;Never mind that. See to the wound, please, while I ran for bandages, and
-      salts, and wine.&rdquo;
+<p>
+      “Never mind that. See to the wound, please, while I ran for bandages, and
+      salts, and wine.”
      </p>
-    <p>
+<p>
       Miss Muir was gone as she spoke, so fleetly that it was in vain to call
       her back or catch her. During her brief absence, the story was told by
       repentant Ned and the wound examined.
     </p>
-    <p>
-      &ldquo;Fortunately I have my case of instruments with me,&rdquo; said the doctor,
+<p>
+      “Fortunately I have my case of instruments with me,” said the doctor,
       spreading on the bench a long array of tiny, glittering implements of
-      torture. &ldquo;Now, Mr. Ned, come here, and hold the arm in that way, while I
-      tie the artery. Hey! That will never do. Don&rsquo;t tremble so, man, look away
-      and hold it steadily.&rdquo;
+      torture. “Now, Mr. Ned, come here, and hold the arm in that way, while I
+      tie the artery. Hey! That will never do. Don’t tremble so, man, look away
+      and hold it steadily.”
      </p>
-    <p>
-      &ldquo;I can&rsquo;t!&rdquo; And poor Ned turned faint and white, not at the sight but with
+<p>
+      “I can’t!” And poor Ned turned faint and white, not at the sight but with
       the bitter thought that he had longed to kill his brother.
     </p>
-    <p>
-      &ldquo;I will hold it,&rdquo; and a slender white hand lifted the bare and bloody arm
+<p>
+      “I will hold it,” and a slender white hand lifted the bare and bloody arm
       so firmly, steadily, that Coventry sighed a sigh of relief, and Dr. Scott
       fell to work with an emphatic nod of approval.
     </p>
-    <p>
+<p>
       It was soon over, and while Edward ran in to bid the servants beware of
       alarming their mistress, Dr. Scott put up his instruments and Miss Muir
       used salts, water, and wine so skillfully that Gerald was able to walk to
       his room, leaning on the old man, while the girl supported the wounded
       arm, as no sling could be made on the spot. As he entered the chamber,
       Coventry turned, put out his left hand, and with much feeling in his fine
-      eyes said simply, &ldquo;Miss Muir, I thank you.&rdquo;
+      eyes said simply, “Miss Muir, I thank you.”
      </p>
-    <p>
+<p>
       The color came up beautifully in her pale cheeks as she pressed the hand
       and without a word vanished from the room. Lucia and the housekeeper came
       bustling in, and there was no lack of attendance on the invalid. He soon
       wearied of it, and sent them all away but Ned, who remorsefully haunted
       the chamber, looking like a comely young Cain and feeling like an outcast.
     </p>
-    <p>
-      &ldquo;Come here, lad, and tell me all about it. I was wrong to be domineering.
+<p>
+      “Come here, lad, and tell me all about it. I was wrong to be domineering.
       Forgive me, and believe that I care for your happiness more sincerely than
-      for my own.&rdquo;
+      for my own.”
      </p>
-    <p>
+<p>
       These frank and friendly words healed the breach between the two brothers
       and completely conquered Ned. Gladly did he relate his love passages, for
       no young lover ever tires of that amusement if he has a sympathizing
       auditor, and Gerald <i>was</i> sympathetic now. For an hour did he lie
-      listening patiently to the history of the growth of his brother&rsquo;s passion.
-      Emotion gave the narrator eloquence, and Jean Muir&rsquo;s character was painted
+      listening patiently to the history of the growth of his brother’s passion.
+      Emotion gave the narrator eloquence, and Jean Muir’s character was painted
       in glowing colors. All her unsuspected kindness to those about her was
       dwelt upon; all her faithful care, her sisterly interest in Bella, her
       gentle attentions to their mother, her sweet forbearance with Lucia, who
       plainly showed her dislike, and most of all, her friendly counsel,
       sympathy, and regard for Ned himself.
     </p>
-    <p>
-      &ldquo;She would make a man of me. She puts strength and courage into me as no
-      one else can. She is unlike any girl I ever saw; there&rsquo;s no sentimentality
+<p>
+      “She would make a man of me. She puts strength and courage into me as no
+      one else can. She is unlike any girl I ever saw; there’s no sentimentality
       about her; she is wise, and kind, and sweet. She says what she means,
-      looks you straight in the eye, and is as true as steel. I&rsquo;ve tried her, I
-      know her, and&mdash;ah, Gerald, I love her so!&rdquo;
+      looks you straight in the eye, and is as true as steel. I’ve tried her, I
+      know her, and—ah, Gerald, I love her so!”
      </p>
-    <p>
+<p>
       Here the poor lad leaned his face into his hands and sighed a sigh that
-      made his brother&rsquo;s heart ache.
+      made his brother’s heart ache.
     </p>
-    <p>
-      &ldquo;Upon my soul, Ned, I feel for you; and if there was no obstacle on her
-      part, I&rsquo;d do my best for you. She loves Sydney, and so there is nothing
-      for it but to bear your fate like a man.&rdquo;
+<p>
+      “Upon my soul, Ned, I feel for you; and if there was no obstacle on her
+      part, I’d do my best for you. She loves Sydney, and so there is nothing
+      for it but to bear your fate like a man.”
      </p>
-    <p>
-      &ldquo;Are you sure about Sydney? May it not be some one else?&rdquo; and Ned eyed his
+<p>
+      “Are you sure about Sydney? May it not be some one else?” and Ned eyed his
       brother with a suspicious look.
     </p>
-    <p>
+<p>
       Coventry told him all he knew and surmised concerning his friend, not
       forgetting the letter. Edward mused a moment, then seemed relieved, and
-      said frankly, &ldquo;I&rsquo;m glad it&rsquo;s Sydney and not you. I can bear it better.&rdquo;
+      said frankly, “I’m glad it’s Sydney and not you. I can bear it better.”
      </p>
-    <p>
-      &ldquo;Me!&rdquo; ejaculated Gerald, with a laugh.
+<p>
+      “Me!” ejaculated Gerald, with a laugh.
     </p>
-    <p>
-      &ldquo;Yes, you; I&rsquo;ve been tormented lately with a fear that you cared for her,
-      or rather, she for you.&rdquo;
+<p>
+      “Yes, you; I’ve been tormented lately with a fear that you cared for her,
+      or rather, she for you.”
      </p>
-    <p>
-      &ldquo;You jealous young fool! We never see or speak to one another scarcely, so
-      how could we get up a tender interest?&rdquo;
+<p>
+      “You jealous young fool! We never see or speak to one another scarcely, so
+      how could we get up a tender interest?”
      </p>
-    <p>
-      &ldquo;What do you lounge about on that terrace for every evening? And why does
-      she get fluttered when your shadow begins to come and go?&rdquo; demanded
+<p>
+      “What do you lounge about on that terrace for every evening? And why does
+      she get fluttered when your shadow begins to come and go?” demanded
       Edward.
     </p>
-    <p>
-      &ldquo;I like the music and don&rsquo;t care for the society of the singer, that&rsquo;s why
-      I walk there. The fluttering is all your imagination; Miss Muir isn&rsquo;t a
-      woman to be fluttered by a man&rsquo;s shadow.&rdquo; And Coventry glanced at his
+<p>
+      “I like the music and don’t care for the society of the singer, that’s why
+      I walk there. The fluttering is all your imagination; Miss Muir isn’t a
+      woman to be fluttered by a man’s shadow.” And Coventry glanced at his
       useless arm.
     </p>
-    <p>
-      &ldquo;Thank you for that, and for not saying &lsquo;little Muir,&rsquo; as you generally
+<p>
+      “Thank you for that, and for not saying ‘little Muir,’ as you generally
       do. Perhaps it was my imagination. But she never makes fun of you now, and
-      so I fancied she might have lost her heart to the &lsquo;young master.&rsquo; Women
-      often do, you know.&rdquo;
+      so I fancied she might have lost her heart to the ‘young master.’ Women
+      often do, you know.”
      </p>
-    <p>
-      &ldquo;She used to ridicule me, did she?&rdquo; asked Coventry, taking no notice of
-      the latter part of his brother&rsquo;s speech, which was quite true
+<p>
+      “She used to ridicule me, did she?” asked Coventry, taking no notice of
+      the latter part of his brother’s speech, which was quite true
       nevertheless.
     </p>
-    <p>
-      &ldquo;Not exactly, she was too well-bred for that. But sometimes when Bella and
-      I joked about you, she&rsquo;d say something so odd or witty that it was
-      irresistible. You&rsquo;re used to being laughed at, so you don&rsquo;t mind, I know,
-      just among ourselves.&rdquo;
+<p>
+      “Not exactly, she was too well-bred for that. But sometimes when Bella and
+      I joked about you, she’d say something so odd or witty that it was
+      irresistible. You’re used to being laughed at, so you don’t mind, I know,
+      just among ourselves.”
      </p>
-    <p>
-      &ldquo;Not I. Laugh away as much as you like,&rdquo; said Gerald. But he did mind, and
+<p>
+      “Not I. Laugh away as much as you like,” said Gerald. But he did mind, and
       wanted exceedingly to know what Miss Muir had said, yet was too proud to
       ask. He turned restlessly and uttered a sigh of pain.
     </p>
-    <p>
-      &ldquo;I&rsquo;m talking too much; it&rsquo;s bad for you. Dr. Scott said you must be quiet.
-      Now go to sleep, if you can.&rdquo;
+<p>
+      “I’m talking too much; it’s bad for you. Dr. Scott said you must be quiet.
+      Now go to sleep, if you can.”
      </p>
-    <p>
+<p>
       Edward left the bedside but not the room, for he would let no one take his
       place. Coventry tried to sleep, found it impossible, and after a restless
       hour called his brother back.
     </p>
-    <p>
-      &ldquo;If the bandage was loosened a bit, it would ease my arm and then I could
-      sleep. Can you do it, Ned?&rdquo;
+<p>
+      “If the bandage was loosened a bit, it would ease my arm and then I could
+      sleep. Can you do it, Ned?”
      </p>
-    <p>
-      &ldquo;I dare not touch it. The doctor gave orders to leave it till he came in
-      the morning, and I shall only do harm if I try.&rdquo;
+<p>
+      “I dare not touch it. The doctor gave orders to leave it till he came in
+      the morning, and I shall only do harm if I try.”
      </p>
-    <p>
-      &ldquo;But I tell you it&rsquo;s too tight. My arm is swelling and the pain is
-      intense. It can&rsquo;t be right to leave it so. Dr. Scott dressed it in a hurry
-      and did it too tight. Common sense will tell you that,&rdquo; said Coventry
+<p>
+      “But I tell you it’s too tight. My arm is swelling and the pain is
+      intense. It can’t be right to leave it so. Dr. Scott dressed it in a hurry
+      and did it too tight. Common sense will tell you that,” said Coventry
       impatiently.
     </p>
-    <p>
-      &ldquo;I&rsquo;ll call Mrs. Morris; she will understand what&rsquo;s best to be done.&rdquo; And
+<p>
+      “I’ll call Mrs. Morris; she will understand what’s best to be done.” And
       Edward moved toward the door, looking anxious.
     </p>
-    <p>
-      &ldquo;Not she, she&rsquo;ll only make a stir and torment me with her chatter. I&rsquo;ll
+<p>
+      “Not she, she’ll only make a stir and torment me with her chatter. I’ll
       bear it as long as I can, and perhaps Dr. Scott will come tonight. He said
       he would if possible. Go to your dinner, Ned. I can ring for Neal if I
-      need anything. I shall sleep if I&rsquo;m alone, perhaps.&rdquo;
+      need anything. I shall sleep if I’m alone, perhaps.”
      </p>
-    <p>
+<p>
       Edward reluctantly obeyed, and his brother was left to himself. Little
       rest did he find, however, for the pain of the wounded arm grew
       unbearable, and, taking a sudden resolution, he rang for his servant.
     </p>
-    <p>
-      &ldquo;Neal, go to Miss Coventry&rsquo;s study, and if Miss Muir is there, ask her to
-      be kind enough to come to me. I&rsquo;m in great pain, and she understand wounds
-      better than anyone else in the house.&rdquo;
+<p>
+      “Neal, go to Miss Coventry’s study, and if Miss Muir is there, ask her to
+      be kind enough to come to me. I’m in great pain, and she understand wounds
+      better than anyone else in the house.”
      </p>
-    <p>
+<p>
       With much surprise in his face, the man departed and a few moments after
       the door noiselessly opened and Miss Muir came in. It had been a very warm
       day, and for the first time she had left off her plain black dress. All in
@@ -2029,63 +2065,63 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       no longer wore the firm look of one who forcibly repressed every emotion.
       A fresh, gentle, and charming woman she seemed, and Coventry found the
       dull room suddenly brightened by her presence. Going straight to him, she
-      said simply, and with a happy, helpful look very comforting to see, &ldquo;I&rsquo;m
-      glad you sent for me. What can I do for you?&rdquo;
+      said simply, and with a happy, helpful look very comforting to see, “I’m
+      glad you sent for me. What can I do for you?”
      </p>
-    <p>
+<p>
       He told her, and before the complaint was ended, she began loosening the
       bandages with the decision of one who understood what was to be done and
       had faith in herself.
     </p>
-    <p>
-      &ldquo;Ah, that&rsquo;s relief, that&rsquo;s comfort!&rdquo; ejaculated Coventry, as the last
-      tight fold fell away. &ldquo;Ned was afraid I should bleed to death if he
-      touched me. What will the doctor say to us?&rdquo;
+<p>
+      “Ah, that’s relief, that’s comfort!” ejaculated Coventry, as the last
+      tight fold fell away. “Ned was afraid I should bleed to death if he
+      touched me. What will the doctor say to us?”
      </p>
-    <p>
-      &ldquo;I neither know nor care. I shall say to him that he is a bad surgeon to
+<p>
+      “I neither know nor care. I shall say to him that he is a bad surgeon to
       bind it so closely, and not leave orders to have it untied if necessary.
       Now I shall make it easy and put you to sleep, for that is what you need.
-      Shall I? May I?&rdquo;
+      Shall I? May I?”
      </p>
-    <p>
-      &ldquo;I wish you would, if you can.&rdquo;
+<p>
+      “I wish you would, if you can.”
      </p>
-    <p>
+<p>
       And while she deftly rearranged the bandages, the young man watched her
-      curiously. Presently he asked, &ldquo;How came you to know so much about these
-      things?&rdquo;
+      curiously. Presently he asked, “How came you to know so much about these
+      things?”
      </p>
-    <p>
-      &ldquo;In the hospital where I was ill, I saw much that interested me, and when
-      I got better, I used to sing to the patients sometimes.&rdquo;
+<p>
+      “In the hospital where I was ill, I saw much that interested me, and when
+      I got better, I used to sing to the patients sometimes.”
      </p>
-    <p>
-      &ldquo;Do you mean to sing to me?&rdquo; he asked, in the submissive tone men
-      unconsciously adopt when ill and in a woman&rsquo;s care.
+<p>
+      “Do you mean to sing to me?” he asked, in the submissive tone men
+      unconsciously adopt when ill and in a woman’s care.
     </p>
-    <p>
-      &ldquo;If you like it better than reading aloud in a dreamy tone,&rdquo; she answered,
+<p>
+      “If you like it better than reading aloud in a dreamy tone,” she answered,
       as she tied the last knot.
     </p>
-    <p>
-      &ldquo;I do, much better,&rdquo; he said decidedly.
+<p>
+      “I do, much better,” he said decidedly.
     </p>
-    <p>
-      &ldquo;You are feverish. I shall wet your forehead, and then you will be quite
-      comfortable.&rdquo; She moved about the room in the quiet way which made it a
+<p>
+      “You are feverish. I shall wet your forehead, and then you will be quite
+      comfortable.” She moved about the room in the quiet way which made it a
       pleasure to watch her, and, having mingled a little cologne with water,
       bathed his face as unconcernedly as if he had been a child. Her
       proceedings not only comforted but amused Coventry, who mentally
       contrasted her with the stout, beer-drinking matron who had ruled over him
       in his last illness.
     </p>
-    <p>
-      &ldquo;A clever, kindly little woman,&rdquo; he thought, and felt quite at his ease,
+<p>
+      “A clever, kindly little woman,” he thought, and felt quite at his ease,
       she was so perfectly easy herself.
     </p>
-    <p>
-      &ldquo;There, now you look more like yourself,&rdquo; she said with an approving nod
+<p>
+      “There, now you look more like yourself,” she said with an approving nod
       as she finished, and smoothed the dark locks off his forehead with a cool,
       soft hand. Then seating herself in a large chair near by, she began to
       sing, while tidily rolling up the fresh bandages which had been left for
@@ -2095,53 +2131,53 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       effect of her song, she found the young man wide awake, and regarding her
       with a curious mixture of pleasure, interest, and admiration.
     </p>
-    <p>
-      &ldquo;Shut your eyes, Mr. Coventry,&rdquo; she said, with a reproving shake of the
+<p>
+      “Shut your eyes, Mr. Coventry,” she said, with a reproving shake of the
       head, and an odd little smile.
     </p>
-    <p>
+<p>
       He laughed and obeyed, but could not resist an occasional covert glance
       from under his lashes at the slender white figure in the great velvet
       chair. She saw him and frowned.
     </p>
-    <p>
-      &ldquo;You are very disobedient; why won&rsquo;t you sleep?&rdquo;
+<p>
+      “You are very disobedient; why won’t you sleep?”
      </p>
-    <p>
-      &ldquo;I can&rsquo;t, I want to listen. I&rsquo;m fond of nightingales.&rdquo;
+<p>
+      “I can’t, I want to listen. I’m fond of nightingales.”
      </p>
-    <p>
-      &ldquo;Then I shall sing no more, but try something that has never failed yet.
-      Give me your hand, please.&rdquo;
+<p>
+      “Then I shall sing no more, but try something that has never failed yet.
+      Give me your hand, please.”
      </p>
-    <p>
+<p>
       Much amazed, he gave it, and, taking it in both her small ones, she sat
       down behind the curtain and remained as mute and motionless as a statue.
       Coventry smiled to himself at first, and wondered which would tire first.
       But soon a subtle warmth seemed to steal from the soft palms that enclosed
       his own, his heart beat quicker, his breath grew unequal, and a thousand
       fancies danced through his brain. He sighed, and said dreamily, as he
-      turned his face toward her, &ldquo;I like this.&rdquo; And in the act of speaking,
+      turned his face toward her, “I like this.” And in the act of speaking,
       seemed to sink into a soft cloud which encompassed him about with an
       atmosphere of perfect repose. More than this he could not remember, for
       sleep, deep and dreamless, fell upon him, and when he woke, daylight was
       shining in between the curtains, his hand lay alone on the coverlet, and
       his fair-haired enchantress was gone.
     </p>
-    <p>
-      <br /><br />
-    </p>
-    <hr />
-    <p>
-      <a name="link2H_4_0004" id="link2H_4_0004"> </a>
-    </p>
-    <div style="height: 4em;">
-      <br /><br /><br /><br />
-    </div>
-    <h2>
-      <i>Chapter IV</i> A DISCOVERY
+<p>
+<br><br>
+</p>
+<hr>
+<p>
+<a id="link2H_4_0004"> </a>
+</p>
+<div style="height: 4em;">
+<br><br><br><br>
+</div>
+<h2>
+<i>Chapter IV</i> A DISCOVERY
     </h2>
-    <p>
+<p>
       For several days Coventry was confined to his room, much against his will,
       though everyone did their best to lighten his irksome captivity. His
       mother petted him, Bella sang, Lucia read, Edward was devoted, and all the
@@ -2155,53 +2191,53 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       Edward complained that he never saw her, and Lucia ignored her existence
       altogether. The only intelligence the invalid received was from the gossip
       of two housemaids over their work in the next room. From them he learned
-      that the governess had been &ldquo;scolded&rdquo; by Miss Beaufort for going to Mr.
-      Coventry&rsquo;s room; that she had taken it very sweetly and kept herself
+      that the governess had been “scolded” by Miss Beaufort for going to Mr.
+      Coventry’s room; that she had taken it very sweetly and kept herself
       carefully out of the way of both young gentlemen, though it was plain to
       see that Mr. Ned was dying for her.
     </p>
-    <p>
+<p>
       Mr. Gerald amused himself by thinking over this gossip, and quite annoyed
       his sister by his absence of mind.
     </p>
-    <p>
-      &ldquo;Gerald, do you know Ned&rsquo;s commission has come?&rdquo;
+<p>
+      “Gerald, do you know Ned’s commission has come?”
      </p>
-    <p>
-      &ldquo;Very interesting. Read on, Bella.&rdquo;
+<p>
+      “Very interesting. Read on, Bella.”
      </p>
-    <p>
-      &ldquo;You stupid boy! You don&rsquo;t know a word I say,&rdquo; and she put down the book
+<p>
+      “You stupid boy! You don’t know a word I say,” and she put down the book
       to repeat her news.
     </p>
-    <p>
-      &ldquo;I&rsquo;m glad of it; now we must get him off as soon as possible&mdash;that
-      is, I suppose he will want to be off as soon as possible.&rdquo; And Coventry
+<p>
+      “I’m glad of it; now we must get him off as soon as possible—that
+      is, I suppose he will want to be off as soon as possible.” And Coventry
       woke up from his reverie.
     </p>
-    <p>
-      &ldquo;You needn&rsquo;t check yourself, I know all about it. I think Ned was very
-      foolish, and that Miss Muir has behaved beautifully. It&rsquo;s quite
-      impossible, of course, but I wish it wasn&rsquo;t, I do so like to watch lovers.
-      You and Lucia are so cold you are not a bit interesting.&rdquo;
+<p>
+      “You needn’t check yourself, I know all about it. I think Ned was very
+      foolish, and that Miss Muir has behaved beautifully. It’s quite
+      impossible, of course, but I wish it wasn’t, I do so like to watch lovers.
+      You and Lucia are so cold you are not a bit interesting.”
      </p>
-    <p>
-      &ldquo;You&rsquo;ll do me a favor if you&rsquo;ll stop all that nonsense about Lucia and me.
-      We are not lovers, and never shall be, I fancy. At all events, I&rsquo;m tired
+<p>
+      “You’ll do me a favor if you’ll stop all that nonsense about Lucia and me.
+      We are not lovers, and never shall be, I fancy. At all events, I’m tired
       of the thing, and wish you and Mamma would let it drop, for the present at
-      least.&rdquo;
+      least.”
      </p>
-    <p>
-      &ldquo;Oh Gerald, you know Mamma has set her heart upon it, that Papa desired
+<p>
+      “Oh Gerald, you know Mamma has set her heart upon it, that Papa desired
       it, and poor Lucia loves you so much. How can you speak of dropping what
-      will make us all so happy?&rdquo;
+      will make us all so happy?”
      </p>
-    <p>
-      &ldquo;It won&rsquo;t make me happy, and I take the liberty of thinking that this is
-      of some importance. I&rsquo;m not bound in any way, and don&rsquo;t intend to be till
-      I am ready. Now we&rsquo;ll talk about Ned.&rdquo;
+<p>
+      “It won’t make me happy, and I take the liberty of thinking that this is
+      of some importance. I’m not bound in any way, and don’t intend to be till
+      I am ready. Now we’ll talk about Ned.”
      </p>
-    <p>
+<p>
       Much grieved and surprised, Bella obeyed, and devoted herself to Edward,
       who very wisely submitted to his fate and prepared to leave home for some
       months. For a week the house was in a state of excitement about his
@@ -2211,41 +2247,41 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       to Sir John, who found his wish granted without exactly knowing how it had
       been done.
     </p>
-    <p>
+<p>
       The day Edward left, he came down from bidding his mother good-bye,
-      looking very pale, for he had lingered in his sister&rsquo;s little room with
+      looking very pale, for he had lingered in his sister’s little room with
       Miss Muir as long as he dared.
     </p>
-    <p>
-      &ldquo;Good-bye, dear. Be kind to Jean,&rdquo; he whispered as he kissed his sister.
+<p>
+      “Good-bye, dear. Be kind to Jean,” he whispered as he kissed his sister.
     </p>
-    <p>
-      &ldquo;I will, I will,&rdquo; returned Bella, with tearful eyes.
+<p>
+      “I will, I will,” returned Bella, with tearful eyes.
     </p>
-    <p>
-      &ldquo;Take care of Mamma, and remember Lucia,&rdquo; he said again, as he touched his
-      cousin&rsquo;s beautiful cheek.
+<p>
+      “Take care of Mamma, and remember Lucia,” he said again, as he touched his
+      cousin’s beautiful cheek.
     </p>
-    <p>
-      &ldquo;Fear nothing. I will keep them apart,&rdquo; she whispered back, and Coventry
+<p>
+      “Fear nothing. I will keep them apart,” she whispered back, and Coventry
       heard it.
     </p>
-    <p>
+<p>
       Edward offered his hand to his brother, saying, significantly, as he
-      looked him in the eye, &ldquo;I trust you, Gerald.&rdquo;
+      looked him in the eye, “I trust you, Gerald.”
      </p>
-    <p>
-      &ldquo;You may, Ned.&rdquo;
+<p>
+      “You may, Ned.”
      </p>
-    <p>
+<p>
       Then he went, and Coventry tired himself with wondering what Lucia meant.
       A few days later he understood.
     </p>
-    <p>
+<p>
       Now Ned is gone, little Muir will appear, I fancy, he said to himself; but
-      &ldquo;little Muir&rdquo; did not appear, and seemed to shun him more carefully than
+      “little Muir” did not appear, and seemed to shun him more carefully than
       she had done her lover. If he went to the drawing room in the evening
-      hoping for music, Lucia alone was there. If he tapped at Bella&rsquo;s door,
+      hoping for music, Lucia alone was there. If he tapped at Bella’s door,
       there was always a pause before she opened it, and no sign of Jean
       appeared though her voice had been audible when he knocked. If he went to
       the library, a hasty rustle and the sound of flying feet betrayed that the
@@ -2253,9 +2289,9 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       avoid him, and if by chance they met in hall or breakfast room, she passed
       him with downcast eyes and the briefest, coldest greeting. All this
       annoyed him intensely, and the more she eluded him, the more he desired to
-      see her&mdash;from a spirit of opposition, he said, nothing more. It
+      see her—from a spirit of opposition, he said, nothing more. It
       fretted and yet it entertained him, and he found a lazy sort of pleasure
-      in thwarting the girl&rsquo;s little maneuvers. His patience gave out at last,
+      in thwarting the girl’s little maneuvers. His patience gave out at last,
       and he resolved to know what was the meaning of this peculiar conduct.
       Having locked and taken away the key of one door in the library, he waited
       till Miss Muir went in to get a book for his uncle. He had heard her speak
@@ -2263,204 +2299,204 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       himself as he stole after her. She was standing in a chair, reaching up,
       and he had time to see a slender waist, a pretty foot, before he spoke.
     </p>
-    <p>
-      &ldquo;Can I help you, Miss Muir?&rdquo;
+<p>
+      “Can I help you, Miss Muir?”
      </p>
-    <p>
+<p>
       She started, dropped several books, and turned scarlet, as she said
-      hurriedly, &ldquo;Thank you, no; I can get the steps.&rdquo;
+      hurriedly, “Thank you, no; I can get the steps.”
      </p>
-    <p>
-      &ldquo;My long arm will be less trouble. I&rsquo;ve got but one, and that is tired of
-      being idle, so it is very much at your service. What will you have?&rdquo;
+<p>
+      “My long arm will be less trouble. I’ve got but one, and that is tired of
+      being idle, so it is very much at your service. What will you have?”
      </p>
-    <p>
-      &ldquo;I&mdash;I&mdash;you startled me so I&rsquo;ve forgotten.&rdquo; And Jean laughed,
+<p>
+      “I—I—you startled me so I’ve forgotten.” And Jean laughed,
       nervously, as she looked about her as if planning to escape.
     </p>
-    <p>
-      &ldquo;I beg your pardon, wait till you remember, and let me thank you for the
-      enchanted sleep you gave me ten days ago. I&rsquo;ve had no chance yet, you&rsquo;ve
-      shunned me so pertinaciously.&rdquo;
+<p>
+      “I beg your pardon, wait till you remember, and let me thank you for the
+      enchanted sleep you gave me ten days ago. I’ve had no chance yet, you’ve
+      shunned me so pertinaciously.”
      </p>
-    <p>
-      &ldquo;Indeed I try not to be rude, but&mdash;&rdquo; She checked herself, and turned
-      her face away, adding, with an accent of pain in her voice, &ldquo;It is not my
-      fault, Mr. Coventry. I only obey orders.&rdquo;
+<p>
+      “Indeed I try not to be rude, but—” She checked herself, and turned
+      her face away, adding, with an accent of pain in her voice, “It is not my
+      fault, Mr. Coventry. I only obey orders.”
      </p>
-    <p>
-      &ldquo;Whose orders?&rdquo; he demanded, still standing so that she could not escape.
+<p>
+      “Whose orders?” he demanded, still standing so that she could not escape.
     </p>
-    <p>
-      &ldquo;Don&rsquo;t ask; it is one who has a right to command where you are concerned.
+<p>
+      “Don’t ask; it is one who has a right to command where you are concerned.
       Be sure that it is kindly meant, though it may seem folly to us. Nay,
-      don&rsquo;t be angry, laugh at it, as I do, and let me run away, please.&rdquo;
+      don’t be angry, laugh at it, as I do, and let me run away, please.”
      </p>
-    <p>
+<p>
       She turned, and looked down at him with tears in her eyes, a smile on her
       lips, and an expression half sad, half arch, which was altogether
       charming. The frown passed from his face, but he still looked grave and
-      said decidedly, &ldquo;No one has a right to command in this house but my mother
+      said decidedly, “No one has a right to command in this house but my mother
       or myself. Was it she who bade you avoid me as if I was a madman or a
-      pest?&rdquo;
+      pest?”
      </p>
-    <p>
-      &ldquo;Ah, don&rsquo;t ask. I promised not to tell, and you would not have me break my
-      word, I know.&rdquo; And still smiling, she regarded him with a look of merry
+<p>
+      “Ah, don’t ask. I promised not to tell, and you would not have me break my
+      word, I know.” And still smiling, she regarded him with a look of merry
       malice which made any other reply unnecessary. It was Lucia, he thought,
       and disliked his cousin intensely just then. Miss Muir moved as if to step
-      down; he detained her, saying earnestly, yet with a smile, &ldquo;Do you
-      consider me the master here?&rdquo;
+      down; he detained her, saying earnestly, yet with a smile, “Do you
+      consider me the master here?”
      </p>
-    <p>
-      &ldquo;Yes,&rdquo; and to the word she gave a sweet, submissive intonation which made
+<p>
+      “Yes,” and to the word she gave a sweet, submissive intonation which made
       it expressive of the respect, regard, and confidence which men find
       pleasantest when women feel and show it. Unconsciously his face softened,
       and he looked up at her with a different glance from any he had ever given
       her before.
     </p>
-    <p>
-      &ldquo;Well, then, will you consent to obey me if I am not tyrannical or
-      unreasonable in my demands?&rdquo;
+<p>
+      “Well, then, will you consent to obey me if I am not tyrannical or
+      unreasonable in my demands?”
      </p>
-    <p>
-      &ldquo;I&rsquo;ll try.&rdquo;
+<p>
+      “I’ll try.”
      </p>
-    <p>
-      &ldquo;Good! Now frankly, I want to say that all this sort of thing is very
-      disagreeable to me. It annoys me to be a restraint upon anyone&rsquo;s liberty
+<p>
+      “Good! Now frankly, I want to say that all this sort of thing is very
+      disagreeable to me. It annoys me to be a restraint upon anyone’s liberty
       or comfort, and I beg you will go and come as freely as you like, and not
-      mind Lucia&rsquo;s absurdities. She means well, but hasn&rsquo;t a particle of
-      penetration or tact. Will you promise this?&rdquo;
+      mind Lucia’s absurdities. She means well, but hasn’t a particle of
+      penetration or tact. Will you promise this?”
      </p>
-    <p>
-      &ldquo;No.&rdquo;
+<p>
+      “No.”
      </p>
-    <p>
-      &ldquo;Why not?&rdquo;
+<p>
+      “Why not?”
      </p>
-    <p>
-      &ldquo;It is better as it is, perhaps.&rdquo;
+<p>
+      “It is better as it is, perhaps.”
      </p>
-    <p>
-      &ldquo;But you called it folly just now.&rdquo;
+<p>
+      “But you called it folly just now.”
      </p>
-    <p>
-      &ldquo;Yes, it seems so, and yet&mdash;&rdquo; She paused, looking both confused and
+<p>
+      “Yes, it seems so, and yet—” She paused, looking both confused and
       distressed.
     </p>
-    <p>
-      Coventry lost patience, and said hastily, &ldquo;You women are such enigmas I
-      never expect to understand you! Well, I&rsquo;ve done my best to make you
+<p>
+      Coventry lost patience, and said hastily, “You women are such enigmas I
+      never expect to understand you! Well, I’ve done my best to make you
       comfortable, but if you prefer to lead this sort of life, I beg you will
-      do so.&rdquo;
+      do so.”
      </p>
-    <p>
-      &ldquo;I <i>don&rsquo;t</i> prefer it; it is hateful to me. I like to be myself, to
+<p>
+      “I <i>don’t</i> prefer it; it is hateful to me. I like to be myself, to
       have my liberty, and the confidence of those about me. But I cannot think
-      it kind to disturb the peace of anyone, and so I try to obey. I&rsquo;ve
+      it kind to disturb the peace of anyone, and so I try to obey. I’ve
       promised Bella to remain, but I will go rather than have another scene
-      with Miss Beaufort or with you.&rdquo;
+      with Miss Beaufort or with you.”
      </p>
-    <p>
+<p>
       Miss Muir had burst out impetuously, and stood there with a sudden fire in
       her eyes, sudden warmth and spirit in her face and voice that amazed
       Coventry. She was angry, hurt, and haughty, and the change only made her
       more attractive, for not a trace of her former meek self remained.
       Coventry was electrified, and still more surprised when she added,
-      imperiously, with a gesture as if to put him aside, &ldquo;Hand me that book and
-      move away. I wish to go.&rdquo;
+      imperiously, with a gesture as if to put him aside, “Hand me that book and
+      move away. I wish to go.”
      </p>
-    <p>
+<p>
       He obeyed, even offered his hand, but she refused it, stepped lightly
       down, and went to the door. There she turned, and with the same indignant
-      voice, the same kindling eyes and glowing cheeks, she said rapidly, &ldquo;I
+      voice, the same kindling eyes and glowing cheeks, she said rapidly, “I
       know I have no right to speak in this way. I restrain myself as long as I
       can, but when I can bear no more, my true self breaks loose, and I defy
       everything. I am tired of being a cold, calm machine; it is impossible
       with an ardent nature like mine, and I shall try no longer. I cannot help
-      it if people love me. I don&rsquo;t want their love. I only ask to be left in
-      peace, and why I am tormented so I cannot see. I&rsquo;ve neither beauty, money,
+      it if people love me. I don’t want their love. I only ask to be left in
+      peace, and why I am tormented so I cannot see. I’ve neither beauty, money,
       nor rank, yet every foolish boy mistakes my frank interest for something
       warmer, and makes me miserable. It is my misfortune. Think of me what you
-      will, but beware of me in time, for against my will I may do you harm.&rdquo;
+      will, but beware of me in time, for against my will I may do you harm.”
      </p>
-    <p>
+<p>
       Almost fiercely she had spoken, and with a warning gesture she hurried
       from the room, leaving the young man feeling as if a sudden thunder-gust
       had swept through the house. For several minutes he sat in the chair she
       left, thinking deeply. Suddenly he rose, went to his sister, and said, in
-      his usual tone of indolent good nature, &ldquo;Bella, didn&rsquo;t I hear Ned ask you
-      to be kind to Miss Muir?&rdquo;
+      his usual tone of indolent good nature, “Bella, didn’t I hear Ned ask you
+      to be kind to Miss Muir?”
      </p>
-    <p>
-      &ldquo;Yes, and I try to be, but she is so odd lately.&rdquo;
+<p>
+      “Yes, and I try to be, but she is so odd lately.”
      </p>
-    <p>
-      &ldquo;Odd! How do you mean?&rdquo;
+<p>
+      “Odd! How do you mean?”
      </p>
-    <p>
-      &ldquo;Why, she is either as calm and cold as a statue, or restless and queer;
-      she cries at night, I know, and sighs sadly when she thinks I don&rsquo;t hear.
-      Something is the matter.&rdquo;
+<p>
+      “Why, she is either as calm and cold as a statue, or restless and queer;
+      she cries at night, I know, and sighs sadly when she thinks I don’t hear.
+      Something is the matter.”
      </p>
-    <p>
-      &ldquo;She frets for Ned perhaps,&rdquo; began Coventry.
+<p>
+      “She frets for Ned perhaps,” began Coventry.
     </p>
-    <p>
-      &ldquo;Oh dear, no; it&rsquo;s a great relief to her that he is gone. I&rsquo;m afraid that
-      she likes someone very much, and someone don&rsquo;t like her. Can it be Mr.
-      Sydney?&rdquo;
+<p>
+      “Oh dear, no; it’s a great relief to her that he is gone. I’m afraid that
+      she likes someone very much, and someone don’t like her. Can it be Mr.
+      Sydney?”
      </p>
-    <p>
-      &ldquo;She called him a &lsquo;titled fool&rsquo; once, but perhaps that didn&rsquo;t mean
-      anything. Did you ever ask her about him?&rdquo; said Coventry, feeling rather
+<p>
+      “She called him a ‘titled fool’ once, but perhaps that didn’t mean
+      anything. Did you ever ask her about him?” said Coventry, feeling rather
       ashamed of his curiosity, yet unable to resist the temptation of
       questioning unsuspecting Bella.
     </p>
-    <p>
-      &ldquo;Yes, but she only looked at me in her tragical way, and said, so
-      pitifully, &lsquo;My little friend, I hope you will never have to pass through
-      the scenes I&rsquo;ve passed through, but keep your peace unbroken all your
-      life.&rsquo; After that I dared say no more. I&rsquo;m very fond of her, I want to
-      make her happy, but I don&rsquo;t know how. Can you propose anything?&rdquo;
+<p>
+      “Yes, but she only looked at me in her tragical way, and said, so
+      pitifully, ‘My little friend, I hope you will never have to pass through
+      the scenes I’ve passed through, but keep your peace unbroken all your
+      life.’ After that I dared say no more. I’m very fond of her, I want to
+      make her happy, but I don’t know how. Can you propose anything?”
      </p>
-    <p>
-      &ldquo;I was going to propose that you make her come among us more, now Ned is
-      gone. It must be dull for her, moping about alone. I&rsquo;m sure it is for me.
+<p>
+      “I was going to propose that you make her come among us more, now Ned is
+      gone. It must be dull for her, moping about alone. I’m sure it is for me.
       She is an entertaining little person, and I enjoy her music very much.
-      It&rsquo;s good for Mamma to have gay evenings; so you bestir yourself, and see
-      what you can do for the general good of the family.&rdquo;
+      It’s good for Mamma to have gay evenings; so you bestir yourself, and see
+      what you can do for the general good of the family.”
      </p>
-    <p>
-      &ldquo;That&rsquo;s all very charming, and I&rsquo;ve proposed it more than once, but Lucia
-      spoils all my plans. She is afraid you&rsquo;ll follow Ned&rsquo;s example, and that
-      is so silly.&rdquo;
+<p>
+      “That’s all very charming, and I’ve proposed it more than once, but Lucia
+      spoils all my plans. She is afraid you’ll follow Ned’s example, and that
+      is so silly.”
      </p>
-    <p>
-      &ldquo;Lucia is a&mdash;no, I won&rsquo;t say fool, because she has sense enough when
-      she chooses; but I wish you&rsquo;d just settle things with Mamma, and then
-      Lucia can do nothing but submit,&rdquo; said Gerald angrily.
+<p>
+      “Lucia is a—no, I won’t say fool, because she has sense enough when
+      she chooses; but I wish you’d just settle things with Mamma, and then
+      Lucia can do nothing but submit,” said Gerald angrily.
     </p>
-    <p>
-      &ldquo;I&rsquo;ll try, but she goes up to read to Uncle, you know, and since he has
+<p>
+      “I’ll try, but she goes up to read to Uncle, you know, and since he has
       had the gout, she stays later, so I see little of her in the evening.
       There she goes now. I think she will captivate the old one as well as the
-      young one, she is so devoted.&rdquo;
+      young one, she is so devoted.”
      </p>
-    <p>
+<p>
       Coventry looked after her slender black figure, just vanishing through the
       great gate, and an uncomfortable fancy took possession of him, born of
-      Bella&rsquo;s careless words. He sauntered away, and after eluding his cousin,
+      Bella’s careless words. He sauntered away, and after eluding his cousin,
       who seemed looking for him, he turned toward the Hall, saying to himself,
       I will see what is going on up here. Such things have happened. Uncle is
       the simplest soul alive, and if the girl is ambitious, she can do what she
       will with him.
     </p>
-    <p>
+<p>
       Here a servant came running after him and gave him a letter, which he
       thrust into his pocket without examining it. When he reached the Hall, he
-      went quietly to his uncle&rsquo;s study. The door was ajar, and looking in, he
+      went quietly to his uncle’s study. The door was ajar, and looking in, he
       saw a scene of tranquil comfort, very pleasant to watch. Sir John leaned
       in his easy chair with one foot on a cushion. He was dressed with his
       usual care and, in spite of the gout, looked like a handsome,
@@ -2472,139 +2508,139 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       expression, and she leaned her head upon her hand, with an air of patient
       weariness.
     </p>
-    <p>
+<p>
       Poor girl! I did her great injustice; she has no thought of captivating
-      the old man, but amuses him from simple kindness. She is tired. I&rsquo;ll put
+      the old man, but amuses him from simple kindness. She is tired. I’ll put
       an end to her task; and Coventry entered without knocking.
     </p>
-    <p>
+<p>
       Sir John received him with an air of polite resignation, Miss Muir with a
       perfectly expressionless face.
     </p>
-    <p>
-      &ldquo;Mother&rsquo;s love, and how are you today, sir?&rdquo;
+<p>
+      “Mother’s love, and how are you today, sir?”
      </p>
-    <p>
-      &ldquo;Comfortable, but dull, so I want you to bring the girls over this
+<p>
+      “Comfortable, but dull, so I want you to bring the girls over this
       evening, to amuse the old gentleman. Mrs. King has got out the antique
       costumes and trumpery, as I promised Bella she should have them, and
-      tonight we are to have a merrymaking, as we used to do when Ned was here.&rdquo;
+      tonight we are to have a merrymaking, as we used to do when Ned was here.”
      </p>
-    <p>
-      &ldquo;Very well, sir, I&rsquo;ll bring them. We&rsquo;ve all been out of sorts since the
+<p>
+      “Very well, sir, I’ll bring them. We’ve all been out of sorts since the
       lad left, and a little jollity will do us good. Are you going back, Miss
-      Muir?&rdquo; asked Coventry.
+      Muir?” asked Coventry.
     </p>
-    <p>
-      &ldquo;No, I shall keep her to give me my tea and get things ready. Don&rsquo;t read
+<p>
+      “No, I shall keep her to give me my tea and get things ready. Don’t read
       anymore, my dear, but go and amuse yourself with the pictures, or whatever
-      you like,&rdquo; said Sir John; and like a dutiful daughter she obeyed, as if
+      you like,” said Sir John; and like a dutiful daughter she obeyed, as if
       glad to get away.
     </p>
-    <p>
-      &ldquo;That&rsquo;s a very charming girl, Gerald,&rdquo; began Sir John as she left the
-      room. &ldquo;I&rsquo;m much interested in her, both on her own account and on her
-      mother&rsquo;s.&rdquo;
+<p>
+      “That’s a very charming girl, Gerald,” began Sir John as she left the
+      room. “I’m much interested in her, both on her own account and on her
+      mother’s.”
      </p>
-    <p>
-      &ldquo;Her mother&rsquo;s! What do you know of her mother?&rdquo; asked Coventry, much
+<p>
+      “Her mother’s! What do you know of her mother?” asked Coventry, much
       surprised.
     </p>
-    <p>
-      &ldquo;Her mother was Lady Grace Howard, who ran away with a poor Scotch
+<p>
+      “Her mother was Lady Grace Howard, who ran away with a poor Scotch
       minister twenty years ago. The family cast her off, and she lived and died
       so obscurely that very little is known of her except that she left an
       orphan girl at some small French pension. This is the girl, and a fine
-      girl, too. I&rsquo;m surprised that you did not know this.&rdquo;
+      girl, too. I’m surprised that you did not know this.”
      </p>
-    <p>
-      &ldquo;So am I, but it is like her not to tell. She is a strange, proud
-      creature. Lady Howard&rsquo;s daughter! Upon my word, that is a discovery,&rdquo; and
-      Coventry felt his interest in his sister&rsquo;s governess much increased by
+<p>
+      “So am I, but it is like her not to tell. She is a strange, proud
+      creature. Lady Howard’s daughter! Upon my word, that is a discovery,” and
+      Coventry felt his interest in his sister’s governess much increased by
       this fact; for, like all wellborn Englishmen, he valued rank and gentle
       blood even more than he cared to own.
     </p>
-    <p>
-      &ldquo;She has had a hard life of it, this poor little girl, but she has a brave
-      spirit, and will make her way anywhere,&rdquo; said Sir John admiringly.
+<p>
+      “She has had a hard life of it, this poor little girl, but she has a brave
+      spirit, and will make her way anywhere,” said Sir John admiringly.
     </p>
-    <p>
-      &ldquo;Did Ned know this?&rdquo; asked Gerald suddenly.
+<p>
+      “Did Ned know this?” asked Gerald suddenly.
     </p>
-    <p>
-      &ldquo;No, she only told me yesterday. I was looking in the <i>Peerage</i> and
+<p>
+      “No, she only told me yesterday. I was looking in the <i>Peerage</i> and
       chanced to speak of the Howards. She forgot herself and called Lady Grace
       her mother. Then I got the whole story, for the lonely little thing was
-      glad to make a confidant of someone.&rdquo;
+      glad to make a confidant of someone.”
      </p>
-    <p>
-      &ldquo;That accounts for her rejection of Sydney and Ned: she knows she is their
-      equal and will not snatch at the rank which is hers by right. No, she&rsquo;s
-      not mercenary or ambitious.&rdquo;
+<p>
+      “That accounts for her rejection of Sydney and Ned: she knows she is their
+      equal and will not snatch at the rank which is hers by right. No, she’s
+      not mercenary or ambitious.”
      </p>
-    <p>
-      &ldquo;What do you say?&rdquo; asked Sir John, for Coventry had spoken more to himself
+<p>
+      “What do you say?” asked Sir John, for Coventry had spoken more to himself
       than to his uncle.
     </p>
-    <p>
-      &ldquo;I wonder if Lady Sydney was aware of this?&rdquo; was all Gerald&rsquo;s answer.
+<p>
+      “I wonder if Lady Sydney was aware of this?” was all Gerald’s answer.
     </p>
-    <p>
-      &ldquo;No, Jean said she did not wish to be pitied, and so told nothing to the
+<p>
+      “No, Jean said she did not wish to be pitied, and so told nothing to the
       mother. I think the son knew, but that was a delicate point, and I asked
-      no questions.&rdquo;
+      no questions.”
      </p>
-    <p>
-      &ldquo;I shall write to him as soon as I discover his address. We have been so
+<p>
+      “I shall write to him as soon as I discover his address. We have been so
       intimate I can venture to make a few inquiries about Miss Muir, and prove
-      the truth of her story.&rdquo;
+      the truth of her story.”
      </p>
-    <p>
-      &ldquo;Do you mean to say that you doubt it?&rdquo; demanded Sir John angrily.
+<p>
+      “Do you mean to say that you doubt it?” demanded Sir John angrily.
     </p>
-    <p>
-      &ldquo;I beg your pardon, Uncle, but I must confess I have an instinctive
+<p>
+      “I beg your pardon, Uncle, but I must confess I have an instinctive
       distrust of that young person. It is unjust, I dare say, yet I cannot
-      banish it.&rdquo;
+      banish it.”
      </p>
-    <p>
-      &ldquo;Don&rsquo;t annoy me by expressing it, if you please. I have some penetration
+<p>
+      “Don’t annoy me by expressing it, if you please. I have some penetration
       and experience, and I respect and pity Miss Muir heartily. This dislike of
-      yours may be the cause of her late melancholy, hey, Gerald?&rdquo; And Sir John
+      yours may be the cause of her late melancholy, hey, Gerald?” And Sir John
       looked suspiciously at his nephew.
     </p>
-    <p>
+<p>
       Anxious to avert the rising storm, Coventry said hastily as he turned
-      away, &ldquo;I&rsquo;ve neither time nor inclination to discuss the matter now, sir,
-      but will be careful not to offend again. I&rsquo;ll take your message to Bella,
-      so good-bye for an hour, Uncle.&rdquo;
+      away, “I’ve neither time nor inclination to discuss the matter now, sir,
+      but will be careful not to offend again. I’ll take your message to Bella,
+      so good-bye for an hour, Uncle.”
      </p>
-    <p>
+<p>
       And Coventry went his way through the park, thinking within himself, The
       dear old gentleman is getting fascinated, like poor Ned. How the deuce
-      does the girl do it? Lady Howard&rsquo;s daughter, yet never told us; I don&rsquo;t
+      does the girl do it? Lady Howard’s daughter, yet never told us; I don’t
       understand that.
     </p>
-    <p>
-      <br /><br />
-    </p>
-    <hr />
-    <p>
-      <a name="link2H_4_0005" id="link2H_4_0005"> </a>
-    </p>
-    <div style="height: 4em;">
-      <br /><br /><br /><br />
-    </div>
-    <h2>
-      <i>Chapter V</i> HOW THE GIRL DID IT
+<p>
+<br><br>
+</p>
+<hr>
+<p>
+<a id="link2H_4_0005"> </a>
+</p>
+<div style="height: 4em;">
+<br><br><br><br>
+</div>
+<h2>
+<i>Chapter V</i> HOW THE GIRL DID IT
     </h2>
-    <p>
+<p>
       At home he found a party of young friends, who hailed with delight the
       prospect of a revel at the Hall. An hour later, the blithe company trooped
       into the great saloon, where preparations had already been made for a
       dramatic evening.
     </p>
-    <p>
+<p>
       Good Sir John was in his element, for he was never so happy as when his
       house was full of young people. Several persons were chosen, and in a few
       moments the curtains were withdrawn from the first of these impromptu
@@ -2621,17 +2657,17 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       that for a moment the spectators held their breath, as if they also heard
       a passing footstep.
     </p>
-    <p>
-      &ldquo;Who is it?&rdquo; whispered Lucia, for the face was new to her.
+<p>
+      “Who is it?” whispered Lucia, for the face was new to her.
     </p>
-    <p>
-      &ldquo;Jean Muir,&rdquo; answered Coventry, with an absorbed look.
+<p>
+      “Jean Muir,” answered Coventry, with an absorbed look.
     </p>
-    <p>
-      &ldquo;Impossible! She is small and fair,&rdquo; began Lucia, but a hasty &ldquo;Hush, let
-      me look!&rdquo; from her cousin silenced her.
+<p>
+      “Impossible! She is small and fair,” began Lucia, but a hasty “Hush, let
+      me look!” from her cousin silenced her.
     </p>
-    <p>
+<p>
       Impossible as it seemed, he was right nevertheless; for Jean Muir it was.
       She had darkened her skin, painted her eyebrows, disposed some wild black
       locks over her fair hair, and thrown such an intensity of expression into
@@ -2639,29 +2675,29 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       southern eyes that ever flashed. Hatred, the deepest and bitterest, was
       written on her sternly beautiful face, courage glowed in her glance, power
       spoke in the nervous grip of the slender hand that held the weapon, and
-      the indomitable will of the woman was expressed&mdash;even the firm
+      the indomitable will of the woman was expressed—even the firm
       pressure of the little foot half hidden in the tiger skin.
     </p>
-    <p>
-      &ldquo;Oh, isn&rsquo;t she splendid?&rdquo; cried Bella under her breath.
+<p>
+      “Oh, isn’t she splendid?” cried Bella under her breath.
     </p>
-    <p>
-      &ldquo;She looks as if she&rsquo;d use her sword well when the time comes,&rdquo; said
+<p>
+      “She looks as if she’d use her sword well when the time comes,” said
       someone admiringly.
     </p>
-    <p>
-      &ldquo;Good night to Holofernes; his fate is certain,&rdquo; added another.
+<p>
+      “Good night to Holofernes; his fate is certain,” added another.
     </p>
-    <p>
-      &ldquo;He is the image of Sydney, with that beard on.&rdquo;
+<p>
+      “He is the image of Sydney, with that beard on.”
      </p>
-    <p>
-      &ldquo;Doesn&rsquo;t she look as if she really hated him?&rdquo;
+<p>
+      “Doesn’t she look as if she really hated him?”
      </p>
-    <p>
-      &ldquo;Perhaps she does.&rdquo;
+<p>
+      “Perhaps she does.”
      </p>
-    <p>
+<p>
       Coventry uttered the last exclamation, for the two which preceded it
       suggested an explanation of the marvelous change in Jean. It was not all
       art: the intense detestation mingled with a savage joy that the object of
@@ -2670,79 +2706,79 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       truth. It was but a glimpse, however, for the curtain dropped before he
       had half analyzed the significance of that strange face.
     </p>
-    <p>
-      &ldquo;Horrible! I&rsquo;m glad it&rsquo;s over,&rdquo; said Lucia coldly.
+<p>
+      “Horrible! I’m glad it’s over,” said Lucia coldly.
     </p>
-    <p>
-      &ldquo;Magnificent! Encore! Encore!&rdquo; cried Gerald enthusiastically.
+<p>
+      “Magnificent! Encore! Encore!” cried Gerald enthusiastically.
     </p>
-    <p>
+<p>
       But the scene was over, and no applause could recall the actress. Two or
       three graceful or gay pictures followed, but Jean was in none, and each
       lacked the charm which real talent lends to the simplest part.
     </p>
-    <p>
-      &ldquo;Coventry, you are wanted,&rdquo; called a voice. And to everyone&rsquo;s surprise,
+<p>
+      “Coventry, you are wanted,” called a voice. And to everyone’s surprise,
       Coventry went, though heretofore he had always refused to exert himself
       when handsome actors were in demand.
     </p>
-    <p>
-      &ldquo;What part am I to spoil?&rdquo; he asked, as he entered the green room, where
+<p>
+      “What part am I to spoil?” he asked, as he entered the green room, where
       several excited young gentlemen were costuming and attitudinizing.
     </p>
-    <p>
-      &ldquo;A fugitive cavalier. Put yourself into this suit, and lose no time asking
+<p>
+      “A fugitive cavalier. Put yourself into this suit, and lose no time asking
       questions. Miss Muir will tell you what to do. She is in the tableau, so
-      no one will mind you,&rdquo; said the manager pro tem, throwing a rich old suit
+      no one will mind you,” said the manager pro tem, throwing a rich old suit
       toward Coventry and resuming the painting of a moustache on his own boyish
       face.
     </p>
-    <p>
-      A gallant cavalier was the result of Gerald&rsquo;s hasty toilet, and when he
+<p>
+      A gallant cavalier was the result of Gerald’s hasty toilet, and when he
       appeared before the ladies a general glance of admiration was bestowed
       upon him.
     </p>
-    <p>
-      &ldquo;Come along and be placed; Jean is ready on the stage.&rdquo; And Bella ran
-      before him, exclaiming to her governess, &ldquo;Here he is, quite splendid.
-      Wasn&rsquo;t he good to do it?&rdquo;
+<p>
+      “Come along and be placed; Jean is ready on the stage.” And Bella ran
+      before him, exclaiming to her governess, “Here he is, quite splendid.
+      Wasn’t he good to do it?”
      </p>
-    <p>
+<p>
       Miss Muir, in the charmingly prim and puritanical dress of a Roundhead
       damsel, was arranging some shrubs, but turned suddenly and dropped the
       green branch she held, as her eye met the glittering figure advancing
       toward her.
     </p>
-    <p>
-      &ldquo;You!&rdquo; she said with a troubled look, adding low to Bella, &ldquo;Why did you
-      ask <i>him?</i> I begged you not.&rdquo;
+<p>
+      “You!” she said with a troubled look, adding low to Bella, “Why did you
+      ask <i>him?</i> I begged you not.”
      </p>
-    <p>
-      &ldquo;He is the only handsome man here, and the best actor if he likes. He
-      won&rsquo;t play usually, so make the most of him.&rdquo; And Bella was off to finish
-      powdering her hair for &ldquo;The Marriage à la Mode.&rdquo;
+<p>
+      “He is the only handsome man here, and the best actor if he likes. He
+      won’t play usually, so make the most of him.” And Bella was off to finish
+      powdering her hair for “The Marriage à la Mode.”
      </p>
-    <p>
-      &ldquo;I was sent for and I came. Do you prefer some other person?&rdquo; asked
+<p>
+      “I was sent for and I came. Do you prefer some other person?” asked
       Coventry, at a loss to understand the half-anxious, half-eager expression
       of the face under the little cap.
     </p>
-    <p>
-      It changed to one of mingled annoyance and resignation as she said, &ldquo;It is
+<p>
+      It changed to one of mingled annoyance and resignation as she said, “It is
       too late. Please kneel here, half behind the shrubs; put down your hat,
-      and&mdash;allow me&mdash;you are too elegant for a fugitive.&rdquo;
+      and—allow me—you are too elegant for a fugitive.”
      </p>
-    <p>
+<p>
       As he knelt before her, she disheveled his hair, pulled his lace collar
       awry, threw away his gloves and sword, and half untied the cloak that hung
       about his shoulders.
     </p>
-    <p>
-      &ldquo;That is better; your paleness is excellent&mdash;nay, don&rsquo;t spoil it. We
+<p>
+      “That is better; your paleness is excellent—nay, don’t spoil it. We
       are to represent the picture which hangs in the Hall. I need tell you no
-      more. Now, Roundheads, place yourselves, and then ring up the curtain.&rdquo;
+      more. Now, Roundheads, place yourselves, and then ring up the curtain.”
      </p>
-    <p>
+<p>
       With a smile, Coventry obeyed her; for the picture was of two lovers, the
       young cavalier kneeling, with his arm around the waist of the girl, who
       tries to hide him with her little mantle, and presses his head to her
@@ -2766,17 +2802,17 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       hold, which had grown painful in its unconscious pressure. He sprang up,
       half bewildered, and looking as he had never looked before.
     </p>
-    <p>
-      &ldquo;Again! Again!&rdquo; called Sir John. And the young men who played the
+<p>
+      “Again! Again!” called Sir John. And the young men who played the
       Roundheads, eager to share in the applause begged for a repetition in new
       attitudes.
     </p>
-    <p>
-      &ldquo;A rustle has betrayed you, we have fired and shot the brave girl, and she
-      lies dying, you know. That will be effective; try it, Miss Muir,&rdquo; said
+<p>
+      “A rustle has betrayed you, we have fired and shot the brave girl, and she
+      lies dying, you know. That will be effective; try it, Miss Muir,” said
       one. And with a long breath, Jean complied.
     </p>
-    <p>
+<p>
       The curtain went up, showing the lover still on his knees, unmindful of
       the captors who clutched him by the shoulder, for at his feet the girl lay
       dying. Her head was on his breast, now, her eyes looked full into his, no
@@ -2793,78 +2829,78 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       spite of himself, betrayed that he was excited by something deeper than
       mere gratified vanity.
     </p>
-    <p>
+<p>
       As Lucia appeared, his manner changed to its usual indifference; but he
       could not quench the unwonted fire of his eyes, or keep all trace of
       emotion out of his face, and she saw this with a sharp pang.
     </p>
-    <p>
-      &ldquo;I have come to offer my help. You must be tired, Miss Muir. Can I relieve
-      you?&rdquo; said Lucia hastily.
+<p>
+      “I have come to offer my help. You must be tired, Miss Muir. Can I relieve
+      you?” said Lucia hastily.
     </p>
-    <p>
-      &ldquo;Yes, thank you. I shall be very glad to leave the rest to you, and enjoy
-      them from the front.&rdquo;
+<p>
+      “Yes, thank you. I shall be very glad to leave the rest to you, and enjoy
+      them from the front.”
      </p>
-    <p>
-      So with a sweet smile Jean tripped away, and to Lucia&rsquo;s dismay Coventry
+<p>
+      So with a sweet smile Jean tripped away, and to Lucia’s dismay Coventry
       followed.
     </p>
-    <p>
-      &ldquo;I want you, Gerald; please stay,&rdquo; she cried.
+<p>
+      “I want you, Gerald; please stay,” she cried.
     </p>
-    <p>
-      &ldquo;I&rsquo;ve done my part&mdash;no more tragedy for me tonight.&rdquo; And he was gone
+<p>
+      “I’ve done my part—no more tragedy for me tonight.” And he was gone
       before she could entreat or command.
     </p>
-    <p>
+<p>
       There was no help for it; she must stay and do her duty, or expose her
       jealousy to the quick eyes about her. For a time she bore it; but the
       sight of her cousin leaning over the chair she had left and chatting with
       the governess, who now filled it, grew unbearable, and she dispatched a
       little girl with a message to Miss Muir.
     </p>
-    <p>
-      &ldquo;Please, Miss Beaufort wants you for Queen Bess, as you are the only lady
-      with red hair. Will you come?&rdquo; whispered the child, quite unconscious of
+<p>
+      “Please, Miss Beaufort wants you for Queen Bess, as you are the only lady
+      with red hair. Will you come?” whispered the child, quite unconscious of
       any hidden sting in her words.
     </p>
-    <p>
-      &ldquo;Yes, dear, willingly though I&rsquo;m not stately enough for Her Majesty, nor
-      handsome enough,&rdquo; said Jean, rising with an untroubled face, though she
+<p>
+      “Yes, dear, willingly though I’m not stately enough for Her Majesty, nor
+      handsome enough,” said Jean, rising with an untroubled face, though she
       resented the feminine insult.
     </p>
-    <p>
-      &ldquo;Do you want an Essex? I&rsquo;m all dressed for it,&rdquo; said Coventry, following
+<p>
+      “Do you want an Essex? I’m all dressed for it,” said Coventry, following
       to the door with a wistful look.
     </p>
-    <p>
-      &ldquo;No, Miss Beaufort said <i>you</i> were not to come. She doesn&rsquo;t want you
-      both together,&rdquo; said the child decidedly.
+<p>
+      “No, Miss Beaufort said <i>you</i> were not to come. She doesn’t want you
+      both together,” said the child decidedly.
     </p>
-    <p>
+<p>
       Jean gave him a significant look, shrugged her shoulders, and went away
       smiling her odd smile, while Coventry paced up and down the hall in a
       curious state of unrest, which made him forgetful of everything till the
       young people came gaily out to supper.
     </p>
-    <p>
-      &ldquo;Come, bonny Prince Charlie, take me down, and play the lover as
+<p>
+      “Come, bonny Prince Charlie, take me down, and play the lover as
       charmingly as you did an hour ago. I never thought you had so much warmth
-      in you,&rdquo; said Bella, taking his arm and drawing him on against his will.
+      in you,” said Bella, taking his arm and drawing him on against his will.
     </p>
-    <p>
-      &ldquo;Don&rsquo;t be foolish, child. Where is&mdash;Lucia?&rdquo;
+<p>
+      “Don’t be foolish, child. Where is—Lucia?”
      </p>
-    <p>
-      Why he checked Jean&rsquo;s name on his lips and substituted another&rsquo;s, he could
+<p>
+      Why he checked Jean’s name on his lips and substituted another’s, he could
       not tell; but a sudden shyness in speaking of her possessed him, and
       though he saw her nowhere, he would not ask for her. His cousin came down
       looking lovely in a classical costume; but Gerald scarcely saw her, and,
       when the merriment was at its height, he slipped away to discover what had
       become of Miss Muir.
     </p>
-    <p>
+<p>
       Alone in the deserted drawing room he found her, and paused to watch her a
       moment before he spoke; for something in her attitude and face struck him.
       She was leaning wearily back in the great chair which had served for a
@@ -2878,93 +2914,93 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       expression of her face half proud, half pensive, as if her thoughts were
       bittersweet.
     </p>
-    <p>
+<p>
       One would know she was wellborn to see her now. Poor girl, what a burden a
       life of dependence must be to a spirit like hers! I wonder what she is
       thinking of so intently. And Coventry indulged in another look before he
       spoke.
     </p>
-    <p>
-      &ldquo;Shall I bring you some supper, Miss Muir?&rdquo;
+<p>
+      “Shall I bring you some supper, Miss Muir?”
      </p>
-    <p>
-      &ldquo;Supper!&rdquo; she ejaculated, with a start. &ldquo;Who thinks of one&rsquo;s body when
-      one&rsquo;s soul is&mdash;&rdquo; She stopped there, knit her brows, and laughed
-      faintly as she added, &ldquo;No, thank you. I want nothing but advice, and that
-      I dare not ask of anyone.&rdquo;
+<p>
+      “Supper!” she ejaculated, with a start. “Who thinks of one’s body when
+      one’s soul is—” She stopped there, knit her brows, and laughed
+      faintly as she added, “No, thank you. I want nothing but advice, and that
+      I dare not ask of anyone.”
      </p>
-    <p>
-      &ldquo;Why not?&rdquo;
+<p>
+      “Why not?”
      </p>
-    <p>
-      &ldquo;Because I have no right.&rdquo;
+<p>
+      “Because I have no right.”
      </p>
-    <p>
-      &ldquo;Everyone has a right to ask help, especially the weak of the strong. Can
-      I help you? Believe me, I most heartily offer my poor services.&rdquo;
+<p>
+      “Everyone has a right to ask help, especially the weak of the strong. Can
+      I help you? Believe me, I most heartily offer my poor services.”
      </p>
-    <p>
-      &ldquo;Ah, you forget! This dress, the borrowed splendor of these jewels, the
+<p>
+      “Ah, you forget! This dress, the borrowed splendor of these jewels, the
       freedom of this gay evening, the romance of the part you played, all blind
       you to the reality. For a moment I cease to be a servant, and for a moment
-      you treat me as an equal.&rdquo;
+      you treat me as an equal.”
      </p>
-    <p>
+<p>
       It was true; he <i>had</i> forgotten. That soft, reproachful glance
       touched him, his distrust melted under the new charm, and he answered with
-      real feeling in voice and face, &ldquo;I treat you as an equal because you <i>are</i>
-      one; and when I offered help, it is not to my sister&rsquo;s governess alone,
-      but to Lady Howard&rsquo;s daughter.&rdquo;
+      real feeling in voice and face, “I treat you as an equal because you <i>are</i>
+      one; and when I offered help, it is not to my sister’s governess alone,
+      but to Lady Howard’s daughter.”
      </p>
-    <p>
-      &ldquo;Who told you that?&rdquo; she demanded, sitting erect.
+<p>
+      “Who told you that?” she demanded, sitting erect.
     </p>
-    <p>
-      &ldquo;My uncle. Do not reproach him. It shall go no further, if you forbid it.
-      Are you sorry that I know it?&rdquo;
+<p>
+      “My uncle. Do not reproach him. It shall go no further, if you forbid it.
+      Are you sorry that I know it?”
      </p>
-    <p>
-      &ldquo;Yes.&rdquo;
+<p>
+      “Yes.”
      </p>
-    <p>
-      &ldquo;Why?&rdquo;
+<p>
+      “Why?”
      </p>
-    <p>
-      &ldquo;Because I will not be pitied!&rdquo; And her eyes flashed as she made a
+<p>
+      “Because I will not be pitied!” And her eyes flashed as she made a
       half-defiant gesture.
     </p>
-    <p>
-      &ldquo;Then, if I may not pity the hard fate which has befallen an innocent
+<p>
+      “Then, if I may not pity the hard fate which has befallen an innocent
       life, may I admire the courage which meets adverse fortune so bravely, and
       conquers the world by winning the respect and regard of all who see and
-      honor it?&rdquo;
+      honor it?”
      </p>
-    <p>
-      Miss Muir averted her face, put up her hand, and answered hastily, &ldquo;No,
+<p>
+      Miss Muir averted her face, put up her hand, and answered hastily, “No,
       no, not that! Do not be kind; it destroys the only barrier now left
       between us. Be cold to me as before, forget what I am, and let me go on my
-      way, unknown, unpitied, and unloved!&rdquo;
+      way, unknown, unpitied, and unloved!”
      </p>
-    <p>
+<p>
       Her voice faltered and failed as the last word was uttered, and she bent
       her face upon her hand. Something jarred upon Coventry in this speech, and
-      moved him to say, almost rudely, &ldquo;You need have no fears for me. Lucia
-      will tell you what an iceberg I am.&rdquo;
+      moved him to say, almost rudely, “You need have no fears for me. Lucia
+      will tell you what an iceberg I am.”
      </p>
-    <p>
-      &ldquo;Then Lucia would tell me wrong. I have the fatal power of reading
-      character; I know you better than she does, and I see&mdash;&rdquo; There she
+<p>
+      “Then Lucia would tell me wrong. I have the fatal power of reading
+      character; I know you better than she does, and I see—” There she
       stopped abruptly.
     </p>
-    <p>
-      &ldquo;What? Tell me and prove your skill,&rdquo; he said eagerly.
+<p>
+      “What? Tell me and prove your skill,” he said eagerly.
     </p>
-    <p>
+<p>
       Turning, she fixed her eyes on him with a penetrating power that made him
-      shrink as she said slowly, &ldquo;Under the ice I see fire, and warn you to
-      beware lest it prove a volcano.&rdquo;
+      shrink as she said slowly, “Under the ice I see fire, and warn you to
+      beware lest it prove a volcano.”
      </p>
-    <p>
+<p>
       For a moment he sat dumb, wondering at the insight of the girl; for she
       was the first to discover the hidden warmth of a nature too proud to
       confess its tender impulses, or the ambitions that slept till some potent
@@ -2973,76 +3009,76 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       arrogance in it, only a foreboding fear emboldened by past suffering to be
       frank. Suddenly he spoke impetuously:
     </p>
-    <p>
-      &ldquo;You are right! I am not what I seem, and my indolent indifference is but
+<p>
+      “You are right! I am not what I seem, and my indolent indifference is but
       the mask under which I conceal my real self. I could be as passionate, as
       energetic and aspiring as Ned, if I had any aim in life. I have none, and
-      so I am what you once called me, a thing to pity and despise.&rdquo;
+      so I am what you once called me, a thing to pity and despise.”
      </p>
-    <p>
-      &ldquo;I never said that!&rdquo; cried Jean indignantly.
+<p>
+      “I never said that!” cried Jean indignantly.
     </p>
-    <p>
-      &ldquo;Not in those words, perhaps; but you looked it and thought it, though you
+<p>
+      “Not in those words, perhaps; but you looked it and thought it, though you
       phrased it more mildly. I deserved it, but I shall deserve it no longer. I
       am beginning to wake from my disgraceful idleness, and long for some work
       that shall make a man of me. Why do you go? I annoy you with my
       confessions. Pardon me. They are the first I ever made; they shall be the
-      last.&rdquo;
+      last.”
      </p>
-    <p>
-      &ldquo;No, oh no! I am too much honored by your confidence; but is it wise, is
+<p>
+      “No, oh no! I am too much honored by your confidence; but is it wise, is
       it loyal to tell <i>me</i> your hopes and aims? Has not Miss Beaufort the
-      first right to be your confidante?&rdquo;
+      first right to be your confidante?”
      </p>
-    <p>
+<p>
       Coventry drew back, looking intensely annoyed, for the name recalled much
       that he would gladly have forgotten in the novel excitement of the hour.
-      Lucia&rsquo;s love, Edward&rsquo;s parting words, his own reserve so strangely thrown
+      Lucia’s love, Edward’s parting words, his own reserve so strangely thrown
       aside, so difficult to resume. What he would have said was checked by the
-      sight of a half-open letter which fell from Jean&rsquo;s dress as she moved
+      sight of a half-open letter which fell from Jean’s dress as she moved
       away. Mechanically he took it up to return it, and, as he did so, he
-      recognized Sydney&rsquo;s handwriting. Jean snatched it from him, turning pale
-      to the lips as she cried, &ldquo;Did you read it? What did you see? Tell me,
-      tell me, on your honor!&rdquo;
+      recognized Sydney’s handwriting. Jean snatched it from him, turning pale
+      to the lips as she cried, “Did you read it? What did you see? Tell me,
+      tell me, on your honor!”
      </p>
-    <p>
-      &ldquo;On my honor, I saw nothing but this single sentence, &lsquo;By the love I bear
-      you, believe what I say.&rsquo; No more, as I am a gentleman. I know the hand, I
+<p>
+      “On my honor, I saw nothing but this single sentence, ‘By the love I bear
+      you, believe what I say.’ No more, as I am a gentleman. I know the hand, I
       guess the purport of the letter, and as a friend of Sydney, I earnestly
       desire to help you, if I can. Is this the matter upon which you want
-      advice?&rdquo;
+      advice?”
      </p>
-    <p>
-      &ldquo;Yes.&rdquo;
+<p>
+      “Yes.”
      </p>
-    <p>
-      &ldquo;Then let me give it?&rdquo;
+<p>
+      “Then let me give it?”
      </p>
-    <p>
-      &ldquo;You cannot, without knowing all, and it is so hard to tell!&rdquo;
+<p>
+      “You cannot, without knowing all, and it is so hard to tell!”
      </p>
-    <p>
-      &ldquo;Let me guess it, and spare you the pain of telling. May I?&rdquo; And Coventry
+<p>
+      “Let me guess it, and spare you the pain of telling. May I?” And Coventry
       waited eagerly for her reply, for the spell was still upon him.
     </p>
-    <p>
+<p>
       Holding the letter fast, she beckoned him to follow, and glided before him
       to a secluded little nook, half boudoir, half conservatory. There she
       paused, stood an instant as if in doubt, then looked up at him with
-      confiding eyes and said decidedly, &ldquo;I will do it; for, strange as it may
+      confiding eyes and said decidedly, “I will do it; for, strange as it may
       seem, you are the only person to whom I <i>can</i> speak. You know Sydney,
       you have discovered that I am an equal, you have offered your help. I
       accept it; but oh, do not think me unwomanly! Remember how alone I am, how
-      young, and how much I rely upon your sincerity, your sympathy!&rdquo;
+      young, and how much I rely upon your sincerity, your sympathy!”
      </p>
-    <p>
-      &ldquo;Speak freely. I am indeed your friend.&rdquo; And Coventry sat down beside her,
+<p>
+      “Speak freely. I am indeed your friend.” And Coventry sat down beside her,
       forgetful of everything but the soft-eyed girl who confided in him so
       entirely.
     </p>
-    <p>
-      Speaking rapidly, Jean went on, &ldquo;You know that Sydney loved me, that I
+<p>
+      Speaking rapidly, Jean went on, “You know that Sydney loved me, that I
       refused him and went away. But you do not know that his importunities
       nearly drove me wild, that he threatened to rob me of my only treasure, my
       good name, and that, in desperation, I tried to kill myself. Yes, mad,
@@ -3051,14 +3087,14 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       I say is the living truth. Lady Sydney will confirm it, the nurses at the
       hospital will confess that it was not a fever which brought me there; and
       here, though the external wound is healed, my heart still aches and burns
-      with the shame and indignation which only a proud woman can feel.&rdquo;
+      with the shame and indignation which only a proud woman can feel.”
      </p>
-    <p>
+<p>
       She paused and sat with kindling eyes, glowing cheeks, and both hands
       pressed to her heaving bosom, as if the old insult roused her spirit anew.
       Coventry said not a word, for surprise, anger, incredulity, and admiration
       mingled so confusedly in his mind that he forgot to speak, and Jean went
-      on, &ldquo;That wild act of mine convinced him of my indomitable dislike. He
+      on, “That wild act of mine convinced him of my indomitable dislike. He
       went away, and I believed that this stormy love of his would be cured by
       absence. It is not, and I live in daily fear of fresh entreaties, renewed
       persecution. His mother promised not to betray where I had gone, but he
@@ -3067,12 +3103,12 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       to deliver it, and I was glad, for I thought silence might quench hope.
       All in vain; this is a more passionate appeal than ever, and he vows he
       will never desist from his endeavors till I give another man the right to
-      protect me. I <i>can</i> do this&mdash;I am sorely tempted to do it, but I
+      protect me. I <i>can</i> do this—I am sorely tempted to do it, but I
       rebel against the cruelty. I love my freedom, I have no wish to marry at
-      this man&rsquo;s bidding. What can I do? How can I free myself? Be my friend,
-      and help me!&rdquo;
+      this man’s bidding. What can I do? How can I free myself? Be my friend,
+      and help me!”
      </p>
-    <p>
+<p>
       Tears streamed down her cheeks, sobs choked her words, and she clasped her
       hands imploringly as she turned toward the young man in all the
       abandonment of sorrow, fear, and supplication. Coventry found it hard to
@@ -3080,97 +3116,97 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       such scenes and knew not how to play his part. It is this absurd dress and
       that romantic nonsense which makes me feel so unlike myself, he thought,
       quite unconscious of the dangerous power which the dusky room, the
-      midsummer warmth and fragrance, the memory of the &ldquo;romantic nonsense,&rdquo;
+      midsummer warmth and fragrance, the memory of the “romantic nonsense,”
        and, most of all, the presence of a beautiful, afflicted woman had over
       him. His usual self-possession deserted him, and he could only echo the
       words which had made the strongest impression upon him:
     </p>
-    <p>
-      &ldquo;You <i>can</i> do this, you are tempted to do it. Is Ned the man who can
-      protect you?&rdquo;
+<p>
+      “You <i>can</i> do this, you are tempted to do it. Is Ned the man who can
+      protect you?”
      </p>
-    <p>
-      &ldquo;No&rdquo; was the soft reply.
+<p>
+      “No” was the soft reply.
     </p>
-    <p>
-      &ldquo;Who then?&rdquo;
+<p>
+      “Who then?”
      </p>
-    <p>
-      &ldquo;Do not ask me. A good and honorable man; one who loves me well, and would
+<p>
+      “Do not ask me. A good and honorable man; one who loves me well, and would
       devote his life to me; one whom once it would have been happiness to
-      marry, but now&mdash;&rdquo;
+      marry, but now—”
      </p>
-    <p>
+<p>
       There her voice ended in a sigh, and all her fair hair fell down about her
       face, hiding it in a shining veil.
     </p>
-    <p>
-      &ldquo;Why not now? This is a sure and speedy way of ending your distress. Is it
-      impossible?&rdquo;
+<p>
+      “Why not now? This is a sure and speedy way of ending your distress. Is it
+      impossible?”
      </p>
-    <p>
+<p>
       In spite of himself, Gerald leaned nearer, took one of the little hands in
       his, and pressed it as he spoke, urgently, compassionately, nay, almost
       tenderly. From behind the veil came a heavy sigh, and the brief answer,
-      &ldquo;It is impossible.&rdquo;
+      “It is impossible.”
      </p>
-    <p>
-      &ldquo;Why, Jean?&rdquo;
+<p>
+      “Why, Jean?”
      </p>
-    <p>
+<p>
       She flung her hair back with a sudden gesture, drew away her hand, and
-      answered, almost fiercely, &ldquo;Because I do not love him! Why do you torment
+      answered, almost fiercely, “Because I do not love him! Why do you torment
       me with such questions? I tell you I am in a sore strait and cannot see my
       way. Shall I deceive the good man, and secure peace at the price of
       liberty and truth? Or shall I defy Sydney and lead a life of dread? If he
       menaced my life, I should not fear; but he menaces that which is dearer
-      than life&mdash;my good name. A look, a word can tarnish it; a scornful
+      than life—my good name. A look, a word can tarnish it; a scornful
       smile, a significant shrug can do me more harm than any blow; for I am a
-      woman&mdash;friendless, poor, and at the mercy of his tongue. Ah, better
-      to have died, and so have been saved the bitter pain that has come now!&rdquo;
+      woman—friendless, poor, and at the mercy of his tongue. Ah, better
+      to have died, and so have been saved the bitter pain that has come now!”
      </p>
-    <p>
+<p>
       She sprang up, clasped her hands over her head, and paced despairingly
       through the little room, not weeping, but wearing an expression more
       tragical than tears. Still feeling as if he had suddenly stepped into a
       romance, yet finding a keen pleasure in the part assigned him, Coventry
       threw himself into it with spirit, and heartily did his best to console
       the poor girl who needed help so much. Going to her, he said as
-      impetuously as Ned ever did, &ldquo;Miss Muir&mdash;nay, I will say Jean, if
-      that will comfort you&mdash;listen, and rest assured that no harm shall
+      impetuously as Ned ever did, “Miss Muir—nay, I will say Jean, if
+      that will comfort you—listen, and rest assured that no harm shall
       touch you if I can ward it off. You are needlessly alarmed. Indignant you
       may well be, but, upon my life, I think you wrong Sydney. He is violent, I
       know, but he is too honorable a man to injure you by a light word, an
       unjust act. He did but threaten, hoping to soften you. Let me see him, or
-      write to him. He is my friend; he will listen to me. Of that I am sure.&rdquo;
+      write to him. He is my friend; he will listen to me. Of that I am sure.”
      </p>
-    <p>
-      &ldquo;Be sure of nothing. When a man like Sydney loves and is thwarted in his
+<p>
+      “Be sure of nothing. When a man like Sydney loves and is thwarted in his
       love, nothing can control his headstrong will. Promise me you will not see
       or write to him. Much as I fear and despise him, I will submit, rather
-      than any harm should befall you&mdash;or your brother. You promise me, Mr.
-      Coventry?&rdquo;
+      than any harm should befall you—or your brother. You promise me, Mr.
+      Coventry?”
      </p>
-    <p>
+<p>
       He hesitated. She clung to his arm with unfeigned solicitude in her eager,
       pleading face, and he could not resist it.
     </p>
-    <p>
-      &ldquo;I promise; but in return you must promise to let me give what help I can;
-      and, Jean, never say again that you are friendless.&rdquo;
+<p>
+      “I promise; but in return you must promise to let me give what help I can;
+      and, Jean, never say again that you are friendless.”
      </p>
-    <p>
-      &ldquo;You are so kind! God bless you for it. But I dare not accept your
-      friendship; she will not permit it, and I have no right to mar her peace.&rdquo;
+<p>
+      “You are so kind! God bless you for it. But I dare not accept your
+      friendship; she will not permit it, and I have no right to mar her peace.”
      </p>
-    <p>
-      &ldquo;Who will not permit it?&rdquo; he demanded hotly.
+<p>
+      “Who will not permit it?” he demanded hotly.
     </p>
-    <p>
-      &ldquo;Miss Beaufort.&rdquo;
+<p>
+      “Miss Beaufort.”
      </p>
-    <p>
-      &ldquo;Hang Miss Beaufort!&rdquo; exclaimed Coventry, with such energy that Jean broke
+<p>
+      “Hang Miss Beaufort!” exclaimed Coventry, with such energy that Jean broke
       into a musical laugh, despite her trouble. He joined in it, and, for an
       instant they stood looking at one another as if the last barrier were
       down, and they were friends indeed. Jean paused suddenly, with the smile
@@ -3178,220 +3214,222 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       listened: the sound of feet mingled with calls and laughter proved that
       they were missed and sought.
     </p>
-    <p>
-      &ldquo;That laugh betrayed us. Stay and meet them. I cannot.&rdquo; And Jean darted
+<p>
+      “That laugh betrayed us. Stay and meet them. I cannot.” And Jean darted
       out upon the lawn. Coventry followed; for the thought of confronting so
       many eyes, so many questions, daunted him, and he fled like a coward. The
-      sound of Jean&rsquo;s flying footsteps guided him, and he overtook her just as
+      sound of Jean’s flying footsteps guided him, and he overtook her just as
       she paused behind a rose thicket to take breath.
     </p>
-    <p>
-      &ldquo;Fainthearted knight! You should have stayed and covered my retreat. Hark!
-      they are coming! Hide! Hide!&rdquo; she panted, half in fear, half in merriment,
+<p>
+      “Fainthearted knight! You should have stayed and covered my retreat. Hark!
+      they are coming! Hide! Hide!” she panted, half in fear, half in merriment,
       as the gay pursuers rapidly drew nearer.
     </p>
-    <p>
-      &ldquo;Kneel down; the moon is coming out and the glitter of your embroidery
-      will betray you,&rdquo; whispered Jean, as they cowered behind the roses.
+<p>
+      “Kneel down; the moon is coming out and the glitter of your embroidery
+      will betray you,” whispered Jean, as they cowered behind the roses.
     </p>
-    <p>
-      &ldquo;Your arms and hair will betray you. &lsquo;Come under my plaiddie,&rsquo; as the song
-      says.&rdquo; And Coventry tried to make his velvet cloak cover the white
+<p>
+      “Your arms and hair will betray you. ‘Come under my plaiddie,’ as the song
+      says.” And Coventry tried to make his velvet cloak cover the white
       shoulders and fair locks.
     </p>
-    <p>
-      &ldquo;We are acting our parts in reality now. How Bella will enjoy the thing
-      when I tell her!&rdquo; said Jean as the noises died away.
+<p>
+      “We are acting our parts in reality now. How Bella will enjoy the thing
+      when I tell her!” said Jean as the noises died away.
     </p>
-    <p>
-      &ldquo;Do not tell her,&rdquo; whispered Coventry.
+<p>
+      “Do not tell her,” whispered Coventry.
     </p>
-    <p>
-      &ldquo;And why not?&rdquo; she asked, looking up into the face so near her own, with
+<p>
+      “And why not?” she asked, looking up into the face so near her own, with
       an artless glance.
     </p>
-    <p>
-      &ldquo;Can you not guess why?&rdquo;
+<p>
+      “Can you not guess why?”
      </p>
-    <p>
-      &ldquo;Ah, you are so proud you cannot bear to be laughed at.&rdquo;
+<p>
+      “Ah, you are so proud you cannot bear to be laughed at.”
      </p>
-    <p>
-      &ldquo;It is not that. It is because I do not want you to be annoyed by silly
+<p>
+      “It is not that. It is because I do not want you to be annoyed by silly
       tongues; you have enough to pain you without that. I am your friend, now,
-      and I do my best to prove it.&rdquo;
+      and I do my best to prove it.”
      </p>
-    <p>
-      &ldquo;So kind, so kind! How can I thank you?&rdquo; murmured Jean. And she
+<p>
+      “So kind, so kind! How can I thank you?” murmured Jean. And she
       involuntarily nestled closer under the cloak that sheltered both.
     </p>
-    <p>
+<p>
       Neither spoke for a moment, and in the silence the rapid beating of two
-      hearts was heard. To drown the sound, Coventry said softly, &ldquo;Are you
-      frightened?&rdquo;
+      hearts was heard. To drown the sound, Coventry said softly, “Are you
+      frightened?”
      </p>
-    <p>
-      &ldquo;No, I like it,&rdquo; she answered, as softly, then added abruptly, &ldquo;But why do
+<p>
+      “No, I like it,” she answered, as softly, then added abruptly, “But why do
       we hide? There is nothing to fear. It is late. I must go. You are kneeling
-      on my train. Please rise.&rdquo;
+      on my train. Please rise.”
      </p>
-    <p>
-      &ldquo;Why in such haste? This flight and search only adds to the charm of the
-      evening. I&rsquo;ll not get up yet. Will you have a rose, Jean?&rdquo;
+<p>
+      “Why in such haste? This flight and search only adds to the charm of the
+      evening. I’ll not get up yet. Will you have a rose, Jean?”
      </p>
-    <p>
-      &ldquo;No, I will not. Let me go, Mr. Coventry, I insist. There has been enough
-      of this folly. You forget yourself.&rdquo;
+<p>
+      “No, I will not. Let me go, Mr. Coventry, I insist. There has been enough
+      of this folly. You forget yourself.”
      </p>
-    <p>
+<p>
       She spoke imperiously, flung off the cloak, and put him from her. He rose
-      at once, saying, like one waking suddenly from a pleasant dream, &ldquo;I do
-      indeed forget myself.&rdquo;
+      at once, saying, like one waking suddenly from a pleasant dream, “I do
+      indeed forget myself.”
      </p>
-    <p>
+<p>
       Here the sound of voices broke on them, nearer than before. Pointing to a
       covered walk that led to the house, he said, in his usually cool, calm
-      tone, &ldquo;Go in that way; I will cover your retreat.&rdquo; And turning, he went to
+      tone, “Go in that way; I will cover your retreat.” And turning, he went to
       meet the merry hunters.
     </p>
-    <p>
+<p>
       Half an hour later, when the party broke up, Miss Muir joined them in her
       usual quiet dress, looking paler, meeker, and sadder than usual. Coventry
       saw this, though he neither looked at her nor addressed her. Lucia saw it
       also, and was glad that the dangerous girl had fallen back into her proper
       place again, for she had suffered much that night. She appropriated her
-      cousin&rsquo;s arm as they went through the park, but he was in one of his
+      cousin’s arm as they went through the park, but he was in one of his
       taciturn moods, and all her attempts at conversation were in vain. Miss
       Muir walked alone, singing softly to herself as she followed in the dusk.
       Was Gerald so silent because he listened to that fitful song? Lucia
       thought so, and felt her dislike rapidly deepening to hatred.
     </p>
-    <p>
+<p>
       When the young friends were gone, and the family were exchanging
-      good-nights among themselves, Jean was surprised by Coventry&rsquo;s offering
+      good-nights among themselves, Jean was surprised by Coventry’s offering
       his hand, for he had never done it before, and whispering, as he held it,
-      though Lucia watched him all the while, &ldquo;I have not given my advice, yet.&rdquo;
+      though Lucia watched him all the while, “I have not given my advice, yet.”
      </p>
-    <p>
-      &ldquo;Thanks, I no longer need it. I have decided for myself.&rdquo;
+<p>
+      “Thanks, I no longer need it. I have decided for myself.”
      </p>
-    <p>
-      &ldquo;May I ask how?&rdquo;
+<p>
+      “May I ask how?”
      </p>
-    <p>
-      &ldquo;To brave my enemy.&rdquo;
+<p>
+      “To brave my enemy.”
      </p>
-    <p>
-      &ldquo;Good! But what decided you so suddenly?&rdquo;
+<p>
+      “Good! But what decided you so suddenly?”
      </p>
-    <p>
-      &ldquo;The finding of a friend.&rdquo; And with a grateful glance she was gone.
+<p>
+      “The finding of a friend.” And with a grateful glance she was gone.
     </p>
-    <p>
-      <br /><br />
-    </p>
-    <hr />
-    <p>
-      <a name="link2H_4_0006" id="link2H_4_0006"> </a>
-    </p>
-    <div style="height: 4em;">
-      <br /><br /><br /><br />
-    </div>
-    <h2>
-      <i>Chapter VI</i> ON THE WATCH
+<p>
+<br><br>
+</p>
+<hr>
+<p>
+<a id="link2H_4_0006"> </a>
+</p>
+<div style="height: 4em;">
+<br><br><br><br>
+</div>
+<h2>
+<i>Chapter VI</i> ON THE WATCH
     </h2>
-    <p>
-      &ldquo;If you please, Mr. Coventry, did you get the letter last night?&rdquo; were the
-      first words that greeted the &ldquo;young master&rdquo; as he left his room next
+<p>
+      “If you please, Mr. Coventry, did you get the letter last night?” were the
+      first words that greeted the “young master” as he left his room next
       morning.
     </p>
-    <p>
-      &ldquo;What letter, Dean? I don&rsquo;t remember any,&rdquo; he answered, pausing, for
-      something in the maid&rsquo;s manner struck him as peculiar.
+<p>
+      “What letter, Dean? I don’t remember any,” he answered, pausing, for
+      something in the maid’s manner struck him as peculiar.
     </p>
-    <p>
-      &ldquo;It came just as you left for the Hall, sir. Benson ran after you with it,
-      as it was marked &lsquo;Haste.&rsquo; Didn&rsquo;t you get it, sir?&rdquo; asked the woman,
+<p>
+      “It came just as you left for the Hall, sir. Benson ran after you with it,
+      as it was marked ‘Haste.’ Didn’t you get it, sir?” asked the woman,
       anxiously.
     </p>
-    <p>
-      &ldquo;Yes, but upon my life, I forgot all about it till this minute. It&rsquo;s in my
-      other coat, I suppose, if I&rsquo;ve not lost it. That absurd masquerading put
-      everything else out of my head.&rdquo; And speaking more to himself than to the
+<p>
+      “Yes, but upon my life, I forgot all about it till this minute. It’s in my
+      other coat, I suppose, if I’ve not lost it. That absurd masquerading put
+      everything else out of my head.” And speaking more to himself than to the
       maid, Coventry turned back to look for the missing letter.
     </p>
-    <p>
+<p>
       Dean remained where she was, apparently busy about the arrangement of the
       curtains at the hall window, but furtively watching meanwhile with a most
       unwonted air of curiosity.
     </p>
-    <p>
-      &ldquo;Not there, I thought so!&rdquo; she muttered, as Coventry impatiently thrust
+<p>
+      “Not there, I thought so!” she muttered, as Coventry impatiently thrust
       his hand into one pocket after another. But as she spoke, an expression of
       amazement appeared in her face, for suddenly the letter was discovered.
     </p>
-    <p>
-      &ldquo;I&rsquo;d have sworn it wasn&rsquo;t there! I don&rsquo;t understand it, but she&rsquo;s a deep
-      one, or I&rsquo;m much deceived.&rdquo; And Dean shook her head like one perplexed,
+<p>
+      “I’d have sworn it wasn’t there! I don’t understand it, but she’s a deep
+      one, or I’m much deceived.” And Dean shook her head like one perplexed,
       but not convinced.
     </p>
-    <p>
+<p>
       Coventry uttered an exclamation of satisfaction on glancing at the address
       and, standing where he was, tore open the letter.
     </p>
-<pre xml:space="preserve">
+<pre>
     Dear C:
 
-```
+    I’m off to Baden. Come and join me, then you’ll be out of harm’s way;
+    for if you fall in love with J.M. (and you can’t escape if you stay
+    where she is), you will incur the trifling inconvenience of having
+    your brains blown out by
 
-```
-
+    Yours truly, F.R. Sydney
 </pre>
-    <p>
-      &ldquo;The man is mad!&rdquo; ejaculated Coventry, staring at the letter while an
-      angry flush rose to his face. &ldquo;What the deuce does he mean by writing to
-      me in that style? Join him&mdash;not I! And as for the threat, I laugh at
+<p>
+      “The man is mad!” ejaculated Coventry, staring at the letter while an
+      angry flush rose to his face. “What the deuce does he mean by writing to
+      me in that style? Join him—not I! And as for the threat, I laugh at
       it. Poor Jean! This headstrong fool seems bent on tormenting her. Well,
-      Dean, what are you waiting for?&rdquo; he demanded, as if suddenly conscious of
+      Dean, what are you waiting for?” he demanded, as if suddenly conscious of
       her presence.
     </p>
-    <p>
-      &ldquo;Nothing, sir; I only stopped to see if you found the letter. Beg pardon,
-      sir.&rdquo;
+<p>
+      “Nothing, sir; I only stopped to see if you found the letter. Beg pardon,
+      sir.”
      </p>
-    <p>
-      And she was moving on when Coventry asked, with a suspicious look, &ldquo;What
+<p>
+      And she was moving on when Coventry asked, with a suspicious look, “What
       made you think it was lost? You seem to take an uncommon interest in my
-      affairs today.&rdquo;
+      affairs today.”
      </p>
-    <p>
-      &ldquo;Oh dear, no, sir. I felt a bit anxious, Benson is so forgetful, and it
+<p>
+      “Oh dear, no, sir. I felt a bit anxious, Benson is so forgetful, and it
       was me who sent him after you, for I happened to see you go out, so I felt
       responsible. Being marked that way, I thought it might be important so I
-      asked about it.&rdquo;
+      asked about it.”
      </p>
-    <p>
-      &ldquo;Very well, you can go, Dean. It&rsquo;s all right, you see.&rdquo;
+<p>
+      “Very well, you can go, Dean. It’s all right, you see.”
      </p>
-    <p>
-      &ldquo;I&rsquo;m not so sure of that,&rdquo; muttered the woman, as she curtsied
+<p>
+      “I’m not so sure of that,” muttered the woman, as she curtsied
       respectfully and went away, looking as if the letter had <i>not</i> been
       found.
     </p>
-    <p>
-      Dean was Miss Beaufort&rsquo;s maid, a grave, middle-aged woman with keen eyes
+<p>
+      Dean was Miss Beaufort’s maid, a grave, middle-aged woman with keen eyes
       and a somewhat grim air. Having been long in the family, she enjoyed all
       the privileges of a faithful and favorite servant. She loved her young
       mistress with an almost jealous affection. She watched over her with the
       vigilant care of a mother and resented any attempt at interference on the
       part of others. At first she had pitied and liked Jean Muir, then
       distrusted her, and now heartily hated her, as the cause of the increased
-      indifference of Coventry toward his cousin. Dean knew the depth of Lucia&rsquo;s
+      indifference of Coventry toward his cousin. Dean knew the depth of Lucia’s
       love, and though no man, in her eyes, was worthy of her mistress, still,
       having honored him with her regard, Dean felt bound to like him, and the
       late change in his manner disturbed the maid almost as much as it did the
       mistress. She watched Jean narrowly, causing that amiable creature much
-      amusement but little annoyance, as yet, for Dean&rsquo;s slow English wit was no
+      amusement but little annoyance, as yet, for Dean’s slow English wit was no
       match for the subtle mind of the governess. On the preceding night, Dean
       had been sent up to the Hall with costumes and had there seen something
       which much disturbed her. She began to speak of it while undressing her
@@ -3399,134 +3437,134 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       not to gossip that the tale remained untold, and she was forced to bide
       her tune.
     </p>
-    <p>
-      Now I&rsquo;ll see how <i>she</i> looks after it; though there&rsquo;s not much to be
+<p>
+      Now I’ll see how <i>she</i> looks after it; though there’s not much to be
       got out of <i>her</i> face, the deceitful hussy, thought Dean, marching
       down the corridor and knitting her black brows as she went.
     </p>
-    <p>
-      &ldquo;Good morning, Mrs. Dean. I hope you are none the worse for last night&rsquo;s
-      frolic. You had the work and we the play,&rdquo; said a blithe voice behind her;
+<p>
+      “Good morning, Mrs. Dean. I hope you are none the worse for last night’s
+      frolic. You had the work and we the play,” said a blithe voice behind her;
       and turning sharply, she confronted Miss Muir. Fresh and smiling, the
       governess nodded with an air of cordiality which would have been
       irresistible with anyone but Dean.
     </p>
-    <p>
-      &ldquo;I&rsquo;m quite well, thank you, miss,&rdquo; she returned coldly, as her keen eye
-      fastened on the girl as if to watch the effect of her words. &ldquo;I had a good
+<p>
+      “I’m quite well, thank you, miss,” she returned coldly, as her keen eye
+      fastened on the girl as if to watch the effect of her words. “I had a good
       rest when the young ladies and gentlemen were at supper, for while the
-      maids cleared up, I sat in the &lsquo;little anteroom.&rsquo;&rdquo;
+      maids cleared up, I sat in the ‘little anteroom.’”
      </p>
-    <p>
-      &ldquo;Yes, I saw you, and feared you&rsquo;d take cold. Very glad you didn&rsquo;t. How is
-      Miss Beaufort? She seemed rather poorly last night&rdquo; was the tranquil
+<p>
+      “Yes, I saw you, and feared you’d take cold. Very glad you didn’t. How is
+      Miss Beaufort? She seemed rather poorly last night” was the tranquil
       reply, as Jean settled the little frills about her delicate wrists. The
-      cool question was a return shot for Dean&rsquo;s hint that she had been where
+      cool question was a return shot for Dean’s hint that she had been where
       she could oversee the interview between Coventry and Miss Muir.
     </p>
-    <p>
-      &ldquo;She is a bit tired, as any <i>lady</i> would be after such an evening.
-      People who are <i>used</i> to <i>play-acting</i> wouldn&rsquo;t mind it,
-      perhaps, but Miss Beaufort don&rsquo;t enjoy <i>romps</i> as much as <i>some</i>
-      do.&rdquo;
+<p>
+      “She is a bit tired, as any <i>lady</i> would be after such an evening.
+      People who are <i>used</i> to <i>play-acting</i> wouldn’t mind it,
+      perhaps, but Miss Beaufort don’t enjoy <i>romps</i> as much as <i>some</i>
+      do.”
      </p>
-    <p>
-      The emphasis upon certain words made Dean&rsquo;s speech as impertinent as she
-      desired. But Jean only laughed, and as Coventry&rsquo;s step was heard behind
-      them, she ran downstairs, saying blandly, but with a wicked look, &ldquo;I won&rsquo;t
+<p>
+      The emphasis upon certain words made Dean’s speech as impertinent as she
+      desired. But Jean only laughed, and as Coventry’s step was heard behind
+      them, she ran downstairs, saying blandly, but with a wicked look, “I won’t
       stop to thank you now, lest Mr. Coventry should bid me good-morning, and
-      so increase Miss Beaufort&rsquo;s indisposition.&rdquo;
+      so increase Miss Beaufort’s indisposition.”
      </p>
-    <p>
-      Dean&rsquo;s eyes flashed as she looked after the girl with a wrathful face, and
-      went her way, saying grimly, &ldquo;I&rsquo;ll bide my time, but I&rsquo;ll get the better
-      of her yet.&rdquo;
+<p>
+      Dean’s eyes flashed as she looked after the girl with a wrathful face, and
+      went her way, saying grimly, “I’ll bide my time, but I’ll get the better
+      of her yet.”
      </p>
-    <p>
-      Fancying himself quite removed from &ldquo;last night&rsquo;s absurdity,&rdquo; yet curious
+<p>
+      Fancying himself quite removed from “last night’s absurdity,” yet curious
       to see how Jean would meet him, Coventry lounged into the breakfast room
       with his usual air of listless indifference. A languid nod and murmur was
       all the reply he vouchsafed to the greetings of cousin, sister, and
       governess as he sat down and took up his paper.
     </p>
-    <p>
-      &ldquo;Have you had a letter from Ned?&rdquo; asked Bella, looking at the note which
+<p>
+      “Have you had a letter from Ned?” asked Bella, looking at the note which
       her brother still held.
     </p>
-    <p>
-      &ldquo;No&rdquo; was the brief answer.
+<p>
+      “No” was the brief answer.
     </p>
-    <p>
-      &ldquo;Who then? You look as if you had received bad news.&rdquo;
+<p>
+      “Who then? You look as if you had received bad news.”
      </p>
-    <p>
+<p>
       There was no reply, and, peeping over his arm, Bella caught sight of the
-      seal and exclaimed, in a disappointed tone, &ldquo;It is the Sydney crest. I
-      don&rsquo;t care about the note now. Men&rsquo;s letters to each other are not
-      interesting.&rdquo;
+      seal and exclaimed, in a disappointed tone, “It is the Sydney crest. I
+      don’t care about the note now. Men’s letters to each other are not
+      interesting.”
      </p>
-    <p>
-      Miss Muir had been quietly feeding one of Edward&rsquo;s dogs, but at the name
-      she looked up and met Coventry&rsquo;s eyes, coloring so distressfully that he
+<p>
+      Miss Muir had been quietly feeding one of Edward’s dogs, but at the name
+      she looked up and met Coventry’s eyes, coloring so distressfully that he
       pitied her. Why he should take the trouble to cover her confusion, he did
-      not stop to ask himself, but seeing the curl of Lucia&rsquo;s lip, he suddenly
-      addressed her with an air of displeasure, &ldquo;Do you know that Dean is
+      not stop to ask himself, but seeing the curl of Lucia’s lip, he suddenly
+      addressed her with an air of displeasure, “Do you know that Dean is
       getting impertinent? She presumes too much on her age and your indulgence,
-      and forgets her place.&rdquo;
+      and forgets her place.”
      </p>
-    <p>
-      &ldquo;What has she done?&rdquo; asked Lucia coldly.
+<p>
+      “What has she done?” asked Lucia coldly.
     </p>
-    <p>
-      &ldquo;She troubles herself about my affairs and takes it upon herself to keep
-      Benson in order.&rdquo;
+<p>
+      “She troubles herself about my affairs and takes it upon herself to keep
+      Benson in order.”
      </p>
-    <p>
-      Here Coventry told about the letter and the woman&rsquo;s evident curiosity.
+<p>
+      Here Coventry told about the letter and the woman’s evident curiosity.
     </p>
-    <p>
-      &ldquo;Poor Dean, she gets no thanks for reminding you of what you had
+<p>
+      “Poor Dean, she gets no thanks for reminding you of what you had
       forgotten. Next time she will leave your letters to their fate, and
       perhaps it will be as well, if they have such a bad effect upon your
-      temper, Gerald.&rdquo;
+      temper, Gerald.”
      </p>
-    <p>
+<p>
       Lucia spoke calmly, but there was an angry color in her cheek as she rose
-      and left the room. Coventry looked much annoyed, for on Jean&rsquo;s face he
+      and left the room. Coventry looked much annoyed, for on Jean’s face he
       detected a faint smile, half pitiful, half satirical, which disturbed him
-      more than his cousin&rsquo;s insinuation. Bella broke the awkward silence by
-      saying, with a sigh, &ldquo;Poor Ned! I do so long to hear again from him. I
+      more than his cousin’s insinuation. Bella broke the awkward silence by
+      saying, with a sigh, “Poor Ned! I do so long to hear again from him. I
       thought a letter had come for some of us. Dean said she saw one bearing
-      his writing on the hall table yesterday.&rdquo;
+      his writing on the hall table yesterday.”
      </p>
-    <p>
-      &ldquo;She seems to have a mania for inspecting letters. I won&rsquo;t allow it. Who
-      was the letter for, Bella?&rdquo; said Coventry, putting down his paper.
+<p>
+      “She seems to have a mania for inspecting letters. I won’t allow it. Who
+      was the letter for, Bella?” said Coventry, putting down his paper.
     </p>
-    <p>
-      &ldquo;She wouldn&rsquo;t or couldn&rsquo;t tell, but looked very cross and told me to ask
-      you.&rdquo;
+<p>
+      “She wouldn’t or couldn’t tell, but looked very cross and told me to ask
+      you.”
      </p>
-    <p>
-      &ldquo;Very odd! I&rsquo;ve had none,&rdquo; began Coventry.
+<p>
+      “Very odd! I’ve had none,” began Coventry.
     </p>
-    <p>
-      &ldquo;But I had one several days ago. Will you please read it, and my reply?&rdquo;
+<p>
+      “But I had one several days ago. Will you please read it, and my reply?”
        And as she spoke, Jean laid two letters before him.
     </p>
-    <p>
-      &ldquo;Certainly not. It would be dishonorable to read what Ned intended for no
+<p>
+      “Certainly not. It would be dishonorable to read what Ned intended for no
       eyes but your own. You are too scrupulous in one way, and not enough so in
-      another, Miss Muir.&rdquo; And Coventry offered both the letters with an air of
+      another, Miss Muir.” And Coventry offered both the letters with an air of
       grave decision, which could not conceal the interest and surprise he felt.
     </p>
-    <p>
-      &ldquo;You are right. Mr. Edward&rsquo;s note <i>should</i> be kept sacred, for in it
+<p>
+      “You are right. Mr. Edward’s note <i>should</i> be kept sacred, for in it
       the poor boy has laid bare his heart to me. But mine I beg you will read,
       that you may see how well I try to keep my word to you. Oblige me in this,
-      Mr. Coventry; I have a right to ask it of you.&rdquo;
+      Mr. Coventry; I have a right to ask it of you.”
      </p>
-    <p>
+<p>
       So urgently she spoke, so wistfully she looked, that he could not refuse
       and, going to the window, read the letter. It was evidently an answer to a
       passionate appeal from the young lover, and was written with consummate
@@ -3539,169 +3577,169 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       Coventry forgot to return the letter, as he stood wondering who was the
       man whom Jean loved.
     </p>
-    <p>
-      The sound of Bella&rsquo;s voice recalled him, for she was saying, half kindly,
-      half petulantly, &ldquo;Don&rsquo;t look so sad, Jean. Ned will outlive it, I dare
+<p>
+      The sound of Bella’s voice recalled him, for she was saying, half kindly,
+      half petulantly, “Don’t look so sad, Jean. Ned will outlive it, I dare
       say. You remember you said once men never died of love, though women
       might. In his one note to me, he spoke so beautifully of you, and begged
       me to be kind to you for his sake, that I try to be with all my heart,
       though if it was anyone but you, I really think I should hate them for
-      making my dear boy so unhappy.&rdquo;
+      making my dear boy so unhappy.”
      </p>
-    <p>
-      &ldquo;You are too kind, Bella, and I often think I&rsquo;ll go away to relieve you of
-      my presence; but unwise and dangerous as it is to stay, I haven&rsquo;t the
-      courage to go. I&rsquo;ve been so happy here.&rdquo; And as she spoke, Jean&rsquo;s head
+<p>
+      “You are too kind, Bella, and I often think I’ll go away to relieve you of
+      my presence; but unwise and dangerous as it is to stay, I haven’t the
+      courage to go. I’ve been so happy here.” And as she spoke, Jean’s head
       dropped lower over the dog as it nestled to her affectionately.
     </p>
-    <p>
+<p>
       Before Bella could utter half the loving words that sprang to her lips,
       Coventry came to them with all languor gone from face and mien, and laying
-      Jean&rsquo;s letter before her, he said, with an undertone of deep feeling in
-      his usually emotionless voice, &ldquo;A right womanly and eloquent letter, but I
+      Jean’s letter before her, he said, with an undertone of deep feeling in
+      his usually emotionless voice, “A right womanly and eloquent letter, but I
       fear it will only increase the fire it was meant to quench. I pity my
-      brother more than ever now.&rdquo;
+      brother more than ever now.”
      </p>
-    <p>
-      &ldquo;Shall I send it?&rdquo; asked Jean, looking straight up at him, like one who
+<p>
+      “Shall I send it?” asked Jean, looking straight up at him, like one who
       had entire reliance on his judgment.
     </p>
-    <p>
-      &ldquo;Yes, I have not the heart to rob him of such a sweet sermon upon
-      self-sacrifice. Shall I post it for you?&rdquo;
+<p>
+      “Yes, I have not the heart to rob him of such a sweet sermon upon
+      self-sacrifice. Shall I post it for you?”
      </p>
-    <p>
-      &ldquo;Thank you; in a moment.&rdquo; And with a grateful look, Jean dropped her eyes.
+<p>
+      “Thank you; in a moment.” And with a grateful look, Jean dropped her eyes.
       Producing her little purse, she selected a penny, folded it in a bit of
       paper, and then offered both letter and coin to Coventry, with such a
       pretty air of business, that he could not control a laugh.
     </p>
-    <p>
-      &ldquo;So you won&rsquo;t be indebted to me for a penny? What a proud woman you are,
-      Miss Muir.&rdquo;
+<p>
+      “So you won’t be indebted to me for a penny? What a proud woman you are,
+      Miss Muir.”
      </p>
-    <p>
-      &ldquo;I am; it&rsquo;s a family failing.&rdquo; And she gave him a significant glance,
+<p>
+      “I am; it’s a family failing.” And she gave him a significant glance,
       which recalled to him the memory of who she was. He understood her
       feeling, and liked her the better for it, knowing that he would have done
       the same had he been in her place. It was a little thing, but if done for
       effect, it answered admirably, for it showed a quick insight into his
       character on her part, and betrayed to him the existence of a pride in
       which he sympathized heartily. He stood by Jean a moment, watching her as
-      she burnt Edward&rsquo;s letter in the blaze of the spirit lamp under the urn.
+      she burnt Edward’s letter in the blaze of the spirit lamp under the urn.
     </p>
-    <p>
-      &ldquo;Why do you do that?&rdquo; he asked involuntarily.
+<p>
+      “Why do you do that?” he asked involuntarily.
     </p>
-    <p>
-      &ldquo;Because it is my duty to forget&rdquo; was all her answer.
+<p>
+      “Because it is my duty to forget” was all her answer.
     </p>
-    <p>
-      &ldquo;Can you always forget when it becomes a duty?&rdquo;
+<p>
+      “Can you always forget when it becomes a duty?”
      </p>
-    <p>
-      &ldquo;I wish I could! I wish I could!&rdquo;
+<p>
+      “I wish I could! I wish I could!”
      </p>
-    <p>
+<p>
       She spoke passionately, as if the words broke from her against her will,
       and, rising hastily, she went into the garden, as if afraid to stay.
     </p>
-    <p>
-      &ldquo;Poor, dear Jean is very unhappy about something, but I can&rsquo;t discover
+<p>
+      “Poor, dear Jean is very unhappy about something, but I can’t discover
       what it is. Last night I found her crying over a rose, and now she runs
-      away, looking as if her heart was broken. I&rsquo;m glad I&rsquo;ve got no lessons.&rdquo;
+      away, looking as if her heart was broken. I’m glad I’ve got no lessons.”
      </p>
-    <p>
-      &ldquo;What kind of a rose?&rdquo; asked Coventry from behind his paper as Bella
+<p>
+      “What kind of a rose?” asked Coventry from behind his paper as Bella
       paused.
     </p>
-    <p>
-      &ldquo;A lovely white one. It must have come from the Hall; we have none like
+<p>
+      “A lovely white one. It must have come from the Hall; we have none like
       it. I wonder if Jean was ever going to be married, and lost her lover, and
-      felt sad because the flower reminded her of bridal roses.&rdquo;
+      felt sad because the flower reminded her of bridal roses.”
      </p>
-    <p>
+<p>
       Coventry made no reply, but felt himself change countenance as he recalled
       the little scene behind the rose hedge, where he gave Jean the flower
-      which she had refused yet taken. Presently, to Bella&rsquo;s surprise, he flung
-      down the paper, tore Sydney&rsquo;s note to atoms, and rang for his horse with
+      which she had refused yet taken. Presently, to Bella’s surprise, he flung
+      down the paper, tore Sydney’s note to atoms, and rang for his horse with
       an energy which amazed her.
     </p>
-    <p>
-      &ldquo;Why, Gerald, what has come over you? One would think Ned&rsquo;s restless
-      spirit had suddenly taken possession of you. What are you going to do?&rdquo;
+<p>
+      “Why, Gerald, what has come over you? One would think Ned’s restless
+      spirit had suddenly taken possession of you. What are you going to do?”
      </p>
-    <p>
-      &ldquo;I&rsquo;m going to work&rdquo; was the unexpected answer, as Coventry turned toward
+<p>
+      “I’m going to work” was the unexpected answer, as Coventry turned toward
       her with an expression so rarely seen on his fine face.
     </p>
-    <p>
-      &ldquo;What has waked you up all at once?&rdquo; asked Bella, looking more and more
+<p>
+      “What has waked you up all at once?” asked Bella, looking more and more
       amazed.
     </p>
-    <p>
-      &ldquo;You did,&rdquo; he said, drawing her toward him.
+<p>
+      “You did,” he said, drawing her toward him.
     </p>
-    <p>
-      &ldquo;I! When? How?&rdquo;
+<p>
+      “I! When? How?”
      </p>
-    <p>
-      &ldquo;Do you remember saying once that energy was better than beauty in a man,
-      and that no one could respect an idler?&rdquo;
+<p>
+      “Do you remember saying once that energy was better than beauty in a man,
+      and that no one could respect an idler?”
      </p>
-    <p>
-      &ldquo;I never said anything half so sensible as that. Jean said something like
+<p>
+      “I never said anything half so sensible as that. Jean said something like
       it once, I believe, but I forgot. Are you tired of doing nothing, at last,
-      Gerald?&rdquo;
+      Gerald?”
      </p>
-    <p>
-      &ldquo;Yes, I neglected my duty to Ned, till he got into trouble, and now I
-      reproach myself for it. It&rsquo;s not too late to do other neglected tasks, so
-      I&rsquo;m going at them with a will. Don&rsquo;t say anything about it to anyone, and
-      don&rsquo;t laugh at me, for I&rsquo;m in earnest, Bell.&rdquo;
+<p>
+      “Yes, I neglected my duty to Ned, till he got into trouble, and now I
+      reproach myself for it. It’s not too late to do other neglected tasks, so
+      I’m going at them with a will. Don’t say anything about it to anyone, and
+      don’t laugh at me, for I’m in earnest, Bell.”
      </p>
-    <p>
-      &ldquo;I know you are, and I admire and love you for it, my dear old boy,&rdquo; cried
+<p>
+      “I know you are, and I admire and love you for it, my dear old boy,” cried
       Bella enthusiastically, as she threw her arms about his neck and kissed
-      him heartily. &ldquo;What will you do first?&rdquo; she asked, as he stood
+      him heartily. “What will you do first?” she asked, as he stood
       thoughtfully smoothing the bright head that leaned upon his shoulder, with
       that new expression still clear and steady in his face.
     </p>
-    <p>
-      &ldquo;I&rsquo;m going to ride over the whole estate, and attend to things as a master
-      should; not leave it all to Bent, of whom I&rsquo;ve heard many complaints, but
+<p>
+      “I’m going to ride over the whole estate, and attend to things as a master
+      should; not leave it all to Bent, of whom I’ve heard many complaints, but
       have been too idle to inquire about them. I shall consult Uncle, and
       endeavor to be all that my father was in his time. Is that a worthy
-      ambition, dear?&rdquo;
+      ambition, dear?”
      </p>
-    <p>
-      &ldquo;Oh, Gerald, let me tell Mamma. It will make her so happy. You are her
+<p>
+      “Oh, Gerald, let me tell Mamma. It will make her so happy. You are her
       idol, and to hear you say these things, to see you look so like dear Papa,
-      would do more for her spirits than all the doctors in England.&rdquo;
+      would do more for her spirits than all the doctors in England.”
      </p>
-    <p>
-      &ldquo;Wait till I prove what my resolution is worth. When I have really done
-      something, then I&rsquo;ll surprise Mamma with a sample of my work.&rdquo;
+<p>
+      “Wait till I prove what my resolution is worth. When I have really done
+      something, then I’ll surprise Mamma with a sample of my work.”
      </p>
-    <p>
-      &ldquo;Of course you&rsquo;ll tell Lucia?&rdquo;
+<p>
+      “Of course you’ll tell Lucia?”
      </p>
-    <p>
-      &ldquo;Not on any account. It is a little secret between us, so keep it till I
-      give you leave to tell it.&rdquo;
+<p>
+      “Not on any account. It is a little secret between us, so keep it till I
+      give you leave to tell it.”
      </p>
-    <p>
-      &ldquo;But Jean will see it at once; she knows everything that happens, she is
-      so quick and wise. Do you mind her knowing?&rdquo;
+<p>
+      “But Jean will see it at once; she knows everything that happens, she is
+      so quick and wise. Do you mind her knowing?”
      </p>
-    <p>
-      &ldquo;I don&rsquo;t see that I can help it if she is so wonderfully gifted. Let her
-      see what she can, I don&rsquo;t mind her. Now I&rsquo;m off.&rdquo; And with a kiss to his
+<p>
+      “I don’t see that I can help it if she is so wonderfully gifted. Let her
+      see what she can, I don’t mind her. Now I’m off.” And with a kiss to his
       sister, a sudden smile on his face, Coventry sprang upon his horse and
       rode away at a pace which caused the groom to stare after him in blank
       amazement.
     </p>
-    <p>
+<p>
       Nothing more was seen of him till dinnertime, when he came in so
       exhilarated by his brisk ride and busy morning that he found some
       difficulty in assuming his customary manner, and more than once astonished
@@ -3709,26 +3747,26 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       always seemed utterly uninteresting to him. Lucia was amazed, his mother
       delighted, and Bella could hardly control her desire to explain the
       mystery; but Jean took it very calmly and regarded him with the air of one
-      who said, &ldquo;I understand, but you will soon tire of it.&rdquo; This nettled him
+      who said, “I understand, but you will soon tire of it.” This nettled him
       more than he would confess, and he exerted himself to silently contradict
       that prophecy.
     </p>
-    <p>
-      &ldquo;Have you answered Mr. Sydney&rsquo;s letter?&rdquo; asked Bella, when they were all
+<p>
+      “Have you answered Mr. Sydney’s letter?” asked Bella, when they were all
       scattered about the drawing room after dinner.
     </p>
-    <p>
-      &ldquo;No,&rdquo; answered her brother, who was pacing up and down with restless
+<p>
+      “No,” answered her brother, who was pacing up and down with restless
       steps, instead of lounging near his beautiful cousin.
     </p>
-    <p>
-      &ldquo;I ask because I remembered that Ned sent a message for him in my last
-      note, as he thought you would know Sydney&rsquo;s address. Here it is, something
-      about a horse. Please put it in when you write,&rdquo; and Bella laid the note
+<p>
+      “I ask because I remembered that Ned sent a message for him in my last
+      note, as he thought you would know Sydney’s address. Here it is, something
+      about a horse. Please put it in when you write,” and Bella laid the note
       on the writing table nearby.
     </p>
-    <p>
-      &ldquo;I&rsquo;ll send it at once and have done with it,&rdquo; muttered Coventry and,
+<p>
+      “I’ll send it at once and have done with it,” muttered Coventry and,
       seating himself, he dashed off a few lines, sealed and sent the letter,
       and then resumed his march, eyeing the three young ladies with three
       different expressions, as he passed and repassed. Lucia sat apart,
@@ -3743,22 +3781,22 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       The close braids were gone, and loose curls dropped here and there from
       the heavy coil wound around her well-shaped head. The tip of one dainty
       foot was visible, and a petulant little gesture which now and then shook
-      back the falling sleeve gave glimpses of a round white arm. Ned&rsquo;s great
+      back the falling sleeve gave glimpses of a round white arm. Ned’s great
       hound lay nearby, the sunshine flickered on her through the leaves, and as
       she sat smiling to herself, while the dexterous hands shaped leaf and
       flower, she made a charming picture of all that is most womanly and
-      winning; a picture which few men&rsquo;s eyes would not have liked to rest upon.
+      winning; a picture which few men’s eyes would not have liked to rest upon.
     </p>
-    <p>
+<p>
       Another chair stood near her, and as Coventry went up and down, a strong
       desire to take it possessed him. He was tired of his thoughts and wished
-      to be amused by watching the changes of the girl&rsquo;s expressive face,
+      to be amused by watching the changes of the girl’s expressive face,
       listening to the varying tones of her voice, and trying to discover the
       spell which so strongly attracted him in spite of himself. More than once
-      he swerved from his course to gratify his whim, but Lucia&rsquo;s presence
+      he swerved from his course to gratify his whim, but Lucia’s presence
       always restrained him, and with a word to the dog, or a glance from the
       window, as pretext for a pause, he resumed his walk again. Something in
-      his cousin&rsquo;s face reproached him, but her manner of late was so repellent
+      his cousin’s face reproached him, but her manner of late was so repellent
       that he felt no desire to resume their former familiarity, and, wishing to
       show that he did not consider himself bound, he kept aloof. It was a quiet
       test of the power of each woman over this man; they instinctively felt it,
@@ -3775,20 +3813,20 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       Letting a ball of silk escape from her lap, she watched it roll toward the
       promenader, who caught and returned it with an alacrity which added grace
       to the trifling service. As she took it, she said, in the frank way that
-      never failed to win him, &ldquo;I think you must be tired; but if exercise is
-      necessary, employ your energies to some purpose and put your mother&rsquo;s
+      never failed to win him, “I think you must be tired; but if exercise is
+      necessary, employ your energies to some purpose and put your mother’s
       basket of silks in order. They are in a tangle, and it will please her to
-      know that you did it, as your brother used to do.&rdquo;
+      know that you did it, as your brother used to do.”
      </p>
-    <p>
-      &ldquo;Hercules at the distaff,&rdquo; said Coventry gaily, and down he sat in the
+<p>
+      “Hercules at the distaff,” said Coventry gaily, and down he sat in the
       long-desired seat. Jean put the basket on his knee, and as he surveyed it,
       as if daunted at his task, she leaned back, and indulged in a musical
       little peal of laughter charming to hear. Lucia sat dumb with surprise, to
       see her proud, indolent cousin obeying the commands of a governess, and
       looking as if he heartily enjoyed it. In ten minutes she was as entirely
       forgotten as if she had been miles away; for Jean seemed in her wittiest,
-      gayest mood, and as she now treated the &ldquo;young master&rdquo; like an equal,
+      gayest mood, and as she now treated the “young master” like an equal,
       there was none of the former meek timidity. Yet often her eyes fell, her
       color changed, and the piquant sallies faltered on her tongue, as Coventry
       involuntarily looked deep into the fine eyes which had once shone on him
@@ -3798,290 +3836,290 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       long as she could, and then left the room with the air of an insulted
       princess; but Coventry did not, and Jean feigned not to see her go. Bella
       was fast asleep, and before he knew how it came to pass, the young man was
-      listening to the story of his companion&rsquo;s life. A sad tale, told with
+      listening to the story of his companion’s life. A sad tale, told with
       wonderful skill, for soon he was absorbed in it. The basket slid
       unobserved from his knee, the dog was pushed away, and, leaning forward,
-      he listened eagerly as the girl&rsquo;s low voice recounted all the hardships,
+      he listened eagerly as the girl’s low voice recounted all the hardships,
       loneliness, and grief of her short life. In the midst of a touching
       episode she started, stopped, and looked straight before her, with an
       intent expression which changed to one of intense contempt, and her eye
-      turned to Coventry&rsquo;s, as she said, pointing to the window behind him, &ldquo;We
-      are watched.&rdquo;
+      turned to Coventry’s, as she said, pointing to the window behind him, “We
+      are watched.”
      </p>
-    <p>
-      &ldquo;By whom?&rdquo; he demanded, starting up angrily.
+<p>
+      “By whom?” he demanded, starting up angrily.
     </p>
-    <p>
-      &ldquo;Hush, say nothing, let it pass. I am used to it.&rdquo;
+<p>
+      “Hush, say nothing, let it pass. I am used to it.”
      </p>
-    <p>
-      &ldquo;But <i>I</i> am not, and I&rsquo;ll not submit to it. Who was it, Jean?&rdquo; he
+<p>
+      “But <i>I</i> am not, and I’ll not submit to it. Who was it, Jean?” he
       answered hotly.
     </p>
-    <p>
+<p>
       She smiled significantly at a knot of rose-colored ribbon, which a little
       gust was blowing toward them along the terrace. A black frown darkened the
-      young man&rsquo;s face as he sprang out of the long window and went rapidly out
+      young man’s face as he sprang out of the long window and went rapidly out
       of sight, scrutinizing each green nook as he passed. Jean laughed quietly
       as she watched him, and said softly to herself, with her eyes on the
-      fluttering ribbon, &ldquo;That was a fortunate accident, and a happy
+      fluttering ribbon, “That was a fortunate accident, and a happy
       inspiration. Yes, my dear Mrs. Dean, you will find that playing the spy
       will only get your mistress as well as yourself into trouble. You would
       not be warned, and you must take the consequences, reluctant as I am to
-      injure a worthy creature like yourself.&rdquo;
+      injure a worthy creature like yourself.”
      </p>
-    <p>
+<p>
       Soon Coventry was heard returning. Jean listened with suspended breath to
       catch his first words, for he was not alone.
     </p>
-    <p>
-      &ldquo;Since you insist that it was you and not your mistress, I let it pass,
+<p>
+      “Since you insist that it was you and not your mistress, I let it pass,
       although I still have my suspicions. Tell Miss Beaufort I desire to see
       her for a few moments in the library. Now go, Dean, and be careful for the
-      future, if you wish to stay in my house.&rdquo;
+      future, if you wish to stay in my house.”
      </p>
-    <p>
+<p>
       The maid retired, and the young man came in looking both ireful and stern.
     </p>
-    <p>
-      &ldquo;I wish I had said nothing, but I was startled, and spoke involuntarily.
+<p>
+      “I wish I had said nothing, but I was startled, and spoke involuntarily.
       Now you are angry, and I have made fresh trouble for poor Miss Lucia.
       Forgive me as I forgive her, and let it pass. I have learned to bear this
-      surveillance, and pity her causeless jealousy,&rdquo; said Jean, with a
+      surveillance, and pity her causeless jealousy,” said Jean, with a
       self-reproachful air.
     </p>
-    <p>
-      &ldquo;I will forgive the dishonorable act, but I cannot forget it, and I intend
+<p>
+      “I will forgive the dishonorable act, but I cannot forget it, and I intend
       to put a stop to it. I am not betrothed to my cousin, as I told you once,
       but you, like all the rest, seem bent on believing that I am. Hitherto I
       have cared too little about the matter to settle it, but now I shall prove
-      beyond all doubt that I am free.&rdquo;
+      beyond all doubt that I am free.”
      </p>
-    <p>
+<p>
       As he uttered the last word, Coventry cast on Jean a look that affected
       her strangely. She grew pale, her work dropped on her lap, and her eyes
       rose to his, with an eager, questioning expression, which slowly changed
       to one of mingled pain and pity, as she turned her face away, murmuring in
-      a tone of tender sorrow, &ldquo;Poor Lucia, who will comfort her?&rdquo;
+      a tone of tender sorrow, “Poor Lucia, who will comfort her?”
      </p>
-    <p>
+<p>
       For a moment Coventry stood silent, as if weighing some fateful purpose in
-      his mind. As Jean&rsquo;s rapt sigh of compassion reached his ear, he had echoed
+      his mind. As Jean’s rapt sigh of compassion reached his ear, he had echoed
       it within himself, and half repented of his resolution; then his eye
       rested on the girl before him looking so lonely in her sweet sympathy for
       another that his heart yearned toward her. Sudden fire shot into his eye,
       sudden warmth replaced the cold sternness of his face, and his steady
-      voice faltered suddenly, as he said, very low, yet very earnestly, &ldquo;Jean,
+      voice faltered suddenly, as he said, very low, yet very earnestly, “Jean,
       I have tried to love her, but I cannot. Ought I to deceive her, and make
-      myself miserable to please my family?&rdquo;
+      myself miserable to please my family?”
      </p>
-    <p>
-      &ldquo;She is beautiful and good, and loves you tenderly; is there no hope for
-      her?&rdquo; asked Jean, still pale, but very quiet, though she held one hand
+<p>
+      “She is beautiful and good, and loves you tenderly; is there no hope for
+      her?” asked Jean, still pale, but very quiet, though she held one hand
       against her heart, as if to still or hide its rapid beating.
     </p>
-    <p>
-      &ldquo;None,&rdquo; answered Coventry.
+<p>
+      “None,” answered Coventry.
     </p>
-    <p>
-      &ldquo;But can you not learn to love her? Your will is strong, and most men
-      would not find it a hard task.&rdquo;
+<p>
+      “But can you not learn to love her? Your will is strong, and most men
+      would not find it a hard task.”
      </p>
-    <p>
-      &ldquo;I cannot, for something stronger than my own will controls me.&rdquo;
+<p>
+      “I cannot, for something stronger than my own will controls me.”
      </p>
-    <p>
-      &ldquo;What is that?&rdquo; And Jean&rsquo;s dark eyes were fixed upon him, full of innocent
+<p>
+      “What is that?” And Jean’s dark eyes were fixed upon him, full of innocent
       wonder.
     </p>
-    <p>
-      His fell, and he said hastily, &ldquo;I dare not tell you yet.&rdquo;
+<p>
+      His fell, and he said hastily, “I dare not tell you yet.”
      </p>
-    <p>
-      &ldquo;Pardon! I should not have asked. Do not consult me in this matter; I am
+<p>
+      “Pardon! I should not have asked. Do not consult me in this matter; I am
       not the person to advise you. I can only say that it seems to me as if any
       man with an empty heart would be glad to have so beautiful a woman as your
-      cousin.&rdquo;
+      cousin.”
      </p>
-    <p>
-      &ldquo;My heart is not empty,&rdquo; began Coventry, drawing a step nearer, and
-      speaking in a passionate voice. &ldquo;Jean, I <i>must</i> speak; hear me. I
-      cannot love my cousin, because I love you.&rdquo;
+<p>
+      “My heart is not empty,” began Coventry, drawing a step nearer, and
+      speaking in a passionate voice. “Jean, I <i>must</i> speak; hear me. I
+      cannot love my cousin, because I love you.”
      </p>
-    <p>
-      &ldquo;Stop!&rdquo; And Jean sprang up with a commanding gesture. &ldquo;I will not hear you
-      while any promise binds you to another. Remember your mother&rsquo;s wishes,
-      Lucia&rsquo;s hopes, Edward&rsquo;s last words, your own pride, my humble lot. You
+<p>
+      “Stop!” And Jean sprang up with a commanding gesture. “I will not hear you
+      while any promise binds you to another. Remember your mother’s wishes,
+      Lucia’s hopes, Edward’s last words, your own pride, my humble lot. You
       forget yourself, Mr. Coventry. Think well before you speak, weigh the cost
       of this act, and recollect who I am before you insult me by any transient
-      passion, any false vows.&rdquo;
+      passion, any false vows.”
      </p>
-    <p>
-      &ldquo;I have thought, I do weigh the cost, and I swear that I desire to woo you
+<p>
+      “I have thought, I do weigh the cost, and I swear that I desire to woo you
       as humbly, honestly as I would any lady in the land. You speak of my
       pride. Do I stoop in loving my equal in rank? You speak of your lowly lot,
       but poverty is no disgrace, and the courage with which you bear it makes
       it beautiful. I should have broken with Lucia before I spoke, but I could
       not control myself. My mother loves you, and will be happy in my
       happiness. Edward must forgive me, for I have tried to do my best, but
-      love is irresistible. Tell me, Jean, is there any hope for me?&rdquo;
+      love is irresistible. Tell me, Jean, is there any hope for me?”
      </p>
-    <p>
+<p>
       He had seized her hand and was speaking impetuously, with ardent face and
       tender tone, but no answer came, for as Jean turned her eloquent
-      countenance toward him, full of maiden shame and timid love, Dean&rsquo;s prim
+      countenance toward him, full of maiden shame and timid love, Dean’s prim
       figure appeared at the door, and her harsh voice broke the momentary
-      silence, saying, sternly, &ldquo;Miss Beaufort is waiting for you, sir.&rdquo;
+      silence, saying, sternly, “Miss Beaufort is waiting for you, sir.”
      </p>
-    <p>
-      &ldquo;Go, go at once, and be kind, for my sake, Gerald,&rdquo; whispered Jean, for he
+<p>
+      “Go, go at once, and be kind, for my sake, Gerald,” whispered Jean, for he
       stood as if deaf and blind to everything but her voice, her face.
     </p>
-    <p>
+<p>
       As she drew his head down to whisper, her cheek touched his, and
-      regardless of Dean, he kissed it, passionately, whispering back, &ldquo;My
-      little Jean! For your sake I can be anything.&rdquo;
+      regardless of Dean, he kissed it, passionately, whispering back, “My
+      little Jean! For your sake I can be anything.”
      </p>
-    <p>
-      &ldquo;Miss Beaufort is waiting. Shall I say you will come, sir?&rdquo; demanded Dean,
+<p>
+      “Miss Beaufort is waiting. Shall I say you will come, sir?” demanded Dean,
       pale and grim with indignation.
     </p>
-    <p>
-      &ldquo;Yes, yes, I&rsquo;ll come. Wait for me in the garden, Jean.&rdquo; And Coventry
+<p>
+      “Yes, yes, I’ll come. Wait for me in the garden, Jean.” And Coventry
       hurried away, in no mood for the interview but anxious to have it over.
     </p>
-    <p>
+<p>
       As the door closed behind him, Dean walked up to Miss Muir, trembling with
       anger, and laying a heavy hand on her arm, she said below her breath,
-      &ldquo;I&rsquo;ve been expecting this, you artful creature. I saw your game and did my
-      best to spoil it, but you are too quick for me. You think you&rsquo;ve got him.
-      There you are mistaken; for as sure as my name is Hester Dean, I&rsquo;ll
-      prevent it, or Sir John shall.&rdquo;
+      “I’ve been expecting this, you artful creature. I saw your game and did my
+      best to spoil it, but you are too quick for me. You think you’ve got him.
+      There you are mistaken; for as sure as my name is Hester Dean, I’ll
+      prevent it, or Sir John shall.”
      </p>
-    <p>
-      &ldquo;Take your hand away and treat me with proper respect, or you will be
-      dismissed from this house. Do you know who I am?&rdquo; And Jean drew herself up
+<p>
+      “Take your hand away and treat me with proper respect, or you will be
+      dismissed from this house. Do you know who I am?” And Jean drew herself up
       with a haughty air, which impressed the woman more deeply than her words.
-      &ldquo;I am the daughter of Lady Howard and, if I choose it, can be the wife of
-      Mr. Coventry.&rdquo;
+      “I am the daughter of Lady Howard and, if I choose it, can be the wife of
+      Mr. Coventry.”
      </p>
-    <p>
+<p>
       Dean drew back amazed, yet not convinced. Being a well-trained servant, as
       well as a prudent woman, she feared to overstep the bounds of respect, to
       go too far, and get her mistress as well as herself into trouble. So,
       though she still doubted Jean, and hated her more than ever, she
       controlled herself. Dropping a curtsy, she assumed her usual air of
-      deference, and said, meekly, &ldquo;I beg pardon, miss. If I&rsquo;d known, I should
+      deference, and said, meekly, “I beg pardon, miss. If I’d known, I should
       have conducted myself differently, of course, but ordinary governesses
-      make so much mischief in a house, one can&rsquo;t help mistrusting them. I don&rsquo;t
+      make so much mischief in a house, one can’t help mistrusting them. I don’t
       wish to meddle or be overbold, but being fond of my dear young lady, I
       naturally take her part, and must say that Mr. Coventry has not acted like
-      a gentleman.&rdquo;
+      a gentleman.”
      </p>
-    <p>
-      &ldquo;Think what you please, Dean, but I advise you to say as little as
+<p>
+      “Think what you please, Dean, but I advise you to say as little as
       possible if you wish to remain. I have not accepted Mr. Coventry yet, and
       if he chooses to set aside the engagement his family made for him, I think
       he has a right to do so. Miss Beaufort would hardly care to marry him
-      against his will, because he pities her for her unhappy love,&rdquo; and with a
+      against his will, because he pities her for her unhappy love,” and with a
       tranquil smile, Miss Muir walked away.
     </p>
-    <p>
-      <br /><br />
-    </p>
-    <hr />
-    <p>
-      <a name="link2H_4_0007" id="link2H_4_0007"> </a>
-    </p>
-    <div style="height: 4em;">
-      <br /><br /><br /><br />
-    </div>
-    <h2>
-      <i>Chapter VII</i> THE LAST CHANCE
+<p>
+<br><br>
+</p>
+<hr>
+<p>
+<a id="link2H_4_0007"> </a>
+</p>
+<div style="height: 4em;">
+<br><br><br><br>
+</div>
+<h2>
+<i>Chapter VII</i> THE LAST CHANCE
     </h2>
-    <p>
-      &ldquo;She will tell Sir John, will she? Then I must be before her, and hasten
+<p>
+      “She will tell Sir John, will she? Then I must be before her, and hasten
       events. It will be as well to have all sure before there can be any
       danger. My poor Dean, you are no match for me, but you may prove annoying,
-      nevertheless.&rdquo;
+      nevertheless.”
      </p>
-    <p>
-      These thoughts passed through Miss Muir&rsquo;s mind as she went down the hall,
+<p>
+      These thoughts passed through Miss Muir’s mind as she went down the hall,
       pausing an instant at the library door, for the murmur of voices was
-      heard. She caught no word, and had only time for an instant&rsquo;s pause as
-      Dean&rsquo;s heavy step followed her. Turning, Jean drew a chair before the
-      door, and, beckoning to the woman, she said, smiling still, &ldquo;Sit here and
-      play watchdog. I am going to Miss Bella, so you can nod if you will.&rdquo;
+      heard. She caught no word, and had only time for an instant’s pause as
+      Dean’s heavy step followed her. Turning, Jean drew a chair before the
+      door, and, beckoning to the woman, she said, smiling still, “Sit here and
+      play watchdog. I am going to Miss Bella, so you can nod if you will.”
      </p>
-    <p>
-      &ldquo;Thank you, miss. I will wait for my young lady. She may need me when this
-      hard time is over.&rdquo; And Dean seated herself with a resolute face.
+<p>
+      “Thank you, miss. I will wait for my young lady. She may need me when this
+      hard time is over.” And Dean seated herself with a resolute face.
     </p>
-    <p>
+<p>
       Jean laughed and went on; but her eyes gleamed with sudden malice, and she
       glanced over her shoulder with an expression which boded ill for the
       faithful old servant.
     </p>
-    <p>
-      &ldquo;I&rsquo;ve got a letter from Ned, and here is a tiny note for you,&rdquo; cried Bella
-      as Jean entered the boudoir. &ldquo;Mine is a very odd, hasty letter, with no
+<p>
+      “I’ve got a letter from Ned, and here is a tiny note for you,” cried Bella
+      as Jean entered the boudoir. “Mine is a very odd, hasty letter, with no
       news in it, but his meeting with Sydney. I hope yours is better, or it
-      won&rsquo;t be very satisfactory.&rdquo;
+      won’t be very satisfactory.”
      </p>
-    <p>
-      As Sydney&rsquo;s name passed Bella&rsquo;s lips, all the color died out of Miss
-      Muir&rsquo;s face, and the note shook with the tremor of her hand. Her very lips
-      were white, but she said calmly, &ldquo;Thank you. As you are busy, I&rsquo;ll go and
-      read my letter on the lawn.&rdquo; And before Bella could speak, she was gone.
+<p>
+      As Sydney’s name passed Bella’s lips, all the color died out of Miss
+      Muir’s face, and the note shook with the tremor of her hand. Her very lips
+      were white, but she said calmly, “Thank you. As you are busy, I’ll go and
+      read my letter on the lawn.” And before Bella could speak, she was gone.
     </p>
-    <p>
+<p>
       Hurrying to a quiet nook, Jean tore open the note and read the few blotted
       lines it contained.
     </p>
-    <p>
-      <i>I have seen Sydney; he has told me all; and, hard as I found it to
+<p>
+<i>I have seen Sydney; he has told me all; and, hard as I found it to
       believe, it was impossible to doubt, for he has discovered proofs which
       cannot be denied. I make no reproaches, shall demand no confession or
       atonement, for I cannot forget that I once loved you. I give you three
       days to find another home, before I return to tell the family who you are.
       Go at once, I beseech you, and spare me the pain of seeing your disgrace.</i>
-    </p>
-    <p>
+</p>
+<p>
       Slowly, steadily she read it twice over, then sat motionless, knitting her
       brows in deep thought. Presently she drew a long breath, tore up the note,
-      and rising, went slowly toward the Hall, saying to herself, &ldquo;Three days,
+      and rising, went slowly toward the Hall, saying to herself, “Three days,
       only three days! Can it be accomplished in so short a time? It shall be,
-      if wit and will can do it, for it is my last chance. If this fails, I&rsquo;ll
-      not go back to my old life, but end all at once.&rdquo;
+      if wit and will can do it, for it is my last chance. If this fails, I’ll
+      not go back to my old life, but end all at once.”
      </p>
-    <p>
+<p>
       Setting her teeth and clenching her hands, as if some memory stung her,
       she went on through the twilight, to find Sir John waiting to give her a
       hearty welcome.
     </p>
-    <p>
-      &ldquo;You look tired, my dear. Never mind the reading tonight; rest yourself,
-      and let the book go,&rdquo; he said kindly, observing her worn look.
+<p>
+      “You look tired, my dear. Never mind the reading tonight; rest yourself,
+      and let the book go,” he said kindly, observing her worn look.
     </p>
-    <p>
-      &ldquo;Thank you, sir. I am tired, but I&rsquo;d rather read, else the book will not
-      be finished before I go.&rdquo;
+<p>
+      “Thank you, sir. I am tired, but I’d rather read, else the book will not
+      be finished before I go.”
      </p>
-    <p>
-      &ldquo;Go, child! Where are you going?&rdquo; demanded Sir John, looking anxiously at
+<p>
+      “Go, child! Where are you going?” demanded Sir John, looking anxiously at
       her as she sat down.
     </p>
-    <p>
-      &ldquo;I will tell you by-and-by, sir.&rdquo; And opening the book, Jean read for a
+<p>
+      “I will tell you by-and-by, sir.” And opening the book, Jean read for a
       little while.
     </p>
-    <p>
+<p>
       But the usual charm was gone; there was no spirit in the voice of the
       reader, no interest in the face of the listener, and soon he said,
-      abruptly, &ldquo;My dear, pray stop! I cannot listen with a divided mind. What
-      troubles you? Tell your friend, and let him comfort you.&rdquo;
+      abruptly, “My dear, pray stop! I cannot listen with a divided mind. What
+      troubles you? Tell your friend, and let him comfort you.”
      </p>
-    <p>
+<p>
       As if the kind words overcame her, Jean dropped the book, covered up her
       face, and wept so bitterly that Sir John was much alarmed; for such a
       demonstration was doubly touching in one who usually was all gaiety and
@@ -4091,21 +4129,21 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       to be frank, promising to help and counsel her, whatever the affliction or
       fault might be.
     </p>
-    <p>
-      &ldquo;Ah, you are too kind, too generous! How can I go away and leave my one
-      friend?&rdquo; sighed Jean, wiping the tears away and looking up at him with
+<p>
+      “Ah, you are too kind, too generous! How can I go away and leave my one
+      friend?” sighed Jean, wiping the tears away and looking up at him with
       grateful eyes.
     </p>
-    <p>
-      &ldquo;Then you do care a little for the old man?&rdquo; said Sir John with an eager
+<p>
+      “Then you do care a little for the old man?” said Sir John with an eager
       look, an involuntary pressure of the hand he held.
     </p>
-    <p>
-      Jean turned her face away, and answered, very low, &ldquo;No one ever was so
+<p>
+      Jean turned her face away, and answered, very low, “No one ever was so
       kind to me as you have been. Can I help caring for you more than I can
-      express?&rdquo;
+      express?”
      </p>
-    <p>
+<p>
       Sir John was a little deaf at times, but he heard that, and looked well
       pleased. He had been rather thoughtful of late, had dressed with unusual
       care, been particularly gallant and gay when the young ladies visited him,
@@ -4120,97 +4158,97 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       him with tearful eyes, and some soft trouble in her heart which she dared
       not confess.
     </p>
-    <p>
-      &ldquo;Tell me everything, child, and let your friend help you if he can.&rdquo;
-       Formerly he said &ldquo;father&rdquo; or &ldquo;the old man,&rdquo; but lately he always spoke of
-      himself as her &ldquo;friend.&rdquo;
+<p>
+      “Tell me everything, child, and let your friend help you if he can.”
+       Formerly he said “father” or “the old man,” but lately he always spoke of
+      himself as her “friend.”
      </p>
-    <p>
-      &ldquo;I will tell you, for I have no one else to turn to. I must go away
-      because Mr. Coventry has been weak enough to love me.&rdquo;
+<p>
+      “I will tell you, for I have no one else to turn to. I must go away
+      because Mr. Coventry has been weak enough to love me.”
      </p>
-    <p>
-      &ldquo;What, Gerald?&rdquo; cried Sir John, amazed.
+<p>
+      “What, Gerald?” cried Sir John, amazed.
     </p>
-    <p>
-      &ldquo;Yes; today he told me this, and left me to break with Lucia; so I ran to
-      you to help me prevent him from disappointing his mother&rsquo;s hopes and
-      plans.&rdquo;
+<p>
+      “Yes; today he told me this, and left me to break with Lucia; so I ran to
+      you to help me prevent him from disappointing his mother’s hopes and
+      plans.”
      </p>
-    <p>
+<p>
       Sir John had started up and paced down the room, but as Jean paused he
-      turned toward her, saying, with an altered face, &ldquo;Then you do not love
-      him? Is it possible?&rdquo;
+      turned toward her, saying, with an altered face, “Then you do not love
+      him? Is it possible?”
      </p>
-    <p>
-      &ldquo;No, I do not love him,&rdquo; she answered promptly.
+<p>
+      “No, I do not love him,” she answered promptly.
     </p>
-    <p>
-      &ldquo;Yet he is all that women usually find attractive. How is it that you have
-      escaped, Jean?&rdquo;
+<p>
+      “Yet he is all that women usually find attractive. How is it that you have
+      escaped, Jean?”
      </p>
-    <p>
-      &ldquo;I love someone else&rdquo; was the scarcely audible reply.
+<p>
+      “I love someone else” was the scarcely audible reply.
     </p>
-    <p>
+<p>
       Sir John resumed his seat with the air of a man bent on getting at a
       mystery, if possible.
     </p>
-    <p>
-      &ldquo;It will be unjust to let you suffer for the folly of these boys, my
+<p>
+      “It will be unjust to let you suffer for the folly of these boys, my
       little girl. Ned is gone, and I was sure that Gerald was safe; but now
-      that his turn has come, I am perplexed, for he cannot be sent away.&rdquo;
+      that his turn has come, I am perplexed, for he cannot be sent away.”
      </p>
-    <p>
-      &ldquo;No, it is I who must go; but it seems so hard to leave this safe and
+<p>
+      “No, it is I who must go; but it seems so hard to leave this safe and
       happy home, and wander away into the wide, cold world again. You have all
-      been too kind to me, and now separation breaks my heart.&rdquo;
+      been too kind to me, and now separation breaks my heart.”
      </p>
-    <p>
-      A sob ended the speech, and Jean&rsquo;s head went down upon her hands again.
+<p>
+      A sob ended the speech, and Jean’s head went down upon her hands again.
       Sir John looked at her a moment, and his fine old face was full of genuine
-      emotion, as he said slowly, &ldquo;Jean, will you stay and be a daughter to the
-      solitary old man?&rdquo;
+      emotion, as he said slowly, “Jean, will you stay and be a daughter to the
+      solitary old man?”
      </p>
-    <p>
-      &ldquo;No, sir&rdquo; was the unexpected answer.
+<p>
+      “No, sir” was the unexpected answer.
     </p>
-    <p>
-      &ldquo;And why not?&rdquo; asked Sir John, looking surprised, but rather pleased than
+<p>
+      “And why not?” asked Sir John, looking surprised, but rather pleased than
       angry.
     </p>
-    <p>
-      &ldquo;Because I could not be a daughter to you; and even if I could, it would
+<p>
+      “Because I could not be a daughter to you; and even if I could, it would
       not be wise, for the gossips would say you were not old enough to be the
       adopted father of a girl like me. Sir John, young as I am, I know much of
       the world, and am sure that this kind plan is impractical; but I thank you
-      from the bottom of my heart.&rdquo;
+      from the bottom of my heart.”
      </p>
-    <p>
-      &ldquo;Where will you go, Jean?&rdquo; asked Sir John, after a pause.
+<p>
+      “Where will you go, Jean?” asked Sir John, after a pause.
     </p>
-    <p>
-      &ldquo;To London, and try to find another situation where I can do no harm.&rdquo;
+<p>
+      “To London, and try to find another situation where I can do no harm.”
      </p>
-    <p>
-      &ldquo;Will it be difficult to find another home?&rdquo;
+<p>
+      “Will it be difficult to find another home?”
      </p>
-    <p>
-      &ldquo;Yes. I cannot ask Mrs. Coventry to recommend me, when I have innocently
+<p>
+      “Yes. I cannot ask Mrs. Coventry to recommend me, when I have innocently
       brought so much trouble into her family; and Lady Sydney is gone, so I
-      have no friend.&rdquo;
+      have no friend.”
      </p>
-    <p>
-      &ldquo;Except John Coventry. I will arrange all that. When will you go, Jean?&rdquo;
+<p>
+      “Except John Coventry. I will arrange all that. When will you go, Jean?”
      </p>
-    <p>
-      &ldquo;Tomorrow.&rdquo;
+<p>
+      “Tomorrow.”
      </p>
-    <p>
-      &ldquo;So soon!&rdquo; And the old man&rsquo;s voice betrayed the trouble he was trying to
+<p>
+      “So soon!” And the old man’s voice betrayed the trouble he was trying to
       conceal.
     </p>
-    <p>
+<p>
       Jean had grown very calm, but it was the calmness of desperation. She had
       hoped that the first tears would produce the avowal for which she waited.
       It had not, and she began to fear that her last chance was slipping from
@@ -4218,69 +4256,69 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       profit by each moment, she was on the alert for any hopeful hint, any
       propitious word, look, or act, and every nerve was strung to the utmost.
     </p>
-    <p>
-      &ldquo;Jean, may I ask one question?&rdquo; said Sir John.
+<p>
+      “Jean, may I ask one question?” said Sir John.
     </p>
-    <p>
-      &ldquo;Anything of me, sir.&rdquo;
+<p>
+      “Anything of me, sir.”
      </p>
-    <p>
-      &ldquo;This man whom you love&mdash;can he not help you?&rdquo;
+<p>
+      “This man whom you love—can he not help you?”
      </p>
-    <p>
-      &ldquo;He could if he knew, but he must not.&rdquo;
+<p>
+      “He could if he knew, but he must not.”
      </p>
-    <p>
-      &ldquo;If he knew what? Your present trouble?&rdquo;
+<p>
+      “If he knew what? Your present trouble?”
      </p>
-    <p>
-      &ldquo;No. My love.&rdquo;
+<p>
+      “No. My love.”
      </p>
-    <p>
-      &ldquo;He does not know this, then?&rdquo;
+<p>
+      “He does not know this, then?”
      </p>
-    <p>
-      &ldquo;No, thank heaven! And he never will.&rdquo;
+<p>
+      “No, thank heaven! And he never will.”
      </p>
-    <p>
-      &ldquo;Why not?&rdquo;
+<p>
+      “Why not?”
      </p>
-    <p>
-      &ldquo;Because I am too proud to own it.&rdquo;
+<p>
+      “Because I am too proud to own it.”
      </p>
-    <p>
-      &ldquo;He loves you, my child?&rdquo;
+<p>
+      “He loves you, my child?”
      </p>
-    <p>
-      &ldquo;I do not know&mdash;I dare not hope it,&rdquo; murmured Jean.
+<p>
+      “I do not know—I dare not hope it,” murmured Jean.
     </p>
-    <p>
-      &ldquo;Can I not help you here? Believe me, I desire to see you safe and happy.
-      Is there nothing I can do?&rdquo;
+<p>
+      “Can I not help you here? Believe me, I desire to see you safe and happy.
+      Is there nothing I can do?”
      </p>
-    <p>
-      &ldquo;Nothing, nothing.&rdquo;
+<p>
+      “Nothing, nothing.”
      </p>
-    <p>
-      &ldquo;May I know the name?&rdquo;
+<p>
+      “May I know the name?”
      </p>
-    <p>
-      &ldquo;No! No! Let me go; I cannot bear this questioning!&rdquo; And Jean&rsquo;s
+<p>
+      “No! No! Let me go; I cannot bear this questioning!” And Jean’s
       distressful face warned him to ask no more.
     </p>
-    <p>
-      &ldquo;Forgive me, and let me do what I may. Rest here quietly. I&rsquo;ll write a
+<p>
+      “Forgive me, and let me do what I may. Rest here quietly. I’ll write a
       letter to a good friend of mine, who will find you a home, if you leave
-      us.&rdquo;
+      us.”
      </p>
-    <p>
+<p>
       As Sir John passed into his inner study, Jean watched him with despairing
       eyes and wrung her hands, saying to herself, Has all my skill deserted me
       when I need it most? How can I make him understand, yet not overstep the
       bounds of maiden modesty? He is so blind, so timid, or so dull he will not
       see, and time is going fast. What shall I do to open his eyes?
     </p>
-    <p>
+<p>
       Her own eyes roved about the room, seeking for some aid from inanimate
       things, and soon she found it. Close behind the couch where she sat hung a
       fine miniature of Sir John. At first her eye rested on it as she
@@ -4297,63 +4335,63 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       cry and hid her face, for Sir John stood before her, with an expression
       which she could not mistake.
     </p>
-    <p>
-      &ldquo;Jean, why did you do that?&rdquo; he asked, in an eager, agitated voice.
+<p>
+      “Jean, why did you do that?” he asked, in an eager, agitated voice.
     </p>
-    <p>
+<p>
       No answer, as the girl sank lower, like one overwhelmed with shame. Laying
-      his hand on the bent head, and bending his own, he whispered, &ldquo;Tell me, is
-      the name John Coventry?&rdquo;
+      his hand on the bent head, and bending his own, he whispered, “Tell me, is
+      the name John Coventry?”
      </p>
-    <p>
+<p>
       Still no answer, but a stifled sound betrayed that his words had gone
       home.
     </p>
-    <p>
-      &ldquo;Jean, shall I go back and write the letter, or may I stay and tell you
-      that the old man loves you better than a daughter?&rdquo;
+<p>
+      “Jean, shall I go back and write the letter, or may I stay and tell you
+      that the old man loves you better than a daughter?”
      </p>
-    <p>
+<p>
       She did not speak, but a little hand stole out from under the falling
       hair, as if to keep him. With a broken exclamation he seized it, drew her
       up into his arms, and laid his gray head on her fair one, too happy for
       words. For a moment Jean Muir enjoyed her success; then, fearing lest some
       sudden mishap should destroy it, she hastened to make all secure. Looking
       up with well-feigned timidity and half-confessed affection, she said
-      softly, &ldquo;Forgive me that I could not hide this better. I meant to go away
+      softly, “Forgive me that I could not hide this better. I meant to go away
       and never tell it, but you were so kind it made the parting doubly hard.
       Why did you ask such dangerous questions? Why did you look, when you
-      should have been writing my dismissal?&rdquo;
+      should have been writing my dismissal?”
      </p>
-    <p>
-      &ldquo;How could I dream that you loved me, Jean, when you refused the only
+<p>
+      “How could I dream that you loved me, Jean, when you refused the only
       offer I dared make? Could I be presumptuous enough to fancy you would
-      reject young lovers for an old man like me?&rdquo; asked Sir John, caressing
+      reject young lovers for an old man like me?” asked Sir John, caressing
       her.
     </p>
-    <p>
-      &ldquo;You are not old, to me, but everything I love and honor!&rdquo; interrupted
+<p>
+      “You are not old, to me, but everything I love and honor!” interrupted
       Jean, with a touch of genuine remorse, as this generous, honorable
-      gentleman gave her both heart and home, unconscious of deceit. &ldquo;It is I
+      gentleman gave her both heart and home, unconscious of deceit. “It is I
       who am presumptuous, to dare to love one so far above me. But I did not
       know how dear you were to me till I felt that I must go. I ought not to
       accept this happiness. I am not worthy of it; and you will regret your
       kindness when the world blames you for giving a home to one so poor, and
-      plain, and humble as I.&rdquo;
+      plain, and humble as I.”
      </p>
-    <p>
-      &ldquo;Hush, my darling. I care nothing for the idle gossip of the world. If you
+<p>
+      “Hush, my darling. I care nothing for the idle gossip of the world. If you
       are happy here, let tongues wag as they will. I shall be too busy enjoying
       the sunshine of your presence to heed anything that goes on about me. But,
       Jean, you are sure you love me? It seems incredible that I should win the
-      heart that has been so cold to younger, better men than I.&rdquo;
+      heart that has been so cold to younger, better men than I.”
      </p>
-    <p>
-      &ldquo;Dear Sir John, be sure of this, I love you truly. I will do my best to be
+<p>
+      “Dear Sir John, be sure of this, I love you truly. I will do my best to be
       a good wife to you, and prove that, in spite of my many faults, I possess
-      the virtue of gratitude.&rdquo;
+      the virtue of gratitude.”
      </p>
-    <p>
+<p>
       If he had known the strait she was in, he would have understood the cause
       of the sudden fervor of her words, the intense thankfulness that shone in
       her face, the real humility that made her stoop and kiss the generous hand
@@ -4362,80 +4400,80 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       which menaced her, soon recalled her, and forced her to wring yet more
       from the unsuspicious heart she had conquered.
     </p>
-    <p>
-      &ldquo;No need of letters now,&rdquo; said Sir John, as they sat side by side, with
-      the summer moonlight glorifying all the room. &ldquo;You have found a home for
-      life; may it prove a happy one.&rdquo;
+<p>
+      “No need of letters now,” said Sir John, as they sat side by side, with
+      the summer moonlight glorifying all the room. “You have found a home for
+      life; may it prove a happy one.”
      </p>
-    <p>
-      &ldquo;It is not mine yet, and I have a strange foreboding that it never will
-      be,&rdquo; she answered sadly.
+<p>
+      “It is not mine yet, and I have a strange foreboding that it never will
+      be,” she answered sadly.
     </p>
-    <p>
-      &ldquo;Why, my child?&rdquo;
+<p>
+      “Why, my child?”
      </p>
-    <p>
-      &ldquo;Because I have an enemy who will try to destroy my peace, to poison your
+<p>
+      “Because I have an enemy who will try to destroy my peace, to poison your
       mind against me, and to drive me out from my paradise, to suffer again all
-      I have suffered this last year.&rdquo;
+      I have suffered this last year.”
      </p>
-    <p>
-      &ldquo;You mean that mad Sydney of whom you told me?&rdquo;
+<p>
+      “You mean that mad Sydney of whom you told me?”
      </p>
-    <p>
-      &ldquo;Yes. As soon as he hears of this good fortune to poor little Jean, he
+<p>
+      “Yes. As soon as he hears of this good fortune to poor little Jean, he
       will hasten to mar it. He is my fate; I cannot escape him, and wherever he
       goes my friends desert me; for he has the power and uses it for my
       destruction. Let me go away and hide before he comes, for, having shared
       your confidence, it will break my heart to see you distrust and turn from
-      me, instead of loving and protecting.&rdquo;
+      me, instead of loving and protecting.”
      </p>
-    <p>
-      &ldquo;My poor child, you are superstitious. Be easy. No one can harm you now,
+<p>
+      “My poor child, you are superstitious. Be easy. No one can harm you now,
       no one would dare attempt it. And as for my deserting you, that will soon
-      be out of my power, if I have my way.&rdquo;
+      be out of my power, if I have my way.”
      </p>
-    <p>
-      &ldquo;How, dear Sir John?&rdquo; asked Jean, with a flutter of intense relief at her
+<p>
+      “How, dear Sir John?” asked Jean, with a flutter of intense relief at her
       heart, for the way seemed smoothing before her.
     </p>
-    <p>
-      &ldquo;I will make you my wife at once, if I may. This will free you from
-      Gerald&rsquo;s love, protect you from Sydney&rsquo;s persecution, give you a safe
+<p>
+      “I will make you my wife at once, if I may. This will free you from
+      Gerald’s love, protect you from Sydney’s persecution, give you a safe
       home, and me the right to cherish and defend with heart and hand. Shall it
-      be so, my child?&rdquo;
+      be so, my child?”
      </p>
-    <p>
-      &ldquo;Yes; but oh, remember that I have no friend but you! Promise me to be
-      faithful to the last&mdash;to believe in me, to trust me, protect and love
+<p>
+      “Yes; but oh, remember that I have no friend but you! Promise me to be
+      faithful to the last—to believe in me, to trust me, protect and love
       me, in spite of all misfortunes, faults, and follies. I will be true as
       steel to you, and make your life as happy as it deserves to be. Let us
-      promise these things now, and keep the promises unbroken to the end.&rdquo;
+      promise these things now, and keep the promises unbroken to the end.”
      </p>
-    <p>
+<p>
       Her solemn air touched Sir John. Too honorable and upright himself to
       suspect falsehood in others, he saw only the natural impulse of a lovely
-      girl in Jean&rsquo;s words, and, taking the hand she gave him in both of his, he
+      girl in Jean’s words, and, taking the hand she gave him in both of his, he
       promised all she asked, and kept that promise to the end. She paused an
       instant, with a pale, absent expression, as if she searched herself, then
       looked up clearly in the confiding face above her, and promised what she
       faithfully performed in afteryears.
     </p>
-    <p>
-      &ldquo;When shall it be, little sweetheart? I leave all to you, only let it be
-      soon, else some gay young lover will appear, and take you from me,&rdquo; said
+<p>
+      “When shall it be, little sweetheart? I leave all to you, only let it be
+      soon, else some gay young lover will appear, and take you from me,” said
       Sir John, playfully, anxious to chase away the dark expression which had
-      stolen over Jean&rsquo;s face.
+      stolen over Jean’s face.
     </p>
-    <p>
-      &ldquo;Can you keep a secret?&rdquo; asked the girl, smiling up at him, all her
+<p>
+      “Can you keep a secret?” asked the girl, smiling up at him, all her
       charming self again.
     </p>
-    <p>
-      &ldquo;Try me.&rdquo;
+<p>
+      “Try me.”
      </p>
-    <p>
-      &ldquo;I will. Edward is coming home in three days. I must be gone before he
+<p>
+      “I will. Edward is coming home in three days. I must be gone before he
       comes. Tell no one of this; he wishes to surprise them. And if you love
       me, tell nobody of your approaching marriage. Do not betray that you care
       for me until I am really yours. There will be such a stir, such
@@ -4443,58 +4481,58 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       run away from you all to escape the trial. If I could have my wish, I
       would go to some quiet place tomorrow and wait till you come for me. I
       know so little of such things, I cannot tell how soon we may be married;
-      not for some weeks, I think.&rdquo;
+      not for some weeks, I think.”
      </p>
-    <p>
-      &ldquo;Tomorrow, if we like. A special license permits people to marry when and
+<p>
+      “Tomorrow, if we like. A special license permits people to marry when and
       where they please. My plan is better than yours. Listen, and tell me if it
       can be carried out. I will go to town tomorrow, get the license, invite my
       friend, the Reverend Paul Fairfax, to return with me, and tomorrow evening
       you come at your usual time, and, in the presence of my discreet old
       servants, make me the happiest man in England. How does this suit you, my
-      little Lady Coventry?&rdquo;
+      little Lady Coventry?”
      </p>
-    <p>
+<p>
       The plan which seemed made to meet her ends, the name which was the height
       of her ambition, and the blessed sense of safety which came to her filled
       Jean Muir with such intense satisfaction that tears of real feeling stood
       in her eyes, and the glad assent she gave was the truest word that had
       passed her lips for months.
     </p>
-    <p>
-      &ldquo;We will go abroad or to Scotland for our honeymoon, till the storm blows
-      over,&rdquo; said Sir John, well knowing that this hasty marriage would surprise
+<p>
+      “We will go abroad or to Scotland for our honeymoon, till the storm blows
+      over,” said Sir John, well knowing that this hasty marriage would surprise
       or offend all his relations, and feeling as glad as Jean to escape the
       first excitement.
     </p>
-    <p>
-      &ldquo;To Scotland, please. I long to see my father&rsquo;s home,&rdquo; said Jean, who
+<p>
+      “To Scotland, please. I long to see my father’s home,” said Jean, who
       dreaded to meet Sydney on the continent.
     </p>
-    <p>
+<p>
       They talked a little longer, arranging all things, Sir John so intent on
       hurrying the event that Jean had nothing to do but give a ready assent to
       all his suggestions. One fear alone disturbed her. If Sir John went to
       town, he might meet Edward, might hear and believe his statements. Then
       all would be lost. Yet this risk must be incurred, if the marriage was to
       be speedily and safely accomplished; and to guard against the meeting was
-      Jean&rsquo;s sole care. As they went through the park&mdash;for Sir John
-      insisted upon taking her home&mdash;she said, clinging to his arm:
+      Jean’s sole care. As they went through the park—for Sir John
+      insisted upon taking her home—she said, clinging to his arm:
     </p>
-    <p>
-      &ldquo;Dear friend, bear one thing in mind, else we shall be much annoyed, and
+<p>
+      “Dear friend, bear one thing in mind, else we shall be much annoyed, and
       all our plans disarranged. Avoid your nephews; you are so frank your face
       will betray you. They both love me, are both hot-tempered, and in the
       first excitement of the discovery might be violent. You must incur no
-      danger, no disrespect for my sake; so shun them both till we are safe&mdash;particularly
+      danger, no disrespect for my sake; so shun them both till we are safe—particularly
       Edward. He will feel that his brother has wronged him, and that you have
       succeeded where he failed. This will irritate him, and I fear a stormy
       scene. Promise to avoid both for a day or two; do not listen to them, do
       not see them, do not write to or receive letters from them. It is foolish,
       I know; but you are all I have, and I am haunted by a strange foreboding
-      that I am to lose you.&rdquo;
+      that I am to lose you.”
      </p>
-    <p>
+<p>
       Touched and flattered by her tender solicitude, Sir John promised
       everything, even while he laughed at her fears. Love blinded the good
       gentleman to the peculiarity of the request; the novelty, romance, and
@@ -4503,102 +4541,102 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       his vanity more than he would confess. Parting from the girl at the garden
       gate, he turned homeward, feeling like a boy again, and loitered back,
       humming a love lay, quite forgetful of evening damps, gout, and the
-      five-and-fifty years which lay so lightly on his shoulders since Jean&rsquo;s
+      five-and-fifty years which lay so lightly on his shoulders since Jean’s
       arms had rested there. She hurried toward the house, anxious to escape
       Coventry; but he was waiting for her, and she was forced to meet him.
     </p>
-    <p>
-      &ldquo;How could you linger so long, and keep me in suspense?&rdquo; he said
+<p>
+      “How could you linger so long, and keep me in suspense?” he said
       reproachfully, as he took her hand and tried to catch a glimpse of her
-      face in the shadow of her hat brim. &ldquo;Come and rest in the grotto. I have
-      so much to say, to hear and enjoy.&rdquo;
+      face in the shadow of her hat brim. “Come and rest in the grotto. I have
+      so much to say, to hear and enjoy.”
      </p>
-    <p>
-      &ldquo;Not now; I am too tired. Let me go in and sleep. Tomorrow we will talk.
-      It is damp and chilly, and my head aches with all this worry.&rdquo; Jean spoke
+<p>
+      “Not now; I am too tired. Let me go in and sleep. Tomorrow we will talk.
+      It is damp and chilly, and my head aches with all this worry.” Jean spoke
       wearily, yet with a touch of petulance, and Coventry, fancying that she
       was piqued at his not coming for her, hastened to explain with eager
       tenderness.
     </p>
-    <p>
-      &ldquo;My poor little Jean, you do need rest. We wear you out, among us, and you
+<p>
+      “My poor little Jean, you do need rest. We wear you out, among us, and you
       never complain. I should have come to bring you home, but Lucia detained
       me, and when I got away I saw my uncle had forestalled me. I shall be
       jealous of the old gentleman, if he is so devoted. Jean, tell me one thing
       before we part; I am free as air, now, and have a right to speak. Do you
       love me? Am I the happy man who has won your heart? I dare to think so, to
       believe that this telltale face of yours has betrayed you, and to hope
-      that I have gained what poor Ned and wild Sydney have lost.&rdquo;
+      that I have gained what poor Ned and wild Sydney have lost.”
      </p>
-    <p>
-      &ldquo;Before I answer, tell me of your interview with Lucia. I have a right to
-      know,&rdquo; said Jean.
+<p>
+      “Before I answer, tell me of your interview with Lucia. I have a right to
+      know,” said Jean.
     </p>
-    <p>
+<p>
       Coventry hesitated, for pity and remorse were busy at his heart when he
-      recalled poor Lucia&rsquo;s grief. Jean was bent on hearing the humiliation of
+      recalled poor Lucia’s grief. Jean was bent on hearing the humiliation of
       her rival. As the young man paused, she frowned, then lifted up her face
       wreathed in softest smiles, and laying her hand on his arm, she said, with
-      most effective emphasis, half shy, half fond, upon his name, &ldquo;Please tell
-      me, Gerald!&rdquo;
+      most effective emphasis, half shy, half fond, upon his name, “Please tell
+      me, Gerald!”
      </p>
-    <p>
+<p>
       He could not resist the look, the touch, the tone, and taking the little
-      hand in his, he said rapidly, as if the task was distasteful to him, &ldquo;I
+      hand in his, he said rapidly, as if the task was distasteful to him, “I
       told her that I did not, could not love her; that I had submitted to my
-      mother&rsquo;s wish, and, for a time, had felt tacitly bound to her, though no
+      mother’s wish, and, for a time, had felt tacitly bound to her, though no
       words had passed between us. But now I demanded my liberty, regretting
-      that the separation was not mutually desired.&rdquo;
+      that the separation was not mutually desired.”
      </p>
-    <p>
-      &ldquo;And she&mdash;what did she say? How did she bear it?&rdquo; asked Jean, feeling
-      in her own woman&rsquo;s heart how deeply Lucia&rsquo;s must have been wounded by that
+<p>
+      “And she—what did she say? How did she bear it?” asked Jean, feeling
+      in her own woman’s heart how deeply Lucia’s must have been wounded by that
       avowal.
     </p>
-    <p>
-      &ldquo;Poor girl! It was hard to bear, but her pride sustained her to the end.
+<p>
+      “Poor girl! It was hard to bear, but her pride sustained her to the end.
       She owned that no pledge tied me, fully relinquished any claim my past
       behavior had seemed to have given her, and prayed that I might find
       another woman to love me as truly, tenderly as she had done. Jean, I felt
       like a villain; and yet I never plighted my word to her, never really
-      loved her, and had a perfect right to leave her, if I would.&rdquo;
+      loved her, and had a perfect right to leave her, if I would.”
      </p>
-    <p>
-      &ldquo;Did she speak of me?&rdquo;
+<p>
+      “Did she speak of me?”
      </p>
-    <p>
-      &ldquo;Yes.&rdquo;
+<p>
+      “Yes.”
      </p>
-    <p>
-      &ldquo;What did she say?&rdquo;
+<p>
+      “What did she say?”
      </p>
-    <p>
-      &ldquo;Must I tell you?&rdquo;
+<p>
+      “Must I tell you?”
      </p>
-    <p>
-      &ldquo;Yes, tell me everything. I know she hates me and I forgive her, knowing
-      that I should hate any woman whom <i>you</i> loved.&rdquo;
+<p>
+      “Yes, tell me everything. I know she hates me and I forgive her, knowing
+      that I should hate any woman whom <i>you</i> loved.”
      </p>
-    <p>
-      &ldquo;Are you jealous, dear?&rdquo;
+<p>
+      “Are you jealous, dear?”
      </p>
-    <p>
-      &ldquo;Of you, Gerald?&rdquo; And the fine eyes glanced up at him, full of a
+<p>
+      “Of you, Gerald?” And the fine eyes glanced up at him, full of a
       brilliancy that looked like the light of love.
     </p>
-    <p>
-      &ldquo;You make a slave of me already. How do you do it? I never obeyed a woman
+<p>
+      “You make a slave of me already. How do you do it? I never obeyed a woman
       before. Jean, I think you are a witch. Scotland is the home of weird,
       uncanny creatures, who take lovely shapes for the bedevilment of poor weak
-      souls. Are you one of those fair deceivers?&rdquo;
+      souls. Are you one of those fair deceivers?”
      </p>
-    <p>
-      &ldquo;You are complimentary,&rdquo; laughed the girl. &ldquo;I <i>am</i> a witch, and one
+<p>
+      “You are complimentary,” laughed the girl. “I <i>am</i> a witch, and one
       day my disguise will drop away and you will see me as I am, old, ugly, bad
-      and lost. Beware of me in time. I&rsquo;ve warned you. Now love me at your
-      peril.&rdquo;
+      and lost. Beware of me in time. I’ve warned you. Now love me at your
+      peril.”
      </p>
-    <p>
+<p>
       Coventry had paused as he spoke, and eyed her with an unquiet look,
       conscious of some fascination which conquered yet brought no happiness. A
       feverish yet pleasurable excitement possessed him; a reckless mood, making
@@ -4606,20 +4644,20 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       his passion brought. Jean regarded him with a wistful, almost woeful face,
       for one short moment; then a strange smile broke over it, as she spoke in
       a tone of malicious mockery, under which lurked the bitterness of a sad
-      truth. Coventry looked half bewildered, and his eye went from the girl&rsquo;s
+      truth. Coventry looked half bewildered, and his eye went from the girl’s
       mysterious face to a dimly lighted window, behind whose curtains poor
       Lucia hid her aching heart, praying for him the tender prayers that loving
-      women give to those whose sins are all forgiven for love&rsquo;s sake. His heart
+      women give to those whose sins are all forgiven for love’s sake. His heart
       smote him, and a momentary feeling of repulsion came over him, as he
       looked at Jean. She saw it, felt angry, yet conscious of a sense of
       relief; for now that her own safety was so nearly secured, she felt no
       wish to do mischief, but rather a desire to undo what was already done,
       and be at peace with all the world. To recall him to his allegiance, she
-      sighed and walked on, saying gently yet coldly, &ldquo;Will you tell me what I
-      ask before I answer your question, Mr. Coventry?&rdquo;
+      sighed and walked on, saying gently yet coldly, “Will you tell me what I
+      ask before I answer your question, Mr. Coventry?”
      </p>
-    <p>
-      &ldquo;What Lucia said of you? Well, it was this. &lsquo;Beware of Miss Muir. We
+<p>
+      “What Lucia said of you? Well, it was this. ‘Beware of Miss Muir. We
       instinctively distrusted her when we had no cause. I believe in instincts,
       and mine have never changed, for she has not tried to delude me. Her art
       is wonderful; I feel yet cannot explain or detect it, except in the
@@ -4627,36 +4665,36 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       and dissension into this hitherto happy family. We are all changed, and
       this girl has done it. Me she can harm no further; you she will ruin, if
       she can. Beware of her in time, or you win bitterly repent your blind
-      infatuation!&rsquo;&rdquo;
+      infatuation!’”
      </p>
-    <p>
-      &ldquo;And what answer did you make?&rdquo; asked Jean, as the last words came
-      reluctantly from Coventry&rsquo;s lips.
+<p>
+      “And what answer did you make?” asked Jean, as the last words came
+      reluctantly from Coventry’s lips.
     </p>
-    <p>
-      &ldquo;I told her that I loved you in spite of myself, and would make you my
-      wife in the face of all opposition. Now, Jean, your answer.&rdquo;
+<p>
+      “I told her that I loved you in spite of myself, and would make you my
+      wife in the face of all opposition. Now, Jean, your answer.”
      </p>
-    <p>
-      &ldquo;Give me three days to think of it. Good night.&rdquo; And gliding from him, she
+<p>
+      “Give me three days to think of it. Good night.” And gliding from him, she
       vanished into the house, leaving him to roam about half the night,
       tormented with remorse, suspense, and the old distrust which would return
       when Jean was not there to banish it by her art.
     </p>
-    <p>
-      <br /><br />
-    </p>
-    <hr />
-    <p>
-      <a name="link2H_4_0008" id="link2H_4_0008"> </a>
-    </p>
-    <div style="height: 4em;">
-      <br /><br /><br /><br />
-    </div>
-    <h2>
-      <i>Chapter VIII</i> SUSPENSE
+<p>
+<br><br>
+</p>
+<hr>
+<p>
+<a id="link2H_4_0008"> </a>
+</p>
+<div style="height: 4em;">
+<br><br><br><br>
+</div>
+<h2>
+<i>Chapter VIII</i> SUSPENSE
     </h2>
-    <p>
+<p>
       All the next day, Jean was in a state of the most intense anxiety, as
       every hour brought the crisis nearer, and every hour might bring defeat,
       for the subtlest human skill is often thwarted by some unforeseen
@@ -4676,93 +4714,93 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       the wedding which was to take place that evening, she put on a simple
       white dress and added a cluster of white roses in bosom and hair. She
       often wore flowers, but in spite of her desire to look and seem as usual,
-      Bella&rsquo;s first words as she entered the drawing room were &ldquo;Why, Jean, how
-      like a bride you look; a veil and gloves would make you quite complete!&rdquo;
+      Bella’s first words as she entered the drawing room were “Why, Jean, how
+      like a bride you look; a veil and gloves would make you quite complete!”
      </p>
-    <p>
-      &ldquo;You forget one other trifle, Bell,&rdquo; said Gerald, with eyes that
+<p>
+      “You forget one other trifle, Bell,” said Gerald, with eyes that
       brightened as they rested on Miss Muir.
     </p>
-    <p>
-      &ldquo;What is that?&rdquo; asked his sister.
+<p>
+      “What is that?” asked his sister.
     </p>
-    <p>
-      &ldquo;A bridegroom.&rdquo;
+<p>
+      “A bridegroom.”
      </p>
-    <p>
+<p>
       Bella looked to see how Jean received this, but she seemed quite composed
-      as she smiled one of her sudden smiles, and merely said, &ldquo;That trifle will
+      as she smiled one of her sudden smiles, and merely said, “That trifle will
       doubtless be found when the time comes. Is Miss Beaufort too ill for
-      dinner?&rdquo;
+      dinner?”
      </p>
-    <p>
-      &ldquo;She begs to be excused, and said you would be willing to take her place,
-      she thought.&rdquo;
+<p>
+      “She begs to be excused, and said you would be willing to take her place,
+      she thought.”
      </p>
-    <p>
+<p>
       As innocent Bella delivered this message, Jean glanced at Coventry, who
       evaded her eye and looked ill at ease.
     </p>
-    <p>
+<p>
       A little remorse will do him good, and prepare him for repentance after
       the grand <i>coup</i>, she said to herself, and was particularly gay at
-      dinnertime, though Coventry looked often at Lucia&rsquo;s empty seat, as if he
+      dinnertime, though Coventry looked often at Lucia’s empty seat, as if he
       missed her. As soon as they left the table, Miss Muir sent Bella to her
       mother; and, knowing that Coventry would not linger long at his wine, she
       hurried away to the Hall. A servant was lounging at the door, and of him
       she asked, in a tone which was eager in spite of all efforts to be calm,
-      &ldquo;Is Sir John at home?&rdquo;
+      “Is Sir John at home?”
      </p>
-    <p>
-      &ldquo;No, miss, he&rsquo;s just gone to town.&rdquo;
+<p>
+      “No, miss, he’s just gone to town.”
      </p>
-    <p>
-      &ldquo;Just gone! When do you mean?&rdquo; cried Jean, forgetting the relief she felt
+<p>
+      “Just gone! When do you mean?” cried Jean, forgetting the relief she felt
       in hearing of his absence in surprise at his late departure.
     </p>
-    <p>
-      &ldquo;He went half an hour ago, in the last train, miss.&rdquo;
+<p>
+      “He went half an hour ago, in the last train, miss.”
      </p>
-    <p>
-      &ldquo;I thought he was going early this morning; he told me he should be back
-      this evening.&rdquo;
+<p>
+      “I thought he was going early this morning; he told me he should be back
+      this evening.”
      </p>
-    <p>
-      &ldquo;I believe he did mean to go, but was delayed by company. The steward came
+<p>
+      “I believe he did mean to go, but was delayed by company. The steward came
       up on business, and a load of gentlemen called, so Sir John could not get
-      off till night, when he wasn&rsquo;t fit to go, being worn out, and far from
-      well.&rdquo;
+      off till night, when he wasn’t fit to go, being worn out, and far from
+      well.”
      </p>
-    <p>
-      &ldquo;Do you think he will be ill? Did he look so?&rdquo; And as Jean spoke, a thrill
+<p>
+      “Do you think he will be ill? Did he look so?” And as Jean spoke, a thrill
       of fear passed over her, lest death should rob her of her prize.
     </p>
-    <p>
-      &ldquo;Well, you know, miss, hurry of any kind is bad for elderly gentlemen
+<p>
+      “Well, you know, miss, hurry of any kind is bad for elderly gentlemen
       inclined to apoplexy. Sir John was in a worry all day, and not like
-      himself. I wanted him to take his man, but he wouldn&rsquo;t; and drove off
-      looking flushed and excited like. I&rsquo;m anxious about him, for I know
-      something is amiss to hurry him off in this way.&rdquo;
+      himself. I wanted him to take his man, but he wouldn’t; and drove off
+      looking flushed and excited like. I’m anxious about him, for I know
+      something is amiss to hurry him off in this way.”
      </p>
-    <p>
-      &ldquo;When will he be back, Ralph?&rdquo;
+<p>
+      “When will he be back, Ralph?”
      </p>
-    <p>
-      &ldquo;Tomorrow noon, if possible; at night, certainly, he bid me tell anyone
-      that called.&rdquo;
+<p>
+      “Tomorrow noon, if possible; at night, certainly, he bid me tell anyone
+      that called.”
      </p>
-    <p>
-      &ldquo;Did he leave no note or message for Miss Coventry, or someone of the
-      family?&rdquo;
+<p>
+      “Did he leave no note or message for Miss Coventry, or someone of the
+      family?”
      </p>
-    <p>
-      &ldquo;No, miss, nothing.&rdquo;
+<p>
+      “No, miss, nothing.”
      </p>
-    <p>
-      &ldquo;Thank you.&rdquo; And Jean walked back to spend a restless night and rise to
+<p>
+      “Thank you.” And Jean walked back to spend a restless night and rise to
       meet renewed suspense.
     </p>
-    <p>
+<p>
       The morning seemed endless, but noon came at last, and under the pretense
       of seeking coolness in the grotto, Jean stole away to a slope whence the
       gate to the Hall park was visible. For two long hours she watched, and no
@@ -4772,30 +4810,30 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       assured that he brought ill news. It was a young man from the station, and
       as he caught sight of her, he drew bridle, looking agitated and undecided.
     </p>
-    <p>
-      &ldquo;Has anything happened?&rdquo; she cried breathlessly.
+<p>
+      “Has anything happened?” she cried breathlessly.
     </p>
-    <p>
-      &ldquo;A dreadful accident on the railroad, just the other side of Croydon. News
-      telegraphed half an hour ago,&rdquo; answered the man, wiping his hot face.
+<p>
+      “A dreadful accident on the railroad, just the other side of Croydon. News
+      telegraphed half an hour ago,” answered the man, wiping his hot face.
     </p>
-    <p>
-      &ldquo;The noon train? Was Sir John in it? Quick, tell me all!&rdquo;
+<p>
+      “The noon train? Was Sir John in it? Quick, tell me all!”
      </p>
-    <p>
-      &ldquo;It was that train, miss, but whether Sir John was in it or not, we don&rsquo;t
+<p>
+      “It was that train, miss, but whether Sir John was in it or not, we don’t
       know; for the guard is killed, and everything is in such confusion that
       nothing can be certain. They are at work getting out the dead and wounded.
       We heard that Sir John was expected, and I came up to tell Mr. Coventry,
       thinking he would wish to go down. A train leaves in fifteen minutes;
-      where shall I find him? I was told he was at the Hall.&rdquo;
+      where shall I find him? I was told he was at the Hall.”
      </p>
-    <p>
-      &ldquo;Ride on, ride on! And find him if he is there. I&rsquo;ll run home and look for
-      him. Lose no time. Ride! Ride!&rdquo; And turning, Jean sped back like a deer,
+<p>
+      “Ride on, ride on! And find him if he is there. I’ll run home and look for
+      him. Lose no time. Ride! Ride!” And turning, Jean sped back like a deer,
       while the man tore up the avenue to rouse the Hall.
     </p>
-    <p>
+<p>
       Coventry was there, and went off at once, leaving both Hall and house in
       dismay. Fearing to betray the horrible anxiety that possessed her, Jean
       shut herself up in her room and suffered untold agonies as the day wore on
@@ -4803,25 +4841,31 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       rushed down to learn the cause. Bella was standing in the hall, holding a
       letter, while a group of excited servants hovered near her.
     </p>
-    <p>
-      &ldquo;What is it?&rdquo; demanded Miss Muir, pale and steady, though her heart died
-      within her as she recognized Gerald&rsquo;s handwriting. Bella gave her the
+<p>
+      “What is it?” demanded Miss Muir, pale and steady, though her heart died
+      within her as she recognized Gerald’s handwriting. Bella gave her the
       note, and hushed her sobbing to hear again the heavy tidings that had
       come.
     </p>
-<pre xml:space="preserve">
+<pre>
     Dear Bella:
 
-```
+    Uncle is safe; he did not go in the noon train. But several persons
+    are sure that Ned was there. No trace of him as yet, but many bodies
+    are in the river, under the ruins of the bridge, and I am doing my
+    best to find the poor lad, if he is there. I have sent to all his
+    haunts in town, and as he has not been seen, I hope it is a false
+    report and he is safe with his regiment. Keep this from my mother
+    till we are sure. I write you, because Lucia is ill. Miss Muir will
+    comfort and sustain you. Hope for the best, dear.
 
-```
-
+    Yours, G.C.
 </pre>
-    <p>
+<p>
       Those who watched Miss Muir as she read these words wondered at the
       strange expressions which passed over her face, for the joy which appeared
-      there as Sir John&rsquo;s safety was made known did not change to grief or
-      horror at poor Edward&rsquo;s possible fate. The smile died on her lips, but her
+      there as Sir John’s safety was made known did not change to grief or
+      horror at poor Edward’s possible fate. The smile died on her lips, but her
       voice did not falter, and in her downcast eyes shone an inexplicable look
       of something like triumph. No wonder, for if this was true, the danger
       which menaced her was averted for a time, and the marriage might be
@@ -4831,7 +4875,7 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       did comfort Bella, control the excited household, and keep the rumors from
       Mrs. Coventry all that dreadful night.
     </p>
-    <p>
+<p>
       At dawn Gerald came home exhausted, and bringing no tiding of the missing
       man. He had telegraphed to the headquarters of the regiment and received a
       reply, stating that Edward had left for London the previous day, meaning
@@ -4840,58 +4884,58 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       still uncertain. The ruins were still being searched, and the body might
       yet appear.
     </p>
-    <p>
-      &ldquo;Is Sir John coming at noon?&rdquo; asked Jean, as the three sat together in the
+<p>
+      “Is Sir John coming at noon?” asked Jean, as the three sat together in the
       rosy hush of dawn, trying to hope against hope.
     </p>
-    <p>
-      &ldquo;No, he had been ill, I learned from young Gower, who is just from town,
+<p>
+      “No, he had been ill, I learned from young Gower, who is just from town,
       and so had not completed his business. I sent him word to wait till night,
-      for the bridge won&rsquo;t be passable till then. Now I must try and rest an
-      hour; I&rsquo;ve worked all night and have no strength left. Call me the instant
-      any messenger arrives.&rdquo;
+      for the bridge won’t be passable till then. Now I must try and rest an
+      hour; I’ve worked all night and have no strength left. Call me the instant
+      any messenger arrives.”
      </p>
-    <p>
+<p>
       With that Coventry went to his room, Bella followed to wait on him, and
       Jean roamed through house and grounds, unable to rest. The morning was far
       spent when the messenger arrived. Jean went to receive his tidings, with
       the wicked hope still lurking at her heart.
     </p>
-    <p>
-      &ldquo;Is he found?&rdquo; she asked calmly, as the man hesitated to speak.
+<p>
+      “Is he found?” she asked calmly, as the man hesitated to speak.
     </p>
-    <p>
-      &ldquo;Yes, ma&rsquo;am.&rdquo;
+<p>
+      “Yes, ma’am.”
      </p>
-    <p>
-      &ldquo;You are sure?&rdquo;
+<p>
+      “You are sure?”
      </p>
-    <p>
-      &ldquo;I am certain, ma&rsquo;am, though some won&rsquo;t say till Mr. Coventry comes to
-      look.&rdquo;
+<p>
+      “I am certain, ma’am, though some won’t say till Mr. Coventry comes to
+      look.”
      </p>
-    <p>
-      &ldquo;Is he alive?&rdquo; And Jean&rsquo;s white lips trembled as she put the question.
+<p>
+      “Is he alive?” And Jean’s white lips trembled as she put the question.
     </p>
-    <p>
-      &ldquo;Oh no, ma&rsquo;am, that warn&rsquo;t possible, under all them stones and water. The
+<p>
+      “Oh no, ma’am, that warn’t possible, under all them stones and water. The
       poor young gentleman is so wet, and crushed, and torn, no one would know
-      him, except for the uniform, and the white hand with the ring on it.&rdquo;
+      him, except for the uniform, and the white hand with the ring on it.”
      </p>
-    <p>
+<p>
       Jean sat down, very pale, and the man described the finding of the poor
       shattered body. As he finished, Coventry appeared, and with one look of
       mingled remorse, shame, and sorrow, the elder brother went away, to find
       and bring the younger home. Jean crept into the garden like a guilty
-      thing, trying to hide the satisfaction which struggled with a woman&rsquo;s
+      thing, trying to hide the satisfaction which struggled with a woman’s
       natural pity, for so sad an end for this brave young life.
     </p>
-    <p>
-      &ldquo;Why waste tears or feign sorrow when I must be glad?&rdquo; she muttered, as
-      she paced to and fro along the terrace. &ldquo;The poor boy is out of pain, and
-      I am out of danger.&rdquo;
+<p>
+      “Why waste tears or feign sorrow when I must be glad?” she muttered, as
+      she paced to and fro along the terrace. “The poor boy is out of pain, and
+      I am out of danger.”
      </p>
-    <p>
+<p>
       She got no further, for, turning as she spoke, she stood face to face with
       Edward! Bearing no mark of peril on dress or person, but stalwart and
       strong as ever, he stood there looking at her, with contempt and
@@ -4899,36 +4943,36 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       motionless, with dilated eyes, arrested breath, and paling cheek. He did
       not speak but watched her silently till she put out a trembling hand, as
       if to assure herself by touch that it was really he. Then he drew back,
-      and as if the act convinced as fully as words, she said slowly, &ldquo;They told
-      me you were dead.&rdquo;
+      and as if the act convinced as fully as words, she said slowly, “They told
+      me you were dead.”
      </p>
-    <p>
-      &ldquo;And you were glad to believe it. No, it was my comrade, young Courtney,
+<p>
+      “And you were glad to believe it. No, it was my comrade, young Courtney,
       who unconsciously deceived you all, and lost his life, as I should have
-      done, if I had not gone to Ascot after seeing him off yesterday.&rdquo;
+      done, if I had not gone to Ascot after seeing him off yesterday.”
      </p>
-    <p>
-      &ldquo;To Ascot?&rdquo; echoed Jean, shrinking back, for Edward&rsquo;s eye was on her, and
+<p>
+      “To Ascot?” echoed Jean, shrinking back, for Edward’s eye was on her, and
       his voice was stern and cold.
     </p>
-    <p>
-      &ldquo;Yes; you know the place. I went there to make inquiries concerning you
-      and was well satisfied. Why are you still here?&rdquo;
+<p>
+      “Yes; you know the place. I went there to make inquiries concerning you
+      and was well satisfied. Why are you still here?”
      </p>
-    <p>
-      &ldquo;The three days are not over yet. I hold you to your promise. Before night
+<p>
+      “The three days are not over yet. I hold you to your promise. Before night
       I shall be gone; till then you will be silent, if you have honor enough to
-      keep your word.&rdquo;
+      keep your word.”
      </p>
-    <p>
-      &ldquo;I have.&rdquo; Edward took out his watch and, as he put it back, said with cool
-      precision, &ldquo;It is now two, the train leaves for London at half-past six; a
+<p>
+      “I have.” Edward took out his watch and, as he put it back, said with cool
+      precision, “It is now two, the train leaves for London at half-past six; a
       carriage will wait for you at the side door. Allow me to advise you to go
-      then, for the instant dinner is over I shall speak.&rdquo; And with a bow he
+      then, for the instant dinner is over I shall speak.” And with a bow he
       went into the house, leaving Jean nearly suffocated with a throng of
       contending emotions.
     </p>
-    <p>
+<p>
       For a few minutes she seemed paralyzed; but the native energy of the woman
       forbade utter despair, till the last hope was gone. Frail as that now was,
       she still clung to it tenaciously, resolving to win the game in defiance
@@ -4936,12 +4980,12 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       valuables, dressed herself with care, and then sat down to wait. She heard
       a joyful stir below, saw Coventry come hurrying back, and from a garrulous
       maid learned that the body was that of young Courtney. The uniform being
-      the same as Edward&rsquo;s and the ring, a gift from him, had caused the men to
+      the same as Edward’s and the ring, a gift from him, had caused the men to
       believe the disfigured corpse to be that of the younger Coventry. No one
-      but the maid came near her; once Bella&rsquo;s voice called her, but some one
+      but the maid came near her; once Bella’s voice called her, but some one
       checked the girl, and the call was not repeated. At five an envelope was
-      brought her, directed in Edward&rsquo;s hand, and containing a check which more
-      than paid a year&rsquo;s salary. No word accompanied the gift, yet the
+      brought her, directed in Edward’s hand, and containing a check which more
+      than paid a year’s salary. No word accompanied the gift, yet the
       generosity of it touched her, for Jean Muir had the relics of a once
       honest nature, and despite her falsehood could still admire nobleness and
       respect virtue. A tear of genuine shame dropped on the paper, and real
@@ -4949,32 +4993,32 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       she was not thrust out penniless into the world, which had no pity for
       poverty.
     </p>
-    <p>
+<p>
       As the clock struck six, she heard a carriage drive around and went down
-      to meet it. A servant put on her trunk, gave the order, &ldquo;To the station,
-      James,&rdquo; and she drove away without meeting anyone, speaking to anyone, or
+      to meet it. A servant put on her trunk, gave the order, “To the station,
+      James,” and she drove away without meeting anyone, speaking to anyone, or
       apparently being seen by anyone. A sense of utter weariness came over her,
       and she longed to lie down and forget. But the last chance still remained,
       and till that failed, she would not give up. Dismissing the carriage, she
       seated herself to watch for the quarter-past-six train from London, for in
       that Sir John would come if he came at all that night. She was haunted by
-      the fear that Edward had met and told him. The first glimpse of Sir John&rsquo;s
+      the fear that Edward had met and told him. The first glimpse of Sir John’s
       frank face would betray the truth. If he knew all, there was no hope, and
       she would go her way alone. If he knew nothing, there was yet time for the
       marriage; and once his wife, she knew she was safe, because for the honor
       of his name he would screen and protect her.
     </p>
-    <p>
-      Up rushed the train, out stepped Sir John, and Jean&rsquo;s heart died within
+<p>
+      Up rushed the train, out stepped Sir John, and Jean’s heart died within
       her. Grave, and pale, and worn he looked, and leaned heavily on the arm of
       a portly gentleman in black. The Reverend Mr. Fairfax, why has he come, if
       the secret is out? thought Jean, slowly advancing to meet them and fearing
-      to read her fate in Sir John&rsquo;s face. He saw her, dropped his friend&rsquo;s arm,
+      to read her fate in Sir John’s face. He saw her, dropped his friend’s arm,
       and hurried forward with the ardor of a young man, exclaiming, as he
-      seized her hand with a beaming face, a glad voice, &ldquo;My little girl! Did
-      you think I would never come?&rdquo;
+      seized her hand with a beaming face, a glad voice, “My little girl! Did
+      you think I would never come?”
      </p>
-    <p>
+<p>
       She could not answer, the reaction was too strong, but she clung to him,
       regardless of time or place, and felt that her last hope had not failed.
       Mr. Fairfax proved himself equal to the occasion. Asking no questions, he
@@ -4983,22 +5027,22 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       his delay, listened eagerly while he related the various mishaps which had
       detained him.
     </p>
-    <p>
-      &ldquo;Have you seen Edward?&rdquo; was her first question.
+<p>
+      “Have you seen Edward?” was her first question.
     </p>
-    <p>
-      &ldquo;Not yet, but I know he has come, and have heard of his narrow escape. I
+<p>
+      “Not yet, but I know he has come, and have heard of his narrow escape. I
       should have been in that train, if I had not been delayed by the
       indisposition which I then cursed, but now bless. Are you ready, Jean? Do
-      you repent your choice, my child?&rdquo;
+      you repent your choice, my child?”
      </p>
-    <p>
-      &ldquo;No, no! I am ready, I am only too happy to become your wife, dear,
-      generous Sir John,&rdquo; cried Jean, with a glad alacrity, which touched the
+<p>
+      “No, no! I am ready, I am only too happy to become your wife, dear,
+      generous Sir John,” cried Jean, with a glad alacrity, which touched the
       old man to the heart, and charmed the Reverend Mr. Fairfax, who concealed
       the romance of a boy under his clerical suit.
     </p>
-    <p>
+<p>
       They reached the Hall. Sir John gave orders to admit no one and after a
       hasty dinner sent for his old housekeeper and his steward, told them of
       his purpose, and desired them to witness his marriage. Obedience had been
@@ -5006,80 +5050,80 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       so they played their parts willingly, for Jean was a favorite at the Hall.
       Pale as her gown, but calm and steady, she stood beside Sir John, uttering
       her vows in a clear tone and taking upon herself the vows of a wife with
-      more than a bride&rsquo;s usual docility. When the ring was fairly on, a smile
-      broke over her face. When Sir John kissed and called her his &ldquo;little
-      wife,&rdquo; she shed a tear or two of sincere happiness; and when Mr. Fairfax
-      addressed her as &ldquo;my lady,&rdquo; she laughed her musical laugh, and glanced up
+      more than a bride’s usual docility. When the ring was fairly on, a smile
+      broke over her face. When Sir John kissed and called her his “little
+      wife,” she shed a tear or two of sincere happiness; and when Mr. Fairfax
+      addressed her as “my lady,” she laughed her musical laugh, and glanced up
       at a picture of Gerald with eyes full of exultation. As the servants left
       the room, a message was brought from Mrs. Coventry, begging Sir John to
       come to her at once.
     </p>
-    <p>
-      &ldquo;You will not go and leave me so soon?&rdquo; pleaded Jean, well knowing why he
+<p>
+      “You will not go and leave me so soon?” pleaded Jean, well knowing why he
       was sent for.
     </p>
-    <p>
-      &ldquo;My darling, I must.&rdquo; And in spite of its tenderness, Sir John&rsquo;s manner
+<p>
+      “My darling, I must.” And in spite of its tenderness, Sir John’s manner
       was too decided to be withstood.
     </p>
-    <p>
-      &ldquo;Then I shall go with you,&rdquo; cried Jean, resolving that no earthly power
+<p>
+      “Then I shall go with you,” cried Jean, resolving that no earthly power
       should part them.
     </p>
-    <p>
-      <br /><br />
-    </p>
-    <hr />
-    <p>
-      <a name="link2H_4_0009" id="link2H_4_0009"> </a>
-    </p>
-    <div style="height: 4em;">
-      <br /><br /><br /><br />
-    </div>
-    <h2>
-      <i>Chapter IX</i> LADY COVENTRY
+<p>
+<br><br>
+</p>
+<hr>
+<p>
+<a id="link2H_4_0009"> </a>
+</p>
+<div style="height: 4em;">
+<br><br><br><br>
+</div>
+<h2>
+<i>Chapter IX</i> LADY COVENTRY
     </h2>
-    <p>
-      When the first excitement of Edward&rsquo;s return had subsided, and before they
+<p>
+      When the first excitement of Edward’s return had subsided, and before they
       could question him as to the cause of this unexpected visit, he told them
       that after dinner their curiosity should be gratified, and meantime he
       begged them to leave Miss Muir alone, for she had received bad news and
       must not be disturbed. The family with difficulty restrained their tongues
       and waited impatiently. Gerald confessed his love for Jean and asked his
-      brother&rsquo;s pardon for betraying his trust. He had expected an outbreak, but
-      Edward only looked at him with pitying eyes, and said sadly, &ldquo;You too! I
+      brother’s pardon for betraying his trust. He had expected an outbreak, but
+      Edward only looked at him with pitying eyes, and said sadly, “You too! I
       have no reproaches to make, for I know what you will suffer when the truth
-      is known.&rdquo;
+      is known.”
      </p>
-    <p>
-      &ldquo;What do you mean?&rdquo; demanded Coventry.
+<p>
+      “What do you mean?” demanded Coventry.
     </p>
-    <p>
-      &ldquo;You will soon know, my poor Gerald, and we will comfort one another.&rdquo;
+<p>
+      “You will soon know, my poor Gerald, and we will comfort one another.”
      </p>
-    <p>
+<p>
       Nothing more could be drawn from Edward till dinner was over, the servants
       gone, and all the family alone together. Then pale and grave, but very
       self-possessed, for trouble had made a man of him, he produced a packet of
-      letters, and said, addressing himself to his brother, &ldquo;Jean Muir has
+      letters, and said, addressing himself to his brother, “Jean Muir has
       deceived us all. I know her story; let me tell it before I read her
-      letters.&rdquo;
+      letters.”
      </p>
-    <p>
-      &ldquo;Stop! I&rsquo;ll not listen to any false tales against her. The poor girl has
-      enemies who belie her!&rdquo; cried Gerald, starting up.
+<p>
+      “Stop! I’ll not listen to any false tales against her. The poor girl has
+      enemies who belie her!” cried Gerald, starting up.
     </p>
-    <p>
-      &ldquo;For the honor of the family, you must listen, and learn what fools she
+<p>
+      “For the honor of the family, you must listen, and learn what fools she
       has made of us. I can prove what I say, and convince you that she has the
-      art of a devil. Sit still ten minutes, then go, if you will.&rdquo;
+      art of a devil. Sit still ten minutes, then go, if you will.”
      </p>
-    <p>
+<p>
       Edward spoke with authority, and his brother obeyed him with a foreboding
       heart.
     </p>
-    <p>
-      &ldquo;I met Sydney, and he begged me to beware of her. Nay, listen, Gerald! I
+<p>
+      “I met Sydney, and he begged me to beware of her. Nay, listen, Gerald! I
       know she has told her story, and that you believe it; but her own letters
       convict her. She tried to charm Sydney as she did us, and nearly succeeded
       in inducing him to marry her. Rash and wild as he is, he is still a
@@ -5087,48 +5131,73 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       refused to make her his wife. A stormy scene ensued, and, hoping to
       intimidate him, she feigned to stab herself as if in despair. She did
       wound herself, but failed to gain her point and insisted upon going to a
-      hospital to die. Lady Sydney, good, simple soul, believed the girl&rsquo;s
+      hospital to die. Lady Sydney, good, simple soul, believed the girl’s
       version of the story, thought her son was in the wrong, and when he was
       gone, tried to atone for his fault by finding Jean Muir another home. She
       thought Gerald was soon to marry Lucia, and that I was away, so sent her
-      here as a safe and comfortable retreat.&rdquo;
+      here as a safe and comfortable retreat.”
      </p>
-    <p>
-      &ldquo;But, Ned, are you sure of all this? Is Sydney to be believed?&rdquo; began
+<p>
+      “But, Ned, are you sure of all this? Is Sydney to be believed?” began
       Coventry, still incredulous.
     </p>
-    <p>
-      &ldquo;To convince you, I&rsquo;ll read Jean&rsquo;s letters before I say more. They were
+<p>
+      “To convince you, I’ll read Jean’s letters before I say more. They were
       written to an accomplice and were purchased by Sydney. There was a compact
       between the two women, that each should keep the other informed of all
       adventures, plots and plans, and share whatever good fortune fell to the
       lot of either. Thus Jean wrote freely, as you shall judge. The letters
       concern us alone. The first was written a few days after she came.
     </p>
-<pre xml:space="preserve">
-    &ldquo;Dear Hortense:
+<pre>
+    “Dear Hortense:
 
-```
-
-```
-
+    “Another failure. Sydney was more wily than I thought. All was going
+    well, when one day my old fault beset me, I took too much wine, and
+    I carelessly owned that I had been an actress. He was shocked, and
+    retreated. I got up a scene, and gave myself a safe little wound, to
+    frighten him. The brute was not frightened, but coolly left me to my
+    fate. I’d have died to spite him, if I dared, but as I didn’t, I
+    lived to torment him. As yet, I have had no chance, but I will not
+    forget him. His mother is a poor, weak creature, whom I could use as
+    I would, and through her I found an excellent place. A sick mother,
+    silly daughter, and two eligible sons. One is engaged to a handsome
+    iceberg, but that only renders him more interesting in my eyes,
+    rivalry adds so much to the charm of one’s conquests. Well, my dear,
+    I went, got up in the meek style, intending to do the pathetic; but
+    before I saw the family, I was so angry I could hardly control
+    myself. Through the indolence of Monsieur the young master, no
+    carriage was sent for me, and I intend he shall atone for that
+    rudeness by-and-by. The younger son, the mother, and the girl
+    received me patronizingly, and I understood the simple souls at
+    once. Monsieur (as I shall call him, as names are unsafe) was
+    unapproachable, and took no pains to conceal his dislike of
+    governesses. The cousin was lovely, but detestable with her pride,
+    her coldness, and her very visible adoration of Monsieur, who let
+    her worship him, like an inanimate idol as he is. I hated them both,
+    of course, and in return for their insolence shall torment her with
+    jealousy, and teach him how to woo a woman by making his heart ache.
+    They are an intensely proud family, but I can humble them all, I
+    think, by captivating the sons, and when they have committed
+    themselves, cast them off, and marry the old uncle, whose title
+    takes my fancy.”
  </pre>
-    <p>
-      &ldquo;She never wrote that! It is impossible. A woman could not do it,&rdquo; cried
+<p>
+      “She never wrote that! It is impossible. A woman could not do it,” cried
       Lucia indignantly, while Bella sat bewildered and Mrs. Coventry supported
       herself with salts and fan. Coventry went to his brother, examined the
       writing, and returned to his seat, saying, in a tone of suppressed wrath,
-      &ldquo;She did write it. I posted some of those letters myself. Go on, Ned.&rdquo;
+      “She did write it. I posted some of those letters myself. Go on, Ned.”
      </p>
-<pre xml:space="preserve">
-    &ldquo;I made myself useful and agreeable to the amiable ones, and
+<pre>
+    “I made myself useful and agreeable to the amiable ones, and
     overheard the chat of the lovers. It did not suit me, so I fainted
     away to stop it, and excite interest in the provoking pair. I
     thought I had succeeded, but Monsieur suspected me and showed me
     that he did. I forgot my meek role and gave him a stage look. It had
     a good effect, and I shall try it again. The man is well worth
     winning, but I prefer the title, and as the uncle is a hale,
-    handsome gentleman, I can&rsquo;t wait for him to die, though Monsieur is
+    handsome gentleman, I can’t wait for him to die, though Monsieur is
     very charming, with his elegant languor, and his heart so fast
     asleep no woman has had power to wake it yet. I told my story, and
     they believed it, though I had the audacity to say I was but
@@ -5136,29 +5205,48 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
     to marry me. Monsieur knows S. and evidently suspects something. I
     must watch him and keep the truth from him, if possible.
 
-```
-
-```
-
+    “I was very miserable that night when I got alone. Something in the
+    atmosphere of this happy home made me wish I was anything but what I
+    am. As I sat there trying to pluck up my spirits, I thought of the
+    days when I was lovely and young, good and gay. My glass showed me
+    an old woman of thirty, for my false locks were off, my paint gone,
+    and my face was without its mask. Bah! how I hate sentiment! I drank
+    your health from your own little flask, and went to bed to dream
+    that I was playing Lady Tartuffe—as I am. Adieu, more soon.”
  </pre>
-    <p>
+<p>
       No one spoke as Edward paused, and taking up another letter, he read on:
     </p>
-<pre xml:space="preserve">
-    &ldquo;My Dear Creature:
+<pre>
+    “My Dear Creature:
 
-```
-
-```
-
+    “All goes well. Next day I began my task, and having caught a hint
+    of the character of each, tried my power over them. Early in the
+    morning I ran over to see the Hall. Approved of it highly, and took
+    the first step toward becoming its mistress, by piquing the
+    curiosity and flattering the pride of its master. His estate is his
+    idol; I praised it with a few artless compliments to himself, and he
+    was charmed. The cadet of the family adores horses. I risked my neck
+    to pet his beast, and<i> he </i>was charmed. The little girl is romantic
+    about flowers; I made a posy and was sentimental, and<i> she </i>was
+    charmed. The fair icicle loves her departed mamma, I had raptures
+    over an old picture, and she thawed. Monsieur is used to being
+    worshipped. I took no notice of him, and by the natural perversity
+    of human nature, he began to take notice of me. He likes music; I
+    sang, and stopped when he’d listened long enough to want more. He is
+    lazily fond of being amused; I showed him my skill, but refused to
+    exert it in his behalf. In short, I gave him no peace till he began
+    to wake up. In order to get rid of the boy, I fascinated him, and he
+    was sent away. Poor lad, I rather liked him, and if the title had
+    been nearer would have married him.
 </pre>
-    <p>
-      &ldquo;Many thanks for the honor.&rdquo; And Edward&rsquo;s lip curled with intense scorn.
+<p>
+      “Many thanks for the honor.” And Edward’s lip curled with intense scorn.
       But Gerald sat like a statue, his teeth set, his eyes fiery, his brows
       bent, waiting for the end.
     </p>
-<pre xml:space="preserve">
-    &ldquo;The passionate boy nearly killed his brother, but I turned the
+<pre>
+    “The passionate boy nearly killed his brother, but I turned the
     affair to good account, and bewitched Monsieur by playing nurse,
     till Vashti (the icicle) interfered. Then I enacted injured virtue,
     and kept out of his way, knowing that he would miss me, I mystified
@@ -5169,38 +5257,76 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
     the day, and generous as a prince. I shall be a happy woman if I win
     him, and you shall share my good fortune; so wish me success.
 </pre>
-    <p>
-      &ldquo;This is the third, and contains something which will surprise you,&rdquo;
+<p>
+      “This is the third, and contains something which will surprise you,”
        Edward said, as he lifted another paper.
     </p>
-<pre xml:space="preserve">
-    &ldquo;Hortense:
+<pre>
+    “Hortense:
 
-```
-
-```
-
+    “I’ve done what I once planned to do on another occasion. You know
+    my handsome, dissipated father married a lady of rank for his second
+    wife. I never saw Lady H——d but once, for I was kept out of the
+    way. Finding that this good Sir J. knew something of her when a
+    girl, and being sure that he did not know of the death of her little
+    daughter, I boldly said I was the child, and told a pitiful tale of
+    my early life. It worked like a charm; he told Monsieur, and both
+    felt the most chivalrous compassion for Lady Howard’s daughter,
+    though before they had secretly looked down on me, and my real
+    poverty and my lowliness. That boy pitied me with an honest warmth
+    and never waited to learn my birth. I don’t forget that and shall
+    repay it if I can. Wishing to bring Monsieur’s affair to a
+    successful crisis, I got up a theatrical evening and was in my
+    element. One little event I must tell you, because I committed an
+    actionable offense and was nearly discovered. I did not go down to
+    supper, knowing that the moth would return to flutter about the
+    candle, and preferring that the fluttering should be done in
+    private, as Vashti’s jealousy is getting uncontrollable. Passing
+    throught the gentlemen’s dressing room, my quick eye caught sight of
+    a letter lying among the costumes. It was no stage affair, and an
+    odd sensation of fear ran through me as I recognized the hand of S.
+    I had feared this, but I believe in chance; and having found the
+    letter, I examined it. You know I can imitate almost any hand. When
+    I read in this paper the whole story of my affair with S., truly
+    told, and also that he had made inquiries into my past life and
+    discovered the truth, I was in a fury. To be so near success and
+    fail was terrible, and I resolved to risk everything. I opened the
+    letter by means of a heated knife blade under the seal, therefore
+    the envelope was perfect; imitating S.‘s hand, I penned a few lines
+    in his hasty style, saying he was at Baden, so that if Monsieur
+    answered, the reply would not reach him, for he is in London, it
+    seems. This letter I put into the pocket whence the other must have
+    fallen, and was just congratulating myself on this narrow escape,
+    when Dean, the maid of Vashti, appeared as if watching me. She had
+    evidently seen the letter in my hand, and suspected something. I
+    took no notice of her, but must be careful, for she is on the watch.
+    After this the evening closed with strictly private theatricals, in
+    which Monsieur and myself were the only actors. To make sure that he
+    received my version of the story first, I told him a romantic story
+    of S.‘s persecution, and he believed it. This I followed up by a
+    moonlight episode behind a rose hedge, and sent the young gentleman
+    home in a half-dazed condition. What fools men are!”
  </pre>
-    <p>
-      &ldquo;She is right!&rdquo; muttered Coventry, who had flushed scarlet with shame and
+<p>
+      “She is right!” muttered Coventry, who had flushed scarlet with shame and
       anger, as his folly became known and Lucia listened in astonished silence.
     </p>
-    <p>
-      &ldquo;Only one more, and my distasteful task will be nearly over,&rdquo; said Edward,
-      unfolding the last of the papers. &ldquo;This is not a letter, but a copy of one
-      written three nights ago. Dean boldly ransacked Jean Muir&rsquo;s desk while she
+<p>
+      “Only one more, and my distasteful task will be nearly over,” said Edward,
+      unfolding the last of the papers. “This is not a letter, but a copy of one
+      written three nights ago. Dean boldly ransacked Jean Muir’s desk while she
       was at the Hall, and, fearing to betray the deed by keeping the letter,
       she made a hasty copy which she gave me today, begging me to save the
       family from disgrace. This makes the chain complete. Go now, if you will,
-      Gerald. I would gladly spare you the pain of hearing this.&rdquo;
+      Gerald. I would gladly spare you the pain of hearing this.”
      </p>
-    <p>
-      &ldquo;I will not spare myself; I deserve it. Read on,&rdquo; replied Coventry,
+<p>
+      “I will not spare myself; I deserve it. Read on,” replied Coventry,
       guessing what was to follow and nerving himself to hear it. Reluctantly
       his brother read these lines:
     </p>
-<pre xml:space="preserve">
-    &ldquo;The enemy has surrendered! Give me joy, Hortense; I can be the
+<pre>
+    “The enemy has surrendered! Give me joy, Hortense; I can be the
     wife of this proud monsieur, if I will. Think what an honor for the
     divorced wife of a disreputable actor. I laugh at the farce and
     enjoy it, for I only wait till the prize I desire is fairly mine, to
@@ -5209,26 +5335,26 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
     and I have kept my word. For my sake he cast off the beautiful woman
     who truly loved him; he forgot his promise to his brother, and put
     by his pride to beg of me the worn-out heart that is not worth a
-    good man&rsquo;s love. Ah well, I am satisfied, for Vashti has suffered
+    good man’s love. Ah well, I am satisfied, for Vashti has suffered
     the sharpest pain a proud woman can endure, and will feel another
     pang when I tell her that I scorn her recreant lover, and give him
-    back to her, to deal with as she will.&rdquo;
+    back to her, to deal with as she will.”
  </pre>
-    <p>
+<p>
       Coventry started from his seat with a fierce exclamation, but Lucia bowed
       her face upon her hands, weeping, as if the pang had been sharper than
       even Jean foresaw.
     </p>
-    <p>
-      &ldquo;Send for Sir John! I am mortally afraid of this creature. Take her away;
+<p>
+      “Send for Sir John! I am mortally afraid of this creature. Take her away;
       do something to her. My poor Bella, what a companion for you! Send for Sir
-      John at once!&rdquo; cried Mrs. Coventry incoherently, and clasped her daughter
+      John at once!” cried Mrs. Coventry incoherently, and clasped her daughter
       in her arms, as if Jean Muir would burst in to annihilate the whole
       family. Edward alone was calm.
     </p>
-    <p>
-      &ldquo;I have already sent, and while we wait, let me finish this story. It is
-      true that Jean is the daughter of Lady Howard&rsquo;s husband, the pretended
+<p>
+      “I have already sent, and while we wait, let me finish this story. It is
+      true that Jean is the daughter of Lady Howard’s husband, the pretended
       clergyman, but really a worthless man who married her for her money. Her
       own child died, but this girl, having beauty, wit and a bold spirit, took
       her fate into her own hands, and became an actress. She married an actor,
@@ -5239,128 +5365,132 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       was in time to prevent this, thank heaven. She is gone; no one knows the
       truth but Sydney and ourselves; he will be silent, for his own sake; we
       will be for ours, and leave this dangerous woman to the fate which will
-      surely overtake her.&rdquo;
+      surely overtake her.”
      </p>
-    <p>
-      &ldquo;Thank you, it has overtaken her, and a very happy one she finds it.&rdquo;
+<p>
+      “Thank you, it has overtaken her, and a very happy one she finds it.”
      </p>
-    <p>
+<p>
       A soft voice uttered the words, and an apparition appeared at the door,
-      which made all start and recoil with amazement&mdash;Jean Muir leaning on
+      which made all start and recoil with amazement—Jean Muir leaning on
       the arm of Sir John.
     </p>
-    <p>
-      &ldquo;How dare you return?&rdquo; began Edward, losing the self-control so long
-      preserved. &ldquo;How dare you insult us by coming back to enjoy the mischief
-      you have done? Uncle, you do not know that woman!&rdquo;
+<p>
+      “How dare you return?” began Edward, losing the self-control so long
+      preserved. “How dare you insult us by coming back to enjoy the mischief
+      you have done? Uncle, you do not know that woman!”
      </p>
-    <p>
-      &ldquo;Hush, boy, I will not listen to a word, unless you remember where you
-      are,&rdquo; said Sir John with a commanding gesture.
+<p>
+      “Hush, boy, I will not listen to a word, unless you remember where you
+      are,” said Sir John with a commanding gesture.
     </p>
-    <p>
-      &ldquo;Remember your promise: love me, forgive me, protect me, and do not listen
-      to their accusations,&rdquo; whispered Jean, whose quick eye had discovered the
+<p>
+      “Remember your promise: love me, forgive me, protect me, and do not listen
+      to their accusations,” whispered Jean, whose quick eye had discovered the
       letters.
     </p>
-    <p>
-      &ldquo;I will; have no fears, my child,&rdquo; he answered, drawing her nearer as he
+<p>
+      “I will; have no fears, my child,” he answered, drawing her nearer as he
       took his accustomed place before the fire, always lighted when Mrs.
       Coventry was down.
     </p>
-    <p>
-      Gerald, who had been pacing the room excitedly, paused behind Lucia&rsquo;s
+<p>
+      Gerald, who had been pacing the room excitedly, paused behind Lucia’s
       chair as if to shield her from insult; Bella clung to her mother; and
       Edward, calming himself by a strong effort, handed his uncle the letters,
-      saying briefly, &ldquo;Look at those, sir, and let them speak.&rdquo;
+      saying briefly, “Look at those, sir, and let them speak.”
      </p>
-    <p>
-      &ldquo;I will look at nothing, hear nothing, believe nothing which can in any
+<p>
+      “I will look at nothing, hear nothing, believe nothing which can in any
       way lessen my respect and affection for this young lady. She has prepared
       me for this. I know the enemy who is unmanly enough to belie and threaten
       her. I know that you both are unsuccessful lovers, and this explains your
       unjust, uncourteous treatment now. We all have committed faults and
       follies. I freely forgive Jean hers, and desire to know nothing of them
       from your lips. If she has innocently offended, pardon it for my sake, and
-      forget the past.&rdquo;
+      forget the past.”
      </p>
-    <p>
-      &ldquo;But, Uncle, we have proofs that this woman is not what she seems. Her own
-      letters convict her. Read them, and do not blindly deceive yourself,&rdquo;
-       cried Edward, indignant at his uncle&rsquo;s words.
+<p>
+      “But, Uncle, we have proofs that this woman is not what she seems. Her own
+      letters convict her. Read them, and do not blindly deceive yourself,”
+       cried Edward, indignant at his uncle’s words.
     </p>
-    <p>
+<p>
       A low laugh startled them all, and in an instant they saw the cause of it.
       While Sir John spoke, Jean had taken the letters from the hand which he
       had put behind him, a favorite gesture of his, and, unobserved, had
       dropped them on the fire. The mocking laugh, the sudden blaze, showed what
       had been done. Both young men sprang forward, but it was too late; the
-      proofs were ashes, and Jean Muir&rsquo;s bold, bright eyes defied them, as she
-      said, with a disdainful little gesture. &ldquo;Hands off, gentlemen! You may
+      proofs were ashes, and Jean Muir’s bold, bright eyes defied them, as she
+      said, with a disdainful little gesture. “Hands off, gentlemen! You may
       degrade yourselves to the work of detectives, but I am not a prisoner yet.
-      Poor Jean Muir you might harm, but Lady Coventry is beyond your reach.&rdquo;
+      Poor Jean Muir you might harm, but Lady Coventry is beyond your reach.”
      </p>
-    <p>
-      &ldquo;Lady Coventry!&rdquo; echoed the dismayed family, in varying tones of
+<p>
+      “Lady Coventry!” echoed the dismayed family, in varying tones of
       incredulity, indignation, and amazement.
     </p>
-    <p>
-      &ldquo;Aye, my dear and honored wife,&rdquo; said Sir John, with a protecting arm
+<p>
+      “Aye, my dear and honored wife,” said Sir John, with a protecting arm
       about the slender figure at his side; and in the act, the words, there was
       a tender dignity that touched the listeners with pity and respect for the
-      deceived man. &ldquo;Receive her as such, and for my sake, forbear all further
-      accusation,&rdquo; he continued steadily. &ldquo;I know what I have done. I have no
+      deceived man. “Receive her as such, and for my sake, forbear all further
+      accusation,” he continued steadily. “I know what I have done. I have no
       fear that I shall repent it. If I am blind, let me remain so till time
       opens my eyes. We are going away for a little while, and when we return,
       let the old life return again, unchanged, except that Jean makes sunshine
-      for me as well as for you.&rdquo;
+      for me as well as for you.”
      </p>
-    <p>
+<p>
       No one spoke, for no one knew what to say. Jean broke the silence, saying
-      coolly, &ldquo;May I ask how those letters came into your possession?&rdquo;
+      coolly, “May I ask how those letters came into your possession?”
      </p>
-    <p>
-      &ldquo;In tracing out your past life, Sydney found your friend Hortense. She was
+<p>
+      “In tracing out your past life, Sydney found your friend Hortense. She was
       poor, money bribed her, and your letters were given up to him as soon as
-      received. Traitors are always betrayed in the end,&rdquo; replied Edward
+      received. Traitors are always betrayed in the end,” replied Edward
       sternly.
     </p>
-    <p>
+<p>
       Jean shrugged her shoulders, and shot a glance at Gerald, saying with her
-      significant smile, &ldquo;Remember that, monsieur, and allow me to hope that in
+      significant smile, “Remember that, monsieur, and allow me to hope that in
       wedding you will be happier than in wooing. Receive my congratulations,
       Miss Beaufort, and let me beg of you to follow my example, if you would
-      keep your lovers.&rdquo;
+      keep your lovers.”
      </p>
-    <p>
+<p>
       Here all the sarcasm passed from her voice, the defiance from her eye, and
-      the one unspoiled attribute which still lingered in this woman&rsquo;s artful
+      the one unspoiled attribute which still lingered in this woman’s artful
       nature shone in her face, as she turned toward Edward and Bella at their
-      mother&rsquo;s side.
+      mother’s side.
     </p>
-    <p>
-      &ldquo;You have been kind to me,&rdquo; she said, with grateful warmth. &ldquo;I thank you
+<p>
+      “You have been kind to me,” she said, with grateful warmth. “I thank you
       for it, and will repay it if I can. To you I will acknowledge that I am
-      not worthy to be this good man&rsquo;s wife, and to you I will solemnly promise
+      not worthy to be this good man’s wife, and to you I will solemnly promise
       to devote my life to his happiness. For his sake forgive me, and let there
-      be peace between us.&rdquo;
+      be peace between us.”
      </p>
-    <p>
-      There was no reply, but Edward&rsquo;s indignant eyes fell before hers. Bella
+<p>
+      There was no reply, but Edward’s indignant eyes fell before hers. Bella
       half put out her hand, and Mrs. Coventry sobbed as if some regret mingled
       with her resentment. Jean seemed to expect no friendly demonstration, and
-      to understand that they forbore for Sir John&rsquo;s sake, not for hers, and to
+      to understand that they forbore for Sir John’s sake, not for hers, and to
       accept their contempt as her just punishment.
     </p>
-    <p>
-      &ldquo;Come home, love, and forget all this,&rdquo; said her husband, ringing the
-      bell, and eager to be gone. &ldquo;Lady Coventry&rsquo;s carriage.&rdquo;
+<p>
+      “Come home, love, and forget all this,” said her husband, ringing the
+      bell, and eager to be gone. “Lady Coventry’s carriage.”
      </p>
-    <p>
+<p>
       And as he gave the order, a smile broke over her face, for the sound
       assured her that the game was won. Pausing an instant on the threshold
       before she vanished from their sight, she looked backward, and fixing on
       Gerald the strange glance he remembered well, she said in her penetrating
-      voice, &ldquo;Is not the last scene better than the first?&rdquo;
+      voice, “Is not the last scene better than the first?”
+     </p>
+
+   
+   
      </p>
    
