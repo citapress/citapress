@@ -34,7 +34,7 @@ description: '"When “On the Equality of the Sexes” appeared in 1790 in
 ---
 ## Foreword
 
-When “On the Equality of the Sexes” appeared in 1790 in the <i>Massachusetts Magazine<i>, it became the earliest known public claim in America for female equality. As a new writer for the Magazine, “Constantia” (Judith Sargent Murray’s pen name) assured her readers that she had not plagiarized from contemporary texts. As early as 1779, she wrote in her introduction, “many respectable persons” had seen drafts of her essay.
+When “On the Equality of the Sexes” appeared in 1790 in the <i>Massachusetts Magazine</i>, it became the earliest known public claim in America for female equality. As a new writer for the Magazine, “Constantia” (Judith Sargent Murray’s pen name) assured her readers that she had not plagiarized from contemporary texts. As early as 1779, she wrote in her introduction, “many respectable persons” had seen drafts of her essay.
 
 In fact, Judith had been a self-described “scribbler” from a very young age. At nine, she wrote “an history” of her life and made “humble attempts at poetry.” Her father, apparently, proudly shared her poems with their family. Judith also wrote well-crafted, opinionated letters by the dozen. It was in a letter to Catherine Goldthwaite that she first challenged the myth of the “Fall of Eve” as “proof “of female inferiority.
 
