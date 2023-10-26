@@ -34,7 +34,6 @@ foreword: "Cover: Juliana Castro Varón is a Colombian graphic designer and
 ---
 ![Cover of The Beautiful, featuring colorful abstract shapes on a white background](cover-the-beautiful.png "Cover, The Beautiful")
 
-
 <p>CONTENTS</p><br>
   <ul class="toc">
     <li><a href="#0">Preface and Apology</a></li>
@@ -589,9 +588,9 @@ itself from its ground, those Shapes could be contemplated and called
 beautiful.</p><a name="5"></a><br>
 <br>
 
-<p>CHAPTER V</p>
+<p><h2>CHAPTER V</p></h2>
 
-<p>PERCEPTION OF RELATIONS</p>
+<p><b>PERCEPTION OF RELATIONS</p></b>
 
 <p>WHY should this be the case? Briefly, because colours (and sounds) as such are forced
 upon us by external stimulation of our organs of sight and hearing, neither more nor less
@@ -693,9 +692,9 @@ sensations grouped together into <i>relations</i> by our active, our remembering
 foreseeing, perception.</p><a name="6"></a><br>
 <br>
 
-<p>CHAPTER VI</p>
+<p><h2>CHAPTER VI</p></h2>
 
-<p>ELEMENTS OF SHAPE</p>
+<p><b>ELEMENTS OF SHAPE</p></b>
 
 <p>LET us now examine some of these relations, not in the genealogical or hierarchic
 order assigned to them by experimental psychology, but in so far as they constitute the
@@ -920,9 +919,9 @@ own activities, and an active remembering, foreseeing and combining thereof.</p>
 "7"></a><br>
 <br>
 
-<p>CHAPTER VII</p>
+<p><h2>CHAPTER VII</p></h2>
 
-<p>FACILITY AND DIFFICULTY OF GRASPING</p>
+<p><b>FACILITY AND DIFFICULTY OF GRASPING</p></b>
 
 <p>OF this we get further proof when we proceed to another and less elementary
 relationship implied in the perception of shape: the relation of Whole and Parts.</p>
@@ -1040,9 +1039,9 @@ suffices for satisfied contemplation, and hence for the use of the adjective
 Beautiful.</p><a name="8"></a><br>
 <br>
 
-<p>CHAPTER VIII</p>
+<p><h2>CHAPTER VIII</p></h2>
 
-<p>SUBJECT AND OBJECT</p>
+<p><b>SUBJECT AND OBJECT</p></b>
 
 <p>BUT before proceeding to this additional factor in shape-perception, namely that of
 Empathic Interpretation, I require to forestall an objection which my Reader has
@@ -1134,9 +1133,9 @@ I might have added that there was also a plain which <i>extended,</i> a valley w
 man there was a distant mountain <i>rising</i> against the sky.</p><a name="9"></a><br>
 <br>
 
-<p>CHAPTER IX</p>
+<p><h2>CHAPTER IX</p></h2>
 
-<p>EMPATHY</p>
+<p><b>EMPATHY</p></b>
 
 <p><i>THE mountain rises.</i> What do we mean when we employ this form of words? Some
 mountains, we are told, have originated in an <i>upheaval.</i> But even if this
@@ -1228,10 +1227,10 @@ particular mountain. And it is this complex mental process, by which we (all
 unsuspectingly) invest that inert mountain, that bodiless shape, with the stored up and
 averaged and essential modes of our activity—it is this process whereby we make the
 mountain <i>raise itself,</i> which constitutes what, accepting Prof. Titchener's
-translation\[*] of the German word <i>Einf<font face=
+translation\\[*] of the German word <i>Einf<font face=
 "Times New Roman">&uuml;</font>hlung,</i> I have called Empathy.</p>
 
-<p>\[*] From <i><font face="Times New Roman">&#941;&nu;</font></i> and <i><font face=
+<p>\\[*] From <i><font face="Times New Roman">&#941;&nu;</font></i> and <i><font face=
 "Times New Roman">&pi;&#940;&sigma;&chi;&omega;,
 &#941;&pi;&alpha;&theta;&omicron;&nu;</font></i>.</p>
 
@@ -1291,9 +1290,9 @@ Moli<font face="Times New Roman">&egrave;</font>re's good man was to hear that b
 prose.</p><a name="10"></a><br>
 <br>
 
-<p>CHAPTER X</p>
+<p><h2>CHAPTER X</p></h2>
 
-<p>THE MOVEMENT OF LINES</p>
+<p><b>THE MOVEMENT OF LINES</p></b>
 
 <p>ANY tendency to Empathy is perpetually being checked by the need for practical
 thinking. We are made to think in the most summary fashion from one to another of those
@@ -1428,9 +1427,9 @@ contemplation not of Things but of Shapes which are only Aspects of them.</p><a 
 "11"></a><br>
 <br>
 
-<p>CHAPTER XI</p>
+<p><h2>CHAPTER XI</p></h2>
 
-<p>THE CHARACTER OF SHAPES</p>
+<p><b>THE CHARACTER OF SHAPES</p></b>
 
 <p>IN my example of the Rising Mountain, I have been speaking as if Empathy invested the
 shapes we look at with only one mode of activity at a time. This, which I have assumed
@@ -1531,9 +1530,9 @@ which we are obliged to invest them with are such as we vainly seek, or experien
 to lose, in our scattered or hustled existence.</p><a name="12"></a><br>
 <br>
 
-<p>CHAPTER XII</p>
+<p><h2>CHAPTER XII</p></h2>
 
-<p>FROM THE SHAPE TO THE THING</p>
+<p><b>FROM THE SHAPE TO THE THING</p></b>
 
 <p>SUCH are the satisfactions and dissatisfactions, impersonal and unpractical, we can
 receive, or in reality, give ourselves, in the contemplation of shape.</p>
@@ -1642,9 +1641,9 @@ we shall deal with, when we come to Art, under the heading of <i>representation<
 opposed to <i>form.</i></p><a name="13"></a><br>
 <br>
 
-<p>CHAPTER XIII</p>
+<p><h2>CHAPTER XIII</p></h2>
 
-<p>FROM THE THING TO THE SHAPE</p>
+<p><b>FROM THE THING TO THE SHAPE</p></b>
 
 <p>THE necessities of analysis and exposition have led us from the Shape to the Thing,
 from aesthetic contemplation to discursive and practical thinking. But, as the foregoing
@@ -1779,9 +1778,9 @@ contemplative satisfaction to which we attach the respective names of "ugly" and
 "beautiful."</p><a name="14"></a><br>
 <br>
 
-<p>CHAPTER XIV</p>
+<p><h2>CHAPTER XIV</p></h2>
 
-<p>THE AIMS OF ART</p>
+<p><b>THE AIMS OF ART</p></b>
 
 <p>WE have thus at last got to Art, which the Reader may have expected to be dealt with
 at the outset of a primer on the Beautiful.</p>
@@ -1920,9 +1919,9 @@ mental life, and therefore a chief factor in all artistic production and
 appreciation.</p><a name="15"></a><br>
 <br>
 
-<p>CHAPTER XV</p>
+<p><h2>CHAPTER XV</p></h2>
 
-<p>ATTENTION TO SHAPES</p>
+<p><b>ATTENTION TO SHAPES</p></b>
 
 <p>TO explain how art in general, and any art in particular, succeeds in reconciling
 these contradictory demands, I must remind the Reader of what I said (p. 93) about the
@@ -2007,9 +2006,9 @@ desire for beauty while pursuing entirely different aims, and executing any one 
 variety of wholly independent non-aesthetic tasks.</p><a name="16"></a><br>
 <br>
 
-<p>CHAPTER XVI</p>
+<p><h2>CHAPTER XVI</p></h2>
 
-<p>INFORMATION ABOUT THINGS</p>
+<p><b>INFORMATION ABOUT THINGS</p></b>
 
 <p>AMONG the facts which Painting is set to tell us about things, the most important,
 after cubic existence, is Locomotion. Indeed in the development of the race as well as in
@@ -2111,9 +2110,9 @@ the most important tidings, loses as soon as we have taken in its contents.</p><
 "17"></a><br>
 <br>
 
-<p>CHAPTER XVII</p>
+<p><h2>CHAPTER XVII</p></h2>
 
-<p>THE CO-OPERATION OF THINGS AND SHAPES</p>
+<p><b>THE CO-OPERATION OF THINGS AND SHAPES</p></b>
 
 <p>DURING the Middle Ages and up to recent times the chief task of painting has been,
 ostensibly, the telling and re-telling of the same Scripture stories; and, incidentally,
@@ -2282,7 +2281,7 @@ and buildings.</p>
 aesthetic contemplation, I must ask the Reader to accept on my authority and if possible
 verify for himself, the fact that what I have been saying applies, <i>mutatis
 mutandis,</i> to the other arts. As we have already noticed, something analogous to a
-third dimension exists also in music; and even, as I have elsewhere shown,\[*] in
+third dimension exists also in music; and even, as I have elsewhere shown,\\[*] in
 literature. The harmonies accompanying a melody satisfy our tendency to think of other
 notes and particularly of other allied tonalities; while as to literature, the whole
 handling of words, indeed the whole of logical thinking, is but a cubic working backwards
@@ -2295,12 +2294,12 @@ genius, but even more to the fact that cubic imagination is the type of the vari
 multiplying factors by which the empathic, that is to say the essentially aesthetic,
 activity, can increase its sphere of operations, its staying power and its intensity.</p>
 
-<p>\[*] <i>The Handling of Words,</i> English Review, 1911-12.</p><a name="18"></a><br>
+<p>\\[*] <i>The Handling of Words,</i> English Review, 1911-12.</p><a name="18"></a><br>
 <br>
 
-<p>CHAPTER XVIII</p>
+<p><h2>CHAPTER XVIII</p></h2>
 
-<p>AESTHETIC RESPONSIVENESS</p>
+<p><b>AESTHETIC RESPONSIVENESS</p></b>
 
 <p>OUR examination has thus proceeded from aesthetic contemplation to the work of Art,
 which seeks to secure and satisfy it while furthering some of life's various other
@@ -2483,9 +2482,9 @@ propose to call the <i>Transferability of Aesthetic Emotion.</i></p><a name=
 "19"></a><br>
 <br>
 
-<p>CHAPTER XIX</p>
+<p><h2>CHAPTER XIX</p></h2>
 
-<p>THE STORAGE AND TRANSFER OF EMOTION</p>
+<p><b>THE STORAGE AND TRANSFER OF EMOTION</p></b>
 
 <p>IN dealing with familiarity as a multiplying factor of aesthetic appreciation, I have
 laid stress on its effect in facilitating the perception and the empathic interpretation
@@ -2611,9 +2610,9 @@ these are all matters of fashion, and that there is really no disputing of
 tastes!</p><a name="20"></a><br>
 <br>
 
-<p>CHAPTER XX</p>
+<p><h2>CHAPTER XX</p></h2>
 
-<p>AESTHETIC IRRADIATION AND PURIFICATION</p>
+<p><b>AESTHETIC IRRADIATION AND PURIFICATION</p></b>
 
 <p>THE storage and transfer of aesthetic emotion explain yet another fact, with which
 indeed I began this little book: namely that the word <i>Beautiful</i> has been extended
@@ -2705,9 +2704,9 @@ life, on to a level which can only be spiritually, organically, and in so far, m
 beneficial.</p><a name="21"></a><br>
 <br>
 
-<p>CHAPTER XXI</p>
+<p><h2>CHAPTER XXI</p></h2>
 
-<p>CONCLUSION (EVOLUTIONAL)</p>
+<p><b>CONCLUSION (EVOLUTIONAL)</p></b>
 
 <p>SOME of my Readers, not satisfied by the answer implicit in the last chapter and
 indeed in the whole of this little book, may ask a final question concerning our subject.
@@ -2915,7 +2914,7 @@ Wundt, 42, 66</p>
 <br>
 <br>
 
-<p>\[Note:&nbsp; for this online edition I have moved the Table of Contents to the
+<p>\\[Note:&nbsp; for this online edition I have moved the Table of Contents to the
 beginning of the text and slightly modified it to conform with the online format.&nbsp; I
 have also made two spelling corrections:&nbsp; "chippendale" to "Chippendale" and "closely
 interpendent" to "closely interdependent."] Text Taken from Project Gutemberg</p>
