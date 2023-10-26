@@ -45,7 +45,7 @@ description: >-
 ---
 ![Meditations cover: Hands cup a yonic sun rising over the mountains, exaltation](cover-st-teresa-eng.jpg "Meditations cover")
 
-**Introduction**
+## **Foreword**
 
 It is puzzling that we can read Saint Teresa of Jesus’ Meditations on the Song of Songs today. Her confessor ordered the destruction of the manuscript out of fear that it could reach the Inquisition, and, according to witnesses, Teresa burned it right before his eyes. But did she know about the existence of other copies? Was her obedience sincere, or simply a performative acknowledgement of the authority of her confessor?
 
@@ -75,11 +75,11 @@ Ana María Carvajal, PhD in Literature.
 
 1. As an explanatory note: we choose to refer to the author as Teresa of Jesus, thereby abiding by her desire to be named according to her religious wish. This decision stands in contrast to the use of Teresa of Avila, the name that has been traditionally used in academic circles.
 
-## MEDITATIONS ON THE SONG OF SONGS
+# MEDITATIONS ON THE SONG OF SONGS
 
 This text is from Minor works of St. Teresa; conceptions of the love of God, exclamations, maxims and poems of Saint Teresa of Jesus. Tr. from the Spanish by the Benedictines of Stanbrook. London: T. Baker, 1913. Retrieved from https://www.hathitrust.org.
 
-### CHAPTER 1
+## CHAPTER 1
 
 Treats of the difficulty of understanding the meaning of the Holy Scriptures, especially the Canticle of Canticles. That some sentences contained in the latter, although they seem trite, homely, and unsuited to the most pure utterance of God and of His Spouse, yet comprise very holy mysteries and sublime ideas.
 
@@ -102,7 +102,7 @@ Treats of the difficulty of understanding the meaning of the Holy Scriptures, es
 13. Before going any farther, I have a remark to make which I think is important, although it would have been more appropriate at some other time; however, I will run no risk of forgetting it. I feel sure that many souls approach the most Blessed Sacrament — would to God I were mistaken! — laden with mortal sins. If such persons heard one who was dying for love of God utter the words I quote, they would be scandalised and would take it for extreme presumption. Most certainly they would never themselves use this expression, for it and others of the same sort contained in the Canticle of Canticles are uttered by love which speaks thus, and as such persons lack love, they might read the book every day and never use such expressions, nor even dare to pronounce the words whose very sound strikes one with awe, so sublime is their majesty. And this majesty is Thine, my Lord! in the most holy Sacrament, but as faith is no longer living but is dead in such souls, they, seeing Thee humbled beneath the species of bread and remaining silent (for indeed they are unworthy to hear Thee), dare thus griev- ously to outrage Thee. When I consider, my God and my Lord! the dignity of Thy divine Majesty and the greatness of Thy Sovereign bounty which lead Thee to communicate so intimately with base creatures, I ask myself how it is that they are not beside themselves with wonder and do not seek Thy grace and friendship with all their heart. For, not content with cherishing the soul and giving Thyself for its food and nourishment, Thou dost delight in its treating Thee as its tender and beloved Bridegroom and asking Thee to kiss it with Thy sweet and divine mouth. In order to bestow Thy gifts and favours and to draw it. to Thy love, Thou dost speak to it and teach it with such care that the words addressed by Thee to souls to show them their faults, their miseries, and to lead them to renounce earthly things are usually of a kind of which the very sound penetrates the mind with fear.
 14. If these words were taken literally they might well awe the soul, yet to one beside herself with love of Thee, Lord, Thou mayest pardon this and even more, presumptuous as it may be! For if, my Lord, a kiss signifies peace, why should not souls ask it of Thee? What more can we beg of Thee than what I plead to Thee for, my Master, that Thou wilt kiss me with the kiss of Thy mouth? This, daughters, is a most sublime petition, as I will explain to you.
 
-### CHAPTER 2
+## CHAPTER 2
 
 Of nine sorts of false peace; of defective love and fallacious prayer. This chapter contains very important teach-ing on genuine love, and on how souls should examine themselves so as to discover the defects that hinder them from attaining the perfection they desire.
 
