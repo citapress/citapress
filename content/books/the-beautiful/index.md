@@ -34,9 +34,6 @@ foreword: "Cover: Juliana Castro Varón is a Colombian graphic designer and
 ---
 ![Cover of The Beautiful, featuring colorful abstract shapes on a white background](cover-the-beautiful.png "Cover, The Beautiful")
 
-\    <h1>The Beautiful, An Introduction to Psychological Aesthetics</h1>
-    <h2>Violet Paget - Vernon Lee</h2>
-  </section>
 
 <p>CONTENTS</p><br>
   <ul class="toc">
@@ -70,7 +67,7 @@ foreword: "Cover: Juliana Castro Varón is a Colombian graphic designer and
 <br>
 <br>
 
-<p>PREFACE AND APOLOGY</p>
+<p><h2>PREFACE AND APOLOGY</p></h2>
 
 <p>I HAVE tried in this little volume to explain aesthetic preference, particularly as
 regards visible shapes, by the facts of mental science. But my explanation is addressed
@@ -108,9 +105,9 @@ associative abbreviation and equivalence of processes.</p>
 "1"></a><br>
 <br>
 
-<p>CHAPTER I</p>
+<p><h2>CHAPTER I</p></h2>
 
-<p>THE ADJECTIVE "BEAUTIFUL"</p>
+<p><b>THE ADJECTIVE "BEAUTIFUL"</p></b>
 
 <p>THIS little book, like the great branch of mental science to which it is an
 introduction, makes no attempt to "form the taste" of the public and still less to direct
@@ -228,9 +225,9 @@ eminently practical state of mind, one diametrically opposed to contemplation, a
 to make evident in the next section.</p><a name="2"></a><br>
 <br>
 
-<p>CHAPTER II</p>
+<p><h2>CHAPTER II</p></h2>
 
-<p>CONTEMPLATIVE SATISFACTION</p>
+<p><b>CONTEMPLATIVE SATISFACTION</p></b>
 
 <p>WE have thus defined the word <i>Beautiful</i> as implying an attitude of
 contemplative satisfaction, marked by a feeling, sometimes amounting to an
@@ -341,9 +338,9 @@ mistaken for an artist or writer, and then dismissed as an aesthetic person.</p>
 "3"></a><br>
 <br>
 
-<p>CHAPTER III</p>
+<p><h2>CHAPTER III</p></h2>
 
-<p>ASPECTS <i>VERSUS</i> THINGS</p>
+<p><b>ASPECTS <i>VERSUS</i> THINGS</p></b>
 
 <p>HAVING settled upon a particular point of view as the one he liked best, he remained
 there in contemplation of the aspect it afforded him. Had he descended another twenty
@@ -471,9 +468,9 @@ ourselves.</p>
 "4"></a><br>
 <br>
 
-<p>CHAPTER IV</p>
+<p><h2>CHAPTER IV</p></h2>
 
-<p>SENSATIONS</p>
+<p><b>SENSATIONS</p></b>
 
 <p>IN the contemplation of the <i>Aspect</i> before him, what gave that aesthetic man the
 most immediate and undoubted pleasure was its colour, or, more correctly speaking, its
