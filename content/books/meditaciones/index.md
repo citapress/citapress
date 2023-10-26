@@ -81,7 +81,7 @@ This text is from Minor works of St. Teresa; conceptions of the love of God, exc
 
 ## CHAPTER 1
 
-Treats of the difficulty of understanding the meaning of the Holy Scriptures, especially the Canticle of Canticles. That some sentences contained in the latter, although they seem trite, homely, and unsuited to the most pure utterance of God and of His Spouse, yet comprise very holy mysteries and sublime ideas.
+*Treats of the difficulty of understanding the meaning of the Holy Scriptures, especially the Canticle of Canticles. That some sentences contained in the latter, although they seem trite, homely, and unsuited to the most pure utterance of God and of His Spouse, yet comprise very holy mysteries and sublime ideas.*
 
 1. Consolation to be found in the mysteries of the Holy Scriptures. 2. How to look upon these mysteries. 3. Misinterpretation of the Canticle of Canticles. 4. Caused by our lack of love for God. 5. How the Canticles comfort devout souls. 6. They demonstrate God's love for us. 7. How profound are the mysteries of the Canticles. 8. Saint Teresa's plea for commenting on them. 9. Her apologies. 10. Whom the Bride addresses in the text Quoted. 11. "Let Him kiss me with the kiss of His mouth." 12. The "kiss" signifies peace. 13. The Canticles scandalise tepid souls. 14. They are meant for fervent souls.
 
@@ -104,7 +104,7 @@ Treats of the difficulty of understanding the meaning of the Holy Scriptures, es
 
 ## CHAPTER 2
 
-Of nine sorts of false peace; of defective love and fallacious prayer. This chapter contains very important teach-ing on genuine love, and on how souls should examine themselves so as to discover the defects that hinder them from attaining the perfection they desire.
+*Of nine sorts of false peace; of defective love and fallacious prayer. This chapter contains very important teach-ing on genuine love, and on how souls should examine themselves so as to discover the defects that hinder them from attaining the perfection they desire.*
 
 1 . Peace produced in souls by the devil. 2. Peace proceeding from laxity. 3. Examples of this peace among religious. 4. Life must be a constant warfare. 5. Advantages of temptations and struggles. 6. Peace of soul and contrition. 7. Contrition a sign of spiritual life. 8. Preparation for this peace. 9. Dangerous peace. 10. Object of this treatise. 11. Riches disturb peace. 12. Peace and holy poverty. 13. Evils of flattery. 14. Its treachery. 15. Our own nothingness. 16. Dangers of flattery. 17. Bodily comfort and our Lord's example. 18. And that of the Saints. 19. Consequences of self-indulgence. 20. Self-indulgence in religious. 21. Various kinds of divine peace. 22. Peace with God. 23. Dispositions for obtaining it. 24. Habitual sin. 25. God is patient with us. 26. Venial sins and peace. 27. Their danger. 28. Worldliness and peace. 29. Renouncement of the world. 30. An instance. 31. Self-deception difficult in religious life. 32. Human respect and perfection. 33. Peace disturbed by care for reputation. 34. Cautious souls. 35. Their want of trust. 36. The religious life and peace.
 
@@ -147,9 +147,9 @@ Of nine sorts of false peace; of defective love and fallacious prayer. This chap
 
 ## Chapter 3
 
-Of the genuine peace, oneness with Christ, and love for God which spring from the prayer of union, called by the Bride " the kiss " from the divine " mouth."
+*Of the genuine peace, oneness with Christ, and love for God which spring from the prayer of union, called by the Bride " the kiss " from the divine " mouth."*
 
-1. Fervour produced by the "kiss." 2. Signs that a soul has received it. 3. Comparison of the slave's ransom. 4. St. Paulinus of Nola. 5. Diffidence and contrition. 6. Holy confidence. 7. Friar Juan of Cordobilla. 8. Graces left by the " kiss." 9. The flesh wars against the spirit. 10. This appears in the Passion. 11. Strength won by determination. 12. Our blindness to divine love. 13. A prayer for peace.
+1. *Fervour produced by the "kiss." 2. Signs that a soul has received it. 3. Comparison of the slave's ransom. 4. St. Paulinus of Nola. 5. Diffidence and contrition. 6. Holy confidence. 7. Friar Juan of Cordobilla. 8. Graces left by the " kiss." 9. The flesh wars against the spirit. 10. This appears in the Passion. 11. Strength won by determination. 12. Our blindness to divine love. 13. A prayer for peace.*
 
 "LET HIM KISS ME WITH THE KISS OF HIS MOUTH."
 
@@ -169,7 +169,7 @@ Of the genuine peace, oneness with Christ, and love for God which spring from th
 
 ## CHAPTER 4
 
-Of the sweet and tender love of God which proceeds from His dwelling in the soul in the prayer of quiet, termed here "the divine breasts." 1. "Thy breasts are better than wine." 2. These words apply to the prayer of quiet. 3. Its effects. 4. It confers happiness. 5. Other benefits. 6. Mother and babe; a comparison. 7. Earthly and heavenly joys. 8. Rewards of self-surrender. 9. A prayer for divine union. 10. Insignificance of our service. 11. Self-oblation.
+*Of the sweet and tender love of God which proceeds from His dwelling in the soul in the prayer of quiet, termed here "the divine breasts." 1. "Thy breasts are better than wine." 2. These words apply to the prayer of quiet. 3. Its effects. 4. It confers happiness. 5. Other benefits. 6. Mother and babe; a comparison. 7. Earthly and heavenly joys. 8. Rewards of self-surrender. 9. A prayer for divine union. 10. Insignificance of our service. 11. Self-oblation.*
 
 1. O my daughters! What great mysteries are contained in these words! May God permit us to experience them, for they are indescribable. When His Majesty in mercy answers this prayer of the Bride, He begins to enter into a friendship with her soul which, as I said, can be understood only by those who have enjoyed it. I have written very fully about it in two books which, if it be the will of God, will be given you after my death. The subject is there treated minutely and thoroughly, which I knew you would need, therefore I shall do no more than touch upon it now. I do not know whether I shall explain it here in the same words that our Lord was pleased that I should use then.
 2. The soul is now convinced, by a feeling of extreme internal sweetness, that it must be near our Lord. This sweetness is not a simple feeling of devotion which moves us pleasantly so that we shed tears abundantly either over the Passion of our Lord or our past sins. In this state, which I call the "prayer of quiet" because of the peace it brings to the powers, the soul receives great consolations. Yet sometimes, when the spirit is not so absorbed by sweetness, it enjoys in a different manner. The whole creature, both body and soul, is enraptured as if some very fragrant ointment, resembling a delicious perfume, had been infused into the very centre of the being, or as if we had suddenly entered a place redolent with scents coming not from one, but from many objects; we do not know from which it rises nor what it is, although it entirely pervades our being. So it is with this most sweet love of our God: with the greatest suavity it enters the soul, which feels happy and satisfied, but cannot understand the reason nor how this great good entered it.
@@ -185,7 +185,7 @@ Of the sweet and tender love of God which proceeds from His dwelling in the soul
 
 ## CHAPTER 5
 
-The strong, trustful and faithful love born in the soul through the consciousness that it is protected beneath the "shadow" of God, which knowledge is usually-given by Him to those who have persevered in His love and have suffered for Him. Of the great benefits produced by this love.
+*The strong, trustful and faithful love born in the soul through the consciousness that it is protected beneath the "shadow" of God, which knowledge is usually-given by Him to those who have persevered in His love and have suffered for Him. Of the great benefits produced by this love.*
 
 1. I sat down under His shadow. 2. The "shadow" of God. 3. Such favours rarely shown to the imperfect. 4. The prayer of union. 5. The tree of the Cross. 6. Further favours. 7. Our unworihiness.
    "I SAT DOWN UNDER HIS SHADOW WHOM I DESIRED, AND HIS FRUIT WAS SWEET TO MY PALATE."
@@ -197,8 +197,10 @@ The strong, trustful and faithful love born in the soul through the consciousnes
 7. The Bride told us that she joyed in the nourishment from His breasts, and that the Bridegroom thus supported her when she was new to the divine mercies. Now that she grows older, He makes her capable of receiving still greater gifts, maintaining her with "apples," for He wishes her to understand that she must work and suffer. But He is not content even with this. It is a wonderful thing, and we should often meditate upon how, when He sees that a soul is all His own, serving Him solely and free from all self-interest, simply because He is its God and because of the love it bears Him, He never ceases imparting Himself in different ways and manners, befitting Him Who is Wisdom itself. After the kiss of peace there seemed no more to give, yet the favour I have just related is far more sublime. I have not described it thoroughly, having only touched upon the subject. You will find a much clearer explanation in the book I mentioned, if God is pleased that it should be read.
 8. Is there anything left to wish for after all I have enumerated? Alas, how impotent are our desires to obtain Thy wondrous gifts, Lord! How abject should we remain, didst Thou merely give us that for which we asked! Let us now see what else the bride says.
 
-CHAPTER 6
-Treats of the ecstasy of love, and of raptures, during which the soul imagines that it is idle, while God " sets in order charity within it," bestowing upon it heroic virtues.
+## CHAPTER 6
+
+
+*Treats of the ecstasy of love, and of raptures, during which the soul imagines that it is idle, while God " sets in order charity within it," bestowing upon it heroic virtues.*
 
 1. How God repays the soul's desire or suffering. 2. Christ the King. 3. The wine. 4. lie sets in order charity. 5. The soul during divine union. 6. Love and the will. 7. Merits and graces coming from this prayer. 8. Our Lady overshadowed. 9. Our Lord's delight in the soul. 10. The divine Goldsmith and the jewel. 11. Secrecy of divine union. 12. Its effects upon the soul. 13. Zeal and love produced by it.
 
@@ -218,8 +220,10 @@ Treats of the ecstasy of love, and of raptures, during which the soul imagines t
 12. I could mention good examples of this, for I have witnessed several. I remember how God gave in three days such great graces to a certain person that, had I not learnt by personal observation that they lasted year after year, and that she continued to make progress, I could not have believed in them, for they seemed to me beyond credence. Another person received the same graces in three months, — both of them were very young girls. I have seen others who were long before they obtained this favour, but I could mention several cases resembling the two first described, and in which the same thing happened. I spoke of the former to prove to you that there are exceptions, although our Lord seldom grants such favours unless a soul has passed through long years of suffering. It is not for us to set limits to a Lord so great, Who longs to confer His graces.
 13. This is what usually happens when God favours a soul with these graces — that is, when they really are divine graces and not illusions or melancholia, or the result of any natural effort, which is always detected later on by the effects, as are also divine favours which have resulted from God thus drawing near the soul, for in the latter case the virtues are too vigorous and the love too ardent to remain concealed. Such a person always helps other souls even when not intending to do so. The King "set in order charity within me," and He so sets the soul in order that all love for this world quits it, self-love changes into self-hatred and affection is felt for kindred solely for the sake of God. As for the love borne for enemies, it would be incredible unless proved by facts. The soul's love for God has grown so boundless as to constrain it beyond the limits endurable by human nature, and, realising that she is fainting and at the point of death, such a person exclaims: "Stay me up with flowers, compass me about with apples: because I languish with love."
 
-CHAPTER 7
-Of a zealous love for God, which belongs to a very high grade of love and is of two kinds. In the first, the soul performs great deeds in God's service solely in order to please Him ; in the second, it desires and asks for crosses in imitation of Christ crucified.
+## CHAPTER 7
+
+
+*Of a zealous love for God, which belongs to a very high grade of love and is of two kinds. In the first, the soul performs great deeds in God's service solely in order to please Him ; in the second, it desires and asks for crosses in imitation of Christ crucified.*
 
 1. The soul languishes with love. 2. As does the body. 3. How death is warded off. 4. The flowers symbolise good works. 5. Good works and self-interest. 6. Contrasted with pure zeal for God. 7. The woman of Samaria felt this pure zeal. 8. Sublime favours produce sublime virtues. 9. The apple-tree of the cross and its fruit. 10. This favour produces love for our neighbour. 11. Beginners do not understand this. 12. St. Teresa's aim in writing this treatise. 13. Gratitude due for such favours.
 
