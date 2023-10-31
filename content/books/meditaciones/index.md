@@ -43,8 +43,6 @@ description: >-
 
   <p>Watch <a href='https://youtu.be/AYd_gXzeqM0'> our behind-the-scenes exploration </a> with Ana María Carvajal and Catalina Vásquez!</p>
 ---
-![Meditations cover: Hands cup a yonic sun rising over the mountains, exaltation](cover-st-teresa-eng.jpg "Meditations cover")
-
 ## **Foreword**
 
 It is puzzling that we can read Saint Teresa of Jesus’ Meditations on the Song of Songs today. Her confessor ordered the destruction of the manuscript out of fear that it could reach the Inquisition, and, according to witnesses, Teresa burned it right before his eyes. But did she know about the existence of other copies? Was her obedience sincere, or simply a performative acknowledgement of the authority of her confessor?
@@ -199,7 +197,6 @@ This text is from Minor works of St. Teresa; conceptions of the love of God, exc
 
 ## CHAPTER 6
 
-
 *Treats of the ecstasy of love, and of raptures, during which the soul imagines that it is idle, while God " sets in order charity within it," bestowing upon it heroic virtues.*
 
 1. How God repays the soul's desire or suffering. 2. Christ the King. 3. The wine. 4. lie sets in order charity. 5. The soul during divine union. 6. Love and the will. 7. Merits and graces coming from this prayer. 8. Our Lady overshadowed. 9. Our Lord's delight in the soul. 10. The divine Goldsmith and the jewel. 11. Secrecy of divine union. 12. Its effects upon the soul. 13. Zeal and love produced by it.
@@ -221,7 +218,6 @@ This text is from Minor works of St. Teresa; conceptions of the love of God, exc
 13. This is what usually happens when God favours a soul with these graces — that is, when they really are divine graces and not illusions or melancholia, or the result of any natural effort, which is always detected later on by the effects, as are also divine favours which have resulted from God thus drawing near the soul, for in the latter case the virtues are too vigorous and the love too ardent to remain concealed. Such a person always helps other souls even when not intending to do so. The King "set in order charity within me," and He so sets the soul in order that all love for this world quits it, self-love changes into self-hatred and affection is felt for kindred solely for the sake of God. As for the love borne for enemies, it would be incredible unless proved by facts. The soul's love for God has grown so boundless as to constrain it beyond the limits endurable by human nature, and, realising that she is fainting and at the point of death, such a person exclaims: "Stay me up with flowers, compass me about with apples: because I languish with love."
 
 ## CHAPTER 7
-
 
 *Of a zealous love for God, which belongs to a very high grade of love and is of two kinds. In the first, the soul performs great deeds in God's service solely in order to please Him ; in the second, it desires and asks for crosses in imitation of Christ crucified.*
 
