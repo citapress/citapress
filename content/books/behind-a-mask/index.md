@@ -29,9 +29,6 @@ description: Behind a Mask is one of the thrillers, mysteries, and sensational
   young governess and infiltrates a wealthy family.
 foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
 ---
-![Cover of Behind a Mask featuring a trick image of a mask](cover-behind-a-mask.png "Cover of Behind a Mask")
-
- 
 <p class="toc">
 <a href="#link2H_4_0001" class="pginternal"> <i>Chapter I</i> JEAN MUIR </a>
 </p>
@@ -3378,12 +3375,15 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
 <pre>
     Dear C:
 
-    I’m off to Baden. Come and join me, then you’ll be out of harm’s way;
-    for if you fall in love with J.M. (and you can’t escape if you stay
-    where she is), you will incur the trifling inconvenience of having
-    your brains blown out by
+```
+I’m off to Baden. Come and join me, then you’ll be out of harm’s way;
+for if you fall in love with J.M. (and you can’t escape if you stay
+where she is), you will incur the trifling inconvenience of having
+your brains blown out by
 
-    Yours truly, F.R. Sydney
+Yours truly, F.R. Sydney
+```
+
 </pre>
 <p>
       “The man is mad!” ejaculated Coventry, staring at the letter while an
@@ -4850,16 +4850,19 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
 <pre>
     Dear Bella:
 
-    Uncle is safe; he did not go in the noon train. But several persons
-    are sure that Ned was there. No trace of him as yet, but many bodies
-    are in the river, under the ruins of the bridge, and I am doing my
-    best to find the poor lad, if he is there. I have sent to all his
-    haunts in town, and as he has not been seen, I hope it is a false
-    report and he is safe with his regiment. Keep this from my mother
-    till we are sure. I write you, because Lucia is ill. Miss Muir will
-    comfort and sustain you. Hope for the best, dear.
+```
+Uncle is safe; he did not go in the noon train. But several persons
+are sure that Ned was there. No trace of him as yet, but many bodies
+are in the river, under the ruins of the bridge, and I am doing my
+best to find the poor lad, if he is there. I have sent to all his
+haunts in town, and as he has not been seen, I hope it is a false
+report and he is safe with his regiment. Keep this from my mother
+till we are sure. I write you, because Lucia is ill. Miss Muir will
+comfort and sustain you. Hope for the best, dear.
 
-    Yours, G.C.
+Yours, G.C.
+```
+
 </pre>
 <p>
       Those who watched Miss Muir as she read these words wondered at the
@@ -5152,35 +5155,38 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
 <pre>
     “Dear Hortense:
 
-    “Another failure. Sydney was more wily than I thought. All was going
-    well, when one day my old fault beset me, I took too much wine, and
-    I carelessly owned that I had been an actress. He was shocked, and
-    retreated. I got up a scene, and gave myself a safe little wound, to
-    frighten him. The brute was not frightened, but coolly left me to my
-    fate. I’d have died to spite him, if I dared, but as I didn’t, I
-    lived to torment him. As yet, I have had no chance, but I will not
-    forget him. His mother is a poor, weak creature, whom I could use as
-    I would, and through her I found an excellent place. A sick mother,
-    silly daughter, and two eligible sons. One is engaged to a handsome
-    iceberg, but that only renders him more interesting in my eyes,
-    rivalry adds so much to the charm of one’s conquests. Well, my dear,
-    I went, got up in the meek style, intending to do the pathetic; but
-    before I saw the family, I was so angry I could hardly control
-    myself. Through the indolence of Monsieur the young master, no
-    carriage was sent for me, and I intend he shall atone for that
-    rudeness by-and-by. The younger son, the mother, and the girl
-    received me patronizingly, and I understood the simple souls at
-    once. Monsieur (as I shall call him, as names are unsafe) was
-    unapproachable, and took no pains to conceal his dislike of
-    governesses. The cousin was lovely, but detestable with her pride,
-    her coldness, and her very visible adoration of Monsieur, who let
-    her worship him, like an inanimate idol as he is. I hated them both,
-    of course, and in return for their insolence shall torment her with
-    jealousy, and teach him how to woo a woman by making his heart ache.
-    They are an intensely proud family, but I can humble them all, I
-    think, by captivating the sons, and when they have committed
-    themselves, cast them off, and marry the old uncle, whose title
-    takes my fancy.”
+```
+“Another failure. Sydney was more wily than I thought. All was going
+well, when one day my old fault beset me, I took too much wine, and
+I carelessly owned that I had been an actress. He was shocked, and
+retreated. I got up a scene, and gave myself a safe little wound, to
+frighten him. The brute was not frightened, but coolly left me to my
+fate. I’d have died to spite him, if I dared, but as I didn’t, I
+lived to torment him. As yet, I have had no chance, but I will not
+forget him. His mother is a poor, weak creature, whom I could use as
+I would, and through her I found an excellent place. A sick mother,
+silly daughter, and two eligible sons. One is engaged to a handsome
+iceberg, but that only renders him more interesting in my eyes,
+rivalry adds so much to the charm of one’s conquests. Well, my dear,
+I went, got up in the meek style, intending to do the pathetic; but
+before I saw the family, I was so angry I could hardly control
+myself. Through the indolence of Monsieur the young master, no
+carriage was sent for me, and I intend he shall atone for that
+rudeness by-and-by. The younger son, the mother, and the girl
+received me patronizingly, and I understood the simple souls at
+once. Monsieur (as I shall call him, as names are unsafe) was
+unapproachable, and took no pains to conceal his dislike of
+governesses. The cousin was lovely, but detestable with her pride,
+her coldness, and her very visible adoration of Monsieur, who let
+her worship him, like an inanimate idol as he is. I hated them both,
+of course, and in return for their insolence shall torment her with
+jealousy, and teach him how to woo a woman by making his heart ache.
+They are an intensely proud family, but I can humble them all, I
+think, by captivating the sons, and when they have committed
+themselves, cast them off, and marry the old uncle, whose title
+takes my fancy.”
+```
+
  </pre>
 <p>
       “She never wrote that! It is impossible. A woman could not do it,” cried
@@ -5205,14 +5211,17 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
     to marry me. Monsieur knows S. and evidently suspects something. I
     must watch him and keep the truth from him, if possible.
 
-    “I was very miserable that night when I got alone. Something in the
-    atmosphere of this happy home made me wish I was anything but what I
-    am. As I sat there trying to pluck up my spirits, I thought of the
-    days when I was lovely and young, good and gay. My glass showed me
-    an old woman of thirty, for my false locks were off, my paint gone,
-    and my face was without its mask. Bah! how I hate sentiment! I drank
-    your health from your own little flask, and went to bed to dream
-    that I was playing Lady Tartuffe—as I am. Adieu, more soon.”
+```
+“I was very miserable that night when I got alone. Something in the
+atmosphere of this happy home made me wish I was anything but what I
+am. As I sat there trying to pluck up my spirits, I thought of the
+days when I was lovely and young, good and gay. My glass showed me
+an old woman of thirty, for my false locks were off, my paint gone,
+and my face was without its mask. Bah! how I hate sentiment! I drank
+your health from your own little flask, and went to bed to dream
+that I was playing Lady Tartuffe—as I am. Adieu, more soon.”
+```
+
  </pre>
 <p>
       No one spoke as Edward paused, and taking up another letter, he read on:
@@ -5220,25 +5229,28 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
 <pre>
     “My Dear Creature:
 
-    “All goes well. Next day I began my task, and having caught a hint
-    of the character of each, tried my power over them. Early in the
-    morning I ran over to see the Hall. Approved of it highly, and took
-    the first step toward becoming its mistress, by piquing the
-    curiosity and flattering the pride of its master. His estate is his
-    idol; I praised it with a few artless compliments to himself, and he
-    was charmed. The cadet of the family adores horses. I risked my neck
-    to pet his beast, and<i> he </i>was charmed. The little girl is romantic
-    about flowers; I made a posy and was sentimental, and<i> she </i>was
-    charmed. The fair icicle loves her departed mamma, I had raptures
-    over an old picture, and she thawed. Monsieur is used to being
-    worshipped. I took no notice of him, and by the natural perversity
-    of human nature, he began to take notice of me. He likes music; I
-    sang, and stopped when he’d listened long enough to want more. He is
-    lazily fond of being amused; I showed him my skill, but refused to
-    exert it in his behalf. In short, I gave him no peace till he began
-    to wake up. In order to get rid of the boy, I fascinated him, and he
-    was sent away. Poor lad, I rather liked him, and if the title had
-    been nearer would have married him.
+```
+“All goes well. Next day I began my task, and having caught a hint
+of the character of each, tried my power over them. Early in the
+morning I ran over to see the Hall. Approved of it highly, and took
+the first step toward becoming its mistress, by piquing the
+curiosity and flattering the pride of its master. His estate is his
+idol; I praised it with a few artless compliments to himself, and he
+was charmed. The cadet of the family adores horses. I risked my neck
+to pet his beast, and<i> he </i>was charmed. The little girl is romantic
+about flowers; I made a posy and was sentimental, and<i> she </i>was
+charmed. The fair icicle loves her departed mamma, I had raptures
+over an old picture, and she thawed. Monsieur is used to being
+worshipped. I took no notice of him, and by the natural perversity
+of human nature, he began to take notice of me. He likes music; I
+sang, and stopped when he’d listened long enough to want more. He is
+lazily fond of being amused; I showed him my skill, but refused to
+exert it in his behalf. In short, I gave him no peace till he began
+to wake up. In order to get rid of the boy, I fascinated him, and he
+was sent away. Poor lad, I rather liked him, and if the title had
+been nearer would have married him.
+```
+
 </pre>
 <p>
       “Many thanks for the honor.” And Edward’s lip curled with intense scorn.
@@ -5264,48 +5276,51 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
 <pre>
     “Hortense:
 
-    “I’ve done what I once planned to do on another occasion. You know
-    my handsome, dissipated father married a lady of rank for his second
-    wife. I never saw Lady H——d but once, for I was kept out of the
-    way. Finding that this good Sir J. knew something of her when a
-    girl, and being sure that he did not know of the death of her little
-    daughter, I boldly said I was the child, and told a pitiful tale of
-    my early life. It worked like a charm; he told Monsieur, and both
-    felt the most chivalrous compassion for Lady Howard’s daughter,
-    though before they had secretly looked down on me, and my real
-    poverty and my lowliness. That boy pitied me with an honest warmth
-    and never waited to learn my birth. I don’t forget that and shall
-    repay it if I can. Wishing to bring Monsieur’s affair to a
-    successful crisis, I got up a theatrical evening and was in my
-    element. One little event I must tell you, because I committed an
-    actionable offense and was nearly discovered. I did not go down to
-    supper, knowing that the moth would return to flutter about the
-    candle, and preferring that the fluttering should be done in
-    private, as Vashti’s jealousy is getting uncontrollable. Passing
-    throught the gentlemen’s dressing room, my quick eye caught sight of
-    a letter lying among the costumes. It was no stage affair, and an
-    odd sensation of fear ran through me as I recognized the hand of S.
-    I had feared this, but I believe in chance; and having found the
-    letter, I examined it. You know I can imitate almost any hand. When
-    I read in this paper the whole story of my affair with S., truly
-    told, and also that he had made inquiries into my past life and
-    discovered the truth, I was in a fury. To be so near success and
-    fail was terrible, and I resolved to risk everything. I opened the
-    letter by means of a heated knife blade under the seal, therefore
-    the envelope was perfect; imitating S.‘s hand, I penned a few lines
-    in his hasty style, saying he was at Baden, so that if Monsieur
-    answered, the reply would not reach him, for he is in London, it
-    seems. This letter I put into the pocket whence the other must have
-    fallen, and was just congratulating myself on this narrow escape,
-    when Dean, the maid of Vashti, appeared as if watching me. She had
-    evidently seen the letter in my hand, and suspected something. I
-    took no notice of her, but must be careful, for she is on the watch.
-    After this the evening closed with strictly private theatricals, in
-    which Monsieur and myself were the only actors. To make sure that he
-    received my version of the story first, I told him a romantic story
-    of S.‘s persecution, and he believed it. This I followed up by a
-    moonlight episode behind a rose hedge, and sent the young gentleman
-    home in a half-dazed condition. What fools men are!”
+```
+“I’ve done what I once planned to do on another occasion. You know
+my handsome, dissipated father married a lady of rank for his second
+wife. I never saw Lady H——d but once, for I was kept out of the
+way. Finding that this good Sir J. knew something of her when a
+girl, and being sure that he did not know of the death of her little
+daughter, I boldly said I was the child, and told a pitiful tale of
+my early life. It worked like a charm; he told Monsieur, and both
+felt the most chivalrous compassion for Lady Howard’s daughter,
+though before they had secretly looked down on me, and my real
+poverty and my lowliness. That boy pitied me with an honest warmth
+and never waited to learn my birth. I don’t forget that and shall
+repay it if I can. Wishing to bring Monsieur’s affair to a
+successful crisis, I got up a theatrical evening and was in my
+element. One little event I must tell you, because I committed an
+actionable offense and was nearly discovered. I did not go down to
+supper, knowing that the moth would return to flutter about the
+candle, and preferring that the fluttering should be done in
+private, as Vashti’s jealousy is getting uncontrollable. Passing
+throught the gentlemen’s dressing room, my quick eye caught sight of
+a letter lying among the costumes. It was no stage affair, and an
+odd sensation of fear ran through me as I recognized the hand of S.
+I had feared this, but I believe in chance; and having found the
+letter, I examined it. You know I can imitate almost any hand. When
+I read in this paper the whole story of my affair with S., truly
+told, and also that he had made inquiries into my past life and
+discovered the truth, I was in a fury. To be so near success and
+fail was terrible, and I resolved to risk everything. I opened the
+letter by means of a heated knife blade under the seal, therefore
+the envelope was perfect; imitating S.‘s hand, I penned a few lines
+in his hasty style, saying he was at Baden, so that if Monsieur
+answered, the reply would not reach him, for he is in London, it
+seems. This letter I put into the pocket whence the other must have
+fallen, and was just congratulating myself on this narrow escape,
+when Dean, the maid of Vashti, appeared as if watching me. She had
+evidently seen the letter in my hand, and suspected something. I
+took no notice of her, but must be careful, for she is on the watch.
+After this the evening closed with strictly private theatricals, in
+which Monsieur and myself were the only actors. To make sure that he
+received my version of the story first, I told him a romantic story
+of S.‘s persecution, and he believed it. This I followed up by a
+moonlight episode behind a rose hedge, and sent the young gentleman
+home in a half-dazed condition. What fools men are!”
+```
+
  </pre>
 <p>
       “She is right!” muttered Coventry, who had flushed scarlet with shame and
@@ -5490,7 +5505,6 @@ foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
       voice, “Is not the last scene better than the first?”
      </p>
 
-   
-   
-     </p>
-   
+```
+ </p>
+```
