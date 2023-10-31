@@ -31,8 +31,8 @@ theme:
 lang: en
 description: >-
   <p><b><a
-  href="https://www.lulu.com/shop/sui-sin-far-and-edith-eaton-and-victoria-namkung-and-shuhua-xiong/an-immortal-book/paperback/product-gjnpk9e.html?page=1&pageSize=4"Purchase
-  a print copy here</a>! </b></p>
+  href="https://www.lulu.com/shop/sui-sin-far-and-edith-eaton-and-victoria-namkung-and-shuhua-xiong/an-immortal-book/paperback/product-gjnpk9e.html?page=1&pageSize=4"
+  target="blank">Purchase a print copy here</a>! </b></p>
 
 
   <p>"Cita Press’ <i>An Immortal Book: Selected Writings by Sui Sin Far</i> brings together autobiographical essays and short stories from different periods in Eaton’s career, showcasing her range as a storyteller, thinker, and stylist. Revered for her contributions to Asian American and Asian Canadian literature, Sui Sin Far is also a key figure in early women’s journalism, literature, and feminism. A master at developing characters and rendering place, she grappled with themes of identity, race, class, gender, sexuality, and politics in ways that still resonate today."<p>
