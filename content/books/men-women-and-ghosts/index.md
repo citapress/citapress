@@ -28,11 +28,8 @@ description: "\"This is a book of stories. For that reason I have excluded all
 foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
   from Finland."
 ---
-![Cover of Men, Women and Ghosts featuring a fantastical fountain with water and objects bursting out](cover-men-women-ghosts1.png "Men Women Ghosts cover")
+<blockquote>
 
-
-
-\    <blockquote>
   <ul class="toc">
  <li><a href="#link2H_PREF"> Preface by the Author</a></li>
 <li>  <a href="#link2H_4_0003"> <b>Start Men, Women, and Ghosts</b> </a></li>
