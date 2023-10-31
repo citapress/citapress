@@ -45,8 +45,6 @@ description: >-
 
   <p>Harriet Jacobs' 1861 autobiography is a landmark text for the U.S. abolitionist movement that continues to inspire and influence art, scholarship, and literature nearly two centuries after it was first published under the pseudonym Linda Brent. </p>
 ---
-![](cover-incidents-in-the-life-update.jpg)
-
 ## Foreword
 
 “The graveyard was in the woods, and twilight was coming on. Nothing broke the death-like stillness except the occasional twitter of a bird. My spirit was overawed by the solemnity of the scene. For more than ten years I had frequented this spot, but never had it seemed to me so sacred as now. A black stump, at the head of my mother's grave, was all that remained of a tree my father had planted. His grave was marked by a small wooden board, bearing his name, the letters of which were nearly obliterated. I knelt down and kissed them, and poured forth a prayer to God for guidance and support in the perilous step I was about to take.”
@@ -6170,7 +6168,6 @@ soon as possible, and let us know your decision. Sister sends
 much love to you. In the mean time believe me your sincere friend
 and well wisher.</p></i>
 
-
 This letter was signed by Emily's brother, who was as yet a mere lad. I
 knew, by the style, that it was not written by a person of his age, and
 though the writing was disguised, I had been made too unhappy by it, in
@@ -6180,7 +6177,6 @@ go into such a trap? Verily, he relied too much on "the stupidity of the
 African race." I did not return the family of Flints any thanks for their
 cordial invitation&mdash;a remissness for which I was, no doubt, charged
 with base ingratitude.
-
 
 Not long afterwards I received a letter from one of my friends at the
 south, informing me that Dr. Flint was about to visit the north. The
@@ -6200,13 +6196,11 @@ to purchase them, with the view of setting them free, the example is
 thought to be dangerous to their "peculiar institution," and he becomes
 unpopular.
 
-
 There was a good opportunity to send Benny in a vessel coming directly to
 New York. He was put on board with a letter to a friend, who was requested
 to see him off to Boston. Early one morning, there was a loud rap at my
 door, and in rushed Benjamin, all out of breath. "O mother!" he exclaimed,
 "here I am! I run all the way; and I come all alone. How d'you do?"
-
 
 O reader, can you imagine my joy? No, you cannot, unless you have been a
 slave mother. Benjamin rattled away as fast as his tongue could go.
@@ -6217,7 +6211,6 @@ know so much as I do; for I can read, and she can't. And, mother, I lost
 all my clothes coming. What can I do to get some more? I 'spose free boys
 can get along here at the north as well as white boys."
 
-
 I did not like to tell the sanguine, happy little fellow how much he was
 mistaken. I took him to a tailor, and procured a change of clothes. The
 rest of the day was spent in mutual asking and answering of questions,
@@ -6226,13 +6219,11 @@ us, and frequent injunctions from Benny to write to her immediately, and
 be sure to tell her every thing about his voyage, and his journey to
 Boston.
 
-
 Dr. Flint made his visit to New York, and made every exertion to call upon
 me, and invite me to return with him, but not being able to ascertain
 where I was, his hospitable intentions were frustrated, and the
 affectionate family, who were waiting for me with "open arms," were doomed
 to disappointment.
-
 
 As soon as I knew he was safely at home, I placed Benjamin in the care of
 my brother William, and returned to Mrs. Bruce. There I remained through
@@ -6240,7 +6231,6 @@ the winter and spring, endeavoring to perform my duties faithfully, and
 finding a good degree of happiness in the attractions of baby Mary, the
 considerate kindness of her excellent mother, and occasional interviews
 with my darling daughter.
-
 
 But when summer came, the old feeling of insecurity haunted me. It was
 necessary for me to take little Mary out daily, for exercise and fresh
@@ -6267,7 +6257,6 @@ offered me, but Mrs. Bruce handed me hers and called for another. I looked
 to see whether the other nurses were treated in a similar manner. They
 were all properly waited on.
 
-
 Next morning, when we stopped at Troy for breakfast, every body was making
 a rush for the table. Mrs. Bruce said, "Take my arm, Linda, and we'll go
 in together." The landlord heard her, and said, "Madam, will you allow
@@ -6275,14 +6264,12 @@ your nurse and baby to take breakfast with my family?" I knew this was to
 be attributed to my complexion; but he spoke courteously, and therefore I
 did not mind it.
 
-
 At Saratoga we found the United States Hotel crowded, and Mr. Bruce took
 one of the cottages belonging to the hotel. I had thought, with gladness,
 of going to the quiet of the country, where I should meet few people, but
 here I found myself in the midst of a swarm of Southerners. I looked round
 me with fear and trembling, dreading to see some one who would recognize
 me. I was rejoiced to find that we were to stay but a short time.
-
 
 We soon returned to New York, to make arrangements for spending the
 remainder of the summer at Rockaway. While the laundress was putting the
@@ -6292,7 +6279,6 @@ were, "O, mother, don't go to Mrs. Hobbs's. Her brother, Mr. Thorne, has
 come from the south, and may be he'll tell where you are." I accepted the
 warning. I told her I was going away with Mrs. Bruce the next day, and
 would try to see her when I came back.
-
 
 Being in servitude to the Anglo-Saxon race, I was not put into a "Jim Crow
 car," on our way to Rockaway, neither was I invited to ride through the
@@ -6313,7 +6299,6 @@ possible, "Will you please to seat the little girl in the chair, and stand
 behind it and feed her? After they have done, you will be shown to the
 kitchen, where you will have a good supper."
 
-
 This was the climax! I found it hard to preserve my self-control, when I
 looked round, and saw women who were nurses, as I was, and only one shade
 lighter in complexion, eyeing me with a defiant look, as if my presence
@@ -6325,7 +6310,6 @@ soon began to complain, saying they were not hired to wait on negroes. The
 landlord requested Mr. Bruce to send me down to my meals, because his
 servants rebelled against bringing them up, and the colored servants of
 other boarders were dissatisfied because all were not treated alike.
-
 
 My answer was that the colored servants ought to be dissatisfied with <i>themselves</i>,
 for not having too much self-respect to submit to such treatment; that
@@ -6348,7 +6332,6 @@ me to say to you that he owes thanks to good old aunt Martha for too many
 little acts of kindness for him to be base enough to betray her
 grandchild."
 
-
 This Mr. Thorne had become poor and reckless long before he left the
 south, and such persons had much rather go to one of the faithful old
 slaves to borrow a dollar, or get a good dinner, than to go to one whom
@@ -6359,7 +6342,6 @@ nothing to be gained by trying to avoid him; on the contrary, it might be
 the means of exciting his ill will. I followed his sister up stairs. He
 met me in a very friendly manner, congratulated me on my escape from
 slavery, and hoped I had a good place, where I felt happy.
-
 
 I continued to visit Ellen as often as I could. She, good thoughtful
 child, never forgot my hazardous situation, but always kept a vigilant
@@ -6383,13 +6365,11 @@ annoyance she suffered from him. Though he professed too much gratitude to
 my grandmother to injure any of her descendants, he had poured vile
 language into the ears of her innocent great-grandchild.
 
-
 I usually went to Brooklyn to spend Sunday afternoon. One Sunday, I found
 Ellen anxiously waiting for me near the house. "O, mother," said she,
 "I've been waiting for you this long time. I'm afraid Mr. Thorne has
 written to tell Dr. Flint where you are. Make haste and come in. Mrs.
 Hobbs will tell you all about it!"
-
 
 The story was soon told. While the children were playing in the grape-vine
 arbor, the day before, Mr. Thorne came out with a letter in his hand,
@@ -6398,20 +6378,16 @@ time, and having her mind full of suspicions of him, she picked up the
 pieces and carried them to the children, saying, "I wonder who Mr. Thorne
 has been writing to."
 
-
 "I'm sure I don't know, and don't care," replied the oldest of the
 children; "and I don't see how it concerns you."
 
-
 "But it does concern me," replied Ellen; "for I'm afraid he's been writing
 to the south about my mother."
-
 
 They laughed at her, and called her a silly thing, but good-naturedly put
 the fragments of writing together, in order to read them to her. They were
 no sooner arranged, than the little girl exclaimed, "I declare, Ellen, I
 believe you are right."
-
 
 The contents of Mr. Thorne's letter, as nearly as I can remember, were as
 follows: "I have seen your slave, Linda, and conversed with her. She can
@@ -6428,7 +6404,6 @@ and he did not deny the charge. He went immediately to his room, and the
 next morning he was missing. He had gone over to New York, before any of
 the family were astir.
 
-
 It was evident that I had no time to lose; and I hastened back to the city
 with a heavy heart. Again I was to be torn from a comfortable home, and
 all my plans for the welfare of my children were to be frustrated by that
@@ -6444,7 +6419,6 @@ of my face attracted her attention, and, in answer to her kind inquiries,
 I poured out my full heart to her, before bed time. She listened with true
 womanly sympathy, and told me she would do all she could to protect me.
 How my heart blessed her!
-
 
 Early the next morning, Judge Vanderpool and Lawyer Hopper were consulted.
 They said I had better leave the city at once, as the risk would be great
@@ -6466,7 +6440,6 @@ the tears came to her eyes. She said, "Wait for me, Linda," and went out.
 She soon returned with a nice warm shawl and hood for Ellen. Truly, of
 such souls as hers are the kingdom of heaven.
 
-
 My brother reached New York on Wednesday. Lawyer Hopper advised us to go
 to Boston by the Stonington route, as there was less Southern travel in
 that direction. Mrs. Bruce directed her servants to tell all inquirers
@@ -6480,7 +6453,6 @@ favor, that she would treat us well. He said to me, "Go and speak to the
 captain yourself by and by. Take your little girl with you, and I am sure
 that he will not let her sleep on deck." With these kind words and a shake
 of the hand he departed.
-
 
 The boat was soon on her way, bearing me rapidly from the friendly home
 where I had hoped to find security and rest. My brother had left me to
@@ -6506,20 +6478,17 @@ pleasing face of my little girl had won his heart, or whether the
 stewardess inferred from Lawyer Hopper's manner that I was a fugitive, and
 had pleaded with him in my behalf.
 
-
 When the boat arrived at Stonington, the conductor kept his promise, and
 showed us to seats in the first car, nearest the engine. He asked us to
 take seats next the door, but as he passed through, we ventured to move on
 toward the other end of the car. No incivility was offered us, and we
 reached Boston in safety.
 
-
 The day after my arrival was one of the happiest of my life. I felt as if
 I was beyond the reach of the bloodhounds; and, for the first time during
 many years, I had both my children together with me. They greatly enjoyed
 their reunion, and laughed and chatted merrily. I watched them with a
 swelling heart. Their every motion delighted me.
-
 
 I could not feel safe in New York, and I accepted the offer of a friend,
 that we should share expenses and keep house together. I represented to
@@ -6542,7 +6511,6 @@ would be happier in my care than in that of a stranger. I could also earn
 more in this way than I could by my needle. So I put Benny to a trade, and
 left Ellen to remain in the house with my friend and go to school.
 
-
 We sailed from New York, and arrived in Liverpool after a pleasant voyage
 of twelve days. We proceeded directly to London, and took lodgings at the
 Adelaide Hotel. The supper seemed to me less luxurious than those I had
@@ -6553,7 +6521,6 @@ if a great millstone had been lifted from my breast. Ensconced in a
 pleasant room, with my dear little charge, I laid my head on my pillow,
 for the first time, with the delightful consciousness of pure,
 unadulterated freedom.
-
 
 As I had constant care of the child, I had little opportunity to see the
 wonders of that great city; but I watched the tide of life that flowed
@@ -6567,7 +6534,6 @@ and their nurses, being ready to take any lessons in the science of good
 management. The children were more rosy than American children, but I did
 not see that they differed materially in other respects. They were like
 all children&mdash;sometimes docile and sometimes wayward.
-
 
 We next went to Steventon, in Berkshire. It was a small town, said to be
 the poorest in the county. I saw men working in the fields for six
@@ -6602,7 +6568,6 @@ Fred. I repeat that the most ignorant and the most destitute of these
 peasants was a thousand fold better off than the most pampered American
 slave.
 
-
 I do not deny that the poor are oppressed in Europe. I am not disposed to
 paint their condition so rose-colored as the Hon. Miss Murray paints the
 condition of the slaves in the United States. A small portion of <i>my</i>
@@ -6611,7 +6576,6 @@ she were to lay aside her title, and, instead of visiting among the
 fashionable, become domesticated, as a poor governess, on some plantation
 in Louisiana or Alabama, she would see and hear things that would make her
 tell quite a different story.
-
 
 My visit to England is a memorable event in my life, from the fact of my
 having there received strong religious impressions. The contemptuous
@@ -6624,7 +6588,6 @@ the family of a clergyman, who was a true disciple of Jesus. The beauty of
 his daily life inspired me with faith in the genuineness of Christian
 professions. Grace entered my heart, and I knelt at the communion table, I
 trust, in true humility of soul.
-
 
 I remained abroad ten months, which was much longer than I had
 anticipated. During all that time, I never saw the slightest symptom of
@@ -6654,10 +6617,8 @@ bitterly reproached myself for having left him so long. But I had done it
 for the best, and now all I could do was to pray to the heavenly Father to
 guide and protect him.
 
-
 Not long after my return, I received the following letter from Miss Emily
 Flint, now Mrs. Dodge:&mdash;
-
 
 In this you will recognize the hand of your friend and mistress.
 Having heard that you had gone with a family to Europe, I have
@@ -6679,15 +6640,12 @@ and write as soon as possible, and let me know the conclusion.
 Hoping that your children are well, I remain your friend and
 mistress.
 
-
 Of course I did not write to return thanks for this cordial invitation. I
 felt insulted to be thought stupid enough to be caught by such
 professions.
 
-
 "Come up into my parlor," said the spider to the fly;
 "Tis the prettiest little parlor that ever you did spy."
-
 
 It was plain that Dr. Flint's family were apprised of my movements, since
 they knew of my voyage to Europe. I expected to have further trouble from
@@ -6703,7 +6661,6 @@ received a large sum of money for them. I knew the law would decide that I
 was his property, and would probably still give his daughter a claim to my
 children; but I regarded such laws as the regulations of robbers, who had
 no rights that I was bound to respect.
-
 
 The Fugitive Slave Law had not then passed. The judges of Massachusetts
 had not then stooped under chains to enter her courts of justice, so
@@ -6729,11 +6686,9 @@ she might hear my story from some one who did not understand the
 palliating circumstances; and that if she were entirely ignorant on the
 subject, her sensitive nature might receive a rude shock.
 
-
 When we retired for the night, she said, "Mother, it is very hard to leave
 you alone. I am almost sorry I am going, though I do want to improve
 myself. But you will write to me often; won't you, mother?"
-
 
 I did not throw my arms round her. I did not answer her. But in a calm,
 solemn way, for it cost me great effort, I said, "Listen to me, Ellen; I
@@ -6742,9 +6697,7 @@ and told her how nearly they had crushed me. I began to tell her how they
 had driven me into a great sin, when she clasped me in her arms, and
 exclaimed, "O, don't, mother! Please don't tell me any more."
 
-
 I said, "But, my child, I want you to know about your father."
-
 
 "I know all about it, mother," she replied; "I am nothing to my father,
 and he is nothing to me. All my love is for you. I was with him five
@@ -6762,7 +6715,6 @@ knew that portion of my history. If I had, I should have spoken to her
 long before; for my pent-up feelings had often longed to pour themselves
 out to some one I could trust. But I loved the dear girl better for the
 delicacy she had manifested towards her unfortunate mother.
-
 
 The next morning, she and her uncle started on their journey to the
 village in New York, where she was to be placed at school. It seemed as if
@@ -6789,7 +6741,6 @@ capital out of their sympathy. But when it was accidentally discovered
 that her mother was a fugitive slave, every method was used to increase
 her advantages and diminish her expenses.
 
-
 I was alone again. It was necessary for me to be earning money, and I
 preferred that it should be among those who knew me. On my return from
 Rochester, I called at the house of Mr. Bruce, to see Mary, the darling
@@ -6807,7 +6758,6 @@ most hearty dislike of it. No sophistry of Southerners could blind her to
 its enormity. She was a person of excellent principles and a noble heart.
 To me, from that hour to the present, she has been a true and sympathizing
 friend. Blessings be with her and hers!
-
 
 About the time that I reentered the Bruce family, an event occurred of
 disastrous import to the colored people. The slave Hamlin, the first
@@ -6831,7 +6781,6 @@ Every where, in those humble homes, there was consternation and anguish.
 But what cared the legislators of the "dominant race" for the blood they
 were crushing out of trampled hearts?
 
-
 When my brother William spent his last evening with me, before he went to
 California, we talked nearly all the time of the distress brought on our
 oppressed people by the passage of this iniquitous law; and never had I
@@ -6853,7 +6802,6 @@ did this for my own sake, thinking my young mistress and her husband might
 be among the list; I wished also to give information to others, if
 necessary; for if many were "running to and fro," I resolved that
 "knowledge should be increased."
-
 
 This brings up one of my Southern reminiscences, which I will here briefly
 relate. I was somewhat acquainted with a slave named Luke, who belonged to
@@ -6884,7 +6832,6 @@ was immediately sent for. Some of these freaks were of a nature too filthy
 to be repeated. When I fled from the house of bondage, I left poor Luke
 still chained to the bedside of this cruel and disgusting wretch.
 
-
 One day, when I had been requested to do an errand for Mrs. Bruce, I was
 hurrying through back streets, as usual, when I saw a young man
 approaching, whose face was familiar to me. As he came nearer, I
@@ -6897,13 +6844,11 @@ mentioned my name, he remembered all about me. I told him of the Fugitive
 Slave Law, and asked him if he did not know that New York was a city of
 kidnappers.
 
-
 He replied, "De risk ain't so bad for me, as 'tis fur you. 'Cause I runned
 away from de speculator, and you runned away from de massa. Dem
 speculators vont spen dar money to come here fur a runaway, if dey ain't
 sartin sure to put dar hans right on him. An I tell you I's tuk good car
 'bout dat. I had too hard times down dar, to let 'em ketch dis nigger."
-
 
 He then told me of the advice he had received, and the plans he had laid.
 I asked if he had money enough to take him to Canada. "'Pend upon it, I
@@ -6918,7 +6863,6 @@ With a low, chuckling laugh, he added, "You see I didn't <i>steal</i> it;
 dey <i>gub</i> it to me. I tell you, I had mighty hard time to keep de
 speculator from findin it; but he didn't git it."
 
-
 This is a fair specimen of how the moral sense is educated by slavery.
 When a man has his wages stolen from him, year after year, and the laws
 sanction and enforce the theft, how can he be expected to have more regard
@@ -6928,7 +6872,6 @@ Luke, in thinking he had a <i>right</i> to that money, as a portion of his
 unpaid wages. He went to Canada forthwith, and I have not since heard from
 him.
 
-
 All that winter I lived in a state of anxiety. When I took the children
 out to breathe the air, I closely observed the countenances of all I met.
 I dreaded the approach of summer, when snakes and slaveholders make their
@@ -6936,14 +6879,12 @@ appearance. I was, in fact, a slave in New York, as subject to slave laws
 as I had been in a Slave State. Strange incongruity in a State called
 free!
 
-
 Spring returned, and I received warning from the south that Dr. Flint knew
 of my return to my old place, and was making preparations to have me
 caught. I learned afterwards that my dress, and that of Mrs. Bruce's
 children, had been described to him by some of the Northern tools, which
 slaveholders employ for their base purposes, and then indulge in sneers at
 their cupidity and mean servility.
-
 
 I immediately informed Mrs. Bruce of my danger, and she took prompt
 measures for my safety. My place as nurse could not be supplied
@@ -6958,7 +6899,6 @@ better for you to have baby with you, Linda; for if they get on your
 track, they will be obliged to bring the child to me; and then, if there
 is a possibility of saving you, you shall be saved."
 
-
 This lady had a very wealthy relative, a benevolent gentleman in many
 respects, but aristocratic and pro-slavery. He remonstrated with her for
 harboring a fugitive slave; told her she was violating the laws of her
@@ -6968,11 +6908,9 @@ Shame on my country that it <i>is</i> so! I am ready to incur the penalty.
 I will go to the state's prison, rather than have any poor victim torn
 from <i>my</i> house, to be carried back to slavery."
 
-
 The noble heart! The brave heart! The tears are in my eyes while I write
 of her. May the God of the helpless reward her for her sympathy with my
 persecuted people!
-
 
 I was sent into New England, where I was sheltered by the wife of a
 senator, whom I shall always hold in grateful remembrance. This honorable
@@ -6994,11 +6932,9 @@ breathe God's free air without trepidation at my heart. This seemed hard;
 and I could not think it was a right state of things in any civilized
 country.
 
-
 From time to time I received news from my good old grandmother. She could
 not write; but she employed others to write for her. The following is an
 extract from one of her last letters:&mdash;
-
 
 Dear Daughter: I cannot hope to see you again on earth; but I
 pray to God to unite us above, where pain will no more rack this
@@ -7013,7 +6949,6 @@ him. Tell him for me, to be a good boy. Strive, my child, to
 train them for God's children. May he protect and provide for
 you, is the prayer of your loving old mother.
 
-
 These letters both cheered and saddened me. I was always glad to have
 tidings from the kind, faithful old friend of my unhappy youth; but her
 messages of love made my heart yearn to see her before she died, and I
@@ -7021,7 +6956,6 @@ mourned over the fact that it was impossible. Some months after I returned
 from my flight to New England, I received a letter from her, in which she
 wrote, "Dr. Flint is dead. He has left a distressed family. Poor old man!
 I hope he made his peace with God."
-
 
 I remembered how he had defrauded my grandmother of the hard earnings she
 had loaned; how he had tried to cheat her out of the freedom her mistress
@@ -7031,7 +6965,6 @@ forgive him. I cannot say, with truth, that the news of my old master's
 death softened my feelings towards him. There are wrongs which even the
 grave does not bury. The man was odious to me while he lived, and his
 memory is odious now.
-
 
 His departure from this world did not diminish my danger. He had
 threatened my grandmother that his heirs should hold me in slavery after
@@ -7045,7 +6978,6 @@ what I had to expect from the family of Flints; and my fears were
 confirmed by a letter from the south, warning me to be on my guard,
 because Mrs. Flint openly declared that her daughter could not afford to
 lose so valuable a slave as I was.
-
 
 I kept close watch of the newspapers for arrivals; but one Saturday night,
 being much occupied, I forgot to examine the Evening Express as usual. I
@@ -7070,7 +7002,6 @@ Mrs. Bruce's friends, where I was kindly received. Mrs. Bruce returned
 immediately, to instruct the domestics what to say if any one came to
 inquire for me.
 
-
 It was lucky for me that the evening paper was not burned up before I had
 a chance to examine the list of arrivals. It was not long after Mrs.
 Bruce's return to her house, before several people came to inquire for me.
@@ -7078,21 +7009,15 @@ One inquired for me, another asked for my daughter Ellen, and another said
 he had a letter from my grandmother, which he was requested to deliver in
 person.
 
-
 They were told, "She <i>has</i> lived here, but she has left."
-
 
 "How long ago?"
 
-
 "I don't know, sir."
-
 
 "Do you know where she went?"
 
-
 "I do not, sir." And the door was closed.
-
 
 This Mr. Dodge, who claimed me as his property, was originally a Yankee
 pedler in the south; then he became a merchant, and finally a slaveholder.
@@ -7104,7 +7029,6 @@ become circumscribed, while a wife and children depended upon him for
 support. Under these circumstances, it was very natural that he should
 make an effort to put me into his pocket.
 
-
 I had a colored friend, a man from my native place, in whom I had the most
 implicit confidence. I sent for him, and told him that Mr. and Mrs. Dodge
 had arrived in New York. I proposed that he should call upon them to make
@@ -7114,30 +7038,23 @@ and he consented. He went to the hotel, and knocked at the door of Mr.
 Dodge's room, which was opened by the gentleman himself, who gruffly
 inquired, "What brought you here? How came you to know I was in the city?"
 
-
 "Your arrival was published in the evening papers, sir; and I called to
 ask Mrs. Dodge about my friends at home. I didn't suppose it would give
 any offence."
 
-
 "Where's that negro girl, that belongs to my wife?"
 
-
 "What girl, sir?"
-
 
 "You know well enough. I mean Linda, that ran away from Dr. Flint's
 plantation, some years ago. I dare say you've seen her, and know where she
 is."
 
-
 "Yes, sir, I've seen her, and know where she is. She is out of your reach,
 sir."
 
-
 "Tell me where she is, or bring her to me, and I will give her a chance to
 buy her freedom."
-
 
 "I don't think it would be of any use, sir. I have heard her say she would
 go to the ends of the earth, rather than pay any man or woman for her
@@ -7145,13 +7062,11 @@ freedom, because she thinks she has a right to it. Besides, she couldn't
 do it, if she would, for she has spent her earnings to educate her
 children."
 
-
 This made Mr. Dodge very angry, and some high words passed between them.
 My friend was afraid to come where I was; but in the course of the day I
 received a note from him. I supposed they had not come from the south, in
 the winter, for a pleasure excursion; and now the nature of their business
 was very plain.
-
 
 Mrs. Bruce came to me and entreated me to leave the city the next morning.
 She said her house was watched, and it was possible that some clew to me
@@ -7172,7 +7087,6 @@ to show my face. God forgive the black and bitter thoughts I indulged on
 that Sabbath day! The Scripture says, "Oppression makes even a wise man
 mad;" and I was not wise.
 
-
 I had been told that Mr. Dodge said his wife had never signed away her
 right to my children, and if he could not get me, he would take them. This
 it was, more than any thing else, that roused such a tempest in my soul.
@@ -7181,7 +7095,6 @@ daughter had come to spend a vacation with me. I thought of what I had
 suffered in slavery at her age, and my heart was like a tiger's when a
 hunter tries to seize her young.
 
-
 Dear Mrs. Bruce! I seem to see the expression of her face, as she turned
 away discouraged by my obstinate mood. Finding her expostulations
 unavailing, she sent Ellen to entreat me. When ten o'clock in the evening
@@ -7189,7 +7102,6 @@ arrived and Ellen had not returned, this watchful and unwearied friend
 became anxious. She came to us in a carriage, bringing a well-filled trunk
 for my journey&mdash;trusting that by this time I would listen to reason.
 I yielded to her, as I ought to have done before.
-
 
 The next day, baby and I set out in a heavy snow storm, bound for New
 England again. I received letters from the City of Iniquity, addressed to
@@ -7206,7 +7118,6 @@ owner to another seemed too much like slavery; that such a great
 obligation could not be easily cancelled; and that I preferred to go to my
 brother in California.
 
-
 Without my knowledge, Mrs. Bruce employed a gentleman in New York to enter
 into negotiations with Mr. Dodge. He proposed to pay three hundred dollars
 down, if Mr. Dodge would sell me, and enter into obligations to relinquish
@@ -7216,13 +7127,11 @@ gentleman replied, "You can do as you choose, sir. If you reject this
 offer you will never get any thing; for the woman has friends who will
 convey her and her children out of the country."
 
-
 Mr. Dodge concluded that "half a loaf was better than no bread," and he
 agreed to the proffered terms. By the next mail I received this brief
 letter from Mrs. Bruce: "I am rejoiced to tell you that the money for your
 freedom has been paid to Mr. Dodge. Come home to-morrow. I long to see you
 and my sweet babe."
-
 
 My brain reeled as I read these lines. A gentleman near me said, "It's
 true; I have seen the bill of sale." "The bill of sale!" Those words
@@ -7237,7 +7146,6 @@ look upon it. I am deeply grateful to the generous friend who procured it,
 but I despise the miscreant who demanded payment for what never rightfully
 belonged to him or his.
 
-
 I had objected to having my freedom bought, yet I must confess that when
 it was done I felt as if a heavy load had been lifted from my weary
 shoulders. When I rode home in the cars I was no longer afraid to unveil
@@ -7246,7 +7154,6 @@ met Daniel Dodge himself; to have had him seen me and known me, that he
 might have mourned over the untoward circumstances which compelled him to
 sell me for three hundred dollars.
 
-
 When I reached home, the arms of my benefactress were thrown round me, and
 our tears mingled. As soon as she could speak, she said, "O Linda, I'm <i>so</i>
 glad it's all over! You wrote to me as if you thought you were going to be
@@ -7254,7 +7161,6 @@ transferred from one owner to another. But I did not buy you for your
 services. I should have done just the same, if you had been going to sail
 for California to-morrow. I should, at least, have the satisfaction of
 knowing that you left me a free woman."
-
 
 My heart was exceedingly full. I remembered how my poor father had tried
 to buy me, when I was a small child, and how he had been disappointed. I
@@ -7269,11 +7175,9 @@ used. Like other good and beautiful things, it may be tarnished by
 careless handling; but when I speak of Mrs. Bruce as my friend, the word
 is sacred.
 
-
 My grandmother lived to rejoice in my freedom; but not long after, a
 letter came with a black seal. She had gone "where the wicked cease from
 troubling, and the weary are at rest."
-
 
 Time passed on, and a paper came to me from the south, containing an
 obituary notice of my uncle Phillip. It was the only case I ever knew of
@@ -7283,7 +7187,6 @@ they call him a good man and a useful citizen; but what are eulogies to
 the black man, when the world has faded from his vision? It does not
 require man's praise to obtain rest in God's kingdom." So they called a
 colored man a <i>citizen</i>! Strange words to be uttered in that region!
-
 
 Reader, my story ends with freedom; not in the usual way, with marriage. I
 and my children are now free! We are as free from the power of
@@ -7296,7 +7199,6 @@ sake far more than for my own. But God so orders circumstances as to keep
 me with my friend Mrs. Bruce. Love, duty, gratitude, also bind me to her
 side. It is a privilege to serve her who pities my oppressed people, and
 who has bestowed the inestimable boon of freedom on me and my children.
-
 
 It has been painful to me, in many ways, to recall the dreary years I
 passed in bondage. I would gladly forget them if I could. Yet the
@@ -7313,7 +7215,6 @@ preceding pages, the author of this volume spent some time under her
 hospitable roof.
 
 ### L.M.C.
-
 
 The author of this book is my highly-esteemed friend. If its
 readers knew her as I know her, they could not fail to be deeply
@@ -7379,11 +7280,9 @@ strange than any fictions of the past.
 
 Amy Post. Rochester, N.Y., Oct. 30th, 1859.
 
-    
 The following testimonial is from a man who is now a highly respectable colored citizen of Boston.
 
 ### L.M.C.
-
 
    This narrative contains some incidents so extraordinary, that,
    doubtless, many persons, under whose eyes it may chance to fall,
@@ -7399,7 +7298,6 @@ The following testimonial is from a man who is now a highly respectable colored 
    of this interesting narrative.
 
    George W. Lowther.
-
 
 1 (<a href="#linknoteref-1" id="linknote-1">return</a>)\[The poison of a snake is a powerful acid, and is counteracted by powerful alkalies, such as potash,
 ammonia, &amp;c. The Indians are accustomed to apply wet ashes, or plunge
