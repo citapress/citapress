@@ -16,7 +16,7 @@ theme:
   - religion
 lang: en
 foreword: |-
-  <p>Foreword: Bonnie J. Smith - President, Judith Sargent Murray Society </p>
+  <p>Foreword: Bonnie Hurd Smith - President, Judith Sargent Murray Society </p>
 
   <p>Cover: Natalia Rojas - Colombian artist and illustrator"</p>
 date: 2012-05-01T22:12:03.284Z
@@ -30,7 +30,7 @@ time_period:
   - early-modern
 description: '"When “On the Equality of the Sexes” appeared in 1790 in
   <i>Massachusetts Magazine</i>, it became the earliest known public claim in
-  America for female equality." - Bonnie J. Smith'
+  America for female equality." - Bonnie Hurd Smith'
 ---
 ## Foreword
 
