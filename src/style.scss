@@ -55,7 +55,7 @@ footer {
     align-items: center;
     h2 span {
       float: left;
-      width: 100%;
+      width: 50%;
       font-family: 'wremena';
       font-weight: 200;
       font-size: 40px;
@@ -94,9 +94,10 @@ footer {
 }
 
 .marquee-container {
+  width: 400%;
   position: absolute;
   overflow: hidden;
-  // animation: marquee-footer 10s linear infinite;
+  animation: marquee-footer 10s linear infinite;
 }
 
 @keyframes marquee-footer {
