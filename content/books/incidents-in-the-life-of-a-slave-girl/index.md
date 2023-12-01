@@ -51,7 +51,7 @@ description: >-
 
 The epigraph above captures the multiple layers of meaning in Harriet Jacobs’autobiography <i>Incidents in the Life of a Slave Girl</i>. In this passage, we are reacquainted with the grief that Jacobs carried with her during every single day of her life, but we are also  reminded of the strength she drew from the memory of her mother and father. At that small graveyard in the woods, she strategized a final plan that led to the closest manifestation of freedom for herself and her children in a brutal society where slavery was the law of the land.
 
-Published in 1861 amidst the chaos of the dawn of the Civil War, <i>Incidents in the Life of a Slave Girl</i> came to the reading public with the hope that it would appeal to hearts with a capacity for sympathy, and that it would  inspire a feminine readership to exhort upon their brethren a moral influence over how the laws of the land were enforced. This meant that Jacobs had to wrestle with the troubling view of Black people–particularly Black women during the antebellum era–that denied them any semblance of feminine virtue. Saidiya Hartman has written that “the textual performance of seduction” in <i>Incidents</i> “reveal\[s] the role of law in sustaining and defining virtue.” As Caleb Smith states, “the appeal of Jacobs’ work, in all of these influential accounts, is in its capacity to expose—dissecting, analyzing, revealing—the structures of power that would otherwise lie concealed within such notions as benevolent paternalism, feminine chastity, and domestic love.”
+Published in 1861 amidst the chaos of the dawn of the Civil War, <i>Incidents in the Life of a Slave Girl</i> came to the reading public with the hope that it would appeal to hearts with a capacity for sympathy, and that it would  inspire a feminine readership to exhort upon their brethren a moral influence over how the laws of the land were enforced. This meant that Jacobs had to wrestle with the troubling view of Black people–particularly Black women during the antebellum era–that denied them any semblance of feminine virtue. Saidiya Hartman has written that “the textual performance of seduction” in <i>Incidents</i> “reveal[s] the role of law in sustaining and defining virtue.” As Caleb Smith states, “the appeal of Jacobs’ work, in all of these influential accounts, is in its capacity to expose—dissecting, analyzing, revealing—the structures of power that would otherwise lie concealed within such notions as benevolent paternalism, feminine chastity, and domestic love.”
 
 The first time I read <i>Incidents in the Life of a Slave Girl</i> I was in an undergraduate women writers course at the University of North Carolina Greensboro in 2004. My coming into consciousness as a Black feminist had not yet revealed itself; however I knew that Jacobs’ story of strength, perseverance, and courage would beckon me to pick it up again and again throughout my life. Jacobs’ writerly voice, deeply multilayered, was doing many things: championing the cause of the enslaved, actualizing her own plight as a survivor, and redeeming herself as woman. To some–at least within the paternalistic time period in which she lived– Jacobs may have been seen as fallen, but for most (and certainly for readers today) she was a woman who not only blazed a trail, but developed a deeply spiritual political consciousness.
 
@@ -2400,7 +2400,7 @@ consequently she had many jars of preserves. The closet that contained
 these was next invaded, and the contents tasted. One of them, who was
 helping himself freely, tapped his neighbor on the shoulder, and said,
 "Wal done! Don't wonder de niggers want to kill all de white folks, when
-dey live on 'sarves" \[meaning preserves]. I stretched out my hand to take
+dey live on 'sarves" [meaning preserves]. I stretched out my hand to take
 the jar, saying, "You were not sent here to search for sweetmeats."
 
 "And what <i>were</i> we sent for?" said the captain, bristling up to me.
@@ -7299,7 +7299,7 @@ The following testimonial is from a man who is now a highly respectable colored 
 
    George W. Lowther.
 
-1 (<a href="#linknoteref-1" id="linknote-1">return</a>)\[The poison of a snake is a powerful acid, and is counteracted by powerful alkalies, such as potash,
+1 (<a href="#linknoteref-1" id="linknote-1">return</a>)[The poison of a snake is a powerful acid, and is counteracted by powerful alkalies, such as potash,
 ammonia, &amp;c. The Indians are accustomed to apply wet ashes, or plunge
 the limb into strong lie. White men, employed to lay out railroads in
 snaky places, often carry ammonia with them as an antidote.&mdash;EDITOR.]
