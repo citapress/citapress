@@ -41,20 +41,8 @@ description: >-
 
   <p>Kate Chopin's 1899 novel tells the story of Edna Pontellier as she seeks to expand her life beyond the boundaries of Creole society and the restrictive expectations for wives and mothers. Called everything from "poison" to ""not altogether wholesome in its tendencies" upon publication, <i>The Awakening</i> is now recognized as a classic of feminist literature that also laid the stylistic foundation for modernist Southern fiction.</p>
 ---
-  <ul class="toc">
-    <li><a href="#foreword">Foreword by Heather Ostman</a></li>
-    <li><a href="#book">Start The Awakening</a></li>
-    <li><a href="#1">CHAPTERS I - V</a></li>
-    <li><a href="#2">CHAPTERS V - X</a></li>
-    <li><a href="#3">CHAPTERS X - XV</a></li>
-    <li><a href="#4">CHAPTERS XV - XX</a></li>
-    <li><a href="#5">CHAPTERS XX - XXV</a></li>
-    <li><a href="#6">CHAPTERS XXV - XXX</a></li>
-    <li><a href="#7">CHAPTERS XXX - XXXV</a></li>
-    <li><a href="#8">CHAPTERS XXXV - XXXIX</a></li>
-  </ul>
-  <section id="foreword">
-    <h2> Foreword </h2>
+##     Foreword 
+
     <p>My! What would Kate Chopin say if she knew her landmark novel, <i>The Awakening</i>, had become one of Cita Press’s inaugural texts! An open-access online literary resource dedicated to women’s literature seems to be a most appropriate venue for Chopin’s novel, especially when we consider how far <i>The Awakening</i> has come since it was first published in 1899, when it met with mixed reviews—reviews tending toward the highly critical. Although Chopin herself was a professional writer, an author who wrote to support her family following the untimely death of her husband, she would likely have marveled at the global reception her novel has commanded, necessitating an open-access resource to make her words available to readers around the world today and for generations to come. </p>
     <p>Considered to be shocking, immoral, and at the very least, highly unconventional, <i>The Awakening</i> faded into obscurity for most of the twentieth century. One of the less severe critical reviews claimed <i>The Awakening</i> “is not a healthy book; if it points to any particular moral or teaches any lesson, the fact is not apparent,” and worse, regarding its protagonist Edna, who “does not love her husband. The poison of passion seems to have entered her system, with her mother’s milk.”(1). The critic’s concern with the book’s “health” seems to stem from the perception of Edna’s lack of love for her husband and the direction of her passion, which appears to point outside her marriage. Ah, but what of the novel’s moral or lesson? Is it really possible that Chopin, the same author of the short story, “The Storm,” who claimed that the “firm, elastic flesh” of her protagonist, Calixta, in the arms of a momentary lover, “was knowing for the first time its birthright, was like a creamy lily that the sun invites to contribute its breath and perfume to the undying life of the world.”(2). Surely Chopin’s lesson is couched within Edna Pontellier’s passion as she awakens, body and soul. What if the necessity of passion is the lesson?  </p>
     <p>Passion’s necessity may be one of the lessons we can take from Chopin’s controversial text, but certainly it is not the only lesson. The novel emerged from obscurity like a different kind of storm: taking the literary world to new heights and awareness of what women writers could do. The late 1960s and early 1970s brought <i>The Awakening</i> into the mainstream. A time of enormous social upheaval, these years were a time of protest and reform: the Civil Rights Movement, the Vietnam War, the women’s movement, and more. College students in the United States and around the western world were asking new questions about the status quo and rejecting the answers they received from the generations ahead of them. Many women—college students and otherwise—were rethinking their mothers’ choices. <i>The Awakening</i> provided a reverberating response to the calls for women’s autonomy and sexual freedom, as it provoked immediate questions about marriage, infidelity, freedom, and suicide. Scholars, students, and readers embraced the novel, as it spoke to so many women’s lived experiences. Conventional marriage, the novel seemed to say, took many forms—and love was not always a part of those forms. Love itself took many forms, and not all men were ready to reciprocate in the ways an autonomous, searching woman like Edna Pontellier needed. Women’s desire for freedom and the search for autonomy were now parts of the public discourse, though, and regardless of the outcome—for Edna, there could only be one—readers in the late twentieth century could begin to see other ways of being, of engaging the world around them, etched out in Chopin’s pages.</p>
@@ -65,8 +53,7 @@ description: >-
     <p>1.  Chopin, Kate. “The Storm,” American Literature, AmericanLiterature.com/short-story/the-storm  </p>
     <p> 2.  Notes from Bookland,” St Louis Daily Globe-Democrat (13 May 1899) :5 reprinted in The Awakening. Ed. Margo Culley. 3rd edition. Norton, 2018.</p>
  
-       <h2> I
-    </h2>
+##I
     <p>
     A green and yellow parrot, which hung in a cage outside the door, kept repeating over and over:
     </p>
