@@ -64,10 +64,8 @@ description: >-
     <p>Heather Ostman, PhD - President, Kate Chopin International Society, 29 January 2018, New York</p>
     <p>1.  Chopin, Kate. “The Storm,” American Literature, AmericanLiterature.com/short-story/the-storm  </p>
     <p> 2.  Notes from Bookland,” St Louis Daily Globe-Democrat (13 May 1899) :5 reprinted in The Awakening. Ed. Margo Culley. 3rd edition. Norton, 2018.</p>
-  </section>
-   
-     <h2> <section id="1">
-        I
+ 
+       <h2> I
     </h2>
     <p>
     A green and yellow parrot, which hung in a cage outside the door, kept repeating over and over:
