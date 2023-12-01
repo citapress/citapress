@@ -41,7 +41,6 @@ description: >-
 
   <p>Kate Chopin's 1899 novel tells the story of Edna Pontellier as she seeks to expand her life beyond the boundaries of Creole society and the restrictive expectations for wives and mothers. Called everything from "poison" to ""not altogether wholesome in its tendencies" upon publication, <i>The Awakening</i> is now recognized as a classic of feminist literature that also laid the stylistic foundation for modernist Southern fiction.</p>
 ---
-
   <ul class="toc">
     <li><a href="#foreword">Foreword by Heather Ostman</a></li>
     <li><a href="#book">Start The Awakening</a></li>
@@ -66,7 +65,6 @@ description: >-
     <p>1.  Chopin, Kate. “The Storm,” American Literature, AmericanLiterature.com/short-story/the-storm  </p>
     <p> 2.  Notes from Bookland,” St Louis Daily Globe-Democrat (13 May 1899) :5 reprinted in The Awakening. Ed. Margo Culley. 3rd edition. Norton, 2018.</p>
   </section>
-  <section id="book">
    
      <h2> <section id="1">
         I
