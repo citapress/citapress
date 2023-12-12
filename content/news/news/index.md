@@ -5,6 +5,7 @@ templateKey: news-page
 ---
 ## 2023
 
+* **December 2023 (Announcement)** Gita Manaktala, Editorial Director of MIT Press, has joined Cita's Advisory Board!
 * **November 2023 (Event)** Come visit Cita Press at the [Boston Art Book Fair](https://bostonartbookfair.com/)! Friday, November 10 (preview party!) through Sunday, November 12! 
 * **October 2023 (Announcement/Press)** *An Immortal Book: Selected Writings by Sui Sin Far* is published and available as a downloadable PDF and EPUB in addition to our web format. Learn more about the book with the [Lost Ladies of Lit](https://www.lostladiesoflit.com/podcast) podcast, featuring Juliana Castro Varón and foreword writer Victoria Namkung. Cover by Shuhua Xiong. You can also purchase a print copy [here](https://www.lulu.com/shop/sui-sin-far-and-edith-eaton-and-victoria-namkung-and-shuhua-xiong/an-immortal-book/paperback/product-gjnpk9e.html?page=1&pageSize=4).
 * **October 2023 (Event)** Cita is a virtual presenter for the 2023 Creative Commons Summit. Explore the [program ](https://creativecommons.org/2023/09/26/explore-the-2023-cc-global-summit-program/)(including Cita's "Why Not Everything? Curation & Digital Archives").
