@@ -68,5 +68,19 @@ collections:
       - { label: 'Language', name: 'lang', widget: 'select', options: [en, es] }
       - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'studio-page' }
       - { label: 'Services', name: 'services', widget: 'list', allow_add: true }
-      - { label: 'Images (max 500kb - preferable .jpg - lowercase name - no spaces)', name: studioimages, widget: image, allow_multiple: true, media_library: [{config: [{max_file_size: 62500}]}] }
-      - { label: 'Front page block', name: 'body', widget: 'markdown' }
+      - { label: 'Front page block', name: 'body', widget: 'markdown' }  
+      - { label: 'Images (max 500kb - preferable .jpg - lowercase name - no spaces)',
+          name: studioimages,
+          widget: list,
+          fields:
+            - {label: 'Image1', name: image_one, widget: image, required: true, media_library: [{config: [{max_file_size: 62500}]}]}
+            - {label: 'Image2', name: image_two, widget: image, required: true, media_library: [{config: [{max_file_size: 62500}]}]}
+            - {label: 'Image3', name: image_three, widget: image, required: true, media_library: [{config: [{max_file_size: 62500}]}]}
+            - {label: 'Image4', name: image_four, widget: image, required: true, media_library: [{config: [{max_file_size: 62500}]}]}
+            - {label: 'Image5', name: image_five, widget: image, required: true, media_library: [{config: [{max_file_size: 62500}]}]}
+            - {label: 'Image6', name: image_six, widget: image, required: true, media_library: [{config: [{max_file_size: 62500}]}]}
+            - {label: 'Image7', name: image_seven, widget: image, required: true, media_library: [{config: [{max_file_size: 62500}]}]}
+            - {label: 'Image8', name: image_eight, widget: image, required: true, media_library: [{config: [{max_file_size: 62500}]}]}
+            - {label: 'Image9', name: image_nine, widget: image, required: true, media_library: [{config: [{max_file_size: 62500}]}]}
+            - {label: 'Image10', name: image_ten, widget: image, required: true, media_library: [{config: [{max_file_size: 62500}]}]}
+        }

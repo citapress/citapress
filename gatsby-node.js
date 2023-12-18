@@ -75,7 +75,6 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         sort: {frontmatter: {date: DESC}}
         filter: {
           frontmatter: {
-            lang: {eq: "en"}
             templateKey: { eq: "studio-page" }
           }
         }
