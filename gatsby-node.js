@@ -18,6 +18,7 @@ const genreTemplate = path.resolve(`./src/templates/genre-post.js`)
 const timePeriodTemplate = path.resolve(`./src/templates/time-period-post.js`)
 const themeTemplate = path.resolve(`./src/templates/theme-post.js`)
 const newsTemplate = path.resolve(`./src/templates/news.js`)
+const studioTemplate = path.resolve(`./src/templates/studio.js`)
 
 /**
  * @type {import('gatsby').GatsbyNode['createPages']}
@@ -33,7 +34,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         filter: {
           frontmatter: {
             lang: {eq: "en"}
-            templateKey: { nin: ["news-page"] }
+            templateKey: { nin: ["news-page", "studio-page"] }
           }
         }
         limit: 1000
@@ -56,7 +57,29 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
             templateKey: { eq: "news-page" }
           }
         }
-        limit: 4
+        limit: 2
+      ) {
+        nodes {
+          id
+          frontmatter{
+            title
+            lang
+            templateKey
+          }
+          fields {
+            slug
+          }
+        }
+      }
+      studio: allMarkdownRemark(
+        sort: {frontmatter: {date: DESC}}
+        filter: {
+          frontmatter: {
+            lang: {eq: "en"}
+            templateKey: { eq: "studio-page" }
+          }
+        }
+        limit: 2
       ) {
         nodes {
           id
@@ -74,7 +97,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         sort: {frontmatter: {date: DESC}}
         filter: {
           frontmatter: {
-            templateKey: { nin: ["news-page"] }
+            templateKey: { nin: ["news-page", "studio-page"] }
           }
         }
         limit: 1000
@@ -145,6 +168,20 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       createPage({
         path: post.fields.slug,
         component: newsTemplate,
+        context: {
+          id: post.id,
+          lang: post.frontmatter.lang,
+        },
+      })
+    })
+  }
+  // build studio page
+  const studio = result.data.studio.nodes;
+  if (studio.length > 0) {
+    studio.forEach((post) => {
+      createPage({
+        path: post.fields.slug,
+        component: studioTemplate,
         context: {
           id: post.id,
           lang: post.frontmatter.lang,

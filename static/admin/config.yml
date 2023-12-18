@@ -53,3 +53,20 @@ collections:
       - { label: 'Language', name: 'lang', widget: 'select', options: [en, es] }
       - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'news-page' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: studio
+    label: Studio
+    folder: 'content/studio'
+    slug: 'index'
+    path: '{{title}}/index'
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Contact email', name: 'email', widget: 'string' }
+      - { label: 'Header', name: 'header', widget: 'string' }
+      - { label: 'Language', name: 'lang', widget: 'select', options: [en, es] }
+      - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'studio-page' }
+      - { label: 'Services', name: 'services', widget: 'list', allow_add: true }
+      - { label: 'Images (max 500kb - preferable .jpg - lowercase name - no spaces)', name: studioimages, widget: image, allow_multiple: true, media_library: [{config: [{max_file_size: 62500}]}] }
+      - { label: 'Front page block', name: 'body', widget: 'markdown' }

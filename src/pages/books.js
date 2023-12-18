@@ -77,7 +77,7 @@ query blogListQuery($language: String!) {
   }
   allMarkdownRemark(
     sort: {frontmatter: { sortingdate: ASC } }
-    filter: {frontmatter: {lang: {eq: $language} templateKey: { nin: ["news-page"] }}}
+    filter: {frontmatter: {lang: {eq: $language} templateKey: { nin: ["news-page", "studio-page"] }}}
     ) {
     nodes {
       excerpt

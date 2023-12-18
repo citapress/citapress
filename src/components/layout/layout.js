@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link, FormattedMessage } from "gatsby-plugin-intl"
 import ChangeLanguage from "../changeLanguage/changeLanguage"
-import * as classes from "./layout.module.scss"
+// import * as classes from "./layout.module.scss"
 
 
 const Layout = ({ location, children, intl, where }) => {
@@ -30,7 +30,7 @@ const Layout = ({ location, children, intl, where }) => {
 
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
-      <header className={`${classes.globalHeader} bluu ${pathnamestriped}`}>{header}</header>
+      <header className={`global-header bluu ${pathnamestriped}`}>{header}</header>
       <main className={`main-wrapper ${pathnamestriped}`}>
         <div className='internal-wrapper'>{children}</div>
       </main>

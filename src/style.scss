@@ -56,11 +56,12 @@ footer {
     h2 span {
       float: left;
       width: 50%;
-      font-family: 'wremena';
+      font-family: 'Wremena';
       font-weight: 200;
       font-size: 40px;
       text-wrap: nowrap;
       text-rendering: geometricprecision;
+      line-height: 70px;
     }
   }
   .footer-container {
@@ -166,12 +167,14 @@ footer {
   height: 80px;
   overflow: hidden;
   z-index: 9;
+  background: transparent;
   a {
     color: $blue;
     text-decoration: none;
   }
   .navigation {
     display: none;
+    margin-bottom: 10px;
     li {
       display: block;
       margin: 0 10px;
@@ -190,19 +193,24 @@ footer {
       }
     }
     a.studio-link {
-      font-family: 'wremena';
+      font-family: 'Wremena';
       font-size: 30px;
       font-weight: 200;
       text-rendering: geometricprecision;
       background: $blue;
       color: white;
-      padding: 10px 30px;
+      @media screen and (min-width: 768px) {
+        padding: 10px 30px;
+      }
       span {
         font-family: 'Bluu', serif;
       }
       &.studio {
         background: none;
         color: black;
+        @media screen and (min-width: 768px) {
+          margin-left: 30px;
+        }
         span {
           display: none;
         }
@@ -282,12 +290,13 @@ footer {
   }
 
   .studio-text {
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     display: flex;
     flex-direction: column;
     font-weight: 300;
     justify-content: flex-end;
     padding: 20px;
+    line-height: 1.38em;
     p {
       margin: 0;
     }
@@ -314,7 +323,7 @@ footer {
       writing-mode: vertical-rl;
       text-orientation: mixed;
       transform: rotate(-180deg);
-      font-family: 'wremena';
+      font-family: 'Wremena';
       font-weight: 200;
       font-size: 40px;
       text-rendering: geometricprecision;
@@ -350,7 +359,7 @@ footer {
       }
       ul {
         font-weight: 400;
-        font-size: 1.1rem;
+        font-size: 1rem;
         line-height: 30px;
       }
     }
@@ -360,11 +369,12 @@ footer {
       justify-content: space-between;
       position: fixed;
       right: 0;
-      top: 80px;
-      height: calc(100vh - 200px);
+      top: 0;
+      height: calc(100vh - 120px);
       padding: 14px;
       .studiopencil {
         display: block;
+        margin-top: 80px;
         width: 100%;
         height: auto;
       }
@@ -489,6 +499,19 @@ footer {
   }
 }
 
+.global-header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background: white;
+  z-index: 9;
+  &.studio {
+    @media screen and (min-width: 768px) {
+      background: transparent;
+    }
+  }
+}
+
 .studio-header {
   margin: 0;
   display: block;
@@ -499,7 +522,7 @@ footer {
   text-rendering: geometricprecision;
   padding: 5px 20px 30px 20px;
   @media screen and (min-width: 768px) {
-    margin: 10vh 0;
+    margin: 9vh 0;
     font-size: 5rem;
     line-height: 5rem;
     padding: 0;
