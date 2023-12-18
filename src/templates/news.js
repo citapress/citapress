@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 import { injectIntl } from "gatsby-plugin-intl"
 
 import Layout from "../components/layout/layout"
+import Seo from "../components/seo"
 
 const NewsTemplate = ({
   data,
@@ -43,6 +44,8 @@ const NewsTemplate = ({
 }
 
 export default injectIntl(NewsTemplate)
+
+export const Head = () => <Seo title="News" />
 
 export const pageQuery = graphql`
   query blogListQuery($language: String!) {

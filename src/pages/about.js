@@ -2,11 +2,12 @@ import * as React from "react"
 import { injectIntl, FormattedMessage } from "gatsby-plugin-intl"
 
 import Layout from "../components/layout/layout"
+import Seo from "../components/seo"
 
 const AboutIndex = ({ location, intl }) => {
-  
+  const siteTitle = `About`
   return (
-    <Layout location={location} title={'about'}>
+    <Layout location={location} title={siteTitle}>
       <hr />
       <h1 className="bluu about-header">
         <FormattedMessage id="cita is" />
@@ -83,3 +84,4 @@ const AboutIndex = ({ location, intl }) => {
 }
 
 export default injectIntl(AboutIndex)
+export const Head = () => <Seo title="About" />

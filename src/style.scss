@@ -4,6 +4,8 @@ html,
 body,
 #root {
   height: 100%;
+  -moz-osx-font-smoothing: grayscale;   /* Firefox */
+  -webkit-font-smoothing: antialiased; /* WebKit  */
 }
 
 body {
@@ -281,7 +283,6 @@ footer {
   font-size: 1.5em;
   line-height: 1.2;
   margin: 20px 0;
-  max-width: 85%;
   @media screen and (min-width: 768px) {
     font-size: 2.4em;
     max-width: 100%;
@@ -531,6 +532,8 @@ span.inside-title {
 }
 
 .internal-wrapper {
+  width: 100%;
+  overflow: hidden;
   @media screen and (min-width: 768px) {
     padding: 0 30px 60px;
   }

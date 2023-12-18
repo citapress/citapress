@@ -1,12 +1,14 @@
 import * as React from "react"
 import { injectIntl } from "gatsby-plugin-intl"
 
+import Seo from "../components/seo"
 import Layout from "../components/layout/layout"
 
 const ContactIndex = ({ location, intl }) => {
+  const siteTitle = `Contacts`
   
   return (
-    <Layout location={location} title={'news'}>
+    <Layout location={location} title={siteTitle}>
       <div className="internal-body">
         {intl.locale === 'en' ? (
           <div className="english-version">
@@ -47,3 +49,9 @@ const ContactIndex = ({ location, intl }) => {
 }
 
 export default injectIntl(ContactIndex)
+/**
+ * Head export to define metadata for the page
+ *
+ * See: https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-head/
+ */
+export const Head = () => <Seo title="Contact" />

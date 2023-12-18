@@ -2,11 +2,12 @@ import * as React from "react"
 import { injectIntl } from "gatsby-plugin-intl"
 
 import Layout from "../components/layout/layout"
+import Seo from "../components/seo"
 
 const PeopleIndex = ({ location, intl }) => {
-  
+  const siteTitle = `People`
   return (
-    <Layout location={location} title={'news'}>
+    <Layout location={location} title={siteTitle}>
       <div className="internal-body">
         {intl.locale === 'en' ? (
           <div className="english-version">
@@ -137,3 +138,5 @@ const PeopleIndex = ({ location, intl }) => {
 }
 
 export default injectIntl(PeopleIndex)
+
+export const Head = () => <Seo title="People" />
