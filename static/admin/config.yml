@@ -69,13 +69,13 @@ collections:
       - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'studio-page' }
       - { label: 'Services', name: 'services', widget: 'list', allow_add: true }
       - { label: 'Front page block', name: 'body', widget: 'markdown' }  
-      - { label: 'Image1', name: image1, widget: image, required: false, media_library: [{config: [{max_file_size: 62500}]}]}
-      - { label: 'Image2', name: image2, widget: image, required: false, media_library: [{config: [{max_file_size: 62500}]}]}
-      - { label: 'Image3', name: image3, widget: image, required: false, media_library: [{config: [{max_file_size: 62500}]}]}
-      - { label: 'Image4', name: image4, widget: image, required: false, media_library: [{config: [{max_file_size: 62500}]}]}
-      - { label: 'Image5', name: image5, widget: image, required: false, media_library: [{config: [{max_file_size: 62500}]}]}
-      - { label: 'Image6', name: image6, widget: image, required: false, media_library: [{config: [{max_file_size: 62500}]}]}
-      - { label: 'Image7', name: image7, widget: image, required: false, media_library: [{config: [{max_file_size: 62500}]}]}
-      - { label: 'Image8', name: image8, widget: image, required: false, media_library: [{config: [{max_file_size: 62500}]}]}
-      - { label: 'Image9', name: image9, widget: image, required: false, media_library: [{config: [{max_file_size: 62500}]}]}
-      - { label: 'Image10', name: image10, widget: image, required: false, media_library: [{config: [{max_file_size: 62500}]}]}
+      - { label: 'Image', name: 'image', widget: 'string', required: false }
+      - { label: 'Image1', name: 'image1', widget: 'string', required: false }
+      - { label: 'Image2', name: 'image2', widget: 'string', required: false }
+      - { label: 'Image3', name: 'image3', widget: 'string', required: false }
+      - { label: 'Image4', name: 'image4', widget: 'string', required: false }
+      - { label: 'Image5', name: 'image5', widget: 'string', required: false }
+      - { label: 'Image6', name: 'image6', widget: 'string', required: false }
+      - { label: 'Image7', name: 'image7', widget: 'string', required: false }
+      - { label: 'Image8', name: 'image8', widget: 'string', required: false }
+      - { label: 'Image9', name: 'image9', widget: 'string', required: false }

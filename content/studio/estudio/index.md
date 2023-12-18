@@ -5,6 +5,9 @@ templateKey: studio-page
 header: >-
   Somos una boutique y un <b>estudio editorial de diseño.</b>
 email: hi@cita.studio
+image: cover-mathilda.jpg
+image1: cover-mathilda.jpg
+image2: cover-mathilda.jpg
 services: 
   - Branding
   - Diseño editorial
