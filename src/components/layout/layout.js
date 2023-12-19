@@ -8,7 +8,9 @@ import Marquee from "react-fast-marquee";
 const Layout = ({ location, children, intl, where }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
-  const pathnamestriped = location.pathname.replace(/\//g, '')
+  console.log(location.pathname)
+  const arrayofsplitlocation = location.pathname.split('/').filter(Boolean);
+  const pathnamestriped = arrayofsplitlocation[arrayofsplitlocation.length - 1];;
   const [clicked, setClicked] = useState(true)
   
   let header = (
@@ -36,7 +38,7 @@ const Layout = ({ location, children, intl, where }) => {
         <div className='internal-wrapper'>{children}</div>
       </main>
       <footer className={`${pathnamestriped}`}>
-        {pathnamestriped !== 'studio' ?
+        {pathnamestriped.includes('studio') ?
         (
           <div className={"footer-container"}>
             <ChangeLanguage where={where} />

@@ -69,7 +69,7 @@ const StudioTemplate = ({
             <div className="right-column">
               <img src="/img/pencil.png" alt="studiopencil" className="studiopencil" width="304px" height="290px"  />
               <div className="services">
-                <h4>Services</h4>
+                <h4>{intl.formatMessage({ id: 'Services' })}</h4>
                 <ul>
                   {
                     studio.frontmatter.services.map((service, index) => (
