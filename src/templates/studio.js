@@ -15,7 +15,7 @@ function ImageCarousel({ images }) {
     return () => clearInterval(timer); // Clean up on unmount
   }, [images]);
 
-  return <img className="carousel-image" src={`/img/gallery/${images[currentImageIndex]}`} alt="studio" />;
+  return <img className="carousel-image" src={`/img/${images[currentImageIndex]}`} alt="studio" />;
 }
 
 
