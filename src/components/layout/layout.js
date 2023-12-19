@@ -38,7 +38,7 @@ const Layout = ({ location, children, intl, where }) => {
         <div className='internal-wrapper'>{children}</div>
       </main>
       <footer className={`${pathnamestriped}`}>
-        {pathnamestriped.includes('studio') ?
+        {pathnamestriped?.includes('studio') ?
         (
           <div className={"footer-container"}>
             <ChangeLanguage where={where} />
