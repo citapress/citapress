@@ -10,7 +10,8 @@ const Layout = ({ location, children, intl, where }) => {
   const isRootPath = location.pathname === rootPath
   console.log(location.pathname)
   const arrayofsplitlocation = location.pathname.split('/').filter(Boolean);
-  const pathnamestriped = arrayofsplitlocation[arrayofsplitlocation.length - 1] || '';
+  let pathnamestriped = arrayofsplitlocation[arrayofsplitlocation.length - 1] || '';
+  pathnamestriped = pathnamestriped === 'estudio' ? 'studio' : pathnamestriped;
   const [clicked, setClicked] = useState(true)
   
   let header = (
@@ -38,8 +39,14 @@ const Layout = ({ location, children, intl, where }) => {
         <div className='internal-wrapper'>{children}</div>
       </main>
       <footer className={`${pathnamestriped}`}>
-        {!pathnamestriped?.includes('studio') ?
+        {pathnamestriped === 'studio'?
         (
+          <div className={"footer-container marquee-container"}>
+          <Marquee speed={100} gradientWidth={200}>
+            <h2 className='marquee-content'>✺ Distinctive design ✺ Accessibility ✺ All things open source ✺ Clear, thoughtful communications ✺ Playfulness and curiosity</h2>
+          </Marquee>
+          </div>
+        ) : (
           <div className={"footer-container"}>
             <ChangeLanguage where={where} />
             <div className="message">
@@ -52,12 +59,6 @@ const Layout = ({ location, children, intl, where }) => {
               </div>
             </div>
           </div>
-          ) : (
-            <div className={"footer-container marquee-container"}>
-              <Marquee speed={100} gradientWidth={200}>
-                <h2 className='marquee-content'>✺ Distinctive design ✺ Accessibility ✺ All things open source ✺ Clear, thoughtful communications ✺ Playfulness and curiosity</h2>
-              </Marquee>
-            </div>
         )}
       </footer>
     </div>
