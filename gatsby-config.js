@@ -148,7 +148,7 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-netlify-cms`,
+      resolve: `gatsby-plugin-decap-cms`,
       options: {
         enableIdentityWidget: true,
       },

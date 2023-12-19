@@ -8,13 +8,6 @@ email: hi@cita.studio
 image: cover-mathilda.jpg
 image1: cover-mathilda.jpg
 image2: cover-mathilda.jpg
-image3: cover-mathilda.jpg
-image4: cover-mathilda.jpg
-image5: cover-mathilda.jpg
-image6: cover-mathilda.jpg
-image7: cover-mathilda.jpg
-image8: cover-mathilda.jpg
-image9: cover-mathilda.jpg
 services: 
   - Branding
   - Editorial Design

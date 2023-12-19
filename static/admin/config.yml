@@ -68,14 +68,7 @@ collections:
       - { label: 'Language', name: 'lang', widget: 'select', options: [en, es] }
       - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'studio-page' }
       - { label: 'Services', name: 'services', widget: 'list', allow_add: true }
-      - { label: 'Front page block', name: 'body', widget: 'markdown' }  
       - { label: 'Image', name: 'image', widget: 'string', required: false }
       - { label: 'Image1', name: 'image1', widget: 'string', required: false }
       - { label: 'Image2', name: 'image2', widget: 'string', required: false }
-      - { label: 'Image3', name: 'image3', widget: 'string', required: false }
-      - { label: 'Image4', name: 'image4', widget: 'string', required: false }
-      - { label: 'Image5', name: 'image5', widget: 'string', required: false }
-      - { label: 'Image6', name: 'image6', widget: 'string', required: false }
-      - { label: 'Image7', name: 'image7', widget: 'string', required: false }
-      - { label: 'Image8', name: 'image8', widget: 'string', required: false }
-      - { label: 'Image9', name: 'image9', widget: 'string', required: false }
+      - { label: 'Front page block', name: 'body', widget: 'markdown' }  
