@@ -1,9 +1,23 @@
-import * as React from "react"
+import React, { useState, useEffect } from 'react';
 import { graphql } from "gatsby"
 import { injectIntl } from "gatsby-plugin-intl"
 
 import Layout from "../components/layout/layout"
 import Seo from "../components/seo"
+
+function ImageCarousel({ images }) {
+  const [currentImageIndex, setCurrentImageIndex] = useState(0);
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setCurrentImageIndex((prevIndex) => (prevIndex + 1) % images.length);
+    }, 3000);
+
+    return () => clearInterval(timer); // Clean up on unmount
+  }, [images]);
+
+  return <img className="carousel-image" src={`/img/gallery/${images[currentImageIndex]}`} alt="studio" />;
+}
+
 
 const StudioTemplate = ({
   data,
@@ -16,6 +30,15 @@ const StudioTemplate = ({
 
   for (let i = 0; i < 3; i++) {
     elements.push(<span key={i}>{studio.frontmatter.email}</span>);
+  }
+
+  let images = [];
+
+  for (let i = 1; i <= 9; i++) {
+    let image = studio.frontmatter[`image${i}`];
+    if (image !== undefined) {
+      images.push(image);
+    }
   }
 
   return (
@@ -34,7 +57,7 @@ const StudioTemplate = ({
         <div className="dinamic-content">
           <div className="flex-item">
             <div className="img-container">
-              <img src="/img/gif/reading.gif" alt="studio" />
+              <ImageCarousel images={images} />
             </div>
           </div>
           <div className="flex-item text-flex-content">
@@ -44,7 +67,7 @@ const StudioTemplate = ({
               }}>
             </div>
             <div className="right-column">
-              <img src="/img/pencil.png" className="studiopencil" width="304px" height="290px" alt="studio" />
+              <img src="/img/pencil.png" alt="studiopencil" className="studiopencil" width="304px" height="290px"  />
               <div className="services">
                 <h4>Services</h4>
                 <ul>
@@ -87,6 +110,9 @@ export const pageQuery = graphql`
         frontmatter {
           title
           header
+          image1
+          image2
+          image3
           email
           services
           lang

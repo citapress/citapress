@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Link, FormattedMessage } from "gatsby-plugin-intl"
 import ChangeLanguage from "../changeLanguage/changeLanguage"
+import Marquee from "react-fast-marquee";
 // import * as classes from "./layout.module.scss"
 
 
@@ -51,7 +52,9 @@ const Layout = ({ location, children, intl, where }) => {
           </div>
           ) : (
             <div className={"footer-container marquee-container"}>
-              <h2><span>✺ Distinctive design ✺ Accessibility ✺ All things open source ✺ Clear, thoughtful communications ✺ Playfulness and curiosity</span></h2>
+              <Marquee speed={100} gradientWidth={200}>
+                <h2 className='marquee-content'>✺ Distinctive design ✺ Accessibility ✺ All things open source ✺ Clear, thoughtful communications ✺ Playfulness and curiosity</h2>
+              </Marquee>
             </div>
         )}
       </footer>
