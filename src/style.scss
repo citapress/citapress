@@ -185,17 +185,17 @@ footer {
       text-rendering: geometricprecision;
       background: $blue;
       color: white;
-      @media screen and (min-width: 768px) {
-        padding: 10px 30px;
-      }
+      padding: 10px 30px;
       span {
         font-family: 'Bluu', serif;
       }
       &.studio {
         background: none;
         color: black;
+        padding: 10px 0;
         @media screen and (min-width: 768px) {
           margin-left: 30px;
+          padding: 10px 30px;
         }
         span {
           display: none;
