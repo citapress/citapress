@@ -26,7 +26,9 @@ const Layout = ({ location, children, intl, where }) => {
         <li><Link to="/news"><FormattedMessage id="news" /></Link></li>
         <li><Link to="/contact"><FormattedMessage id="contact" /></Link></li>
         <li><a aria-label="shop-navigate" href="https://cita-press.square.site/"  rel="noreferrer" target="_blank"><FormattedMessage id="shop" /></a></li>
-        <li><Link to="/studio" className={`studio-link ${pathnamestriped}`}><span>cita:</span>studio</Link></li>
+        {[pathnamestriped].includes('studio') && (
+          <li><Link to="/studio" className={`studio-link ${pathnamestriped}`}><span>cita:</span>studio</Link></li>
+        )}
       </ul>
       <button className="btn btn-secondary menu-button" onClick={() => setClicked(!clicked)}>Menu</button>
     </div>
