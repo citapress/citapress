@@ -416,7 +416,7 @@ footer {
       padding: 0;
     }
     @media screen and (min-width: 768px) {
-      width: calc(100% - $column-width*2);
+      width: calc(100% - $column-width*3);
     }
   }
   &.shop {
@@ -507,6 +507,7 @@ footer {
   font-weight: normal;
   text-rendering: geometricprecision;
   padding: 5px 20px 30px 20px;
+  font-weight: 200;
   @media screen and (min-width: 768px) {
     margin: 9vh 0;
     font-size: 5rem;
