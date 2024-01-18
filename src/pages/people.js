@@ -15,6 +15,9 @@ const PeopleIndex = ({ location, intl }) => {
               <span className="inside-title">People:</span>
               <span>Cita is a collaborative effort of love made possible by the generosity of many direct and indirect contributors. Cita is fiscally sponsored by Educopia Institute and funded through the generous support of the Mellon Foundation.</span>
             </p> 
+  <hr>
+    <p><span className="inside-title">Open Positions:</p>
+    <p> <b>Literary Translation & Technology Fellow (ENG-SPA or SPA-ENG):</b> Join us to produce a translation of one of Cita’s books (approximately 25,000 to 40,000 words; to be selected in collaboration with Cita staff among Cita’s existing or upcoming catalog) and write a short essay on the state of machine translation for literary pieces. The translator’s name will be on the book’s cover. To apply send a CV and a brief letter explaining your qualifications and interest to info@citapress.org. Remote / Contract. Compensation: $6000 USD. More details <a href="https://docs.google.com/document/d/1E7lYiofhcrBV7hteEZP8PDQdhcVeGDFKV8OapkzBYrk/edit#heading=h.tvvqckim9deo" target="_blank">here</a>.</p>
             <hr /> 
             <p><span className="inside-title">Staff:</span></p>
             <div className="flex">
