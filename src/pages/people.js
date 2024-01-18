@@ -55,10 +55,10 @@ const PeopleIndex = ({ location, intl }) => {
               </div>
               <div className="flex" >
                 <div className="column">
-                  <img src="/img/people/vicky.png" alt="Illustration of Vicky Checo" width="150px" height="auto" />
+                  <img src="/img/people/gita.png" alt="Illustration of Gita Manaktala" width="150px" height="auto" />
                 </div>
                 <div className="column">
-                  <p><b>Vicky Checo</b> is Community Engagement Manager at The Miami Foundation. Having served across all sectors— government, private, nonprofit, and philanthropic—she's able to view systems from many perspectives and support projects from idea to impact. Passionate about her roots, she's dedicated to strengthening organizations by using her knowledge to help build their infrastructure, operations and programming.
+                  <p><b>Gita Manaktala</b> is the Executive Editor at Large for the MIT Press, a publisher of scholarship at the intersection of the arts, sciences, and technology. She works closely with the press’s team of acquiring editors and acquires her own list in the areas of information science and communication. 
                   </p>
                 </div>
               </div>
@@ -92,12 +92,12 @@ const PeopleIndex = ({ location, intl }) => {
                 <span className="inside-title">Equipo:</span>
                 <span>Cita Press es un esfuerzo colaborativo de amor hecho posible por la generosidad de muchas colaboradoras directas e indirectas. Actualmente, Cita está patrocinado fiscalmente por el Instituto Educopia y financiado a través del generoso apoyo de la Fundación Mellon. </span>
               </p>
-              <hr /> 
+              <hr>
               <p>
                 <span className="inside-title">Personal:</span>
                 <span></span></p><div className="flex" > <div className="column"><img src="/img/people/juli.png" alt="Illustration of Juliana Castro" width="150px" height="auto" /></div> <div className="column"><p><b>Juliana Castro Varón</b> es la fundadora de Cita y co-investigadora principal de Getting Fit. Es directora creativa, diseñadora y autora de Papel sensible. Actualmente es Fellow del Berkman Klein Center for Internet &amp; Society de la Universidad de Harvard.</p></div> </div> <div className="flex" > <div className="column"><img src="/img/people/jessi.png" alt="Illustration of Jessi Haley" width="150px" height="auto" /></div> <div className="column"><p><b>Jessi Haley</b> es la coordinadora editorial y de proyectos de Cita. Jessi anteriormente administró el programa de escritura creativa en la Universidad de Chicago y formó parte del equipo editorial de Chicago Review y Colloquium Magazine.</p></div> </div> <p><b>Equipo de consultoría de Getting Fit:</b> Lauren Dapena Fraiz, Katherine Kim, Brandon Locke, Jessica Meyerson</p>
               <p></p> 
-              <hr /> 
+              <hr>
               <p>
                 <span className="inside-title">Junta Asesora:</span>
               </p>
@@ -111,10 +111,10 @@ const PeopleIndex = ({ location, intl }) => {
               </div>
                 <div className="flex" >
                   <div className="column">
-                    <img src="/img/people/vicky.png" alt="Illustration of Vicky Checo" width="150px" height="auto" />
+                    <img src="/img/people/gita.jpg" alt="Illustration of Gita" width="150px" height="auto" />
                   </div>
                   <div className="column">
-                    <p><b>Vicky Checo</b> es Gerente de Participación Comunitaria en The Miami Foundation. Habiendo trabajado en los sectores gubernamental, privado, sin fines de lucro y filantrópico, ve los sistemas desde muchas perspectivas. Apasionada por sus raíces, se dedica a fortalecer las organizaciones mediante el uso de su conocimiento para ayudar a construir su infraestructura, operaciones y programación.</p>
+                    <p><b>Gita Manaktala</b> es la editora ejecutiva general de MIT Press, una editorial de estudios en la intersección de las artes, las ciencias y la tecnología. Trabaja en estrecha colaboración con el equipo de editores de adquisiciones de la prensa y adquiere su propia lista en las áreas de ciencias de la información y comunicación.</p>
                   </div>
                 </div>
                 <div className="flex" >
@@ -123,7 +123,7 @@ const PeopleIndex = ({ location, intl }) => {
               <hr />
               <p>
                 <span className="inside-title">Colaboradores Generales</span>
-                <span></span></p><p><b>Voluntario líder de desarrollo Web:</b> <a href="https://castrovaron.com" target="_blank" rel="noreferrer">Juan José Castro Varón</a></p> <p><b>Otros colaboradores:</b> Nate Angell (Mozilla Open Leaders mentor and friend), Mindy Seu (Former Board Member) Tien Mimi Nguyen (Write Speak Code SF advocate)</p> <p><b>Diseñadoras:</b> Josie Bellini, Antonela Debiasi, Fiorella Ferroni, Thaïs Jacoponi, Irina Koryagina, Annika Leppäaho, Kathy Mueller, Jiwon Park, Laura Ramírez, Natalia Rojas, Laura Savina, Lauren Smedley, Luce Terrasson, Catalina Vásquez, Jean Yang, Petra Zehner</p> <p><b>Escritoras:</b> Ana María Carvajal, Francesca Gargallo, Bonnie Hurd Smith, Christy Hyman, Carol MacKay, Heather Ostman, Krithika Varagur, Gabrielle Welsh</p> <p><b>Otros créditos:</b> Fantasy by Podington Bear, Icons by Creative Mania, Llisole, Mungang Kim, Becris and corpus delicti and Luisa Iborra. Powered by The Noun Project, and licensed under CC, Pre-formated text, Project Gutemberg</p> Interior illustrations for The Yellow Wall-Paper - Jo. H. Hatfield, currently under public domain, Voz en video por Kira Street, Bindery by Evan Brooks. Licensed under MIT License, Short video / gifs - From Giphy! If you consider this could be a more concrete credit, hit ups up! Roboto and Bitter, distributed by Google Fonts. Licensed under OFL, Bluu, distributed by Open Foundry. Licensed under OFL<p></p>
+                <span></span></p><p><b>Voluntario líder de desarrollo Web:</b> <a href="https://castrovaron.com" target="_blank" rel="noreferrer">Juan José Castro Varón</a></p> <p><b>Otros colaboradores:</b> Nate Angell (Mozilla Open Leaders mentor and friend), Mindy Seu (Former Board Member), Tien Mimi Nguyen (Write Speak Code SF advocate)</p> <p><b>Diseñadoras:</b> Josie Bellini, Antonela Debiasi, Fiorella Ferroni, Thaïs Jacoponi, Irina Koryagina, Annika Leppäaho, Kathy Mueller, Jiwon Park, Laura Ramírez, Natalia Rojas, Laura Savina, Lauren Smedley, Luce Terrasson, Catalina Vásquez, Jean Yang, Petra Zehner</p> <p><b>Escritoras:</b> Ana María Carvajal, Francesca Gargallo, Bonnie Hurd Smith, Christy Hyman, Carol MacKay, Heather Ostman, Krithika Varagur, Gabrielle Welsh</p> <p><b>Otros créditos:</b> Fantasy by Podington Bear, Icons by Creative Mania, Llisole, Mungang Kim, Becris and corpus delicti and Luisa Iborra. Powered by The Noun Project, and licensed under CC, Pre-formated text, Project Gutemberg</p> Interior illustrations for The Yellow Wall-Paper - Jo. H. Hatfield, currently under public domain, Voz en video por Kira Street, Bindery by Evan Brooks. Licensed under MIT License, Short video / gifs - From Giphy! If you consider this could be a more concrete credit, hit ups up! Roboto and Bitter, distributed by Google Fonts. Licensed under OFL, Bluu, distributed by Open Foundry. Licensed under OFL<p></p>
               <p></p> 
               <hr />
               <p>Si quieres unirte<b> por favor lee nuestro <a href="https://github.com/citapress/citapress/edit/master/Codigo-de-Conducta.md">código de conducta</a></b></p>
