@@ -2,8 +2,8 @@
 logs
 *.log
 npm-debug.log*
-yarn-debug.log*
 yarn-error.log*
+yarn-debug.log*
 
 # Runtime data
 pids
@@ -67,3 +67,6 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+
+# editor
+.idea/
