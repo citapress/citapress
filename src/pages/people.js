@@ -18,7 +18,7 @@ const PeopleIndex = ({ location, intl }) => {
             <hr />
             <p><span className="inside-title">Open Positions:</span></p>
             <p><b>Literary Translation & Technology Fellow (ENG-SPA or SPA-ENG):</b> Join us to produce a translation of one of Cita’s books (approximately 25,000 to 40,000 words; to be selected in collaboration with Cita staff among Cita’s existing or upcoming catalog) and write a short essay on the state of machine translation for literary pieces. The translator’s name will be on the book’s cover. To apply send a CV and a brief letter explaining your qualifications and interest to info@citapress.org. Remote / Contract. Compensation: $6000 USD. More details <a href="https://docs.google.com/document/d/1E7lYiofhcrBV7hteEZP8PDQdhcVeGDFKV8OapkzBYrk/edit#heading=h.tvvqckim9deo" target="_blank">here</a>.</p>
-            <hr /> 
+            <hr> 
             <p><span className="inside-title">Staff:</span></p>
             <div className="flex">
               <div className="column">
@@ -29,18 +29,19 @@ const PeopleIndex = ({ location, intl }) => {
               </div>
             </div>
             <div className="flex">
-            <div className="column"><img src="/img/people/jessi.png" alt="Illustration of Jessi Haley" width="150px" height="auto" /></div>
-            <div className="column"><p><b>Jessi Haley</b> is Cita’s Editorial Director. Jessi previously managed the creative writing program at the University of Chicago and has served on the editorial staff of <i>Chicago Review</i> and <i>Colloquium Magazine</i>.</p></div>
+            <div className="column">
+              <img src="/img/people/jessi.png" alt="Illustration of Jessi Haley" width="150px" height="auto" /></div>
+              <div className="column"><p><b>Jessi Haley</b> is Cita’s Editorial Director. Jessi previously managed the creative writing program at the University of Chicago and has served on the editorial staff of <i>Chicago Review</i> and <i>Colloquium Magazine</i>.</p></div>
             </div>
             <div className="flex">
-            <div className="column"><img src="/img/people/fabian.jpg" alt="Illustration of Fabian Rios" width="150px" height="auto" /></div>
-            <div className="column"><p><b>Fabián Ríos</b> is Cita’s Web Developer. Fabian brings about 11 years of experience as a developer and media artist. He lives with his wife, children, and dog in  Düsseldorf, Germany. </p></div>
+              <div className="column"><img src="/img/people/fabian.jpg" alt="Illustration of Fabian Rios" width="150px" height="auto" /></div>
+              <div className="column"><p><b>Fabián Ríos</b> is Cita’s Web Developer. Fabian brings about 11 years of experience as a developer and media artist. He lives with his wife, children, and dog in  Düsseldorf, Germany.</p></div>
             </div>
             <p><b><i>Getting Fit</i> consulting team:</b> Lauren Dapena Fraiz, Katherine Kim, Brandon Locke, Jessica Meyerson</p>
               <p></p> 
-              <hr /> 
+              <hr> 
               <p>
-                <span className="inside-title">Advisory Board:</span>
+              <span className="inside-title">Advisory Board:</span>
               </p>
               <div className="flex">
                 <div className="column">
@@ -78,11 +79,6 @@ const PeopleIndex = ({ location, intl }) => {
                   </p>
                 </div>
               </div>
-              <div className="flex">
-                <div className="column">
-                  <img src="/img/people/mindy.png" alt="Illustration of Mindy Seu" width="150px" height="auto" />
-                </div>
-        
                 <p>
                   <span className="inside-title">General Contributors:</span>
                   <span></span></p><p><b>Volunteer Web Development Lead:</b> <a target="_blank" rel="noreferrer" href="https://castrovaron.com">Juan José Castro Varón</a>.</p> <p><b>Designers:</b> Josie Bellini, Antonela Debiasi, Fiorella Ferroni, Thaïs Jacoponi, Irina Koryagina, Annika Leppäaho, Kathy Mueller, Jiwon Park, Laura Ramírez, Natalia Rojas, Laura Savina, Lauren Smedley, Luce Terrasson, Catalina Vásquez, Jean Yang, Petra Zehner</p> <p><b>Writers:</b> Ana María Carvajal, Francesca Gargallo, Catherine J. Golden, Bonnie Hurd Smith, Christy Hyman, Carol MacKay, Heather Ostman, Krithika Varagur, Gabrielle Welsh</p> <p><b>Cypherpunk Women writers &amp; editors:</b> Leigh Cuen, Michael McSweeney, Marisol Bayona Román, Soona Amhaz, Saga Arvidsdotter, Josie Bellini, Kiara Bickers, Audrey Chaing, Emily Faria, Janey Gak, Allie Eve Knox, Jordan Kong, Sarah Jamie Lewis, Mir Liponi, Beth McCarthy, Chrissa McFarlane, Lisa Neigut, Norika Kizawa, Chelsea Palmer, Anita Posch, Samantha Radocchia, Hannah Rosenberg, Kokab “Setareh” Shabanipour, Amber Scott, Alena Vranova, Leah Wald, Karima Williams, Joyce Yang, Linda Xie, @Bitcoinstripper, @GlitchesBrew, @Tina_in_Tech, and many more. </p> <p><b>Other contributors and supporters:</b> Nate Angell (Mozilla Open Leaders mentor and friend), Tien Mimi Nguyen (Write Speak Code SF advocate), Camilo Villegas (Web Dev support)</p> <p><b>Video credits:</b> Fantasy by Podington Bear, Icons by Creative Mania, Llisole, Mungang Kim, Becris and corpus delicti and Luisa Iborra. Powered by The Noun Project, and licensed under CC. Preformatted text - Project Gutenberg. Interior illustrations for The Yellow Wall-Paper - Jo. H. Hatfield, currently under public domain. Spanish translation for The Old Maid - Freeditorial. Video voice - Kira Street. Bindery by Evan Brooks. Licensed under MIT License. Short video / gifs - From Giphy! Roboto and Bitter, distributed by Google Fonts. Licensed under OFL, Bluu, distributed by Open Foundry. Licensed under OFL. If you believe this could be a more concrete credit, hit us up!</p>
