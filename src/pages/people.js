@@ -38,7 +38,7 @@ const PeopleIndex = ({ location, intl }) => {
               <div className="column"><p><b>Fabián Ríos</b> is Cita’s Web Developer. Fabian brings about 11 years of experience as a developer and media artist. He lives with his wife, children, and dog in  Düsseldorf, Germany.</p></div>
             </div>
             <p><b><i>Getting Fit</i> consulting team:</b> Lauren Dapena Fraiz, Katherine Kim, Brandon Locke, Jessica Meyerson</p>
-              <p></p> 
+             
               <hr> 
               <p>
               <span className="inside-title">Advisory Board:</span>
@@ -75,7 +75,7 @@ const PeopleIndex = ({ location, intl }) => {
                   <img src="/img/people/jessica.png" alt="Illustration of Jessica Meyerson" width="150px" height="auto" />
                 </div>
                 <div className="column">
-                  <p><b>Jessica Meyerson</b> is Co-Director for Educopia Institute, where she is chiefly responsible for ensuring smooth implementation of the organization’s strategic direction. She’s also Co-Director of The Maintainers, a global research network interested in the concepts of maintenance infrastructure, repair and the myriad forms of labor and expertise that sustain our human-built world.
+                  <p><b>Jessica Meyerson</b> is Co-Director of Educopia Institute, where she is chiefly responsible for ensuring smooth implementation of the organization’s strategic direction. She’s also Co-Director of The Maintainers, a global research network interested in the concepts of maintenance infrastructure, repair and the myriad forms of labor and expertise that sustain our human-built world.
                   </p>
                 </div>
               </div>
