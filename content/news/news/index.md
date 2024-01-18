@@ -3,6 +3,10 @@ title: News
 lang: en
 templateKey: news-page
 ---
+## 2024
+
+* **January 2024 (Hiring) We're looking for a Literary Translation & Technology Fellow** to translate one of Cita’s texts (ENG-SPA or SPA-ENG) and a short essay on the state of machine translation for literary pieces. The translator’s name will be on the book’s cover. To apply send a CV and a brief letter explaining your qualifications and interest to info@citapress.org. More details [here](https://docs.google.com/document/d/1E7lYiofhcrBV7hteEZP8PDQdhcVeGDFKV8OapkzBYrk/edit?pli=1#heading=h.25zi1kqmlg7w). 
+
 ## 2023
 
 * **December 2023 (Announcement)** Gita Manaktala, Editorial Director of MIT Press, has joined Cita's Advisory Board!
