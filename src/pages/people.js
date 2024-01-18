@@ -138,7 +138,7 @@ const PeopleIndex = ({ location, intl }) => {
             <div className="flex">
               <div className="column">
                 <img
-                  src="/img/people/gita.png"
+                  src="/img/people/gita.jpg"
                   alt="Illustration of Gita Manaktala"
                   width="150px"
                   height="auto"
