@@ -25,7 +25,7 @@ const StudioTemplate = ({
   intl
 }) => {
   const studio = data?.allMarkdownRemark?.nodes[0] || {};
-  
+
   let elements = []; // Use let, not const, because we will modify it
 
   for (let i = 0; i < 3; i++) {
@@ -49,7 +49,7 @@ const StudioTemplate = ({
             {elements}
           </h2>
         </div>
-        <h1 className="studio-header wremena"
+        <h1 className="studio-header"
             dangerouslySetInnerHTML={{
               __html: studio.frontmatter.header,
             }}
@@ -61,7 +61,7 @@ const StudioTemplate = ({
             </div>
           </div>
           <div className="flex-item text-flex-content">
-            <div className="studio-text inter"
+            <div className="studio-text dmsans"
              dangerouslySetInnerHTML={{
                 __html: studio.html,
               }}>
