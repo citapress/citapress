@@ -39,7 +39,7 @@ const PeopleIndex = ({ location, intl }) => {
               <a
                 href="https://docs.google.com/document/d/1E7lYiofhcrBV7hteEZP8PDQdhcVeGDFKV8OapkzBYrk/edit#heading=h.tvvqckim9deo"
                 target="_blank"
-                rel="noopener"
+                rel="noreferrer"
               >
                 here
               </a>

@@ -28,7 +28,7 @@ ul {
   list-style-type: none;
   padding: 0;
   margin: 0;
-}
+} 
 
 hr {
   background-color: $blue;
@@ -85,8 +85,9 @@ footer {
 }
 
 .marquee-content {
-  font-weight: 300;
-  font-size: 35px;
+  font-family: 'Wremena';
+  font-weight: 200;
+  font-size: 40px;
   text-rendering: geometricprecision;
   will-change: transform;
 }
@@ -178,7 +179,7 @@ footer {
       }
     }
     a.studio-link {
-      font-family: 'Bagnard';
+      font-family: 'Wremena';
       font-size: 30px;
       font-weight: 200;
       text-rendering: geometricprecision;
@@ -308,7 +309,7 @@ footer {
       writing-mode: vertical-rl;
       text-orientation: mixed;
       transform: rotate(-180deg);
-      font-family: 'Bagnard';
+      font-family: 'Wremena';
       font-weight: 200;
       font-size: 40px;
       text-rendering: geometricprecision;
@@ -344,7 +345,7 @@ footer {
       }
       ul {
         font-weight: 400;
-        font-size: 1.1rem;
+        font-size: 1rem;
         line-height: 30px;
       }
     }
@@ -408,7 +409,6 @@ footer {
     padding: 100px 0;
     max-width: 1020px;
     min-height: 0;
-    font-family: "DM Sans", sans-serif;
     .internal-wrapper {
       padding: 0;
     }
@@ -471,12 +471,8 @@ footer {
   font-family: 'EB Garamond', serif;
 }
 
-.bagnard {
-  font-family: 'Bagnard', serif;
-}
-
-.dmsans {
-  font-family: 'DM Sans', sans-serif;
+.wremena {
+  font-family: 'Wremena', serif;
 }
 
 .large-text {
@@ -508,12 +504,11 @@ footer {
   font-size: 3rem;
   line-height: 3rem;
   font-style: normal;
-  font-family: 'Bagnard', serif;
+  font-weight: normal;
   text-rendering: geometricprecision;
   padding: 5px 20px 30px 20px;
-  font-weight: normal;
+  font-weight: 200;
   @media screen and (min-width: 768px) {
-    font-family: 'Bagnard' !important;
     margin: 9vh 0;
     font-size: 5rem;
     line-height: 5rem;
@@ -553,8 +548,8 @@ footer {
     color: #000;
     margin: 0;
     width: 100%;
-    -moz-appearance: none;
-    -webkit-appearance: none;
+    -moz-appearance: none; 
+    -webkit-appearance: none; 
     appearance: none;
     padding-left: 10px;
   }
@@ -588,7 +583,7 @@ footer {
   gap: 60px;
   @media screen and (min-width: 768px) {
     flex-wrap: nowrap;
-  }
+  } 
   .portrait {
     width: 100%;
     margin: 0 auto;

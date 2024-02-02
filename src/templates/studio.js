@@ -49,7 +49,7 @@ const StudioTemplate = ({
             {elements}
           </h2>
         </div>
-        <h1 className="studio-header"
+        <h1 className="studio-header wremena"
             dangerouslySetInnerHTML={{
               __html: studio.frontmatter.header,
             }}
