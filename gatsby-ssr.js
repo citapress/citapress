@@ -21,6 +21,34 @@ export const onRenderBody = ({ setHeadComponents, setHtmlAttributes }) => {
       href="/fonts/bluunext-bolditalic-webfont.woff2"
       as="font"
       crossOrigin="anonymous"
+    />,
+    <link
+      key="wremena-regular"
+      rel="preload"
+      href="/fonts/WremenaRegular.woff"
+      as="font"
+      crossOrigin="anonymous"
+    />,
+    <link
+      key="wremena-light"
+      rel="preload"
+      href="/fonts/WremenaLight.woff"
+      as="font"
+      crossOrigin="anonymous"
+    />,
+    <link
+      key="wremena-bold"
+      rel="preload"
+      href="/fonts/WremenaBold.otf"
+      as="font"
+      crossOrigin="anonymous"
+    />,
+    <link
+      key="bagnard-regular"
+      rel="preload"
+      href="/fonts/Bagnard.otf"
+      as="font"
+      crossOrigin="anonymous"
     />
   ]);
 }

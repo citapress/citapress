@@ -28,7 +28,7 @@
   font-style: normal;
 }
 
-/* @font-face {
+ @font-face {
   font-family: 'Wremena';
   src: url('/fonts/WremenaRegular.woff') format('woff'),
        url('/fonts/WremenaRegular.otf') format('otf');
@@ -49,4 +49,4 @@
   src: url('/fonts/WremenaBold.otf') format('otf');
   font-weight: bold;
   font-style: normal;
-} */
+}
