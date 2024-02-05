@@ -16,8 +16,10 @@ services:
   - Print coordination
   - Project management
 image1: /cita.jpg
-image2: maintainers.jpg
+image2: maintainers2.jpg
 image3: rcc.jpg
+image4: gif.jpg
+image5: reeve.jpg
 ---
 
 We work with illustrators, designers, writers, and editors from around the world, assembling talented teams tailored to each project. Our projects directly support the work of open access feminist publisher **Cita Press.**
