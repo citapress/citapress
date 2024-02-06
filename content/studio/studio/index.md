@@ -15,8 +15,8 @@ services:
   - Copyediting
   - Print coordination
   - Project management
-image0: public-domain2.jpg
-image1: "rcc.jpg "
+image0: rcc.jpg
+image1: public-domain2.jpg
 image2: maintainers2.jpg
 image3: cita-book-covers-sample2.jpg
 image4: gif.jpg
