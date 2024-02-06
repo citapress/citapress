@@ -18,7 +18,7 @@ services:
 image0: public-domain2.jpg
 image1: "rcc.jpg "
 image2: maintainers2.jpg
-image3: cita-book-covers-sample.jpg
+image3: cita-book-covers-sample2.jpg
 image4: gif.jpg
 image5: reeve.jpg
 image6: cita.jpg

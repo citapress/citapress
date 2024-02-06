@@ -10,7 +10,7 @@ function ImageCarousel({ images }) {
   useEffect(() => {
     const timer = setInterval(() => {
       setCurrentImageIndex((prevIndex) => (prevIndex + 1) % images.length);
-    }, 3000);
+    }, 1500);
 
     return () => clearInterval(timer); // Clean up on unmount
   }, [images]);
@@ -33,11 +33,10 @@ const StudioTemplate = ({
   }
 
   let images = [];
-
-  for (let i = 1; i <= 9; i++) {
+  for (let i = 1; i <= 3; i++) {
     let image = studio.frontmatter[`image${i}`];
-    if (image !== undefined) {
-      images.push(image);
+    if (image !== undefined && image !== '') {
+      images.push(image.replace(" ", ""));
     }
   }
 

@@ -19,7 +19,7 @@ image0: public-domain2.jpg
 image1: cita.jpg
 image2: maintainers2.jpg
 image3: reeve.jpg
-image4: cita-book-covers-sample.jpg
+image4: cita-book-covers-sample2.jpg
 image5: gif.jpg
 ---
 
