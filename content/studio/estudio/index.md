@@ -15,8 +15,8 @@ services:
   - Edición de texto
   - Coordinación de impresión
   - Gestión de proyectos
-image0: public-domain2.jpg
-image1: cita.jpg
+image0: cita.jpg
+image1: public-domain2.jpg
 image2: maintainers2.jpg
 image3: reeve.jpg
 image4: cita-book-covers-sample2.jpg
