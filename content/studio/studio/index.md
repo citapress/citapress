@@ -22,7 +22,6 @@ image3: cita-book-covers-sample2.jpg
 image4: gif.jpg
 image5: reeve.jpg
 image6: cita.jpg
-image7: ""
 ---
 
 We work with illustrators, designers, writers, and editors from around the world, assembling talented teams tailored to each project. Our projects directly support the work of open access feminist publisher **Cita Press.**

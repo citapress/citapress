@@ -186,6 +186,8 @@ footer {
       background: $blue;
       color: white;
       padding: 10px 30px;
+      margin-top: 15px;
+      display: block;
       span {
         font-family: 'Bluu', serif;
       }
@@ -193,6 +195,8 @@ footer {
         background: none;
         color: black;
         padding: 10px 0;
+        margin-top: 0;
+        display: inline;
         @media screen and (min-width: 768px) {
           margin-left: 30px;
           padding: 10px 30px;
@@ -509,10 +513,16 @@ footer {
   padding: 5px 20px 30px 20px;
   font-weight: 200;
   @media screen and (min-width: 768px) {
-    margin: 9vh 0;
+    margin: 4vh 0;
     font-size: 5rem;
     line-height: 5rem;
     padding: 0;
+  }
+  @media screen and (min-width: 1200px) {
+    margin: 6vh 0;
+  }
+  @media screen and (min-width: 1500px) {
+    margin: 9vh 0;
   }
 }
 
