@@ -25,16 +25,15 @@ const StudioTemplate = ({
   intl
 }) => {
   const studio = data?.allMarkdownRemark?.nodes[0] || {};
-
   let elements = []; // Use let, not const, because we will modify it
 
   for (let i = 0; i < 3; i++) {
     elements.push(<span key={i}>{studio.frontmatter.email}</span>);
   }
 
-  let images = [];
-  for (let i = 1; i <= 3; i++) {
-    let image = studio.frontmatter[`image${i}`];
+  const images = [];
+  for (let i = 0; i <= 7; i++) {
+    const image = studio.frontmatter[`image${i}`];
     if (image !== undefined && image !== '') {
       images.push(image.replace(" ", ""));
     }
@@ -112,6 +111,9 @@ export const pageQuery = graphql`
           image1
           image2
           image3
+          image4
+          image5
+          image6
           email
           services
           lang

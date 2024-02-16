@@ -8,12 +8,11 @@ import Marquee from "react-fast-marquee";
 const Layout = ({ location, children, intl, where }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
-  console.log(location.pathname)
   const arrayofsplitlocation = location.pathname.split('/').filter(Boolean);
   let pathnamestriped = arrayofsplitlocation[arrayofsplitlocation.length - 1] || '';
   pathnamestriped = pathnamestriped === 'estudio' ? 'studio' : pathnamestriped;
   const [clicked, setClicked] = useState(true)
-  
+
   let header = (
     <div className={clicked ? "flex main-heading" : "flex main-heading open"}>
       <h1 className="cita-heading">
