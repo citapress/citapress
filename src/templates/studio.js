@@ -34,7 +34,7 @@ const StudioTemplate = ({
   const images = [];
   for (let i = 0; i <= 7; i++) {
     const image = studio.frontmatter[`image${i}`];
-    if (image !== undefined && image !== '') {
+    if (image && image !== '') {
       images.push(image.replace(" ", ""));
     }
   }
@@ -108,6 +108,7 @@ export const pageQuery = graphql`
         frontmatter {
           title
           header
+          image0
           image1
           image2
           image3
