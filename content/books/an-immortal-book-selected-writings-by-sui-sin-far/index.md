@@ -10,9 +10,9 @@ author: Sui Sin Far (Edith Maude Eaton)
 isbn: 978-1-961368-01-9
 post_image: cover-sui-sin-far-immortal-book-low.jpg
 square_image: thumbnail-sui-sin-far2.jpg
-download: An-Immortal-Book-Sui-Sin-Far-low.pdf
+download: The divine right of learning - Cita Press Reading Companion.pdf
 download_ebook: An Immortal Book_Sui Sin Far_Cita Press.epub
-download_name: Download PDF
+download_name: '"The Divine Right of Learning" Reading Companion'
 language_link: ""
 genre:
   - short-stories
@@ -36,6 +36,9 @@ description: >-
 
 
   <p>"Cita Press’ <i>An Immortal Book: Selected Writings by Sui Sin Far</i> brings together autobiographical essays and short stories from different periods in Eaton’s career, showcasing her range as a storyteller, thinker, and stylist. Revered for her contributions to Asian American and Asian Canadian literature, Sui Sin Far is also a key figure in early women’s journalism, literature, and feminism. A master at developing characters and rendering place, she grappled with themes of identity, race, class, gender, sexuality, and politics in ways that still resonate today."<p>
+
+
+  Download our reading companion, "The Divine Right of Learning," for more background on Sui Sin Far, the history behind the stories, and reflections from writing and scholars working to recover Sui Sin Far's legacy. 
 foreword: >-
   <p>Foreword: Victoria Namkung is a novelist, journalist, and speaker based in
   Los Angeles, CA.</p>
