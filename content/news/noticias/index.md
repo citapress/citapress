@@ -5,7 +5,7 @@ templateKey: news-page
 ---
 **2024**
 
-* **Enero de 2024 (Trabajo)** Buscamos un Becario/a de tecnología y traducción literaria para traducir uno de los textos de Cita (ENG-SPA o SPA-ENG) y un breve ensayo sobre el estado de la traducción automática de obras literarias. El nombre del traductor/a estará en la portada del libro. Para postularse envía un CV y una breve carta explicando tus calificaciones e interés a info@citapress.org. Más detalles [aquí](https://docs.google.com/document/d/1E7lYiofhcrBV7hteEZP8PDQdhcVeGDFKV8OapkzBYrk/edit).
+* **Enero de 2024 (Trabajo)** Buscamos un Becario/a de tecnología y traducción literaria para traducir uno de los textos de Cita (ENG-SPA o SPA-ENG) y un breve ensayo sobre el estado de la traducción automática de obras literarias. 
 
 **2023**
 
