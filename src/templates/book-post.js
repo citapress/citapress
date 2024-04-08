@@ -36,6 +36,11 @@ const BookPostTemplate = ({
   post.frontmatter.download :
   `/downloads/${post.frontmatter.download}` :
   null
+  const download_other = post.frontmatter.third_download ? 
+  post.frontmatter.third_download.startsWith('http') ?
+  post.frontmatter.third_download :
+  `/downloads/${post.frontmatter.third_download}` :
+  null
 
   return (
     <Layout location={location} title={siteTitle} where={where}>
@@ -84,6 +89,9 @@ const BookPostTemplate = ({
               }
               { post.frontmatter.download &&
                 <a data-cy="download_button" href={download} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>{intl.formatMessage({id: post.frontmatter.download_name ? post.frontmatter.download_name : 'Download Guide'})}</a>
+              }
+              { post.frontmatter.third_download &&
+                <a data-cy="download_button" href={download_other} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>{intl.formatMessage({id: post.frontmatter.third_download_name ? post.frontmatter.third_download_name : 'Download Epub'})}</a>
               }
             </div>
           </div>{/* /info */}
@@ -135,6 +143,8 @@ export const pageQuery = graphql`
         language_link
         download_name
         download_ebook
+        third_download
+        third_download_name
         date(formatString: "MMMM DD, YYYY")
         release(formatString: "MMMM DD, YYYY")
         releaseformat

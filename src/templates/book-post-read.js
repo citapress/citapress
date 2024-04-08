@@ -76,6 +76,11 @@ const BookPostReadTemplate = ({
   post.frontmatter.download :
   `/downloads/${post.frontmatter.download}` :
   null
+  const download_other = post.frontmatter.third_download ? 
+  post.frontmatter.third_download.startsWith('http') ?
+  post.frontmatter.third_download :
+  `/downloads/${post.frontmatter.third_download}` :
+  null
 
 
   useEffect(() => {
@@ -149,6 +154,9 @@ const BookPostReadTemplate = ({
                 }
                 { post.frontmatter.download &&
                   <a href={download} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>{intl.formatMessage({id: post.frontmatter.download_name ? post.frontmatter.download_name : 'Download Guide'})}</a>
+                }
+                { post.frontmatter.third_download &&
+                  <a href={download_other} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>{intl.formatMessage({id: post.frontmatter.third_download_name ? post.frontmatter.third_download_name : 'Download Epub'})}</a>
                 }
               </div>
             </div>
@@ -255,6 +263,8 @@ export const pageQuery = graphql`
         download
         download_name
         download_ebook
+        third_download
+        third_download_name
         genre
         theme
         time_period

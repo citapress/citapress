@@ -31,6 +31,8 @@ collections:
       - { label: 'Download link', name: 'download', widget: 'string', required: false }
       - { label: 'Download button link', name: 'download_ebook', widget: 'string', required: false }
       - { label: 'Download button name', name: 'download_name', widget: 'string', required: false }
+      - { label: 'third download name', name: 'third_download_name', widget: 'string', required: false }
+      - { label: 'third button', name: 'third_download', widget: 'string', required: false }
       - { label: 'Other language link', name: 'language_link', widget: 'string', required: false, hint: "this is the URL of the article in other language" }
       - { label: 'Genre', name: 'genre', widget: 'select', options: ["fiction", "short-stories", "novella", "poetry", "nonfiction", "essay", "manifesto", "autobiography"], multiple: true }
       - { label: 'Time period', name: 'time_period', widget: 'select', options: ['19th', '20th', 'victorian', 'early-modern', 'modernist', 'contemporary'], multiple: true }

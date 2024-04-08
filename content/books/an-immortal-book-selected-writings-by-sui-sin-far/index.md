@@ -12,6 +12,8 @@ post_image: cover-sui-sin-far-immortal-book-low.jpg
 square_image: thumbnail-sui-sin-far2.jpg
 download: The divine right of learning - Cita Press Reading Companion.pdf
 download_ebook: An Immortal Book_Sui Sin Far_Cita Press.epub
+third_download_name: Download Epub
+third_download: An Immortal Book_Sui Sin Far_Cita Press.epub
 download_name: Reading Guide
 language_link: ""
 genre:

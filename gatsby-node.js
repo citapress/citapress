@@ -318,6 +318,8 @@ exports.createSchemaCustomization = ({ actions }) => {
       templateKey: String
       published: Boolean
       download_name: String
+      third_download: String
+      third_download_name: String
       releaseformat: String
       publishformat: String
       date: Date @dateformat
