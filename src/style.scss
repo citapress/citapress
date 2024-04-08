@@ -191,6 +191,9 @@ footer {
       span {
         font-family: 'Bluu', serif;
       }
+      &:hover {
+        background: #000;
+      }
       &.studio {
         background: none;
         color: black;
