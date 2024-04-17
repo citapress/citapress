@@ -11,7 +11,7 @@ author: Svetlana Alexievich, Nadine Gordimer, Doris Lessing, Toni Morrison,
 isbn: 978-1-961368-11-8
 post_image: cover-nobel-lectures-update.png
 square_image: thumbnail-nobel-lectures-update.jpg
-download: cita-press-voices-around-me-zines.pdf
+download: Cita-Press-Voices-Around-Me-smalls-zines.pdf
 download_name: Zines - Print & Fold
 genre:
   - nonfiction
