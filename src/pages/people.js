@@ -26,18 +26,11 @@ const PeopleIndex = ({ location, intl }) => {
             </p>
             <p>
               <b>
-                Literary Translation & Technology Fellow (ENG-SPA or SPA-ENG):
+                STAFF DESIGNER (Coming Soon)
               </b>{" "}
-              Join us to produce a translation of one of Cita’s books
-              (approximately 25,000 to 40,000 words; to be selected in
-              collaboration with Cita staff among Cita’s existing or upcoming
-              catalog) and write a short essay on the state of machine
-              translation for literary pieces. The translator’s name will be on
-              the book’s cover. To apply send a CV and a brief letter explaining
-              your qualifications and interest to info@citapress.org. Remote /
-              Contract. Compensation: $6000 USD. More details{" "}
+              The Staff Designer will create and maintain visuals for Cita’s catalog, social media, and promotional materials. They will also create and maintain design templates for Cita contributors and partners, including Cita Studio projects. They will be an integral part of a small, flexible team focused on publishing and celebrating feminist books, design and educational content, and will play an important role in projects related to the organization’s long-term sustainability and growth.  More details coming soon{" "}
               <a
-                href="https://docs.google.com/document/d/1E7lYiofhcrBV7hteEZP8PDQdhcVeGDFKV8OapkzBYrk/edit#heading=h.tvvqckim9deo"
+                href="#"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -100,6 +93,21 @@ const PeopleIndex = ({ location, intl }) => {
                   about 11 years of experience as a developer and media artist.
                   He lives with his wife, children, and dog in Düsseldorf,
                   Germany.
+                </p>
+              </div>
+            </div>
+             <div className="flex">
+              <div className="column">
+                <img
+                  src="/img/people/daniel.png"
+                  alt="Illustration of Daniel Saldana Paris"
+                  width="150px"
+                  height="auto"
+                />
+              </div>
+              <div className="column">
+                <p>
+                  <b>Daniel Saldaña París</b> is Cita's Literary Translation & Technology Fellow. A writer and translator born in Mexico City, author of three novels and a collection of personal essays. He was a 2022-2023 Cullman Center Fellow at the New York Public Library.
                 </p>
               </div>
             </div>
