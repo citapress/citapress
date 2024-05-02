@@ -26,9 +26,9 @@ const PeopleIndex = ({ location, intl }) => {
             </p>
             <p>
               <b>
-                STAFF DESIGNER (Full-time, Remote, Open globally)
+                DESIGNER (Full-time, Remote, Open globally, $60.000/year)
               </b>{" "}
-              The Staff Designer will create and maintain visuals for Cita’s catalog, social media, and promotional materials. They will also create and maintain design templates for Cita contributors and partners, including Cita Studio projects. They will be an integral part of a small, flexible team focused on publishing and celebrating feminist books, design and educational content, and will play an important role in projects related to the organization’s long-term sustainability and growth.  More details {" "}
+              The Designer will create and maintain visuals for Cita’s catalog, social media, and promotional materials. They will also create and maintain design templates for Cita contributors and partners, including Cita Studio projects. They will be an integral part of a small, flexible team focused on publishing and celebrating feminist books, design and educational content, and will play an important role in projects related to the organization’s long-term sustainability and growth.  More details {" "}
               <a
                 href="https://www.notion.so/We-Are-Hiring-f378cebbfdcf448fa77a639259b228e0"
                 target="_blank"
