@@ -106,7 +106,7 @@ const BlogIndex = ({ data, location, intl }) => {
             subscribe to our newsletter
           </a>
           , or{" "}
-          <a href="pages/books.html" data-title="Books">
+          <a href="https://citapress.org/books/" data-title="Books">
             just start reading
           </a>
         </h1>
