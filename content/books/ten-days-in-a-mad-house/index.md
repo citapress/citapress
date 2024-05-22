@@ -40,16 +40,6 @@ foreword: >-
   <p><b>Cover & Illustrations: </b> Dajia Zhou is an illustrator, storyteller, and daydreamer currently based in Boston, MA.
 published: false
 ---
-<h1>TEN DAYS IN A MAD-HOUSE</h1>
-
-<h2><p>OR,</p>
- 
-<p>Nellie Bly’s Experience on Blackwell’s Island.</p>
- 
-<p>FEIGNING INSANITY IN ORDER TO REVEAL ASYLUM HORRORS.</p>
-
-
-<p>THE TRYING ORDEAL OF THE NEW YORK WORLD’S GIRL CORRESPONDENT.</p></h2>
 
 <div id="toc_container">
 <p class="toc_title">Contents</p>
@@ -116,8 +106,25 @@ published: false
           <li><a href="#chapter17">
             <span class="title">CHAPTER XVII: THE GRAND JURY INVESTIGATION.</span>
           </a></li>
+<li><a href="#chapter18">
+            <span class="title">BIBLIOGRAPHY.</span>
+          </a></li>
+
+
           
-    </ul></div>
+
+
+<h1>TEN DAYS IN A MAD-HOUSE</h1>
+
+<h2><p>OR,</p>
+ 
+<p>Nellie Bly’s Experience on Blackwell’s Island.</p>
+ 
+<p>FEIGNING INSANITY IN ORDER TO REVEAL ASYLUM HORRORS.</p>
+
+
+<p>THE TRYING ORDEAL OF THE NEW YORK WORLD’S GIRL CORRESPONDENT.</p></h2>
+
 
     <h3 id="foreword">FOREDWORD.<br> <span class="large">by Mikita Brottman</span></h3>
 <p>In 1887, on assignment for Joseph Pulitzer’s <i>New York World </i>newspaper, journalist Nellie Bly disguised herself as a “crazy person” in order to get admitted to the Women’s Lunatic Asylum on Blackwell’s Island. Considered from today's perspective, this could be seen as a pioneering feat of investigative journalism, although her methods were certainly personal and idiosyncratic. At the time, it was seen as a “stunt” and trumpeted sensationally in brazen headlines (“Feigning Insanity in Order To Reveal Asylum Horrors.”)</p>
@@ -3250,11 +3257,12 @@ of the insane.</p>
 <div class="nf-center c002">
 <div>[THE END.]</div>
 
-<p> Explore a facsimile of this text's first edition (featuring sketches by Bly not included here) via the Internet Archive:</p>
+<h3 id="chapter18">BIBLIOGRAPHY & FURTHER READING</h3></p>
+
+
+<p><i> Explore a facsimile of this text's first edition (featuring sketches by Bly not included here) via the Internet Archive:</i></p>
 
 <p>Bly, Nellie. <i>Ten days in a mad-house; or, Nellie Bly's experience on Blackwell's island. Feigning insanity in order to reveal asylum horrors.</i> New York: Norman L. Munro, 1887. https://archive.org/details/3304680.med.yale.edu/mode/2up</p>
-
-<p><h3>BIBLIOGRAPHY & FURTHER READING</h3></p>
 
 
 <p><i>
