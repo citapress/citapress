@@ -38,7 +38,7 @@ foreword: >-
 
 
   <p><b>Cover & Illustrations: </b> Dajia Zhou is an illustrator, storyteller, and daydreamer currently based in Boston, MA.
-published: false
+published: true
 ---
 <div id="toc_container">
 
@@ -217,7 +217,8 @@ two competent physicians, or I could go to my goal by
 way of the police courts.</p>
 
 <img src="static/img/Spot-Illustrations-1.png" alt="Nellie Bly sits at a chair in front of a vanity holding her face between her hands with her mouth and eyes wide. Caption reads “Nellie Practices Insanity at Home.”">
-</div>
+![Spot-Illustrations-1](Spot-Illustrations-1.jpg "Nellie Bly sits at a chair in front of a vanity holding her face between her hands with her mouth and eyes wide Caption reads Nellie Practices Insanity at Homer")
+
 </div>
 <p class="c010">On reflection I thought it wiser not to inflict myself
 upon my friends or to get any good-natured doctors to
