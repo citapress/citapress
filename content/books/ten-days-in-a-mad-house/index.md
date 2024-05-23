@@ -42,7 +42,7 @@ published: true
 ---
 
 <div id="toc_container">
-<p class="toc_title">Contents</p>
+
 <ul class="toc_list"><li>
     <a href="#foreword">
             <span class="title">FOREWORD by Mikita Brottman</span>
@@ -111,19 +111,7 @@ published: true
           </a></li>
 
 
-          
-
-
-<h1>TEN DAYS IN A MAD-HOUSE</h1>
-
-<h2><p>OR,</p>
- 
-<p>Nellie Bly’s Experience on Blackwell’s Island.</p>
- 
-<p>FEIGNING INSANITY IN ORDER TO REVEAL ASYLUM HORRORS.</p>
-
-
-<p>THE TRYING ORDEAL OF THE NEW YORK WORLD’S GIRL CORRESPONDENT.</p></h2>
+      
 
 
     <h3 id="foreword">FOREWORD by Mikita Brottman</h3>
