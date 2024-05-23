@@ -38,7 +38,7 @@ foreword: >-
 
 
   <p><b>Cover & Illustrations: </b> Dajia Zhou is an illustrator, storyteller, and daydreamer currently based in Boston, MA.
-published: false
+published: true
 ---
 
 <div id="toc_container">
@@ -3248,13 +3248,13 @@ of the insane.</p>
 <h3 id="chapter18">BIBLIOGRAPHY & FURTHER READING</h3></p>
 
 
-<p><i> Explore a facsimile of this text's first edition (featuring sketches by Bly not included here) via the Internet Archive:</i></p>
+<p><i><b> Explore a facsimile of this text's first edition (featuring sketches by Bly not included here) via the Internet Archive:</i></b></p>
 
 <p>Bly, Nellie. <i>Ten days in a mad-house; or, Nellie Bly's experience on Blackwell's island. Feigning insanity in order to reveal asylum horrors.</i> New York: Norman L. Munro, 1887. https://archive.org/details/3304680.med.yale.edu/mode/2up</p>
 
 
-<p><i>
-The following resources informed our research and framing for this volume, and will be of interest to people wanting to learn more about the history and context of Bly's work and this edition. Find more on our Are.na channel for this book: https://www.are.na/cita-press/ten-days-in-a-mad-house </i></p>
+<p><i><b>
+The following resources informed our research and framing for this volume, and will be of interest to people wanting to learn more about the history and context of Bly's work and this edition. Find more on our Are.na channel for this book: https://www.are.na/cita-press/ten-days-in-a-mad-house </i></b></p>
 
 <p>Bly, Nellie. <i> Around the World in Seventy-Two Days and Other Writings,</i> Edited by Jean Marie Lutes. New York: Penguin Books, 2014.</p>
 <p>Brottman, Mikita. "Crisis Care." <i>Full Bleed,</i>Issue 02, Summer 2018. https://www.full-bleed.org/crisis-care</p>
