@@ -107,7 +107,7 @@ published: false
             <span class="title">CHAPTER XVII: THE GRAND JURY INVESTIGATION.</span>
           </a></li>
 <li><a href="#chapter18">
-            <span class="title">BIBLIOGRAPHY.</span>
+            <span class="title">BIBLIOGRAPHY & FURTHER READING.</span>
           </a></li>
 
 
@@ -126,7 +126,7 @@ published: false
 <p>THE TRYING ORDEAL OF THE NEW YORK WORLD’S GIRL CORRESPONDENT.</p></h2>
 
 
-    <h3 id="foreword">FOREDWORD.<br> <span class="large">by Mikita Brottman</span></h3>
+    <h3 id="foreword">FOREWORD <span class="large">by Mikita Brottman</span></h3>
 <p>In 1887, on assignment for Joseph Pulitzer’s <i>New York World </i>newspaper, journalist Nellie Bly disguised herself as a “crazy person” in order to get admitted to the Women’s Lunatic Asylum on Blackwell’s Island. Considered from today's perspective, this could be seen as a pioneering feat of investigative journalism, although her methods were certainly personal and idiosyncratic. At the time, it was seen as a “stunt” and trumpeted sensationally in brazen headlines (“Feigning Insanity in Order To Reveal Asylum Horrors.”)</p>
 
 <p>Nellie Bly, born Elizabeth Jane Cochran in 1864, began life in relative privilege, but after the death of her father when she was six the family struggled financially. Her mother’s remarriage ended in divorce when her husband became abusive, and Nellie was forced to drop out of a teacher training program to help her mother run a boarding house. Despite this inauspicious beginning, Bly became the best-known female journalist of her day, well-known for her daring undercover reportage (including, in addition to her time on Blackwell’s Island, stints in women’s jails and sweatshops). But the <i>World</i> was a sensationalist newspaper; although she was in her twenties, Nellie was described as “The New York World’s Girl Correspondent.” Rather than being presented as serious, wide-reaching exposes, her investigations were minimized as bold, showy stunts. “Fame does not increase the peculiar respect which men pay to female excellence,” wrote Nathanial Hawthorne in an 1830 diatribe against “ink-stained Amazons” like Bly. He believed there was “a sort of impropriety in the display of woman’s natal mind to the gaze of the world, with indications by which its inmost secrets may be searched out.”</p>
@@ -229,7 +229,7 @@ friends, and get myself committed on the decision of
 two competent physicians, or I could go to my goal by
 way of the police courts.</p>
 
-<img src="static/img/Spot-Illustrations-1.png" alt="Nellie Bly sits at a chair in front of a vanity holding her face between her hands with her mouth and eyes wide. Caption reads “Nellie Practices Insanity at Home.”">
+<img src= "static/img/Spot-Illustrations-1.png" alt="Nellie Bly sits at a chair in front of a vanity holding her face between her hands with her mouth and eyes wide. Caption reads “Nellie Practices Insanity at Home.”">
 </div>
 </div>
 <p class="c010">On reflection I thought it wiser not to inflict myself
