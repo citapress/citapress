@@ -215,7 +215,7 @@ courses. Either I could feign insanity at the house of
 friends, and get myself committed on the decision of
 two competent physicians, or I could go to my goal by
 way of the police courts.</p>
-![Nellie Practices Insanity at Home](Spot-Illustrations-1.jpg "Nellie Practices Insanity at Home")
+<img src="content/books/ten-days-in-a-mad-house/Spot-Illustrations-1.jpg" alt=Nellie Practices Insanity at Home">
 <p class="c010">On reflection I thought it wiser not to inflict myself
 upon my friends or to get any good-natured doctors to
 assist me in my purpose. Besides, to get to Blackwell’s
