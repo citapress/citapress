@@ -108,7 +108,7 @@ published: false
           </a></li>
 <li><a href="#chapter18">
             <span class="title">BIBLIOGRAPHY & FURTHER READING.</span>
-          </a></li>
+          </a></li></div>
 
 
       
