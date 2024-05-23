@@ -3241,8 +3241,8 @@ of the insane.</p>
 <div class="nf-center-c0">
 <div class="nf-center c002">
 
-
-<p><div>*\[THE END.]*</div></p>
+#### 
+*\[THE END.]*
 
 <h3 id="chapter18">BIBLIOGRAPHY & FURTHER READING</h3></p>
 
