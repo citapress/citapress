@@ -40,7 +40,6 @@ foreword: >-
   <p><b>Cover & Illustrations: </b> Dajia Zhou is an illustrator, storyteller, and daydreamer currently based in Boston, MA.
 published: true
 ---
-
 <div id="toc_container">
 
 <ul class="toc_list"><li>
@@ -108,13 +107,10 @@ published: true
           </a></li>
 <li><a href="#chapter18">
             <span class="title">BIBLIOGRAPHY & FURTHER READING.</span>
-          </a></li></div>
+          </a></li></ul></div>
 
+### FOREWORD by Mikita Brottman
 
-      
-
-
-    <h3 id="foreword">FOREWORD by Mikita Brottman</h3>
 <p>In 1887, on assignment for Joseph Pulitzer’s <i>New York World </i>newspaper, journalist Nellie Bly disguised herself as a “crazy person” in order to get admitted to the Women’s Lunatic Asylum on Blackwell’s Island. Considered from today's perspective, this could be seen as a pioneering feat of investigative journalism, although her methods were certainly personal and idiosyncratic. At the time, it was seen as a “stunt” and trumpeted sensationally in brazen headlines (“Feigning Insanity in Order To Reveal Asylum Horrors.”)</p>
 
 <p>Nellie Bly, born Elizabeth Jane Cochran in 1864, began life in relative privilege, but after the death of her father when she was six the family struggled financially. Her mother’s remarriage ended in divorce when her husband became abusive, and Nellie was forced to drop out of a teacher training program to help her mother run a boarding house. Despite this inauspicious beginning, Bly became the best-known female journalist of her day, well-known for her daring undercover reportage (including, in addition to her time on Blackwell’s Island, stints in women’s jails and sweatshops). But the <i>World</i> was a sensationalist newspaper; although she was in her twenties, Nellie was described as “The New York World’s Girl Correspondent.” Rather than being presented as serious, wide-reaching exposes, her investigations were minimized as bold, showy stunts. “Fame does not increase the peculiar respect which men pay to female excellence,” wrote Nathanial Hawthorne in an 1830 diatribe against “ink-stained Amazons” like Bly. He believed there was “a sort of impropriety in the display of woman’s natal mind to the gaze of the world, with indications by which its inmost secrets may be searched out.”</p>
@@ -145,7 +141,6 @@ published: true
 
 <h3 id="chapter1">CHAPTER I.<br> <span class="large">A DELICATE MISSION.</span></h3>
 
-
 On the 22d of September I was asked
 by the <cite>World</cite> if I could have myself
 committed to one of the asylums for
@@ -166,6 +161,7 @@ thought I could assume insanity long enough to accomplish
 any mission intrusted to me. Could I pass a week
 in the insane ward at Blackwell’s Island? I said I could
 and I would. And I did.</p>
+
 <p class="c010">My instructions were simply to go on with my work as
 soon as I felt that I was ready. I was to chronicle faithfully
 the experiences I underwent, and when once within
@@ -1628,6 +1624,7 @@ the signboard at the end of the walk: “Visitors are not
 allowed on this road.” I don’t think the sign would be
 necessary if they once tried the road, especially on a warm
 day.</p>
+
 <p class="c010">The wagon stopped, and the nurse and officer in charge
 told us to get out. The nurse added: “Thank God!
 they came quietly.” We obeyed orders to go ahead up a
@@ -3243,15 +3240,15 @@ $1,000,000 more than was ever before given, for the benefit
 of the insane.</p>
 <div class="nf-center-c0">
 <div class="nf-center c002">
-<div>[THE END.]</div>
+
+
+<p><div>*\[THE END.]*</div></p>
 
 <h3 id="chapter18">BIBLIOGRAPHY & FURTHER READING</h3></p>
 
-
-<p><i><b> Explore a facsimile of this text's first edition (featuring sketches by Bly not included here) via the Internet Archive:</i></b></p>
+##### <p><i><b> Explore a facsimile of this text's first edition (featuring sketches by Bly not included here) via the Internet Archive:</i></b></p>
 
 <p>Bly, Nellie. <i>Ten days in a mad-house; or, Nellie Bly's experience on Blackwell's island. Feigning insanity in order to reveal asylum horrors.</i> New York: Norman L. Munro, 1887. https://archive.org/details/3304680.med.yale.edu/mode/2up</p>
-
 
 <p><i><b>
 The following resources informed our research and framing for this volume, and will be of interest to people wanting to learn more about the history and context of Bly's work and this edition. Find more on our Are.na channel for this book: https://www.are.na/cita-press/ten-days-in-a-mad-house </i></b></p>
@@ -3269,6 +3266,3 @@ The following resources informed our research and framing for this volume, and w
 <p>Mason, Jessica Lowell and Nicole Crevar, ed.<i>Madwomen in Social Justice Movements, Literatures, and Art.</i> Wilmington, Delaware: Vernon Press, 2023.</p>
 <p>Wang, Esmé Weijun. <i> The Collected Schizophrenias: Essays.</i> Minneapolis, Minnesota: Graywolf Press, 2019.</p>
 <p>Zhou, Dajia. "People Watching." https://dajiazhou.com/poster-7gBbX/project-two-llrgk-rrmtk</p>
-
-
-
