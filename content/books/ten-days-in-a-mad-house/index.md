@@ -9,7 +9,7 @@ templateKey: book-page
 author: Nellie Bly
 isbn: 978-1-961368-18-7
 post_image: ten-days-in-a-mad-house-cover.jpeg
-square_image: thumbnail-ten-days-square.png
+square_image: thumbnail-ten-days-square-update.jpg
 genre:
   - nonfiction
   - autobiography
