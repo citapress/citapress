@@ -640,7 +640,7 @@ Voices Around Me: Nobel Lectures
 
 <p>Can it be that the question about the handkerchief was never about the handkerchief at all, but rather about the acute solitude of a human being?</p>
 
-<img src="/assets/muller_lecture_image.jpg" alt="Image of final word collage from Mueller lecture">
+<img src="content/books/voices-around-me-nobel-prize-lectures/muller_lecture_image.jpg" alt="Image of final word collage from Mueller lecture">
 
 <p><i>Translated by Philip Boehm</i></p>
 
