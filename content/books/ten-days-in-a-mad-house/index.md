@@ -763,7 +763,7 @@ There was some discussion between Mrs. Stanard
 and the two officers, and Tom Bockert was told to take
 us down to the court in a car.</p>
 
-<img src="static/img/Spot-Illustrations-4.jpeg" alt="Nellie Bly is held by the arm by a police officer, whom she peers at suspiciously. A chapeone flanks her on the other side, and a man watches behind them. Caption read In the Hands of the Police">
+<img src="static/img/Spot-Illustrations-4.jpg" alt="Nellie Bly is held by the arm by a police officer, whom she peers at suspiciously. A chapeone flanks her on the other side, and a man watches behind them. Caption read In the Hands of the Police">
 
 <p class="c010">“Come along,” Bockert said, “I will find your trunk
 for you.” We all went together, Mrs. Stanard, Tom
