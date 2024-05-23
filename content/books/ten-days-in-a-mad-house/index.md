@@ -38,7 +38,7 @@ foreword: >-
 
 
   <p><b>Cover & Illustrations: </b> Dajia Zhou is an illustrator, storyteller, and daydreamer currently based in Boston, MA.
-published: false
+published: true
 ---
 
 <div id="toc_container">
@@ -229,7 +229,7 @@ friends, and get myself committed on the decision of
 two competent physicians, or I could go to my goal by
 way of the police courts.</p>
 
-<img src= "static/img/Spot-Illustrations-1.png" alt="Nellie Bly sits at a chair in front of a vanity holding her face between her hands with her mouth and eyes wide. Caption reads “Nellie Practices Insanity at Home.”">
+<img src="static/img/Spot-Illustrations-1.png" alt="Nellie Bly sits at a chair in front of a vanity holding her face between her hands with her mouth and eyes wide. Caption reads “Nellie Practices Insanity at Home.”">
 </div>
 </div>
 <p class="c010">On reflection I thought it wiser not to inflict myself
@@ -763,7 +763,7 @@ There was some discussion between Mrs. Stanard
 and the two officers, and Tom Bockert was told to take
 us down to the court in a car.</p>
 
-<img src="static/img/Spot-Illustrations-4.png" alt="Nellie Bly is held by the arm by a police officer, whom she peers at suspiciously. A chapeone flanks her on the other side, and a man watches behind them. Caption read In the Hands of the Police">
+<img src="static/img/Spot-Illustrations-4.jpeg" alt="Nellie Bly is held by the arm by a police officer, whom she peers at suspiciously. A chapeone flanks her on the other side, and a man watches behind them. Caption read In the Hands of the Police">
 
 <p class="c010">“Come along,” Bockert said, “I will find your trunk
 for you.” We all went together, Mrs. Stanard, Tom
