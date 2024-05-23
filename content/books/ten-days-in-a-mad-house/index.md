@@ -763,7 +763,7 @@ There was some discussion between Mrs. Stanard
 and the two officers, and Tom Bockert was told to take
 us down to the court in a car.</p>
 
-<img src="static/img/Spot-Illustrations-4.jpg" alt="Nellie is held by the arm by a police officer caption reads In the Hands of the Police">
+<p><img src="static/img/Spot-Illustrations-4.jpg" alt="Nellie is held by the arm by a police officer caption reads In the Hands of the Police"></p>
 
 <p class="c010">“Come along,” Bockert said, “I will find your trunk
 for you.” We all went together, Mrs. Stanard, Tom
