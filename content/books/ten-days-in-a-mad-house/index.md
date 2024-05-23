@@ -38,7 +38,7 @@ foreword: >-
 
 
   <p><b>Cover & Illustrations: </b> Dajia Zhou is an illustrator, storyteller, and daydreamer currently based in Boston, MA.
-published: false
+published: true
 ---
 
 <div id="toc_container">
@@ -229,7 +229,7 @@ friends, and get myself committed on the decision of
 two competent physicians, or I could go to my goal by
 way of the police courts.</p>
 
-<img src="/assets/Spot-Illustrations-1.png" alt="Nellie Bly sits at a chair in front of a vanity holding her face between her hands with her mouth and eyes wide. Caption reads “Nellie Practices Insanity at Home.”">
+<img src="static/img/Spot-Illustrations-1.png" alt="Nellie Bly sits at a chair in front of a vanity holding her face between her hands with her mouth and eyes wide. Caption reads “Nellie Practices Insanity at Home.”">
 </div>
 </div>
 <p class="c010">On reflection I thought it wiser not to inflict myself
@@ -763,7 +763,7 @@ There was some discussion between Mrs. Stanard
 and the two officers, and Tom Bockert was told to take
 us down to the court in a car.</p>
 
-<img src="/assets/Spot-Illustrations-4.png" alt="Nellie Bly is held by the arm by a police officer, whom she peers at suspiciously. A chapeone flanks her on the other side, and a man watches behind them. Caption read In the Hands of the Police">
+<img src="static/img/Spot-Illustrations-4.png" alt="Nellie Bly is held by the arm by a police officer, whom she peers at suspiciously. A chapeone flanks her on the other side, and a man watches behind them. Caption read In the Hands of the Police">
 
 <p class="c010">“Come along,” Bockert said, “I will find your trunk
 for you.” We all went together, Mrs. Stanard, Tom
@@ -848,7 +848,7 @@ passively and almost indifferently. It was only an old
 story with them. One more unfortunate added to a long
 list which had long since ceased to be of any interest or
 concern to them.</p>
-<img src="/assets/Spot-Illustrations-3.png" alt="Nellie stands deferentially before a judge at his bench; her face is literally blank. An alertt woman accompanies her, and a man faces her with his back to the viewer. Caption reads Nellie Before Judge Duffy">
+<img src="static/img/Spot-Illustrations-3.png" alt="Nellie stands deferentially before a judge at his bench; her face is literally blank. An alert woman accompanies her, and a man faces her with his back to the viewer. Caption reads Nellie Before Judge Duffy">
 
 <p class="c010">“Come here, girl, and lift your veil,” called out Judge
 Duffy, in tones which surprised me by a harshness which
@@ -1022,7 +1022,7 @@ stare. This I did. I held my eyes riveted unblinkingly
 upon his hand, and when he removed it I exerted all my
 strength to still keep my eyes from blinking.</p>
 
-<img src="/assets/Spot-Illustrations-5.png" alt="Nellie Bly sits upright in a chair while a man with a monocle leans down to peer at her. A woman watches in the background. Caption reads An Insanity Expert at Work">
+<img src="static/img/Spot-Illustrations-5.png" alt="Nellie Bly sits upright in a chair while a man with a monocle leans down to peer at her. A woman watches in the background. Caption reads An Insanity Expert at Work">
 
 <p class="c010">“What drugs have you been taking?” he then asked
 me.</p>
@@ -1287,7 +1287,7 @@ eagerness that I did not feel.</p>
 <p class="c010">“Where is home?”</p>
 <p class="c010">“Don’t you know? Cuba.”</p>
 
-<img src="/assets/Spot-Illustrations-2.png" alt="Nelly sits with a sheet over her head while a man behind her lifts it up to reveal her face. Another man looks at her somberly holding a cane. Caption reads Positively Demented">
+<img src="static/img/Spot-Illustrations-2.png" alt="Nelly sits with a sheet over her head while a man behind her lifts it up to reveal her face. Another man looks at her somberly holding a cane. Caption reads Positively Demented">
 <p class="c010">He then sat down beside me, felt my pulse, and examined
 my tongue, and at last said:</p>
 <p class="c010">“Tell Miss Scott all about yourself.”</p>
@@ -2029,7 +2029,7 @@ here.”</p>
 for you won’t get it,” she said, and she went out and
 closed the door.</p>
 
-<img src="/assets/Spot-Illustrations-6.png" alt="A bed against a wall with a glass-bricked window. Caption reads Her Bedroom">
+<img src="static/img/Spot-Illustrations-6.png" alt="A bed against a wall with a glass-bricked window. Caption reads Her Bedroom">
 
 <p class="c010">A sheet and an oilcloth were under me, and a sheet and
 black wool blanket above. I never felt anything so annoying
@@ -2291,7 +2291,7 @@ caressingly lift a nut or a colored leaf that had fallen on
 the path. But they were not permitted to keep them.
 The nurses would always compel them to throw their little
 bit of God’s comfort away.</p>
-<img src="/assets/Spot-Illustrations-7.png" alt="A group of women walking past a tree. A staff member with her arms crossed giving orders. Caption reads Quiet Inmates Out for a walk">
+<img src="static/img/Spot-Illustrations-7.png" alt="A group of women walking past a tree. A staff member with her arms crossed giving orders. Caption reads Quiet Inmates Out for a walk">
 
 <p class="c010">As I passed a low pavilion, where a crowd of helpless
 lunatics were confined, I read a motto on the wall, “While
