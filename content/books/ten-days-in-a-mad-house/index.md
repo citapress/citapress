@@ -216,7 +216,7 @@ friends, and get myself committed on the decision of
 two competent physicians, or I could go to my goal by
 way of the police courts.</p>
 
-![Nellie practices insanity at home](spot-illustrations-1.jpg "Nellie practices insanity at home")
+![Nellie practices insanity at home](content/books/ten-days-in-a-mad-house/spot-illustrations-1.jpg "Nellie practices insanity at home")
 
 <p class="c010">On reflection I thought it wiser not to inflict myself
 upon my friends or to get any good-natured doctors to
