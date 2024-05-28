@@ -751,7 +751,7 @@ There was some discussion between Mrs. Stanard
 and the two officers, and Tom Bockert was told to take
 us down to the court in a car.</p>
 
-![In the Hands of the Police](content/books/ten-days-in-a-mad-house/spot-illustrations-4.jpg "In the Hands of the Police")
+![In the Hands of the Police](spot-illustrations-4.jpg "In the Hands of the Police")
 
 <p class="c010">“Come along,” Bockert said, “I will find your trunk
 for you.” We all went together, Mrs. Stanard, Tom
@@ -838,7 +838,7 @@ list which had long since ceased to be of any interest or
 concern to them.</p>
 
 
-![Nellie Before Judge Duffy](content/books/ten-days-in-a-mad-house/spot-illustrations-3.jpg "Nellie Before Judge Duffy")
+![Nellie Before Judge Duffy](spot-illustrations-3.jpg "Nellie Before Judge Duffy")
 
 <p class="c010">“Come here, girl, and lift your veil,” called out Judge
 Duffy, in tones which surprised me by a harshness which
@@ -1012,7 +1012,7 @@ stare. This I did. I held my eyes riveted unblinkingly
 upon his hand, and when he removed it I exerted all my
 strength to still keep my eyes from blinking.</p>
 
-![An Insanity Expert at Work](content/books/ten-days-in-a-mad-house/spot-illustrations-5.jpg "An Insanity Expert at Work")
+![An Insanity Expert at Work](spot-illustrations-5.jpg "An Insanity Expert at Work")
 
 <p class="c010">“What drugs have you been taking?” he then asked
 me.</p>
@@ -1277,7 +1277,7 @@ eagerness that I did not feel.</p>
 <p class="c010">“Where is home?”</p>
 <p class="c010">“Don’t you know? Cuba.”</p>
 
-![Positively Demented](content/books/ten-days-in-a-mad-house/spot-illustrations-2.jpg "Positively Demented")
+![Positively Demented](spot-illustrations-2.jpg "Positively Demented")
 
 
 <p class="c010">He then sat down beside me, felt my pulse, and examined
@@ -2023,7 +2023,7 @@ for you won’t get it,” she said, and she went out and
 closed the door.</p>
 
 
-![Her Bedroom](content/books/ten-days-in-a-mad-house/spot-illustrations-6.jpg "Her Bedroom")
+![Her Bedroom](spot-illustrations-6.jpg "Her Bedroom")
 
 <p class="c010">A sheet and an oilcloth were under me, and a sheet and
 black wool blanket above. I never felt anything so annoying
@@ -2287,7 +2287,7 @@ The nurses would always compel them to throw their little
 bit of God’s comfort away.</p>
 
 
-![Quiet Inmates Out for a Walk](content/books/ten-days-in-a-mad-house/spot-illustrations-7.jpg "Quiet Inmates Out for a Walk")
+![Quiet Inmates Out for a Walk](spot-illustrations-7.jpg "Quiet Inmates Out for a Walk")
 
 <p class="c010">As I passed a low pavilion, where a crowd of helpless
 lunatics were confined, I read a motto on the wall, “While
