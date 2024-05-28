@@ -38,7 +38,7 @@ foreword: >-
 
 
   <p><b>Cover & Illustrations: </b> Dajia Zhou is an illustrator, storyteller, and daydreamer currently based in Boston, MA.
-published: false
+published: true
 ---
 <div id="toc_container">
 
@@ -128,7 +128,7 @@ published: false
 
 <p>Perhaps the most devastating image she describes is that of women looking out through the asylum windows. “In the upper halls,” writes Bly, “a good view is obtained of the passing boats and New York.”  She imagines how it must feel to look at the lights “glimmering in the city,” knowing you had no one to obtain your release. All the women in the asylum once had families, she speculates. Surely they knew what it was like to be loved? Some of her fellow inmates delude themselves that there are people who care for them and will one day come and take them home. Others are able to face the truth—they have been forgotten.</p>
 
-<p>In 1973, psychologist David Rosenham undertook a “legitimate,” “scientific” version of Bly’s experiment by enlisting participants (including himself)  to feign insanity in order to get themselves admitted to various psychiatric institutions. Although details of Rosenham’s study, “On Being Sane in Insane Places,” have since been questioned, it remains clear that, even a hundred years after Bly’s expose, the diagnosis of “insanity” is still wholly subjective. These parallel experiences suggest that anyone could face the fate of Bly's unit mates Tillie Mayard or Louise Schanz–"consigned to the asylum without a chance of making herself understood."</p>
+<p>In 1973, psychologist David Rosenhan undertook a “legitimate,” “scientific” version of Bly’s experiment by enlisting participants (including himself)  to feign insanity in order to get themselves admitted to various psychiatric institutions. Although details of Rosenhan’s study, “On Being Sane in Insane Places,” have since been questioned, it remains clear that, even a hundred years after Bly’s expose, the diagnosis of “insanity” is still wholly subjective. These parallel experiences suggest that anyone could face the fate of Bly's unit mates Tillie Mayard or Louise Schanz–"consigned to the asylum without a chance of making herself understood."</p>
 
 <p>Perhaps more frightening is a related question: could any one of us become,  like the  asylum attendants in this book, someone who gets amusement from daily acts of cruelty to our fellow human beings? Bly spares no disdain for staff like Miss Grady and Miss Grupe, deploying her trademark withering humor to illustrate how the setting allows abuse to proliferate. The situation at Blackwell’s  has echoes in later examinations of how institutional roles shape such dynamics, such as the infamous 1971 Stanford Prison Experiment. Sadism is not a trait of perverse individuals, but situational, and common to humanity. </p>
 
@@ -3269,7 +3269,7 @@ The following resources informed our research and framing for this volume, and w
 <p>Cahalan, Susannah. <i>The Great Pretender: The Undercover Mission That Changed Our Understand of Madness.</i> New York: Grand Central Publishing, 2019.</p>
 <p>Chaloupka, Evan. <i>Cognitive Disability and Narrative,</i> PhD diss. Case Western Reserve University, 2018. http://rave.ohiolink.edu/etdc/view?acc_num=case1522063781558934</p>
 <p>D'Agostino, Rachel and Sophia Dahab, Curators. <i>Hearing Voices: Memoirs from the Margins of Mental Health.</i> The Library Company of Philadelphia, 2022. https://librarycompany.org/hearingvoices-online/index.html</p>
-<p>Lutes, Jean Marie. "Into the Madhouse with Girl Stunt Reporters." In <i> Front-Page Girls: Women journalists in American culture and fiction, 1880-1930,</i> 12-39. Ithaca and London: Cornell University Press, 2006.</p>
+<p>Lutes, Jean Marie. "Into the Madhouse with Girl Stunt Reporters." In <i> Front-Page Girls: Women Journalists in American Culture and Fiction, 1880-1930,</i> 12-39. Ithaca and London: Cornell University Press, 2006.</p>
 
 <p>Kroeger, Brooke. <i>Nellie Bly: Daredevil, Reporter, Feminist.</i> New York: Times Books Random House, 1994.</p>
 <p>Mason, Jessica Lowell and Nicole Crevar, ed.<i>Madwomen in Social Justice Movements, Literatures, and Art.</i> Wilmington, Delaware: Vernon Press, 2023.</p>
