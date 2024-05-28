@@ -216,7 +216,7 @@ friends, and get myself committed on the decision of
 two competent physicians, or I could go to my goal by
 way of the police courts.</p>
 
-![nellie practices insanity at home](content/books/ten-days-in-a-mad-house/spot-illustrations-1.jpg "nellie practices insanity at home")
+![nellie practices insanity at home](spot-illustrations-1.jpg "nellie practices insanity at home")
 
 <img src="content/books/ten-days-in-a-mad-house/spot-illustrations-1.jpg" alt="Nellie Practices Insanity at Home">
 
