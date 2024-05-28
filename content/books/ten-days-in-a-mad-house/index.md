@@ -4,7 +4,7 @@ publication: 2024-05-29T12:25:00.000Z
 publishformat: Month and year
 release: 1887-05-20T10:32:00.000Z
 releaseformat: Year
-sortingdate: ""
+sortingdate: 2016-12-31T16:37:00.000Z
 templateKey: book-page
 author: Nellie Bly
 isbn: 978-1-961368-18-7
