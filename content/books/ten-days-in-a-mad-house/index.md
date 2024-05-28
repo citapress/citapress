@@ -218,7 +218,7 @@ way of the police courts.</p>
 
 ![nellie practices insanity at home](spot-illustrations-1.jpg "nellie practices insanity at home")
 
-<img src="content/books/ten-days-in-a-mad-house/spot-illustrations-1.jpg" alt="Nellie Practices Insanity at Home">
+
 
 <p class="c010">On reflection I thought it wiser not to inflict myself
 upon my friends or to get any good-natured doctors to
