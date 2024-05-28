@@ -38,7 +38,7 @@ foreword: >-
 
 
   <p><b>Cover & Illustrations: </b> Dajia Zhou is an illustrator, storyteller, and daydreamer currently based in Boston, MA.
-published: false
+published: true
 ---
 <div id="toc_container">
 
@@ -749,7 +749,7 @@ There was some discussion between Mrs. Stanard
 and the two officers, and Tom Bockert was told to take
 us down to the court in a car.</p>
 
-<p><img src="static/img/Spot-Illustrations-4.jpg" alt="Nellie is held by the arm by a police officer caption reads In the Hands of the Police"></p>
+![In the Hands of the Police](content/books/ten-days-in-a-mad-house/spot-illustrations-4.jpg "In the Hands of the Police")
 
 <p class="c010">“Come along,” Bockert said, “I will find your trunk
 for you.” We all went together, Mrs. Stanard, Tom
@@ -834,7 +834,9 @@ passively and almost indifferently. It was only an old
 story with them. One more unfortunate added to a long
 list which had long since ceased to be of any interest or
 concern to them.</p>
-<img src="static/img/Spot-Illustrations-3.png" alt="Nellie stands deferentially before a judge at his bench; her face is literally blank. An alert woman accompanies her, and a man faces her with his back to the viewer. Caption reads Nellie Before Judge Duffy">
+
+
+![Nellie Before Judge Duffy](content/books/ten-days-in-a-mad-house/spot-illustrations-3.jpg "Nellie Before Judge Duffy")
 
 <p class="c010">“Come here, girl, and lift your veil,” called out Judge
 Duffy, in tones which surprised me by a harshness which
@@ -1008,7 +1010,7 @@ stare. This I did. I held my eyes riveted unblinkingly
 upon his hand, and when he removed it I exerted all my
 strength to still keep my eyes from blinking.</p>
 
-<img src="static/img/Spot-Illustrations-5.png" alt="Nellie Bly sits upright in a chair while a man with a monocle leans down to peer at her. A woman watches in the background. Caption reads An Insanity Expert at Work">
+![An Insanity Expert at Work](content/books/ten-days-in-a-mad-house/spot-illustrations-5.jpg "An Insanity Expert at Work")
 
 <p class="c010">“What drugs have you been taking?” he then asked
 me.</p>
@@ -1273,7 +1275,9 @@ eagerness that I did not feel.</p>
 <p class="c010">“Where is home?”</p>
 <p class="c010">“Don’t you know? Cuba.”</p>
 
-<img src="static/img/Spot-Illustrations-2.png" alt="Nelly sits with a sheet over her head while a man behind her lifts it up to reveal her face. Another man looks at her somberly holding a cane. Caption reads Positively Demented">
+![Positively Demented](content/books/ten-days-in-a-mad-house/spot-illustrations-2.jpg "Positively Demented")
+
+
 <p class="c010">He then sat down beside me, felt my pulse, and examined
 my tongue, and at last said:</p>
 <p class="c010">“Tell Miss Scott all about yourself.”</p>
@@ -2016,7 +2020,8 @@ here.”</p>
 for you won’t get it,” she said, and she went out and
 closed the door.</p>
 
-<img src="static/img/Spot-Illustrations-6.png" alt="A bed against a wall with a glass-bricked window. Caption reads Her Bedroom">
+
+![Her Bedroom](content/books/ten-days-in-a-mad-house/spot-illustrations-6.jpg "Her Bedroom")
 
 <p class="c010">A sheet and an oilcloth were under me, and a sheet and
 black wool blanket above. I never felt anything so annoying
@@ -2278,7 +2283,9 @@ caressingly lift a nut or a colored leaf that had fallen on
 the path. But they were not permitted to keep them.
 The nurses would always compel them to throw their little
 bit of God’s comfort away.</p>
-<img src="static/img/Spot-Illustrations-7.png" alt="A group of women walking past a tree. A staff member with her arms crossed giving orders. Caption reads Quiet Inmates Out for a walk">
+
+
+![Quiet Inmates Out for a Walk](content/books/ten-days-in-a-mad-house/spot-illustrations-7.jpg "Quiet Inmates Out for a Walk")
 
 <p class="c010">As I passed a low pavilion, where a crowd of helpless
 lunatics were confined, I read a motto on the wall, “While
