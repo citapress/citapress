@@ -38,7 +38,7 @@ foreword: >-
 
 
   <p><b>Cover & Illustrations: </b> Dajia Zhou is an illustrator, storyteller, and daydreamer currently based in Boston, MA.
-published: false
+published: true
 ---
 <div id="toc_container">
 
@@ -216,9 +216,9 @@ friends, and get myself committed on the decision of
 two competent physicians, or I could go to my goal by
 way of the police courts.</p>
 
-![Nellie practices insanity at home](content/books/ten-days-in-a-mad-house/spot-illustrations-1.jpg "Nellie practices insanity at home")
+![nellie practices insanity at home](content/books/ten-days-in-a-mad-house/spot-illustrations-1.jpg "nellie practices insanity at home")
 
-<img src="content/books/ten-days-in-a-mad-house/spot-illustrations-1.jpg" alt="Nellie Practices Insanity at Home.">
+<img src="content/books/ten-days-in-a-mad-house/spot-illustrations-1.jpg" alt="Nellie Practices Insanity at Home">
 
 <p class="c010">On reflection I thought it wiser not to inflict myself
 upon my friends or to get any good-natured doctors to
