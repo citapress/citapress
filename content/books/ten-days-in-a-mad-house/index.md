@@ -109,10 +109,7 @@ published: true
             <span class="title">BIBLIOGRAPHY & FURTHER READING.</span>
           </a></li></ul></div>
 
-
-
 <h3 id="foreword">FOREWORD<br> <span class="large">by Mikita Brottman.</span></h3>
-
 
 <p>In 1887, on assignment for Joseph Pulitzer’s <i>New York World </i>newspaper, journalist Nellie Bly disguised herself as a “crazy person” in order to get admitted to the Women’s Lunatic Asylum on Blackwell’s Island. Considered from today's perspective, this could be seen as a pioneering feat of investigative journalism, although her methods were certainly personal and idiosyncratic. At the time, it was seen as a “stunt” and trumpeted sensationally in brazen headlines (“Feigning Insanity in Order To Reveal Asylum Horrors.”)</p>
 
@@ -217,8 +214,6 @@ two competent physicians, or I could go to my goal by
 way of the police courts.</p>
 
 ![nellie practices insanity at home](spot-illustrations-1.jpg "nellie practices insanity at home")
-
-
 
 <p class="c010">On reflection I thought it wiser not to inflict myself
 upon my friends or to get any good-natured doctors to
@@ -837,7 +832,6 @@ story with them. One more unfortunate added to a long
 list which had long since ceased to be of any interest or
 concern to them.</p>
 
-
 ![Nellie Before Judge Duffy](spot-illustrations-3.jpg "Nellie Before Judge Duffy")
 
 <p class="c010">“Come here, girl, and lift your veil,” called out Judge
@@ -1278,7 +1272,6 @@ eagerness that I did not feel.</p>
 <p class="c010">“Don’t you know? Cuba.”</p>
 
 ![Positively Demented](spot-illustrations-2.jpg "Positively Demented")
-
 
 <p class="c010">He then sat down beside me, felt my pulse, and examined
 my tongue, and at last said:</p>
@@ -2022,7 +2015,6 @@ here.”</p>
 for you won’t get it,” she said, and she went out and
 closed the door.</p>
 
-
 ![Her Bedroom](spot-illustrations-6.jpg "Her Bedroom")
 
 <p class="c010">A sheet and an oilcloth were under me, and a sheet and
@@ -2285,7 +2277,6 @@ caressingly lift a nut or a colored leaf that had fallen on
 the path. But they were not permitted to keep them.
 The nurses would always compel them to throw their little
 bit of God’s comfort away.</p>
-
 
 ![Quiet Inmates Out for a Walk](spot-illustrations-7.jpg "Quiet Inmates Out for a Walk")
 
@@ -3252,7 +3243,6 @@ of the insane.</p>
 <div class="nf-center-c0">
 <div class="nf-center c002">
 
-#### 
 *\[THE END.]*
 
 <h3 id="chapter18">BIBLIOGRAPHY & FURTHER READING</h3></p>
@@ -3262,7 +3252,7 @@ of the insane.</p>
 <p>Bly, Nellie. <i>Ten days in a mad-house; or, Nellie Bly's experience on Blackwell's island. Feigning insanity in order to reveal asylum horrors.</i> New York: Norman L. Munro, 1887. https://archive.org/details/3304680.med.yale.edu/mode/2up</p>
 
 <p><i><b>
-The following resources informed our research and framing for this volume, and will be of interest to people wanting to learn more about the history and context of Bly's work and this edition. Find more on our Are.na channel for this book: https://www.are.na/cita-press/ten-days-in-a-mad-house </i></b></p>
+The following resources informed our research and framing for this volume, and will be of interest to people wanting to learn more about the history and context of Bly's work and this edition. Find more on[ our Are.na channel for this book](< https://www.are.na/cita-press/ten-days-in-a-mad-house >).</i></b></p>
 
 <p>Bly, Nellie. <i> Around the World in Seventy-Two Days and Other Writings,</i> Edited by Jean Marie Lutes. New York: Penguin Books, 2014.</p>
 <p>Brottman, Mikita. "Crisis Care." <i>Full Bleed,</i>Issue 02, Summer 2018. https://www.full-bleed.org/crisis-care</p>
