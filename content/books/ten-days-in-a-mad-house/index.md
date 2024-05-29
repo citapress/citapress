@@ -3251,8 +3251,8 @@ of the insane.</p>
 
 <p>Bly, Nellie. <i>Ten days in a mad-house; or, Nellie Bly's experience on Blackwell's island. Feigning insanity in order to reveal asylum horrors.</i> New York: Norman L. Munro, 1887. https://archive.org/details/3304680.med.yale.edu/mode/2up</p>
 
-<p><i><b>
-The following resources informed our research and framing for this volume, and will be of interest to people wanting to learn more about the history and context of Bly's work and this edition. Find more on[ our Are.na channel for this book](< https://www.are.na/cita-press/ten-days-in-a-mad-house >).</i></b></p>
+
+**The following resources informed our research and framing for this volume, and will be of interest to people wanting to learn more about the history and context of Bly's work and this edition. Find more on[ our Are.na channel for this book](<https://www.are.na/cita-press/ten-days-in-a-mad-house >).**
 
 <p>Bly, Nellie. <i> Around the World in Seventy-Two Days and Other Writings,</i> Edited by Jean Marie Lutes. New York: Penguin Books, 2014.</p>
 <p>Brottman, Mikita. "Crisis Care." <i>Full Bleed,</i>Issue 02, Summer 2018. https://www.full-bleed.org/crisis-care</p>
