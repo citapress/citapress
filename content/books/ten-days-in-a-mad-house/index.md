@@ -1,7 +1,7 @@
 ---
 title: Ten Days in a Mad-House
 publication: 2024-05-29T12:25:00.000Z
-publishformat: Month and year
+publishformat: Year
 release: 1887-05-20T10:32:00.000Z
 releaseformat: Year
 sortingdate: 2016-12-31T16:37:00.000Z
