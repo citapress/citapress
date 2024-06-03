@@ -5,10 +5,10 @@ templateKey: news-page
 ---
 ## 2024
 
-* **January 2024 (Hiring) We're looking for a Literary Translation & Technology Fellow** to translate one of Cita’s texts (ENG-SPA or SPA-ENG) and a short essay on the state of machine translation for literary pieces. 
-
-## 2023
-
+* **May 2024 (Announcement)** Cita publishes a new edition of *Ten Days in a Mad-House* by Nellie Bly. The foreword is by Mikita Brottman and the cover and illustrations are by Dajia Zhou. 
+* **March 2024 (Event)** Cita is an exhibitor at [Multiple Formats Art Book Fair and Symposium ](https://multipleformats.cargo.site/)at Boston University School of the Arts on March 21, 2024.
+* **January 2024 (Hiring) We're looking for a Literary Translation & Technology Fellow** to translate one of Cita’s texts (ENG-SPA or SPA-ENG) and a short essay on the state of machine translation for literary pieces
+* ## 2023
 * **December 2023 (Announcement)** Gita Manaktala, Editorial Director of MIT Press, has joined Cita's Advisory Board!
 * **November 2023 (Event)** Come visit Cita Press at the [Boston Art Book Fair](https://bostonartbookfair.com/)! Friday, November 10 (preview party!) through Sunday, November 12! 
 * **October 2023 (Announcement/Press)** *An Immortal Book: Selected Writings by Sui Sin Far* is published and available as a downloadable PDF and EPUB in addition to our web format. Learn more about the book with the [Lost Ladies of Lit](https://www.lostladiesoflit.com/podcast) podcast, featuring Juliana Castro Varón and foreword writer Victoria Namkung. Cover by Shuhua Xiong. You can also purchase a print copy [here](https://www.lulu.com/shop/sui-sin-far-and-edith-eaton-and-victoria-namkung-and-shuhua-xiong/an-immortal-book/paperback/product-gjnpk9e.html?page=1&pageSize=4).
