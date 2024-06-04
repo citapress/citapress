@@ -4,7 +4,10 @@ lang: es
 templateKey: news-page
 ---
 **2024**
-
+* **Junio de 2024 (Anuncio/Contratación)** ¡bex ya yolk se une a Cita Press!
+* **Mayo de 2024 (Anuncio)** Cita publica una nueva edición de "Ten Days in a Mad-House" de Nellie Bly. El prólogo es de Mikita Brottman y la portada e ilustraciones son de Dajia Zhou. Traducción muy pronto.
+* **Junio de 2024Abril de 2024 (Anuncio/Contratación)** Daniel Saldaña París se une a Cita Press como Becario de Traducción Literaria y Tecnología.
+* **Marzo de 2024 (Evento)** Cita participa como expositor en la Feria de Arte y Simposio de Libros de Formatos Múltiples en la Escuela de Artes de la Universidad de Boston el 21 de marzo de 2024.
 * **Enero de 2024 (Trabajo)** Buscamos un Becario/a de tecnología y traducción literaria para traducir uno de los textos de Cita (ENG-SPA o SPA-ENG) y un breve ensayo sobre el estado de la traducción automática de obras literarias. 
 
 **2023**
