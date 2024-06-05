@@ -308,6 +308,57 @@ const PeopleIndex = ({ location, intl }) => {
                 </p>
               </div>{" "}
             </div>{" "}
+                                </div>{" "}
+            <div className="flex">
+              {" "}
+              <div className="column">
+                <img
+                  src="/img/people/fabian.JPG"
+                  alt="Illustration of Fabian"
+                  width="150px"
+                  height="auto"
+                />
+              </div>{" "}
+              <div className="column">
+                <p>
+                  <b>Fabián Ríos</b> es desarrollador web de Cita. Fabián tiene 11 años de experiencia como desarrollador y artista multimedia. Vive con su esposa, sus hijos y su perro en Düsseldorf, Alemania. 
+                </p>
+              </div>{" "}
+            </div>{" "}
+                                </div>{" "}
+            <div className="flex">
+              {" "}
+              <div className="column">
+                <img
+                  src="/img/people/bex.PNG"
+                  alt="Illustration of bex ya yolk"
+                  width="150px"
+                  height="auto"
+                />
+              </div>{" "}
+              <div className="column">
+                <p>
+                  <b>bex ya yolk</b> is a graphic designer, book artist, and arts professor based in Chicago, IL. They have a BFA from VCUarts and an MFA from SAIC. yolk is the founder of an independent artists' book publisher THUNGRY.
+                </p>
+              </div>{" "}
+            </div>{" "}
+                                </div>{" "}
+            <div className="flex">
+              {" "}
+              <div className="column">
+                <img
+                  src="/img/people/daniel.png"
+                  alt="Illustration of Daniel Saldaña París"
+                  width="150px"
+                  height="auto"
+                />
+              </div>{" "}
+              <div className="column">
+                <p>
+                  <b>Daniel Saldaña París</b> es becario de Traducción Literaria y Tecnología de Cita. Escritor y traductor nacido en la Ciudad de México. Es autor de tres novelas y una colección de ensayos personales. Fue becario del Cullman Center 2022-2023 en la Biblioteca Pública de Nueva York.
+                </p>
+              </div>{" "}
+            </div>{" "}
             <p>
               <b>Equipo de consultoría de Getting Fit:</b> Lauren Dapena Fraiz,
               Katherine Kim, Brandon Locke, Jessica Meyerson
