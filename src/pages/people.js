@@ -22,24 +22,6 @@ const PeopleIndex = ({ location, intl }) => {
             </p>
             <hr />
             <p>
-              <span className="inside-title">Open Positions:</span>
-            </p>
-            <p>
-              <b>
-                DESIGNER (Full-time, Remote, Open globally, $60.000/year)
-              </b>{" "}
-              The Designer will create and maintain visuals for Cita’s catalog, social media, and promotional materials. They will also create and maintain design templates for Cita contributors and partners, including Cita Studio projects. They will be an integral part of a small, flexible team focused on publishing and celebrating feminist books, design and educational content, and will play an important role in projects related to the organization’s long-term sustainability and growth.  More details {" "}
-              <a
-                href="https://www.notion.so/We-Are-Hiring-f378cebbfdcf448fa77a639259b228e0"
-                target="_blank"
-                rel="noreferrer"
-              >
-                here
-              </a>
-              .
-            </p>
-            <hr />
-            <p>
               <span className="inside-title">Staff:</span>
             </p>
             <div className="flex">
@@ -163,27 +145,7 @@ const PeopleIndex = ({ location, intl }) => {
                 </p>
               </div>
             </div>
-            <div className="flex">
-              <div className="column">
-                <img
-                  src="/img/people/katherine.png"
-                  alt="Illustration of Katherine Maher"
-                  width="150px"
-                  height="auto"
-                />
-              </div>
-              <div className="column">
-                <p>
-                  <b>Katherine Maher</b> is a senior fellow at the Atlantic
-                  Council, Board Director for System, Inc. and the former chief
-                  executive officer of the Wikimedia Foundation. She has spent
-                  her career at the intersection of technology, human rights,
-                  democracy and international development, and has worked with
-                  UNICEF, the National Democratic Institute, the World Bank, and
-                  Access Now.
-                </p>
-              </div>
-            </div>
+      
             <div className="flex">
               <div className="column">
                 <img
@@ -246,7 +208,7 @@ const PeopleIndex = ({ location, intl }) => {
             <p>
               <b>Other contributors and supporters:</b> Nate Angell (Mozilla
               Open Leaders mentor and friend), Tien Mimi Nguyen (Write Speak
-              Code SF advocate), Camilo Villegas (Web Dev support)
+              Code SF advocate), Camilo Villegas (Web Dev support), Mindy Seu and Katherine Maher (Former Board Members)
             </p>{" "}
             <p>
               <b>Video credits:</b> Fantasy by Podington Bear, Icons by Creative
@@ -441,7 +403,7 @@ const PeopleIndex = ({ location, intl }) => {
             </p>{" "}
             <p>
               <b>Otros colaboradores:</b> Nate Angell (Mozilla Open Leaders
-              mentor and friend), Mindy Seu (Former Board Member), Tien Mimi
+              mentor and friend), Mindy Seu and Katherine Maher (Former Board Members), Tien Mimi
               Nguyen (Write Speak Code SF advocate)
             </p>{" "}
             <p>
