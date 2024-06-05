@@ -343,27 +343,6 @@ const PeopleIndex = ({ location, intl }) => {
               </div>
             </div>
             <div className="flex">
-              <div className="column">
-                <img
-                  src="/img/people/katherine.png"
-                  alt="Illustration of Katherine Maher"
-                  width="150px"
-                  height="auto"
-                />
-              </div>{" "}
-              <div className="column">
-                <p>
-                  <b>Katherine Maher</b> es miembro senior del Atlantic Council,
-                  directora de la junta de System, Inc. y ex directora ejecutiva
-                  de la Fundación Wikimedia. Ha desarrollado su carrera en la
-                  intersección de la tecnología, los derechos humanos, la
-                  democracia y el desarrollo internacional, y ha trabajado con
-                  UNICEF, el Instituto Nacional Democrático, el Banco Mundial y
-                  Access Now.
-                </p>
-              </div>{" "}
-            </div>{" "}
-            <div className="flex">
               {" "}
               <div className="column">
                 <img
