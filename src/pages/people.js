@@ -89,7 +89,7 @@ const PeopleIndex = ({ location, intl }) => {
               </div>
               <div className="column">
                 <p>
-                  <b>bex ya yolk</b> is a graphic designer, book artist, and arts professor based in Chicago, IL. They have a BFA from VCUarts and an MFA from SAIC. yolk is the founder of an independent artists' book publisher THUNGRY.
+                  <b>bex ya yolk</b> is Cita's designer. bex is a graphic designer, book artist, and arts professor based in Chicago, IL. They have a BFA from VCUarts and an MFA from SAIC. bex is the founder of an independent artists' book publisher THUNGRY.
                 </p>
               </div>
             </div>
@@ -281,8 +281,7 @@ const PeopleIndex = ({ location, intl }) => {
               </div>{" "}
               <div className="column">
                 <p>
-                  <b>Juliana Castro Varón</b> es la fundadora de Cita y
-                  co-investigadora principal de Getting Fit. Es directora
+                  <b>Juliana Castro Varón</b> es la fundadora de Cita. Es directora
                   creativa, diseñadora y autora de Papel sensible. Actualmente
                   es Fellow del Berkman Klein Center for Internet &amp; Society
                   de la Universidad de Harvard.
@@ -301,8 +300,7 @@ const PeopleIndex = ({ location, intl }) => {
               </div>{" "}
               <div className="column">
                 <p>
-                  <b>Jessi Haley</b> es la coordinadora editorial y de proyectos
-                  de Cita. Jessi anteriormente administró el programa de
+                  <b>Jessi Haley</b> es la diractora editorial de Cita. Jessi anteriormente administró el programa de
                   escritura creativa en la Universidad de Chicago y formó parte
                   del equipo editorial de Chicago Review y Colloquium Magazine.
                 </p>
@@ -338,7 +336,7 @@ const PeopleIndex = ({ location, intl }) => {
               </div>{" "}
               <div className="column">
                 <p>
-                  <b>bex ya yolk</b> is a graphic designer, book artist, and arts professor based in Chicago, IL. They have a BFA from VCUarts and an MFA from SAIC. yolk is the founder of an independent artists' book publisher THUNGRY.
+                  <b>bex ya yolk</b> es diseñadore de Cita, artista de libros y profe de arte de Chicago, Illinois. Tiene una licenciatura en Bellas Artes de VCUarts y una maestría en Bellas Artes de SAIC. bex fundó THUNGRY, una editorial independiente de libros de artistas. 
                 </p>
               </div>{" "}
             </div>{" "}
