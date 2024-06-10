@@ -20,7 +20,7 @@ theme:
   - race
   - motherhood
   - LGBTQ+
-lang: es
+lang: en
 description: >-
   <p>In <i>Women Resisting Violence</i>, case studies and interviews with women
   leaders from Latin America highlight the multiple and intersecting forms of
