@@ -21,15 +21,19 @@ theme:
   - motherhood
   - LGBTQ+
 lang: es
-description: " In Women Resisting Violence, case studies and interviews with
-  women leaders from Latin America highlight the multiple and intersecting forms
-  of gendered violence – where race, ethnicity, sexuality, and socio-economic
+description: >-
+  <p>In <i>Women Resisting Violence</i>, case studies and interviews with women
+  leaders from Latin America highlight the multiple and intersecting forms of
+  gendered violence – where race, ethnicity, sexuality, and socio-economic
   status, and other markers combine to identify, discriminate against, and
   target women. Collecting a chain of voices, we focus on these women’s
   inspirational strategies for transforming their communities and influencing
   international laws. Their testimonies underline the importance of culture,
   commemoration, and the arts in consolidating and amplifying active
-  resistance."
+  resistance.</p>
+
+
+  <p> This translation is published under a CC BY-NC-ND license. </p>
 foreword: >-
   <p><b>El Colectivo Women Resisting Violence (WRV) </b>refleja los procesos de
   toma de decisiones feministas y colaborativas que sustentan el proyecto y la
