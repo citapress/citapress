@@ -31,20 +31,20 @@ description: " In Women Resisting Violence, case studies and interviews with
   commemoration, and the arts in consolidating and amplifying active
   resistance."
 foreword: >-
-  El Colectivo Women Resisting Violence (WRV) refleja los procesos de toma de
-  decisiones feministas y colaborativas que sustentan el proyecto y la redacción
-  del presente libro. Este libro ha surgido de dos proyectos sobre las
+  <p><b>El Colectivo Women Resisting Violence (WRV) </b>refleja los procesos de
+  toma de decisiones feministas y colaborativas que sustentan el proyecto y la
+  redacción del presente libro. Este libro ha surgido de dos proyectos sobre las
   violencias interseccionales de género, que son esfuerzos colectivos
-  acompañados de una serie de actividades, múltiples iniciativas y
-  aportaciones. 
+  acompañados de una serie de actividades, múltiples iniciativas y aportaciones.
+  </p>
 
 
-  Las autoras: Jelke Boesten, Andrea Espinoza, Cathy McIlwaine, Louise Morris, Patricia Muñoz Cabrera, Moniza Rizzini Ansari, Marilyn Thomson, y Rebecca Wilson.
+  <p><b>Las autoras: </b>Jelke Boesten, Andrea Espinoza, Cathy McIlwaine, Louise Morris, Patricia Muñoz Cabrera, Moniza Rizzini Ansari, Marilyn Thomson, y Rebecca Wilson.</p>
 
 
-  Las traductoras: Camila Vergara Ruiz, Elísabeth Frías, Javiera Menchaca Pardow, Mailén García, Mercy Sandoval, Patricia Muñoz Cabrera, y Rocío Suárez López.
+  <p><b>Las traductoras: </b>Camila Vergara Ruiz, Elísabeth Frías, Javiera Menchaca Pardow, Mailén García, Mercy Sandoval, Patricia Muñoz Cabrera, y Rocío Suárez López.</p>
 
 
-  La editora: Alejandra Montes Escobar
+  <p><b>La editora:</b> Alejandra Montes Escobar</p>
 published: false
 ---
