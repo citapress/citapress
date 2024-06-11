@@ -41,7 +41,7 @@ foreword: >-
 
 
   <p><b>La editora:</b> Alejandra Montes Escobar</p>
-published: false
+published: true
 ---
 <body class="c9 c149 doc-content">
     <p class="c97 c66 c76"><span class="c57 c48"></span></p>
