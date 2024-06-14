@@ -10,6 +10,11 @@ author: Nellie Bly
 isbn: 978-1-961368-18-7
 post_image: ten-days-in-a-mad-house-cover.jpeg
 square_image: thumbnail-ten-days-square-update.jpg
+download: ten-days-in-a-mad-house.epub
+download_ebook: ""
+download_name: Download EPUB
+third_download_name: Download PDF
+third_download: ten-days-in-a-mad-house.pdf
 genre:
   - nonfiction
   - autobiography
