@@ -228,14 +228,14 @@ const PeopleIndex = ({ location, intl }) => {
             <p>
               <b>Video credits:</b> Fantasy by Podington Bear, Icons by Creative
               Mania, Llisole, Mungang Kim, Becris and corpus delicti and Luisa
-              Iborra. Powered by The Noun Project, and licensed under CC.
-              Preformatted text - Project Gutenberg. Interior illustrations for
-              The Yellow Wall-Paper - Jo. H. Hatfield, currently under public
-              domain. Spanish translation for The Old Maid - Freeditorial. Video
-              voice - Kira Street. Bindery by Evan Brooks. Licensed under MIT
+              Iborra. Video
+    voice - Kira Street. Powered by The Noun Project, and licensed under CC.</p>
+             <p><b> Preformatted text</b>: Project Gutenberg. </p><p><b>Interior illustrations for
+              The Yellow Wall-Paper</p><b>: Jo. H. Hatfield, currently under public
+              domain. <p><b>Spanish translation for The Old Maid</p></b>:Freeditorial.  <p>Bindery by Evan Brooks. Licensed under MIT
               License. Short video / gifs - From Giphy! Roboto and Bitter,
               distributed by Google Fonts. Licensed under OFL, Bluu, distributed
-              by Open Foundry. Licensed under OFL. If you believe this could be
+              by Open Foundry. Licensed under OFL.</p><p> If you believe this could be
               a more concrete credit, hit us up!
             </p>
             <hr />
