@@ -64,7 +64,7 @@ const PeopleIndex = ({ location, intl }) => {
               <div className="column">
                 <img
                   src="/img/people/fabian.jpg"
-                  alt="Illustration of Fabian Rios"
+                  alt="Illustration of Fabián Ríos"
                   width="150px"
                   height="auto"
                 />
@@ -78,7 +78,7 @@ const PeopleIndex = ({ location, intl }) => {
                 </p>
               </div>
             </div>
-             <div className="flex">
+            <div className="flex">
               <div className="column">
                 <img
                   src="/img/people/bex.PNG"
@@ -89,11 +89,11 @@ const PeopleIndex = ({ location, intl }) => {
               </div>
               <div className="column">
                 <p>
-                  <b>bex ya yolk</b> is Cita's designer. bex is a graphic designer, book artist, and arts professor based in Chicago, IL. They have a BFA from VCUarts and an MFA from SAIC. bex is the founder of an independent artists' book publisher THUNGRY.
+                  <b>Bex ya yolk</b> is a graphic designer, book artist, and arts professor based in Chicago, IL. They have a BFA from VCUarts and an MFA from SAIC. yolk is the founder of an independent artists' book publisher THUNGRY.
                 </p>
               </div>
             </div>
-                                 <div className="flex">
+            <div className="flex">
               <div className="column">
                 <img
                   src="/img/people/daniel.png"
@@ -228,14 +228,14 @@ const PeopleIndex = ({ location, intl }) => {
             <p>
               <b>Video credits:</b> Fantasy by Podington Bear, Icons by Creative
               Mania, Llisole, Mungang Kim, Becris and corpus delicti and Luisa
-              Iborra. Video
-    voice - Kira Street. Powered by The Noun Project, and licensed under CC.</p>
-             <p><b> Preformatted text</b>: Project Gutenberg. </p><p><b>Interior illustrations for
-              The Yellow Wall-Paper</p><b>: Jo. H. Hatfield, currently under public
-              domain. <p><b>Spanish translation for The Old Maid</p></b>:Freeditorial.  <p>Bindery by Evan Brooks. Licensed under MIT
+              Iborra. Powered by The Noun Project, and licensed under CC.
+              Preformatted text - Project Gutenberg. Interior illustrations for
+              The Yellow Wall-Paper - Jo. H. Hatfield, currently under public
+              domain. Spanish translation for The Old Maid - Freeditorial. Video
+              voice - Kira Street. Bindery by Evan Brooks. Licensed under MIT
               License. Short video / gifs - From Giphy! Roboto and Bitter,
               distributed by Google Fonts. Licensed under OFL, Bluu, distributed
-              by Open Foundry. Licensed under OFL.</p><p> If you believe this could be
+              by Open Foundry. Licensed under OFL. If you believe this could be
               a more concrete credit, hit us up!
             </p>
             <hr />
@@ -281,7 +281,8 @@ const PeopleIndex = ({ location, intl }) => {
               </div>{" "}
               <div className="column">
                 <p>
-                  <b>Juliana Castro Varón</b> es la fundadora de Cita. Es directora
+                  <b>Juliana Castro Varón</b> es la fundadora de Cita y
+                  co-investigadora principal de Getting Fit. Es directora
                   creativa, diseñadora y autora de Papel sensible. Actualmente
                   es Fellow del Berkman Klein Center for Internet &amp; Society
                   de la Universidad de Harvard.
@@ -300,30 +301,27 @@ const PeopleIndex = ({ location, intl }) => {
               </div>{" "}
               <div className="column">
                 <p>
-                  <b>Jessi Haley</b> es la diractora editorial de Cita. Jessi anteriormente administró el programa de
+                  <b>Jessi Haley</b> es la coordinadora editorial y de proyectos
+                  de Cita. Jessi anteriormente administró el programa de
                   escritura creativa en la Universidad de Chicago y formó parte
                   del equipo editorial de Chicago Review y Colloquium Magazine.
                 </p>
               </div>{" "}
             </div>{" "}
-                                </div>{" "}
             <div className="flex">
               {" "}
               <div className="column">
                 <img
-                  src="/img/people/fabian.JPG"
-                  alt="Illustration of Fabian"
+                  src="/img/people/fabian.jpg"
+                  alt="Illustration of Fabián Ríos"
                   width="150px"
                   height="auto"
                 />
               </div>{" "}
               <div className="column">
-                <p>
-                  <b>Fabián Ríos</b> es desarrollador web de Cita. Fabián tiene 11 años de experiencia como desarrollador y artista multimedia. Vive con su esposa, sus hijos y su perro en Düsseldorf, Alemania. 
-                </p>
+                <p><b>Fabián Ríos</b> es desarrollador web de Cita. Fabián tiene 11 años de experiencia como desarrollador y artista multimedia. Vive con su esposa, sus hijos y su perro en Düsseldorf, Alemania.</p>
               </div>{" "}
             </div>{" "}
-                                </div>{" "}
             <div className="flex">
               {" "}
               <div className="column">
@@ -335,26 +333,21 @@ const PeopleIndex = ({ location, intl }) => {
                 />
               </div>{" "}
               <div className="column">
-                <p>
-                  <b>bex ya yolk</b> es diseñadore de Cita, artista de libros y profe de arte de Chicago, Illinois. Tiene una licenciatura en Bellas Artes de VCUarts y una maestría en Bellas Artes de SAIC. bex fundó THUNGRY, una editorial independiente de libros de artistas. 
-                </p>
+              <p><b>Bex ya yolk</b> es un diseñador gráfico, artista de libros y profesor de artes con sede en Chicago, IL. Tiene un BFA de VCUarts y un MFA de SAIC. yolk es el fundador de la Editorial independiente de libros de artistas THUNGRY.</p>
               </div>{" "}
             </div>{" "}
-                                </div>{" "}
             <div className="flex">
               {" "}
               <div className="column">
                 <img
                   src="/img/people/daniel.png"
-                  alt="Illustration of Daniel Saldaña París"
+                  alt="Illustration of Daniel Saldaña"
                   width="150px"
                   height="auto"
                 />
               </div>{" "}
               <div className="column">
-                <p>
-                  <b>Daniel Saldaña París</b> es becario de Traducción Literaria y Tecnología de Cita. Escritor y traductor nacido en la Ciudad de México. Es autor de tres novelas y una colección de ensayos personales. Fue becario del Cullman Center 2022-2023 en la Biblioteca Pública de Nueva York.
-                </p>
+                <p><b>Daniel Saldaña París</b> es becario de Traducción Literaria y Tecnología de Cita. Escritor y traductor nacido en la Ciudad de México. Es autor de tres novelas y una colección de ensayos personales. Fue becario del Cullman Center 2022-2023 en la Biblioteca Pública de Nueva York.</p>
               </div>{" "}
             </div>{" "}
             <p>
