@@ -22,7 +22,8 @@ theme:
   - LGBTQ+
 lang: es
 description: >-
-  
+  Muy pronto
+
 
   <p> Algunos derechos reservados. Esta traducción se publica bajo una licencia CC BY-NC-ND </p>
 foreword: >-
@@ -43,4 +44,3 @@ foreword: >-
   <p><b>La editora:</b> Alejandra Montes Escobar</p>
 published: false
 ---
-
