@@ -36,8 +36,8 @@ const PeopleIndex = ({ location, intl }) => {
               <div className="column">
                 <p>
                   <b>Juliana Castro Varón</b> is Cita’s Founder and Design
-                  Director. She is a designer, and the author of Papel sensible.
-                  Juliana is currently a fellow at Harvard University's Berkman
+                  Director. She is a designer, and the author of <i>Papel sensible</i>.
+                  Juliana is an affiliate at Harvard University's Berkman
                   Klein Center for Internet &amp; Society.{" "}
                 </p>
               </div>
