@@ -89,7 +89,7 @@ const PeopleIndex = ({ location, intl }) => {
               </div>
               <div className="column">
                 <p>
-                  <b>Bex ya yolk</b> is a graphic designer, book artist, and arts professor based in Chicago, IL. They have a BFA from VCUarts and an MFA from SAIC. yolk is the founder of an independent artists' book publisher THUNGRY.
+                  <b>bex ya yolk</b> is a graphic designer, book artist, and arts professor based in Chicago, IL. They have a BFA from VCUarts and an MFA from SAIC. bex is the founder of an independent artists' book publisher THUNGRY.
                 </p>
               </div>
             </div>
@@ -201,12 +201,12 @@ const PeopleIndex = ({ location, intl }) => {
               <b>Designers:</b> Josie Bellini, Antonela Debiasi, Fiorella
               Ferroni, Thaïs Jacoponi, Irina Koryagina, Annika Leppäaho, Kathy
               Mueller, Jiwon Park, Laura Ramírez, Natalia Rojas, Laura Savina,
-              Lauren Smedley, Luce Terrasson, Catalina Vásquez, Jean Yang, Petra
-              Zehner
+              Lauren Smedley, Luce Terrasson, Catalina Vásquez, Shuhua Xiong, Jean Yang, Petra
+              Zehner, Dajia Zhou
             </p>{" "}
             <p>
-              <b>Writers:</b> Ana María Carvajal, Francesca Gargallo, Catherine
-              J. Golden, Bonnie Hurd Smith, Christy Hyman, Carol MacKay, Heather
+              <b>Writers:</b> Mikita Brottman, Ana María Carvajal, Francesca Gargallo, Catherine
+              J. Golden, Bonnie Hurd Smith, Christy Hyman, Carol MacKay, Victoria Namkung, Heather
               Ostman, Krithika Varagur, Gabrielle Welsh
             </p>{" "}
             <p>
@@ -223,19 +223,19 @@ const PeopleIndex = ({ location, intl }) => {
             <p>
               <b>Other contributors and supporters:</b> Nate Angell (Mozilla
               Open Leaders mentor and friend), Tien Mimi Nguyen (Write Speak
-              Code SF advocate), Camilo Villegas (Web Dev support), Mindy Seu and Katherine Maher (Former Board Members)
+              Code SF advocate), Camilo Villegas (Web Dev support), Mindy Seu, Katherine Maher, and Vicky Checo (Former Board Members)
             </p>{" "}
             <p>
               <b>Video credits:</b> Fantasy by Podington Bear, Icons by Creative
               Mania, Llisole, Mungang Kim, Becris and corpus delicti and Luisa
-              Iborra. Powered by The Noun Project, and licensed under CC.
-              Preformatted text - Project Gutenberg. Interior illustrations for
+              Iborra. Powered by The Noun Project, and licensed under CC.Video
+              voice - Kira Street.</p>
+              <p>Preformatted text - Project Gutenberg. </p><p>Interior illustrations for
               The Yellow Wall-Paper - Jo. H. Hatfield, currently under public
-              domain. Spanish translation for The Old Maid - Freeditorial. Video
-              voice - Kira Street. Bindery by Evan Brooks. Licensed under MIT
-              License. Short video / gifs - From Giphy! Roboto and Bitter,
+              domain.</p><p> Spanish translation for The Old Maid - Freeditorial. </p><p> Bindery by Evan Brooks. Licensed under MIT
+              License.</p><p> Short video / gifs - From Giphy!</p> <p>Roboto and Bitter,
               distributed by Google Fonts. Licensed under OFL, Bluu, distributed
-              by Open Foundry. Licensed under OFL. If you believe this could be
+              by Open Foundry. Licensed under OFL.</p><p> If you believe this could contain
               a more concrete credit, hit us up!
             </p>
             <hr />
