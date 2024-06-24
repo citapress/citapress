@@ -22,9 +22,7 @@ theme:
   - LGBTQ+
 lang: es
 description: >-
-  Muy pronto
-
-
+  
   <p> Algunos derechos reservados. Esta traducción se publica bajo una licencia CC BY-NC-ND </p>
 foreword: >-
   <p><b>El Colectivo Women Resisting Violence (WRV) </b>refleja los procesos de
