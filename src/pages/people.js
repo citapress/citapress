@@ -71,7 +71,7 @@ const PeopleIndex = ({ location, intl }) => {
               </div>
               <div className="column">
                 <p>
-                  <b>Fabián Ríos</b> is Cita’s Web Developer. Fabian brings
+                  <b>Fabián Ríos</b> is Cita’s Web Developer. Fabián brings
                   about 11 years of experience as a developer and media artist.
                   He lives with his wife, children, and dog in Düsseldorf,
                   Germany.
