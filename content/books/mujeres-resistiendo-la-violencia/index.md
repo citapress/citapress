@@ -42,8 +42,7 @@ foreword: >-
   <p><b>La editora:</b> Alejandra Montes Escobar</p>
 published: true
 ---
-
-    <h2 class="c14" id="h.30j0zll"><span class="c73">Reconocimiento</span></h2>
+<h2 class="c14" id="h.30j0zll"><span class="c73">Reconocimiento</span></h2>
     <p class="c72 c66 c76"><span class="c2 c141"></span></p>
     <p class="c79"><span class="c2">Los alarmantes índices de violencia contra las mujeres en América Latina pueden ser abrumadores y desesperanzadores. No obstante, al resaltar estrategias y acciones concretas y eficaces –lideradas por quienes son las más afectadas por esta violencia–, el libro </span><span class="c0">Mujeres resistiendo la violencia</span><span class="c2"> desempeña un papel fundamental en la búsqueda de soluciones. Este es un valioso recurso para activistas, periodistas e investigadoras, y un poderoso registro de resistencia popular.</span></p>
     <p class="c111"><p align="right"><span class="c0"><i>Silvia Viñas, productora ejecutiva y copresentadora del podcast </span><span class="c2">El hilo</span><span class="c0"> de Radio Ambulante Estudios y VICE News</span></i></p>
