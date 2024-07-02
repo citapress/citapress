@@ -61,7 +61,7 @@ foreword: >-
 
 
   <p><b>La editora:</b> Alejandra Montes Escobar</p>
-published: true
+published: false
 ---
 <h2 class="c14" id="h.30j0zll"><span class="c73">Reconocimiento</span></h2>
     <p class="c72 c66 c76"><span class="c2 c141"></span></p>
