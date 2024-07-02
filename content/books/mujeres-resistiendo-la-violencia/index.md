@@ -22,7 +22,28 @@ theme:
   - LGBTQ+
 lang: es
 description: >-
-  
+  <p><b><i>Mujeres resistiendo la violencia</i></b> es un libro iluminador y
+  poderoso sobre las formas en que las mujeres enfrentan y resisten las diversas
+  formas de violencias interseccionales y de género. Por medio de estudios de
+  caso, testimonios de mujeres activistas y lideresas de América Latina y un
+  análisis académico riguroso, vemos las audaces iniciativas y estrategias de
+  resistencia que distintos colectivos y organizaciones de mujeres están
+  desarrollando en la región. Su perspectiva interseccional revela cómo la
+  violencia de género está estrechamente relacionada con el estatus
+  socioeconómico, la raza y la identidad sexual. Particularmente, desde la
+  perspectiva de las mujeres que viven en las periferias de las ciudades, las
+  migrantes y las trabajadoras domésticas; como también las que denuncian el
+  despojo a la tierra y la destrucción ambiental, las que luchan por los
+  derechos reproductivos y el acceso al aborto seguro y las que se manifiestan
+  por medio del arte frente a la violencia estatal y la impunidad. Este libro
+  exalta la sororidad de las mujeres para juntarse, acompañarse y resistir.</p>
+
+
+  <p>En su propósito de llegar a la mayor audiencia posible y ofrecer estrategias y alternativas que contribuyan al cambio de políticas para mitigar la violencia de género e interseccional, este libro hace parte de un proyecto más amplio del Latin America Bureau (LAB) que ha sido difundido por medio de un sitio web, una serie de podcast, eventos, y el libro en inglés, español y próximamente en portugués.</p>
+
+
+  <p>En asociación con el LAB, nos complace poner a disposición de todos en línea, de forma gratuita, la edición en español de este libro. </p>
+
   <p> Algunos derechos reservados. Esta traducción se publica bajo una licencia CC BY-NC-ND </p>
 foreword: >-
   <p><b>El Colectivo Women Resisting Violence (WRV) </b>refleja los procesos de
