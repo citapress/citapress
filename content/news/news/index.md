@@ -5,6 +5,7 @@ templateKey: news-page
 ---
 ## 2024
 
+* **July 2024 (Book)** Cita will publish the Spanish-language edition of *Mujeres resistiendo violencia* (Women Resisting Violence) with Latin America Bureau.
 * **June 2024 (Announcement/Hiring)** bex ya yolk joins Cita Press as Designer!
 * **May 2024 (Announcement)** Cita publishes a new edition of *Ten Days in a Mad-House* by Nellie Bly. The foreword is by Mikita Brottman and the cover and illustrations are by Dajia Zhou. 
 * **April 2024 (Announcement/Hiring)** Daniel Saldaña París joins Cita Press as Literary Translation & Technology Fellow.
