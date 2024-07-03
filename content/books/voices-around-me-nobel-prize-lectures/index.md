@@ -192,7 +192,7 @@ Voices Around Me: Nobel Lectures
 
 <p>Copyright © The Nobel Foundation 1991 </p>
 
-  <a href="#toc">Back to the Start</a>
+
 
 <h2 id="chapter2"> TONI MORRISON, 1993 </h2>
 <p><i>Nobel Lecture December 7, 1993</i></p>
@@ -270,13 +270,10 @@ Voices Around Me: Nobel Lectures
 <i>From</i> Nobel Lectures, Literature 1991-1995,<i> Editor Sture Allén, World Scientific Publishing Co., Singapore, 1997 </i><p>
 
   <p>Copyright © The Nobel Foundation 1993</p>
-   <a href="#toc">Back to the Start</a>
 
-```
+<h2 id="chapter3"> WISŁAWA SZYMBORSKA, 1996 </h2>
 
-```
-
-  <p> <i>Nobel Lecture, December 7, 1996</i></p>
+  <p><i>Nobel Lecture, December 7, 1996</i></p>
 
 <p><b>The poet and the world</b></p>
 
