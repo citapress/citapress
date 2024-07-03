@@ -320,7 +320,7 @@ Voices Around Me: Nobel Lectures
 <p><i>Translated from Polish by Stanislaw Baranczak and Clare Cavanagh</i></p>
 
 <p>Copyright © The Nobel Foundation 1996</p>
- <a href="#toc">Back to the Start</a>
+
 
  <h2 id="chapter4"> DORIS LESSING, 2007 </h2>
 
