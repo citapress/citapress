@@ -1044,7 +1044,7 @@ Un ejemplo de esto último es el trabajo reciente de Gaël Le Cornec una dramatu
 Otro ejemplo de trabajo artístico para abordar y resistir la violencia de género es un proyecto teatral del que hablamos en nuestro podcast </span>Mujeres resistiendo la violencia (Morris, 2021). Lutamos no escuro \[Seguimos luchando en la oscuridad]<sup class="c16 c10"><a href="#ftnt49" id="ftnt_ref49">\[49]</a></sup><span class="c2"> se basa en la misma investigación y es desarrollado por Migrants in Action (MinA) \[Migrantes en Acción] y dirigido por Carolina Cal Angrisani. Carolina fundó la organización MinA en 2018 como un grupo de teatro comunitario que aboga por el bienestar y la visibilidad de la comunidad brasileña en el Reino Unido y Europa (Drabwell, 2021). El proyecto se basa en el informe «We can’t fight in the dark» \[No podemos luchar en la oscuridad] (McIlwaine &amp; Evans, 2018) y supone una reinterpretación de los resultados de la investigación por medio de ocho talleres creativos de artes aplicadas diseñados para mejorar el bienestar, desarrollar la sanación comunitaria y aumentar la visibilidad de la violencia de género por medio de una instalación artística/video. Los talleres se llevaron a cabo tanto en línea como en persona entre 2021 y 2022 y combinaron talleres de teatro, música, escritura y poesía, junto con reuniones presenciales, para crear la instalación cinematográfica final \[ver la figura 5.2]. 
  
 
-<p class="c15" id="#h.4cmhg48l">
+<p class="c15" id="#h.4cmhg48">
 
 ![test](figura5.2_mujeres.jpg "figura5.2")
 
