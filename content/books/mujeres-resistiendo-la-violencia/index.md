@@ -1046,7 +1046,7 @@ Otro ejemplo de trabajo artístico para abordar y resistir la violencia de géne
 
 <p class="c15" id="h.4cmhg48"></p>
 
-![test](figura5.2_mujeres.jpeg "figura5.2")
+![test](figura5.2_mujeres_update.png "figura5.2")
 
 Cuando se preguntó a las mujeres, en el primer taller, sobre sus expectativas acerca de su participación en el proyecto, una mujer señaló qué deseaba:
 
