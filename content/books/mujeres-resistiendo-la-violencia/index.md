@@ -583,8 +583,8 @@ Este capítulo ha demostrado cómo las mujeres en América Latina están lejos d
 
 </p>
 
-<right>La violencia contra las trabajadoras del hogar va desde la forma irrespetuosa en que los empleadores nos hablan con gritos e insultos hasta no tener nuestros derechos laborales. Considerar todas las diferentes formas de violencia que afectan a las trabajadoras del hogar da una comprensión más amplia de nuestras necesidades como trabajadoras.
-(Aquino, 2021)</right>
+<right><i>La violencia contra las trabajadoras del hogar va desde la forma irrespetuosa en que los empleadores nos hablan con gritos e insultos hasta no tener nuestros derechos laborales. Considerar todas las diferentes formas de violencia que afectan a las trabajadoras del hogar da una comprensión más amplia de nuestras necesidades como trabajadoras.<br>
+(Aquino, 2021)</right></i>
 
 El hogar debería ser un lugar seguro, un refugio para el descanso y la recuperación, pero con demasiada frecuencia es un lugar de violencia y abuso. ONU Mujeres informa que la violencia de pareja es la forma más prevaleciente de la violencia contra las mujeres y las niñas (VCMN) en el mundo y una de las mayores violaciones de derechos humanos, que aumentó de manera alarmante durante la pandemia de covid-19 (Mlambo-Ngcuka, 2020). Quizás se reconoce menos frecuentemente que la violencia en el hogar también afecta a las mujeres contratadas para hacer tareas domésticas y ayudar con el cuidado y el bienestar de determinadas familias. Este capítulo presenta las formas interseccionales de violencia que afectan a las mujeres que trabajan en el sector. Destaca cómo, en los últimos años, las trabajadoras del hogar en toda América Latina se han empoderado para denunciar el maltrato que reciben por parte de las personas que las emplean, como resultado, se han vuelto más visibles como defensoras de sus derechos como trabajadoras. Destaca algunos de los logros de las organizaciones de trabajadoras del hogar en la resistencia a la violencia y la discriminación en su lugar de trabajo, como también da cuenta de la transformación de las trabajadoras del hogar en activistas que defienden sus derechos, en los ámbitos nacional y regional, y se convierten en actoras en el ámbito político internacional.
 
@@ -618,15 +618,15 @@ La naturaleza del empleo doméstico en América Latina ha cambiado en las últim
 
 <p class="c1" id="h.3cqmetx">Un estudio realizado por la oenegé internacional CARE con integrantes de la Confederación Latinoamericana y del Caribe de Trabajadoras del Hogar (Conlactraho) examinó la violencia y el abuso en el lugar de trabajo que enfrentan las trabajadoras del hogar en Ecuador, Colombia, México, Honduras y Guatemala. En su encuesta con trabajadoras, encontraron que 8 de cada 10 mujeres empleadas en hogares privados habían experimentado violencia en el trabajo. Este fue un estudio participativo que identificó problemas comunes entre las trabajadoras del hogar en todos estos países, los cuales tenían que ver con las vulnerabilidades, el bajo estatus y la falta de derechos laborales. En un ejercicio de mapeo con un grupo de trabajadoras del hogar en San Pedro Sula, Honduras, las mujeres definieron sus experiencias de violencia en el lugar de trabajo de la siguiente manera:</p>
 
-* Abuso verbal 
-* Abuso y acoso sexual
-* Intimidación y abuso psicológico
-* Largas jornadas de trabajo
-* Salarios bajos
-* Amenaza de perder nuestros trabajos
-* Falta de valoración a nuestro trabajo
-* Racismo
-* Discriminación
+* *Abuso verbal 
+* *Abuso y acoso sexual
+* *Intimidación y abuso psicológico
+* *Largas jornadas de trabajo
+* *Salarios bajos
+* *Amenaza de perder nuestros trabajos
+* *Falta de valoración a nuestro trabajo
+* *Racismo
+* *Discriminación
 
 
 Casi todas las mujeres que participaron en el estudio de CARE fueron sobrevivientes de algún tipo de violencia en su lugar de trabajo, exacerbada por el racismo y el machismo que prevalecen en la sociedad en general. En el mismo estudio, las mujeres participantes en discusiones de grupos focales en otros países identificaron además la violencia como: explotación económica y laboral, pérdida de libertad, engaño y control mediante la retención de pasaportes de personas trabajadoras migrantes. El estudio también encontró que el acoso y el abuso sexual contra las trabajadoras del hogar se intensificó en el caso de las mujeres afrodescendientes, quienes fueron hipersexualizadas por los empleadores masculinos. Algunas trabajadoras informaron que habían intentado poner fin al acoso contándole a su empleadora sobre su cónyuge, pero no les creyeron o fueron acusadas de provocar la situación. En un ejercicio de mapeo con un grupo en Ecuador, se preguntó a las participantes dónde se sentían inseguras dentro de la casa de sus empleadores. Muchas participantes identificaron el dormitorio del patrón como un lugar al que había que temer: «Sabemos que en los dormitorios de los empleadores muchas mujeres quedaron embarazadas después de haber sido violadas allí». También confirmaron que, en sus experiencias, «las mujeres afroecuatorianas e indígenas son las más explotadas, pero es más difícil para las mujeres indígenas porque su cultura no les permite hablar sobre el abuso» (CARE, 2018).
