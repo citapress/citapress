@@ -63,14 +63,16 @@ foreword: >-
   <p><b>La editora:</b> Alejandra Montes Escobar</p>
 published: false
 ---
-## Violencia contra trabajadoras domésticasReconocimiento
+## Reconocimiento
 
-Los alarmantes índices de violencia contra las mujeres en América Latina pueden ser abrumadores y desesperanzadores. No obstante, al resaltar estrategias y acciones concretas y eficaces –lideradas por quienes son las más afectadas por esta violencia–, el libro Mujeres resistiendo la violencia desempeña un papel fundamental en la búsqueda de soluciones. Este es un valioso recurso para activistas, periodistas e investigadoras, y un poderoso registro de resistencia popular.
-<i>Silvia Viñas</i>, productora ejecutiva y copresentadora del podcast El hilo de Radio Ambulante Estudios y VICE News
-<br />
+Los alarmantes índices de violencia contra las mujeres en América Latina pueden ser abrumadores y desesperanzadores. No obstante, al resaltar estrategias y acciones concretas y eficaces –lideradas por quienes son las más afectadas por esta violencia–, el libro *Mujeres resistiendo la violencia* desempeña un papel fundamental en la búsqueda de soluciones. Este es un valioso recurso para activistas, periodistas e investigadoras, y un poderoso registro de resistencia popular.
 
-<p class="c79">Latinoamérica es el continente con mayores índices de violencia contra las mujeres y las niñas, pero, a su vez, con una tremenda potencia para resistencias múltiples. Este libro demuestra una vez más la importancia de los lazos de sororidad entre feministas de la academia e indígenas feministas que proponen creativas formas de resistencia y teorización desde el sur. Como dice la canción: nos sembraron miedo, nos crecieron alas…</p>
-<p class="c66 c111"><p align="right"><i>Rocío Silva Santisteban</i>, poeta peruana, activista feminista, académica y excongresista</p>
+
+*Silvia Viñas, productora ejecutiva y copresentadora del podcast* El hilo *de Radio Ambulante Estudios y VICE News*
+
+
+<p class="c79">Latinoamérica es el continente con mayores índices de violencia contra las mujeres y las niñas, pero, a su vez, con una tremenda potencia para resistencias múltiples. Este libro demuestra una vez más la importancia de los lazos de sororidad entre feministas de la academia e indígenas feministas que proponen creativas formas de resistencia y teorización desde el sur. Como dice la canción: *nos sembraron miedo, nos crecieron alas…*</p>
+<p class="c66 c111"><p align="right">*Rocío Silva Santisteban, poeta peruana, activista feminista, académica y excongresista*</p>
 
 «El Estado no me cuida, me cuidan mis amigas». Este libro muestra de forma muy completa cómo se lleva a la práctica esta consigna coreada por las mujeres latinoamericanas en las protestas de todo el continente. Desde las zonas rurales a las ciudades, en sus hogares o espacios íntimos e incluso por medio de sus propios cuerpos, vemos cómo las mujeres desatendidas por el Estado se unen para protegerse mutuamente de distintos tipos de violencias interseccionales de género.
 Sus acciones incluyen movilizaciones masivas a favor del aborto y contra el feminicidio, la protección de las tierras indígenas y la naturaleza, el uso del arte para luchar por el cambio social, la creación de albergues para mujeres, aplicaciones móviles para hacer las ciudades más seguras y campañas a favor de las migrantes y las trabajadoras domésticas. Son actos de resistencia con los que las mujeres se enfrentan a la violencia sistémica y crean un mundo mejor y más seguro para todas, algo especialmente importante debido al aumento de las desigualdades provocadas por el covid-19.
