@@ -65,20 +65,21 @@ published: false
 ---
 ## Reconocimiento
 
-Los alarmantes índices de violencia contra las mujeres en América Latina pueden ser abrumadores y desesperanzadores. No obstante, al resaltar estrategias y acciones concretas y eficaces –lideradas por quienes son las más afectadas por esta violencia–, el libro *Mujeres resistiendo la violencia* desempeña un papel fundamental en la búsqueda de soluciones. Este es un valioso recurso para activistas, periodistas e investigadoras, y un poderoso registro de resistencia popular.
+Los alarmantes índices de violencia contra las mujeres en América Latina pueden ser abrumadores y desesperanzadores. No obstante, al resaltar estrategias y acciones concretas y eficaces –lideradas por quienes son las más afectadas por esta violencia–, el libro <i>Mujeres resistiendo la violencia</i> desempeña un papel fundamental en la búsqueda de soluciones. Este es un valioso recurso para activistas, periodistas e investigadoras, y un poderoso registro de resistencia popular.
 
 
-*Silvia Viñas, productora ejecutiva y copresentadora del podcast* El hilo *de Radio Ambulante Estudios y VICE News*
+<p align="right">*Silvia Viñas, productora ejecutiva y copresentadora del podcast* El hilo *de Radio Ambulante Estudios y VICE News*</p>
 
 
-<p class="c79">Latinoamérica es el continente con mayores índices de violencia contra las mujeres y las niñas, pero, a su vez, con una tremenda potencia para resistencias múltiples. Este libro demuestra una vez más la importancia de los lazos de sororidad entre feministas de la academia e indígenas feministas que proponen creativas formas de resistencia y teorización desde el sur. Como dice la canción: *nos sembraron miedo, nos crecieron alas…*</p>
+<p class="c79">Latinoamérica es el continente con mayores índices de violencia contra las mujeres y las niñas, pero, a su vez, con una tremenda potencia para resistencias múltiples. Este libro demuestra una vez más la importancia de los lazos de sororidad entre feministas de la academia e indígenas feministas que proponen creativas formas de resistencia y teorización desde el sur. Como dice la canción: <i>nos sembraron miedo, nos crecieron alas…</i></p>
 <p class="c66 c111"><p align="right">*Rocío Silva Santisteban, poeta peruana, activista feminista, académica y excongresista*</p>
 
 «El Estado no me cuida, me cuidan mis amigas». Este libro muestra de forma muy completa cómo se lleva a la práctica esta consigna coreada por las mujeres latinoamericanas en las protestas de todo el continente. Desde las zonas rurales a las ciudades, en sus hogares o espacios íntimos e incluso por medio de sus propios cuerpos, vemos cómo las mujeres desatendidas por el Estado se unen para protegerse mutuamente de distintos tipos de violencias interseccionales de género.
 Sus acciones incluyen movilizaciones masivas a favor del aborto y contra el feminicidio, la protección de las tierras indígenas y la naturaleza, el uso del arte para luchar por el cambio social, la creación de albergues para mujeres, aplicaciones móviles para hacer las ciudades más seguras y campañas a favor de las migrantes y las trabajadoras domésticas. Son actos de resistencia con los que las mujeres se enfrentan a la violencia sistémica y crean un mundo mejor y más seguro para todas, algo especialmente importante debido al aumento de las desigualdades provocadas por el covid-19.
+
 Todas deberíamos leer este libro para recordar lo fuerte que es el enemigo y unirnos a la lucha desde nuestra propia posición y posibilidades (estemos donde estemos y en la medida de nuestras habilidades). Como leemos aquí, todo cuenta, incluso esperar a recibir un mensaje de que tu amiga llegó con bien a casa.
 
-<p class="c111 c66"><p align="right"><i>Catalina May, Las Raras podcast</i></p>
+<p class="c111 c66"><p align="right">*Catalina May, Las Raras podcast*</p>
 
 Este libro altamente accesible se ocupa de uno de los problemas más importantes de América Latina en la actualidad y el futuro: la violencia contra las mujeres y las niñas. Su singularidad radica en poner en el centro la resistencia de las mujeres a la violencia, en lugar de las mujeres como víctimas de esta, en un contexto en el que la diversidad es clave, haciendo hincapié en las dimensiones interseccionales de las experiencias de las mujeres. El texto va acompañado de recuadros, ilustraciones y enlaces que enriquecen la lectura. </span>Mujeres resistiendo la violencia <span class="c2">es un texto fundamental tanto para tomadores de decisiones políticas, como para investigadores y estudiantes.
 
