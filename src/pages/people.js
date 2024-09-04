@@ -311,17 +311,7 @@ const PeopleIndex = ({ location, intl }) => {
             </div>{" "}
             <div className="flex">
               {" "}
-              <div className="column">
-                <img
-                  src="/img/people/bex.PNG"
-                  alt="Illustration of bex ya yolk"
-                  width="150px"
-                  height="auto"
-                />
-              </div>{" "}
-              <div className="column">
-              <p><b>Bex ya yolk</b> es un diseñador gráfico, artista de libros y profesor de artes con sede en Chicago, IL. Tiene un BFA de VCUarts y un MFA de SAIC. yolk es el fundador de la Editorial independiente de libros de artistas THUNGRY.</p>
-              </div>{" "}
+           
             </div>{" "}
             <div className="flex">
               {" "}
