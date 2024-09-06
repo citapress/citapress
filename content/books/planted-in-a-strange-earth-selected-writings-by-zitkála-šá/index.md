@@ -8,8 +8,8 @@ sortingdate: 2024-09-05T14:29:00.000Z
 templateKey: book-page
 author: Zitkála-Šá (Gertrude Simmons Bonnin)
 isbn: 978-1-961368-20-0
-post_image: cover_zitkálasá_final.png
-square_image: zitkála_sá_thumbnail.png
+post_image: cover_zitkálasá_final.jpg
+square_image: zitkála_sá_thumbnail.jpg
 genre:
   - fiction
   - short-stories
@@ -353,8 +353,6 @@ Lifting the lid, I found nothing but coffee grounds in the bottom. I set the pot
 They both laughed, and mother said, "Wait a little longer, and I shall build a fire." She meant to make some real coffee. But neither she nor the warrior, whom the law of our custom had compelled to partake of my insipid hospitality, said anything to embarrass me. They treated my best judgment, poor as it was, with the utmost respect. It was not till long years afterward that I learned how ridiculous a thing I had done.
 
 ### V. THE DEAD MAN'S PLUM BUSH.
-
-
 
 One autumn afternoon many people came streaming toward the dwelling of our near neighbor. With painted faces, and wearing broad white bosoms of elk's teeth, they hurried down the narrow footpath to Haraka Wambdi's wigwam. Young mothers held their children by the hand, and half pulled them along in their haste. They overtook and passed by the bent old grandmothers who were trudging along with crooked canes toward the centre of excitement. Most of the young braves galloped hither on their ponies. Toothless warriors, like the old women, came more slowly, though mounted on lively ponies. They sat proudly erect on their horses. They wore their eagle plumes, and waved their various trophies of former wars.
 
