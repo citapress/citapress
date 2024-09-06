@@ -29,20 +29,20 @@ theme:
   - mental-health
 lang: en
 description: >
-  <i>“To have [Zitkála-Šá’s] work collected here now speaks to the tenacity of
-  her spirit, her insistence on being heard across generations. Speaking of
+  <p><i>“To have [Zitkála-Šá’s] work collected here now speaks to the tenacity
+  of her spirit, her insistence on being heard across generations. Speaking of
   herself, of her world, she teaches us how to be now.” <b>–Erin Marie Lynch,
-  foreword</i></b>
+  foreword</i></b></p>
 
 
-  <i>Planted in a Strange Earth: Selected Writings by Zitkála-Šá</i> brings together fiction, nonfiction, and poetry by one of the most influential yet underappreciated activist-artists of the twentieth century. Zitkála-Šá (also known as Gertrude Simmons Bonnin, 1876-1938) spent her early years on the Yankton Indian Reservation before becoming a pupil, teacher, and reluctant poster child of the Indian boarding school system. Her first national publications marked a definitive break with the oppressive ideas behind her education, and her early fame as a musician and writer evolved into a decades-long political career fighting for Native rights. 
+  <p><i>Planted in a Strange Earth: Selected Writings by Zitkála-Šá</i> brings together fiction, nonfiction, and poetry by one of the most influential yet underappreciated activist-artists of the twentieth century. Zitkála-Šá (also known as Gertrude Simmons Bonnin, 1876-1938) spent her early years on the Yankton Indian Reservation before becoming a pupil, teacher, and reluctant poster child of the Indian boarding school system. Her first national publications marked a definitive break with the oppressive ideas behind her education, and her early fame as a musician and writer evolved into a decades-long political career fighting for Native rights. </p>
 
 
-  The collection focuses on the author’s writing on assimilationist projects of the late nineteenth and early twentieth century and their impact within Native communities and individuals. Zitkála-Šá’s voice is lyrical, bold and fresh–even over 100 years after initial publication. Her writing captures the intense beauty and pain of growing up and explores what it means to forge an identity in the face of cultural erasure. These are essential feminist texts that dig into the cruel tensions of an era through the eyes of an author who spent a lifetime “actively testing the chains which tightly bound [her] individuality like a mummy for burial.”
+  <p>The collection focuses on the author’s writing on assimilationist projects of the late nineteenth and early twentieth century and their impact within Native communities and individuals. Zitkála-Šá’s voice is lyrical, bold and fresh–even over 100 years after initial publication. Her writing captures the intense beauty and pain of growing up and explores what it means to forge an identity in the face of cultural erasure. These are essential feminist texts that dig into the cruel tensions of an era through the eyes of an author who spent a lifetime “actively testing the chains which tightly bound [her] individuality like a mummy for burial.”</p>
 foreword: >-
-  <b>Foreword:</b> Erin Marie Lynch is the author of Removal Acts (Graywolf
-  Press, 2023). Her writing appears in POETRY, New England Review, DIAGRAM,
-  Narrative, Best New Poets, and other publications.
+  <p><b>Foreword:</b> Erin Marie Lynch is the author of Removal Acts (Graywolf
+  Press, 2023). Her writing appears in <i>POETRY, New England Review, DIAGRAM,
+  Narrative, Best New Poets,<i> and other publications.</p>
 
 
   <b>Cover:</b> Mer Young is an Indigenous published multidisciplinary artist, BIPOC activist, steward of land and water and environmental justice advocate.
@@ -164,47 +164,25 @@ Setting the pail of water on the ground, my mother stooped, and stretching her l
 
 My mother was silent the rest of the way to our wigwam. Though I saw no tears in her eyes, I knew that was because I was with her. She seldom wept before me.
 
-II.
-
-THE LEGENDS.
-
-
+### II. THE LEGENDS.
 
 During the summer days my mother built her fire in the shadow of our wigwam.
 
-
-
 In the early morning our simple breakfast was spread upon the grass west of our tepee. At the farthest point of the shade my mother sat beside her fire, toasting a savory piece of dried meat. Near her, I sat upon my feet, eating my dried meat with unleavened bread, and drinking strong black coffee.
-
-
 
 The morning meal was our quiet hour, when we two were entirely alone. At noon, several who chanced to be passing by stopped to rest, and to share our luncheon with us, for they were sure of our hospitality.
 
-
-
 My uncle, whose death my mother ever lamented, was one of our nation's bravest warriors. His name was on the lips of old men when talking of the proud feats of valor; and it was mentioned by younger men, too, in connection with deeds of gallantry. Old women praised him for his kindness toward them; young women held him up as an ideal to their sweethearts. Every one loved him, and my mother worshiped his memory. Thus it happened that even strangers were sure of welcome in our lodge, if they but asked a favor in my uncle's name.
-
-
 
 Though I heard many strange experiences related by these wayfarers, I loved best the evening meal, for that was the time old legends were told. I was always glad when the sun hung low in the west, for then my mother sent me to invite the neighboring old men and women to eat supper with us. Running all the way to the wigwams, I halted shyly at the entrances. Sometimes I stood long moments without saying a word. It was not any fear that made me so dumb when out upon such a happy errand; nor was it that I wished to withhold the invitation, for it was all I could do to observe this very proper silence. But it was a sensing of the atmosphere, to assure myself that I should not hinder other plans. My mother used to say to me, as I was almost bounding away for the old people: "Wait a moment before you invite any one. If other plans are being discussed, do not interfere, but go elsewhere."
 
-
-
 The old folks knew the meaning of my pauses; and often they coaxed my confidence by asking, "What do you seek, little granddaughter?"
-
-
 
 "My mother says you are to come to our tepee this evening," I instantly exploded, and breathed the freer afterwards.
 
-
-
 "Yes, yes, gladly, gladly I shall come!" each replied. Rising at once and carrying their blankets across one shoulder, they flocked leisurely from their various wigwams toward our dwelling.
 
-
-
 My mission done, I ran back, skipping and jumping with delight. All out of breath, I told my mother almost the exact words of the answers to my invitation. Frequently she asked, "What were they doing when you entered their tepee?" This taught me to remember all I saw at a single glance. Often I told my mother my impressions without being questioned.
-
-
 
 While in the neighboring wigwams sometimes an old Indian woman asked me, "What is your mother doing?" Unless my mother had cautioned me not to tell, I generally answered her questions without reserve.
 
@@ -248,11 +226,7 @@ Ever after that night I felt suspicious of tattooed people. Wherever I saw one I
 
 It was rarely that such a fearful story as this one was told by the camp fire. Its impression was so acute that the picture still remains vividly clear and pronounced.
 
-III.
-
-THE BEADWORK.
-
-
+### III. THE BEADWORK.
 
 Soon after breakfast mother sometimes began her beadwork. On a bright, clear day, she pulled out the wooden pegs that pinned the skirt of our wigwam to the ground, and rolled the canvas part way up on its frame of slender poles. Then the cool morning breezes swept freely through our dwelling, now and then wafting the perfume of sweet grasses from newly burnt prairie.
 
@@ -320,15 +294,9 @@ Before this peculiar experience I have no distinct memory of having recognized a
 
 Returning our borrowed belts and trinkets, we rambled homeward. That evening, as on other evenings, I went to sleep over my legends.
 
-IV.
-
-THE COFFEE-MAKING.
-
-
+### IV. THE COFFEE-MAKING.
 
 One summer afternoon my mother left me alone in our wigwam while she went across the way to my aunt's dwelling.
-
-
 
 I did not much like to stay alone in our tepee for I feared a tall, broad-shouldered crazy man, some forty years old, who walked loose among the hills. Wiyaka-Napbina (Wearer of a Feather Necklace) was harmless, and whenever he came into a wigwam he was driven there by extreme hunger. He went nude except for the half of a red blanket he girdled around his waist. In one tawny arm he used to carry a heavy bunch of wild sunflowers that he gathered in his aimless ramblings. His black hair was matted by the winds, and scorched into a dry red by the constant summer sun. As he took great strides, placing one brown bare foot directly in front of the other, he swung his long lean arm to and fro.
 
@@ -384,9 +352,7 @@ Lifting the lid, I found nothing but coffee grounds in the bottom. I set the pot
 
 They both laughed, and mother said, "Wait a little longer, and I shall build a fire." She meant to make some real coffee. But neither she nor the warrior, whom the law of our custom had compelled to partake of my insipid hospitality, said anything to embarrass me. They treated my best judgment, poor as it was, with the utmost respect. It was not till long years afterward that I learned how ridiculous a thing I had done.
 
-V.
-
-THE DEAD MAN'S PLUM BUSH.
+### V. THE DEAD MAN'S PLUM BUSH.
 
 
 
