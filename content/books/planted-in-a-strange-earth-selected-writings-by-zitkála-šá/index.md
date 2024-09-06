@@ -1,9 +1,9 @@
 ---
 title: "Planted in a Strange Earth: Selected Writings by Zitkála-Šá"
 publication: 2024-09-05T14:54:00.000Z
-publishformat: Month and year
+publishformat: Year
 release: 1921-10-23T03:36:00.000Z
-releaseformat: Year
+releaseformat: Month and year
 sortingdate: 2024-09-05T14:29:00.000Z
 templateKey: book-page
 author: Zitkála-Šá (Gertrude Simmons Bonnin)
