@@ -45,7 +45,7 @@ foreword: >-
   Narrative, Best New Poets,<i> and other publications.</p>
 
 
-  <b>Cover:</b> Mer Young is an Indigenous published multidisciplinary artist, BIPOC activist, steward of land and water and environmental justice advocate.
+  <p><b>Cover:</b> Mer Young is an Indigenous published multidisciplinary artist, BIPOC activist, steward of land and water and environmental justice advocate.</p>
 published: false
 ---
 ## Foreword by Erin Marie Lynch
