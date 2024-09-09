@@ -311,10 +311,6 @@ const PeopleIndex = ({ location, intl }) => {
             </div>{" "}
             <div className="flex">
               {" "}
-           
-            </div>{" "}
-            <div className="flex">
-              {" "}
               <div className="column">
                 <img
                   src="/img/people/daniel.png"
