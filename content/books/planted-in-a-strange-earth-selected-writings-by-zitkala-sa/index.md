@@ -72,35 +72,35 @@ As a Dakota woman writing today, I seek always to inhabit my own contradictions,
 
 Like tiny drops of crystal rain,
 
-\    In every life the moments fall,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In every life the moments fall,
 
  To wear away with silent beat,
 
-\    The shell of selfishness o’er all.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The shell of selfishness o’er all.
 
 And every act, not one too small,
 
-\    That leaps from out the heart’s pure glow,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That leaps from out the heart’s pure glow,
 
  Like ray of gold sends forth a light,
 
-\    While moments into seasons flow.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While moments into seasons flow.
 
 Athwart the dome, Eternity,
 
-\    To Iris grown resplendent, fly
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To Iris grown resplendent, fly
 
  Bright gleams from every noble deed,
 
-\    Till colors with each other vie.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Till colors with each other vie.
 
 ’Tis glimpses of this grand rainbow,
 
-\    Where moments with good deeds unite,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Where moments with good deeds unite,
 
  That gladden many weary hearts,
 
-\    Inspiring them to seek more Light.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inspiring them to seek more Light.
 
 <small>First published in <i>The Earlhamite</i> vol. 5, no. 31 (November 1, 1898)</small>
 
