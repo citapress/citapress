@@ -99,8 +99,6 @@ As a Dakota woman writing today, I seek always to inhabit my own contradictions,
 >  That gladden many weary hearts,
 >
 > \    Inspiring them to seek more Light.
->
->
 
 Like tiny drops of crystal rain,
 
@@ -702,39 +700,21 @@ In this fashion many have passed idly through the Indian schools during the last
 
 Beside the open fire I sat within our tepee. With my red blanket wrapped tightly about my crossed legs, I was thinking of the coming season, my sixteenth winter. On either side of the wigwam were my parents. My father was whistling a tune between his teeth while polishing with his bare hand a red stone pipe he had recently carved. Almost in front of me, beyond the center fire, my old grandmother sat near the entranceway.
 
-
-
 She turned her face toward her right and addressed most of her words to my mother. Now and then she spoke to me, but never did she allow her eyes to rest upon her daughter's husband, my father. It was only upon rare occasions that my grandmother said anything to him. Thus his ears were open and ready to catch the smallest wish she might express. Sometimes when my grandmother had been saying things which pleased him, my father used to comment upon them. At other times, when he could not approve of what was spoken, he used to work or smoke silently.
-
-
 
 On this night my old grandmother began her talk about me. Filling the bowl of her red stone pipe with dry willow bark, she looked across at me.
 
-
-
 "My grandchild, you are tall and are no longer a little boy." Narrowing her old eyes, she asked, "My grandchild, when are you going to bring here a handsome young woman?" I stared into the fire rather than meet her gaze. Waiting for my answer, she stooped forward and through the long stem drew a flame into the red stone pipe.
-
-
 
 I smiled while my eyes were still fixed upon the bright fire, but I said nothing in reply. Turning to my mother, she offered her the pipe. I glanced at my grandmother. The loose buckskin sleeve fell off at her elbow and showed a wrist covered with silver bracelets. Holding up the fingers of her left hand, she named off the desirable young women of our village.
 
-
-
 "Which one, my grandchild, which one?" she questioned.
-
-
 
 "Hoh!" I said, pulling at my blanket in confusion. "Not yet!" Here my mother passed the pipe over the fire to my father. Then she, too, began speaking of what I should do.
 
-
-
 "My son, be always active. Do not dislike a long hunt. Learn to provide much buffalo meat and many buckskins before you bring home a wife." Presently my father gave the pipe to my grandmother, and he took his turn in the exhortations.
 
-
-
 "Ho, my son, I have been counting in my heart the bravest warriors of our people. There is not one of them who won his title in his sixteenth winter. My son, it is a great thing for some brave of sixteen winters to do."
-
-
 
 Not a word had I to give in answer. I knew well the fame of my warrior father. He had earned the right of speaking such words, though even he himself was a brave only at my age. Refusing to smoke my grandmother's pipe because my heart was too much stirred by their words, and sorely troubled with a fear lest I should disappoint them, I arose to go. Drawing my blanket over my shoulders, I said, as I stepped toward the entranceway: "I go to hobble my pony. It is now late in the night."
 
@@ -742,187 +722,99 @@ II.
 
 Nine winters' snows had buried deep that night when my old grandmother, together with my father and mother, designed my future with the glow of a camp fire upon it.
 
-
-
 Yet I did not grow up the warrior, huntsman, and husband I was to have been. At the mission school I learned it was wrong to kill. Nine winters I hunted for the soft heart of Christ, and prayed for the huntsmen who chased the buffalo on the plains.
-
-
 
 In the autumn of the tenth year I was sent back to my tribe to preach Christianity to them. With the white man's Bible in my hand, and the white man's tender heart in my breast, I returned to my own people.
 
-
-
 Wearing a foreigner's dress, I walked, a stranger, into my father's village.
 
-
-
 Asking my way, for I had not forgotten my native tongue, an old man led me toward the tepee where my father lay. From my old companion I learned that my father had been sick many moons. As we drew near the tepee, I heard the chanting of a medicine-man within it. At once I wished to enter in and drive from my home the sorcerer of the plains, but the old warrior checked me. "Ho, wait outside until the medicine-man leaves your father," he said. While talking he scanned me from head to feet. Then he retraced his steps toward the heart of the camping-ground.
-
-
 
 My father's dwelling was on the outer limits of the round-faced village.
 
 With every heartthrob I grew more impatient to enter the wigwam.
 
-
-
 While I turned the leaves of my Bible with nervous fingers, the medicine-man came forth from the dwelling and walked hurriedly away. His head and face were closely covered with the loose robe which draped his entire figure.
-
-
 
 He was tall and large. His long strides I have never forgot. They seemed to me then the uncanny gait of eternal death. Quickly pocketing my Bible, I went into the tepee.
 
-
-
 Upon a mat lay my father, with furrowed face and gray hair. His eyes and cheeks were sunken far into his head. His sallow skin lay thin upon his pinched nose and high cheekbones. Stooping over him, I took his fevered hand. "How, Ate?" I greeted him. A light flashed from his listless eyes and his dried lips parted. "My son!" he murmured, in a feeble voice. Then again the wave of joy and recognition receded. He closed his eyes, and his hand dropped from my open palm to the ground.
 
-
-
 Looking about, I saw an old woman sitting with bowed head. Shaking hands with her, I recognized my mother. I sat down between my father and mother as I used to do, but I did not feel at home. The place where my old grandmother used to sit was now unoccupied. With my mother I bowed my head. Alike our throats were choked and tears were streaming from our eyes; but far apart in spirit our ideas and faiths separated us. My grief was for the soul unsaved; and I thought my mother wept to see a brave man's body broken by sickness.
-
-
 
 Useless was my attempt to change the faith in the medicine-man to that abstract power named God. Then one day I became righteously mad with anger that the medicine-man should thus ensnare my father's soul. And when he came to chant his sacred songs I pointed toward the door and bade him go! The man's eyes glared upon me for an instant. Slowly gathering his robe about him, he turned his back upon the sick man and stepped out of our wigwam. "Ha, ha, ha! my son, I can not live without the medicine-man!" I heard my father cry when the sacred man was gone.
 
 III.
 
-
-
 On a bright day, when the winged seeds of the prairie-grass were flying hither and thither, I walked solemnly toward the centre of the camping-ground. My heart beat hard and irregularly at my side. Tighter I grasped the sacred book I carried under my arm. Now was the beginning of life's work.
-
-
 
 Though I knew it would be hard, I did not once feel that failure was to be my reward. As I stepped unevenly on the rolling ground, I thought of the warriors soon to wash off their war-paints and follow me.
 
-
-
 At length I reached the place where the people had assembled to hear me preach. In a large circle men and women sat upon the dry red grass. Within the ring I stood, with the white man's Bible in my hand. I tried to tell them of the soft heart of Christ.
-
-
 
 In silence the vast circle of bareheaded warriors sat under an afternoon sun. At last, wiping the wet from my brow, I took my place in the ring. The hush of the assembly filled me with great hope.
 
-
-
 I was turning my thoughts upward to the sky in gratitude, when a stir called me to earth again.
-
-
 
 A tall, strong man arose. His loose robe hung in folds over his right shoulder. A pair of snapping black eyes fastened themselves like the poisonous fangs of a serpent upon me. He was the medicine-man. A tremor played about my heart and a chill cooled the fire in my veins.
 
-
-
 Scornfully he pointed a long forefinger in my direction and asked:
-
-
 
 "What loyal son is he who, returning to his father's people, wears a foreigner's dress?" He paused a moment, and then continued: "The dress of that foreigner of whom a story says he bound a native of our land, and heaping dry sticks around him, kindled a fire at his feet!" Waving his hand toward me, he exclaimed, "Here is the traitor to his people!"
 
-
-
 I was helpless. Before the eyes of the crowd the cunning magician turned my honest heart into a vile nest of treachery. Alas! the people frowned as they looked upon me.
-
-
 
 "Listen!" he went on. "Which one of you who have eyed the young man can see through his bosom and warn the people of the nest of young snakes hatching there? Whose ear was so acute that he caught the hissing of snakes whenever the young man opened his mouth? This one has not only proven false to you, but even to the Great Spirit who made him. He is a fool! Why do you sit here giving ear to a foolish man who could not defend his people because he fears to kill, who could not bring venison to renew the life of his sick father? With his prayers, let him drive away the enemy! With his soft heart, let him keep off starvation! We shall go elsewhere to dwell upon an untainted ground."
 
-
-
 With this he disbanded the people. When the sun lowered in the west and the winds were quiet, the village of cone-shaped tepees was gone. The medicine-man had won the hearts of the people.
-
-
 
 Only my father's dwelling was left to mark the fighting-ground.
 
 IV.
 
-
-
 From a long night at my father's bedside I came out to look upon the morning. The yellow sun hung equally between the snow-covered land and the cloudless blue sky. The light of the new day was cold. The strong breath of winter crusted the snow and fitted crystal shells over the rivers and lakes. As I stood in front of the tepee, thinking of the vast prairies which separated us from our tribe, and wondering if the high sky likewise separated the soft-hearted Son of God from us, the icy blast from the North blew through my hair and skull. My neglected hair had grown long and fell upon my neck.
-
-
 
 My father had not risen from his bed since the day the medicine-man led the people away. Though I read from the Bible and prayed beside him upon my knees, my father would not listen. Yet I believed my prayers were not unheeded in heaven.
 
-
-
 "Ha, ha, ha! my son," my father groaned upon the first snowfall. "My son, our food is gone. There is no one to bring me meat! My son, your soft heart has unfitted you for everything!" Then covering his face with the buffalo-robe, he said no more. Now while I stood out in that cold winter morning, I was starving. For two days I had not seen any food. But my own cold and hunger did not harass my soul as did the whining cry of the sick old man.
-
-
 
 Stepping again into the tepee, I untied my snow-shoes, which were fastened to the tent-poles.
 
-
-
 My poor mother, watching by the sick one, and faithfully heaping wood upon the centre fire, spoke to me:
-
-
 
 "My son, do not fail again to bring your father meat, or he will starve to death."
 
-
-
 "How, Ina," I answered, sorrowfully. From the tepee I started forth again to hunt food for my aged parents. All day I tracked the white level lands in vain. Nowhere, nowhere were there any other footprints but my own! In the evening of this third fast-day I came back without meat. Only a bundle of sticks for the fire I brought on my back. Dropping the wood outside, I lifted the door-flap and set one foot within the tepee.
-
-
 
 There I grew dizzy and numb. My eyes swam in tears. Before me lay my old gray-haired father sobbing like a child. In his horny hands he clutched the buffalo-robe, and with his teeth he was gnawing off the edges. Chewing the dry stiff hair and buffalo-skin, my father's eyes sought my hands. Upon seeing them empty, he cried out:
 
-
-
 "My son, your soft heart will let me starve before you bring me meat! Two hills eastward stand a herd of cattle. Yet you will see me die before you bring me food!"
-
-
 
 Leaving my mother lying with covered head upon her mat, I rushed out into the night.
 
-
-
 With a strange warmth in my heart and swiftness in my feet, I climbed over the first hill, and soon the second one. The moonlight upon the white country showed me a clear path to the white man's cattle. With my hand upon the knife in my belt, I leaned heavily against the fence while counting the herd.
-
-
 
 Twenty in all I numbered. From among them I chose the best-fattened creature. Leaping over the fence, I plunged my knife into it.
 
-
-
 My long knife was sharp, and my hands, no more fearful and slow, slashed off choice chunks of warm flesh. Bending under the meat I had taken for my starving father, I hurried across the prairie.
-
-
 
 Toward home I fairly ran with the life-giving food I carried upon my back. Hardly had I climbed the second hill when I heard sounds coming after me. Faster and faster I ran with my load for my father, but the sounds were gaining upon me. I heard the clicking of snowshoes and the squeaking of the leather straps at my heels; yet I did not turn to see what pursued me, for I was intent upon reaching my father. Suddenly like thunder an angry voice shouted curses and threats into my ear! A rough hand wrenched my shoulder and took the meat from me! I stopped struggling to run. A deafening whir filled my head. The moon and stars began to move. Now the white prairie was sky, and the stars lay under my feet. Now again they were turning. At last the starry blue rose up into place. The noise in my ears was still. A great quiet filled the air. In my hand I found my long knife dripping with blood. At my feet a man's figure lay prone in blood-red snow. The horrible scene about me seemed a trick of my senses, for I could not understand it was real. Looking long upon the blood-stained snow, the load of meat for my starving father reached my recognition at last. Quickly I tossed it over my shoulder and started again homeward.
 
-
-
 Tired and haunted I reached the door of the wigwam. Carrying the food before me, I entered with it into the tepee.
 
-
-
 "Father, here is food!" I cried, as I dropped the meat near my mother. No answer came. Turning about, I beheld my gray-haired father dead! I saw by the unsteady firelight an old gray-haired skeleton lying rigid and stiff.
-
-
 
 Out into the open I started, but the snow at my feet became bloody.
 
 V.
 
-
-
 On the day after my father's death, having led my mother to the camp of the medicineman, I gave myself up to those who were searching for the murderer of the paleface.
-
-
 
 They bound me hand and foot. Here in this cell I was placed four days ago.
 
-
-
 The shrieking winter winds have followed me hither. Rattling the bars, they howl unceasingly: "Your soft heart! your soft heart will see me die before you bring me food!" Hark! something is clanking the chain on the door. It is being opened. From the dark night without a black figure crosses the threshold. \* \* * It is the guard. He comes to warn me of my fate. He tells me that tomorrow I must die. In his stern face I laugh aloud. I do not fear death.
 
-
-
 Yet I wonder who shall come to welcome me in the realm of strange sight. Will the loving Jesus grant me pardon and give my soul a soothing sleep? or will my warrior father greet me and receive me as his son? Will my spirit fly upward to a happy heaven? or shall I sink into the bottomless pit, an outcast from a God of infinite love?
-
-
 
 Soon, soon I shall know, for now I see the east is growing red. My heart is strong. My face is calm. My eyes are dry and eager for new scenes. My hands hang quietly at my side. Serene and brave, my soul awaits the men to perch me on the gallows for another flight. I go.
 
@@ -971,3 +863,457 @@ Thither he hurried forth with his afternoon sermon. I watched him as he hastened
 The little incident recalled to mind the copy of a missionary paper brought to my notice a few days ago, in which a "Christian" pugilist commented upon a recent article of mine, grossly perverting the spirit of my pen. Still I would not forget that the pale-faced missionary and the hoodooed aborigine are both God's creatures, though small indeed their own conceptions of Infinite Love. A wee child toddling in a wonder world, I prefer to their dogma my excursions into the natural gardens where the voice of the Great Spirit is heard in the twittering of birds, the rippling of mighty waters, and the sweet breathing of flowers. If this is Paganism, then at present, at least, I am a Pagan.
 
 <small>First published in <i>Atlantic Monthly</i> 90 (December 1902).</small>
+
+### THE WIDESPREAD ENIGMA CONCERNING BLUE-STAR WOMAN
+
+It was summer on the western plains. Fields of golden sunflowers facing eastward, greeted the rising sun. Blue-Star Woman, with windshorn braids of white hair over each ear, sat in the shade of her log hut before an open fire. Lonely but unmolested she dwelt here like the ground squirrel that took its abode nearby,—both through the easy tolerance of the land owner. The Indian woman held a skillet over the burning embers. A large round cake, with long slashes in its center, was baking and crowding the capacity of the frying pan.
+
+
+
+In deep abstraction Blue-Star Woman prepared her morning meal. "Who am I?" had become the obsessing riddle of her life. She was no longer a young woman, being in her fifty-third year. In the eyes of the white man's law, it was required of her to give proof of her membership in the Sioux tribe. The unwritten law of heart prompted her naturally to say, "I am a being. I am Blue-Star Woman. A piece of earth is my birthright."
+
+
+
+It was taught, for reasons now forgot, that an Indian should never pronounce his or her name in answer to any inquiry. It was probably a means of protection in the days of black magic. Be this as it may, Blue-Star Woman lived in times when this teaching was disregarded. It gained her nothing, however, to pronounce her name to the government official to whom she applied for her share of tribal land. His persistent question was always, "Who were your parents?"
+
+
+
+Blue-Star Woman was left an orphan at a tender age. She did not remember them. They were long gone to the spirit-land,-and she could not understand why they should be recalled to earth on her account. It was another one of the old, old teachings of her race that the names of the dead should not be idly spoken. It had become a sacrilege to mention carelessly the name of any departed one, especially in matters of disputes over worldy possessions. The unfortunate circumstances of her early childhood, together with the lack of written records of a roving people, placed a formidable barrier between her and her heritage. The fact was events of far greater importance to the tribe than her reincarnation had passed unrecorded in books. The verbal reports of the old-time men and women of the tribe were varied,—some were actually contradictory. Blue-Star Woman was unable to find even a twig of her family tree.
+
+
+
+She sharpened one end of a long stick and with it speared the fried bread when it was browned. Heedless of the hot bread's "Tsing!" in a high treble as it was lifted from the fire, she added it to the six others which had preceded it. It had been many a moon since she had had a meal of fried bread, for she was too poor to buy at any one time all the necessary ingredients, particularly the fat in which to fry it. During the breadmaking, the smoke-blackened coffeepot boiled over. The aroma of freshly made coffee smote her nostrils and roused her from the tantalizing memories.
+
+
+
+The day before, friendly spirits, the unseen ones, had guided her aimless footsteps to her Indian neighbor's house. No sooner had she entered than she saw on the table some grocery bundles. "Iye-que, fortunate one!" she exclaimed as she took the straight-backed chair offered her. At once the Indian hostess untied the bundles and measured out a cupful of green coffee beans and a pound of lard. She gave them to Blue-Star Woman, saying, "I want to share my good fortune. Take these home with you." Thus it was that Blue-Star Woman had come into unexpected possession of the materials which now contributed richly to her breakfast.
+
+
+
+The generosity of her friend had often saved her from starvation. Generosity is said to be a fault of Indian people, but neither the Pilgrim Fathers nor Blue-Star Woman ever held it seriously against them. Blue-Star Woman was even grateful for this gift of food. She was fond of coffee,-that black drink brought hither by those daring voyagers of long ago. The coffee habit was one of the signs of her progress in the white man's civilization, also had she emerged from the tepee into a log hut, another achievement. She had learned to read the primer and to write her name. Little Blue-Star attended school unhindered by a fond mother's fears that a foreign teacher might not spare the rod with her darling.
+
+
+
+Blue-Star Woman was her individual name. For untold ages the Indian race had not used family names. A new-born child was given a brand-new name. Blue-Star Woman was proud to write her name for which she would not be required to substitute another's upon her marriage, as is the custom of civilized peoples.
+
+
+
+"The times are changed now," she muttered under her breath. "My individual name seems to mean nothing." Looking out into space, she saw the nodding sunflowers, and they acquiesced with her. Their drying leaves reminded her of the near approach of autumn. Then soon, very soon, the ice would freeze along the banks of the muddy river. The day of the first ice was her birthday. She would be fifty-four winters old. How futile had been all these winters to secure her a share in tribal lands. A weary smile flickered across her face as she sat there on the ground like a bronze figure of patience and long-suffering.
+
+
+
+The breadmaking was finished. The skillet was set aside to cool. She poured the appetizing coffee into her tin cup. With fried bread and black coffee she regaled herself. Again her mind reverted to her riddle. "The missionary preacher said he could not explain the white man's law to me. He who reads daily from the Holy Bible, which he tells me is God's book, cannot understand mere man's laws. This also puzzles me," thought she to herself. "Once a wise leader of our people, addressing a president of this country, said: 'I am a man. You are another. The Great Spirit is our witness!' This is simple and easy to understand, but the times are changed. The white man's laws are strange."
+
+
+
+Blue-Star Woman broke off a piece of fried bread between a thumb and forefinger. She ate it hungrily, and sipped from her cup of fragrant coffee. "I do not understand the white man's law. It's like walking in the dark. In this darkness, I am growing fearful of everything."
+
+
+
+Oblivious to the world, she had not heard the footfall of two Indian men who now stood before her.
+
+
+
+Their short-cropped hair looked blue-black in contrast to the faded civilian clothes they wore. Their white man's shoes were rusty and unpolished. To the unconventional eyes of the old Indian woman, their celluloid collars appeared like shining marks of civilization. Blue-Star Woman looked up from the lap of mother earth without rising. "Hinnu, hinnu!" she ejaculated in undisguised surprise. "Pray, who are these would-be white men?" she inquired.
+
+
+
+In one voice and by an assumed relationship the two Indian men addressed her. "Aunt, I shake hands with you." Again Blue-Star Woman remarked, "Oh, indeed! these near white men speak my native tongue and shake hands according to our custom." Did she guess the truth, she would have known they were simply deluded mortals, deceiving others and themselves most of all. Boisterously laughing and making conversation, they each in turn gripped her withered hand.
+
+
+
+Like a sudden flurry of wind, tossing loose ends of things, they broke into her quiet morning hour and threw her groping thoughts into greater chaos. Masking their real errand with long-drawn faces, they feigned a concern for her welfare only. "We come to ask how you are living. We heard you were slowly starving to death. We heard you are one of those Indians who have been cheated out of their share in tribal lands by the government officials."
+
+
+
+Blue-Star Woman became intensely interested.
+
+
+
+"You see we are educated in the white man's ways," they said with protruding chests. One unconsciously thrust his thumbs into the arm-holes of his ill-fitting coat and strutted about in his pride. "We can help you get your land. We want to help our aunt. All old people like you ought to be helped before the younger ones. The old will die soon, and they may never get the benefit of their land unless some one like us helps them to get their rights, without further delay."
+
+
+
+Blue-Star Woman listened attentively.
+
+
+
+Motioning to the mats she spread upon the ground, she said: "Be seated, my nephews." She accepted the relationship assumed for the occasion. "I will give you some breakfast." Quickly she set before them a generous helping of fried bread and cups of coffee. Resuming her own meal, she continued, "You are wonderfully kind. It is true, my nephews, that I have grown old trying to secure my share of land. It may not be long till I shall pass under the sod."
+
+
+
+The two men responded with "How, how," which meant, "Go on with your story. We are all ears." Blue-Star Woman had not yet detected any particular sharpness about their ears, but by an impulse she looked up into their faces and scrutinized them. They were busily engaged in eating. Their eyes were fast upon the food on the mat in front of their crossed shins. Inwardly she made a passing observation how, like ravenous wolves, her nephews devoured their food. Coyotes in midwinter could not have been more starved. Without comment she offered them the remaining fried cakes, and between them they took it all. She offered the second helping of coffee, which they accepted without hesitancy. Filling their cups, she placed her empty coffeepot on the dead ashes.
+
+
+
+To them she rehearsed her many hardships. It had become a habit now to tell her long story of disappointments with all its petty details. It was only another instance of good intentions gone awry. It was a paradox upon a land of prophecy that its path to future glory be stained with the blood of its aborigines. Incongruous as it is, the two nephews, with their white associates, were glad of a condition so profitable to them. Their solicitation for Blue-Star Woman was not at all altruistic. They thrived in their grafting business. They and their occupation were the by-product of an unwieldly bureaucracy over the nation's wards.
+
+
+
+"Dear aunt, you failed to establish the facts of your identity," they told her. Hereupon Blue-Star Woman's countenance fell. It was ever the same old words. It was the old song of the government official she loathed to hear. The next remark restored her courage. "If any one can discover evidence, it's us! I tell you, aunt, we'll fix it all up for you." It was a great relief to the old Indian woman to be thus unburdened of her riddle, with a prospect of possessing land. "There is one thing you will have to do,—that is, to pay us half of your land and money when you get them." Here was a pause, and Blue-Star Woman answered slowly, "Y-e-s," in an uncertain frame of mind.
+
+
+
+The shrewd schemers noted her behavior. "Wouldn't you rather have a half of a crust of bread than none at all?" they asked. She was duly impressed with the force of their argument. In her heart she agreed, "A little something to eat is better than nothing!" The two men talked in regular relays. The flow of smooth words was continuous and so much like purring that all the woman's suspicions were put soundly to sleep. "Look here, aunt, you know very well that prairie fire is met with a back-fire." Blue-Star Woman, recalling her experiences in fire-fighting, quickly responded, "Yes, oh, yes."
+
+
+
+"In just the same way, we fight crooks with crooks. We have clever white lawyers working with us. They are the back-fire." Then, as if remembering some particular incident, they both laughed aloud and said, "Yes, and sometimes they use us as the back-fire! We trade fifty-fifty."
+
+
+
+Blue-Star Woman sat with her chin in the palm of one hand with elbow resting in the other. She rocked herself slightly forward and backward. At length she answered, "Yes, I will pay you half of my share in tribal land and money when I get them. In bygone days, brave young men of the order of the White-Horse-Riders sought out the aged, the poor, the widows and orphans to aid them, but they did their good work without pay. The White-Horse-Riders are gone. The times are changed. I am a poor old Indian woman. I need warm clothing before winter begins to blow its icicles through us. I need fire wood. I need food. As you have said, a little help is better than none."
+
+
+
+Hereupon the two pretenders scored another success.
+
+
+
+They rose to their feet. They had eaten up all the fried bread and drained the coffeepot. They shook hands with Blue-Star Woman and departed. In the quiet that followed their departure she sat munching her small piece of bread, which, by a lucky chance, she had taken on her plate before the hungry wolves had come. Very slowly she ate the fragment of fried bread as if to increase it by diligent mastication. A self-condemning sense of guilt disturbed her. In her dire need she had become involved with tricksters. Her nephews laughingly told her, "We use crooks, and crooks use us in the skirmish over Indian lands."
+
+
+
+The friendly shade of the house shrank away from her and hid itself under the narrow eaves of the dirt covered roof. She shrugged her shoulders. The sun high in the sky had witnessed the affair and now glared down upon her white head. Gathering upon her arm the mats and cooking utensils, she hobbled into her log hut.
+
+
+
+Under the brooding wilderness silence, on the Sioux Indian Reservation, the superintendent summoned together the leading Indian men of the tribe. He read a letter which he had received from headquarters in Washington, D.C. It announced the enrollment of Blue-Star Woman on their tribal roll of members and the approval of allotting land to her.
+
+
+
+It came as a great shock to the tribesmen. Without their knowledge and consent their property was given to a strange woman. They protested in vain. The superintendent said, "I received this letter from Washington. I have read it to you for your information. I have fulfilled my duty. I can do no more." With these fateful words he dismissed the assembly.
+
+
+
+Heavy hearted, Chief High Flier returned to his dwelling. Smoking his long-stemmed pipe he pondered over the case of Blue-Star Woman. The Indian's guardian had got into a way of usurping autocratic power in disposing of the wards' property. It was growing intolerable. "No doubt this Indian woman is entitled to allotment, but where? Certainly not here," he thought to himself.
+
+
+
+Laying down his pipe, he called his little granddaughter from her play, "You are my interpreter and scribe," he said. "Bring your paper and pencil." A letter was written in the child's sprawling hand, and signed by the old chieftain. It read:
+
+
+
+"My Friend:
+
+
+
+"I make letter to you. My heart is sad. Washington give my tribe's land to a woman called Blue-Star. We do not know her. We were not asked to give land, but our land is taken from us to give to another Indian. This is not right. Lots of little children of my tribe have no land. Why this strange woman get our land which belongs to our children? Go to Washington and ask if our treaties tell him to give our property away without asking us. Tell him I thought we made good treaties on paper, but now our children cry for food. We are too poor. We cannot give even to our own little children. Washington is very rich. Washington now owns our country. If he wants to help this poor Indian woman, Blue-Star, let him give her some of his land and his money. This is all I will say until you answer me. I shake hands with you with my heart. The Great Spirit hears my words. They are true.
+
+
+
+"Your friend,
+
+"**CHIEF HIGH FLIER.**
+
+"X (his mark)."
+
+
+
+The letter was addressed to a prominent American woman. A stamp was carefully placed on the envelope.
+
+
+
+Early the next morning, before the dew was off the grass, the chieftain's riding pony was caught from the pasture and brought to his log house. It was saddled and bridled by a younger man, his son with whom he made his home. The old chieftain came out, carrying in one hand his long-stemmed pipe and tobacco pouch. His blanket was loosely girdled about his waist. Tightly holding the saddle horn, he placed a moccasined foot carefully into the stirrup and pulled himself up awkwardly into the saddle, muttering to himself, "Alas, I can no more leap into my saddle. I now must crawl about in my helplessness." He was past eighty years of age, and no longer agile.
+
+
+
+He set upon his ten-mile trip to the only post office for hundreds of miles around. In his shirt pocket, he carried the letter destined, in due season, to reach the heart of American people. His pony, grown old in service, jogged along the dusty road. Memories of other days thronged the wayside, and for the lonely rider transformed all the country. Those days were gone when the Indian youths were taught to be truthful,—to be merciful to the poor. Those days were gone when moral cleanliness was a chief virtue; when public feasts were given in honor of the virtuous girls and young men of the tribe. Untold mischief is now possible through these broken ancient laws. The younger generation were not being properly trained in the high virtues. A slowly starving race was growing mad, and the pitifully weak sold their lands for a pot of porridge.
+
+
+
+"He, he, he! He, he, he!" he lamented. "Small Voice Woman, my own relative is being represented as the mother of this strange Blue-Star—the papers were made by two young Indian men who have learned the white man's ways. Why must I be forced to accept the mischief of children? My memory is clear. My reputation for veracity is well known.
+
+
+
+"Small Voice Woman lived in my house until her death. She had only one child and it was a boy!" He held his hand over this thumping heart, and was reminded of the letter in his pocket. "This letter,—what will happen when it reaches my good friend?" he asked himself. The chieftain rubbed his dim eyes and groaned, "If only my good friend knew the folly of turning my letter into the hands of bureaucrats! In face of repeated defeat, I am daring once more to send this one letter." An inner voice said in his ear, "And this one letter will share the same fate of the other letters."
+
+
+
+Startled by the unexpected voice, he jerked upon the bridle reins and brought the drowsy pony to a sudden halt. There was no one near. He found himself a mile from the post office, for the cluster of government buildings, where lived the superintendent, were now in plain sight. His thin frame shook with emotion. He could not go there with his letter.
+
+
+
+He dismounted from his pony. His quavering voice chanted a bravery song as he gathered dry grasses and the dead stalks of last year's sunflowers. He built a fire, and crying aloud, for his sorrow was greater than he could bear, he cast the letter into the flames. The fire consumed it. He sent his message on the wings of fire and he believed she would get it. He yet trusted that help would come to his people before it was too late. The pony tossed his head in a readiness to go. He knew he was on the return trip and he was glad to travel.
+
+
+
+The wind which blew so gently at dawn was now increased into a gale as the sun approached the zenith. The chieftain, on his way home, sensed a coming storm. He looked upward to the sky and around in every direction. Behind him, in the distance, he saw a cloud of dust. He saw several horsemen whipping their ponies and riding at great speed. Occasionally he heard their shouts, as if calling after some one. He slackened his pony's pace and frequently looked over his shoulder to see who the riders were advancing in hot haste upon him. He was growing curious. In a short time the riders surrounded him. On their coats shone brass buttons, and on their hats were gold cords and tassels. They were Indian police.
+
+
+
+"Wan!" he exclaimed, finding himself the object of their chase. It was their foolish ilk who had murdered the great leader, Sitting Bull. "Pray, what is the joke? Why do young men surround an old man quietly riding home?"
+
+
+
+"Uncle," said the spokesman, "we are hirelings, as you know. We are sent by the government superintendent to arrest you and take you back with us. The superintendent says you are one of the bad Indians, singing war songs and opposing the government all the time; this morning you were seen trying to set fire to the government agency."
+
+
+
+"Hunhunhe!" replied the old chief, placing the palm of his hand over his mouth agap in astonishment. "All this is unbelievable!"
+
+
+
+The policeman took hold of the pony's bridle and turned the reluctant little beast around. They led it back with them and the old chieftain set unresisting in the saddle. High Flier was taken before the superintendent, who charged him with setting fires to destroy government buildings and found him guilty. Thus Chief High Flier was sent to jail. He had already suffered much during his life. He was the voiceless man of America. And now in his old age he was cast into prison. The chagrin of it all, together with his utter helplessness to defend his own or his people's human rights, weighed heavily upon his spirit.
+
+
+
+The foul air of the dingy cell nauseated him who loved the open. He sat wearily down upon the tattered mattress, which lay on the rough board floor. He drew his robe closely about his tall figure, holding it partially over his face, his hands covered within the folds. In profound gloom the gray-haired prisoner sat there, without a stir for long hours and knew not when the day ended and night began. He sat buried in his desperation. His eyes were closed, but he could not sleep. Bread and water in tin receptacles set upon the floor beside him untouched. He was not hungry. Venturesome mice crept out upon the floor and scampered in the dim starlight streaming through the iron bars of the cell window. They squeaked as they dared each other to run across his moccasined feet, but the chieftain neither saw nor heard them.
+
+
+
+A terrific struggle was waged within his being. He fought as he never fought before. Tenaciously he hung upon hope for the day of salvation—that hope hoary with age. Defying all odds against him, he refused to surrender faith in good people.
+
+
+
+Underneath his blanket, wrapped so closely about him, stole a luminous light. Before his stricken consciousness appeared a vision. Lo, his good friend, the American woman to whom he had sent his messages by fire, now stood there a legion! A vast multitude of women, with uplifted hands, gazed upon a huge stone image. Their upturned faces were eager and very earnest. The stone figure was that of a woman upon the brink of the Great Waters, facing eastward. The myriad living hands remained uplifted till the stone woman began to show signs of life. Very majestically she turned around, and, lo, she smiled upon this great galaxy of American women. She was the Statue of Liberty! It was she, who, though representing human liberty, formerly turned her back upon the American aborigine. Her face was aglow with compassion. Her eyes swept across the outspread continent of America, the home of the red man.
+
+
+
+At this moment her torch flamed brighter and whiter till its radiance reached into the obscure and remote places of the land. Her light of liberty penetrated Indian reservations. A loud shout of joy rose up from the Indians of the earth, everywhere!
+
+
+
+All too soon the picture was gone. Chief High Flier awoke. He lay prostrate on the floor where during the night he had fallen. He rose and took his seat again upon the mattress. Another day was ushered into his life. In his heart lay the secret vision of hope born in the midnight of his sorrows. It enabled him to serve his jail sentence with a mute dignity which baffled those who saw him.
+
+
+
+Finally came the day of his release. There was rejoicing over all the land. The desolate hills that harbored wailing voices nightly now were hushed and still. Only gladness filled the air. A crowd gathered around the jail to greet the chieftain. His son stood at the entrance way, while the guard unlocked the prison door. Serenely quiet, the old Indian chief stepped forth. An unseen stone in his path caused him to stumble slightly, but his son grasped him by the hand and steadied his tottering steps. He led him to a heavy lumber wagon drawn by a small pony team which he had brought to take him home. The people thronged about him—hundreds shook hands with him and went away singing native songs of joy for the safe return to them of their absent one.
+
+
+
+Among the happy people came Blue-Star Woman's two nephews. Each shook the chieftain's hand. One of them held out an ink pad saying, "We are glad we were able to get you out of jail. We have great influence with the Indian Bureau in Washington, D.C. When you need help, let us know. Here press your thumb in this pad." His companion took from his pocket a document prepared for the old chief's signature, and held it on the wagon wheel for the thumb mark. The chieftain was taken by surprise. He looked into his son's eyes to know the meaning of these two men. "It is our agreement," he explained to his old father. "I pledged to pay them half of your land if they got you out of jail."
+
+The old chieftain sighed, but made no comment. Words were vain. He pressed his indelible thumb mark, his signature it was, upon the deed, and drove home with his son.
+
+
+
+### A DREAM OF HER GRANDFATHER
+
+Her grandfather was a Dakota "medicine man." Among the Indians of his day he was widely known for his successful healing work. He was one of the leading men of the tribe and came to Washington, D.C., with one of the first delegations relative to affairs concerning the Indian people and the United States government.
+
+
+
+His was the first band of the Great Sioux Nation to make treaties with the government in the hope of bringing about an amicable arrangement between the red and white Americans. The journey to the nation's capital was made almost entirely on pony-back, there being no railroads, and the Sioux delegation was beset with many hardships on the trail. His visit to Washington, in behalf of peace among men, proved to be his last earthly mission. From a sudden illness, he died and was buried here.
+
+
+
+When his small granddaughter grew up she learned the white man's tongue, and followed in the footsteps of her grandfather to the very seat of government to carry on his humanitarian work. Though her days were filled with problems for welfare work among her people, she had a strange dream one night during her stay in Washington. The dream was this: Returning from an afternoon out, she found a large cedar chest had been delivered to her home in her absence. She sniffed the sweet perfume of the red wood, which reminded her of the breath of the forest,—and admired the box so neatly made, without trimmings. It looked so clean, strong and durable in its native genuineness. With elation, she took the tag in her hand and read her name aloud. "Who sent me this cedar chest?" she asked, and was told it came from her grandfather.
+
+
+
+Wondering what gift it could be her grandfather wished now to confer upon her, wholly disregarding his death years ago, she was all eagerness to open the mystery chest.
+
+
+
+She remembered her childhood days and the stories she loved to hear about the unusual powers of her grandfather,—recalled how she, the wee girl, had coveted the medicine bags, beaded and embroidered in porcupine quills, in symbols designed by the great "medicine man," her grandfather. Well did she remember her merited rebuke that such things were never made for relics. Treasures came in due time to those ready to receive them.
+
+
+
+In great expectancy, she lifted the heavy lid of the cedar chest. "Oh!" she exclaimed, with a note of disappointment, seeing no beaded Indian regalia or trinkets. "Why does my grandfather send such a light gift in a heavy, large box?" She was mystified and much perplexed.
+
+
+
+The gift was a fantastic thing, of texture far more delicate than a spider's filmy web. It was a vision! A picture of an Indian camp, not painted on canvas nor yet written. It was dream-stuff, suspended in the thin air, filling the inclosure of the cedar wood container. As she looked upon it, the picture grew more and more real, exceeding the proportions of the chest. It was all so illusive a breath might have blown it away; yet there it was, real as life,—a circular camp of white cone-shaped tepees, astir with Indian people. The village crier, with flowing head-dress of eagle plumes, mounted on a prancing white pony, rode within the arena. Indian men, women and children stopped in groups and clusters, while bright painted faces peered out of tepee doors, to listen to the chieftain's crier.
+
+
+
+At this point, she, too, heard the full melodious voice. She heard distinctly the Dakota words he proclaimed to the people. "Be glad! Rejoice! Look up, and see the new day dawning! Help is near! Hear me, every one."
+
+She caught the glad tidings and was thrilled with new hope for her people.
+
+The Indian’s Awakening
+
+I snatch at my eagle plumes and long hair.
+
+ A hand cut my hair; my robes did deplete.
+
+ Left heart all unchanged; the work incomplete.
+
+ These favors unsought, I’ve paid since with care.
+
+ Dear teacher, you wished so much good to me,
+
+ That though I was blind, I strove hard to see.
+
+ Had you then, no courage frankly to tell
+
+ Old-race problems, Christ e’en failed to expel?
+
+My light has grown dim, and black the abyss
+
+ That yawns at my feet. No bordering shore;
+
+ No bottom e’er found my hopes sunk before.
+
+ Despair I of good from deeds gone amiss.
+
+ My people, may God have pity on you!
+
+ The learning I hoped in you to imbue
+
+ Turns bitterly vain to meet both our needs.
+
+ No Sun for the flowers, vain planting seeds.
+
+I’ve lost my long hair; my eagle plumes too.
+
+ From you my own people, I’ve gone astray.
+
+ A wanderer now, with no where to stay.
+
+ The Will-o-the-wisp learning, it brought me rue.
+
+ It brings no admittance. Where I have knocked
+
+ Some evil imps, hearts, have bolted and locked.
+
+ Alone with the night and fearful Abyss
+
+ I stand isolated, life gone amiss.
+
+Intensified hush chills all my proud soul.
+
+ Oh, what am I? Whither bound thus and why?
+
+ Is there not a God on whom to rely?
+
+ A part of His Plan, the atoms enroll?
+
+ In answer, there comes a sweet Voice and clear,
+
+ My loneliness soothes with sounding so near.
+
+ A drink to my thirst, each vibrating note.
+
+ My vexing old burdens fall far remote.
+
+“Then close your sad eyes. Your spirit regain.
+
+ Behold what fantastic symbols abound,
+
+ What wondrous host of cosmos around.
+
+ From silvery sand, the tiniest grain
+
+ To man and the planet, God’s at the heart.
+
+ In shifting mosaic, souls doth impart.
+
+ His spirits who pass through multiformed earth
+
+ Some lesson of life must learn in each birth.”
+
+Divinely the Voice sang. I felt refreshed.
+
+ And vanished the night, abyss and despair.
+
+ Harmonious kinship made all things fair.
+
+ I yearned with my soul to venture unleashed.
+
+ Sweet freedom. There stood in waiting, a steed
+
+ All prancing, well bridled, saddled for speed.
+
+ A foot in the stirrup! Off with a bound!
+
+ As light as a feather, making no sound.
+
+Through ether, long leagues we galloped away.
+
+ An angry red river, we shyed in dismay,
+
+ For here were men sacrificed (cruel deed)
+
+ To reptiles and monsters, war, graft, and greed.
+
+ A jungle of discord drops in the rear.
+
+ By silence is quelled suspicious old fear,
+
+ And spite-gnats’ low buzz is muffled at last.
+
+ Exploring the spirit, I must ride fast.
+
+Away from these worldly ones, let us go,
+
+ Along a worn trail, much travelled and—Lo!
+
+ Familiar the scenes that come rushing by.
+
+ Now billowy sea and now azure sky.
+
+ Amid that enchanted spade, as they spun
+
+ Sun, moon, and the stars, their own orbits run!
+
+ Great Spirit, in realms so infinite reigns;
+
+ And wonderful wide are all His domains.
+
+Hark! Here in the Spirit-world, He doth hold
+
+ A village of Indians, camped as of old.
+
+ Earth-legends by their fires, some did review,
+
+ While flowers and trees more radiant grew.
+
+ “Oh, You were all dead! In Lethe you were tossed!”
+
+ I cried, “Every where ’twas told you were lost!
+
+ Forsooth, they did scan your footprints on sand.
+
+ Bereaved, I did mourn your fearful sad end.”
+
+Then spoke One of the Spirit Space, so sedate.
+
+ “My child, We are souls, forever and aye.
+
+ The signs in our orbits point us the way.
+
+ Like planets, we do not tarry nor wait.
+
+ Those memories dim, from Dust to the Man,
+
+ Called Instincts, are trophies won while we ran.
+
+ Now various stars where loved ones remain
+
+ Are linked to our hearts with Memory-chain.”
+
+“In journeying here, the Aeons we’ve spent
+
+ Are countless and strange. How well I recall
+
+ Old Earth trails: the River Red; above all
+
+ The Desert sands burning us with intent.
+
+ All these we have passed to learn some new thing.
+
+ Oh hear me! Your dead doth lustily sing!
+
+ ‘Rejoice! Gift of Life pray waste not in wails!
+
+\    The maker of Souls forever prevails!’”
+
+Direct from the Spirit-world came my steed.
+
+ The phantom has place in what was all planned.
+
+ He carried me back to God and the land
+
+ Where all harmony, peace and love are the creed.
+
+ In triumph, I cite my Joyous return.
+
+ The smallest wee creature I dare not spurn.
+
+ I sing “Gift of Life, pray waste not in wails!
+
+ The Maker of Souls forever prevails!”
+
+<small>First published in <i>American Indian Magazine</i> 4 (January-March 1916).</small>
