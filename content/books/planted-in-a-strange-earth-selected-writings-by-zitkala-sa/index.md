@@ -80,7 +80,7 @@ Like tiny drops of crystal rain,
 
 And every act, not one too small,
 
-\    That leaps from out the heart’s pure glow,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That leaps from out the heart’s pure glow,
 
  Like ray of gold sends forth a light,
 
@@ -788,7 +788,7 @@ Yet I wonder who shall come to welcome me in the realm of strange sight. Will th
 
 Soon, soon I shall know, for now I see the east is growing red. My heart is strong. My face is calm. My eyes are dry and eager for new scenes. My hands hang quietly at my side. Serene and brave, my soul awaits the men to perch me on the gallows for another flight. I go.
 
-### WHY I AM A PAGAN
+## WHY I AM A PAGAN
 
 WHEN the spirit swells my breast I love to roam leisurely among the green hills; or sometimes, sitting on the brink of the murmuring Missouri, I marvel at the great blue overhead. With half closed eyes I watch the huge cloud shadows in their noiseless play upon the high bluffs opposite me, while into my ear ripple the sweet, soft cadences of the river's song. Folded hands lie in my lap, for the time forgot. My heart and I lie small upon the earth like a grain of throbbing sand. Drifting clouds and tinkling waters, together with the warmth of a genial summer day, bespeak with eloquence the loving Mystery round about us. During the idle while I sat upon the sunny river brink, I grew somewhat, though my response be not so clearly manifest as in the green grass fringing the edge of the high bluff back of me.
 
