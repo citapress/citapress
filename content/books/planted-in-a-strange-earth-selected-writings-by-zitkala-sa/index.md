@@ -68,6 +68,40 @@ As a Dakota woman writing today, I seek always to inhabit my own contradictions,
 
 ## Iris of Life
 
+> Like tiny drops of crystal rain,
+>
+> \    In every life the moments fall,
+>
+>  To wear away with silent beat,
+>
+> \    The shell of selfishness o’er all.
+>
+> And every act, not one too small,
+>
+> \    That leaps from out the heart’s pure glow,
+>
+>  Like ray of gold sends forth a light,
+>
+> \    While moments into seasons flow.
+>
+> Athwart the dome, Eternity,
+>
+> \    To Iris grown resplendent, fly
+>
+>  Bright gleams from every noble deed,
+>
+> \    Till colors with each other vie.
+>
+> ’Tis glimpses of this grand rainbow,
+>
+> \    Where moments with good deeds unite,
+>
+>  That gladden many weary hearts,
+>
+> \    Inspiring them to seek more Light.
+>
+>
+
 Like tiny drops of crystal rain,
 
 \    In every life the moments fall,
@@ -386,9 +420,7 @@ From the table we were taken along an upward incline of wooden boxes, which I le
 
 I had arrived in the wonderful land of rosy skies, but I was not happy, as I had thought I should be. My long travel and the bewildering sights had exhausted me. I fell asleep, heaving deep, tired sobs. My tears were left to dry themselves in streaks, because neither my aunt nor my mother was near to wipe them away.
 
-II.
-
-THE CUTTING OF MY LONG HAIR.
+### II. THE CUTTING OF MY LONG HAIR.
 
 The first day in the land of apples was a bitter-cold one; for the snow still covered the ground, and the trees were bare. A large bell rang for breakfast, its loud metallic voice crashing through the belfry overhead and into our sensitive ears. The annoying clatter of shoes on bare floors gave us no peace. The constant clash of harsh noises, with an undercurrent of many voices murmuring an unknown tongue, made a bedlam within which I was securely tied. And though my spirit tore itself in struggling for its lost freedom, all was useless.
 
@@ -406,9 +438,7 @@ From my hiding place I peered out, shuddering with fear whenever I heard footste
 
 I cried aloud, shaking my head all the while until I felt the cold blades of the scissors against my neck, and heard them gnaw off one of my thick braids. Then I lost my spirit. Since the day I was taken from my mother I had suffered extreme indignities. People had stared at me. I had been tossed about in the air like a wooden puppet. And now my long hair was shingled like a coward's! In my anguish I moaned for my mother, but no one came to comfort me. Not a soul reasoned quietly with me, as my own mother used to do; for now I was only one of many little animals driven by a herder.
 
-III.
-
-THE SNOW EPISODE.
+### III. THE SNOW EPISODE.
 
 A short time after our arrival we three Dakotas were playing in the snowdrift. We were all still deaf to the English language, excepting Judéwin, who always heard such puzzling things. One morning we learned through her ears that we were forbidden to fall lengthwise in the snow, as we had been doing, to see our own impressions. However, before many hours we had forgotten the order, and were having great sport in the snow, when a shrill voice called us. Looking up, we saw an imperative hand beckoning us into the house. We shook the snow off ourselves, and started toward the woman as slowly as we dared.
 
@@ -442,9 +472,7 @@ Just here a paleface woman came up to my table. As she looked into the jar, she 
 
 As I sat eating my dinner, and saw that no turnips were served, I whooped in my heart for having once asserted the rebellion within me.
 
-IV.
-
-THE DEVIL.
+### IV. THE DEVIL.
 
 Among the legends the old warriors used to tell me were many stories of evil spirits. But I was taught to fear them no more than those who stalked about in material guise. I never knew there was an insolent chieftain among the bad spirits, who dared to array his forces against the Great Spirit, until I heard this white man's legend from a paleface woman.
 
@@ -458,9 +486,7 @@ Then in rushed the devil! He was tall! He looked exactly like the picture I had 
 
 On the following morning I took my revenge upon the devil. Stealing into the room where a wall of shelves was filled with books, I drew forth The Stories of the Bible. With a broken slate pencil I carried in my apron pocket, I began by scratching out his wicked eyes. A few moments later, when I was ready to leave the room, there was a ragged hole in the page where the picture of the devil had once been.
 
-V.
-
-IRON ROUTINE
+### V. IRON ROUTINE
 
 A loud-clamoring bell awakened us at half-past six in the cold winter mornings. From happy dreams of Western rolling lands and unlassoed freedom we tumbled out upon chilly bare floors back again into a paleface day. We had short time to jump into our shoes and clothes, and wet our eyes with icy water, before a small hand bell was vigorously rung for roll call.
 
@@ -478,9 +504,7 @@ I grew bitter, and censured the woman for cruel neglect of our physical ills. I 
 
 The melancholy of those black days has left so long a shadow that it darkens the path of years that have since gone by. These sad memories rise above those of smoothly grinding school days. Perhaps my Indian nature is the moaning wind which stirs them now for their present record. But, however tempestuous this is within me, it comes out as the low voice of a curiously colored seashell, which is only for those ears that are bent with compassion to hear it.
 
-VI.
-
-FOUR STRANGE SUMMERS.
+### VI. FOUR STRANGE SUMMERS.
 
 After my first three years of school, I roamed again in the Western country through four strange summers.
 
@@ -520,9 +544,7 @@ Before she returned, though I knew she was on her way, for she had ceased her we
 
 Many schemes of running away from my surroundings hovered about in my mind. A few more moons of such a turmoil drove me away to the eastern school. I rode on the white man's iron steed, thinking it would bring me back to my mother in a few winters, when I should be grown tall, and there would be congenial friends awaiting me.
 
-VII.
-
-INCURRING MY MOTHER'S DISPLEASURE.
+### VII. INCURRING MY MOTHER'S DISPLEASURE.
 
 In the second journey to the East I had not come without some precautions. I had a secret interview with one of our best medicine men, and when I left his wigwam I carried securely in my sleeve a tiny bunch of magic roots. This possession assured me of friends wherever I should go. So absolutely did I believe in its charms that I wore it through all the school routine for more than a year. Then, before I lost my faith in the dead roots, I lost the little buckskin bag containing all my good luck.
 
@@ -560,11 +582,9 @@ The evil spirit laughed within me when the white flag dropped out of sight, and 
 
 Leaving the crowd as quickly as possible, I was soon in my room. The rest of the night I sat in an armchair and gazed into the crackling fire. I laughed no more in triumph when thus alone. The little taste of victory did not satisfy a hunger in my heart. In my mind I saw my mother far away on the Western plains, and she was holding a charge against me.
 
-AN INDIAN TEACHER AMONG INDIANS
+## AN INDIAN TEACHER AMONG INDIANS
 
-I.
-
-MY FIRST DAY.
+### I. MY FIRST DAY.
 
 Though an illness left me unable to continue my college course, my pride kept me from returning to my mother. Had she known of my worn condition, she would have said the white man's papers were not worth the freedom and health I had lost by them. Such a rebuke from my mother would have been unbearable, and as I felt then it would be far too true to be comfortable.
 
@@ -586,9 +606,7 @@ After he turned to go, I listened to his step until it grew faint and was lost i
 
 For a short moment my spirit laughed at my ill fortune, and I entertained the idea of exerting myself to make an improvement. But as I tossed my hat off a leaden weakness came over me, and I felt as if years of weariness lay like water-soaked logs upon me. I threw myself upon the bed, and, closing my eyes, forgot my good intention.
 
-II.
-
-A TRIP WESTWARD.
+### II. A TRIP WESTWARD.
 
 One sultry month I sat at a desk heaped up with work. Now, as I recall it, I wonder how I could have dared to disregard nature's warning with such recklessness. Fortunately, my inheritance of a marvelous endurance enabled me to bend without breaking.
 
@@ -636,13 +654,11 @@ Again, though she stopped to hear what I might say, I was silent.
 
 My shattered energy was unable to hold longer any faith, and I cried out desperately: "Mother, don't pray again! The Great Spirit does not care if we live or die! Let us not look for good or justice: then we shall not be disappointed!"
 
-"Sh! my child, do not talk so madly. There is Taku Iyotan Wasaka,\[1] to which I pray," she answered, as she stroked my head again as she used to do when I was a smaller child.
+"Sh! my child, do not talk so madly. There is Taku Iyotan Wasaka,[^1] to which I pray," she answered, as she stroked my head again as she used to do when I was a smaller child.
 
-\[Footnote 1: An absolute Power.]
+[^1]: An absolute Power.
 
-III.
-
-MY MOTHER'S CURSE UPON WHITE SETTLERS.
+### III. MY MOTHER'S CURSE UPON WHITE SETTLERS.
 
 One black night mother and I sat alone in the dim starlight, in front of our wigwam. We were facing the river, as we talked about the shrinking limits of the village. She told me about the poverty-stricken white settlers, who lived in caves dug in the long ravines of the high hills across the river.
 
