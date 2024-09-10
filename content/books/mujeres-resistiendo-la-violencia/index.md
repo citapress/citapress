@@ -8,7 +8,7 @@ sortingdate: 2024-06-10T14:54:00.000Z
 templateKey: book-page
 author: "Colectivo Women Resisting Violence "
 isbn: 978-1-961368-19-4
-post_image: template-book-contemporary-collection.jpg
+post_image: mujeres_cover.jpg
 square_image: template-book-contemporary-collection-thumbnail.jpg
 genre:
   - nonfiction
