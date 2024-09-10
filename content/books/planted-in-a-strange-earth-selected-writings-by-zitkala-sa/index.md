@@ -84,29 +84,29 @@ And every act, not one too small,
 
  Like ray of gold sends forth a light,
 
-\    While moments into seasons flow.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While moments into seasons flow.
 
 Athwart the dome, Eternity,
 
-\    To Iris grown resplendent, fly
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To Iris grown resplendent, fly
 
  Bright gleams from every noble deed,
 
-\    Till colors with each other vie.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Till colors with each other vie.
 
 ’Tis glimpses of this grand rainbow,
 
-\    Where moments with good deeds unite,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Where moments with good deeds unite,
 
  That gladden many weary hearts,
 
-\    Inspiring them to seek more Light.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inspiring them to seek more Light.
 
 <small>First published in <i>The Earlhamite</i> vol. 5, no. 31 (November 1, 1898)</small>
 
 ## IMPRESSIONS OF AN INDIAN CHILDHOOD
 
-### I. MY MOTHER.
+### I. My Mother.
 
 A wigwam of weather-stained canvas stood at the base of some irregularly ascending hills. A footpath wound its way gently down the sloping land till it reached the broad river bottom; creeping through the long swamp grasses that bent over it on either side, it came out on the edge of the Missouri.
 
@@ -666,7 +666,7 @@ In this fashion many have passed idly through the Indian schools during the last
 
 ## THE SOFT-HEARTED SIOUX
 
-### I.
+**I.**
 
 Beside the open fire I sat within our tepee. With my red blanket wrapped tightly about my crossed legs, I was thinking of the coming season, my sixteenth winter. On either side of the wigwam were my parents. My father was whistling a tune between his teeth while polishing with his bare hand a red stone pipe he had recently carved. Almost in front of me, beyond the center fire, my old grandmother sat near the entranceway.
 
