@@ -834,7 +834,7 @@ The little incident recalled to mind the copy of a missionary paper brought to m
 
 <small>First published in <i>Atlantic Monthly</i> 90 (December 1902).</small>
 
-### THE WIDESPREAD ENIGMA CONCERNING BLUE-STAR WOMAN
+## THE WIDESPREAD ENIGMA CONCERNING BLUE-STAR WOMAN
 
 It was summer on the western plains. Fields of golden sunflowers facing eastward, greeted the rising sun. Blue-Star Woman, with windshorn braids of white hair over each ear, sat in the shade of her log hut before an open fire. Lonely but unmolested she dwelt here like the ground squirrel that took its abode nearby,—both through the easy tolerance of the land owner. The Indian woman held a skillet over the burning embers. A large round cake, with long slashes in its center, was baking and crowding the capacity of the frying pan.
 
@@ -950,7 +950,7 @@ Among the happy people came Blue-Star Woman's two nephews. Each shook the chieft
 
 The old chieftain sighed, but made no comment. Words were vain. He pressed his indelible thumb mark, his signature it was, upon the deed, and drove home with his son.
 
-### A DREAM OF HER GRANDFATHER
+## A DREAM OF HER GRANDFATHER
 
 Her grandfather was a Dakota "medicine man." Among the Indians of his day he was widely known for his successful healing work. He was one of the leading men of the tribe and came to Washington, D.C., with one of the first delegations relative to affairs concerning the Indian people and the United States government.
 
