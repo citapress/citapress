@@ -8,7 +8,7 @@ sortingdate: 2024-09-05T14:29:00.000Z
 templateKey: book-page
 author: Zitkála-Šá (Gertrude Simmons Bonnin)
 isbn: 978-1-961368-20-0
-post_image: cover_zitkalasa_final.jpg
+post_image: zitkala_cover.jpg
 square_image: zitkala_sa_thumbnail.jpg
 genre:
   - fiction
