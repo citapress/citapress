@@ -72,11 +72,11 @@ As a Dakota woman writing today, I seek always to inhabit my own contradictions,
 
 Like tiny drops of crystal rain,
 
-\    In every life the moments fall,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In every life the moments fall,
 
  To wear away with silent beat,
 
-\    The shell of selfishness o’er all.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The shell of selfishness o’er all.
 
 And every act, not one too small,
 
