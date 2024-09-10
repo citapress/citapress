@@ -48,7 +48,7 @@ foreword: >-
   <p><b>Cover:</b> Mer Young is an Indigenous published multidisciplinary artist, BIPOC activist, steward of land and water and environmental justice advocate.</p>
 published: false
 ---
-## FOREWORD 
+## FOREWORD
 
 I first saw a photo of Zitkála-Šá in my early twenties, during an effort to locate literary ancestors among my tribal lineage. In the photo, now on the cover of this collection, she stands adorned in regalia, profile luminous, hand lifted to her forehead as if to see far off. Her image arrested me, and, upon reading <i>American Indian Stories</i> on Project Gutenberg, her work drew me in further. In her writing, I observed how distillations of childhood's minute, peculiar sensations remain undiluted by time–ice floats on the river like glass marbles, while shadows of clouds move across the hills. Zitkála-Šá, I further discovered, had lived briefly on Standing Rock Indian Reservation at the same time as my own family. I was overcome by this connection between us, emanating not just from Ihanktuƞwaƞ Dakota kinship but from physical proximity. I felt an emotional relation, even spiritual, the way one might encounter a benevolent natural presence. “The guardian star in the night sky beamed compassionately down,” as she writes in the story “The Trial Path.”
 
@@ -72,35 +72,35 @@ As a Dakota woman writing today, I seek always to inhabit my own contradictions,
 
 Like tiny drops of crystal rain,
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In every life the moments fall,
+\    In every life the moments fall,
 
  To wear away with silent beat,
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The shell of selfishness o’er all.
+\    The shell of selfishness o’er all.
 
 And every act, not one too small,
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That leaps from out the heart’s pure glow,
+\    That leaps from out the heart’s pure glow,
 
  Like ray of gold sends forth a light,
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While moments into seasons flow.
+\    While moments into seasons flow.
 
 Athwart the dome, Eternity,
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To Iris grown resplendent, fly
+\    To Iris grown resplendent, fly
 
  Bright gleams from every noble deed,
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Till colors with each other vie.
+\    Till colors with each other vie.
 
 ’Tis glimpses of this grand rainbow,
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Where moments with good deeds unite,
+\    Where moments with good deeds unite,
 
  That gladden many weary hearts,
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inspiring them to seek more Light.
+\    Inspiring them to seek more Light.
 
 <small>First published in <i>The Earlhamite</i> vol. 5, no. 31 (November 1, 1898)</small>
 
@@ -788,7 +788,7 @@ Yet I wonder who shall come to welcome me in the realm of strange sight. Will th
 
 Soon, soon I shall know, for now I see the east is growing red. My heart is strong. My face is calm. My eyes are dry and eager for new scenes. My hands hang quietly at my side. Serene and brave, my soul awaits the men to perch me on the gallows for another flight. I go.
 
-Why I Am a Pagan
+### WHY I AM A PAGAN
 
 WHEN the spirit swells my breast I love to roam leisurely among the green hills; or sometimes, sitting on the brink of the murmuring Missouri, I marvel at the great blue overhead. With half closed eyes I watch the huge cloud shadows in their noiseless play upon the high bluffs opposite me, while into my ear ripple the sweet, soft cadences of the river's song. Folded hands lie in my lap, for the time forgot. My heart and I lie small upon the earth like a grain of throbbing sand. Drifting clouds and tinkling waters, together with the warmth of a genial summer day, bespeak with eloquence the loving Mystery round about us. During the idle while I sat upon the sunny river brink, I grew somewhat, though my response be not so clearly manifest as in the green grass fringing the edge of the high bluff back of me.
 
