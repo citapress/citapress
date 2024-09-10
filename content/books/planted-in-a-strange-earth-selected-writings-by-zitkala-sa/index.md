@@ -48,7 +48,7 @@ foreword: >-
   <p><b>Cover:</b> Mer Young is an Indigenous published multidisciplinary artist, BIPOC activist, steward of land and water and environmental justice advocate.</p>
 published: false
 ---
-## Foreword by Erin Marie Lynch
+## FOREWORD 
 
 I first saw a photo of Zitkála-Šá in my early twenties, during an effort to locate literary ancestors among my tribal lineage. In the photo, now on the cover of this collection, she stands adorned in regalia, profile luminous, hand lifted to her forehead as if to see far off. Her image arrested me, and, upon reading <i>American Indian Stories</i> on Project Gutenberg, her work drew me in further. In her writing, I observed how distillations of childhood's minute, peculiar sensations remain undiluted by time–ice floats on the river like glass marbles, while shadows of clouds move across the hills. Zitkála-Šá, I further discovered, had lived briefly on Standing Rock Indian Reservation at the same time as my own family. I was overcome by this connection between us, emanating not just from Ihanktuƞwaƞ Dakota kinship but from physical proximity. I felt an emotional relation, even spiritual, the way one might encounter a benevolent natural presence. “The guardian star in the night sky beamed compassionately down,” as she writes in the story “The Trial Path.”
 
@@ -66,39 +66,9 @@ In her work, too, I locate our tradition of communal listening. “While one was
 
 As a Dakota woman writing today, I seek always to inhabit my own contradictions, while moving toward the sense of belonging that Paula Gunn Allen calls “enwholement". As I look for my own mothers, at whose feet I might sit, I am thankful for Zitkála-Šá. It is an honor to learn from the inflections of her tone and from her breath. But Zitkála-Šá's words have much to offer to any reader, Native or non-Native, who is perhaps encountering her work for the first time, as I did all those years ago. To have her work collected here speaks to the tenacity of her spirit, her insistence on being heard across generations. Writing of herself, of her world, she teaches us how to be now. In this pause, I say: haƞ, haƞ.
 
-## Iris of Life
+**ERIN MARIE LYNCH**
 
-> Like tiny drops of crystal rain,
->
-> \    In every life the moments fall,
->
->  To wear away with silent beat,
->
-> \    The shell of selfishness o’er all.
->
-> And every act, not one too small,
->
-> \    That leaps from out the heart’s pure glow,
->
->  Like ray of gold sends forth a light,
->
-> \    While moments into seasons flow.
->
-> Athwart the dome, Eternity,
->
-> \    To Iris grown resplendent, fly
->
->  Bright gleams from every noble deed,
->
-> \    Till colors with each other vie.
->
-> ’Tis glimpses of this grand rainbow,
->
-> \    Where moments with good deeds unite,
->
->  That gladden many weary hearts,
->
-> \    Inspiring them to seek more Light.
+## Iris of Life
 
 Like tiny drops of crystal rain,
 
