@@ -42,7 +42,7 @@ description: >
 foreword: >-
   <p><b>Foreword:</b> Erin Marie Lynch is the author of Removal Acts (Graywolf
   Press, 2023). Her writing appears in <i>POETRY, New England Review, DIAGRAM,
-  Narrative, Best New Poets,<i> and other publications.</p>
+  Narrative, Best New Poets,</i> and other publications.</p>
 
 
   <p><b>Cover:</b> Mer Young is an Indigenous published multidisciplinary artist, BIPOC activist, steward of land and water and environmental justice advocate.</p>
