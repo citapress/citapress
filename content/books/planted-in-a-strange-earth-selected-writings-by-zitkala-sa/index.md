@@ -1,6 +1,6 @@
 ---
 title: "Planted in a Strange Earth: Selected Writings by Zitkála-Šá"
-publication: 2024-09-05T14:54:00.000Z
+publication: 2024-10-04T23:54:00.000Z
 publishformat: Year
 release: 1921-10-23T03:36:00.000Z
 releaseformat: Month and year
@@ -1176,7 +1176,7 @@ Then spoke One of the Spirit Space, so sedate.
 
  ‘Rejoice! Gift of Life pray waste not in wails!
 
-\    The maker of Souls forever prevails!’”
+\ The maker of Souls forever prevails!’”
 
 Direct from the Spirit-world came my steed.
 
