@@ -695,3 +695,279 @@ At last, one weary day in the schoolroom, a new idea presented itself to me. It 
 As answers to their shallow inquiries they received the students' sample work to look upon. Examining the neatly figured pages, and gazing upon the Indian girls and boys bending over their books, the white visitors walked out of the schoolhouse well satisfied: they were educating the children of the red man! They were paying a liberal fee to the government employees in whose able hands lay the small forest of Indian timber.
 
 In this fashion many have passed idly through the Indian schools during the last decade, afterward to boast of their charity to the North American Indian. But few there are who have paused to question whether real life or long-lasting death lies beneath this semblance of civilization.
+
+## THE SOFT-HEARTED SIOUX
+
+### I.
+
+Beside the open fire I sat within our tepee. With my red blanket wrapped tightly about my crossed legs, I was thinking of the coming season, my sixteenth winter. On either side of the wigwam were my parents. My father was whistling a tune between his teeth while polishing with his bare hand a red stone pipe he had recently carved. Almost in front of me, beyond the center fire, my old grandmother sat near the entranceway.
+
+
+
+She turned her face toward her right and addressed most of her words to my mother. Now and then she spoke to me, but never did she allow her eyes to rest upon her daughter's husband, my father. It was only upon rare occasions that my grandmother said anything to him. Thus his ears were open and ready to catch the smallest wish she might express. Sometimes when my grandmother had been saying things which pleased him, my father used to comment upon them. At other times, when he could not approve of what was spoken, he used to work or smoke silently.
+
+
+
+On this night my old grandmother began her talk about me. Filling the bowl of her red stone pipe with dry willow bark, she looked across at me.
+
+
+
+"My grandchild, you are tall and are no longer a little boy." Narrowing her old eyes, she asked, "My grandchild, when are you going to bring here a handsome young woman?" I stared into the fire rather than meet her gaze. Waiting for my answer, she stooped forward and through the long stem drew a flame into the red stone pipe.
+
+
+
+I smiled while my eyes were still fixed upon the bright fire, but I said nothing in reply. Turning to my mother, she offered her the pipe. I glanced at my grandmother. The loose buckskin sleeve fell off at her elbow and showed a wrist covered with silver bracelets. Holding up the fingers of her left hand, she named off the desirable young women of our village.
+
+
+
+"Which one, my grandchild, which one?" she questioned.
+
+
+
+"Hoh!" I said, pulling at my blanket in confusion. "Not yet!" Here my mother passed the pipe over the fire to my father. Then she, too, began speaking of what I should do.
+
+
+
+"My son, be always active. Do not dislike a long hunt. Learn to provide much buffalo meat and many buckskins before you bring home a wife." Presently my father gave the pipe to my grandmother, and he took his turn in the exhortations.
+
+
+
+"Ho, my son, I have been counting in my heart the bravest warriors of our people. There is not one of them who won his title in his sixteenth winter. My son, it is a great thing for some brave of sixteen winters to do."
+
+
+
+Not a word had I to give in answer. I knew well the fame of my warrior father. He had earned the right of speaking such words, though even he himself was a brave only at my age. Refusing to smoke my grandmother's pipe because my heart was too much stirred by their words, and sorely troubled with a fear lest I should disappoint them, I arose to go. Drawing my blanket over my shoulders, I said, as I stepped toward the entranceway: "I go to hobble my pony. It is now late in the night."
+
+II.
+
+Nine winters' snows had buried deep that night when my old grandmother, together with my father and mother, designed my future with the glow of a camp fire upon it.
+
+
+
+Yet I did not grow up the warrior, huntsman, and husband I was to have been. At the mission school I learned it was wrong to kill. Nine winters I hunted for the soft heart of Christ, and prayed for the huntsmen who chased the buffalo on the plains.
+
+
+
+In the autumn of the tenth year I was sent back to my tribe to preach Christianity to them. With the white man's Bible in my hand, and the white man's tender heart in my breast, I returned to my own people.
+
+
+
+Wearing a foreigner's dress, I walked, a stranger, into my father's village.
+
+
+
+Asking my way, for I had not forgotten my native tongue, an old man led me toward the tepee where my father lay. From my old companion I learned that my father had been sick many moons. As we drew near the tepee, I heard the chanting of a medicine-man within it. At once I wished to enter in and drive from my home the sorcerer of the plains, but the old warrior checked me. "Ho, wait outside until the medicine-man leaves your father," he said. While talking he scanned me from head to feet. Then he retraced his steps toward the heart of the camping-ground.
+
+
+
+My father's dwelling was on the outer limits of the round-faced village.
+
+With every heartthrob I grew more impatient to enter the wigwam.
+
+
+
+While I turned the leaves of my Bible with nervous fingers, the medicine-man came forth from the dwelling and walked hurriedly away. His head and face were closely covered with the loose robe which draped his entire figure.
+
+
+
+He was tall and large. His long strides I have never forgot. They seemed to me then the uncanny gait of eternal death. Quickly pocketing my Bible, I went into the tepee.
+
+
+
+Upon a mat lay my father, with furrowed face and gray hair. His eyes and cheeks were sunken far into his head. His sallow skin lay thin upon his pinched nose and high cheekbones. Stooping over him, I took his fevered hand. "How, Ate?" I greeted him. A light flashed from his listless eyes and his dried lips parted. "My son!" he murmured, in a feeble voice. Then again the wave of joy and recognition receded. He closed his eyes, and his hand dropped from my open palm to the ground.
+
+
+
+Looking about, I saw an old woman sitting with bowed head. Shaking hands with her, I recognized my mother. I sat down between my father and mother as I used to do, but I did not feel at home. The place where my old grandmother used to sit was now unoccupied. With my mother I bowed my head. Alike our throats were choked and tears were streaming from our eyes; but far apart in spirit our ideas and faiths separated us. My grief was for the soul unsaved; and I thought my mother wept to see a brave man's body broken by sickness.
+
+
+
+Useless was my attempt to change the faith in the medicine-man to that abstract power named God. Then one day I became righteously mad with anger that the medicine-man should thus ensnare my father's soul. And when he came to chant his sacred songs I pointed toward the door and bade him go! The man's eyes glared upon me for an instant. Slowly gathering his robe about him, he turned his back upon the sick man and stepped out of our wigwam. "Ha, ha, ha! my son, I can not live without the medicine-man!" I heard my father cry when the sacred man was gone.
+
+III.
+
+
+
+On a bright day, when the winged seeds of the prairie-grass were flying hither and thither, I walked solemnly toward the centre of the camping-ground. My heart beat hard and irregularly at my side. Tighter I grasped the sacred book I carried under my arm. Now was the beginning of life's work.
+
+
+
+Though I knew it would be hard, I did not once feel that failure was to be my reward. As I stepped unevenly on the rolling ground, I thought of the warriors soon to wash off their war-paints and follow me.
+
+
+
+At length I reached the place where the people had assembled to hear me preach. In a large circle men and women sat upon the dry red grass. Within the ring I stood, with the white man's Bible in my hand. I tried to tell them of the soft heart of Christ.
+
+
+
+In silence the vast circle of bareheaded warriors sat under an afternoon sun. At last, wiping the wet from my brow, I took my place in the ring. The hush of the assembly filled me with great hope.
+
+
+
+I was turning my thoughts upward to the sky in gratitude, when a stir called me to earth again.
+
+
+
+A tall, strong man arose. His loose robe hung in folds over his right shoulder. A pair of snapping black eyes fastened themselves like the poisonous fangs of a serpent upon me. He was the medicine-man. A tremor played about my heart and a chill cooled the fire in my veins.
+
+
+
+Scornfully he pointed a long forefinger in my direction and asked:
+
+
+
+"What loyal son is he who, returning to his father's people, wears a foreigner's dress?" He paused a moment, and then continued: "The dress of that foreigner of whom a story says he bound a native of our land, and heaping dry sticks around him, kindled a fire at his feet!" Waving his hand toward me, he exclaimed, "Here is the traitor to his people!"
+
+
+
+I was helpless. Before the eyes of the crowd the cunning magician turned my honest heart into a vile nest of treachery. Alas! the people frowned as they looked upon me.
+
+
+
+"Listen!" he went on. "Which one of you who have eyed the young man can see through his bosom and warn the people of the nest of young snakes hatching there? Whose ear was so acute that he caught the hissing of snakes whenever the young man opened his mouth? This one has not only proven false to you, but even to the Great Spirit who made him. He is a fool! Why do you sit here giving ear to a foolish man who could not defend his people because he fears to kill, who could not bring venison to renew the life of his sick father? With his prayers, let him drive away the enemy! With his soft heart, let him keep off starvation! We shall go elsewhere to dwell upon an untainted ground."
+
+
+
+With this he disbanded the people. When the sun lowered in the west and the winds were quiet, the village of cone-shaped tepees was gone. The medicine-man had won the hearts of the people.
+
+
+
+Only my father's dwelling was left to mark the fighting-ground.
+
+IV.
+
+
+
+From a long night at my father's bedside I came out to look upon the morning. The yellow sun hung equally between the snow-covered land and the cloudless blue sky. The light of the new day was cold. The strong breath of winter crusted the snow and fitted crystal shells over the rivers and lakes. As I stood in front of the tepee, thinking of the vast prairies which separated us from our tribe, and wondering if the high sky likewise separated the soft-hearted Son of God from us, the icy blast from the North blew through my hair and skull. My neglected hair had grown long and fell upon my neck.
+
+
+
+My father had not risen from his bed since the day the medicine-man led the people away. Though I read from the Bible and prayed beside him upon my knees, my father would not listen. Yet I believed my prayers were not unheeded in heaven.
+
+
+
+"Ha, ha, ha! my son," my father groaned upon the first snowfall. "My son, our food is gone. There is no one to bring me meat! My son, your soft heart has unfitted you for everything!" Then covering his face with the buffalo-robe, he said no more. Now while I stood out in that cold winter morning, I was starving. For two days I had not seen any food. But my own cold and hunger did not harass my soul as did the whining cry of the sick old man.
+
+
+
+Stepping again into the tepee, I untied my snow-shoes, which were fastened to the tent-poles.
+
+
+
+My poor mother, watching by the sick one, and faithfully heaping wood upon the centre fire, spoke to me:
+
+
+
+"My son, do not fail again to bring your father meat, or he will starve to death."
+
+
+
+"How, Ina," I answered, sorrowfully. From the tepee I started forth again to hunt food for my aged parents. All day I tracked the white level lands in vain. Nowhere, nowhere were there any other footprints but my own! In the evening of this third fast-day I came back without meat. Only a bundle of sticks for the fire I brought on my back. Dropping the wood outside, I lifted the door-flap and set one foot within the tepee.
+
+
+
+There I grew dizzy and numb. My eyes swam in tears. Before me lay my old gray-haired father sobbing like a child. In his horny hands he clutched the buffalo-robe, and with his teeth he was gnawing off the edges. Chewing the dry stiff hair and buffalo-skin, my father's eyes sought my hands. Upon seeing them empty, he cried out:
+
+
+
+"My son, your soft heart will let me starve before you bring me meat! Two hills eastward stand a herd of cattle. Yet you will see me die before you bring me food!"
+
+
+
+Leaving my mother lying with covered head upon her mat, I rushed out into the night.
+
+
+
+With a strange warmth in my heart and swiftness in my feet, I climbed over the first hill, and soon the second one. The moonlight upon the white country showed me a clear path to the white man's cattle. With my hand upon the knife in my belt, I leaned heavily against the fence while counting the herd.
+
+
+
+Twenty in all I numbered. From among them I chose the best-fattened creature. Leaping over the fence, I plunged my knife into it.
+
+
+
+My long knife was sharp, and my hands, no more fearful and slow, slashed off choice chunks of warm flesh. Bending under the meat I had taken for my starving father, I hurried across the prairie.
+
+
+
+Toward home I fairly ran with the life-giving food I carried upon my back. Hardly had I climbed the second hill when I heard sounds coming after me. Faster and faster I ran with my load for my father, but the sounds were gaining upon me. I heard the clicking of snowshoes and the squeaking of the leather straps at my heels; yet I did not turn to see what pursued me, for I was intent upon reaching my father. Suddenly like thunder an angry voice shouted curses and threats into my ear! A rough hand wrenched my shoulder and took the meat from me! I stopped struggling to run. A deafening whir filled my head. The moon and stars began to move. Now the white prairie was sky, and the stars lay under my feet. Now again they were turning. At last the starry blue rose up into place. The noise in my ears was still. A great quiet filled the air. In my hand I found my long knife dripping with blood. At my feet a man's figure lay prone in blood-red snow. The horrible scene about me seemed a trick of my senses, for I could not understand it was real. Looking long upon the blood-stained snow, the load of meat for my starving father reached my recognition at last. Quickly I tossed it over my shoulder and started again homeward.
+
+
+
+Tired and haunted I reached the door of the wigwam. Carrying the food before me, I entered with it into the tepee.
+
+
+
+"Father, here is food!" I cried, as I dropped the meat near my mother. No answer came. Turning about, I beheld my gray-haired father dead! I saw by the unsteady firelight an old gray-haired skeleton lying rigid and stiff.
+
+
+
+Out into the open I started, but the snow at my feet became bloody.
+
+V.
+
+
+
+On the day after my father's death, having led my mother to the camp of the medicineman, I gave myself up to those who were searching for the murderer of the paleface.
+
+
+
+They bound me hand and foot. Here in this cell I was placed four days ago.
+
+
+
+The shrieking winter winds have followed me hither. Rattling the bars, they howl unceasingly: "Your soft heart! your soft heart will see me die before you bring me food!" Hark! something is clanking the chain on the door. It is being opened. From the dark night without a black figure crosses the threshold. \* \* * It is the guard. He comes to warn me of my fate. He tells me that tomorrow I must die. In his stern face I laugh aloud. I do not fear death.
+
+
+
+Yet I wonder who shall come to welcome me in the realm of strange sight. Will the loving Jesus grant me pardon and give my soul a soothing sleep? or will my warrior father greet me and receive me as his son? Will my spirit fly upward to a happy heaven? or shall I sink into the bottomless pit, an outcast from a God of infinite love?
+
+
+
+Soon, soon I shall know, for now I see the east is growing red. My heart is strong. My face is calm. My eyes are dry and eager for new scenes. My hands hang quietly at my side. Serene and brave, my soul awaits the men to perch me on the gallows for another flight. I go.
+
+Why I Am a Pagan
+
+WHEN the spirit swells my breast I love to roam leisurely among the green hills; or sometimes, sitting on the brink of the murmuring Missouri, I marvel at the great blue overhead. With half closed eyes I watch the huge cloud shadows in their noiseless play upon the high bluffs opposite me, while into my ear ripple the sweet, soft cadences of the river's song. Folded hands lie in my lap, for the time forgot. My heart and I lie small upon the earth like a grain of throbbing sand. Drifting clouds and tinkling waters, together with the warmth of a genial summer day, bespeak with eloquence the loving Mystery round about us. During the idle while I sat upon the sunny river brink, I grew somewhat, though my response be not so clearly manifest as in the green grass fringing the edge of the high bluff back of me.
+
+At length retracing the uncertain footpath scaling the precipitous embankment, I seek the level lands where grow the wild prairie flowers. And they, the lovely little folk, soothe my soul with their perfumed breath.
+
+Their quaint round faces of varied hue convince the heart which leaps with glad surprise that they, too, are living symbols of omnipotent thought. With a child's eager eye I drink in the myriad star shapes wrought in luxuriant color upon the green. Beautiful is the spiritual essence they embody.
+
+I leave them nodding in the breeze but take along with me their impress upon my heart. I pause to rest me upon a rock embedded on the side of a foothill facing the low river bottom. Here the Stone-Boy, of whom the American aborigine tells, frolics about, shooting his baby arrows and shouting aloud with glee at the tiny shafts of lightning that flash from the flying arrow-beaks. What an ideal warrior he became, baffling the siege of the pests of all the land till he triumphed over their united attack. And here he lay, -- Invan, our great-great-grandfather, older than the hill he rested on, older than the race of men who love to tell of his wonderful career.
+
+Interwoven with the thread of this Indian legend of the rock, I fain would trace a subtle knowledge of the native folk which enabled them to recognize a kinship to any and all parts of this vast universe. By the leading of an ancient trail, I move toward the Indian village.
+
+With the strong, happy sense that both great and small are so surely enfolded in His magnitude that, without a miss, each has his allotted individual ground of opportunities, I am buoyant with good nature.
+
+Yellow Breast, swaying upon the slender stem of a wild sunflower, warbles a sweet assurance of this as I pass near by. Breaking off the clear crystal song, he turns his wee head from side to side eyeing me wisely as slowly I plod with moccasined feet. Then again he yields himself to his song of joy. Flit, flit hither and yon, he fills the summer sky with his swift, sweet melody. And truly does it seem his vigorous freedom lies more in his little spirit than in his wing.
+
+With these thoughts I reach the log cabin whither I am strongly drawn by the tie of a child to an aged mother. Out bounds my four-footed friend to meet me, frisking about my path with unmistakable delight. Chan is a black shaggy dog, "a thorough bred little mongrel," of whom I am very fond. Chan seems to understand many words in Sioux, and will go to her mat even when I whisper the word, though generally I think she is guided by the tone of the voice. Often she tries to imitate the sliding inflection and long drawn out voice to the amusement of our guests, but her articulation is quite beyond my ear. In both my hands I hold her shaggy head and gaze into her large brown eyes. At once the dilated pupils contract into tiny black dots, as if the roguish spirit within would evade my questioning.
+
+Finally resuming the chair at my desk I feel in keen sympathy with my fellow creatures, for I seem to see clearly again that all are akin.
+
+The racial lines, which once were bitterly real, now serve nothing more than marking out a living mosaic of human beings. And even here men of the same color are like the ivory keys of one instrument where each represents all the rest, yet varies from them in pitch and quality of voice. And those creatures who are for a time mere echoes of another's note are not unlike the fable of the thin sick man whose distorted shadow, dressed like a real  creature, came to the old master to make him follow as a shadow. Thus with a compassion for all echoes in human guise, I greet the solemn-faced "native preacher" whom I find awaiting me. I listen with respect for God's creature, though he mouth most strangely the jangling phrases of a bigoted creed.
+
+As our tribe is one large family, where every person is related to all the others, he addressed me: --
+
+   "Cousin, I came from the morning church service to talk with you."
+
+   "Yes," I said interrogatively, as he paused for some word from me.
+
+Shifting uneasily about in the straight-backed chair he sat upon, he began: "Every holy day (Sunday) I look about our little God's house, and not seeing you there, I am disappointed. This is why I come to-day. Cousin, as I watch you from afar, I see no unbecoming behavior and hear only good reports of you, which all the more burns me with the wish that you were a church member. Cousin, I was taught long years ago by kind missionaries to read the holy book. These godly men taught me also the folly of our old beliefs.
+
+"There is one God who gives reward or punishment to the race of dead men. In the upper region the Christian dead are gathered in unceasing song and prayer. In the deep pit below, the sinful ones dance in torturing flames.
+
+"Think upon these things, my cousin, and choose now to avoid the after-doom of hell fire!" Then followed a long silence in which he clasped tighter and unclasped again his interlocked fingers.
+
+Like instantaneous lightning flashes came pictures of my own mother's making, for she, too, is now a follower of the new superstition.
+
+"Knocking out the chinking of our log cabin, some evil hand thrust in a burning taper of braided dry grass, but failed of his intent, for the fire died out and the half burned brand fell inward to the floor. Directly above it, on a shelf, lay the holy book. This is what we found after our return from a several days' visit. Surely some great power is hid in the sacred book!"
+
+Brushing away from my eyes many like pictures, I offered midday meal to the converted Indian sitting wordless and with downcast face. No sooner had he risen from the table with "Cousin, I have relished it," than the church bell rang.
+
+Thither he hurried forth with his afternoon sermon. I watched him as he hastened along, his eyes bent fast upon the dusty road till he disappeared at the end of a quarter of a mile.
+
+The little incident recalled to mind the copy of a missionary paper brought to my notice a few days ago, in which a "Christian" pugilist commented upon a recent article of mine, grossly perverting the spirit of my pen. Still I would not forget that the pale-faced missionary and the hoodooed aborigine are both God's creatures, though small indeed their own conceptions of Infinite Love. A wee child toddling in a wonder world, I prefer to their dogma my excursions into the natural gardens where the voice of the Great Spirit is heard in the twittering of birds, the rippling of mighty waters, and the sweet breathing of flowers. If this is Paganism, then at present, at least, I am a Pagan.
+
+<small>First published in <i>Atlantic Monthly</i> 90 (December 1902).</small>
