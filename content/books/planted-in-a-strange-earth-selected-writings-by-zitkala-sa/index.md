@@ -68,7 +68,7 @@ As a Dakota woman writing today, I seek always to inhabit my own contradictions,
 
 **ERIN MARIE LYNCH**
 
-## Iris of Life
+## IRIS OF LIFE
 
 Like tiny drops of crystal rain,
 
