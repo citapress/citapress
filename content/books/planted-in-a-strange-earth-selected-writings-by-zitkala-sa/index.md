@@ -670,9 +670,7 @@ Still looking toward the distant firelight, my mother continued: "My daughter, b
 
 She sprang to her feet, and, standing firm beside her wigwam, she sent a curse upon those who sat around the hated white man's light. Raising her right arm forcibly into line with her eye, she threw her whole might into her doubled fist as she shot it vehemently at the strangers. Long she held her outstretched fingers toward the settler's lodge, as if an invisible power passed from them to the evil at which she aimed.
 
-IV.
-
-RETROSPECTION.
+### IV. RETROSPECTION.
 
 Leaving my mother, I returned to the school in the East. As months passed over me, I slowly comprehended that the large army of white teachers in Indian schools had a larger missionary creed than I had suspected.
 
