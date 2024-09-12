@@ -963,7 +963,10 @@ Un ejemplo de esto último es el trabajo reciente de Gaël Le Cornec una dramatu
 <table class="c26">
     <tr class="c23">
         <td class="c91" colspan="1" rowspan="1">
-            <p class="c37" id="h.3dhjn8m">Recuadro 5.3: Resistencia por medio del teatro: Efêmera por Gaël Le Cornec</p>
+
+![](recuadro_2_3.jpg)
+
+\    <p class="c37" id="h.3dhjn8m">Recuadro 5.3: Resistencia por medio del teatro: Efêmera por Gaël Le Cornec</p>
             Efêmera fue una obra de teatro verbatim escrita por Gaël Le Cornec, basada en una investigación sobre la violencia de género contra las mujeres migrantes brasileñas en Londres dirigida por Cathy McIlwaine. Estrenada en el Southwark Playhouse de Londres 2017, también hubo representaciones en Río de Janeiro \\\\\\\\\\\\\[Centro de Artes de Maré y Sede das Cias, ver la figura 5.1] en 2017 y en el Warren Theatre de Brighton, Inglaterra, en 2018.
             <p class="c37 c47">La obra retrataba a Ana (interpretada por Gaël Le Cornec), que contaba a Joanne, una documentalista británica (interpretada por Rosie Macpherson), sus experiencias de violencia de género en Brasil y en el Reino Unido. La historia de Ana reflejaba múltiples incidentes de violencia de pareja y de violencia urbana institucional más amplia sufrida por muchas de las mujeres entrevistadas. En el escenario se representaron físicamente las peleas entre Ana y Joanne. Este tipo de interpretaciones artísticas están profundamente encarnadas y pueden proporcionar interpretaciones viscerales y una visión de cómo la inseguridad de género y el miedo están tan profundamente arraigados en la vida de las mujeres a través de las fronteras.</p>
             <p class="c37 c47">Gaël reflexiona sobre la creación de la obra:</p>
