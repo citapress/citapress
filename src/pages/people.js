@@ -195,12 +195,12 @@ const PeopleIndex = ({ location, intl }) => {
               <b>Designers:</b> Josie Bellini, Antonela Debiasi, Fiorella
               Ferroni, Thaïs Jacoponi, Irina Koryagina, Annika Leppäaho, Kathy
               Mueller, Jiwon Park, Laura Ramírez, Natalia Rojas, Laura Savina,
-              Lauren Smedley, Luce Terrasson, Catalina Vásquez, Shuhua Xiong, Jean Yang, Petra
+              Lauren Smedley, Luce Terrasson, Catalina Vásquez, Shuhua Xiong, Jean Yang, Mer Young, Petra
               Zehner, Dajia Zhou
             </p>{" "}
             <p>
               <b>Writers:</b> Mikita Brottman, Ana María Carvajal, Francesca Gargallo, Catherine
-              J. Golden, Bonnie Hurd Smith, Christy Hyman, Carol MacKay, Victoria Namkung, Heather
+              J. Golden, Bonnie Hurd Smith, Christy Hyman, Erin Marie Lynch, Carol MacKay, Victoria Namkung, Heather
               Ostman, Krithika Varagur, Gabrielle Welsh
             </p>{" "}
             <p>
