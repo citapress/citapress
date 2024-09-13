@@ -26,7 +26,7 @@ const PeopleIndex = ({ location, intl }) => {
                 href="https://docs.google.com/document/d/17HRdfvqfDBQKvr984pKJhZlAkoG4jCTXD-Fenpv-4xY/edit?usp=sharing"
                 target="_blank"                 
                 rel="noreferrer"
-              > here </a></p>
+              > here. </a></p>
             <hr />
             <p>
               <span className="inside-title">Staff:</span>
