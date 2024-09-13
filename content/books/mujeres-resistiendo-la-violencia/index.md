@@ -63,6 +63,9 @@ foreword: >-
   <p><b>La editora:</b> Alejandra Montes Escobar</p>
 published: false
 ---
+
+
+
 ## Reconocimiento
 
 Los alarmantes índices de violencia contra las mujeres en América Latina pueden ser abrumadores y desesperanzadores. No obstante, al resaltar estrategias y acciones concretas y eficaces –lideradas por quienes son las más afectadas por esta violencia–, el libro <i>Mujeres resistiendo la violencia</i> desempeña un papel fundamental en la búsqueda de soluciones. Este es un valioso recurso para activistas, periodistas e investigadoras, y un poderoso registro de resistencia popular.
@@ -347,16 +350,8 @@ Además del daño directo, la violencia de género puede afectar a las mujeres e
 <p class="c1" id="h.2grqrue">Otro efecto del trauma y el miedo que las mujeres experimentan en las ciudades se refleja en su reserva para revelar y reportar casos de violencia de género. La investigación en Maré revela que poco más de la mitad (52 %) de las mujeres que había sufrido este tipo de abuso lo divulgó o lo informó. Y cuando lo hicieron, casi siempre fue a fuentes informales de apoyo (83 %); solo el 2.5 % lo informó a una fuente formal como la policía (Krenzinger et al., 2018; McIlwaine et al., 2020). La renuencia de las mujeres a reportar estos casos puede explicarse por la falta de confianza que tienen hacia las instituciones públicas, y la angustia que sienten cuando anticipan que serán revictimizadas debido al estigma contra las sobrevivientes de la violencia ‒particularmente cuando se cruzan cuestiones geográficas, raciales y de prejuicios contra las clases sociales para desempoderarlas aún más‒. Agravado por la falta de conocimiento de las mujeres sobre sus derechos, otras formas de exclusión pasiva y activa del apoyo también pueden entenderse como violencia de género. La investigación en una variedad de contextos ha demostrado cómo los servicios estatales para las mujeres sobrevivientes de violencia de género a menudo les fallan, introduciendo nuevas dimensiones de culpa y bochorno para las víctimas. Esto se ve agravado por el acceso inadecuado a infraestructuras urbanas seguras, como alumbrado y transporte públicos ‒que en sí mismo puede describirse como una forma de violencia de infraestructura, pero que también conduce a que se perpetúe violencia contra las mujeres‒. Esta constelación de barreras significa que las mujeres a menudo son obligadas a recurrir a los actores armados como agentes alternativos de la justicia, particularmente contra los perpetradores de violencia doméstica (McIlwaine et al., 2021).</p>
 <p class="c1" id="h.vx1227">Desde una perspectiva interseccional, por lo tanto, los problemas sociales más amplios como la pobreza, la desigualdad y la exclusión respaldan la violencia urbana de género. En otras palabras, las formas de violencia estructural y simbólica arraigadas en el racismo, el sexismo y la discriminación refuerzan la violencia directa e indirecta contra las mujeres. De hecho, las horribles realidades del «feminicidio» (en el que se mata a mujeres por cuestiones de género y donde, en muchas ocasiones, el Estado está implicado directa e indirectamente en estos) en América Latina han sido fundamentales para destacar las relaciones entre las normas patriarcales y misóginas y las formas de violencia y racismo estructurales e institucionales más amplias. Sin embargo, también es importante señalar que las personas académicas y activistas latinoamericanas han sido clave para cabildear a favor de que el feminicidio sea definido como un crimen, y han logrado la clasificación de feminicidio en 18 países, incluso si esto excluye las muchas formas de violencia directa e indirecta que las mujeres soportan. Una persona clave víctima de feminicidio, que también personifica los desafíos ante la naturaleza interseccional de la violencia urbana de género, es la difunta Marielle Franco \\\\\\\\[ver el recuadro 1.1].</p>
 
-<style>
-div {
-  width: 100%;
-  border: 3px solid blue;
-  padding: 10px;
-  margin: 0px;
-}
-</style>
 
-<div>**Recuadro 1.1. Marielle Franco: legado de desafío a la violencia urbana de género interseccional**
+<p style="border-width:3px; border-style:solid; border-color:#0000FF; padding: 1em;">**Recuadro 1.1. Marielle Franco: legado de desafío a la violencia urbana de género interseccional**
 
 > Marielle Franco fue una destacada activista de Maré, en Río de Janeiro, que fue asesinada en 2018 en un caso que conmocionó al mundo. Ella encarnaba todos los marcadores que conducen a miles de mujeres a ser directamente afectadas por la violencia urbana en Brasil: mujer negra de origen marginado; favelada, nacida y criada en Maré; madre de una hija de 19 años; activista de derechos humanos de un partido socialista (PSOL) elegida como política; y esposa de Mónica Benicio, quien también se convirtió en una concejala electa.
 >
@@ -368,8 +363,8 @@ div {
 >
 > *Las cuatro balas que mataron a Marielle se han utilizado para representar cada una «el racismo, la misoginia, la homofobia y la impunidad». Sin embargo, su legado es increíblemente fuerte, sobre todo porque ella representaba a muchas minorías y fue pionera para las mujeres en las comunidades marginadas. Para evocar el proverbio mexicano adoptado en las protestas en Brasil después de la muerte de Marielle y que se ha difundido cada vez más en otros países latinoamericanos: «Tentaram nos enterrar nos matar, mas não sabiam que éramos sementes» \[Intentaron enterrarnos, pero no sabían que éramos semillas]. Al igual que las flores que florecen de semillas desconocidas dormidas, después de la muerte de Marielle, decenas de mujeres negras de las periferias urbanas fueron elegidas como integrantes del consejo en ciudades brasileñas, así como en el Congreso nacional. A menudo se les conoce como las semillas de Marielle, después de haber firmado un compromiso para defender las agendas antirracistas, feministas y populares designada la «Agenda Marielle Franco».*
 >
-> *Fuentes: Garayo (2021); House (2015); Loureiro (2021); Rocha (2018).*
-</div>
+> Fuentes: Garayo (2021); House (2015); Loureiro (2021); Rocha (2018).
+</p>
 
 ![marielle franco fue una destacada activista de maré, en río de janeiro, que fue asesinada en 2018 en un caso que conmocionó al mundo. ella encarnaba todos los marcadores que conducen a miles de mujeres a ser directamente afectadas por la violencia urbana en brasil: mujer negra de origen marginado; favelada, nacida y criada en maré; madre de una hija de 19 años; activista de derechos humanos de un partido socialista elegida como política; y esposa de mónica benicio, quien también se convirtió en una concejala electa.](recuadro1.1_test.jpeg)
 
