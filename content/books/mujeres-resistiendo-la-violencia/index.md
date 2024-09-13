@@ -349,6 +349,14 @@ Además del daño directo, la violencia de género puede afectar a las mujeres e
 
 <div class="box: 1px solid blue; width: 100%; margin: 10px 0;">
 
+<style>
+div {
+  width: 100%;
+  border: 3px solid blue;
+  padding: 10px;
+  margin: 0px;
+}
+</style>
 **Recuadro 1.1. Marielle Franco: legado de desafío a la violencia urbana de género interseccional**
 
 > Marielle Franco fue una destacada activista de Maré, en Río de Janeiro, que fue asesinada en 2018 en un caso que conmocionó al mundo. Ella encarnaba todos los marcadores que conducen a miles de mujeres a ser directamente afectadas por la violencia urbana en Brasil: mujer negra de origen marginado; favelada, nacida y criada en Maré; madre de una hija de 19 años; activista de derechos humanos de un partido socialista (PSOL) elegida como política; y esposa de Mónica Benicio, quien también se convirtió en una concejala electa.
