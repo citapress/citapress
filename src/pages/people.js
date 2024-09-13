@@ -22,13 +22,9 @@ const PeopleIndex = ({ location, intl }) => {
             </p>
                     <p>
               <span className="inside-title">We are hiring!</span>
-              <span> Cita is looking for a part-time, remote Communications & Design Coordinator. Learn more < <a
-                target="_blank"
-                rel="noreferrer"
+              <span> Cita is looking for a part-time, remote Communications & Design Coordinator. Learn more <a
                 href="https://docs.google.com/document/d/17HRdfvqfDBQKvr984pKJhZlAkoG4jCTXD-Fenpv-4xY/edit?usp=sharing"
-              >
-                here.
-              </a></span></p>
+                target="_blank"> here </a></span></p>
             <hr />
             <p>
               <span className="inside-title">Staff:</span>
