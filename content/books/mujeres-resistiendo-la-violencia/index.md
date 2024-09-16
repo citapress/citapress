@@ -1974,5 +1974,5 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     <p class="c104"><a href="#cmnt_ref2" id="cmnt2">\\\\\\\\\\\\\\\\\\\\\\[b]</a>Por más que busco en internet, este grupo no se conoce con esa sigla ACDATEE. Solo el nombre. Por eso propongo reformular.</p>
 </div>
 <div class="c24">
-    <p class="c104"><a href="#cmnt_ref3" id="cmnt3">\\\\\\\\\\\\\\\\\\\\\\[c]</a>propongo eliminar porque no funciona el link Para más información sobre diversas estadísticas de la violencia contra las mujeres en Guatemala consultar el portal estadístico del Observatorio de las Mujeres, de Guatemala.</p>
+    <p class="c104"><a href="#cmnt_ref3" id="cmnt3">\[c\]</a>propongo eliminar porque no funciona el link Para más información sobre diversas estadísticas de la violencia contra las mujeres en Guatemala consultar el portal estadístico del Observatorio de las Mujeres, de Guatemala.</p>
 </div>
