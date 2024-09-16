@@ -496,7 +496,9 @@ El trabajo doméstico es una ocupación muy feminizada en América Latina, dado 
 <h3 class="c14" id="h.3ygebqi">Trabajo infantil</h3>
 La OIT estima que alrededor de dos millones de niñas menores de 14 años se dedican al trabajo del hogar en toda América Latina y son vulnerables al acoso sexual y otras formas de abuso físico en el lugar de trabajo. Hay muchas razones para esta forma de trabajo infantil, como rupturas familiares o niñas que quedan huérfanas sin nadie que las cuide. Hay opciones limitadas de empleo para las niñas con poca escolaridad, especialmente las de grupos indígenas que viven en zonas rurales remotas. Todavía se da el caso de que las empleadoras van a estas zonas y hacen acuerdos informales con los padres de las niñas o adolescentes ofreciendo comida, alojamiento y educación a cambio de tareas domésticas ligeras, lo cual rara vez es la realidad para ellas una vez que se mudan a la ciudad. En Perú, por ejemplo, es una práctica común que las familias indígenas de bajos recursos que viven en zonas rurales envíen a sus hijas a la ciudad para que se queden con familiares para ayudar con las tareas del hogar y continuar su educación en las escuelas nocturnas. También hay casos de niñas que huyen de la violencia familiar y viajan solas a las ciudades y son acogidas por «madrinas». Estas niñas no son consideradas trabajadoras sino «una más de la familia» y, por lo tanto, invisibles para las autoridades.
 En un informe sobre el trabajo infantil doméstico, la OIT identificó algunos de los riesgos más comunes que enfrentan las trabajadoras del hogar infantiles: jornadas laborales largas y agotadoras; uso de productos químicos tóxicos; transportar cargas pesadas; manipular objetos peligrosos como cuchillos, hachas y sartenes calientes; alimentación y alojamiento insuficientes o inadecuados, y trato humillante, incluida la violencia física y verbal, así como el abuso sexual. Estos peligros se ven agravados por la negación de los derechos fundamentales de la niñez, como el acceso a la educación y la atención sanitaria; el derecho al descanso, el esparcimiento, el juego y la recreación; y el derecho a tener contacto regular con sus padres y compañeros. Estos factores pueden tener un impacto físico, psicológico y moral irreversible en su desarrollo, salud y bienestar (OIT, 2013).
+
 <a id="t.e53a237b4a229d2ad8501aac63035e567d00f30a"></a><a id="t.6"></a>
+
 
 <div style="border-width:3px; border-style:solid; border-color:#0000FF; padding: 1em;"> 
 
@@ -518,7 +520,7 @@ La naturaleza del empleo doméstico en América Latina ha cambiado en las últim
 
 <p class="c1" id="h.3cqmetx">Un estudio realizado por la oenegé internacional CARE con integrantes de la Confederación Latinoamericana y del Caribe de Trabajadoras del Hogar (Conlactraho) examinó la violencia y el abuso en el lugar de trabajo que enfrentan las trabajadoras del hogar en Ecuador, Colombia, México, Honduras y Guatemala. En su encuesta con trabajadoras, encontraron que 8 de cada 10 mujeres empleadas en hogares privados habían experimentado violencia en el trabajo. Este fue un estudio participativo que identificó problemas comunes entre las trabajadoras del hogar en todos estos países, los cuales tenían que ver con las vulnerabilidades, el bajo estatus y la falta de derechos laborales. En un ejercicio de mapeo con un grupo de trabajadoras del hogar en San Pedro Sula, Honduras, las mujeres definieron sus experiencias de violencia en el lugar de trabajo de la siguiente manera:</p>
 
-+Abuso verbal 
+-Abuso verbal 
 <ul>
 <li>Abuso y acoso sexual</li>
 <li>Intimidación y abuso psicológico</li>
