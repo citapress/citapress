@@ -510,17 +510,6 @@ He estado organizada durante los últimos 19 años y conozco mis derechos, lo qu
 
 <small>Fuente: Aquino (2021). </small>
 </div>
-<table class="c26">
-    <tr class="c23">
-        <td class="c62" colspan="1" rowspan="1">
-            <p class="c37" id="h.2dlolyb">Recuadro 2.1: La historia de Ana Laura Aquino </p>
-            Aunque mis padres son de Oaxaca, no me identifico como mujer indígena. Nací en la Ciudad de México y no hablo una lengua indígena. Sí, tengo raíces indígenas, pero soy de la ciudad. Existen muchos estereotipos en torno a las trabajadoras del hogar. Nos etiquetan, dicen que solo las mujeres pobres e indígenas hacen este tipo de trabajo. Pero creo que ahora se trata más de diferentes clases sociales que de etnicidad. 
-            <p class="c37 c47">Tengo 46 años y me dedico al trabajo doméstico desde los 13. Se trataba de trabajo infantil forzado, porque era necesario para que sobreviviéramos. Mi madre estaba sola y yo tenía hermanos y hermanas menores que dependían de ella. Ella era costurera y no era fácil llegar a fin de mes con tantos niños. Cuando conoció a una nueva pareja y quedó embarazada, me dijo que si quería seguir en la escuela, tendría que convertirme en trabajadora del hogar residente. Así fue como comencé a trabajar. Empezaba mis quehaceres a las seis de la mañana trabajando hasta alrededor de la una de la tarde y luego iba a la escuela secundaria por las tardes y noches. Actualmente trabajo para dos empleadoras además de trabajar en una organización de trabajadoras del hogar. Regresé a la escuela secundaria recientemente y de nuevo comencé a estudiar. El trabajo del hogar me da flexibilidad y como no trabajo de residente tengo tiempo para hacer las cosas por mí misma. Ayuda que no tenga hijos que mantener.</p>
-            <p class="c37 c47">He estado organizada durante los últimos 19 años y conozco mis derechos, lo que marca la diferencia ya que puedo negociar con las empleadoras. Todavía hay muchas jóvenes que vienen de los pueblos rurales a la ciudad y no tienen idea de sus derechos. También hay muchos empleadores que no saben que las trabajadoras del hogar tienen derechos laborales y por ser informal no creen que sea una ocupación reconocida.</p>
-            <p class="c15">Fuente: Aquino (2021). </p>
-        </td>
-    </tr>
-</table>
 
 <h3 class="c14" id="h.sqyw64">Violencia contra trabajadoras domésticas</h3>
 La naturaleza del empleo doméstico en América Latina ha cambiado en las últimas décadas a medida que más trabajadoras del hogar adquieren un mayor conocimiento de sus derechos gracias a las actividades de concientización llevadas a cabo durante muchos años por las organizaciones de trabajadoras del hogar. Ahora hay más trabajadoras empleadas no residentes, algunas trabajando a tiempo parcial o por días con diferentes empleadores. Sin embargo, el trabajo doméstico sigue siendo un empleo precario y no regulado, con bajos salarios, explotación y abuso laboral. Es difícil proteger a las trabajadoras porque el lugar de trabajo es una casa privada. Las personas empleadoras se ven, a menudo, a sí mismas, como benefactoras que ofrecen caridad al darle un trabajo a una mujer en situación de pobreza. Incluso cuando los derechos laborales existen en los estatutos, estos son difíciles de hacer cumplir ya que no existen mecanismos oficiales para denunciar abusos laborales:
