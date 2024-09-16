@@ -362,10 +362,6 @@ Las cuatro balas que mataron a Marielle se han utilizado para representar cada u
 Fuentes: Garayo (2021); House (2015); Loureiro (2021); Rocha (2018).
 
 </div>
-
-![marielle franco fue una destacada activista de maré, en río de janeiro, que fue asesinada en 2018 en un caso que conmocionó al mundo. ella encarnaba todos los marcadores que conducen a miles de mujeres a ser directamente afectadas por la violencia urbana en brasil: mujer negra de origen marginado; favelada, nacida y criada en maré; madre de una hija de 19 años; activista de derechos humanos de un partido socialista elegida como política; y esposa de mónica benicio, quien también se convirtió en una concejala electa.](recuadro1.1_test.jpeg)
-
-<p class="c37" id="h.3fwokq0">Recuadro 1.1. Marielle Franco: legado de desafío a la violencia urbana de género interseccional</p>
             
             Marielle Franco fue una destacada activista de Maré, en Río de Janeiro, que fue asesinada en 2018 en un caso que conmocionó al mundo. Ella encarnaba todos los marcadores que conducen a miles de mujeres a ser directamente afectadas por la violencia urbana en Brasil: mujer negra de origen marginado; favelada, nacida y criada en Maré; madre de una hija de 19 años; activista de derechos humanos de un partido socialista (PSOL) elegida como política; y esposa de Mónica Benicio, quien también se convirtió en una concejala electa.
             <p class="c37 c47">Como concejala, Marielle fue portavoz de las minorías. Ella abogó «por la comunidad LGTBIQ+, por la dignidad de los habitantes de las favelas, por las mujeres en general, por los derechos humanos de todos los ciudadanos de Río, incluido el derecho de los jóvenes negros a no ser asesinados a tiros como sospechosos por policías violentos con inclinación al uso de armas». Uno de sus principales temas de agenda antes de su muerte era poner fin a la brutalidad policial y a los asesinatos extrajudiciales generalizados que ocurren en las favelas de Río. Días antes de su propio asesinato, ella había acusado a la policía militar de matar a dos jóvenes y aterrorizar a los residentes en la favela Acari.</p>
@@ -393,6 +389,22 @@ Estas prácticas responden eficazmente al miedo, a los peligros o a la violencia
 Las mujeres en Maré están diciendo lo que piensan como parte de una cadena más amplia de voces que las mujeres están tejiendo en todas partes para responder, resistir y contrarrestar las formas cotidianas de violencia de género interseccional. En la India, por ejemplo, la organización Safetipin ha tenido éxito en despertar la consciencia sobre la violencia de género en las calles, respondiendo con una gama de aplicaciones de telefonía móvil que alimentan la planificación urbana estratégica. Estas ideas e iniciativas se han extendido a Colombia, donde formas similares de conocimiento táctico influyen en la gestión de la violencia urbana de género en la esfera pública.
 
 <a id="t.8d4e183f2a2668d280054ee2591d702b31e908bc"></a><a id="t.4"></a>
+
+
+<div style="border-width:3px; border-style:solid; border-color:#0000FF; padding: 1em;"> 
+
+**Recuadro 1.2: Safetipin en Bogotá**
+
+Safetipin es una organización social fundada en la India en 2013 por Kalpana Viswanath, pero que ahora opera en 65 ciudades de todo el mundo con el objetivo de hacer que los lugares públicos sean espacios más seguros para las mujeres. Esto lo hace a gran escala recopilando datos sobre seguridad mediante el uso de aplicaciones de telefonía móvil, con el fin de crear conciencia y reducir el acoso callejero. La aplicación Safetipin utiliza datos masivos para identificar zonas seguras e inseguras de la ciudad. Los usuarios de la aplicación califican el espacio de acuerdo con un conjunto de parámetros que incluyen iluminación, apertura, visibilidad, hacinamiento, seguridad, senderos, disponibilidad de transporte público, diversidad de género y sentimientos. Para cada uno hay un sistema de clasificación: verde para zonas más seguras, naranja para zonas menos seguras y rojo para zonas inseguras. Safetipin ha desarrollado tres variaciones de la aplicación para teléfonos móviles: My Safetipin; Safetipin Nite y Safetipin Site. Además de beneficiar a los usuarios, quienes pueden tomar decisiones informadas sobre su movimiento en la ciudad, Safetipin trabaja con socios clave del sector público y privado para influir en la planificación urbana y ayudar a ubicar aquellos lugares donde se requiere iluminación adicional, presencia policial o rutas de accesibilidad.
+
+Bogotá fue la primera ciudad de América Latina en usar la aplicación Safetipin en 2014, por medio de una colaboración con la Secretaría Distrital de la Mujer apoyada por ONU Hábitat y Cities Alliance. Mediante el uso de My Safetipin y Safetipin Nite, para 2019, se habían recogido 40.492 pines de auditoría para carreteras que abarcan 16.145 km junto a 3843 pines de auditoría para rutas ciclistas que abarcan 537 km. La información recopilada de la primera fase de Safetipin fue utilizada para priorizar la inversión en infraestructura local y municipal en alumbrado público, cámaras CCTV, las cuales permiten monitorear desde otra ubicación el funcionamiento o el estado de un lugar, y la reconstrucción de caminos para garantizar un mejor acceso. Los datos de Safetipin también se han utilizado para incorporar perspectivas relacionadas con el género en la política pública de Bogotá en relación con la planificación del uso del suelo y los planes de seguridad.
+En 2016, la Secretaría Distrital de la Mujer llevó a cabo múltiples sesiones con el tema «Las mujeres vivimos la noche» en sitios cercanos a espacios públicos identificados como inseguros para las mujeres. El objetivo era hacer la noche simbólicamente segura para las mujeres por medio de las artes escénicas, la música y el arte para crear conciencia sobre los derechos de las mujeres a vivir libres de violencia. En la campaña participaron 1978 hombres y mujeres.
+
+Por lo tanto, Safetipin permite a las mujeres hacer frente a la violencia en el espacio público a corto plazo, pero sus datos también informan cambios más amplios para integrar la seguridad de las mujeres en la planificación urbana y en las instituciones públicas y privadas.
+
+<small>Fuente: Viswanath & Basu (2015).</small>
+</div>
+
 
 <table class="c26">
     <tr class="c23">
