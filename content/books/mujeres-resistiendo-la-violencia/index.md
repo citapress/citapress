@@ -592,18 +592,20 @@ Para este, pidieron al público que usara guantes de goma verdes en apoyo de su 
 <h3 class="c14" id="h.2w5ecyt">De lo local a lo global: influenciando la política internacional</h3>
 <p class="c42" id="h.1baon6m">La aprobación del C189 de la OIT «Convenio sobre las trabajadoras y los trabajadores domésticos» en 2011 llevó al reconocimiento mundial de que las trabajadoras del hogar tienen derechos laborales y ha empoderado a sus organizaciones, así como a sus sindicatos para levantarse y denunciar las violaciones laborales. El convenio exige que los Estados miembro tomen medidas para garantizar que las mujeres trabajadoras domésticas disfruten de protección contra todas las formas de abuso, acoso y violencia y exige el establecimiento de mecanismos para protegerlas y garantizar que todas las quejas sean investigadas y procesadas adecuadamente. Es un instrumento para apoyar las luchas de las organizaciones de trabajadoras del hogar que abogan ante sus gobiernos nacionales por los derechos laborales de su sector.</p>
 <a id="t.cc696c907a58b0e551f116f7e7c542355c5526a7"></a><a id="t.7"></a>
-<table class="c26">
-    <tr class="c123">
-        <td class="c115" colspan="1" rowspan="1">
-            <p class="c37" id="h.3vac5uf">Recuadro 2.2: El C189 de la OIT «Convenio sobre las trabajadoras y los trabajadores domésticos» </p>
-            El C189 de la OIT reconoce que el trabajo doméstico sigue siendo infravalorado e invisible, y que lo realizan principalmente mujeres y niñas de comunidades migrantes y desfavorecidas, quienes como tales son vulnerables a la discriminación en el empleo y otros abusos de los derechos humanos. Hay dos artículos en el convenio que se refieren específicamente a la violencia y la explotación laboral:
-            <p class="c37 c47">Artículo 5: «Todo miembro deberá adoptar medidas para asegurar que las trabajadoras y los trabajadores domésticos gocen de una protección efectiva contra toda forma de abuso, acoso y violencia». </p>
-            <p class="c37 c47">Artículo 6: «Todo miembro deberá adoptar medidas con el fin de asegurar que las trabajadoras y los trabajadores domésticos, como los demás trabajadores en general, disfruten de condiciones de empleo equitativas y condiciones de trabajo decente, así como, si residen en el hogar para el que trabajan, de condiciones de vida decentes que respeten su privacidad».</p>
-            <p class="c37 c47">El convenio entró en vigor en septiembre de 2013 y la OIT ha llamado a todos los gobiernos a ratificarlo, pero hasta la fecha solo 35 gobiernos lo han hecho (14 de ellos están en América Latina). Las organizaciones de trabajadoras del hogar de todo el mundo continúan la campaña para que sus gobiernos lo ratifiquen e incorporen estas medidas en las leyes y políticas públicas nacionales.</p>
-            <p class="c15">Fuente: OIT (2011).</p>
-        </td>
-    </tr>
-</table>
+<div style="border-width:3px; border-style:solid; border-color:#0000FF; padding: 1em;"> 
+**Recuadro 2.2: El C189 de la OIT «Convenio sobre las trabajadoras y los trabajadores domésticos»**
+
+El C189 de la OIT reconoce que el trabajo doméstico sigue siendo infravalorado e invisible, y que lo realizan principalmente mujeres y niñas de comunidades migrantes y desfavorecidas, quienes como tales son vulnerables a la discriminación en el empleo y otros abusos de los derechos humanos. Hay dos artículos en el convenio que se refieren específicamente a la violencia y la explotación laboral:
+
+>Artículo 5: «Todo miembro deberá adoptar medidas para asegurar que las trabajadoras y los trabajadores domésticos gocen de una protección efectiva contra toda forma de abuso, acoso y violencia». 
+
+>Artículo 6: «Todo miembro deberá adoptar medidas con el fin de asegurar que las trabajadoras y los trabajadores domésticos, como los demás trabajadores en general, disfruten de condiciones de empleo equitativas y condiciones de trabajo decente, así como, si residen en el hogar para el que trabajan, de condiciones de vida decentes que respeten su privacidad».
+
+El convenio entró en vigor en septiembre de 2013 y la OIT ha llamado a todos los gobiernos a ratificarlo, pero hasta la fecha solo 35 gobiernos lo han hecho (14 de ellos están en América Latina). Las organizaciones de trabajadoras del hogar de todo el mundo continúan la campaña para que sus gobiernos lo ratifiquen e incorporen estas medidas en las leyes y políticas públicas nacionales.
+
+<small>Fuente: OIT (2011).</small>
+</div>
+
 
 <p class="c1" id="h.2afmg28">Por medio de la promoción global, la OIT está teniendo en cuenta las preocupaciones de las organizaciones de trabajadoras del hogar con respecto a la implementación del C189 en la región. En América Latina, en junio de 2021, se realizó un foro regional virtual para informar sobre los avances y los desafíos en la implementación en México, Centroamérica y República Dominicana. El foro reunió a más de cien trabajadoras del hogar, personas del funcionariado de la OIT, lideresas de organizaciones de mujeres y académicas para reflexionar sobre las medidas adoptadas para garantizar un trabajo decente para las trabajadoras del hogar y los desafíos que enfrentan al reclamar sus derechos, y se preparó un informe alternativo sobre los avances en esos países (Conlactraho, 2021). Algunas de las conclusiones clave del informe alternativo son que la pandemia ha empeorado la desigualdad que viven las trabajadoras del hogar y que estas no cuentan con mecanismos efectivos para protegerse cuando enfrentan violaciones de sus derechos laborales, incluso cuando los gobiernos han ratificado el C189 de la OIT. Las trabajadoras domésticas migrantes son especialmente vulnerables y carecen de protección, lo que resulta en una mayor explotación y mayores niveles de violencia y acoso en el lugar de trabajo. </p>
 En 2020, Conlactraho se unió a una nueva campaña de la OIT para apoyar la ratificación de otro convenio internacional que protege a todas las trabajadoras de la violencia y el acoso en el lugar de trabajo. El Convenio 190 (C190) de la OIT «Convenio sobre la violencia y el acoso» (2019b) insta a los gobiernos y a las personas empleadoras a abordar los factores de riesgo en sectores y ocupaciones específicos, incluidas acciones para proteger a las personas trabajadoras de limpieza y del hogar que sufren insinuaciones sexuales no deseadas, agresiones físicas y violaciones por parte de las personas empleadoras \\\\\\\\\\\\\\\\\\\\\\[ver el recuadro 2.3].
