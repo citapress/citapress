@@ -521,7 +521,7 @@ La naturaleza del empleo doméstico en América Latina ha cambiado en las últim
 <p class="c1" id="h.3cqmetx">Un estudio realizado por la oenegé internacional CARE con integrantes de la Confederación Latinoamericana y del Caribe de Trabajadoras del Hogar (Conlactraho) examinó la violencia y el abuso en el lugar de trabajo que enfrentan las trabajadoras del hogar en Ecuador, Colombia, México, Honduras y Guatemala. En su encuesta con trabajadoras, encontraron que 8 de cada 10 mujeres empleadas en hogares privados habían experimentado violencia en el trabajo. Este fue un estudio participativo que identificó problemas comunes entre las trabajadoras del hogar en todos estos países, los cuales tenían que ver con las vulnerabilidades, el bajo estatus y la falta de derechos laborales. En un ejercicio de mapeo con un grupo de trabajadoras del hogar en San Pedro Sula, Honduras, las mujeres definieron sus experiencias de violencia en el lugar de trabajo de la siguiente manera:</p>
 
 
-- Abuso verbal 
+-Abuso verbal 
 <li>Abuso y acoso sexual</li>
 <li>Intimidación y abuso psicológico</li>
 <li>Largas jornadas de trabajo</li>
