@@ -716,17 +716,17 @@ La naturaleza del empleo doméstico en América Latina ha cambiado en las últim
 <p class="c1" id="h.3cqmetx">Un estudio realizado por la oenegé internacional CARE con integrantes de la Confederación Latinoamericana y del Caribe de Trabajadoras del Hogar (Conlactraho) examinó la violencia y el abuso en el lugar de trabajo que enfrentan las trabajadoras del hogar en Ecuador, Colombia, México, Honduras y Guatemala. En su encuesta con trabajadoras, encontraron que 8 de cada 10 mujeres empleadas en hogares privados habían experimentado violencia en el trabajo. Este fue un estudio participativo que identificó problemas comunes entre las trabajadoras del hogar en todos estos países, los cuales tenían que ver con las vulnerabilidades, el bajo estatus y la falta de derechos laborales. En un ejercicio de mapeo con un grupo de trabajadoras del hogar en San Pedro Sula, Honduras, las mujeres definieron sus experiencias de violencia en el lugar de trabajo de la siguiente manera:</p>
 
 
-<ul>
-<li>Abuso verbal </li>
-<li>Abuso y acoso sexual</li>
-<li>Intimidación y abuso psicológico</li>
-<li>Largas jornadas de trabajo</li>
-<li>Salarios bajos</li>
-<li>Amenaza de perder nuestros trabajos</li>
-<li>Falta de valoración a nuestro trabajo</li>
-<li>Racismo</li>
-<li>Discriminación</li>
-</ul>
+
+*Abuso verbal
+*Abuso y acoso sexual
+*Intimidación y abuso psicológico
+*Largas jornadas de trabajo
+*Salarios bajos
+*Amenaza de perder nuestros trabajos
+*Falta de valoración a nuestro trabajo
+*Racismo
+*Discriminación
+
 
 
 Casi todas las mujeres que participaron en el estudio de CARE fueron sobrevivientes de algún tipo de violencia en su lugar de trabajo, exacerbada por el racismo y el machismo que prevalecen en la sociedad en general. En el mismo estudio, las mujeres participantes en discusiones de grupos focales en otros países identificaron además la violencia como: explotación económica y laboral, pérdida de libertad, engaño y control mediante la retención de pasaportes de personas trabajadoras migrantes. El estudio también encontró que el acoso y el abuso sexual contra las trabajadoras del hogar se intensificó en el caso de las mujeres afrodescendientes, quienes fueron hipersexualizadas por los empleadores masculinos. Algunas trabajadoras informaron que habían intentado poner fin al acoso contándole a su empleadora sobre su cónyuge, pero no les creyeron o fueron acusadas de provocar la situación. En un ejercicio de mapeo con un grupo en Ecuador, se preguntó a las participantes dónde se sentían inseguras dentro de la casa de sus empleadores. Muchas participantes identificaron el dormitorio del patrón como un lugar al que había que temer: «Sabemos que en los dormitorios de los empleadores muchas mujeres quedaron embarazadas después de haber sido violadas allí». También confirmaron que, en sus experiencias, «las mujeres afroecuatorianas e indígenas son las más explotadas, pero es más difícil para las mujeres indígenas porque su cultura no les permite hablar sobre el abuso» (CARE, 2018).
