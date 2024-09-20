@@ -48,6 +48,10 @@ foreword: >-
   <p><b>Cover:</b> Mer Young is an Indigenous published multidisciplinary artist, BIPOC activist, steward of land and water and environmental justice advocate.</p>
 published: false
 ---
+## EDITOR'S NOTE
+
+
+
 ## FOREWORD
 
 I first saw a photo of Zitkála-Šá in my early twenties, during an effort to locate literary ancestors among my tribal lineage. In the photo, now on the cover of this collection, she stands adorned in regalia, profile luminous, hand lifted to her forehead as if to see far off. Her image arrested me, and, upon reading <i>American Indian Stories</i> on Project Gutenberg, her work drew me in further. In her writing, I observed how distillations of childhood's minute, peculiar sensations remain undiluted by time–ice floats on the river like glass marbles, while shadows of clouds move across the hills. Zitkála-Šá, I further discovered, had lived briefly on Standing Rock Indian Reservation at the same time as my own family. I was overcome by this connection between us, emanating not just from Ihanktuƞwaƞ Dakota kinship but from physical proximity. I felt an emotional relation, even spiritual, the way one might encounter a benevolent natural presence. “The guardian star in the night sky beamed compassionately down,” as she writes in the story “The Trial Path.”
@@ -426,7 +430,7 @@ Thowin answered again with the only word at her command, "No."
 
 This time the woman meant her blows to smart, for the poor frightened girl shrieked at the top of her voice. In the midst of the whipping the blows ceased abruptly, and the woman asked another question: "Are you going to fall in the snow again?"
 
-Thowin gave her bad passwood another trial. We heard her say feebly,
+Thowin gave her bad password another trial. We heard her say feebly,
 
 "No! No!"
 
