@@ -271,7 +271,7 @@ Un informe reciente destaca una serie de problemas que afectan a las niñas y la
 <div style="border-width:3px; border-style:solid; border-color:#0000FF; padding: 1em;"> 
 <p><b>Recuadro 0.1: Feminicidios en países seleccionados (2021)</b></p>
 
-\| País      |  Número de feminicidio | Taza de feminicidios por cada 100.000 mujeres |
+| País      |  Número de feminicidio | Taza de feminicidios por cada 100.000 mujeres |
 | --------- | ------------------------------------------------ | ----------------------------------------------------------------------- |
 | Argentina | 210                                              | .92                                                                     |
 | Chile     | 52                                               | .52                                                                     |
@@ -1428,13 +1428,13 @@ Las siguientes recomendaciones de políticas públicas representan algunas accio
 
 <a id="t.90c3647a04abf2dc285061e74e2d1f19b75d3bf6"></a><a id="t.22"></a>
 
-<table class="c26">
-    <tr class="c23">
-        <td class="c96" colspan="1" rowspan="1">
+<table>
+    <tr>
+        <td>
             <p class="c3">Recomendación 1</p>
         </td>
-        <td class="c101" colspan="1" rowspan="1">
-            <p class="c56">Las narrativas políticas y jurídicas deben tratar la VCMN como una vulneración de derechos humanos y cumplir con obligaciones jurídicamente vinculantes de garantizar la igualdad y la no discriminación (siguiendo la Convención de Belém do Pará en temas de prevención, sanción y erradicación de todas las formas de violencia contra la mujer y la Meta 5.2 del Objetivo de Desarrollo Sostenible (ODS) 5).</p>
+        <td>
+            <p>Las narrativas políticas y jurídicas deben tratar la VCMN como una vulneración de derechos humanos y cumplir con obligaciones jurídicamente vinculantes de garantizar la igualdad y la no discriminación (siguiendo la Convención de Belém do Pará en temas de prevención, sanción y erradicación de todas las formas de violencia contra la mujer y la Meta 5.2 del Objetivo de Desarrollo Sostenible (ODS) 5).</p>
         </td>
     </tr>
     <tr class="c23">
