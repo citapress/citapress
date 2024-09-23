@@ -657,7 +657,7 @@ Esta victoria, ampliamente celebrada, fue el resultado de una intensa campaña q
 
 
 
-<p class="c15" id="h.2250f4o">Figura 3.1: María Elena Odd One sostiene un cartel que dice ‘No a la maternidad, sí al placer’ en 1984. Crédito: Wikimedia Commons.</p>
+<p class="c15" id="h.2250f4o">Figura 3.1: María Elena Oddone sostiene un cartel que dice ‘No a la maternidad, sí al placer’ en 1984. Crédito: Wikimedia Commons.</p>
 
 
 Posteriormente, la campaña pasó de un enfoque de liberación a un enfoque basado en los derechos. En marzo de 1988, un grupo de mujeres creó la Comisión por el Derecho al Aborto, una organización pionera en la lucha para discutir sobre el aborto en clave de derecho. Durante la década de 1990, la agenda por el derecho al aborto creció y se extendió por toda Argentina. En noviembre de 1990, grupos feministas llevaron a cabo el Quinto Encuentro Feminista de América Latina y el Caribe, en San Bernardo, Argentina, y la Comisión por el Derecho al Aborto coordinó los primeros talleres denominados «El aborto como derecho». Dos años después, en 1992, esta comisión presentó en el Congreso el primer proyecto de reforma legal, el cual no fue aprobado.
