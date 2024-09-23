@@ -278,7 +278,7 @@ Un informe reciente destaca una serie de problemas que afectan a las niñas y la
 
 
 | País | Número de feminicidio| Taza de feminicidios por cada 100.000 mujeres|
-| :----------- | :-------: | :-------: |
+| :------------- | :-------------: | :-------------: |
 | Argentina | 210 | .92 |
 | Chile | 52 | .52 |
 | Colombia  | 622 | 2.40 |
