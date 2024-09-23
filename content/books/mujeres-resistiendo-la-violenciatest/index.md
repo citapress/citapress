@@ -235,7 +235,6 @@ Las formas múltiples e interrelacionadas de la VCMN no han disminuido durante l
 
 <p class="c1" id="h.2jxsxqh">La Organización Mundial de la Salud (OMS, 2018) estima que, en América Latina, el 25 % de las mujeres (entre 55 y 66 millones) sufrirán violencia de pareja a lo largo de su vida y el 12 % (se estima que entre 25 y 30 millones) de las mujeres serán víctimas de violencia de personas diferentes a sus parejas.<sup class="c16 c10"><a href="#ftnt9" id="ftnt_ref9">\\\[9\]</a></sup> La tabla 1.1 presenta las estadísticas oficiales sobre la VCMN en la región; sin embargo, no muestra una imagen completa, ya que estos datos no incluyen a las niñas más jóvenes y a las mujeres mayores que no son de edad reproductiva, pero que también han sido víctimas de diferentes formas de violencia. Hay una escasez de datos desglosados, ya que estas estadísticas se basan en las declaraciones de las propias mujeres. La OMS y la ONU Mujeres han reconocido este problema y diseñado un programa mundial de cinco años (2018-2022) para desarrollar las metodologías que miden la VCMN y mejorar la recopilación de datos en los ámbitos nacional y regional. Se han identificado varios obstáculos para las mujeres al momento de hacer una denuncia, como la normalización de la violencia de pareja en ciertas comunidades, o el miedo a que hacer una denuncia con la policía en contra de su pareja vuelva aún más difícil su situación.</p>
 
-![tabla1.1\](tabla1_1_mujeres.jpg "tabla1.1")
 
 <div style="border-width:3px; border-style:solid; border-color:#0000FF; padding: 1em;"> 
 <p><b>Tabla 1.1</b></p>
@@ -279,7 +278,29 @@ Un informe reciente destaca una serie de problemas que afectan a las niñas y la
 </p>
             
 
-<p class="c15" id="h.1y810tw">Fuente: Mapa Latinoamericano de Feminicidios (Mundosur, 2021).</p>
+
+<div style="border-width:3px; border-style:solid; border-color:#0000FF; padding: 1em;"> 
+<p><b>Recuadro 0.1</b></p>
+
+<p><i>Proporción de mujeres adultas víctimas de violencia física y/o sexual por parte de su pareja (a lo largo de la vida y en los últimos 12 meses) en países seleccionados de América Latina</i></p>
+
+
+| País | Número de feminicidio| Taza de feminicidios por cada 100.000 mujeres|
+| :----------- | :-------: | :-------: |
+| Argentina | 210 | .92 |
+| Chile | 52 | .52 |
+| Colombia  | 622 | 2.40 |
+| Ecuador  | 195 | 2.21 |
+| Uruguay  | 30 | 1.67 |
+
+<p>La edad promedia de las víctimas fue 34 años. En la mayoría de los casos los delitos fueron perpetrados por una pareja o expareja, otro familiar hombre o alguien conocido de la víctima. Solo en tres casos el agresor era desconocido. La mayoría fueron asesinadas con un arma de fuego o con cuchillos, pero se utilizaron otros métodos como la quema, la asfixia, la tortura y el envenenamiento.</p>
+
+<small><p>Fuente: Fuente: Mapa Latinoamericano de Feminicidios (Mundosur, 2021).</p></small>
+
+
+</div>
+
+
 
 Aunque la violencia racial y cultural contra las mujeres indígenas y afrodescendientes no es nueva, hoy en día hay mucha más conciencia de ella, y las organizaciones de mujeres y académicas feministas están identificando y exponiendo estas diferentes formas de VCMN por medio de la investigación y la incidencia. Pero, aun así, hace falta más atención de parte de los políticos, por lo cual es esencial que se apoye cada vez más al movimiento de mujeres y a las iniciativas desarrolladas por las mujeres sobre el terreno en particular. Esto es especialmente importante en América Latina, donde esta violencia es muy frecuente, pero donde a la vez hay mucho potencial para generar cambio gracias a la fuerza del movimiento de mujeres en esta región. 
 
