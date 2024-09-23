@@ -240,9 +240,20 @@ Las formas múltiples e interrelacionadas de la VCMN no han disminuido durante l
 <div style="border-width:3px; border-style:solid; border-color:#0000FF; padding: 1em;"> 
 *Proporción de mujeres adultas víctimas de violencia física y/o sexual por parte de su pareja (a lo largo de la vida y en los últimos 12 meses) en países seleccionados de América Latina*
 
-| País | Violencia de pareja física y/o sexual a lo largo de la vida| Violencia física y/o sexual de pareja en los últimos 12 meses|
-| -------- | ------- | ------- |
+| País | Violencia de pareja física y/o sexual a lo largo de la vida| :Violencia física y/o sexual de pareja en los últimos 12 meses|
+| :-------- | :-------: | :-------: |
 | Argentina (2015) | 27 % | 3 % |
+| Bolivia (2016) | 58.5 % | 27 % |
+| Brasil (2018) | 17 % | 3 % |
+| Colombia (2015) | 33 % | 18 % |
+| Ecuador (2014) | 40 % | 11 % |
+| El Salvador (2017) | 14 % | 6 % |
+| México (2016)) | 25 % | 9.5 % |
+| Perú (2017) | 31 % | 11 % |
+| Uruguay (2013) | 17 % | 3 % |
+
+<small><p>Fuente: Recopilado del Global database on violence against women [Base de datos mundial sobre la violencia contra las mujeres] (UN Women, 2022).</p></small>
+
 
 </div>
 
