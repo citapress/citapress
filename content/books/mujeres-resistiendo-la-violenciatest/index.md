@@ -1383,7 +1383,7 @@ Por medio del artivismo, el trauma individual se convierte en resistencia colect
 
 ## Conclusiones y recomendaciones
 
-<br>Marilyn Thomson y Patricia Muñoz Cabrera<br>Traducido por Camila Vergara Ruiz
+<br><i>Marilyn Thomson y Patricia Muñoz Cabrera<br>Traducido por Camila Vergara Ruiz</i>
 
 Los informes más recientes de organismos internacionales sobre la intensificación de la violencia contra las mujeres y las niñas (VCMN) durante la pandemia de covid-19 corroboran lo que las mujeres y las organizaciones de mujeres de toda América Latina han estado denunciado a lo largo de varias décadas: que la violencia de género e interseccional es tanto individual como estructural y sigue teniendo un impacto gravísimo sobre sus cuerpos, sus comunidades y sus territorios. Estos informes también confirman que la violencia contra las mujeres por el hecho de ser mujeres no cesó durante la pandemia (la ONU Mujeres la ha identificado como una «pandemia en la sombra»), y las sigue afectando cotidianamente en espacios tanto privados como públicos.
 
