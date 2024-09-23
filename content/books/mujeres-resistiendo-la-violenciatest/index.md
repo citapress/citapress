@@ -170,7 +170,7 @@ Finalmente, gracias al Publication Subvention Fund de la Facultad de Ciencias So
 
 <p><i>Marilyn Thomson y Patricia Muñoz Cabrera<br>Traducido por Camila Vergara Ruiz</i></p>
 
-<p align="right"><small>\\\\\\\\[Estamos\] tejiendo saberes, construyendo saberes colectivos para transformar políticas y prácticas injustas. </span><br>
+<p align="right"><small>{Estamos} tejiendo saberes, construyendo saberes colectivos para transformar políticas y prácticas injustas. </span><br>
 <p align="right">(Clara Merino, Fundación Luna Creciente, Ecuador)</span></p></small>
 
 América Latina tiene una de las tasas más altas de violencia de género y feminicidios del mundo, cifras que aumentaron y se intensificaron drásticamente durante la pandemia provocada por el covid-19. Aunque hay una vasta investigación sobre la naturaleza y las causas de este tipo de violencia contra las mujeres y las niñas (VCMN), poco se ha explorado sobre los atrevidos proyectos que se han diseñado para abordarla. Poner en primer plano las voces de las que han sido afectadas por este tipo de violencia y que están transformando sus comunidades es el objetivo central de nuestro Colectivo Women Resisting Violence (WRV), que busca aprender de estas acciones innovadoras.
