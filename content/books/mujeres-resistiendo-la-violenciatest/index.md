@@ -243,7 +243,7 @@ Las formas múltiples e interrelacionadas de la VCMN no han disminuido durante l
 
 
 | País | Violencia de pareja física y/o sexual a lo largo de la vida| Violencia física y/o sexual de pareja en los últimos 12 meses|
-| :----------- | :-------: | :-------: |
+| :-------------------- | :-------: | :-------: |
 | Argentina (2015) | 27 % | 3 % |
 | Bolivia (2016) | 58.5 % | 27 % |
 | Brasil (2018) | 17 % | 3 % |
@@ -269,15 +269,7 @@ Un informe reciente destaca una serie de problemas que afectan a las niñas y la
 
 <a id="t.1"></a>
 
-<a id="t.b17a04399083317cce6626f634be54e6c0305d74"></a><a id="t.2"></a>
-
-<p id="h.3j2qqm3">
-
-![recuadro 0.1\](recuadro0.1.mujeres.png "recuadro 0.1")
-
-</p>
-            
-
+<a id="t.b17a04399083317cce6626f634be54e6c0305d74"></a><a id="t.2"></a>    
 
 <div style="border-width:3px; border-style:solid; border-color:#0000FF; padding: 1em;"> 
 <p><b>Recuadro 0.1</b></p>
