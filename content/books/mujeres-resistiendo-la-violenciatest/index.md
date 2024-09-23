@@ -238,6 +238,7 @@ Las formas múltiples e interrelacionadas de la VCMN no han disminuido durante l
 ![tabla1.1\](tabla1_1_mujeres.jpg "tabla1.1")
 
 <div style="border-width:3px; border-style:solid; border-color:#0000FF; padding: 1em;"> 
+**Tabla 1.1**
 _Proporción de mujeres adultas víctimas de violencia física y/o sexual por parte de su pareja (a lo largo de la vida y en los últimos 12 meses) en países seleccionados de América Latina_
 
 | País | Violencia de pareja física y/o sexual a lo largo de la vida| :Violencia física y/o sexual de pareja en los últimos 12 meses|
