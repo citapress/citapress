@@ -652,7 +652,7 @@ La victoria política de Argentina en diciembre de 2020 sobre la legalización d
 
 Esta victoria, ampliamente celebrada, fue el resultado de una intensa campaña que en los últimos años se destacó por «los pañuelazos», cuyo símbolo son los </span>pañuelos verdes<span class="c2"> en forma de bufandas, pulseras, blusas y hasta para cubrir sus caras que usan las activistas por el aborto. Argentina tiene una larga historia de activismo popular por la legalización del aborto. A principios de la década de 1980, el aborto formaba parte de las campañas feministas por la liberación sexual: una imagen icónica de la agenda feminista argentina de 1983 muestra a la activista feminista María Elena Oddone con una pancarta que decía: «No a la maternidad, sí al placer».
 
-![](figura_3_1__-mujeres.jpeg)
+![figura_3_1](figura_3_1__-mujeres.jpeg "figura_3_1")
 
 
 
