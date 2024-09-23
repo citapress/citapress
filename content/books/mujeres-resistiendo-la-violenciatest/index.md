@@ -284,7 +284,7 @@ Un informe reciente destaca una serie de problemas que afectan a las niñas y la
 
 <p>La edad promedia de las víctimas fue 34 años. En la mayoría de los casos los delitos fueron perpetrados por una pareja o expareja, otro familiar hombre o alguien conocido de la víctima. Solo en tres casos el agresor era desconocido. La mayoría fueron asesinadas con un arma de fuego o con cuchillos, pero se utilizaron otros métodos como la quema, la asfixia, la tortura y el envenenamiento.</p>
 
-<small><p>Fuente: Fuente: Mapa Latinoamericano de Feminicidios (Mundosur, 2021).</p></small>
+<small><p> Fuente: Mapa Latinoamericano de Feminicidios (Mundosur, 2021).</p></small>
 
 
 </div>
