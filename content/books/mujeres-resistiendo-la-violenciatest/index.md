@@ -272,13 +272,10 @@ Un informe reciente destaca una serie de problemas que afectan a las niñas y la
 <a id="t.b17a04399083317cce6626f634be54e6c0305d74"></a><a id="t.2"></a>    
 
 <div style="border-width:3px; border-style:solid; border-color:#0000FF; padding: 1em;"> 
-<p><b>Recuadro 0.1</b></p>
-
-<p><i>Proporción de mujeres adultas víctimas de violencia física y/o sexual por parte de su pareja (a lo largo de la vida y en los últimos 12 meses) en países seleccionados de América Latina</i></p>
-
+<p><b>Recuadro 0.1: Feminicidios en países seleccionados (2021)</b></p>
 
 | País | Número de feminicidio| Taza de feminicidios por cada 100.000 mujeres|
-| :------------- | :-------------: | :-------------: |
+| :--------------- | :-----------------: | :------------------: |
 | Argentina | 210 | .92 |
 | Chile | 52 | .52 |
 | Colombia  | 622 | 2.40 |
