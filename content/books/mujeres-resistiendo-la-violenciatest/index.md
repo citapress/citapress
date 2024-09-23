@@ -671,9 +671,8 @@ La victoria política de Argentina en diciembre de 2020 sobre la legalización d
 
 Esta victoria, ampliamente celebrada, fue el resultado de una intensa campaña que en los últimos años se destacó por «los pañuelazos», cuyo símbolo son los </span>pañuelos verdes<span class="c2"> en forma de bufandas, pulseras, blusas y hasta para cubrir sus caras que usan las activistas por el aborto. Argentina tiene una larga historia de activismo popular por la legalización del aborto. A principios de la década de 1980, el aborto formaba parte de las campañas feministas por la liberación sexual: una imagen icónica de la agenda feminista argentina de 1983 muestra a la activista feminista María Elena Oddone con una pancarta que decía: «No a la maternidad, sí al placer».
 
-![figura_3_1](figura_3_1__-mujeres.jpeg "figura_3_1")
 
-<p class="c15" id="h.2250f4o">Figura 3.1: María Elena Oddone sostiene un cartel que dice ‘No a la maternidad, sí al placer’ en 1984. Crédito: Wikimedia Commons.</p>
+<p><b><i><center>Figura 3.1: María Elena Oddone sostiene un cartel que dice ‘No a la maternidad, sí al placer’ en 1984. Crédito: Wikimedia Commons.</b></i><center/></p>
 
 Posteriormente, la campaña pasó de un enfoque de liberación a un enfoque basado en los derechos. En marzo de 1988, un grupo de mujeres creó la Comisión por el Derecho al Aborto, una organización pionera en la lucha para discutir sobre el aborto en clave de derecho. Durante la década de 1990, la agenda por el derecho al aborto creció y se extendió por toda Argentina. En noviembre de 1990, grupos feministas llevaron a cabo el Quinto Encuentro Feminista de América Latina y el Caribe, en San Bernardo, Argentina, y la Comisión por el Derecho al Aborto coordinó los primeros talleres denominados «El aborto como derecho». Dos años después, en 1992, esta comisión presentó en el Congreso el primer proyecto de reforma legal, el cual no fue aprobado.
 
@@ -779,7 +778,7 @@ El acceso a la información es primordial para la gestión de la fertilidad, al 
 
 ![figu 3.2](figura_3_2.jpeg "figura 3.2")
 
-<p class="c15" id="h.3s49zyc">Figura 3.2: Mujeres de la campaña Somos 2074 y Muchas Más contra la impunidad. Crédito: Somos 2074 y Muchas Más.</p>
+<p class="c15" id="h.3s49zyc"><b><i><center>Figura 3.2: Mujeres de la campaña Somos 2074 y Muchas Más contra la impunidad. Crédito: Somos 2074 y Muchas Más.</b></i></center></p>
 
 Entre 2007 y 2017, Ecuador fue presidido por Rafael Correa. A partir de 2011, comenzó a implementarse en el país la Estrategia Nacional Intersectorial de Planificación Familiar y Prevención del Embarazo en Adolescentes (ENIPLA). El programa definió el género como una construcción social que va más allá de la clasificación biológica de mujeres y hombres. Se dirigió a los adolescentes y se involucró con ellos por medio de reuniones en la escuela secundaria, folletos informativos, redes sociales y programas de radio. Los informes de políticas explicaban que ENIPLA se refería a la sexualidad como una parte natural y significativa de cómo las personas experimentan sus vidas. También ofreció información sobre masturbación, cambios biológicos, curiosidad sexual y anticoncepción mediante una campaña pública nacional. El programa reconoció y abordó el sexo, la identidad sexual, los roles de género, el erotismo, el placer y la intimidad. Sin embargo, en 2015, el mismo presidente Correa (izquierdista) lo remplazó por un programa conservador centrado en la familia.
 
@@ -946,7 +945,7 @@ El 3 de marzo de 2016 fue brutalmente asesinada por dos hombres que irrumpieron 
 
 ![Figura 4.1: Berta Cáceres, líder indígena lenca, feminista y activista del medioambiente hondureña](figura_4_1_mujeres.jpeg "Figura 4.1: Berta Cáceres, líder indígena lenca, feminista y activista del medioambiente hondureña")
 
-<p class="c15" id="h.14ykbeg">Figura 4.1: Berta Cáceres, líder indígena lenca, feminista y activista del medioambiente hondureña. Crédito: Coolloud.</p>
+<p class="c15" id="h.14ykbeg"><b><i><center>Figura 4.1: Berta Cáceres, líder indígena lenca, feminista y activista del medioambiente hondureña. Crédito: Coolloud.</b></i></center></p>
 
 <h3 class="c14" id="h.3oy7u29">No a la impunidad </h3>
 
@@ -1027,7 +1026,7 @@ En el ámbito nacional, otras redes de mujeres, junto con sus comunidades, han l
 
 ![Figura 4.2: Ercilia Araya en el Primer Panel sobre las Violaciones de Derechos Humanos de Pueblos Indígenas en Dictadura.](figura_4_2_mujeres.jpeg "Figura 4.2: Ercilia Araya en el Primer Panel sobre las Violaciones de Derechos Humanos de Pueblos Indígenas en Dictadura.")
 
-<p class="c15" id="h.1vsw3ci">Figura 4.2: Ercilia Araya en el Primer Panel sobre las Violaciones de Derechos Humanos de Pueblos Indígenas en Dictadura. Crédito: Observatorio Ciudadano (2018).</p>
+<p class="c15" id="h.1vsw3ci"><b><i><center>Figura 4.2: Ercilia Araya en el Primer Panel sobre las Violaciones de Derechos Humanos de Pueblos Indígenas en Dictadura. Crédito: Observatorio Ciudadano (2018).</b></i></center></p>
 
 El 14 de febrero de 2022, la sentencia de la Corte Suprema falló en favor de la comunidad y determinó que la empresa debía realizar dicha consulta, en línea con lo estipulado en el Convenio 169 de la OIT (Alfredo, 2022). La batalla legal que culminó con un fallo favorable en la Corte Suprema es una victoria histórica del poder de las mujeres indígenas liderando comunidades para influir en decisiones que amenazan los derechos humanos fundamentales, incluidos el derecho a los territorios, la protección de los ecosistemas, el derecho a un aire limpio y libre de contaminación, el derecho a una vida digna y libre de toda forma de violencia, incluida la violencia extractivista. 
 
@@ -1234,7 +1233,7 @@ Las respuestas del público a <i>Efêmera</i> en Brighton ponen de relieve la tr
 
 ![Figura 5.1: Póster de la obra de teatro Efêmera en Río de Janeiro, 2017.](figura_5_1_mujeres.jpg "Figura 5.1: Póster de la obra de teatro Efêmera en Río de Janeiro, 2017.")
 
-<p class="c15" id="h.1smtxgf">Figura 5.1: Póster de la obra de teatro Efêmera en Río de Janeiro, 2017.</p>
+<p class="c15" id="h.1smtxgf"><b><i><center>Figura 5.1: Póster de la obra de teatro Efêmera en Río de Janeiro, 2017.</b></i></center></p>
 
 Otro ejemplo de trabajo artístico para abordar y resistir la violencia de género es un proyecto teatral del que hablamos en nuestro podcast </span>Mujeres resistiendo la violencia (Morris, 2021). Lutamos no escuro \[Seguimos luchando en la oscuridad]<sup class="c16 c10"><a href="#ftnt49" id="ftnt_ref49">\[49]</a></sup><span class="c2"> se basa en la misma investigación y es desarrollado por Migrants in Action (MinA) \[Migrantes en Acción] y dirigido por Carolina Cal Angrisani. Carolina fundó la organización MinA en 2018 como un grupo de teatro comunitario que aboga por el bienestar y la visibilidad de la comunidad brasileña en el Reino Unido y Europa (Drabwell, 2021). El proyecto se basa en el informe «We can’t fight in the dark» \[No podemos luchar en la oscuridad] (McIlwaine &amp; Evans, 2018) y supone una reinterpretación de los resultados de la investigación por medio de ocho talleres creativos de artes aplicadas diseñados para mejorar el bienestar, desarrollar la sanación comunitaria y aumentar la visibilidad de la violencia de género por medio de una instalación artística/video. Los talleres se llevaron a cabo tanto en línea como en persona entre 2021 y 2022 y combinaron talleres de teatro, música, escritura y poesía, junto con reuniones presenciales, para crear la instalación cinematográfica final\[ver la figura 5.2]. 
 
