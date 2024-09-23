@@ -1423,7 +1423,7 @@ Por último, los estudios de caso presentados en este libro muestran la magnitud
 
 Las siguientes recomendaciones de políticas públicas representan algunas acciones concretas derivadas de las experiencias estratégicas de las mujeres que los responsables políticos podrían adoptar para reforzar las leyes y políticas que buscan erradicar las desigualdades de género e interseccionales:
 
- <div style="border-width:3px; border-style:solid; border-color:#0000FF; padding: 1em;">  **Recomendación 1**:
+ <div style="border-width:3px; border-style:solid; border-color:#0000FF; padding: 1em;">  <b>Recomendación 1:</b>
 Las narrativas políticas y jurídicas deben tratar la VCMN como una vulneración de derechos humanos y cumplir con obligaciones jurídicamente vinculantes de garantizar la igualdad y la no discriminación (siguiendo la Convención de Belém do Pará en temas de prevención, sanción y erradicación de todas las formas de violencia contra la mujer y la Meta 5.2 del Objetivo de Desarrollo Sostenible (ODS) 5). </div>
 
 <a id="t.90c3647a04abf2dc285061e74e2d1f19b75d3bf6"></a><a id="t.22"></a>
