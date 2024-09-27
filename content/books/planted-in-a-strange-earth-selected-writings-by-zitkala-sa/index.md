@@ -49,7 +49,22 @@ foreword: >-
 published: false
 ---
 ## EDITOR'S NOTE
+Gertrude Simmons (later Getrude Bonnin, 1876-1938) first published under the name Zitkála-Šá–which translates to “Red Bird” from Lakota– in 1900, when the <i>Atlantic Monthly</i> ran three autobiographical stories across its January, February, and March issues. The magazine announced the forthcoming  “Impressions of an Indian Childhood,” “The School Days of an Indian Girl,” and “An Indian Teacher Among Indians” in advertisements in papers across the country starting in 1899, proclaiming that with their “unique and generous records of the mind” the stories would “throw a great deal of light upon the vexed problem of Indian education.”
 
+Indeed, for the author, the <i>Atlantic</i> triptych marked a definitive break with the educational agendas for which she had been groomed to serve as a model. A talented orator and violinist, Simmons had been heralded as a model product of the Indian boarding school system. Shortly before the stories were published, she taught, recruited, and toured for the Carlisle Indian Industrial School, the notorious institution founded by Richard Henry Pratt and run under his philosophy to “Kill the Indian, Save the Man.” Pratt and his supporters’ reactions to her writing reflected the power of her rejection; outlets like The Red Man and Helper called Simmons everything from “utterly ungrateful” to “morally bad” as she continued to puncture assimilationist myths in print. 
+
+As poet Erin Marie Lynch lays out in the foreword to this collection, Zitkála-Šá never stopped using her words to fight for her culture and people; it was a fight that expanded across issues and beyond her personal experiences and tribal affiliation. <i>Planted in a Strange Earth</i> focuses on her writing on Indian education projects and their impact on Native identity on a personal and political level. Her examinations of the erasure perpetuated by assimilationist schools shed light on a pivotal pattern in American history that has disturbing resonances today. As literature, these are essential feminist texts that dig into the cruel tensions of an era through the eyes of an author who spent a lifetime “actively testing the chains which tightly bound [her] individuality like a mummy for burial.”
+
+Cita’s selections here aim to celebrate Zitkála-Šá’s boldness, to showcase her skill as a writer, and to inspire readers to seek out more of her writing and legacy through the work of contemporary scholars like P. Jane Hafen and writers like Layli Long Soldier. The original triptych–her early “political autobiography”–forms the core of this collection. Also included are selections from her 1921 collection <i>American Indian Stories</i>, which brought her early prose together with some later pieces, as well as the groundbreaking 1901 essay  “Why I am a Pagan.” The poem “An Indian’s Awakening” is from a 1916 issue of <i>American Indian Magazine</i>, the magazine of the Society of American Indians (SAI) for which Zitkála-Šá served as editor and frequent contributor. “Iris of Life,” an early student publication, opens the collection and, together with the original epigraph for American Indian Stories, inspired the title of Cita’s current grant project, Scaling Small:
+
+‘‘And every act, not one too small,
+        That leaps from out the heart’s pure glow,
+ Like ray of gold sends forth a light,
+        While moments into seasons flow.”
+–"Iris of Life," 1898
+
+"There is no great; there is no small; in the mind that causeth all"
+–<i>American Indian Stories</i>, 1921
 
 
 ## FOREWORD
