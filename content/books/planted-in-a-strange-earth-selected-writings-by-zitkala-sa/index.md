@@ -997,112 +997,112 @@ She caught the glad tidings and was thrilled with new hope for her people.
 
 ## THE INDIAN'S AWAKENING
 
-I snatch at my eagle plumes and long hair.
-A hand cut my hair; my robes did deplete.
-Left heart all unchanged; the work incomplete.
-These favors unsought, I’ve paid since with care.
-Dear teacher, you wished so much good to me,
-That though I was blind, I strove hard to see.
-Had you then, no courage frankly to tell
+I snatch at my eagle plumes and long hair.<br>
+A hand cut my hair; my robes did deplete.<br>
+Left heart all unchanged; the work incomplete.<br>
+These favors unsought, I’ve paid since with care.<br>
+Dear teacher, you wished so much good to me,<br>
+That though I was blind, I strove hard to see.<br>
+Had you then, no courage frankly to tell<br>
 Old-race problems, Christ e’en failed to expel?
 
-My light has grown dim, and black the abyss
-That yawns at my feet. No bordering shore;
-No bottom e’er found my hopes sunk before.
-Despair I of good from deeds gone amiss.
-My people, may God have pity on you!
-The learning I hoped in you to imbue
-Turns bitterly vain to meet both our needs.
-No Sun for the flowers, vain planting seeds.
+My light has grown dim, and black the abyss<br>
+That yawns at my feet. No bordering shore;<br>
+No bottom e’er found my hopes sunk before.<br>
+Despair I of good from deeds gone amiss.<br>
+My people, may God have pity on you!<br>
+The learning I hoped in you to imbue<br>
+Turns bitterly vain to meet both our needs.<br>
+No Sun for the flowers, vain planting seeds.<br>
 
-I’ve lost my long hair; my eagle plumes too.
-From you my own people, I’ve gone astray.
-A wanderer now, with no where to stay.
-The Will-o-the-wisp learning, it brought me rue.
-It brings no admittance. Where I have knocked
-Some evil imps, hearts, have bolted and locked.
-Alone with the night and fearful Abyss
+I’ve lost my long hair; my eagle plumes too.<br>
+From you my own people, I’ve gone astray.<br>
+A wanderer now, with no where to stay.<br>
+The Will-o-the-wisp learning, it brought me rue.<br>
+It brings no admittance. Where I have knocked<br>
+Some evil imps, hearts, have bolted and locked.<br>
+Alone with the night and fearful Abyss<br>
 I stand isolated, life gone amiss.
 
-Intensified hush chills all my proud soul.
-Oh, what am I? Whither bound thus and why?
-Is there not a God on whom to rely?
-A part of His Plan, the atoms enroll?
-In answer, there comes a sweet Voice and clear,
-My loneliness soothes with sounding so near.
-A drink to my thirst, each vibrating note.
+Intensified hush chills all my proud soul.<br>
+Oh, what am I? Whither bound thus and why?<br>
+Is there not a God on whom to rely?<br>
+A part of His Plan, the atoms enroll?<br>
+In answer, there comes a sweet Voice and clear,<br>
+My loneliness soothes with sounding so near.<br>
+A drink to my thirst, each vibrating note.<br>
 My vexing old burdens fall far remote.
 
-“Then close your sad eyes. Your spirit regain.
-Behold what fantastic symbols abound,
-What wondrous host of cosmos around.
-From silvery sand, the tiniest grain
-To man and the planet, God’s at the heart.
-In shifting mosaic, souls doth impart.
-His spirits who pass through multiformed earth
+“Then close your sad eyes. Your spirit regain.<br>
+Behold what fantastic symbols abound,<br>
+What wondrous host of cosmos around.<br>
+From silvery sand, the tiniest grain<br>
+To man and the planet, God’s at the heart.<br>
+In shifting mosaic, souls doth impart.<br>
+His spirits who pass through multiformed earth<br>
 Some lesson of life must learn in each birth.”
 
-Divinely the Voice sang. I felt refreshed.
-And vanished the night, abyss and despair.
-Harmonious kinship made all things fair.
-I yearned with my soul to venture unleashed.
-Sweet freedom. There stood in waiting, a steed
-All prancing, well bridled, saddled for speed.
-A foot in the stirrup! Off with a bound!
+Divinely the Voice sang. I felt refreshed.<br>
+And vanished the night, abyss and despair.<br>
+Harmonious kinship made all things fair.<br>
+I yearned with my soul to venture unleashed.<br>
+Sweet freedom. There stood in waiting, a steed<br>
+All prancing, well bridled, saddled for speed.<br>
+A foot in the stirrup! Off with a bound!<br>
 As light as a feather, making no sound.
 
-Through ether, long leagues we galloped away.
-An angry red river, we shyed in dismay,
-For here were men sacrificed (cruel deed)
-To reptiles and monsters, war, graft, and greed.
-A jungle of discord drops in the rear.
-By silence is quelled suspicious old fear,
-And spite-gnats’ low buzz is muffled at last.
+Through ether, long leagues we galloped away.<br>
+An angry red river, we shyed in dismay,<br>
+For here were men sacrificed (cruel deed)<br>
+To reptiles and monsters, war, graft, and greed.<br>
+A jungle of discord drops in the rear.<br>
+By silence is quelled suspicious old fear,<br>
+And spite-gnats’ low buzz is muffled at last.<br>
 Exploring the spirit, I must ride fast.
 
-Away from these worldly ones, let us go,
-Along a worn trail, much travelled and—Lo!
-Familiar the scenes that come rushing by.
-Now billowy sea and now azure sky.
-Amid that enchanted spade, as they spun
-Sun, moon, and the stars, their own orbits run!
-Great Spirit, in realms so infinite reigns;
+Away from these worldly ones, let us go,<br>
+Along a worn trail, much travelled and—Lo!<br>
+Familiar the scenes that come rushing by.<br>
+Now billowy sea and now azure sky.<br>
+Amid that enchanted spade, as they spun<br>
+Sun, moon, and the stars, their own orbits run!<br>
+Great Spirit, in realms so infinite reigns;<br>
 And wonderful wide are all His domains.
 
-Hark! Here in the Spirit-world, He doth hold
-A village of Indians, camped as of old.
-Earth-legends by their fires, some did review,
-While flowers and trees more radiant grew.
-“Oh, You were all dead! In Lethe you were tossed!”
-I cried, “Every where ’twas told you were lost!
-Forsooth, they did scan your footprints on sand.
+Hark! Here in the Spirit-world, He doth hold<br>
+A village of Indians, camped as of old.<br>
+Earth-legends by their fires, some did review,<br>
+While flowers and trees more radiant grew.<br>
+“Oh, You were all dead! In Lethe you were tossed!”<br>
+I cried, “Every where ’twas told you were lost!<br>
+Forsooth, they did scan your footprints on sand.<br>
 Bereaved, I did mourn your fearful sad end.”
 
-Then spoke One of the Spirit Space, so sedate.
-“My child, We are souls, forever and aye.
-The signs in our orbits point us the way.
-Like planets, we do not tarry nor wait.
-Those memories dim, from Dust to the Man,
-Called Instincts, are trophies won while we ran.
-Now various stars where loved ones remain
+Then spoke One of the Spirit Space, so sedate.<br>
+“My child, We are souls, forever and aye.<br>
+The signs in our orbits point us the way.<br>
+Like planets, we do not tarry nor wait.<br>
+Those memories dim, from Dust to the Man,<br>
+Called Instincts, are trophies won while we ran.<br>
+Now various stars where loved ones remain<br>
 Are linked to our hearts with Memory-chain.”
 
-“In journeying here, the Aeons we’ve spent
-Are countless and strange. How well I recall
-Old Earth trails: the River Red; above all
-The Desert sands burning us with intent.
-All these we have passed to learn some new thing.
-Oh hear me! Your dead doth lustily sing!
-‘Rejoice! Gift of Life pray waste not in wails!
-The maker of Souls forever prevails!’”
+“In journeying here, the Aeons we’ve spent<br>
+Are countless and strange. How well I recall<br>
+Old Earth trails: the River Red; above all<br>
+The Desert sands burning us with intent.<br>
+All these we have passed to learn some new thing.<br>
+Oh hear me! Your dead doth lustily sing!<br>
+‘Rejoice! Gift of Life pray waste not in wails!<br>
+&nbsp;&nbsp&nbspThe maker of Souls forever prevails!’”
 
-Direct from the Spirit-world came my steed.
-The phantom has place in what was all planned.
-He carried me back to God and the land
-Where all harmony, peace and love are the creed.
-In triumph, I cite my Joyous return.
-The smallest wee creature I dare not spurn.
-I sing “Gift of Life, pray waste not in wails!
+Direct from the Spirit-world came my steed.<br>
+The phantom has place in what was all planned.<br>
+He carried me back to God and the land<br>
+Where all harmony, peace and love are the creed.<br>
+In triumph, I cite my Joyous return.<br>
+The smallest wee creature I dare not spurn.<br>
+I sing “Gift of Life, pray waste not in wails!<br>
 The Maker of Souls forever prevails!”
 
 <small>First published in <i>American Indian Magazine</i> 4 (January-March 1916).</small>
