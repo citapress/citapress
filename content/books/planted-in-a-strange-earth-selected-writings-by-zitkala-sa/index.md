@@ -58,13 +58,13 @@ As poet Erin Marie Lynch lays out in the foreword to this collection, Zitkála-�
 
 Cita’s selections here aim to celebrate Zitkála-Šá’s boldness, to showcase her skill as a writer, and to inspire readers to seek out more of her writing and legacy through the work of contemporary scholars like P. Jane Hafen and writers like Layli Long Soldier. The original triptych–her early “political autobiography”–forms the core of this collection. Also included are selections from her 1921 collection <i>American Indian Stories</i>, which brought her early prose together with some later pieces, as well as the groundbreaking 1901 essay  “Why I am a Pagan.” The poem “An Indian’s Awakening” is from a 1916 issue of <i>American Indian Magazine</i>, the magazine of the Society of American Indians (SAI) for which Zitkála-Šá served as editor and frequent contributor. “Iris of Life,” an early student publication, opens the collection and, together with the original epigraph for American Indian Stories, inspired the title of Cita’s current grant project, Scaling Small:
 
-> ‘‘And every act, not one too small,
->         That leaps from out the heart’s pure glow,
->  Like ray of gold sends forth a light,
->         While moments into seasons flow.”
+> ‘‘And every act, not one too small,<br>
+>         That leaps from out the heart’s pure glow,<br>
+>  Like ray of gold sends forth a light,<br>
+>         While moments into seasons flow.”<br>
 > –"Iris of Life," 1898
 >
-> "There is no great; there is no small; in the mind that causeth all"
+> "There is no great; there is no small; in the mind that causeth all"<br>
 > –<i>American Indian Stories</i>, 1921
 
 [^1] "[The Atlantic Monthly 1900](https://www.are.na/block/26399606)," <I>The New York Times</I>, December 9, 1899.
