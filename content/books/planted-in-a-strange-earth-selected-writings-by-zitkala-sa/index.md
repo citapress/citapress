@@ -50,7 +50,7 @@ published: false
 ---
 ## EDITOR'S NOTE
 
-Gertrude Simmons (later Getrude Bonnin, 1876-1938) first published under the name Zitkála-Šá–which translates to “Red Bird” from Lakota– in 1900, when the <i>Atlantic Monthly</i> ran three autobiographical stories across its January, February, and March issues. The magazine announced the forthcoming  “Impressions of an Indian Childhood,” “The School Days of an Indian Girl,” and “An Indian Teacher Among Indians” in advertisements in papers across the country starting in 1899, proclaiming that with their “unique and generous records of the mind” the stories would “throw a great deal of light upon the vexed problem of Indian education.”
+Gertrude Simmons (later Getrude Bonnin, 1876-1938) first published under the name Zitkála-Šá–which translates to “Red Bird” from Lakota– in 1900, when the <i>Atlantic Monthly</i> ran three autobiographical stories across its January, February, and March issues. The magazine announced the forthcoming  “Impressions of an Indian Childhood,” “The School Days of an Indian Girl,” and “An Indian Teacher Among Indians” in advertisements in papers across the country starting in 1899, proclaiming that with their “unique and generous records of the mind” the stories would “throw a great deal of light upon the vexed problem of Indian education.”[^1]
 
 Indeed, for the author, the <i>Atlantic</i> triptych marked a definitive break with the educational agendas for which she had been groomed to serve as a model. A talented orator and violinist, Simmons had been heralded as a model product of the Indian boarding school system. Shortly before the stories were published, she taught, recruited, and toured for the Carlisle Indian Industrial School, the notorious institution founded by Richard Henry Pratt and run under his philosophy to “Kill the Indian, Save the Man.” Pratt and his supporters’ reactions to her writing reflected the power of her rejection; outlets like The Red Man and Helper called Simmons everything from “utterly ungrateful” to “morally bad” as she continued to puncture assimilationist myths in print. 
 
@@ -66,6 +66,8 @@ Cita’s selections here aim to celebrate Zitkála-Šá’s boldness, to showcas
 >
 > "There is no great; there is no small; in the mind that causeth all"
 > –<i>American Indian Stories</i>, 1921
+
+[^1] "The Atlantic Monthly 1900," <I>The New York Times</I>, December 9, 1899.
 
 ## FOREWORD
 
