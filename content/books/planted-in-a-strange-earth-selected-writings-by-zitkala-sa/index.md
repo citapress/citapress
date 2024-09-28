@@ -995,39 +995,25 @@ She caught the glad tidings and was thrilled with new hope for her people.
 
 <small>From *American Indian Stories* (1921).</small>
 
-The Indian’s Awakening
+## THE INDIAN'S AWAKENING
 
 I snatch at my eagle plumes and long hair.
-
- A hand cut my hair; my robes did deplete.
-
- Left heart all unchanged; the work incomplete.
-
- These favors unsought, I’ve paid since with care.
-
- Dear teacher, you wished so much good to me,
-
- That though I was blind, I strove hard to see.
-
- Had you then, no courage frankly to tell
-
- Old-race problems, Christ e’en failed to expel?
+A hand cut my hair; my robes did deplete.
+Left heart all unchanged; the work incomplete.
+These favors unsought, I’ve paid since with care.
+Dear teacher, you wished so much good to me,
+That though I was blind, I strove hard to see.
+Had you then, no courage frankly to tell
+Old-race problems, Christ e’en failed to expel?
 
 My light has grown dim, and black the abyss
-
- That yawns at my feet. No bordering shore;
-
- No bottom e’er found my hopes sunk before.
-
- Despair I of good from deeds gone amiss.
-
- My people, may God have pity on you!
-
- The learning I hoped in you to imbue
-
- Turns bitterly vain to meet both our needs.
-
- No Sun for the flowers, vain planting seeds.
+That yawns at my feet. No bordering shore;
+No bottom e’er found my hopes sunk before.
+Despair I of good from deeds gone amiss.
+My people, may God have pity on you!
+The learning I hoped in you to imbue
+Turns bitterly vain to meet both our needs.
+No Sun for the flowers, vain planting seeds.
 
 I’ve lost my long hair; my eagle plumes too.
 
@@ -1217,30 +1203,30 @@ Deloria, Ella Cara. *Waterlily.* Lincoln, NE: University of Nebraska Press, 1988
 
 Gunn Allen, Paula. *Voice of the Turtle: American Indian Literature, 1900-1970.* New York: Ballantine Books, 1994.
 
-Gunn Allen, Paula. The Sacred Hoop: Recovering the Feminine in American Indian Traditions. Boston: Beacon Press, 1992. https://archive.org/details/sacredhoop00paul/mode/2up 
+Gunn Allen, Paula. *The Sacred Hoop: Recovering the Feminine in American Indian Traditions*. Boston: Beacon Press, 1992. https://archive.org/details/sacredhoop00paul/mode/2up 
 
 Hafen, P. Jane. “Zitkála-Šá, The Red Bird Activist.” Utah Women’s History: A Better Days Project. Accessed August 2024.  https://utahwomenshistory.org/the-women/zitkala-sa/ 
 
-Lewandowski, Tadeusz. Red Bird, Red Power: The Life and Legacy of Zitkala-Ša. Norman, OK: University of Oklahoma Press, 2016.
+Lewandowski, Tadeusz. *Red Bird, Red Power: The Life and Legacy of Zitkala-Ša*. Norman, OK: University of Oklahoma Press, 2016.
 
-Long Soldier, Layli. Introduction to American Indian Stories by Zitkála-Šá. New York: Modern Library, 2019. 
+Long Soldier, Layli. Introduction to *American Indian Stories* by Zitkála-Šá. New York: Modern Library, 2019. 
 
-Long Soldier, Layli. Whereas. Minneapolis: Graywolf Press, 2017..
+Long Soldier, Layli. *Whereas*. Minneapolis: Graywolf Press, 2017..
 
-Lynch, Erin Marie. Removal Acts. Minneapolis: Graywolf Press, 2023.
+Lynch, Erin Marie. *Removal Acts*. Minneapolis: Graywolf Press, 2023.
 
-Miles, Tiya. Wild Girls: How the Outdoors Shaped the Women Who Challenged a Nation. New York: W.W. Norton & Company, 2023. 
+Miles, Tiya. *Wild Girls: How the Outdoors Shaped the Women Who Challenged a Nation*. New York: W.W. Norton & Company, 2023. 
 
 MSS 1704; National Council of American Indians records; 20th Century Western & Mormon Manuscripts; L. Tom Perry Special Collections, Harold B. Lee Library, Brigham Young University.
 
-Power, Mona Susan. A Council of Dolls. Boston: Mariner Books, 2023.
+Power, Mona Susan. *A Council of Dolls*. Boston: Mariner Books, 2023.
 
 Welch, Deborah Sue. "Gertrude Simmons Bonnin (Zitkala-Sa)." In The New Warriors: Native American Leaders since 1900, edited by R. David Edmunds, 35-54. Lincoln: University of Nebraska Press, 2001.
 
-Zitkala-Sa. American Indian Stories. Washington: Hayworth Publishing House, 1921. Project Gutenberg, December 1, 2003 (Updated December 19, 2020). https://www.gutenberg.org/ebooks/10376
+Zitkala-Sa. *American Indian Stories*. Washington: Hayworth Publishing House, 1921. Project Gutenberg, December 1, 2003 (Updated December 19, 2020). https://www.gutenberg.org/ebooks/10376
 
-Zitkala-Ša. Dreams and Thunder: Stories, Poems, and The Sun Dance Opera. Edited by P. Jane Hafen. Lincoln and London: University of Nebraska Press, 2001.
+Zitkala-Ša. *Dreams and Thunder: Stories, Poems, and The Sun Dance Opera*. Edited by P. Jane Hafen. Lincoln and London: University of Nebraska Press, 2001.
 
-Zitkala-Ša. Help Indians Help Themselves: The Later Writings of Gertrude Simmons Bonnin (Zitkala-Ša). Edited by P. Jane Hafen. Texas Tech University Press, 2022.
+Zitkala-Ša. *Help Indians Help Themselves: The Later Writings of Gertrude Simmons Bonnin (Zitkala-Ša)*. Edited by P. Jane Hafen. Texas Tech University Press, 2022.
 
 “Zitkála-Šá: Trailblazing American Indian Composer and Writer.” American Masters, PBS, 2020. https://www.pbs.org/wnet/americanmasters/zitkala-sa-american-indian-composer-author-activist-qqjsyq/15380/
