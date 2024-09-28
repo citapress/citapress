@@ -52,7 +52,7 @@ published: false
 
 Gertrude Simmons (later Getrude Bonnin, 1876-1938) first published under the name Zitkála-Šá–which translates to “Red Bird” from Lakota– in 1900, when the <i>Atlantic Monthly</i> ran three autobiographical stories across its January, February, and March issues. The magazine announced the forthcoming  “Impressions of an Indian Childhood,” “The School Days of an Indian Girl,” and “An Indian Teacher Among Indians” in advertisements in papers across the country starting in 1899, proclaiming that with their “unique and generous records of the mind” the stories would “throw a great deal of light upon the vexed problem of Indian education.”[^1]
 
-Indeed, for the author, the <i>Atlantic</i> triptych marked a definitive break with the educational agendas for which she had been groomed to serve as a model. A talented orator and violinist, Simmons had been heralded as a model product of the Indian boarding school system. Shortly before the stories were published, she taught, recruited, and toured for the Carlisle Indian Industrial School, the notorious institution founded by Richard Henry Pratt and run under his philosophy to “Kill the Indian, Save the Man.” Pratt and his supporters’ reactions to her writing reflected the power of her rejection; outlets like The Red Man and Helper called Simmons everything from “utterly ungrateful” to “morally bad” as she continued to puncture assimilationist myths in print. 
+Indeed, for the author, the <i>Atlantic</i> triptych marked a definitive break with the educational agendas for which she had been groomed to serve as a model. A talented orator and violinist, Simmons had been heralded as a model product of the Indian boarding school system. Shortly before the stories were published, she taught, recruited, and toured for the Carlisle Indian Industrial School, the notorious institution founded by Richard Henry Pratt and run under his philosophy to “Kill the Indian, Save the Man.” Pratt and his supporters’ reactions to her writing reflected the power of her rejection; outlets affiliated with them called Simmons everything from “utterly ungrateful” to “morally bad” as she continued to puncture assimilationist myths in print.[^2]
 
 As poet Erin Marie Lynch lays out in the foreword to this collection, Zitkála-Šá never stopped using her words to fight for her culture and people; it was a fight that expanded across issues and beyond her personal experiences and tribal affiliation. <i>Planted in a Strange Earth</i> focuses on her writing on Indian education projects and their impact on Native identity on a personal and political level. Her examinations of the erasure perpetuated by assimilationist schools shed light on a pivotal pattern in American history that has disturbing resonances today. As literature, these are essential feminist texts that dig into the cruel tensions of an era through the eyes of an author who spent a lifetime “actively testing the chains which tightly bound \[her] individuality like a mummy for burial.”
 
@@ -68,6 +68,8 @@ Cita’s selections here aim to celebrate Zitkála-Šá’s boldness, to showcas
 > –<i>American Indian Stories</i>, 1921
 
 [^1] "[The Atlantic Monthly 1900](https://www.are.na/block/26399606)," <I>The New York Times</I>, December 9, 1899.
+
+[^2] "[The Soft-Hearted Sioux," review](https://www.are.na/block/29179144), <I>The World Carrier</I>, February-March 1901, 1.
 
 ## FOREWORD
 
