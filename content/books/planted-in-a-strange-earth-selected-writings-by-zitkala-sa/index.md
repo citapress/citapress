@@ -1094,7 +1094,7 @@ The Desert sands burning us with intent.<br>
 All these we have passed to learn some new thing.<br>
 Oh hear me! Your dead doth lustily sing!<br>
 ‘Rejoice! Gift of Life pray waste not in wails!<br>
-&nbsp;&nbsp&nbspThe maker of Souls forever prevails!’”
+&nbsp;&nbsp&nbsp&nbsp;&nbsp&nbspThe maker of Souls forever prevails!’”
 
 Direct from the Spirit-world came my steed.<br>
 The phantom has place in what was all planned.<br>
