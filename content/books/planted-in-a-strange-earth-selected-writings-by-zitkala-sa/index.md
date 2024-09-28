@@ -1121,7 +1121,7 @@ Deloria, Ella Cara. *Waterlily.* Lincoln, NE: University of Nebraska Press, 1988
 
 Gunn Allen, Paula. *Voice of the Turtle: American Indian Literature, 1900-1970.* New York: Ballantine Books, 1994.
 
-Gunn Allen, Paula. *The Sacred Hoop: Recovering the Feminine in American Indian Traditions*. Boston: Beacon Press, 1992. https://archive.org/details/sacredhoop00paul/mode/2up 
+Gunn Allen, Paula. *The Sacred Hoop: Recovering the Feminine in American Indian Traditions*. Boston: Beacon Press, 1992. 
 
 Hafen, P. Jane. “Zitkála-Šá, The Red Bird Activist.” Utah Women’s History: A Better Days Project. Accessed August 2024.  https://utahwomenshistory.org/the-women/zitkala-sa/ 
 
