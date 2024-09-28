@@ -49,23 +49,23 @@ foreword: >-
 published: false
 ---
 ## EDITOR'S NOTE
+
 Gertrude Simmons (later Getrude Bonnin, 1876-1938) first published under the name Zitkála-Šá–which translates to “Red Bird” from Lakota– in 1900, when the <i>Atlantic Monthly</i> ran three autobiographical stories across its January, February, and March issues. The magazine announced the forthcoming  “Impressions of an Indian Childhood,” “The School Days of an Indian Girl,” and “An Indian Teacher Among Indians” in advertisements in papers across the country starting in 1899, proclaiming that with their “unique and generous records of the mind” the stories would “throw a great deal of light upon the vexed problem of Indian education.”
 
 Indeed, for the author, the <i>Atlantic</i> triptych marked a definitive break with the educational agendas for which she had been groomed to serve as a model. A talented orator and violinist, Simmons had been heralded as a model product of the Indian boarding school system. Shortly before the stories were published, she taught, recruited, and toured for the Carlisle Indian Industrial School, the notorious institution founded by Richard Henry Pratt and run under his philosophy to “Kill the Indian, Save the Man.” Pratt and his supporters’ reactions to her writing reflected the power of her rejection; outlets like The Red Man and Helper called Simmons everything from “utterly ungrateful” to “morally bad” as she continued to puncture assimilationist myths in print. 
 
-As poet Erin Marie Lynch lays out in the foreword to this collection, Zitkála-Šá never stopped using her words to fight for her culture and people; it was a fight that expanded across issues and beyond her personal experiences and tribal affiliation. <i>Planted in a Strange Earth</i> focuses on her writing on Indian education projects and their impact on Native identity on a personal and political level. Her examinations of the erasure perpetuated by assimilationist schools shed light on a pivotal pattern in American history that has disturbing resonances today. As literature, these are essential feminist texts that dig into the cruel tensions of an era through the eyes of an author who spent a lifetime “actively testing the chains which tightly bound [her] individuality like a mummy for burial.”
+As poet Erin Marie Lynch lays out in the foreword to this collection, Zitkála-Šá never stopped using her words to fight for her culture and people; it was a fight that expanded across issues and beyond her personal experiences and tribal affiliation. <i>Planted in a Strange Earth</i> focuses on her writing on Indian education projects and their impact on Native identity on a personal and political level. Her examinations of the erasure perpetuated by assimilationist schools shed light on a pivotal pattern in American history that has disturbing resonances today. As literature, these are essential feminist texts that dig into the cruel tensions of an era through the eyes of an author who spent a lifetime “actively testing the chains which tightly bound \[her] individuality like a mummy for burial.”
 
 Cita’s selections here aim to celebrate Zitkála-Šá’s boldness, to showcase her skill as a writer, and to inspire readers to seek out more of her writing and legacy through the work of contemporary scholars like P. Jane Hafen and writers like Layli Long Soldier. The original triptych–her early “political autobiography”–forms the core of this collection. Also included are selections from her 1921 collection <i>American Indian Stories</i>, which brought her early prose together with some later pieces, as well as the groundbreaking 1901 essay  “Why I am a Pagan.” The poem “An Indian’s Awakening” is from a 1916 issue of <i>American Indian Magazine</i>, the magazine of the Society of American Indians (SAI) for which Zitkála-Šá served as editor and frequent contributor. “Iris of Life,” an early student publication, opens the collection and, together with the original epigraph for American Indian Stories, inspired the title of Cita’s current grant project, Scaling Small:
 
-‘‘And every act, not one too small,
-        That leaps from out the heart’s pure glow,
- Like ray of gold sends forth a light,
-        While moments into seasons flow.”
-–"Iris of Life," 1898
-
-"There is no great; there is no small; in the mind that causeth all"
-–<i>American Indian Stories</i>, 1921
-
+> ‘‘And every act, not one too small,
+>         That leaps from out the heart’s pure glow,
+>  Like ray of gold sends forth a light,
+>         While moments into seasons flow.”
+> –"Iris of Life," 1898
+>
+> "There is no great; there is no small; in the mind that causeth all"
+> –<i>American Indian Stories</i>, 1921
 
 ## FOREWORD
 
@@ -199,7 +199,7 @@ Ever after that night I felt suspicious of tattooed people. Wherever I saw one I
 
 It was rarely that such a fearful story as this one was told by the camp fire. Its impression was so acute that the picture still remains vividly clear and pronounced.
 
-### III. THE BEADWORK.
+### III. The Beadwork.
 
 Soon after breakfast mother sometimes began her beadwork. On a bright, clear day, she pulled out the wooden pegs that pinned the skirt of our wigwam to the ground, and rolled the canvas part way up on its frame of slender poles. Then the cool morning breezes swept freely through our dwelling, now and then wafting the perfume of sweet grasses from newly burnt prairie.
 
@@ -235,7 +235,7 @@ Before this peculiar experience I have no distinct memory of having recognized a
 
 Returning our borrowed belts and trinkets, we rambled homeward. That evening, as on other evenings, I went to sleep over my legends.
 
-### IV. THE COFFEE-MAKING.
+### IV. The Coffee-Making.
 
 One summer afternoon my mother left me alone in our wigwam while she went across the way to my aunt's dwelling.
 
@@ -267,7 +267,7 @@ Lifting the lid, I found nothing but coffee grounds in the bottom. I set the pot
 
 They both laughed, and mother said, "Wait a little longer, and I shall build a fire." She meant to make some real coffee. But neither she nor the warrior, whom the law of our custom had compelled to partake of my insipid hospitality, said anything to embarrass me. They treated my best judgment, poor as it was, with the utmost respect. It was not till long years afterward that I learned how ridiculous a thing I had done.
 
-### V. THE DEAD MAN'S PLUM BUSH.
+### V. The Dead Man's Plum Bush.
 
 One autumn afternoon many people came streaming toward the dwelling of our near neighbor. With painted faces, and wearing broad white bosoms of elk's teeth, they hurried down the narrow footpath to Haraka Wambdi's wigwam. Young mothers held their children by the hand, and half pulled them along in their haste. They overtook and passed by the bent old grandmothers who were trudging along with crooked canes toward the centre of excitement. Most of the young braves galloped hither on their ponies. Toothless warriors, like the old women, came more slowly, though mounted on lively ponies. They sat proudly erect on their horses. They wore their eagle plumes, and waved their various trophies of former wars.
 
@@ -295,7 +295,7 @@ Eyeing the forbidden fruit, I trod lightly on the sacred ground, and dared to sp
 
 The lasting impression of that day, as I recall it now, is what my mother told me about the dead man's plum bush.
 
-### VI. THE GROUND SQUIRREL.
+### VI. The Ground Squirrel.
 
 In the busy autumn days my cousin Warca-Ziwin's mother came to our wigwam to help my mother preserve foods for our winter use. I was very fond of my aunt, because she was not so quiet as my mother. Though she was older, she was more jovial and less reserved. She was slender and remarkably erect. While my mother's hair was heavy and black, my aunt had unusually thin locks.
 
@@ -321,7 +321,7 @@ Some missionaries gave me a little bag of marbles. They were all sizes and color
 
 From that day on, for many a moon, I believed that glass marbles had river ice inside of them.
 
-### VII. THE BIG RED APPLES.
+### VII. The Big Red Apples.
 
 The first turning away from the easy, natural flow of my life occurred in an early spring. It was in my eighth year; in the month of March, I afterward learned. At this age I knew but one language, and that was my mother's native tongue.
 
@@ -1187,4 +1187,54 @@ Direct from the Spirit-world came my steed.
 
 ## ACKNOWLEDGEMENTS
 
-## BIBLIOGRAPHY
+This book is made possible by our fiscal sponsor, Educopia Institute, and the generous support of the Mellon Foundation.
+
+We are immensely grateful to our contributors, Erin Marie Lynch and Mer Young, for helping us bring Zitkála-Šá’s writing to Cita’s readers. 
+
+We would also like to acknowledge the scholars and writers of the past and present whose work was instrumental in our research, especially: P. Jane Hafen, Tadeusz Lewandowski, Mona Susan Power, Paula Gunn Allen, Layli Long Soldier, Ella Cara Deloria, and Vine Deloria Jr.
+
+Thank you to the librarians and staff at the L. Tom Perry Special Collections at Brigham Young University’s Harold B. Lee library, especially John Murphy and Cindy Brightenburg.
+
+We are grateful to the National Women’s History Museum for their partnership in promoting this book in concert with the Zitkála-Šá Quarter from the American Women Quarters Program. 
+
+Thank you to Fabian Rios for web development, to bex ya yolk for art direction for the cover, and 
+
+The guidance and support of the Cita Press Advisory Board–Janneke Adema, Gita Manaktala, and Jessica Meyerson–is invaluable to our operations and mission. We are also grateful for the contributions of past Board members Vicky Checo, Katherine Maher, and Mindy Seu.
+
+Thank you to Digital Public Library of America (DPLA) and Digital Divide Data (DDD) for their support in creating new digital formats for the Cita Press library. DDD provided EPUB conversion, OCR, and accessibility remediation. Visit DPLA’s Palace Bookshelf to find this volume and other Open Bookshelf books.
+
+
+
+## BIBLIOGRAPHY & FURTHER READING
+
+Deloria, Ella Cara. Waterlily. Lincoln, NE: University of Nebraska Press, 1988.
+
+Gunn Allen, Paula. Voice of the Turtle: American Indian Literature, 1900-1970. New York: Ballantine Books, 1994.
+
+Gunn Allen, Paula. The Sacred Hoop: Recovering the Feminine in American Indian Traditions. Boston: Beacon Press, 1992. https://archive.org/details/sacredhoop00paul/mode/2up 
+
+Hafen, P. Jane. “Zitkála-Šá, The Red Bird Activist.” Utah Women’s History: A Better Days Project. Accessed August 2024.  https://utahwomenshistory.org/the-women/zitkala-sa/ 
+
+Lewandowski, Tadeusz. Red Bird, Red Power: The Life and Legacy of Zitkala-Ša. Norman, OK: University of Oklahoma Press, 2016.
+
+Long Soldier, Layli. Introduction to American Indian Stories by Zitkála-Šá. New York: Modern Library, 2019. 
+
+Long Soldier, Layli. Whereas. Minneapolis: Graywolf Press, 2017..
+
+Lynch, Erin Marie. Removal Acts. Minneapolis: Graywolf Press, 2023.
+
+Miles, Tiya. Wild Girls: How the Outdoors Shaped the Women Who Challenged a Nation. New York: W.W. Norton & Company, 2023. 
+
+MSS 1704; National Council of American Indians records; 20th Century Western & Mormon Manuscripts; L. Tom Perry Special Collections, Harold B. Lee Library, Brigham Young University.
+
+Power, Mona Susan. A Council of Dolls. Boston: Mariner Books, 2023.
+
+Welch, Deborah Sue. "Gertrude Simmons Bonnin (Zitkala-Sa)." In The New Warriors: Native American Leaders since 1900, edited by R. David Edmunds, 35-54. Lincoln: University of Nebraska Press, 2001.
+
+Zitkala-Sa. American Indian Stories. Washington: Hayworth Publishing House, 1921. Project Gutenberg, December 1, 2003 (Updated December 19, 2020). https://www.gutenberg.org/ebooks/10376
+
+Zitkala-Ša. Dreams and Thunder: Stories, Poems, and The Sun Dance Opera. Edited by P. Jane Hafen. Lincoln and London: University of Nebraska Press, 2001.
+
+Zitkala-Ša. Help Indians Help Themselves: The Later Writings of Gertrude Simmons Bonnin (Zitkala-Ša). Edited by P. Jane Hafen. Texas Tech University Press, 2022.
+
+“Zitkála-Šá: Trailblazing American Indian Composer and Writer.” American Masters, PBS, 2020. https://www.pbs.org/wnet/americanmasters/zitkala-sa-american-indian-composer-author-activist-qqjsyq/15380/
