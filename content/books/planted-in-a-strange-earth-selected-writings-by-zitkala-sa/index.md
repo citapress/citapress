@@ -807,7 +807,7 @@ Yet I wonder who shall come to welcome me in the realm of strange sight. Will th
 
 Soon, soon I shall know, for now I see the east is growing red. My heart is strong. My face is calm. My eyes are dry and eager for new scenes. My hands hang quietly at my side. Serene and brave, my soul awaits the men to perch me on the gallows for another flight. I go.
 
-From *American Indian Stories* (1921); originally published in *Harper's Magazine* (March 1901).
+<small>From *American Indian Stories* (1921); first published in *Harper's Magazine* (March 1901).</small>
 
 ## WHY I AM A PAGAN
 
@@ -971,6 +971,8 @@ Among the happy people came Blue-Star Woman's two nephews. Each shook the chieft
 
 The old chieftain sighed, but made no comment. Words were vain. He pressed his indelible thumb mark, his signature it was, upon the deed, and drove home with his son.
 
+<small>From *American Indian Stories* (1921).</small>
+
 ## A DREAM OF HER GRANDFATHER
 
 Her grandfather was a Dakota "medicine man." Among the Indians of his day he was widely known for his successful healing work. He was one of the leading men of the tribe and came to Washington, D.C., with one of the first delegations relative to affairs concerning the Indian people and the United States government.
@@ -990,6 +992,8 @@ The gift was a fantastic thing, of texture far more delicate than a spider's fil
 At this point, she, too, heard the full melodious voice. She heard distinctly the Dakota words he proclaimed to the people. "Be glad! Rejoice! Look up, and see the new day dawning! Help is near! Hear me, every one."
 
 She caught the glad tidings and was thrilled with new hope for her people.
+
+<small>From *American Indian Stories* (1921).</small>
 
 The Indian’s Awakening
 
