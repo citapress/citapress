@@ -157,7 +157,7 @@ Setting the pail of water on the ground, my mother stooped, and stretching her l
 
 My mother was silent the rest of the way to our wigwam. Though I saw no tears in her eyes, I knew that was because I was with her. She seldom wept before me.
 
-### II. THE LEGENDS.
+### II. The Legends.
 
 During the summer days my mother built her fire in the shadow of our wigwam.
 
@@ -377,7 +377,7 @@ Having driven thirty miles to the ferryboat, we crossed the Missouri in the even
 
 ## THE SCHOOL DAYS OF AN INDIAN GIRL
 
-### I. THE LAND OF RED APPLES.
+### I. The Land of Red Apples.
 
 There were eight in our party of bronzed children who were going East with the missionaries. Among us were three young braves, two tall girls, and we three little ones, Judéwin, Thowin, and I.
 
@@ -407,7 +407,7 @@ From the table we were taken along an upward incline of wooden boxes, which I le
 
 I had arrived in the wonderful land of rosy skies, but I was not happy, as I had thought I should be. My long travel and the bewildering sights had exhausted me. I fell asleep, heaving deep, tired sobs. My tears were left to dry themselves in streaks, because neither my aunt nor my mother was near to wipe them away.
 
-### II. THE CUTTING OF MY LONG HAIR.
+### II. The Cutting of My Long Hair.
 
 The first day in the land of apples was a bitter-cold one; for the snow still covered the ground, and the trees were bare. A large bell rang for breakfast, its loud metallic voice crashing through the belfry overhead and into our sensitive ears. The annoying clatter of shoes on bare floors gave us no peace. The constant clash of harsh noises, with an undercurrent of many voices murmuring an unknown tongue, made a bedlam within which I was securely tied. And though my spirit tore itself in struggling for its lost freedom, all was useless.
 
@@ -425,7 +425,7 @@ From my hiding place I peered out, shuddering with fear whenever I heard footste
 
 I cried aloud, shaking my head all the while until I felt the cold blades of the scissors against my neck, and heard them gnaw off one of my thick braids. Then I lost my spirit. Since the day I was taken from my mother I had suffered extreme indignities. People had stared at me. I had been tossed about in the air like a wooden puppet. And now my long hair was shingled like a coward's! In my anguish I moaned for my mother, but no one came to comfort me. Not a soul reasoned quietly with me, as my own mother used to do; for now I was only one of many little animals driven by a herder.
 
-### III. THE SNOW EPISODE.
+### III. The Snow Episode.
 
 A short time after our arrival we three Dakotas were playing in the snowdrift. We were all still deaf to the English language, excepting Judéwin, who always heard such puzzling things. One morning we learned through her ears that we were forbidden to fall lengthwise in the snow, as we had been doing, to see our own impressions. However, before many hours we had forgotten the order, and were having great sport in the snow, when a shrill voice called us. Looking up, we saw an imperative hand beckoning us into the house. We shook the snow off ourselves, and started toward the woman as slowly as we dared.
 
@@ -459,7 +459,7 @@ Just here a paleface woman came up to my table. As she looked into the jar, she 
 
 As I sat eating my dinner, and saw that no turnips were served, I whooped in my heart for having once asserted the rebellion within me.
 
-### IV. THE DEVIL.
+### IV. The Devil.
 
 Among the legends the old warriors used to tell me were many stories of evil spirits. But I was taught to fear them no more than those who stalked about in material guise. I never knew there was an insolent chieftain among the bad spirits, who dared to array his forces against the Great Spirit, until I heard this white man's legend from a paleface woman.
 
@@ -473,7 +473,7 @@ Then in rushed the devil! He was tall! He looked exactly like the picture I had 
 
 On the following morning I took my revenge upon the devil. Stealing into the room where a wall of shelves was filled with books, I drew forth The Stories of the Bible. With a broken slate pencil I carried in my apron pocket, I began by scratching out his wicked eyes. A few moments later, when I was ready to leave the room, there was a ragged hole in the page where the picture of the devil had once been.
 
-### V. IRON ROUTINE
+### V. Iron Routine.
 
 A loud-clamoring bell awakened us at half-past six in the cold winter mornings. From happy dreams of Western rolling lands and unlassoed freedom we tumbled out upon chilly bare floors back again into a paleface day. We had short time to jump into our shoes and clothes, and wet our eyes with icy water, before a small hand bell was vigorously rung for roll call.
 
@@ -491,7 +491,7 @@ I grew bitter, and censured the woman for cruel neglect of our physical ills. I 
 
 The melancholy of those black days has left so long a shadow that it darkens the path of years that have since gone by. These sad memories rise above those of smoothly grinding school days. Perhaps my Indian nature is the moaning wind which stirs them now for their present record. But, however tempestuous this is within me, it comes out as the low voice of a curiously colored seashell, which is only for those ears that are bent with compassion to hear it.
 
-### VI. FOUR STRANGE SUMMERS.
+### VI. Four Strange Summers.
 
 After my first three years of school, I roamed again in the Western country through four strange summers.
 
@@ -531,7 +531,7 @@ Before she returned, though I knew she was on her way, for she had ceased her we
 
 Many schemes of running away from my surroundings hovered about in my mind. A few more moons of such a turmoil drove me away to the eastern school. I rode on the white man's iron steed, thinking it would bring me back to my mother in a few winters, when I should be grown tall, and there would be congenial friends awaiting me.
 
-### VII. INCURRING MY MOTHER'S DISPLEASURE.
+### VII. Incurring My Mother's Displeasure.
 
 In the second journey to the East I had not come without some precautions. I had a secret interview with one of our best medicine men, and when I left his wigwam I carried securely in my sleeve a tiny bunch of magic roots. This possession assured me of friends wherever I should go. So absolutely did I believe in its charms that I wore it through all the school routine for more than a year. Then, before I lost my faith in the dead roots, I lost the little buckskin bag containing all my good luck.
 
@@ -571,7 +571,7 @@ Leaving the crowd as quickly as possible, I was soon in my room. The rest of the
 
 ## AN INDIAN TEACHER AMONG INDIANS
 
-### I. MY FIRST DAY.
+### I. My First Day.
 
 Though an illness left me unable to continue my college course, my pride kept me from returning to my mother. Had she known of my worn condition, she would have said the white man's papers were not worth the freedom and health I had lost by them. Such a rebuke from my mother would have been unbearable, and as I felt then it would be far too true to be comfortable.
 
@@ -593,7 +593,7 @@ After he turned to go, I listened to his step until it grew faint and was lost i
 
 For a short moment my spirit laughed at my ill fortune, and I entertained the idea of exerting myself to make an improvement. But as I tossed my hat off a leaden weakness came over me, and I felt as if years of weariness lay like water-soaked logs upon me. I threw myself upon the bed, and, closing my eyes, forgot my good intention.
 
-### II. A TRIP WESTWARD.
+### II. A Trip Westward.
 
 One sultry month I sat at a desk heaped up with work. Now, as I recall it, I wonder how I could have dared to disregard nature's warning with such recklessness. Fortunately, my inheritance of a marvelous endurance enabled me to bend without breaking.
 
@@ -645,7 +645,7 @@ My shattered energy was unable to hold longer any faith, and I cried out despera
 
 [^1]: An absolute Power.
 
-### III. MY MOTHER'S CURSE UPON WHITE SETTLERS.
+### III. My Mother's Curse Upon White Settlers.
 
 One black night mother and I sat alone in the dim starlight, in front of our wigwam. We were facing the river, as we talked about the shrinking limits of the village. She told me about the poverty-stricken white settlers, who lived in caves dug in the long ravines of the high hills across the river.
 
@@ -657,7 +657,7 @@ Still looking toward the distant firelight, my mother continued: "My daughter, b
 
 She sprang to her feet, and, standing firm beside her wigwam, she sent a curse upon those who sat around the hated white man's light. Raising her right arm forcibly into line with her eye, she threw her whole might into her doubled fist as she shot it vehemently at the strangers. Long she held her outstretched fingers toward the settler's lodge, as if an invisible power passed from them to the evil at which she aimed.
 
-### IV. RETROSPECTION.
+### IV. Retrospection.
 
 Leaving my mother, I returned to the school in the East. As months passed over me, I slowly comprehended that the large army of white teachers in Indian schools had a larger missionary creed than I had suspected.
 
@@ -707,7 +707,7 @@ I smiled while my eyes were still fixed upon the bright fire, but I said nothing
 
 Not a word had I to give in answer. I knew well the fame of my warrior father. He had earned the right of speaking such words, though even he himself was a brave only at my age. Refusing to smoke my grandmother's pipe because my heart was too much stirred by their words, and sorely troubled with a fear lest I should disappoint them, I arose to go. Drawing my blanket over my shoulders, I said, as I stepped toward the entranceway: "I go to hobble my pony. It is now late in the night."
 
-II.
+**II.**
 
 Nine winters' snows had buried deep that night when my old grandmother, together with my father and mother, designed my future with the glow of a camp fire upon it.
 
@@ -733,7 +733,7 @@ Looking about, I saw an old woman sitting with bowed head. Shaking hands with he
 
 Useless was my attempt to change the faith in the medicine-man to that abstract power named God. Then one day I became righteously mad with anger that the medicine-man should thus ensnare my father's soul. And when he came to chant his sacred songs I pointed toward the door and bade him go! The man's eyes glared upon me for an instant. Slowly gathering his robe about him, he turned his back upon the sick man and stepped out of our wigwam. "Ha, ha, ha! my son, I can not live without the medicine-man!" I heard my father cry when the sacred man was gone.
 
-III.
+**III.**
 
 On a bright day, when the winged seeds of the prairie-grass were flying hither and thither, I walked solemnly toward the centre of the camping-ground. My heart beat hard and irregularly at my side. Tighter I grasped the sacred book I carried under my arm. Now was the beginning of life's work.
 
@@ -759,7 +759,7 @@ With this he disbanded the people. When the sun lowered in the west and the wind
 
 Only my father's dwelling was left to mark the fighting-ground.
 
-IV.
+**IV.**
 
 From a long night at my father's bedside I came out to look upon the morning. The yellow sun hung equally between the snow-covered land and the cloudless blue sky. The light of the new day was cold. The strong breath of winter crusted the snow and fitted crystal shells over the rivers and lakes. As I stood in front of the tepee, thinking of the vast prairies which separated us from our tribe, and wondering if the high sky likewise separated the soft-hearted Son of God from us, the icy blast from the North blew through my hair and skull. My neglected hair had grown long and fell upon my neck.
 
@@ -795,7 +795,7 @@ Tired and haunted I reached the door of the wigwam. Carrying the food before me,
 
 Out into the open I started, but the snow at my feet became bloody.
 
-V.
+**V.**
 
 On the day after my father's death, having led my mother to the camp of the medicineman, I gave myself up to those who were searching for the murderer of the paleface.
 
@@ -806,6 +806,8 @@ The shrieking winter winds have followed me hither. Rattling the bars, they howl
 Yet I wonder who shall come to welcome me in the realm of strange sight. Will the loving Jesus grant me pardon and give my soul a soothing sleep? or will my warrior father greet me and receive me as his son? Will my spirit fly upward to a happy heaven? or shall I sink into the bottomless pit, an outcast from a God of infinite love?
 
 Soon, soon I shall know, for now I see the east is growing red. My heart is strong. My face is calm. My eyes are dry and eager for new scenes. My hands hang quietly at my side. Serene and brave, my soul awaits the men to perch me on the gallows for another flight. I go.
+
+From *American Indian Stories* (1921); originally published in *Harper's Magazine* (March 1901).
 
 ## WHY I AM A PAGAN
 
@@ -1202,8 +1204,6 @@ Thank you to Fabian Rios for web development, to bex ya yolk for art direction f
 The guidance and support of the Cita Press Advisory Board–Janneke Adema, Gita Manaktala, and Jessica Meyerson–is invaluable to our operations and mission. We are also grateful for the contributions of past Board members Vicky Checo, Katherine Maher, and Mindy Seu.
 
 Thank you to Digital Public Library of America (DPLA) and Digital Divide Data (DDD) for their support in creating new digital formats for the Cita Press library. DDD provided EPUB conversion, OCR, and accessibility remediation. Visit DPLA’s Palace Bookshelf to find this volume and other Open Bookshelf books.
-
-
 
 ## BIBLIOGRAPHY & FURTHER READING
 
