@@ -89,37 +89,25 @@ As a Dakota woman writing today, I seek always to inhabit my own contradictions,
 
 ## IRIS OF LIFE
 
-Like tiny drops of crystal rain,
+Like tiny drops of crystal rain,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In every life the moments fall,<br>
+To wear away with silent beat,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The shell of selfishness o’er all.<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In every life the moments fall,
+And every act, not one too small,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That leaps from out the heart’s pure glow,<br>
+Like ray of gold sends forth a light,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While moments into seasons flow.<br>
 
- To wear away with silent beat,
+Athwart the dome, Eternity,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To Iris grown resplendent, fly<br>
+Bright gleams from every noble deed,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Till colors with each other vie.<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The shell of selfishness o’er all.
-
-And every act, not one too small,
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That leaps from out the heart’s pure glow,
-
- Like ray of gold sends forth a light,
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While moments into seasons flow.
-
-Athwart the dome, Eternity,
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To Iris grown resplendent, fly
-
- Bright gleams from every noble deed,
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Till colors with each other vie.
-
-’Tis glimpses of this grand rainbow,
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Where moments with good deeds unite,
-
- That gladden many weary hearts,
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inspiring them to seek more Light.
+’Tis glimpses of this grand rainbow,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Where moments with good deeds unite,<br>
+That gladden many weary hearts,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inspiring them to seek more Light.<br>
 
 <small>First published in <i>The Earlhamite</i> vol. 5, no. 31 (November 1, 1898)</small>
 
@@ -1094,7 +1082,7 @@ The Desert sands burning us with intent.<br>
 All these we have passed to learn some new thing.<br>
 Oh hear me! Your dead doth lustily sing!<br>
 ‘Rejoice! Gift of Life pray waste not in wails!<br>
-&nbsp;&nbsp&nbsp&nbsp;&nbsp&nbspThe maker of Souls forever prevails!’”
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The maker of Souls forever prevails!’”
 
 Direct from the Spirit-world came my steed.<br>
 The phantom has place in what was all planned.<br>
