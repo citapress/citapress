@@ -1016,164 +1016,94 @@ Turns bitterly vain to meet both our needs.
 No Sun for the flowers, vain planting seeds.
 
 I’ve lost my long hair; my eagle plumes too.
-
- From you my own people, I’ve gone astray.
-
- A wanderer now, with no where to stay.
-
- The Will-o-the-wisp learning, it brought me rue.
-
- It brings no admittance. Where I have knocked
-
- Some evil imps, hearts, have bolted and locked.
-
- Alone with the night and fearful Abyss
-
- I stand isolated, life gone amiss.
+From you my own people, I’ve gone astray.
+A wanderer now, with no where to stay.
+The Will-o-the-wisp learning, it brought me rue.
+It brings no admittance. Where I have knocked
+Some evil imps, hearts, have bolted and locked.
+Alone with the night and fearful Abyss
+I stand isolated, life gone amiss.
 
 Intensified hush chills all my proud soul.
-
- Oh, what am I? Whither bound thus and why?
-
- Is there not a God on whom to rely?
-
- A part of His Plan, the atoms enroll?
-
- In answer, there comes a sweet Voice and clear,
-
- My loneliness soothes with sounding so near.
-
- A drink to my thirst, each vibrating note.
-
- My vexing old burdens fall far remote.
+Oh, what am I? Whither bound thus and why?
+Is there not a God on whom to rely?
+A part of His Plan, the atoms enroll?
+In answer, there comes a sweet Voice and clear,
+My loneliness soothes with sounding so near.
+A drink to my thirst, each vibrating note.
+My vexing old burdens fall far remote.
 
 “Then close your sad eyes. Your spirit regain.
-
- Behold what fantastic symbols abound,
-
- What wondrous host of cosmos around.
-
- From silvery sand, the tiniest grain
-
- To man and the planet, God’s at the heart.
-
- In shifting mosaic, souls doth impart.
-
- His spirits who pass through multiformed earth
-
- Some lesson of life must learn in each birth.”
+Behold what fantastic symbols abound,
+What wondrous host of cosmos around.
+From silvery sand, the tiniest grain
+To man and the planet, God’s at the heart.
+In shifting mosaic, souls doth impart.
+His spirits who pass through multiformed earth
+Some lesson of life must learn in each birth.”
 
 Divinely the Voice sang. I felt refreshed.
-
- And vanished the night, abyss and despair.
-
- Harmonious kinship made all things fair.
-
- I yearned with my soul to venture unleashed.
-
- Sweet freedom. There stood in waiting, a steed
-
- All prancing, well bridled, saddled for speed.
-
- A foot in the stirrup! Off with a bound!
-
- As light as a feather, making no sound.
+And vanished the night, abyss and despair.
+Harmonious kinship made all things fair.
+I yearned with my soul to venture unleashed.
+Sweet freedom. There stood in waiting, a steed
+All prancing, well bridled, saddled for speed.
+A foot in the stirrup! Off with a bound!
+As light as a feather, making no sound.
 
 Through ether, long leagues we galloped away.
-
- An angry red river, we shyed in dismay,
-
- For here were men sacrificed (cruel deed)
-
- To reptiles and monsters, war, graft, and greed.
-
- A jungle of discord drops in the rear.
-
- By silence is quelled suspicious old fear,
-
- And spite-gnats’ low buzz is muffled at last.
-
- Exploring the spirit, I must ride fast.
+An angry red river, we shyed in dismay,
+For here were men sacrificed (cruel deed)
+To reptiles and monsters, war, graft, and greed.
+A jungle of discord drops in the rear.
+By silence is quelled suspicious old fear,
+And spite-gnats’ low buzz is muffled at last.
+Exploring the spirit, I must ride fast.
 
 Away from these worldly ones, let us go,
-
- Along a worn trail, much travelled and—Lo!
-
- Familiar the scenes that come rushing by.
-
- Now billowy sea and now azure sky.
-
- Amid that enchanted spade, as they spun
-
- Sun, moon, and the stars, their own orbits run!
-
- Great Spirit, in realms so infinite reigns;
-
- And wonderful wide are all His domains.
+Along a worn trail, much travelled and—Lo!
+Familiar the scenes that come rushing by.
+Now billowy sea and now azure sky.
+Amid that enchanted spade, as they spun
+Sun, moon, and the stars, their own orbits run!
+Great Spirit, in realms so infinite reigns;
+And wonderful wide are all His domains.
 
 Hark! Here in the Spirit-world, He doth hold
-
- A village of Indians, camped as of old.
-
- Earth-legends by their fires, some did review,
-
- While flowers and trees more radiant grew.
-
- “Oh, You were all dead! In Lethe you were tossed!”
-
- I cried, “Every where ’twas told you were lost!
-
- Forsooth, they did scan your footprints on sand.
-
- Bereaved, I did mourn your fearful sad end.”
+A village of Indians, camped as of old.
+Earth-legends by their fires, some did review,
+While flowers and trees more radiant grew.
+“Oh, You were all dead! In Lethe you were tossed!”
+I cried, “Every where ’twas told you were lost!
+Forsooth, they did scan your footprints on sand.
+Bereaved, I did mourn your fearful sad end.”
 
 Then spoke One of the Spirit Space, so sedate.
-
- “My child, We are souls, forever and aye.
-
- The signs in our orbits point us the way.
-
- Like planets, we do not tarry nor wait.
-
- Those memories dim, from Dust to the Man,
-
- Called Instincts, are trophies won while we ran.
-
- Now various stars where loved ones remain
-
- Are linked to our hearts with Memory-chain.”
+“My child, We are souls, forever and aye.
+The signs in our orbits point us the way.
+Like planets, we do not tarry nor wait.
+Those memories dim, from Dust to the Man,
+Called Instincts, are trophies won while we ran.
+Now various stars where loved ones remain
+Are linked to our hearts with Memory-chain.”
 
 “In journeying here, the Aeons we’ve spent
-
- Are countless and strange. How well I recall
-
- Old Earth trails: the River Red; above all
-
- The Desert sands burning us with intent.
-
- All these we have passed to learn some new thing.
-
- Oh hear me! Your dead doth lustily sing!
-
- ‘Rejoice! Gift of Life pray waste not in wails!
-
-\ The maker of Souls forever prevails!’”
+Are countless and strange. How well I recall
+Old Earth trails: the River Red; above all
+The Desert sands burning us with intent.
+All these we have passed to learn some new thing.
+Oh hear me! Your dead doth lustily sing!
+‘Rejoice! Gift of Life pray waste not in wails!
+The maker of Souls forever prevails!’”
 
 Direct from the Spirit-world came my steed.
-
- The phantom has place in what was all planned.
-
- He carried me back to God and the land
-
- Where all harmony, peace and love are the creed.
-
- In triumph, I cite my Joyous return.
-
- The smallest wee creature I dare not spurn.
-
- I sing “Gift of Life, pray waste not in wails!
-
- The Maker of Souls forever prevails!”
+The phantom has place in what was all planned.
+He carried me back to God and the land
+Where all harmony, peace and love are the creed.
+In triumph, I cite my Joyous return.
+The smallest wee creature I dare not spurn.
+I sing “Gift of Life, pray waste not in wails!
+The Maker of Souls forever prevails!”
 
 <small>First published in <i>American Indian Magazine</i> 4 (January-March 1916).</small>
 
