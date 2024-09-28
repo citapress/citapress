@@ -1209,9 +1209,9 @@ Thank you to Digital Public Library of America (DPLA) and Digital Divide Data (D
 
 *Find some of these and other resources on our ["Red Bird" Are.na channel](https://www.are.na/cita-press/red-bird-z3jolsmc6bk).*
 
-Deloria, Ella Cara. Waterlily. Lincoln, NE: University of Nebraska Press, 1988.
+Deloria, Ella Cara. *Waterlily.* Lincoln, NE: University of Nebraska Press, 1988.
 
-Gunn Allen, Paula. Voice of the Turtle: American Indian Literature, 1900-1970. New York: Ballantine Books, 1994.
+Gunn Allen, Paula. *Voice of the Turtle: American Indian Literature, 1900-1970.* New York: Ballantine Books, 1994.
 
 Gunn Allen, Paula. The Sacred Hoop: Recovering the Feminine in American Indian Traditions. Boston: Beacon Press, 1992. https://archive.org/details/sacredhoop00paul/mode/2up 
 
