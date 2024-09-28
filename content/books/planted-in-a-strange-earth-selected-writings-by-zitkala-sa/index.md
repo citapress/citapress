@@ -67,7 +67,7 @@ Cita’s selections here aim to celebrate Zitkála-Šá’s boldness, to showcas
 > "There is no great; there is no small; in the mind that causeth all"
 > –<i>American Indian Stories</i>, 1921
 
-[^1] "The Atlantic Monthly 1900," <I>The New York Times</I>, December 9, 1899.
+[^1] "[The Atlantic Monthly 1900](https://www.are.na/block/26399606)," <I>The New York Times</I>, December 9, 1899.
 
 ## FOREWORD
 
