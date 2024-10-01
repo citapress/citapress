@@ -1105,7 +1105,7 @@ This book is made possible by our fiscal sponsor, Educopia Institute, and the ge
 
 We are immensely grateful to our contributors, Erin Marie Lynch and Mer Young, for helping us bring Zitkála-Šá’s writing to Cita’s readers. 
 
-We would also like to acknowledge the scholars and writers of the past and present whose work was instrumental in our research, especially: P. Jane Hafen, Tadeusz Lewandowski, Mona Susan Power, Paula Gunn Allen, Layli Long Soldier, Ella Cara Deloria, and Vine Deloria Jr.
+We would also like to acknowledge the scholars and writers of the past and present whose work was instrumental in our research, especially: P. Jane Hafen, Tadeusz Lewandowski, Mona Susan Power, Paula Gunn Allen, Layli Long Soldier, and Ella Cara Deloria.
 
 Thank you to the librarians and staff at the L. Tom Perry Special Collections at Brigham Young University’s Harold B. Lee library, especially John Murphy and Cindy Brightenburg.
 
