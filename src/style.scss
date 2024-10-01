@@ -92,6 +92,18 @@ footer {
   will-change: transform;
 }
 
+table {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid lightgrey;
+  padding: 10px;
+}
+
 .table-of-contents {
   .depth-1 {
     font-size: 1.4em;
@@ -669,9 +681,10 @@ iframe{
       margin: 60px 0 30px 0;
     }
   }
-  em {
-    color: $blue;
-  }
+  .recuadro {
+    border: 2px solid #0000FF;
+    padding: 1em;
+  } 
   pre {
     text-wrap: wrap;
   }
