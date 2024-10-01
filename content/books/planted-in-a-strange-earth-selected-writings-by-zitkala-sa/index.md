@@ -1148,6 +1148,8 @@ MSS 1704; National Council of American Indians records; 20th Century Western & M
 
 Power, Mona Susan. *A Council of Dolls*. Boston: Mariner Books, 2023.
 
+Power, Susan Kelly and \[Mona\] Susan Power. "Josephine Gates Kelly: Standing Rock Sioux Tribal Leader" and ""Josephine Gates Kelly: A Granddaughter’s Postscript." *the THINK INDIAN issue,* Spring 2011. https://turtletalk.blog/wp-content/uploads/2011/12/secthought_thinkindian.pdf
+
 Welch, Deborah Sue. "Gertrude Simmons Bonnin (Zitkala-Sa)." In The New Warriors: Native American Leaders since 1900, edited by R. David Edmunds, 35-54. Lincoln: University of Nebraska Press, 2001.
 
 Zitkala-Sa. *American Indian Stories*. Washington: Hayworth Publishing House, 1921. Project Gutenberg, December 1, 2003 (Updated December 19, 2020). https://www.gutenberg.org/ebooks/10376
