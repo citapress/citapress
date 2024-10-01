@@ -623,8 +623,9 @@ Para este, pidieron al público que usara guantes de goma verdes en apoyo de su 
 <h3 class="c14" id="h.2w5ecyt">De lo local a lo global: influenciando la política internacional</h3>
 <p class="c42" id="h.1baon6m">La aprobación del C189 de la OIT «Convenio sobre las trabajadoras y los trabajadores domésticos» en 2011 llevó al reconocimiento mundial de que las trabajadoras del hogar tienen derechos laborales y ha empoderado a sus organizaciones, así como a sus sindicatos para levantarse y denunciar las violaciones laborales. El convenio exige que los Estados miembro tomen medidas para garantizar que las mujeres trabajadoras domésticas disfruten de protección contra todas las formas de abuso, acoso y violencia y exige el establecimiento de mecanismos para protegerlas y garantizar que todas las quejas sean investigadas y procesadas adecuadamente. Es un instrumento para apoyar las luchas de las organizaciones de trabajadoras del hogar que abogan ante sus gobiernos nacionales por los derechos laborales de su sector.</p>
 <a id="t.cc696c907a58b0e551f116f7e7c542355c5526a7"></a><a id="t.7"></a>
-<div style="border-width:3px; border-style:solid; border-color:#0000FF; padding: 1em;"> 
-\\\\\\\*\\\\\\\*Recuadro 2.2: El C189 de la OIT «Convenio sobre las trabajadoras y los trabajadores domésticos»\\\\\\\*\\\\\\\*
+<div style="border-width:3px; border-style:solid; border-color:#0000FF; padding: 1em;">
+ 
+**Recuadro 2.2: El C189 de la OIT «Convenio sobre las trabajadoras y los trabajadores domésticos»**
 
 El C189 de la OIT reconoce que el trabajo doméstico sigue siendo infravalorado e invisible, y que lo realizan principalmente mujeres y niñas de comunidades migrantes y desfavorecidas, quienes como tales son vulnerables a la discriminación en el empleo y otros abusos de los derechos humanos. Hay dos artículos en el convenio que se refieren específicamente a la violencia y la explotación laboral:
 
