@@ -1121,7 +1121,12 @@ Thank you to Digital Public Library of America (DPLA) and Digital Divide Data (D
 
 *Find some of these and other resources on our ["Red Bird" Are.na channel](https://www.are.na/cita-press/red-bird-z3jolsmc6bk).*
 
+Carlisle Indian School Digital Resource Center. Archives & Special Collections
+Waidner-Spahr Library, Dickinson College, Carlisle, PA. https://carlisleindian.dickinson.edu 
+
 Deloria, Ella Cara. *Waterlily.* Lincoln, NE: University of Nebraska Press, 1988.
+
+Fear-Segal, Jacqueline and Susan D. Rose (Eds.). *Carlisle Indian Industrial School: Indigenous Histories, Memories, and Reclamations.* Lincoln, NE: University of Nebraska Press, 2016. 
 
 Gunn Allen, Paula. *Voice of the Turtle: American Indian Literature, 1900-1970.* New York: Ballantine Books, 1994.
 
