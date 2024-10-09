@@ -9,7 +9,7 @@ templateKey: news-page
 * **May 2024 (Announcement)** Cita publishes a new edition of *Ten Days in a Mad-House* by Nellie Bly. The foreword is by Mikita Brottman and the cover and illustrations are by Dajia Zhou. 
 * **April 2024 (Announcement/Hiring)** Daniel Saldaña París joins Cita Press as Literary Translation & Technology Fellow.
 * **March 2024 (Event)** Cita is an exhibitor at [Multiple Formats Art Book Fair and Symposium ](https://multipleformats.cargo.site/)at Boston University School of the Arts on March 21, 2024.
-* **January 2024 (Hiring) We're looking for a Literary Translation & Technology Fellow** to translate one of Cita’s texts (ENG-SPA or SPA-ENG) and a short essay on the state of machine translation for literary pieces
+* **January 2024 (Hiring)** We're looking for a Literary Translation & Technology Fellow to translate one of Cita’s texts (ENG-SPA or SPA-ENG) and write a short essay on the state of machine translation for literary pieces
 * ## 2023
 * **December 2023 (Announcement)** Gita Manaktala, Editorial Director of MIT Press, has joined Cita's Advisory Board!
 * **November 2023 (Event)** Come visit Cita Press at the [Boston Art Book Fair](https://bostonartbookfair.com/)! Friday, November 10 (preview party!) through Sunday, November 12! 
