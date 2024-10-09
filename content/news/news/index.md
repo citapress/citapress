@@ -5,8 +5,7 @@ templateKey: news-page
 ---
 ## 2024
 
-* **July 2024 (Book)** Cita will publish the Spanish-language edition of *Mujeres resistiendo violencia* (Women Resisting Violence) with Latin America Bureau.
-* **June 2024 (Announcement/Hiring)** bex ya yolk joins Cita Press as Designer!
+* **October 2024 (Event & Book)** We'll be attending Historic Change: Celebrating the Life and Legacy of Zitkála-Šá, a special event at the Salt Lake City Public Library on October 24! Register here. Our book *Planted in a Strange Earth: Selected Writings by Zitkála-Šá* comes out that same day.
 * **May 2024 (Announcement)** Cita publishes a new edition of *Ten Days in a Mad-House* by Nellie Bly. The foreword is by Mikita Brottman and the cover and illustrations are by Dajia Zhou. 
 * **April 2024 (Announcement/Hiring)** Daniel Saldaña París joins Cita Press as Literary Translation & Technology Fellow.
 * **March 2024 (Event)** Cita is an exhibitor at [Multiple Formats Art Book Fair and Symposium ](https://multipleformats.cargo.site/)at Boston University School of the Arts on March 21, 2024.
