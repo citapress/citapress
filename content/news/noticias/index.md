@@ -5,7 +5,7 @@ templateKey: news-page
 ---
 **2024**
 
-* **Octubre de 2024 (Evento/Anuncio)** ¡El 24 de octubre asistiremos a la conferencia Cambio histórico: Celebrando la vida y el legado de Zitkála-Šá en la Biblioteca Pública de Salt Lake City! [Inscríbase aquí. ](https://events.womenshistory.org/events/historic-change-zitkala-sa/)Nuestro libro *Plantada en una tierra extraña: Escritos selectos de Zitkála-Šá* estará disponible en línea ese mismo día.
+* **Octubre de 2024 (Evento/Anuncio)** ¡El 24 de octubre asistiremos al evento Cambio histórico: Celebrando la vida y el legado de Zitkála-Šá en la Biblioteca Pública de Salt Lake City! [Inscríbase aquí. ](https://events.womenshistory.org/events/historic-change-zitkala-sa/)Nuestro libro *Plantada en una tierra extraña: Escritos selectos de Zitkála-Šá* estará disponible en línea ese mismo día.
 * **Mayo de 2024 (Anuncio)** Cita publica una nueva edición de "Ten Days in a Mad-House" de Nellie Bly. El prólogo es de Mikita Brottman y la portada e ilustraciones son de Dajia Zhou. Traducción muy pronto.
 * **Junio de 2024Abril de 2024 (Anuncio/Contratación)** Daniel Saldaña París se une a Cita Press como Becario de Traducción Literaria y Tecnología.
 * **Marzo de 2024 (Evento)** Cita participa como expositor en la Feria de Arte y Simposio de Libros de Formatos Múltiples en la Escuela de Artes de la Universidad de Boston el 21 de marzo de 2024.
