@@ -5,7 +5,7 @@ templateKey: news-page
 ---
 ## 2024
 
-* **October 2024 (Event & Book)** We'll be attending Historic Change: Celebrating the Life and Legacy of Zitkála-Šá at the Salt Lake City Public Library on October 24! [Register to attend this free event here](https://events.womenshistory.org/events/historic-change-zitkala-sa/). Our book *Planted in a Strange Earth: Selected Writings by Zitkála-Šá* comes out that same day.
+* **October 2024 (Event/Announcement)** We'll be attending Historic Change: Celebrating the Life and Legacy of Zitkála-Šá at the Salt Lake City Public Library on October 24! [Register to attend this free event here](https://events.womenshistory.org/events/historic-change-zitkala-sa/). Our book *Planted in a Strange Earth: Selected Writings by Zitkála-Šá* comes out that same day.
 * **May 2024 (Announcement)** Cita publishes a new edition of *Ten Days in a Mad-House* by Nellie Bly. The foreword is by Mikita Brottman and the cover and illustrations are by Dajia Zhou. 
 * **April 2024 (Announcement/Hiring)** Daniel Saldaña París joins Cita Press as Literary Translation & Technology Fellow.
 * **March 2024 (Event)** Cita is an exhibitor at [Multiple Formats Art Book Fair and Symposium ](https://multipleformats.cargo.site/)at Boston University School of the Arts on March 21, 2024.
