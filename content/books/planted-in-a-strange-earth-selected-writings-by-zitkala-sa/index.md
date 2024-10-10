@@ -67,11 +67,11 @@ Cita’s selections here aim to celebrate Zitkála-Šá’s boldness, to showcas
 > "There is no great; there is no small; in the mind that causeth all"<br>
 > –<i>American Indian Stories</i>, 1921
 
-[^1] "[The Atlantic Monthly 1900](https://www.are.na/block/26399606)," <I>The New York Times</I>, December 9, 1899.
+[^1]: "[The Atlantic Monthly 1900](https://www.are.na/block/26399606)," <I>The New York Times</I>, December 9, 1899.
 
-[^2] "[The Soft-Hearted Sioux," review](https://www.are.na/block/29179144), <I>The World Carrier</I>, February-March 1901, 1.
+[^2]: "[The Soft-Hearted Sioux," review](https://www.are.na/block/29179144), <I>The World Carrier</I>, February-March 1901, 1.
 
-[^3] Quoted in Lewandowski, *Red Bird, Red Power: The Life and Legacy of Zitkala-Ša*, 37.
+[^3]: Quoted in Lewandowski, *Red Bird, Red Power: The Life and Legacy of Zitkala-Ša*, 37.
 
 ## FOREWORD
 
