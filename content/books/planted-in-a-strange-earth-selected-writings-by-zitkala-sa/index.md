@@ -98,6 +98,8 @@ As a Dakota woman writing today, I seek always to inhabit my own contradictions,
 [^4]: Zitkála-Šá  to Elaine Eastman,  March 25, 1935, quoted in Lewandowski, 184.
 [^5]: See *The Sacred Hoop: Recovering the Feminine in American Indian Traditions*, 127. 
 
+***
+
 ## IRIS OF LIFE
 
 Like tiny drops of crystal rain,<br>
