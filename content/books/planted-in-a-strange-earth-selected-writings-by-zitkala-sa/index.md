@@ -69,7 +69,7 @@ Cita’s selections here aim to celebrate Zitkála-Šá’s boldness, to showcas
 
 [^1]: "[The Atlantic Monthly 1900](https://www.are.na/block/26399606)," <I>The New York Times</I>, December 9, 1899.
 
-[^2]: "[Zitkala-Sa is in the Atlantic](https://carlisleindian.dickinson.edu/publications/red-man-vol-16-no-3)," *Red Man* (reprinted from *The World Carrier*), June 1900, 6; "[The Soft-Hearted Sioux," review](https://www.are.na/block/29179144), <I>The World Carrier</I>, February-March 1901, 1.
+[^2]: "[Zitkala-Sa is in the Atlantic](https://carlisleindian.dickinson.edu/publications/red-man-vol-16-no-3)," *The Red Man* (reprinted from *The World Carrier*), June 1900, 6; "[The Soft-Hearted Sioux," review](https://www.are.na/block/29179144), <I>The World Carrier</I>, February-March 1901, 1.
 
 [^3]: Quoted in Lewandowski, *Red Bird, Red Power: The Life and Legacy of Zitkala-Ša*, 37.
 
