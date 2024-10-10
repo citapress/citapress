@@ -122,7 +122,7 @@ That gladden many weary hearts,<br>
 
 <small>First published in <i>The Earlhamite</i> vol. 5, no. 31 (November 1, 1898)</small>
 
-\*\**
+\----
 
 ## IMPRESSIONS OF AN INDIAN CHILDHOOD
 
