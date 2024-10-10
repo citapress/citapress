@@ -73,6 +73,8 @@ Cita’s selections here aim to celebrate Zitkála-Šá’s boldness, to showcas
 
 [^3]: Quoted in Lewandowski, *Red Bird, Red Power: The Life and Legacy of Zitkala-Ša*, 37.
 
+***
+
 ## FOREWORD
 
 I first saw a photo of Zitkála-Šá in my early twenties, during an effort to locate literary ancestors among my tribal lineage. In the photo, now on the cover of this collection, she stands adorned in regalia, profile luminous, hand lifted to her forehead as if to see far off. Her image arrested me, and, upon reading *American Indian Stories* on Project Gutenberg, her work drew me in further. In her writing, I observed how distillations of childhood's minute, peculiar sensations remain undiluted by time–ice floats on the river like glass marbles, while shadows of clouds move across the hills. Zitkála-Šá, I further discovered, had lived briefly on Standing Rock Indian Reservation at the same time as my own family. I was overcome by this connection between us, emanating not just from Ihanktuƞwaƞ Dakota kinship but from physical proximity. I felt an emotional relation, even spiritual, the way one might encounter a benevolent natural presence. “The guardian star in the night sky beamed compassionately down,” as she writes in the story “The Trial Path.”
@@ -124,7 +126,7 @@ That gladden many weary hearts,<br>
 
 <small>First published in <i>The Earlhamite</i> vol. 5, no. 31 (November 1, 1898)</small>
 
-\----
+***
 
 ## IMPRESSIONS OF AN INDIAN CHILDHOOD
 
@@ -378,6 +380,8 @@ Wrapped in my heavy blanket, I walked with my mother to the carriage that was so
 
 Having driven thirty miles to the ferryboat, we crossed the Missouri in the evening. Then riding again a few miles eastward, we stopped before a massive brick building. I looked at it in amazement, and with a vague misgiving, for in our village I had never seen so large a house. Trembling with fear and distrust of the palefaces, my teeth chattering from the chilly ride, I crept noiselessly in my soft moccasins along the narrow hall, keeping very close to the bare wall. I was as frightened and bewildered as the captured young of a wild creature.
 
+***
+
 ## THE SCHOOL DAYS OF AN INDIAN GIRL
 
 ### I. The Land of Red Apples.
@@ -572,6 +576,8 @@ The evil spirit laughed within me when the white flag dropped out of sight, and 
 
 Leaving the crowd as quickly as possible, I was soon in my room. The rest of the night I sat in an armchair and gazed into the crackling fire. I laughed no more in triumph when thus alone. The little taste of victory did not satisfy a hunger in my heart. In my mind I saw my mother far away on the Western plains, and she was holding a charge against me.
 
+***
+
 ## AN INDIAN TEACHER AMONG INDIANS
 
 ### I. My First Day.
@@ -685,6 +691,8 @@ At last, one weary day in the schoolroom, a new idea presented itself to me. It 
 As answers to their shallow inquiries they received the students' sample work to look upon. Examining the neatly figured pages, and gazing upon the Indian girls and boys bending over their books, the white visitors walked out of the schoolhouse well satisfied: they were educating the children of the red man! They were paying a liberal fee to the government employees in whose able hands lay the small forest of Indian timber.
 
 In this fashion many have passed idly through the Indian schools during the last decade, afterward to boast of their charity to the North American Indian. But few there are who have paused to question whether real life or long-lasting death lies beneath this semblance of civilization.
+
+***
 
 ## THE SOFT-HEARTED SIOUX
 
@@ -812,6 +820,8 @@ Soon, soon I shall know, for now I see the east is growing red. My heart is stro
 
 <small>From *American Indian Stories* (1921); first published in *Harper's Magazine* (March 1901).</small>
 
+***
+
 ## WHY I AM A PAGAN
 
 WHEN the spirit swells my breast I love to roam leisurely among the green hills; or sometimes, sitting on the brink of the murmuring Missouri, I marvel at the great blue overhead. With half closed eyes I watch the huge cloud shadows in their noiseless play upon the high bluffs opposite me, while into my ear ripple the sweet, soft cadences of the river's song. Folded hands lie in my lap, for the time forgot. My heart and I lie small upon the earth like a grain of throbbing sand. Drifting clouds and tinkling waters, together with the warmth of a genial summer day, bespeak with eloquence the loving Mystery round about us. During the idle while I sat upon the sunny river brink, I grew somewhat, though my response be not so clearly manifest as in the green grass fringing the edge of the high bluff back of me.
@@ -857,6 +867,8 @@ Thither he hurried forth with his afternoon sermon. I watched him as he hastened
 The little incident recalled to mind the copy of a missionary paper brought to my notice a few days ago, in which a "Christian" pugilist commented upon a recent article of mine, grossly perverting the spirit of my pen. Still I would not forget that the pale-faced missionary and the hoodooed aborigine are both God's creatures, though small indeed their own conceptions of Infinite Love. A wee child toddling in a wonder world, I prefer to their dogma my excursions into the natural gardens where the voice of the Great Spirit is heard in the twittering of birds, the rippling of mighty waters, and the sweet breathing of flowers. If this is Paganism, then at present, at least, I am a Pagan.
 
 <small>First published in <i>Atlantic Monthly</i> 90 (December 1902).</small>
+
+***
 
 ## THE WIDESPREAD ENIGMA CONCERNING BLUE-STAR WOMAN
 
@@ -976,6 +988,8 @@ The old chieftain sighed, but made no comment. Words were vain. He pressed his i
 
 <small>From *American Indian Stories* (1921).</small>
 
+***
+
 ## A DREAM OF HER GRANDFATHER
 
 Her grandfather was a Dakota "medicine man." Among the Indians of his day he was widely known for his successful healing work. He was one of the leading men of the tribe and came to Washington, D.C., with one of the first delegations relative to affairs concerning the Indian people and the United States government.
@@ -997,6 +1011,8 @@ At this point, she, too, heard the full melodious voice. She heard distinctly th
 She caught the glad tidings and was thrilled with new hope for her people.
 
 <small>From *American Indian Stories* (1921).</small>
+
+***
 
 ## THE INDIAN'S AWAKENING
 
@@ -1110,6 +1126,8 @@ The Maker of Souls forever prevails!”
 
 <small>First published in <i>American Indian Magazine</i> 4 (January-March 1916).</small>
 
+***
+
 ## ACKNOWLEDGEMENTS
 
 This book is made possible by our fiscal sponsor, Educopia Institute, and the generous support of the Mellon Foundation.
@@ -1127,6 +1145,8 @@ Thank you to Fabian Rios for web development, to bex ya yolk for art direction f
 The guidance and support of the Cita Press Advisory Board–Janneke Adema, Gita Manaktala, and Jessica Meyerson–is invaluable to our operations and mission. We are also grateful for the contributions of past Board members Vicky Checo, Katherine Maher, and Mindy Seu.
 
 Thank you to Digital Public Library of America (DPLA) and Digital Divide Data (DDD) for their support in creating new digital formats for the Cita Press library. DDD provided EPUB conversion, OCR, and accessibility remediation. Visit DPLA’s Palace Bookshelf to find this volume and other Open Bookshelf books.
+
+***
 
 ## BIBLIOGRAPHY & FURTHER READING
 
