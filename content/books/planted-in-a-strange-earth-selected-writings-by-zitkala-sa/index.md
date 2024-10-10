@@ -1133,6 +1133,8 @@ Waidner-Spahr Library, Dickinson College, Carlisle, PA. https://carlisleindian.d
 
 Deloria, Ella Cara. *Waterlily.* Lincoln, NE: University of Nebraska Press, 1988.
 
+Enoch, Jessica. “Resisting the Script of Indian Education: Zitkala Ša and the Carlisle Indian School.” *College English* 65, no. 2 (2002): 117–41. https://doi.org/10.2307/3250759.
+
 Fear-Segal, Jacqueline and Susan D. Rose (Eds.). *Carlisle Indian Industrial School: Indigenous Histories, Memories, and Reclamations.* Lincoln, NE: University of Nebraska Press, 2016. 
 
 Gunn Allen, Paula. *Voice of the Turtle: American Indian Literature, 1900-1970.* New York: Ballantine Books, 1994.
