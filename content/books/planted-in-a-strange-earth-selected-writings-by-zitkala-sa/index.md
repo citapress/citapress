@@ -1140,7 +1140,7 @@ Thank you to the librarians and staff at the L. Tom Perry Special Collections at
 
 We are grateful to the National Women’s History Museum for their partnership in promoting this book in concert with the Zitkála-Šá Quarter from the American Women Quarters Program. 
 
-Thank you to Fabián Ríos for web development and to bex ya yolk for art direction for the cover for the cover of this .
+Thank you to Fabián Ríos for his continued web development support, and to bex ya yolk for art direction for the cover of this book.
 
 The guidance and support of the Cita Press Advisory Board–Janneke Adema, Gita Manaktala, and Jessica Meyerson–is invaluable to our operations and mission. We are also grateful for the contributions of past Board members Vicky Checo, Katherine Maher, and Mindy Seu.
 
