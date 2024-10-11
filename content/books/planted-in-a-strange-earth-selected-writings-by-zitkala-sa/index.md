@@ -650,9 +650,9 @@ Again, though she stopped to hear what I might say, I was silent.
 
 My shattered energy was unable to hold longer any faith, and I cried out desperately: "Mother, don't pray again! The Great Spirit does not care if we live or die! Let us not look for good or justice: then we shall not be disappointed!"
 
-"Sh! my child, do not talk so madly. There is Taku Iyotan Wasaka,[^1] to which I pray," she answered, as she stroked my head again as she used to do when I was a smaller child.
+"Sh! my child, do not talk so madly. There is Taku Iyotan Wasaka,[^6] to which I pray," she answered, as she stroked my head again as she used to do when I was a smaller child.
 
-[^1]: An absolute Power.
+[^6]: An absolute Power.
 
 ### III. My Mother's Curse Upon White Settlers.
 
