@@ -652,7 +652,7 @@ My shattered energy was unable to hold longer any faith, and I cried out despera
 
 "Sh! my child, do not talk so madly. There is Taku Iyotan Wasaka,[^6] to which I pray," she answered, as she stroked my head again as she used to do when I was a smaller child.
 
-[^6]: An absolute Power.
+[^6]: An absolute Power. (Footnote from *American Indian Stories*, 1921.)
 
 ### III. My Mother's Curse Upon White Settlers.
 
