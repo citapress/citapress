@@ -73,7 +73,7 @@ Cita’s selections here aim to celebrate Zitkála-Šá’s boldness, to showcas
 
 [^3]: Quoted in Lewandowski, *Red Bird, Red Power: The Life and Legacy of Zitkala-Ša*, 37.
 
-***
+- - -
 
 ## FOREWORD
 
@@ -100,7 +100,7 @@ As a Dakota woman writing today, I seek always to inhabit my own contradictions,
 [^4]: Zitkála-Šá  to Elaine Eastman,  March 25, 1935, quoted in Lewandowski, 184.
 [^5]: See *The Sacred Hoop: Recovering the Feminine in American Indian Traditions*, 127. 
 
-***
+- - -
 
 ## IRIS OF LIFE
 
@@ -126,7 +126,7 @@ That gladden many weary hearts,<br>
 
 <small>First published in <i>The Earlhamite</i> vol. 5, no. 31 (November 1, 1898)</small>
 
-***
+- - -
 
 ## IMPRESSIONS OF AN INDIAN CHILDHOOD
 
@@ -380,7 +380,7 @@ Wrapped in my heavy blanket, I walked with my mother to the carriage that was so
 
 Having driven thirty miles to the ferryboat, we crossed the Missouri in the evening. Then riding again a few miles eastward, we stopped before a massive brick building. I looked at it in amazement, and with a vague misgiving, for in our village I had never seen so large a house. Trembling with fear and distrust of the palefaces, my teeth chattering from the chilly ride, I crept noiselessly in my soft moccasins along the narrow hall, keeping very close to the bare wall. I was as frightened and bewildered as the captured young of a wild creature.
 
-***
+- - -
 
 ## THE SCHOOL DAYS OF AN INDIAN GIRL
 
@@ -576,7 +576,7 @@ The evil spirit laughed within me when the white flag dropped out of sight, and 
 
 Leaving the crowd as quickly as possible, I was soon in my room. The rest of the night I sat in an armchair and gazed into the crackling fire. I laughed no more in triumph when thus alone. The little taste of victory did not satisfy a hunger in my heart. In my mind I saw my mother far away on the Western plains, and she was holding a charge against me.
 
-***
+- - -
 
 ## AN INDIAN TEACHER AMONG INDIANS
 
@@ -692,7 +692,7 @@ As answers to their shallow inquiries they received the students' sample work to
 
 In this fashion many have passed idly through the Indian schools during the last decade, afterward to boast of their charity to the North American Indian. But few there are who have paused to question whether real life or long-lasting death lies beneath this semblance of civilization.
 
-***
+- - -
 
 ## THE SOFT-HEARTED SIOUX
 
@@ -820,7 +820,7 @@ Soon, soon I shall know, for now I see the east is growing red. My heart is stro
 
 <small>From *American Indian Stories* (1921); first published in *Harper's Magazine* (March 1901).</small>
 
-***
+- - -
 
 ## WHY I AM A PAGAN
 
@@ -868,7 +868,7 @@ The little incident recalled to mind the copy of a missionary paper brought to m
 
 <small>First published in <i>Atlantic Monthly</i> 90 (December 1902).</small>
 
-***
+- - -
 
 ## THE WIDESPREAD ENIGMA CONCERNING BLUE-STAR WOMAN
 
@@ -988,7 +988,7 @@ The old chieftain sighed, but made no comment. Words were vain. He pressed his i
 
 <small>From *American Indian Stories* (1921).</small>
 
-***
+- - -
 
 ## A DREAM OF HER GRANDFATHER
 
@@ -1012,7 +1012,7 @@ She caught the glad tidings and was thrilled with new hope for her people.
 
 <small>From *American Indian Stories* (1921).</small>
 
-***
+- - -
 
 ## THE INDIAN'S AWAKENING
 
@@ -1126,7 +1126,7 @@ The Maker of Souls forever prevails!”
 
 <small>First published in <i>American Indian Magazine</i> 4 (January-March 1916).</small>
 
-***
+- - -
 
 ## ACKNOWLEDGEMENTS
 
@@ -1134,19 +1134,19 @@ This book is made possible by our fiscal sponsor, Educopia Institute, and the ge
 
 We are immensely grateful to our contributors, Erin Marie Lynch and Mer Young, for helping us bring Zitkála-Šá’s writing to Cita’s readers. 
 
-We would also like to acknowledge the scholars and writers of the past and present whose work was instrumental in our research, especially: P. Jane Hafen, Tadeusz Lewandowski, Mona Susan Power, Paula Gunn Allen, Layli Long Soldier, and Ella Cara Deloria.
+We acknowledge, with deep gratitude and admiration, the scholars and writers of the past and present whose work was instrumental in our research, especially: P. Jane Hafen, Tadeusz Lewandowski, Mona Susan Power, Paula Gunn Allen, Layli Long Soldier, and Ella Cara Deloria.
 
 Thank you to the librarians and staff at the L. Tom Perry Special Collections at Brigham Young University’s Harold B. Lee library, especially John Murphy and Cindy Brightenburg.
 
 We are grateful to the National Women’s History Museum for their partnership in promoting this book in concert with the Zitkála-Šá Quarter from the American Women Quarters Program. 
 
-Thank you to Fabian Rios for web development, to bex ya yolk for art direction for the cover, and 
+Thank you to Fabián Ríos for web development and to bex ya yolk for art direction for the cover for the cover of this .
 
 The guidance and support of the Cita Press Advisory Board–Janneke Adema, Gita Manaktala, and Jessica Meyerson–is invaluable to our operations and mission. We are also grateful for the contributions of past Board members Vicky Checo, Katherine Maher, and Mindy Seu.
 
 Thank you to Digital Public Library of America (DPLA) and Digital Divide Data (DDD) for their support in creating new digital formats for the Cita Press library. DDD provided EPUB conversion, OCR, and accessibility remediation. Visit DPLA’s Palace Bookshelf to find this volume and other Open Bookshelf books.
 
-***
+- - -
 
 ## BIBLIOGRAPHY & FURTHER READING
 
@@ -1183,7 +1183,7 @@ MSS 1704; National Council of American Indians records; 20th Century Western & M
 
 Power, Mona Susan. *A Council of Dolls*. Boston: Mariner Books, 2023.
 
-Power, Susan Kelly and \[Mona] Susan Power. "Josephine Gates Kelly: Standing Rock Sioux Tribal Leader" and ""Josephine Gates Kelly: A Granddaughter’s Postscript." *the THINK INDIAN issue,* Spring 2011. https://turtletalk.blog/wp-content/uploads/2011/12/secthought_thinkindian.pdf
+Power, Susan Kelly and \[Mona] Susan Power. "Josephine Gates Kelly: Standing Rock Sioux Tribal Leader" and "Josephine Gates Kelly: A Granddaughter’s Postscript." *the THINK INDIAN issue,* Spring 2011. https://turtletalk.blog/wp-content/uploads/2011/12/secthought_thinkindian.pdf
 
 Welch, Deborah Sue. "Gertrude Simmons Bonnin (Zitkala-Sa)." In The New Warriors: Native American Leaders since 1900, edited by R. David Edmunds, 35-54. Lincoln: University of Nebraska Press, 2001.
 
