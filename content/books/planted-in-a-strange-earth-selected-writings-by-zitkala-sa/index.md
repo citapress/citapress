@@ -3,7 +3,7 @@ title: "Planted in a Strange Earth: Selected Writings by Zitkála-Šá"
 publication: 2024-10-24T15:15:00.000Z
 publishformat: Month and year
 release: 1921-10-23T03:36:00.000Z
-releaseformat: Month and year
+releaseformat: Year
 sortingdate: 1906-10-01T15:14:00.000Z
 templateKey: book-page
 author: Zitkála-Šá (Gertrude Simmons Bonnin)
@@ -40,9 +40,9 @@ description: >
 
   <p>The collection focuses on the author’s writing on assimilationist projects of the late nineteenth and early twentieth century and their impact within Native communities and individuals. Zitkála-Šá’s voice is lyrical, bold and fresh–even over 100 years after initial publication. Her writing captures the intense beauty and pain of growing up and explores what it means to forge an identity in the face of cultural erasure. These are essential feminist texts that dig into the cruel tensions of an era through the eyes of an author who spent a lifetime “actively testing the chains which tightly bound [her] individuality like a mummy for burial.”</p>
 foreword: >-
-  <p><b>Foreword:</b> Erin Marie Lynch is the author of Removal Acts (Graywolf
-  Press, 2023). Her writing appears in <i>POETRY, New England Review, DIAGRAM,
-  Narrative, Best New Poets,</i> and other publications.</p>
+  <p><b>Foreword:</b> Erin Marie Lynch is the author of <i>Removal Acts,</i>
+  (Graywolf Press, 2023). Her writing appears in <i>POETRY, New England Review,
+  DIAGRAM, Narrative, Best New Poets,</i> and other publications.</p>
 
 
   <p><b>Cover:</b> Mer Young is an Indigenous published multidisciplinary artist, BIPOC activist, steward of land and water and environmental justice advocate.</p>
