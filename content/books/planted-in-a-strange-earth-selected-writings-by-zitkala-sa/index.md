@@ -1148,7 +1148,7 @@ Thank you to Digital Public Library of America (DPLA) and Digital Divide Data (D
 
 - - -
 
-Cover photo credit: National Museum of American History, Smithsonian Institution. "Smithsonian Learning Lab Resource: Zitkala Sa, Sioux Indian and activist." Smithsonian Learning Lab. October 31, 2015. 
+*Cover photo credit:* National Museum of American History, Smithsonian Institution. "Smithsonian Learning Lab Resource: Zitkala Sa, Sioux Indian and activist." Smithsonian Learning Lab. October 31, 2015. 
 
 ## BIBLIOGRAPHY & FURTHER READING
 
