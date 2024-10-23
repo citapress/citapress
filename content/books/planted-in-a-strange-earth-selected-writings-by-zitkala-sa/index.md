@@ -48,7 +48,7 @@ foreword: >-
 
 
   <p><b>Cover:</b> Mer Young is an Indigenous published multidisciplinary artist, BIPOC activist, steward of land and water and environmental justice advocate.</p>
-published: false
+published: true
 ---
 ## EDITOR'S NOTE
 
