@@ -10,6 +10,8 @@ author: Zitkála-Šá (Gertrude Simmons Bonnin)
 isbn: 978-1-961368-20-0
 post_image: zitkala_cover.jpg
 square_image: zitkala_sa_thumbnail.jpg
+download: Planted_in_a_Strange_Earth_Cita_Press.epub
+download_name: Download EPUB
 genre:
   - fiction
   - short-stories
@@ -462,7 +464,7 @@ During the first two or three seasons misunderstandings as ridiculous as this on
 
 Within a year I was able to express myself somewhat in broken English. As soon as I comprehended a part of what was said and done, a mischievous spirit of revenge possessed me. One day I was called in from my play for some misconduct. I had disregarded a rule which seemed to me very needlessly binding. I was sent into the kitchen to mash the turnips for dinner. It was noon, and steaming dishes were hastily carried into the dining-room. I hated turnips, and their odor which came from the brown jar was offensive to me. With fire in my heart, I took the wooden tool that the paleface woman held out to me. I stood upon a step, and, grasping the handle with both hands, I bent in hot rage over the turnips. I worked my vengeance upon them. All were so busily occupied that no one noticed me. I saw that the turnips were in a pulp, and that further beating could not improve them; but the order was, "Mash these turnips," and mash them I would! I renewed my energy; and as I sent the masher into the bottom of the jar, I felt a satisfying sensation that the weight of my body had gone into it.
 
-Just here a paleface woman came up to my table. As she looked into the jar, she shoved my hands roughly aside. I stood fearless and angry. She placed her red hands upon the rim of the jar. Then she gave one lift and stride away from the table. But lo! the pulpy contents fell through the crumbled bottom to the floor I She spared me no scolding phrases that I had earned. I did not heed them. I felt triumphant in my revenge, though deep within me I was a wee bit sorry to have broken the jar.
+Just here a paleface woman came up to my table. As she looked into the jar, she shoved my hands roughly aside. I stood fearless and angry. She placed her red hands upon the rim of the jar. Then she gave one lift and stride away from the table. But lo! the pulpy contents fell through the crumbled bottom to the floor! She spared me no scolding phrases that I had earned. I did not heed them. I felt triumphant in my revenge, though deep within me I was a wee bit sorry to have broken the jar.
 
 As I sat eating my dinner, and saw that no turnips were served, I whooped in my heart for having once asserted the rebellion within me.
 
@@ -1194,5 +1196,7 @@ Zitkala-Sa. *American Indian Stories*. Washington: Hayworth Publishing House, 19
 Zitkala-Ša. *Dreams and Thunder: Stories, Poems, and The Sun Dance Opera*. Edited by P. Jane Hafen. Lincoln and London: University of Nebraska Press, 2001.
 
 Zitkala-Ša. *Help Indians Help Themselves: The Later Writings of Gertrude Simmons Bonnin (Zitkala-Ša)*. Edited by P. Jane Hafen. Texas Tech University Press, 2022.
+
+Zitkala-Sa. *Old Indian Legends.* Ginn &amp; Co. Athenaeum Press, 1901. Project Gutenberg, July 5, 2008 (Updated January 27, 2021). https://www.gutenberg.org/ebooks/338
 
 “Zitkála-Šá: Trailblazing American Indian Composer and Writer.” American Masters, PBS, 2020. https://www.pbs.org/wnet/americanmasters/zitkala-sa-american-indian-composer-author-activist-qqjsyq/15380/
