@@ -97,7 +97,7 @@ In her work, too, I locate our tradition of communal listening. “While one was
 
 As a Dakota woman writing today, I seek always to inhabit my own contradictions, while moving toward the sense of belonging that Paula Gunn Allen calls “enwholement".[^5] As I look for my own mothers, at whose feet I might sit, I am thankful for Zitkála-Šá. It is an honor to learn from the inflections of her tone and from her breath. But Zitkála-Šá's words have much to offer to any reader, Native or non-Native, who is perhaps encountering her work for the first time, as I did all those years ago. To have her work collected here speaks to the tenacity of her spirit, her insistence on being heard across generations. Writing of herself, of her world, she teaches us how to be now. In this pause, I say: haƞ, haƞ.
 
-**ERIN MARIE LYNCH**
+**ERIN MARIE LYNCH**, 2024.
 
 [^4]: Zitkála-Šá  to Elaine Eastman,  March 25, 1935, quoted in Lewandowski, 184.
 [^5]: See *The Sacred Hoop: Recovering the Feminine in American Indian Traditions*, 127. 
