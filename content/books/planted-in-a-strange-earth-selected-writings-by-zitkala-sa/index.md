@@ -10,11 +10,11 @@ author: Zitkála-Šá (Gertrude Simmons Bonnin)
 isbn: 978-1-961368-20-0
 post_image: zitkala_cover.jpg
 square_image: zitkala_sa_thumbnail.jpg
-download: Planted_in_a_Strange_Earth_Cita_Press.epub
+download: "Download Zine "
 download_ebook: zitkala_sa_zine_citapress_kassie_john.pdf
-download_name: Download EPUB
-third_download_name: "Download Zine "
-third_download: zitkala_sa_zine_citapress_kassie_john.pdf
+download_name: ""
+third_download_name: ""
+third_download: Planted_in_a_Strange_Earth_Cita_Press.epub
 genre:
   - fiction
   - short-stories
