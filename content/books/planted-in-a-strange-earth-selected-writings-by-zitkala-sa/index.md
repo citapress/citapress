@@ -11,7 +11,9 @@ isbn: 978-1-961368-20-0
 post_image: zitkala_cover.jpg
 square_image: zitkala_sa_thumbnail.jpg
 download: Planted_in_a_Strange_Earth_Cita_Press.epub
+download_ebook: The_Snow_Episode_Zine_by_Kassie_John_Cita_Press.pdf
 download_name: Download EPUB
+third_download_name: "Download Zine "
 genre:
   - fiction
   - short-stories
@@ -30,7 +32,7 @@ theme:
   - motherhood
   - mental-health
 lang: en
-description: >
+description: >-
   <p><i>“To have [Zitkála-Šá’s] work collected here now speaks to the tenacity
   of her spirit, her insistence on being heard across generations. Speaking of
   herself, of her world, she teaches us how to be now.” <b>–Erin Marie Lynch,
@@ -41,6 +43,9 @@ description: >
 
 
   <p>The collection focuses on the author’s writing on assimilationist projects of the late nineteenth and early twentieth century and their impact within Native communities and individuals. Zitkála-Šá’s voice is lyrical, bold and fresh–even over 100 years after initial publication. Her writing captures the intense beauty and pain of growing up and explores what it means to forge an identity in the face of cultural erasure. These are essential feminist texts that dig into the cruel tensions of an era through the eyes of an author who spent a lifetime “actively testing the chains which tightly bound [her] individuality like a mummy for burial.”</p>
+
+
+  <p>Designer Kassie John created a special zine for this collection that readers can download, print, and fold into a free mini-book at home (complete with a coloring page illustration of Zitkála-Šá!).</p>
 foreword: >-
   <p><b>Foreword:</b> Erin Marie Lynch is the author of <i>Removal Acts,</i>
   (Graywolf Press, 2023). Her writing appears in <i>POETRY, New England Review,
@@ -48,6 +53,9 @@ foreword: >-
 
 
   <p><b>Cover:</b> Mer Young is an Indigenous published multidisciplinary artist, BIPOC activist, steward of land and water and environmental justice advocate.</p>
+
+
+  <p><b>Zine Design:</b> Kassie John is a Diné designer and illustrator who specializes in digital storytelling and research-based art. </p>
 published: true
 ---
 ## EDITOR'S NOTE
