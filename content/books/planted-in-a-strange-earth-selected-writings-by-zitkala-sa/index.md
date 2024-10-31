@@ -11,7 +11,7 @@ isbn: 978-1-961368-20-0
 post_image: zitkala_cover.jpg
 square_image: zitkala_sa_thumbnail.jpg
 download: Planted_in_a_Strange_Earth_Cita_Press.epub
-download_ebook: The_Snow_Episode_Zine_by_Kassie_John_Cita_Press.pdf
+download_ebook: zitkala_sa_zine_citapress_kassie_john.pdf
 download_name: Download EPUB
 third_download_name: "Download Zine "
 genre:
