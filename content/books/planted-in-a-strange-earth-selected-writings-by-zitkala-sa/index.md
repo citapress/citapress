@@ -12,7 +12,7 @@ post_image: zitkala_cover.jpg
 square_image: zitkala_sa_thumbnail.jpg
 download: zitkala_sa_zine_citapress_kassie_john.pdf
 download_ebook: ""
-download_name: "Download Zine "
+download_name: Zine - Print & Fold
 third_download_name: ""
 third_download: Planted_in_a_Strange_Earth_Cita_Press.epub
 genre:
