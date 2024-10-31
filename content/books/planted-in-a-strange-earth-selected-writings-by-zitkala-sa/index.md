@@ -14,6 +14,7 @@ download: Planted_in_a_Strange_Earth_Cita_Press.epub
 download_ebook: zitkala_sa_zine_citapress_kassie_john.pdf
 download_name: Download EPUB
 third_download_name: "Download Zine "
+third_download: zitkala_sa_zine_citapress_kassie_john.pdf
 genre:
   - fiction
   - short-stories
