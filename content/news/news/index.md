@@ -5,6 +5,7 @@ templateKey: news-page
 ---
 ## 2024
 
+* **November 2024 (Event)** Cita Press will be an exhibitor at the inaugural [Off Register Santa Barbara Art Book and Print Fair](https://www.offregistersb.org) on November 16! Join us for this free event, and for our 4 pm presentation on "New Life in the Public Domain." Read more about the fair [here](https://www.independent.com/2024/11/06/book-the-date-for-santa-barbaras-first-art-book-and-print-fair/).
 * **October 2024 (Press)** Janneke Adema of the Centre for Postdigital Cultures at Coventry University discusses Cita Press in ["Experimental Publishing as Collective Struggle"](https://culturemachine.net/vol-23-publishing-after-progress/adema-experimental-publishing-collective-struggle/) for *Culture Machine.*
 * **October 2024 (Event/Announcement)** We'll be attending Historic Change: Celebrating the Life and Legacy of Zitkála-Šá at the Salt Lake City Public Library on October 24! [Register to attend this free event here](https://events.womenshistory.org/events/historic-change-zitkala-sa/). Our book *Planted in a Strange Earth: Selected Writings by Zitkála-Šá* comes out that same day.
 * **May 2024 (Announcement)** Cita publishes a new edition of *Ten Days in a Mad-House* by Nellie Bly. The foreword is by Mikita Brottman and the cover and illustrations are by Dajia Zhou. 
