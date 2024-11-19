@@ -84,7 +84,7 @@ Sus acciones incluyen movilizaciones masivas a favor del aborto y contra el femi
 
 Todas deberíamos leer este libro para recordar lo fuerte que es el enemigo y unirnos a la lucha desde nuestra propia posición y posibilidades (estemos donde estemos y en la medida de nuestras habilidades). Como leemos aquí, todo cuenta, incluso esperar a recibir un mensaje de que tu amiga llegó con bien a casa.
 
-<p class="c111 c66"><p align="right"><i><font color="blue"><small>Catalina May, Las Raras podcast</i></font></small></p>
+<p class="c111 c66"><p align="right"><i><font color="blue"><small>Catalina May,</i> Las Raras<i> podcast</i></font></small></p>
 
 
 
