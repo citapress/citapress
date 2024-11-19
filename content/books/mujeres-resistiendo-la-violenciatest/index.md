@@ -71,8 +71,12 @@ Los alarmantes índices de violencia contra las mujeres en América Latina puede
 
 <span style="color:blue"><p align="right"><I><small>Silvia Viñas, productora ejecutiva y copresentadora del podcast</i> El hilo <i>de Radio Ambulante Estudios y VICE News</i></small></p></span>
 
+
+
 <p class="c79">Latinoamérica es el continente con mayores índices de violencia contra las mujeres y las niñas, pero, a su vez, con una tremenda potencia para resistencias múltiples. Este libro demuestra una vez más la importancia de los lazos de sororidad entre feministas de la academia e indígenas feministas que proponen creativas formas de resistencia y teorización desde el sur. Como dice la canción: <i>nos sembraron miedo, nos crecieron alas…</p>
 <p class="c66 c111"><p align="right">Rocío Silva Santisteban, poeta peruana, activista feminista, académica y excongresista</i></p>
+
+
 
 «El Estado no me cuida, me cuidan mis amigas». Este libro muestra de forma muy completa cómo se lleva a la práctica esta consigna coreada por las mujeres latinoamericanas en las protestas de todo el continente. Desde las zonas rurales a las ciudades, en sus hogares o espacios íntimos e incluso por medio de sus propios cuerpos, vemos cómo las mujeres desatendidas por el Estado se unen para protegerse mutuamente de distintos tipos de violencias interseccionales de género.
 
@@ -82,17 +86,24 @@ Todas deberíamos leer este libro para recordar lo fuerte que es el enemigo y un
 
 <p class="c111 c66"><p align="right"><i>Catalina May, Las Raras podcast</i></p>
 
+
+
 Este libro altamente accesible se ocupa de uno de los problemas más importantes de América Latina en la actualidad y el futuro: la violencia contra las mujeres y las niñas. Su singularidad radica en poner en el centro la resistencia de las mujeres a la violencia, en lugar de las mujeres como víctimas de esta, en un contexto en el que la diversidad es clave, haciendo hincapié en las dimensiones interseccionales de las experiencias de las mujeres. El texto va acompañado de recuadros, ilustraciones y enlaces que enriquecen la lectura. <i>Mujeres resistiendo la violencia </i>es un texto fundamental tanto para tomadores de decisiones políticas, como para investigadores y estudiantes.
 
 <p class="c111 c66"><p align="right"><i>Caroline Moser, profesora emérita de la Universidad de Manchester y profesora honoraria de la University College de Londres</i></p>
+
+
 
 <p class="c79"><i>Mujeres resistiendo la violencia</i> es una exploración única de las diferentes formas en que las mujeres se enfrentan a la violencia de género. El libro revisa una poderosa combinación de diferentes estrategias de resistencia en diversos contextos. Proporciona una excelente mirada del género y la interseccionalidad, incluyendo un análisis del impacto de la violencia contra las mujeres y las niñas en todas sus diversidades e impresionantes ejemplos en los que las diferentes formas de esta violencia tienen un impacto desproporcional sobre las mujeres indígenas, afrodescendientes, provenientes de zonas rurales o urbanas, migrantes y personas de la comunidad LGTBIQ+.</p>
 
 <p align="right"> <i>Erika McAslan Fraser, directora técnica del Ending Violence against Women and Children Helpdesk</i></p>
 
+- -
+
+
 La lucha de las organizaciones latinoamericanas para combatir la violencia de género es una historia heroica. Este libro es un magnífico resumen de los esfuerzos de base y es clave para entender cómo convertir los ideales de igualdad en políticas y acción. Una excelente lectura que permite conocer las dificultades, pasiones y experiencias de miles de activistas en América Latina. Sin importar donde vivas, estudies o ejerzas tu profesión, muchos de estos retos también resonarán con los tuyos.
 
-_Pamela Zaballa, directora general de NO MORE_
+<span style="color:blue"><p align="right"><I><small>Pamela Zaballa, directora general de NO MORE</i></small></p></span>
 
 - - -
 
