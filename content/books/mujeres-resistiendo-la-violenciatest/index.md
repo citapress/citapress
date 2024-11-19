@@ -769,9 +769,9 @@ Durante las movilizaciones masivas a favor del aborto entre 2018 y 2020 en Argen
 
 Gago explica cómo a lo largo de este proceso se superaron las diferencias entre las mujeres por medio de una práctica de escucha. Por ejemplo, gracias al debate colectivo entre diferentes grupos de activistas, quedó claro que las mujeres que trabajaban en bancos de alimentos y comedores comunitarios no estaban dispuestas a dejar de suministrar alimentos durante la huelga; no querían dejar a las personas necesitadas sin su comida diaria. Juntas, las mujeres llegaron a un compromiso: coordinarían las entregas diarias de alimentos y proporcionarían acceso a las cocinas, pero no cocinarían ellas, en su lugar dejarían la tarea a otras personas de la comunidad. Como tal, el movimiento feminista en Argentina encontró una manera poderosa de movilizar a un gran número de mujeres y sus aliados, ocupar un espacio (territorio) político y real, contribuir al cambio social y proporcionar ideas intelectuales valiosas. El poder de la movilización feminista está potencialmente «cambiándolo todo», sostiene Gago.
 
-<a id="t.67d163d18ec40e488a3c85040639a9077c3f872d"></a><a id="t.11"></a>
 
 <div class="recuadro"> 
+
 **Recuadro 3.3: Entrevista con Verónica Gago, activista argentina de #NiUnaMenos y autora de La potencia feminista. O el deseo de cambiarlo todo (2019)**
 
 Sobre el cuerpo-territorio: 
@@ -860,13 +860,12 @@ Cabe señalar que en la vida cotidiana de las mujeres en los territorios afectad
 
 El deber de protección de la Madre Tierra y de todos sus elementos (aire, agua, vida) así como del nexo cuerpo-territorio es parte de un paradigma político-filosófico que en Ecuador y Bolivia ha sido politizado e incorporado en el ámbito macropolítico, que forma parte de la Constitución de esos países, bajo el nombre de *sumak kawsay* o *buen vivir*. De igual manera, el *sumak kawsay* ha sido utilizado como paradigma de transformación social y cultural por pueblos indígenas, comunidades rurales, movimientos sociales y de mujeres \[ver recuadro 4.1].
 
-<a id="t.3ef671c10e55340c2b1e1a659282a1fa3a2d3b63"></a><a id="t.12"></a>
-
 <div class="recuadro"> 
+
 **Recuadro 4.1: <i>Sumak kawsay</i>/buen vivir**
 
-<p align="right"><i><small>Para mí, cuidar los territorios está asociado con cuidar la naturaleza y el medioambiente... pero, sobre todo, es cuidar el bien común... cuidar nuestro buen vivir. </i></small><br>
-Viviana Catrileo, Anamuri, Chile.</p>
+<p align="right"><i><small>Para mí, cuidar los territorios está asociado con cuidar la naturaleza y el medioambiente... pero, sobre todo, es cuidar el bien común... cuidar nuestro buen vivir. </i><br>
+Viviana Catrileo, Anamuri, Chile.</p></small>
 
 El <i>sumak kawsay</i> es una filosofía indígena del pueblo Kichwa que postula una convivencia armoniosa entre los seres humanos y la naturaleza. El buen vivir posiciona los derechos de los seres humanos y de la Madre Tierra en un plano de equidad epistemológica. Esto quiere decir que el daño que se le hace a los seres humanos es daño hecho a la naturaleza. La cosmovisión articulada en la filosofía del buen vivir de la región andina también está presente en otros territorios indígenas de la región como Chile, Paraguay, Brasil y otros países del continente.
 
