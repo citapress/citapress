@@ -269,25 +269,25 @@ Ante la falta de acción por parte de las autoridades, además de la criminaliza
 
 Las estrategias y los marcos de resistencia de las organizaciones y los movimientos de mujeres en América Latina pueden resumirse de la siguiente manera:
 
-<h3 class="c106 c66">La creación de observatorios y mapas de feminicidios</h3>
+<h4><i>La creación de observatorios y mapas de feminicidios</h4></i>
 
 Las organizaciones de mujeres están llevando a cabo investigaciones y monitoreando el fenómeno de los feminicidios: recopilando datos para visibilizar los delitos, creando conciencia pública, y abogando para que el Estado también actúe para prevenir y castigar los delitos violentos contra las mujeres en espacios privados y públicos. Sus estrategias de resistencia incluyen demandar la rendición de cuentas del Estado y exigir que los políticos y legislativos asuman una mayor responsabilidad en la protección de las mujeres y las niñas y en la prevención de la VCMN.
 
 <p class="c1">Entre las activistas feministas latinoamericanas que han cartografiado la violencia de género y los feminicidios en específico, se encuentran María Salguero en México, Ivonne Ramírez en Ciudad Juárez, México, donde las tasas de feminicidio son especialmente elevadas, y Helena Suárez Val en Uruguay, así como el Colectivo de Geografía Crítica en Ecuador.<sup class="c16 c10"><a href="#ftnt13" id="ftnt_ref13">\[13\]</a></sup></p>
 
-<h3 class="c106 c66">Movilizaciones para denunciar, prevenir y castigar la VCMN interseccional de género</h3>
+<h4><i>Movilizaciones para denunciar, prevenir y castigar la VCMN interseccional de género</h4></i>
 
 **Divulgación:** el nivel de explotación y discriminación de las mujeres en los espacios públicos y privados es ahora más conocido gracias a los denodados esfuerzos de las organizaciones feministas y de mujeres, que han documentado, divulgado y generado conciencia acerca de las formas de violencia cotidianas que sufren en sus hogares, comunidades y en la sociedad en general. Su lucha también ha sacado a la luz las formas económicas de la VCMN que a menudo se pasan por alto en los documentos políticos oficiales. Esto incluye el no poder decidir sobre el uso de los ingresos que generan y aportan las propias mujeres y, a un nivel más amplio, el ser desposeídas del derecho a sus cuerpos, a sus territorios y a sus medios de vida por la violencia estructural que genera el acaparamiento de tierras.
 
 **Prevención y castigo:** los actos de resistencia y las campañas para transformar las estructuras de poder y eliminar los estereotipos de género incluyen: trabajar con los jóvenes y los responsables políticos con capacidades decisorias (incluyendo los agentes estatales) para cambiar actitudes y comportamientos; actividades de sensibilización con hombres y mujeres que responden a su diversidad; reforzar la aplicación de políticas sensibles al género y la interseccionalidad y la aplicación de la ley; impulsar una política rigurosa de prevención de la VCMN y de castigo a sus culpables, con fin de que haya una cero tolerancia hacia esta.
 
-<h3 class="c106 c66">Campañas de protección contra la VCMN y la impartición de justicia a las sobrevivientes</h3>
+<h4><i>Campañas de protección contra la VCMN y la impartición de justicia a las sobrevivientes</h4></i>
 
 **Protección:** las acciones para apoyar a las mujeres sobrevivientes de la violencia incluyen la educación e información sobre derechos (alfabetización jurídica); la formación (profesionalización/educación) de la policía, la judicatura, las autoridades locales y los profesionales de los servicios de salud; y asesoramiento jurídico y apoyo a las víctimas de delitos violentos cuando pasan por procesos judiciales. Las estrategias para garantizar la protección de las víctimas de la VCMN incluyen actividades que promueven la aplicación de políticas y el cumplimiento de la legislación ya vigente.
 
 **Prestación:** las estrategias de resistencia incluyen la creación de refugios y de actividades generadoras de ingresos, así como organizar acciones para exigirles a los gobiernos y a las autoridades locales y regionales que proporcionen servicios dignos y adaptados a las mujeres para empoderarlas y ayudarlas a que sobrevivan y a que se defiendan, además de mejorar la provisión y entrega de estos servicios.
 
-<h3 class="c66 c106">La resiliencia y estrategias de afrontamiento</h3>
+<h4><i>La resiliencia y estrategias de afrontamiento</h4></i>
 Una dimensión importante de la resiliencia es que, en circunstancias críticas, la habilidad de las mujeres para resistir proviene de sus experiencias vividas de la violencia y muchas veces se forja colectivamente. Las mujeres de base han estado tejiendo conocimiento empírico y acciones colectivas para superar la criminalización, la estigmatización, las amenazas, la desesperación y otros desafíos –a menudo en situaciones muy peligrosas–. Cuando ha habido asesinatos de defensoras de derechos humanos, como en los casos de Berta Cáceres y Marielle Franco [ver el </span><a class="c11" href="#h.2koq656">capítulo 4</a> y el <a class="c11" href="https://www.google.com/url?q=http://intentaron%23_CAP%25C3%258DTULO_1_&amp;sa=D&amp;source=editors&amp;ust=1718062666778178&amp;usg=AOvVaw3S9ee9dNe75_tW1k8YvE-a">capítulo 1</a><span class="c2">\], otras mujeres han seguido forjando los caminos de sabiduría emancipadora que no terminaron sus compañeras.
 
 Las mujeres han creado propuestas colectivas para contrarrestar las limitaciones, las amenazas y los retos a los que se enfrentan diariamente, por ejemplo, por medio de grupos fde autoayuda, cursos de autodefensa y consejería psicológica. Los grupos de WhatsApp sirven para informar a sus compañeras de posibles peligros y facilitar la ayuda para mujeres que no pueden garantizar su propia seguridad alimentaria o la de sus familias, además de que ayudan a que las mujeres no se sientan solas con sus problemas. Las estrategias de afrontamiento también incluyen la autocuración y la curación colectiva (mental o física), así como mantener una actitud positiva y motivar a las demás para que sigan adelante, organizadas y enfocadas cuando las cosas salen mal. Para las mujeres indígenas, afrodescendientes y quilombolas</span><sup class="c16 c10"><a href="#ftnt14" id="ftnt_ref14">\[14]</a></sup><span class="c2"> que luchan desde abajo, es fundamental recuperar conocimientos y epistemologías históricamente descartados. Otras crean comunidades político-emocionales para poder soportar la violencia íntima, estatal e institucional, compartiendo testimonios personales y generando vínculos emocionales que luego pueden reconfigurarse y convertirse en acción política (Jimeno, 2010; MacLeod y De Marini, 2019). 
@@ -590,11 +590,11 @@ Para este, pidieron al público que usara guantes de goma verdes en apoyo de su 
 
 <h3>De lo local a lo global: influenciando la política internacional</h3>
 La aprobación del C189 de la OIT «Convenio sobre las trabajadoras y los trabajadores domésticos» en 2011 llevó al reconocimiento mundial de que las trabajadoras del hogar tienen derechos laborales y ha empoderado a sus organizaciones, así como a sus sindicatos para levantarse y denunciar las violaciones laborales. El convenio exige que los Estados miembro tomen medidas para garantizar que las mujeres trabajadoras domésticas disfruten de protección contra todas las formas de abuso, acoso y violencia y exige el establecimiento de mecanismos para protegerlas y garantizar que todas las quejas sean investigadas y procesadas adecuadamente. Es un instrumento para apoyar las luchas de las organizaciones de trabajadoras del hogar que abogan ante sus gobiernos nacionales por los derechos laborales de su sector.
-
+<br>
 
 <div class="recuadro"> 
 
-*Recuadro 2.2: El C189 de la OIT «Convenio sobre las trabajadoras y los trabajadores domésticos»*
+**Recuadro 2.2: El C189 de la OIT «Convenio sobre las trabajadoras y los trabajadores domésticos»**
 
 El C189 de la OIT reconoce que el trabajo doméstico sigue siendo infravalorado e invisible, y que lo realizan principalmente mujeres y niñas de comunidades migrantes y desfavorecidas, quienes como tales son vulnerables a la discriminación en el empleo y otros abusos de los derechos humanos. Hay dos artículos en el convenio que se refieren específicamente a la violencia y la explotación laboral:
 
