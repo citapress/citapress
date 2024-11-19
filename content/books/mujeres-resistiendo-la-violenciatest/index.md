@@ -687,7 +687,7 @@ Si bien es evidente que aún queda mucho por hacer para que todas las mujeres y 
 
 <div class="recuadro"> 
 
-** Recuadro 3.1: La lucha por los derechos reproductivos en El Salvador **
+**Recuadro 3.1: La lucha por los derechos reproductivos en El Salvador**
 
 <i>Marilyn Thomson</i>
 
