@@ -69,14 +69,16 @@ published: false
 
 Los alarmantes índices de violencia contra las mujeres en América Latina pueden ser abrumadores y desesperanzadores. No obstante, al resaltar estrategias y acciones concretas y eficaces –lideradas por quienes son las más afectadas por esta violencia–, el libro _Mujeres resistiendo la violencia_ desempeña un papel fundamental en la búsqueda de soluciones. Este es un valioso recurso para activistas, periodistas e investigadoras, y un poderoso registro de resistencia popular.
 
-<span style="color:blue"><p align="right"><I><small><font color="blue">Silvia Viñas, productora ejecutiva y copresentadora del podcast</i> El hilo <i>de Radio Ambulante Estudios y VICE News</i></small></font></p></span>
+<p align="right"><I><small><font color="blue">Silvia Viñas, productora ejecutiva y copresentadora del podcast</i> El hilo <i>de Radio Ambulante Estudios y VICE News</i></small></font></p>
 
-
+<br>
+<br>
 
 <p class="c79">Latinoamérica es el continente con mayores índices de violencia contra las mujeres y las niñas, pero, a su vez, con una tremenda potencia para resistencias múltiples. Este libro demuestra una vez más la importancia de los lazos de sororidad entre feministas de la academia e indígenas feministas que proponen creativas formas de resistencia y teorización desde el sur. Como dice la canción: <i>nos sembraron miedo, nos crecieron alas…</p>
 <p class="c66 c111"><p align="right"><font color="blue"><small>Rocío Silva Santisteban, poeta peruana, activista feminista, académica y excongresista</i></font></small></p>
 
-
+<br>
+<br>
 
 «El Estado no me cuida, me cuidan mis amigas». Este libro muestra de forma muy completa cómo se lleva a la práctica esta consigna coreada por las mujeres latinoamericanas en las protestas de todo el continente. Desde las zonas rurales a las ciudades, en sus hogares o espacios íntimos e incluso por medio de sus propios cuerpos, vemos cómo las mujeres desatendidas por el Estado se unen para protegerse mutuamente de distintos tipos de violencias interseccionales de género.
 
@@ -86,14 +88,16 @@ Todas deberíamos leer este libro para recordar lo fuerte que es el enemigo y un
 
 <p class="c111 c66"><p align="right"><i><font color="blue"><small>Catalina May,</i> Las Raras<i> podcast</i></font></small></p>
 
-
+<br>
+<br>
 
 Este libro altamente accesible se ocupa de uno de los problemas más importantes de América Latina en la actualidad y el futuro: la violencia contra las mujeres y las niñas. Su singularidad radica en poner en el centro la resistencia de las mujeres a la violencia, en lugar de las mujeres como víctimas de esta, en un contexto en el que la diversidad es clave, haciendo hincapié en las dimensiones interseccionales de las experiencias de las mujeres. El texto va acompañado de recuadros, ilustraciones y enlaces que enriquecen la lectura. <i>Mujeres resistiendo la violencia </i>es un texto fundamental tanto para tomadores de decisiones políticas, como para investigadores y estudiantes.
 
 <p class="c111 c66"><p align="right"><i><font color="blue"><small>Caroline Moser, profesora emérita de la Universidad de Manchester y profesora honoraria de la University College de Londres</i></font></small></p>
 
 
-
+<br>
+<br>
 <p class="c79"><i>Mujeres resistiendo la violencia</i> es una exploración única de las diferentes formas en que las mujeres se enfrentan a la violencia de género. El libro revisa una poderosa combinación de diferentes estrategias de resistencia en diversos contextos. Proporciona una excelente mirada del género y la interseccionalidad, incluyendo un análisis del impacto de la violencia contra las mujeres y las niñas en todas sus diversidades e impresionantes ejemplos en los que las diferentes formas de esta violencia tienen un impacto desproporcional sobre las mujeres indígenas, afrodescendientes, provenientes de zonas rurales o urbanas, migrantes y personas de la comunidad LGTBIQ+.</p>
 
 <p align="right"><font color="blue"> <I><small>Erika McAslan Fraser, directora técnica del Ending Violence against Women and Children Helpdesk</i></font></small></p>
