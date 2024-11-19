@@ -447,7 +447,7 @@ En Maré ocurrieron procesos similares. El primero fue una campaña de base diri
 <p class="c66 c47 c79" id="h.37m2jsg">La segunda iniciativa liderada por mujeres fue la Rede de Apoio às Mulheres da Maré (RAMM) \[Red de Apoyo a las Mujeres de Maré\] que inició en mayo de 2020 por la organización Luta Pela Paz \[Lucha por la Paz\] para tratar el aumento de la violencia doméstica durante las medidas de confinamiento en los hogares superpoblados de Maré. RAMM se dio cuenta de que, con una mejor coordinación, los profesionales en diferentes áreas de atención podrían unificarse con el fin de construir estrategias conjuntas que vincularan los ámbitos de las políticas públicas, las organizaciones de la sociedad civil locales y los investigadores académicos. La primera acción de RAMM fue construir un «flujo de trabajo integrado» para 40 instituciones colaboradoras que apoyaban a las mujeres en Maré. El flujo de trabajo se creó por medio de un proceso participativo que incluyó servicios de mapeo, políticas y reuniones con representantes en torno a la solidaridad, y tomando nota de la urgente necesidad de abordar la violencia doméstica. Una vez completado, el flujo de trabajo se difundió por medio de eventos públicos y de estrategias en línea. Hubo una clara transición desde las respuestas reactivas iniciales de la campaña a actividades más estratégicas, cuando RAMM comenzó no solo a proporcionar información de servicio, sino también a ofrecer capacitación para trabajadores sociales e integrantes de la comunidad que asisten a mujeres sobrevivientes de la violencia de género. El programa «Desarrollo de capacidades en la asistencia a las mujeres en Maré» surgió a principios de 2021 y tenía como objetivo gestionar estrategias a más largo plazo para abordar la violencia urbana de género interseccional en Maré.</p>
 
 <p class="c79 c66 c47">Frente a la violencia urbana de género endémica, estos procesos son graduales y a menudo fragmentados, sin embargo, una potencia feminista surgió de la crisis, y se ha utilizado para mejorar la vida de las mujeres en Maré y en otros lugares \[ver el recuadro 1.3 sobre las comunidades emocionales-políticas\].</p>
-<a id="t.eb0fd8c7550fbac3496df5a8971b16a146866de5"></a><a id="t.5"></a>
+
 
 <div class="recuadro"> 
 
@@ -590,8 +590,10 @@ Para este, pidieron al público que usara guantes de goma verdes en apoyo de su 
 
 <h3>De lo local a lo global: influenciando la política internacional</h3>
 La aprobación del C189 de la OIT «Convenio sobre las trabajadoras y los trabajadores domésticos» en 2011 llevó al reconocimiento mundial de que las trabajadoras del hogar tienen derechos laborales y ha empoderado a sus organizaciones, así como a sus sindicatos para levantarse y denunciar las violaciones laborales. El convenio exige que los Estados miembro tomen medidas para garantizar que las mujeres trabajadoras domésticas disfruten de protección contra todas las formas de abuso, acoso y violencia y exige el establecimiento de mecanismos para protegerlas y garantizar que todas las quejas sean investigadas y procesadas adecuadamente. Es un instrumento para apoyar las luchas de las organizaciones de trabajadoras del hogar que abogan ante sus gobiernos nacionales por los derechos laborales de su sector.
-<a id="h.3vac5uf"></a>
+
+
 <div class="recuadro"> 
+
 *Recuadro 2.2: El C189 de la OIT «Convenio sobre las trabajadoras y los trabajadores domésticos»*
 
 El C189 de la OIT reconoce que el trabajo doméstico sigue siendo infravalorado e invisible, y que lo realizan principalmente mujeres y niñas de comunidades migrantes y desfavorecidas, quienes como tales son vulnerables a la discriminación en el empleo y otros abusos de los derechos humanos. Hay dos artículos en el convenio que se refieren específicamente a la violencia y la explotación laboral:
@@ -907,9 +909,10 @@ Sin embargo, el activismo de las mujeres contra la violencia medioambiental corr
 
 Al igual que otras activistas medioambientales, en su lucha contra las violencias estatales y corporativas, Berta se enfrentó a diario a la violencia de género, al acoso, a amenazas de muerte y a la criminalización de su lucha, y fue finalmente asesinada. Su muerte marcó un punto final en el continuum de violencia a la que se siguen enfrentando miles de mujeres lideresas en sus respectivos territorios \[ver el recuadro 4.2].
 
-<a id="t.77c11001b84d5d5477e94fb43171a88a16ca325c"></a><a id="t.13"></a>
+
 
 <div class="recuadro"> 
+
 **Recuadro 4.2: Berta Cáceres**
 
 Berta Cáceres fue una destacada líder indígena y tenaz defensora medioambiental. En 2015 fue galardonada con el Premio Goldman de Medioambiente, por su lucha en defensa del territorio y de los derechos del pueblo Lenca en Honduras. En 1993 cofundó el Consejo Cívico de Organizaciones Populares e Indígenas de Honduras (COPINH), liderando campañas contra proyectos de represas que estaban privando a las comunidades indígenas del acceso al agua y a la alimentación. Las estrategias de lucha de Berta y del COPINH incluían presentación de quejas ante las autoridades gubernamentales, la participación de representantes de las comunidades locales a reuniones en Tegucigalpa, capital de Honduras, organización de asambleas locales en las que los miembros de las comunidades podían votar en contra de los proyectos que les estaban afectando negativamente, y organización de protestas pacíficas. Berta también estableció contactos con la comunidad internacional y consiguió llevar casos ante tribunales internacionales. 
@@ -964,11 +967,12 @@ La Recomendación n.° 34 (CEDAW, 2016) insta a los Estados miembro a
 
 Pese a todas las recomendaciones del CEDAW, muchos países en la región no han cumplido con sus obligaciones relacionadas con la distribución equitativa de tierras. Por el contrario, han privilegiado las grandes adquisiciones de tierras por las empresas. En Brasil, por ejemplo, el Gobierno no ha respetado su obligación de restituir las tierras ancestrales a las comunidades indígenas y afrodescendientes, incluidas las comunidades quilombolas.<sup class="c10 c83 c58 c9 c146"><a href="#ftnt38" id="ftnt_ref38">\[38]</a></sup> En Colombia, el Gobierno no ha cumplido con la entrega de tierras a personas afectadas por el conflicto armado. Como se ha demostrado en este capítulo, las respuestas y los mecanismos gubernamentales para prevenir y castigar la violencia contra las mujeres defensoras de los derechos humanos han sido débiles, en particular en lo que se refiere a la protección de aquellas defensoras que trabajan en el ámbito rural en temas relacionados con la tierra y los recursos naturales. 
 
-Un marco normativo esencial en el debate sobre acaparamiento de tierras, violencia de género extractivista y derechos humanos fundamentales es el Convenio n.° 169 de la ONU sobre pueblos indígenas y tribales \[ver recuadro 4.3].
+Un marco normativo esencial en el debate sobre acaparamiento de tierras, violencia de género extractivista y derechos humanos fundamentales es el Convenio n.° 169 de la ONU sobre pueblos indígenas y tribales \[ver recuadro 4.3\].
 
-<a id="t.56bde89a6fd5396487ff079da69551f85b3c6240"></a><a id="t.14"></a>
+
 
 <div class="recuadro"> 
+
 **Recuadro 4.3: Convenio n.° 169 de la OIT: «Hacia un futuro inclusivo, sostenible y justo»**
 
 Este convenio estipula que cualquier recurso natural que vaya a ser extraído de tierras y territorios indígenas (sean de su propiedad o reivindicados) debe someterse, en primer lugar, a un genuino proceso de consulta libre, previo e informado con las comunidades afectadas. El principio que impulsa el Convenio 169 de la OIT es que la consulta debe realizarse en el marco de un proceso de diálogo con las comunidades y de manera anticipada e inclusiva para obtener el «consentimiento libre, previo e informado» de los pueblos indígenas afectados. Este principio fue también incorporado en 2007 a la «Declaración de las Naciones Unidas sobre los derechos de los pueblos indígenas». 
@@ -1191,7 +1195,7 @@ Además de proporcionar una comunidad de apoyo culturalmente sensible y sin prej
 
 Las instituciones de atención a mujeres en situación de violencia suelen destacar los casos de éxito de mujeres migrantes que han logrado romper con relaciones violentas, lo que pone de relieve que su intervención puede ser crucial para encaminar a las mujeres hacia el acceso a los servicios obligatorios esenciales y al sistema de justicia penal. Pero quizás se reconoce menos que las organizaciones también apoyan a las mujeres migrantes en dimensiones más afectivas, dando lugar a menudo a redes de apoyo entre pares y reforzando vías de autocuidado y autodeterminación. Como se mencionó en los casos de Sin Fronteras y de WARMI, en líneas anteriores, las mujeres migrantes latinoamericanas han estado a la vanguardia del desarrollo de iniciativas artísticas como terapia entre las sobrevivientes de violencia de género. Además, algunas artistas latinoamericanas también han desempeñado un papel a la hora de concientizar y poner de relieve la difícil situación de las sobrevivientes, especialmente a la luz del tabú que sigue existiendo en torno a muchos aspectos de la violencia de género interseccional. 
 
-Un ejemplo de esto último es el trabajo reciente de Gaël Le Cornec una dramaturga y cineasta brasileña, con quien colaboré en la creación de la obra de teatro verbatim </span>Efêmera, basada en una investigación sobre la violencia de género realizada con mujeres migrantes brasileñas en Londres (McIlwaine &amp; Evans, 2018). Efêmera no fue una iniciativa participativa o terapéutica, sino que refleja las interpretaciones de Gaël sobre la vida de las mujeres migrantes brasileñas en Londres, desarrolladas en una narración dramática para poner de relieve sus experiencias, generar conciencia y romper tabúes. De hecho, ante la necesidad de compartir la historia de Efêmera más allá del teatro, se realizó un video titulado Raising awareness on violence against Brazilian women in London \[Sensibilización sobre la violencia contra las mujeres y las niñas brasileñas en Londres] (People’s Palace Projects, 2018).<sup class="c16 c10"><a href="#ftnt47" id="ftnt_ref47">\[47]</a></sup> A ello se sumó la creación de un cortometraje titulado Ana dirigido por Gaël Le Cornec (2019), como versión reducida de Efêmera, que se proyectó en el Davis Feminist Film Festival de Estados Unidos; el Vox Feminae Festival de Croacia; el Wow Festival de Jordania, Marruecos y Túnez; el Kautik Festival de la India; y fue finalista en el festival NYC Directed by Women de Estados Unidos.<sup class="c16 c10"><a href="#ftnt48" id="ftnt_ref48">\[48]</a></sup><span class="c2"> Gaël señala que todas estas actividades son formas de activismo: «¿El activismo tiene el poder de cambiar el futuro, verdad?… Para mí, como artista, mi trabajo consiste siempre en crear conciencia. El arte puede presionar para que se produzca el cambio y apoyar la transformación» \[ver el recuadro 5.3].
+Un ejemplo de esto último es el trabajo reciente de Gaël Le Cornec una dramaturga y cineasta brasileña, con quien colaboré en la creación de la obra de teatro verbatim </span>Efêmera, basada en una investigación sobre la violencia de género realizada con mujeres migrantes brasileñas en Londres (McIlwaine &amp; Evans, 2018). Efêmera no fue una iniciativa participativa o terapéutica, sino que refleja las interpretaciones de Gaël sobre la vida de las mujeres migrantes brasileñas en Londres, desarrolladas en una narración dramática para poner de relieve sus experiencias, generar conciencia y romper tabúes. De hecho, ante la necesidad de compartir la historia de Efêmera más allá del teatro, se realizó un video titulado Raising awareness on violence against Brazilian women in London \[Sensibilización sobre la violencia contra las mujeres y las niñas brasileñas en Londres] (People’s Palace Projects, 2018).<sup class="c16 c10"><a href="#ftnt47" id="ftnt_ref47">\[47]</a></sup> A ello se sumó la creación de un cortometraje titulado Ana dirigido por Gaël Le Cornec (2019), como versión reducida de Efêmera, que se proyectó en el Davis Feminist Film Festival de Estados Unidos; el Vox Feminae Festival de Croacia; el Wow Festival de Jordania, Marruecos y Túnez; el Kautik Festival de la India; y fue finalista en el festival NYC Directed by Women de Estados Unidos.<sup class="c16 c10"><a href="#ftnt48" id="ftnt_ref48">\[48]</a></sup><span class="c2"> Gaël señala que todas estas actividades son formas de activismo: «¿El activismo tiene el poder de cambiar el futuro, verdad?… Para mí, como artista, mi trabajo consiste siempre en crear conciencia. El arte puede presionar para que se produzca el cambio y apoyar la transformación» \[ver el recuadro 5.3\].
 
 
 <div class="recuadro"> 
@@ -1266,10 +1270,10 @@ Las Madres de la Plaza de Mayo y las madres peruanas de Anfasep han resistido en
 
 La exclusión de las voces de las mujeres en gran parte del trabajo conmemorativo oficial ‒las comisiones de la verdad y la reconciliación, los museos de la memoria, las prácticas de denominación de espacios públicos para conmemorar a los héroes de la guerra‒ empuja a las mujeres al activismo para levantar la voz.
 
-<a id="t.d7d7a9bdae7c13d51f8bacac00531986d10541a3"></a><a id="t.19"></a>
 
 <div class="recuadro"> 
-** Recuadro 6.1: El caso Sepur Zarco: la esclavitud sexual a juicio **
+
+**Recuadro 6.1: El caso Sepur Zarco: la esclavitud sexual a juicio**
 
 En 2016 se celebró en Guatemala un juicio pionero, el primero de este tipo en América Latina. Después de dos semanas en el Tribunal de Mayor Riesgo de Guatemala, creado especialmente para tratar casos de alto perfil que requieren medidas de seguridad adicionales debido a los niveles de violencia e intimidación que persisten en el Estado, dos exmilitares fueron condenados por esclavitud sexual y doméstica.
 
@@ -1303,9 +1307,9 @@ El arte feminista contemporáneo a menudo sitúa la memoria en su centro, como i
 
 <p class="c15" id="h.44bvf6o"><center><i><b>Figura 6.1: Independencia de Buscando a María Elena, 2011. Crédito: Natalia Iguiñiz. </b></i></p></center>
 
-<a id="t.bf9db6f1b7503830a00a72a379a52b0cb4ff8098"></a><a id="t.20"></a>
 
 <div class="recuadro"> 
+
 **Recuadro 6.2: Vida y obra de María Elena Moyano**
 
 María Elena Moyano fue una mujer afroperuana de clase trabajadora, organizadora política en Izquierda Unida y dirigente de las organizaciones de mujeres de su distrito. En los últimos años de su vida, fue elegida teniente alcaldesa de Villa El Salvador, un barrio autoconstruido en el desierto sur de Lima. Moyano movilizó a las mujeres de Villa para resistir la violencia del Estado, de Sendero Luminoso y de sus propios maridos y novios. Creó comedores comunitarios para alimentar a los necesitados y compartir la carga de los cuidados, presionó al gobierno local para conseguir alimentos y apoyo, y estableció alianzas con feministas de clase media. También era claramente un blanco, y en su última visita a Villa, mientras planeaba su huida a España, fue tiroteada y dinamitada delante de la comunidad y en presencia de sus hijos. El efecto político inmediato de su asesinato fue un cierto contagio del miedo y un debilitamiento del movimiento feminista en todo el país, pero pronto se convirtió en una mártir de la resistencia. Sin embargo, cuando la cúpula de Sendero Luminoso fue capturada ese mismo año, 1992, la memoria de Moyano fue cooptada.
@@ -1322,9 +1326,10 @@ Natalia Iguiñiz, artista visual afincada en Lima, estudió el archivo de su mad
 
 El cruce entre arte y activismo suele denominarse </span>artivismo. <span class="c2">Los artistas y las artistas que utilizan explícitamente su arte con fines políticos, como es el caso de gran parte de la obra de Iguiñiz, suelen participar también en movilizaciones sociales más amplias. Para aquellos temas y cuestiones que no se tienen en cuenta en las agendas políticas dominantes ‒como los derechos de la mujer y las formas particulares de violencia política, incluido el acoso a los defensores y las defensoras de los derechos humanos en todo el continente‒, las formas creativas de activismo son imprescindibles. Las artes, como el teatro, las artes visuales, la música, la poesía y la danza suelen llegar a públicos mucho más amplios y diferenciados que una marcha callejera. El arte es también una salida particularmente poderosa para expresar traumas históricos que de otro modo serían difíciles de abarcar, en particular aquellos traumas que tienden a ser borrados de las prácticas conmemorativas formales. Así, en el caso del activismo feminista en América Latina, el trauma colectivo de la violación de los derechos humanos básicos y la violencia continua contra las mujeres y la comunidad LGTBIQ+ en los hogares, los espacios públicos y las instituciones se moviliza cada vez más en poderosas manifestaciones de arte y activismo.
 
-<a id="t.7e2b573674f1d1a6c3781cc39d88172a6a425d2a"></a><a id="t.21"></a>
+
 
 <div class="recuadro"> 
+
 **Recuadro 6.3: Regina José Galindo**
 
 Regina José Galindo, nacida en 1974, es una artista de <i>performance</i> y poeta de la Ciudad de Guatemala. Regina aprovecha el poder emotivo del arte para cuestionar historias de violencia estatal e impunidad y hablar en nombre de quienes han sido afectados. Su obra a menudo sitúa simbólicamente su cuerpo en oposición directa al poder y bajo coacción física.
