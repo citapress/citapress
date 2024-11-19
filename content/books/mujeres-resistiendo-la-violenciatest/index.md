@@ -1242,7 +1242,7 @@ Estas organizaciones no solo prestan servicios de apoyo a las mujeres para que s
 
 ## CAPÍTULO 6
 
-<br><span>«No pueden borrar nuestra memoria»: la conmemoración, la violencia y las artes</span><sup class="c58"><a href="#ftnt51" id="ftnt_ref51">\[51]</a></sup><span><br></span>Jelke Boesten y Louise Morris<br>Traducido por Javiera Menchaca Pardow
+<br><h3>«No pueden borrar nuestra memoria»: la conmemoración, la violencia y las artes</h3></span><sup class="c58"><a href="#ftnt51" id="ftnt_ref51">\[51\]</a></sup><span><i><br></span>Jelke Boesten y Louise Morris<br>Traducido por Javiera Menchaca Pardow</i>
 
 En un extenso cementerio de las afueras de Ciudad de Guatemala, Vianney Hernández, una mujer menuda de rostro ajado, se dirige con paso decidido hacia una tumba. Ha tardado horas en llegar, pagando tarifas de autobús que rara vez puede permitirse. Se arrodilla y hace una promesa a su hija Ashly Angelie Rodríguez Hernández, enterrada allí con tan solo 14 años: «Tú... tú... mi niña, me conoces bien y nunca dejaré de exigir justicia para ti».
 
@@ -1269,7 +1269,7 @@ La exclusión de las voces de las mujeres en gran parte del trabajo conmemorativ
 <a id="t.d7d7a9bdae7c13d51f8bacac00531986d10541a3"></a><a id="t.19"></a>
 
 <div class="recuadro"> 
-**Recuadro 6.1: El caso Sepur Zarco: la esclavitud sexual a juicio**
+** Recuadro 6.1: El caso Sepur Zarco: la esclavitud sexual a juicio **
 
 En 2016 se celebró en Guatemala un juicio pionero, el primero de este tipo en América Latina. Después de dos semanas en el Tribunal de Mayor Riesgo de Guatemala, creado especialmente para tratar casos de alto perfil que requieren medidas de seguridad adicionales debido a los niveles de violencia e intimidación que persisten en el Estado, dos exmilitares fueron condenados por esclavitud sexual y doméstica.
 
