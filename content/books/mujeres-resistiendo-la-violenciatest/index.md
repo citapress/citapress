@@ -459,7 +459,7 @@ Estas <i>comunidades emocionales-políticas</i> se construyeron en Maré durante
 
 Por lo tanto, las iniciativas dirigidas por mujeres pueden ayudar a otras mujeres a lidiar con las severas cargas que representa su rol como cuidadoras y como proveedoras de los medios de subsistencia, lo que gradualmente conduce a más iniciativas para fomentar la autonomía y evitar la violencia de género, especialmente para las mujeres negras. Michele Gandra, del proyecto de cocina cooperativa en Casa das Mulheres, habló sobre su trayectoria personal de desarrollo de conciencia social y de género después de unirse:
 
->No cambiamos de afuera hacia adentro; cambiamos de adentro hacia afuera. La semilla que yo siembro aquí en mi casa espero que se multiplique, entre mis vecinos, entre mi comunidad. Así es como tratamos de cambiar. Cambiar para mejorar.
+> No cambiamos de afuera hacia adentro; cambiamos de adentro hacia afuera. La semilla que yo siembro aquí en mi casa espero que se multiplique, entre mis vecinos, entre mi comunidad. Así es como tratamos de cambiar. Cambiar para mejorar.
 
 <small>Fuente: McIlwaine et al. (2022b).</small>
 
