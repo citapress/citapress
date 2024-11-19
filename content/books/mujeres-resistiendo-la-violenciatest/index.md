@@ -1097,9 +1097,10 @@ Por lo tanto, el proceso migratorio es intrínsecamente violento, y la violencia
 
 > Fui profesora de oficios en la Iglesia católica en la Conferencia Episcopal Ecuatoriana. No me emigré por razones económicas, sino porque mi esposo me estaba tratando muy mal; física y mentalmente, necesitaba irme, así que decidí huir a Europa. (McIlwaine &amp; Bunge, 2016)
 
-<a id="t.dc2a936460bdb9723b09a06e5537f97aaa8a9af2"></a><a id="t.15"></a>
+
 
 <div class="recuadro"> 
+
 **Recuadro 5.1: De indocumentada a sin techo y a activista: el caso de Gilmara**
 
 En 2016, Gil, como todo el mundo la llama, vivió la pesadilla de la hostilidad de las instituciones británicas hacia los migrantes. Empezó cuando emigró de Brasil a Reino Unido con una pareja británica, entrando primero como turista, bajo la premisa de que le resolverían el visado tras su llegada. Llegó con su hija de nueve años, fruto de una relación anterior, y con el hijo menor de ella y su pareja. La pareja de Gil, que la controlaba, permitió activamente que su visado original caducara y se quedara indocumentada. Esto hizo que se intensificaran los malos tratos, ya que su pareja la amenazó con denunciarla a la policía o a las autoridades de inmigración y amenazó con quitarle la custodia de sus hijos. Además, Gil se vio aún más obstaculizada por el hecho de que no estaba familiarizada con la ley en el Reino Unido y todavía estaba aprendiendo inglés.
@@ -1161,7 +1162,6 @@ En particular, las mujeres jóvenes están muy interesadas en actividades de art
 
 Otro ejemplo es la colectiva feminista Women Activist Revolutionary Migrant Intersectional (WARMI) \[Mujeres Activistas Revolucionarias Migrantes Interseccionales]. Este surgió a partir del proyecto de activismo comunitario de LAWRS, en el que las mujeres migrantes latinoamericanas utilizaron sus experiencias de vida como herramienta para su transformación social. María, una integrante de WARMI señala: «Warmi es una palabra quechua que significa una mujer poderosa que ama su familia, una valiente guerrera, y para nosotras significa lucha, respeto y solidaridad estando unidas». Ejemplos similares de organizaciones de migrantes que prestan un apoyo esencial a las mujeres migrantes latinoamericanas abundan dentro y fuera de América Latina. En Londres, organizaciones como Latin American Women’s Aid (LAWA) \[Ayuda a Mujeres Latinoamericanas] y la Indoamerican Refugee and Migrant Organization (IRMO) Organización Indoamericana para Refugiados y Migrantes] prestan servicios básicos a las mujeres. En América Latina, una de las mayores y más peligrosas rutas migratorias del continente implica el desplazamiento desde Centroamérica (a menudo desde Honduras, El Salvador y Guatemala, y con frecuencia huyendo de la violencia urbana endémica) a través de México, en su intento de llegar a Estados Unidos. Diversas organizaciones de esta ruta ofrecen apoyo y servicios a las mujeres migrantes, especialmente a las que han sufrido violencia de género en sus países de origen o durante el viaje. Entre ellas se encuentra el Instituto para las Mujeres en la Migración (IMUMI), que promueve los derechos de las mujeres migrantes en México.
 
-<a id="t.334e1c31591c55e7d94d31d51d0c8d99149082dd"></a><a id="t.16"></a>
 
 <div class="recuadro"> 
 
@@ -1193,9 +1193,9 @@ Las instituciones de atención a mujeres en situación de violencia suelen desta
 
 Un ejemplo de esto último es el trabajo reciente de Gaël Le Cornec una dramaturga y cineasta brasileña, con quien colaboré en la creación de la obra de teatro verbatim </span>Efêmera, basada en una investigación sobre la violencia de género realizada con mujeres migrantes brasileñas en Londres (McIlwaine &amp; Evans, 2018). Efêmera no fue una iniciativa participativa o terapéutica, sino que refleja las interpretaciones de Gaël sobre la vida de las mujeres migrantes brasileñas en Londres, desarrolladas en una narración dramática para poner de relieve sus experiencias, generar conciencia y romper tabúes. De hecho, ante la necesidad de compartir la historia de Efêmera más allá del teatro, se realizó un video titulado Raising awareness on violence against Brazilian women in London \[Sensibilización sobre la violencia contra las mujeres y las niñas brasileñas en Londres] (People’s Palace Projects, 2018).<sup class="c16 c10"><a href="#ftnt47" id="ftnt_ref47">\[47]</a></sup> A ello se sumó la creación de un cortometraje titulado Ana dirigido por Gaël Le Cornec (2019), como versión reducida de Efêmera, que se proyectó en el Davis Feminist Film Festival de Estados Unidos; el Vox Feminae Festival de Croacia; el Wow Festival de Jordania, Marruecos y Túnez; el Kautik Festival de la India; y fue finalista en el festival NYC Directed by Women de Estados Unidos.<sup class="c16 c10"><a href="#ftnt48" id="ftnt_ref48">\[48]</a></sup><span class="c2"> Gaël señala que todas estas actividades son formas de activismo: «¿El activismo tiene el poder de cambiar el futuro, verdad?… Para mí, como artista, mi trabajo consiste siempre en crear conciencia. El arte puede presionar para que se produzca el cambio y apoyar la transformación» \[ver el recuadro 5.3].
 
-<a id="t.ddf69fcf0859bcfa31f4e1be58bf8a8c835397ee"></a><a id="t.17"></a>
 
 <div class="recuadro"> 
+
 **Recuadro 5.3: Resistencia por medio del teatro: <i>Efêmera</i> por Gaël Le Cornec**
 
 <i>Efêmera</i> fue una obra de teatro verbatim escrita por Gaël Le Cornec, basada en una investigación sobre la violencia de género contra las mujeres migrantes brasileñas en Londres dirigida por Cathy McIlwaine. Estrenada en el Southwark Playhouse de Londres 2017, también hubo representaciones en Río de Janeiro \[Centro de Artes de Maré y Sede das Cias, ver la figura 5.1] en 2017 y en el Warren Theatre de Brighton, Inglaterra, en 2018.
@@ -1226,11 +1226,11 @@ Cuando se preguntó a las mujeres, en el primer taller, sobre sus expectativas a
 
 La gran mayoría de las participantes se mostraron optimistas sobre sus experiencias al final del proceso:
 
-> El proyecto \[...] ha sido increíble, no solo para estrechar lazos con personas que ya conocía, sino también con otras mujeres, escuchar sus historias, sus penas y sus victorias y reconocer junto a mujeres brasileñas tan diversas y al mismo tiempo muy similares en sus retos y sus luchas que como inmigrantes la vida no es fácil.
+> El proyecto \[...\] ha sido increíble, no solo para estrechar lazos con personas que ya conocía, sino también con otras mujeres, escuchar sus historias, sus penas y sus victorias y reconocer junto a mujeres brasileñas tan diversas y al mismo tiempo muy similares en sus retos y sus luchas que como inmigrantes la vida no es fácil.
 
 Por medio de enfoques artísticos y participativos, las organizaciones pueden ofrecer apoyo a largo plazo y personalizado para crear vínculos entre mujeres de diversos orígenes que comparten sus luchas como emigrantes lejos de casa. Con estas iniciativas, las mujeres crean, en equipo, medios para resistir activamente a la violencia de género de forma colectiva, cambiando de forma activa el curso de sus propias vidas.
 
-Cabe destacar que todo el trabajo con MinA se llevó a cabo durante la pandemia de covid-19. Esto es especialmente importante dado que se reconoce ampliamente que las mujeres migrantes de todo el mundo sufrieron de forma desproporcionada la violencia doméstica durante los confinamientos de covid-19. Como se señaló anteriormente, los regímenes de inmigración hostiles significan que las mujeres con un estatus de inmigración inseguro y sin recurso a fondos públicos (NRPF) se han enfrentado a barreras intensificadas para denunciar y obtener apoyo de forma segura. Durante la pandemia, las mujeres migrantes han temido aún más que antes denunciar los malos tratos por riesgo de detención y deportación. Además, la pandemia ha empujado aún más a muchas mujeres migrantes a la pobreza, ya que han perdido sus empleos, y se ha recortado el apoyo de las organizaciones de migrantes, que luchan por garantizar un apoyo financiero sostenible (McIlwaine, 2020). <sup class="c16 c10"><a href="#ftnt50" id="ftnt_ref50">\[50]</a></sup>
+Cabe destacar que todo el trabajo con MinA se llevó a cabo durante la pandemia de covid-19. Esto es especialmente importante dado que se reconoce ampliamente que las mujeres migrantes de todo el mundo sufrieron de forma desproporcionada la violencia doméstica durante los confinamientos de covid-19. Como se señaló anteriormente, los regímenes de inmigración hostiles significan que las mujeres con un estatus de inmigración inseguro y sin recurso a fondos públicos (NRPF) se han enfrentado a barreras intensificadas para denunciar y obtener apoyo de forma segura. Durante la pandemia, las mujeres migrantes han temido aún más que antes denunciar los malos tratos por riesgo de detención y deportación. Además, la pandemia ha empujado aún más a muchas mujeres migrantes a la pobreza, ya que han perdido sus empleos, y se ha recortado el apoyo de las organizaciones de migrantes, que luchan por garantizar un apoyo financiero sostenible (McIlwaine, 2020). <sup class="c16 c10"><a href="#ftnt50" id="ftnt_ref50">\[50\]</a></sup>
 
 **Conclusiones** 
 
@@ -1242,7 +1242,7 @@ Estas organizaciones no solo prestan servicios de apoyo a las mujeres para que s
 
 ## CAPÍTULO 6
 
-<br><h3>«No pueden borrar nuestra memoria»: la conmemoración, la violencia y las artes</h3></span><sup class="c58"><a href="#ftnt51" id="ftnt_ref51">\[51\]</a></sup><span><i><br></span>Jelke Boesten y Louise Morris<br>Traducido por Javiera Menchaca Pardow</i>
+<br><h3>«No pueden borrar nuestra memoria»: la conmemoración, la violencia y las artes<sup class="c58"><a href="#ftnt51" id="ftnt_ref51">\[51\]</a></sup></h3><br><i>Jelke Boesten y Louise Morris<br>Traducido por Javiera Menchaca Pardow</i>
 
 En un extenso cementerio de las afueras de Ciudad de Guatemala, Vianney Hernández, una mujer menuda de rostro ajado, se dirige con paso decidido hacia una tumba. Ha tardado horas en llegar, pagando tarifas de autobús que rara vez puede permitirse. Se arrodilla y hace una promesa a su hija Ashly Angelie Rodríguez Hernández, enterrada allí con tan solo 14 años: «Tú... tú... mi niña, me conoces bien y nunca dejaré de exigir justicia para ti».
 
