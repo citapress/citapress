@@ -636,7 +636,7 @@ Siempre habrá tareas domésticas y de cuidados que realizar en los hogares porq
 
 ## CAPÍTULO 3
 
-<h3>«Una lucha muy dura»: el aborto como campo de batalla por los derechos de las mujeres en América Latina</h3><br></span><i>Jelke Boesten y Andrea Espinoza<br>Traducido por Mailén García</i>
+<br><h3>«Una lucha muy dura»: el aborto como campo de batalla por los derechos de las mujeres en América Latina</h3><br></span><i>Jelke Boesten y Andrea Espinoza<br>Traducido por Mailén García</i>
 
 En toda América Latina existen tensiones y contradicciones alrededor del cumplimiento y la protección de los derechos reproductivos. Importantes victorias feministas han sido agresivamente resistidas e incluso revertidas por las fuerzas conservadoras. En este sentido cabe preguntarse, ¿de qué tratan estas batallas? ¿Se refieren al aborto, al «derecho a la vida», a los derechos de las mujeres o a algo más complejo? ¿Cómo podemos entender la energía invertida por activistas de ambos lados del espectro, sus ganancias y sus pérdidas? ¿Y qué significa esto en última instancia para los derechos de las mujeres y la igualdad de género en América Latina y más allá?
 
@@ -806,7 +806,7 @@ Este preocupante panorama se ve iluminado por la feroz resistencia de las numero
 
 ## CAPÍTULO 4
 
-<span> <br>«Violencia hacia nuestros cuerpos, violencia hacia nuestros territorios»: </span>resistir al acaparamiento de tierras y la violencia extractivista<br>Patricia Muñoz Cabrera<br>Traducido por Patricia Muñoz Cabrera 
+<br><h3>«Violencia hacia nuestros cuerpos, violencia hacia nuestros territorios»: resistir al acaparamiento de tierras y la violencia extractivista</h3><br><i>Patricia Muñoz Cabrera<br>Traducido por Patricia Muñoz Cabrera</i>
 
 El acaparamiento de tierras se refiere a la compra o al arrendamiento de grandes superficies de tierra por inversionistas privados o empresas del agronegocio. Estas adquisiciones suelen ser a largo plazo y las tierras adquiridas son para uso en la agricultura, lo que resulta, con frecuencia, en nuevas grandes extensiones de monocultivos. Los inversionistas del agronegocio aprovechan los vacíos legales de los países para realizar dichas prácticas, pues estos crean una «zona gris» entre los derechos de los habitantes tradicionales de las tierras y los marcos legislativos modernos sobre la propiedad, lo que facilita la labor de acaparamiento por grandes empresas del agronegocio (Global Agriculture, s.f.). Estos vacíos legales constituyen un enorme impedimento para que las comunidades (afrodescendientes, indígenas, campesinas o rurales) en las zonas afectadas por el acaparamiento de tierras puedan reclamar sus derechos. Cabe señalar que desde el año 2000 el acaparamiento de tierras se ha convertido en un elemento clave de las agendas de desarrollo en América Latina y ha sido promovido por gobiernos e instituciones financieras internacionales mediante los llamados «mercados de tierras», como una estrategia para atraer inversión extranjera directa y, de esta manera, impulsar el crecimiento macroeconómico. El acaparamiento de tierras ha generado violencia y despojo; en particular para las mujeres rurales e indígenas que viven en los territorios directamente afectados. En palabras de una lideresa de la Asociación Nacional de Mujeres Rurales e Indígenas (Anamuri):
 
@@ -1044,8 +1044,8 @@ Para las mujeres indígenas, afrodescendientes y rurales, el acceso al derecho a
 
 ## CAPÍTULO 5
 
-«Tengo derechos y soy libre»: resistiendo la violencia de género interseccional contra mujeres migrantes latinoamericanas <sup class="c58"><a href="#ftnt40" id="ftnt_ref40">\[40]</a></sup>
-Cathy McIlwaine<br>Traducido por Rocío Suárez López
+<br><h3>«Tengo derechos y soy libre»: resistiendo la violencia de género interseccional contra mujeres migrantes latinoamericanas</h3><br><i> <sup class="c58"><a href="#ftnt40" id="ftnt_ref40">\[40\]</a></sup>
+Cathy McIlwaine<br>Traducido por Rocío Suárez López</i>
 
 Ana es una mujer migrante boliviana, de 51 años, que vive en Londres con un estatus migratorio inseguro. Ella informó acerca de cómo había sufrido años de abuso doméstico y cómo al principio tenía miedo de denunciar a la policía debido a su situación. Con ayuda de una organización de atención a migrantes pudo dejar a su pareja abusiva, acceder a apoyo y regularizar su situación. Al respecto, narró:
 
