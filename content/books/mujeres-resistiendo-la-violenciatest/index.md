@@ -357,7 +357,7 @@ Marielle fue asesinada el 14 de marzo de 2018, a la edad de 38 años, en un ases
 
 Las cuatro balas que mataron a Marielle se han utilizado para representar cada una «el racismo, la misoginia, la homofobia y la impunidad». Sin embargo, su legado es increíblemente fuerte, sobre todo porque ella representaba a muchas minorías y fue pionera para las mujeres en las comunidades marginadas. Para evocar el proverbio mexicano adoptado en las protestas en Brasil después de la muerte de Marielle y que se ha difundido cada vez más en otros países latinoamericanos: <i>«Tentaram nos enterrar nos matar, mas não sabiam que éramos sementes»</i> \[Intentaron enterrarnos, pero no sabían que éramos semillas]. Al igual que las flores que florecen de semillas desconocidas dormidas, después de la muerte de Marielle, decenas de mujeres negras de las periferias urbanas fueron elegidas como integrantes del consejo en ciudades brasileñas, así como en el Congreso nacional. A menudo se les conoce como las semillas de Marielle, después de haber firmado un compromiso para defender las agendas antirracistas, feministas y populares designada la «Agenda Marielle Franco».
 
-Fuentes: Garayo (2021); House (2015); Loureiro (2021); Rocha (2018).
+<small>Fuentes: Garayo (2021); House (2015); Loureiro (2021); Rocha (2018).</small>
 
 </div>
             
@@ -688,7 +688,8 @@ Si bien es evidente que aún queda mucho por hacer para que todas las mujeres y 
 <div class="recuadro"> 
 
 ** Recuadro 3.1: La lucha por los derechos reproductivos en El Salvador **
-Marilyn Thomson
+
+<i>Marilyn Thomson</i>
 
 El Salvador no solo tiene una de las leyes de aborto más restrictivas del mundo, sino que también persigue sistemáticamente a mujeres y niñas en virtud de esta ley, incluso cuando experimentan abortos espontáneos, muerte fetal o complicaciones obstétricas. Decenas de mujeres son encarceladas por la muerte de sus fetos en los casos descritos. Según el Centro de Derechos Reproductivos, una organización mundial de defensa legal, se estima que cada año se realizan ilegalmente 5000 abortos en El Salvador. Las mujeres que hayan abortado se enfrentan a penas de entre dos y ocho años de prisión, que pueden aumentar a 40 años si son declaradas culpables de homicidio agravado.
 
