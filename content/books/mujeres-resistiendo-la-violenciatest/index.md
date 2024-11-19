@@ -96,7 +96,7 @@ Este libro altamente accesible se ocupa de uno de los problemas más importantes
 
 <p class="c79"><i>Mujeres resistiendo la violencia</i> es una exploración única de las diferentes formas en que las mujeres se enfrentan a la violencia de género. El libro revisa una poderosa combinación de diferentes estrategias de resistencia en diversos contextos. Proporciona una excelente mirada del género y la interseccionalidad, incluyendo un análisis del impacto de la violencia contra las mujeres y las niñas en todas sus diversidades e impresionantes ejemplos en los que las diferentes formas de esta violencia tienen un impacto desproporcional sobre las mujeres indígenas, afrodescendientes, provenientes de zonas rurales o urbanas, migrantes y personas de la comunidad LGTBIQ+.</p>
 
-<p align="right"> <i>Erika McAslan Fraser, directora técnica del Ending Violence against Women and Children Helpdesk</i></p>
+<p align="right"><font color="blue"> <i>Erika McAslan Fraser, directora técnica del Ending Violence against Women and Children Helpdesk</i></font></p>
 
 - -
 
