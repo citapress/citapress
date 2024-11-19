@@ -1459,7 +1459,7 @@ Se le debe dar mayor prioridad a formas alternativas de visibilizar las experien
 
 - - -
 
-##Notas a la edición
+## Notas a la edición
 
 <hr class="c160">
 <div>
@@ -1624,13 +1624,6 @@ Se le debe dar mayor prioridad a formas alternativas de visibilizar las experien
     <p class="c60"><a href="#ftnt_ref53" id="ftnt53">[53]</a> Basándose en la comprensión de Crenshaw de la interseccionalidad (1991).</p>
 </div>
 
-<p class="c104"><a href="#cmnt_ref1" id="cmnt1">[a]</a>No pude encontrar la cita en internet, y en el artículo referenciado tampoco aparecían sus palabras, encontré esta entrevista de ella en El Espectador, creo que se puede ajustar para que sea más verificable la información.</p>
-
-
-<p class="c104"><a href="#cmnt_ref2" id="cmnt2">[b]</a>Por más que busco en internet, este grupo no se conoce con esa sigla ACDATEE. Solo el nombre. Por eso propongo reformular.</p>
-
-
-<p class="c104"><a href="#cmnt_ref3" id="cmnt3">[c]</a>propongo eliminar porque no funciona el link Para más información sobre diversas estadísticas de la violencia contra las mujeres en Guatemala consultar el portal estadístico del Observatorio de las Mujeres, de Guatemala.</p>
 
 - - -
 
