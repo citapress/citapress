@@ -69,7 +69,7 @@ published: false
 
 Los alarmantes índices de violencia contra las mujeres en América Latina pueden ser abrumadores y desesperanzadores. No obstante, al resaltar estrategias y acciones concretas y eficaces –lideradas por quienes son las más afectadas por esta violencia–, el libro _Mujeres resistiendo la violencia_ desempeña un papel fundamental en la búsqueda de soluciones. Este es un valioso recurso para activistas, periodistas e investigadoras, y un poderoso registro de resistencia popular.
 
-<p align="right">_Silvia Viñas, productora ejecutiva y copresentadora del podcast_ El hilo _de Radio Ambulante Estudios y VICE News_</p>
+<p align="right"><I><blue>Silvia Viñas, productora ejecutiva y copresentadora del podcast</i> El hilo <i>de Radio Ambulante Estudios y VICE News</i></p></blue>
 
 <p class="c79">Latinoamérica es el continente con mayores índices de violencia contra las mujeres y las niñas, pero, a su vez, con una tremenda potencia para resistencias múltiples. Este libro demuestra una vez más la importancia de los lazos de sororidad entre feministas de la academia e indígenas feministas que proponen creativas formas de resistencia y teorización desde el sur. Como dice la canción: <i>nos sembraron miedo, nos crecieron alas…</p>
 <p class="c66 c111"><p align="right">Rocío Silva Santisteban, poeta peruana, activista feminista, académica y excongresista</i></p>
