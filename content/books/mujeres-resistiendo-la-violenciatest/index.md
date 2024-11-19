@@ -1455,7 +1455,182 @@ Se le debe dar mayor prioridad a formas alternativas de visibilizar las experien
 
 
 <hr style="border: 0.3px solid blue; width:40%;"></hr>
-<p align="center">**Colectivo WRV**</p>
+<p align="center"> **Colectivo WRV** </p>
+
+- - -
+
+##Notas a la edición
+
+<hr class="c160">
+<div>
+    <p class="c60"><a href="#ftnt_ref1" id="ftnt1">[1]</a> CAWN fue una red de solidaridad del Reino Unido y una oenegé con sede en Londres que apoyó a organizaciones de mujeres en Centroamérica entre 1992 y 2017. Se vio obligada a cerrar por falta de financiamiento y recursos.</p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref2" id="ftnt2">[2]</a> Hacemos referencia en todo el libro al podcast Mujeres resistiendo la violencia. Este fue publicado en el 2022 por el LAB, producido por Louise Morris en colaboración entre el LAB y el King’s College de Londres y financiado por el IAA del ESRC del King’s College, con el apoyo adicional del National Lottery Community Fund. Escucha el podcast dando clic <a class="c11" href="https://www.google.com/url?q=http://wrv.org.uk/podcast&amp;sa=D&amp;source=editors&amp;ust=1718062667078509&amp;usg=AOvVaw3XIHmpFB4CxCklASZA-vL_">aquí.</a> </p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref3" id="ftnt3">[3]</a> Los lencas son el pueblo étnico precolombino de mayor población en Honduras, también ocupan parte de la zona fronteriza de El Salvador.</p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref4" id="ftnt4">[4]</a> Los garífunas son descendientes de una población afroindígena del Caribe que se exilió en la costa hondureña en el siglo xviii y que (hoy en día) también vive en Belice.</p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref5" id="ftnt5">[5]</a> Ver UN Women (2020) <a class="c11" href="https://www.google.com/url?q=https://www.unwomen.org/en/news/stories/2020/6/explainer-intersectional-feminism-what-it-means-and-why-it-matters&amp;sa=D&amp;source=editors&amp;ust=1718062667079452&amp;usg=AOvVaw1tDLyBIwnifDMQRTpewERM">«Intersectional feminism: what it means and why it matters right now»</a>.</p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref6" id="ftnt6">[6]</a> Utilizamos los términos mujeres y hombres, aunque reconocemos que existen más de dos géneros y que las personas trans y no binarias también sufren discriminación y violencia. No obstante, el principal objetivo de este libro es destacar la violencia que afecta a las mujeres cisgénero (mujeres que se identifican con el género que se les asignó según su sexo al nacer).</p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref7" id="ftnt7">[7]</a> MenEngage América Latina es una alianza de organizaciones que trabajan para transformar las masculinidades patriarcales e involucran a hombres y niños en la lucha por la igualdad de género. Actualmente cuenta con 110 miembros en 12 países de América Latina. Más información dando clic <a class="c11" href="https://www.google.com/url?q=https://menengage.org/region/latin-america/&amp;sa=D&amp;source=editors&amp;ust=1718062667080170&amp;usg=AOvVaw2sIUqRFdQFsUyik5JRo5DH">aquí.</a> </p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref8" id="ftnt8">[8]</a> Promundo Brasil es una oenegé fundada en 1997 que opera en diferentes regiones de Brasil y otros países del mundo, y que intenta promover la igualdad de género y la prevención de la violencia, con un enfoque en la participación de hombres y mujeres en la transformación de las masculinidades. Más información sobre su labor de prevención de la violencia en <a class="c11" href="https://www.google.com/url?q=https://promundo.org.br/trabalho/?programa%3Dprevencao-de-violencia&amp;sa=D&amp;source=editors&amp;ust=1718062667080653&amp;usg=AOvVaw0hbUDUEcmGH04wq9nTv-JC">Prevenindo violência baseada em gênero e violência contra crianças.</a> </p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref9" id="ftnt9">[9]</a> Las estadísticas están disponibles en la base de datos mundial de la ONU Mujeres <a class="c11" href="https://www.google.com/url?q=https://data.unwomen.org/evaw/database&amp;sa=D&amp;source=editors&amp;ust=1718062667081100&amp;usg=AOvVaw2pA1Y3EZzM_89ad3afUtNC">Global database on violence against women</a> (UN Women, 2016).</p>
+</div>
+<div>
+    <p class="c60" id="h.i17xr6"><a href="#ftnt_ref10" id="ftnt10">[10]</a> Los primeros casos de lo que ahora en México y Centroamérica se conoce como feminicidio o asesinato de mujeres por el hecho de ser mujeres ocurrieron en 1993 en Ciudad Juárez, México. En la prensa, se empezó a publicar noticias sobre el creciente número de cadáveres mutilados de mujeres y sobre la desaparición de muchas mujeres en la ciudad, muchas de ellas jóvenes trabajadoras de las fábricas de las zonas francas. Ver más información en la página web del CEPAL y su <a class="c11" href="https://www.google.com/url?q=https://oig.cepal.org/es/indicadores/feminicidio&amp;sa=D&amp;source=editors&amp;ust=1718062667081563&amp;usg=AOvVaw0-bbCp-91KTqyfUxU0mPz2">Observatorio de Igualdad de Género de América Latina y el Caribe.</a> </p>
+</div>
+<div>
+    <p class="c104 c66"><a href="#ftnt_ref11" id="ftnt11">[11]</a> Para más información sobre las campañas de CLADEM dar clic <a class="c11" href="https://www.google.com/url?q=https://cladem.org/campanas&amp;sa=D&amp;source=editors&amp;ust=1718062667081905&amp;usg=AOvVaw0QyuAThyYzY_uwJajXgo4m">aquí.</a> </p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref12" id="ftnt12">[12]</a> Ver el <a class="c11" href="https://www.google.com/url?q=https://mundosur.org/wp-content/uploads/2020/06/Manifiesto-Latinoamericano.pdf&amp;sa=D&amp;source=editors&amp;ust=1718062667082276&amp;usg=AOvVaw1TKBV5wpjtGxnyKVIH7atZ">«Manifiesto latinoamericano contra las violencias de género, femicidios/ feminicidios y los trans/travesticidios»</a> (Mundosur, 2021).</p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref13" id="ftnt13">[13]</a> Ver el <a class="c11" href="https://www.google.com/url?q=https://feminicidiosmx.crowdmap.com/&amp;sa=D&amp;source=editors&amp;ust=1718062667082766&amp;usg=AOvVaw3c3KMrIKygkbWxpmAF0Hd9">mapa del feminicidio en México</a> de María Salguero; los mapas de Ciudad Juárez por medio de <a class="c11" href="https://www.google.com/url?q=http://www.ellastienennombre.org&amp;sa=D&amp;source=editors&amp;ust=1718062667083040&amp;usg=AOvVaw1hOapOk_NWsNexba4RIcBf">Ellas Tienen Nombre</a>; los mapas del <a class="c11" href="https://www.google.com/url?q=http://feminicidiouruguay.net&amp;sa=D&amp;source=editors&amp;ust=1718062667083334&amp;usg=AOvVaw1vV_zo65Yl1mSKlv6XLVzD">feminicidio en Uruguay</a> y el Colectivo de Geografía Crítica de Ecuador y su mapa de <a class="c11" href="https://www.google.com/url?q=https://geografiacriticaecuador.org/2017/11/01/actualizacion-del-mapa-de-feminicidios/&amp;sa=D&amp;source=editors&amp;ust=1718062667083691&amp;usg=AOvVaw2c8AbBp8q2NpIg9BJjvDj6">Feminicidios en el Ecuador continental</a>.</p>
+    
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref14" id="ftnt14">[14]</a> Las mujeres quilombolas son mujeres afrobrasileñas que residen en asentamientos históricos (quilombolos), descendientes de personas esclavizadas que huyeron de la esclavitud y que se establecieron ahí como acto de resistencia territorial organizada.</p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref15" id="ftnt15">[15]</a> Ver más en el artículo «<a class="c11" href="https://www.google.com/url?q=https://www.academia.edu/49460881/Mujeres_ind%25C3%25ADgenas_rompen_el_silencio_Tribunales_de_Conciencia_en_Guerrero&amp;sa=D&amp;source=editors&amp;ust=1718062667084307&amp;usg=AOvVaw0G-Cd9W3hcGDUZOub892PS">Mujeres indígenas rompen el silencio y exigen justicia tribunal de conciencia sobre violencia de género en México</a>» (Sierra y Figueroa, 2020). </p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref16" id="ftnt16">[16]</a> Ver Lines (2021) <a class="c11" href="https://www.google.com/url?q=https://lab.org.uk/wrv-quintana-roo-sit-in-marks-historic-step-towards-legalisation-of-abortion-in-mexico/&amp;sa=D&amp;source=editors&amp;ust=1718062667084767&amp;usg=AOvVaw3F8mEHomgxikHZgeguHoNH">«Plantón en Quintana Roo marca paso histórico hacia legalización del aborto en México»</a>.</p>
+</div>
+<div>
+    <p class="c135 c66"><a href="#ftnt_ref17" id="ftnt17">[17]</a> Este capítulo está íntimamente relacionado con el episodio 2 del podcast Mujeres resistiendo la violencia, llamado <a class="c11" href="https://www.google.com/url?q=https://lab.org.uk/wrv/podcast/&amp;sa=D&amp;source=editors&amp;ust=1718062667085160&amp;usg=AOvVaw3LYkm1eJbOfXJAqc7sxxp3">«Rio’s Trailblazing Women’s House»</a> \[«La Casa de las Mujeres, pionera en Río»\] (Morris, 2021), disponible en inglés y portugués y con transcripción al español.</p>
+</div>
+<div>
+    <p class="c60" id="h.320vgez"><a href="#ftnt_ref18" id="ftnt18">[18]</a> La violencia de género interseccional, como se amplía en el capítulo y se usa en todo el libro, se refiere a la violencia directa o indirecta hacia las mujeres y las niñas por razones de género, raza, etnicidad, clase social, orientación sexual, edad, discapacidad o cualquier otra forma de discriminación.</p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref19" id="ftnt19">[19]</a> La Casa das Mulheres fue fundada en 2016 por Redes da Maré, su objetivo es fomentar la acción de las mujeres en las favelas para ayudar a que mejoren sus condiciones de vida. Más información en McIlwaine (2021b).</p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref20" id="ftnt20">[20]</a> Estos datos se basan en colaboraciones de investigación de dos proyectos dirigidos por Cathy McIlwaine: Transnational VAWG (2016-2019) y Dignidad y Resiliencia (2019-2021). El primero, financiado por ESRC (ES/N013247/1) y el segundo por la British Academy y el Global Challenges Research Fund (HDV190030).</p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref21" id="ftnt21">[21]</a> Smith (2018) coloca estas experiencias dentro de un contexto más amplio de necropolítica de género, un término que fue acuñado por el historiador Achille Mbembe y que se refiere al modo en que los Estados deciden qué vidas son más valiosas que otras (Pele, 2020). </p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref22" id="ftnt22">[22]</a> Favelada se refiere no solo a una persona que vive o creció en las favelas, sino también a la reafirmación de la resistencia a las condiciones que enfrentan quienes habitan allí, a la manera como construyen formas de ser y de estar. </p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref23" id="ftnt23">[23]</a> Puede acceder a la exposición <a class="c11" href="https://www.google.com/url?q=https://vidasfemininas.museudapessoa.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667086051&amp;usg=AOvVaw29PoWLrhcR9i5a_EgKyS-Q">Vidas femininas</a> en línea. </p>
+</div>
+<div>
+    <p class="c60" id="h.1h65qms"><a href="#ftnt_ref24" id="ftnt24">[24]</a> Para más información sobre ejemplos de movilizaciones de mujeres ver <a class="c11" href="https://www.google.com/url?q=https://lac.unwomen.org/es/noticias-y-eventos/articulos/2020/11/impacto-economico-covid-19-mujeres-america-latina-y-el-caribe&amp;sa=D&amp;source=editors&amp;ust=1718062667086532&amp;usg=AOvVaw2pM0xQkQYwfDsK9w6g2uOn">«El impacto económico del covid-19 en las mujeres de América Latina y el Caribe»</a> (ONU Mujeres, 2020) </p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref25" id="ftnt25">[25]</a> Ver el informe de Redes da Maré (2020) sobre los resultados de la campaña en el <a class="c11" href="https://www.google.com/url?q=https://www.redesdamare.org.br/media/downloads/arquivos/RdM_Relatorio_2020.pdf&amp;sa=D&amp;source=editors&amp;ust=1718062667086972&amp;usg=AOvVaw1nLPVYtO8UXx1pcdlckBYN">«Relatório anual 2020»</a>. </p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref26" id="ftnt26">[26]</a> La terminología que se usa para las dos principales modalidades de trabajo de las trabajadoras del hogar es muy variada en los países de habla hispana. Para la modalidad uno, se usan términos como trabajadoras de puertas adentro, de planta o residentes, en este documento elegimos usar el último término. Para modalidad dos, se usa trabajadoras de puertas afuera o trabajadoras de entrada por salida, en este documento utilizaremos el término trabajadoras no residentes. (Nota de la traductora)</p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref27" id="ftnt27">[27]</a> El contrato, así como los carteles que enumeran los derechos de las trabajadoras y los salarios justos, están disponibles para descargar desde el sitio web del <a class="c11" href="https://www.google.com/url?q=http://www.caceh.org.mx/&amp;sa=D&amp;source=editors&amp;ust=1718062667087810&amp;usg=AOvVaw01vdbKLT4DIlzlZBZFzG6e">CACEH</a>. </p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref28" id="ftnt28">[28]</a> La OIT señala que existe una falta de conocimiento empírico adecuado sobre la situación de las trabajadoras domésticas indígenas. En 2016 iniciaron una serie de estudios por países para investigar las experiencias de las mujeres indígenas que se incorporan al sector del trabajo doméstico. Estos estudios tienen como objetivo capturar numerosos aspectos relacionados con el trabajo doméstico, incluidas las razones que empujan a las mujeres indígenas a realizar este tipo de trabajo; las circunstancias de la migración y el reclutamiento; experiencias de condiciones laborales; conciencia sobre las instituciones, leyes y políticas existentes; y esfuerzos, iniciativas o redes colectivas de mujeres indígenas.</p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref29" id="ftnt29">[29]</a> El LAWRS es una organización feminista de derechos humanos, dirigida por y para mujeres latinoamericanas que viven en el Reino Unido, fue fundada en 1983 por mujeres latinoamericanas en respuesta a la falta de apoyo social culturalmente sensible disponible para las mujeres migrantes y refugiadas de América Latina (Thomson, 2021).</p>
+</div>
+<div>
+    <p class="c60" id="h.415t9al"><a href="#ftnt_ref30" id="ftnt30">[30]</a> La IDWF se creó en 2009 tras una conferencia celebrada en Ámsterdam para promover la movilización de las trabajadoras del hogar en todo el mundo, para esto, contó con el apoyo de organizaciones internacionales como la Women in Informal Employment Globalizing and Organizing (WIEGO) \[Mujeres en el Empleo Informal: Globalizando y Organizando\], una red mundial centrada en el empoderamiento de los trabajadores de bajos recursos, especialmente las mujeres), así como de federaciones sindicales internacionales. El comité directivo de la IDWF aceptó las solicitudes de afiliación de 14 organizaciones de trabajadoras del hogar como primer grupo de afiliadas a la IDWF, en una reunión celebrada en mayo de 2012. El Congreso Fundador se celebró en octubre de 2013, y en este adoptó su nombre oficial como International Domestic Workers Federation (IDWF) \[Federación Internacional de Trabajadoras del Hogar\].</p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref31" id="ftnt31">[31]</a> UTRASD es una red solidaria que ofrece asesoramiento y apoyo sobre derechos laborales, consejería psicosocial, formación sobre derechos y promoción para mejorar la legislación.</p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref32" id="ftnt32">[32]</a> Para más información sobre la página web de <a class="c11" href="https://www.google.com/url?q=https://www.sinactraho.org.mx&amp;sa=D&amp;source=editors&amp;ust=1718062667088696&amp;usg=AOvVaw1BeRf_PDw3txxI-pahs54v">Sinactraho</a>. </p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref33" id="ftnt33">[33]</a> Ver el video titulado <a class="c11" href="https://www.google.com/url?q=https://www.youtube.com/watch?v%3DGit50CFeyRU&amp;sa=D&amp;source=editors&amp;ust=1718062667089047&amp;usg=AOvVaw2zarRX8eqncVVYeqw1Zlcq">Demanda por la ratificación del Convenio 190 de la OIT y su Recomendación 206</a> (Conlactraho, 2021).</p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref34" id="ftnt34">[34]</a> Fundado en 1986, Vía Campesina es un movimiento internacional formado por más de 200 millones de integrantes de unos 70 países: campesinos, pequeños agricultores, personas sin tierra, trabajadores/as rurales, pueblos indígenas y otros pequeños productores de alimentos. Este movimiento lucha por la soberanía alimentaria, concepto que ellos definen como «el derecho de las personas de todo el mundo a producir alimentos de forma local y sostenible, mediante métodos agroecológicos que respeten el contexto cultural, climático y geográfico de cada región».</p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref35" id="ftnt35">[35]</a> Nombre cambiado por petición de la fuente.</p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref36" id="ftnt36">[36]</a> La demanda de las mujeres de Lote Ocho en Guatemala ha hecho historia. Desde su presentación en 2007, otras empresas mineras canadienses han sido demandadas en Canadá por negligencia y violaciones de los derechos humanos cometidas en el extranjero. La historia completa del caso de Lote Ocho puede consultarse en el artículo <a class="c11" href="https://www.google.com/url?q=https://newint.org/features/2021/10/07/our-whole-truth-will-come-out-canada&amp;sa=D&amp;source=editors&amp;ust=1718062667089924&amp;usg=AOvVaw2FaDft-v9h2EFWHZ0iiuvI">«Our whole truth Will come out»</a> (Olivera, 2021).</p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref37" id="ftnt37">[37]</a> La Casa de Mujeres Amazónicas publica regularmente imágenes e información sobre la campaña en su página de Instagram @mujeresamazonicas.</p>
+    
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref38" id="ftnt38">[38]</a> Para mayor información sobre la demarcación de tierras y su importancia para las mujeres indígenas y quilombolas ver <a class="c11" href="https://www.google.com/url?q=https://raizesds.com.br/%2520pt/povos-indigenas-quilombolas&amp;sa=D&amp;source=editors&amp;ust=1718062667090662&amp;usg=AOvVaw3c6dXGakAq-njdHxwrykcY">«Povos indígenas e quilombolas: 3 motivos pelos quais a demarcação de terras é importante»</a> (Raízes, 2018).</p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref39" id="ftnt39">[39]</a> En noviembre de 2021, el CEDAW acordó que la próxima Recomendación General (n.o 39) se centraría en los derechos de las mujeres y las niñas indígenas. La consulta con organizaciones de la sociedad civil fue parte de un proceso participativo para acercar esta recomendación a las necesidades y prioridades específicas de las mujeres indígenas. La Recomendación n.o 39 fue adoptada en 2022. Más información en «Recomendación General n.o 39 (2022) sobre los derechos de las mujeres y las niñas Indígenas». (CEDAW, 2022).</p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref40" id="ftnt40">[40]</a> Este capítulo está íntimamente relacionado con el episodio 3 del podcast Mujeres resistiendo la violencia, llamado <a class="c11" href="https://www.google.com/url?q=https://lab.org.uk/wrv/podcast/&amp;sa=D&amp;source=editors&amp;ust=1718062667091423&amp;usg=AOvVaw0G7YAAAqDlrmzW20h_jyMp">«Mujeres migrantes: levántense»</a> (Morris, 2021), disponible en inglés, español y portugués. </p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref41" id="ftnt41">[41]</a> Este capítulo se basa en colaboraciones de investigación por medio de tres proyectos dirigidos por McIlwaine: <a class="c11" href="https://www.google.com/url?q=https://transnationalviolenceagainstwomen.org/the-researches/transnational-vawg&amp;sa=D&amp;source=editors&amp;ust=1718062667091777&amp;usg=AOvVaw1dYG0U_tW6uzrTnpwRFXhr">Transnational VAWG</a>; <a class="c11" href="https://www.google.com/url?q=https://transnationalviolenceagainstwomen.org/the-researches/research-projects-we-still-fight-in-the-dark&amp;sa=D&amp;source=editors&amp;ust=1718062667092139&amp;usg=AOvVaw36CVinW5ag3BDLQ18q4A0W">We still fight in the dark</a> y <a class="c11" href="https://www.google.com/url?q=https://cathymcilwaine.info/research-projects/step-up-migrant-women&amp;sa=D&amp;source=editors&amp;ust=1718062667092476&amp;usg=AOvVaw2OMS3DhS34APN0uEmuP6CQ">Step Up Migrant Women</a>. El primero está financiado por el Economic and Social Research Council (ESRC) (ES/N013247/1), el segundo, por ESRC y el Impact Acceleration Account (IAA) del King’s College de Londres, y el tercero, por el Latin American Women’s Rights Service (LAWRS) y la Fundación Lloyd’s.</p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref42" id="ftnt42">[42]</a> Esta investigación se basa en la colaboración con migrantes brasileñas en Londres, que incluye una encuesta cuantitativa a 175 mujeres, junto con 25 entrevistas en profundidad y cinco grupos focales; así como un mapeo de los servicios de las organizaciones que prestan apoyo a las mujeres víctimas y sobrevivientes de la violencia, basado en entrevistas con representantes de 12 proveedores.</p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref43" id="ftnt43">[43]</a> Esto se muestra en el video <a class="c11" href="https://www.google.com/url?q=https://youtu.be/_wb2U2TKbAE&amp;sa=D&amp;source=editors&amp;ust=1718062667093136&amp;usg=AOvVaw3B7o6ibMrPP31RdXB2-Qs7">Navegando fronteras</a> (LSE, 2021), creado como parte del proyecto de investigación de Megan Ryburn « Navigating borderlands: Colombian migrant women in Chile and experiences of violence» \[«Navegando fronteras: mujeres migrantes colombianas en Chile y experiencias de violencia»\]. </p>
+</div>
+<div>
+    <p class="c60" id="h.2gb3jie"><a href="#ftnt_ref44" id="ftnt44">[44]</a> Una persona no podrá recurrir a fondos públicos cuando esté «sujeta a control de inmigración», según la definición del artículo 115 de la Immigration and Asylum Act \[Ley de Inmigración y Asilo\] de 1999. Una persona sujeta a control de inmigración no puede solicitar fondos públicos (prestaciones y ayudas a la vivienda) a menos que se aplique una excepción (NRPF Network, s.f.).</p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref45" id="ftnt45">[45]</a> El Latin American Women’s Rights Service (LAWRS) es una organización feminista de derechos humanos, dirigida por y para mujeres latinoamericanas que viven en el Reino Unido. Fue fundada en respuesta a la falta de apoyo disponible para las mujeres migrantes y refugiadas de América Latina en este país (Thomson, 2021).</p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref46" id="ftnt46">[46]</a> El video «es una celebración de nuestra diversidad, identidades y culturas; una llamada de atención a los responsables políticos para que actúen; y una invitación a otros grupos de jóvenes, feministas y comunidades minoritarias para que unan sus fuerzas y nos apoyen en nuestro papel de agentes del cambio en la sociedad británica». \[ver <a class="c11" href="https://www.google.com/url?q=https://youtu.be/HGPNE1bULnw&amp;sa=D&amp;source=editors&amp;ust=1718062667093765&amp;usg=AOvVaw0c6CEDNeikGccufalqZ9fu">This is who we are: Sin Fronteras</a>\] </p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref47" id="ftnt47">[47]</a> Este proyecto interdisciplinario documentó las experiencias de mujeres sobrevivientes de la VCMN por medio de investigación (encuestas, entrevistas testimoniales y grupos focales), así como de prácticas artísticas (obras de teatro verbatim que reproducen palabra por palabra textos reales, películas e instalaciones audiovisuales) para poner de relieve la importancia y el impacto de este fenómeno. Muestra de manera alarmante, no solo las altas tasas de incidencia, sino también los efectos negativos profundamente arraigados de la VCMN en el bienestar de las mujeres. El video <a class="c11" href="https://www.google.com/url?q=https://www.youtube.com/watch?v%3DLPDNxtWB9e0&amp;sa=D&amp;source=editors&amp;ust=1718062667094197&amp;usg=AOvVaw3L0101RpkeZ0t-WOUjibmx">Raising awareness on violence against Brazilian women in London</a>, dirigido por Aida Baneres, con animación de Francesca da Bassa y música de Cesc Fonoll, está disponible en YouTube. </p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref48" id="ftnt48">[48]</a> Ver más información sobre <a class="c11" href="https://www.google.com/url?q=https://gaellecornec1.wixsite.com/efemera&amp;sa=D&amp;source=editors&amp;ust=1718062667094541&amp;usg=AOvVaw3NaVy0j3pksr_qvzXXDaTh">Efêmera</a> (Le Cornec, 2018). Ver más información sobre <a class="c11" href="https://www.google.com/url?q=https://www.footprintproductions.co.uk/film-ana&amp;sa=D&amp;source=editors&amp;ust=1718062667094786&amp;usg=AOvVaw3DEPgzsPZvdO-0mEgbChI1">Ana</a> (Le Cornec, 2019).</p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref49" id="ftnt49">[49]</a> Este Proyecto es producto de una colaboración entre MinA, Cathy McIlwaine y Niall Sreenan (del Policy Institute del King’s College), Renata Peppl (People’s Palace Projects) y con apoyo de LAWRS.</p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref50" id="ftnt50">[50]</a> Ver también <a class="c11" href="https://www.google.com/url?q=https://stepupmigrantwomen.org/2020/06/26/migrant-women-failed-by-the-state-locked-in-abuse&amp;sa=D&amp;source=editors&amp;ust=1718062667095317&amp;usg=AOvVaw12Vy80HzZK0lQySTMoyqw6">«Migrant Women: Failed by the State, Locked in Abuse»</a> \[«Mujeres migrantes: desamparadas por el Estado, prisioneras del maltrato» (Step Up Migrant Women, 2020)\]. </p>
+</div>
+<div>
+    <p class="c66 c135"><a href="#ftnt_ref51" id="ftnt51">[51]</a> Este capítulo está íntimamente relacionado con el episodio 1 del podcast Mujeres resistiendo la violencia, llamado <a class="c11" href="https://www.google.com/url?q=https://lab.org.uk/wrv/podcast/&amp;sa=D&amp;source=editors&amp;ust=1718062667095888&amp;usg=AOvVaw22eCJl1-fS_Roh5Zs-wXpT">«Nos Duelen 56 en Guatemala»</a> (Morris, 2021), disponible en inglés y español, y con transcripción al portugués. </p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref52" id="ftnt52">[52]</a> Frente a esto, por ejemplo, vale la pena destacar cómo la violencia infligida a Victoria Salazar, migrante salvadoreña en México, continuó incluso después de ser asesinada por la policía, por medio de reproducciones en línea y representaciones sensacionalistas de su muerte. Al respecto, en el artículo de Tallulah Lines (2021) «<a class="c11" href="https://www.google.com/url?q=https://web-archive.southampton.ac.uk/gcrf-reghid.com/index.html%253Fp%3D653.html&amp;sa=D&amp;source=editors&amp;ust=1718062667096513&amp;usg=AOvVaw1LM7nj13vbCier8I-B77MX">Police brutally killed Victoria Salazar: how are feminists representing her death in a dignified way?»</a> \[«La policía mató brutalmente a Victoria Salazar: ¿cómo representan las feministas su muerte de manera digna?»\], la autora se pregunta cómo podemos contribuir a mitigar la violencia contra las mujeres y las niñas y evitar revictimizar a las mujeres mediante la forma en que recordamos sus muertes y sus vidas.</p>
+</div>
+<div>
+    <p class="c60"><a href="#ftnt_ref53" id="ftnt53">[53]</a> Basándose en la comprensión de Crenshaw de la interseccionalidad (1991).</p>
+</div>
+
+<p class="c104"><a href="#cmnt_ref1" id="cmnt1">[a]</a>No pude encontrar la cita en internet, y en el artículo referenciado tampoco aparecían sus palabras, encontré esta entrevista de ella en El Espectador, creo que se puede ajustar para que sea más verificable la información.</p>
+
+
+<p class="c104"><a href="#cmnt_ref2" id="cmnt2">[b]</a>Por más que busco en internet, este grupo no se conoce con esa sigla ACDATEE. Solo el nombre. Por eso propongo reformular.</p>
+
+
+<p class="c104"><a href="#cmnt_ref3" id="cmnt3">[c]</a>propongo eliminar porque no funciona el link Para más información sobre diversas estadísticas de la violencia contra las mujeres en Guatemala consultar el portal estadístico del Observatorio de las Mujeres, de Guatemala.</p>
 
 - - -
 
@@ -1739,7 +1914,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://www.anamuri.cl/&amp;sa=D&amp;source=editors&amp;ust=1718062667040102&amp;usg=AOvVaw1_Bx4NJmgn5CZJyHxxglmu">Anamuri</a></p>
+            <p class="c35"><font color="blue"><a class="c11" href="https://www.google.com/url?q=https://www.anamuri.cl/&amp;sa=D&amp;source=editors&amp;ust=1718062667040102&amp;usg=AOvVaw1_Bx4NJmgn5CZJyHxxglmu">Anamuri</a></p></font>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Asociación Nacional de Mujeres Rurales e Indígenas</p>
@@ -1747,7 +1922,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://anfasep.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667041033&amp;usg=AOvVaw2A1nZdwHZkIFO4csAfIbhV">Anfasep</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://anfasep.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667041033&amp;usg=AOvVaw2A1nZdwHZkIFO4csAfIbhV"><font color="blue">Anfasep</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Asociación Nacional de Familiares de Secuestrados, Detenidos y Desaparecidos del Perú</p>
@@ -1755,7 +1930,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://mmcbrasil.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667042224&amp;usg=AOvVaw1tJxnhD8xXyZhGXuiKkt5G">ANMC</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://mmcbrasil.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667042224&amp;usg=AOvVaw1tJxnhD8xXyZhGXuiKkt5G"><font color="blue">ANMC</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Associação Nacional de Mulheres Camponesas</p>
@@ -1763,7 +1938,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://caceh.org.mx/&amp;sa=D&amp;source=editors&amp;ust=1718062667043464&amp;usg=AOvVaw03Cz62_7qbpOdBvCSGJVSm">CACEH</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://caceh.org.mx/&amp;sa=D&amp;source=editors&amp;ust=1718062667043464&amp;usg=AOvVaw03Cz62_7qbpOdBvCSGJVSm"><font color="blue">CACEH</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Centro Nacional para la Capacitación Profesional y Liderazgo de las Empleadas del Hogar</p>
@@ -1771,7 +1946,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://www.cawn.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667044783&amp;usg=AOvVaw2KK3A_S1qjdRE72QHVoto8">CAWN</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://www.cawn.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667044783&amp;usg=AOvVaw2KK3A_S1qjdRE72QHVoto8"><font color="blue">CAWN</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Central American Women’s Network</p>
@@ -1779,7 +1954,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://www.ohchr.org/es/treaty-bodies/cedaw&amp;sa=D&amp;source=editors&amp;ust=1718062667046070&amp;usg=AOvVaw0o0hzEbyvhBs0qXLZx9KYZ">CEDAW</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://www.ohchr.org/es/treaty-bodies/cedaw&amp;sa=D&amp;source=editors&amp;ust=1718062667046070&amp;usg=AOvVaw0o0hzEbyvhBs0qXLZx9KYZ"><font color="blue">CEDAW</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Comité para la Eliminación de la Discriminación contra la Mujer</p>
@@ -1787,7 +1962,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://www.facebook.com/centrode.delamujer/?locale%3Des_LA&amp;sa=D&amp;source=editors&amp;ust=1718062667047438&amp;usg=AOvVaw2p8fNW04YZ-X3XzgGipa6h">CEMH</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://www.facebook.com/centrode.delamujer/?locale%3Des_LA&amp;sa=D&amp;source=editors&amp;ust=1718062667047438&amp;usg=AOvVaw2p8fNW04YZ-X3XzgGipa6h"><font color="blue">CEMH</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Centro de Estudios de la Mujer en Honduras</p>
@@ -1795,7 +1970,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://www.cepal.org/es&amp;sa=D&amp;source=editors&amp;ust=1718062667048664&amp;usg=AOvVaw2xZvyiwweAmexc_h9WeLhL">CEPAL</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://www.cepal.org/es&amp;sa=D&amp;source=editors&amp;ust=1718062667048664&amp;usg=AOvVaw2xZvyiwweAmexc_h9WeLhL"><font color="blue">CEPAL</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Comisión Económica para América Latina y el Caribe</p>
@@ -1803,7 +1978,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://www.oas.org/es/CIDH/Default.asp&amp;sa=D&amp;source=editors&amp;ust=1718062667049608&amp;usg=AOvVaw2VFt4Dm5FJ2OH5YsUcrM7Y">CIDH</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://www.oas.org/es/CIDH/Default.asp&amp;sa=D&amp;source=editors&amp;ust=1718062667049608&amp;usg=AOvVaw2VFt4Dm5FJ2OH5YsUcrM7Y"><font color="blue">CIDH</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Comisión Interamericana de Derechos Humanos</p>
@@ -1811,7 +1986,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://cladem.org&amp;sa=D&amp;source=editors&amp;ust=1718062667050526&amp;usg=AOvVaw1P3yCnmaHGYnBbwOccPB-a">CLADEM</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://cladem.org&amp;sa=D&amp;source=editors&amp;ust=1718062667050526&amp;usg=AOvVaw1P3yCnmaHGYnBbwOccPB-a"><font color="blue">CLADEM</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Comité de América Latina y el Caribe para la Defensa de los Derechos de las Mujeres</p>
@@ -1819,7 +1994,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://coiab.org.br/&amp;sa=D&amp;source=editors&amp;ust=1718062667051422&amp;usg=AOvVaw0fkaccZdjVUEPq28vAZZbZ">COIAB</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://coiab.org.br/&amp;sa=D&amp;source=editors&amp;ust=1718062667051422&amp;usg=AOvVaw0fkaccZdjVUEPq28vAZZbZ"><font color="blue">COIAB</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Coordenação das Organizações Indígenas da Amazônia Brasileira</p>
@@ -1827,7 +2002,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://conlactraho.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667052258&amp;usg=AOvVaw3xOY4QNdh9DHj-cFIbaz6_">Conlactraho</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://conlactraho.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667052258&amp;usg=AOvVaw3xOY4QNdh9DHj-cFIbaz6_"><font color="blue">Conlactraho</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Confederación Latinoamericana y del Caribe de Trabajadoras del Hogar</p>
@@ -1835,7 +2010,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://mujeressostenibles.org.mx/&amp;sa=D&amp;source=editors&amp;ust=1718062667053191&amp;usg=AOvVaw3sVjpLDmIynstV__7NnZPS">Coodepth</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://mujeressostenibles.org.mx/&amp;sa=D&amp;source=editors&amp;ust=1718062667053191&amp;usg=AOvVaw3sVjpLDmIynstV__7NnZPS"><font color="blue">Coodepth</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Cooperativa para el Desarrollo Integral de Personas Trabajadoras del Hogar</p>
@@ -1843,7 +2018,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://copinh.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667054276&amp;usg=AOvVaw3RBAtGTe6mdzm6riaOQFh_">COPINH</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://copinh.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667054276&amp;usg=AOvVaw3RBAtGTe6mdzm6riaOQFh_"><font color="blue">COPINH</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Consejo Cívico de Organizaciones Populares e Indígenas de Honduras</p>
@@ -1851,7 +2026,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=http://ecmia.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667055558&amp;usg=AOvVaw2X1dvFxklXA2OtKlFYowac">ECMIA</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=http://ecmia.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667055558&amp;usg=AOvVaw2X1dvFxklXA2OtKlFYowac"><font color="blue">ECMIA</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Enlace Continental de Mujeres Indígenas de las Américas</p>
@@ -1859,7 +2034,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://www.ukri.org/councils/esrc/&amp;sa=D&amp;source=editors&amp;ust=1718062667056499&amp;usg=AOvVaw2ePDeId684XHVqF_JSxqTE">ESRC</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://www.ukri.org/councils/esrc/&amp;sa=D&amp;source=editors&amp;ust=1718062667056499&amp;usg=AOvVaw2ePDeId684XHVqF_JSxqTE"><font color="blue">ESRC</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Economic and Social Research Council</p>
@@ -1867,7 +2042,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://www.fao.org/home/es&amp;sa=D&amp;source=editors&amp;ust=1718062667057452&amp;usg=AOvVaw3XH2_5f9gzFZPwCqN8Mvvy">FAO</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://www.fao.org/home/es&amp;sa=D&amp;source=editors&amp;ust=1718062667057452&amp;usg=AOvVaw3XH2_5f9gzFZPwCqN8Mvvy"><font color="blue">FAO</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Organización de las Naciones Unidas para la Alimentación y la Agricultura</p>
@@ -1875,7 +2050,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://fenatrad.org.br/&amp;sa=D&amp;source=editors&amp;ust=1718062667058353&amp;usg=AOvVaw3nN_ci-aMQKy9MR_puNtnw">Fenatrad</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://fenatrad.org.br/&amp;sa=D&amp;source=editors&amp;ust=1718062667058353&amp;usg=AOvVaw3nN_ci-aMQKy9MR_puNtnw"><font color="blue">Fenatrad</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Federação Nacional das Trabalhadoras Domésticas</p>
@@ -1883,7 +2058,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://fimi-iiwf.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667059247&amp;usg=AOvVaw1i7u-6LEwjmQD30HNKEvOv">FIMI</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://fimi-iiwf.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667059247&amp;usg=AOvVaw1i7u-6LEwjmQD30HNKEvOv"><font color="blue">FIMI</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Foro Internacional de Mujeres Indígenas</p>
@@ -1891,7 +2066,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://gire.org.mx/&amp;sa=D&amp;source=editors&amp;ust=1718062667060038&amp;usg=AOvVaw1g97TWtH6q6O6IiQ8NDe19">GIRE</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://gire.org.mx/&amp;sa=D&amp;source=editors&amp;ust=1718062667060038&amp;usg=AOvVaw1g97TWtH6q6O6IiQ8NDe19"><font color="blue">GIRE</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Grupo de Información de Reproducción Elegida</p>
@@ -1899,7 +2074,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://www.ukri.org/what-we-do/browse-our-areas-of-investment-and-support/ukri-impact-acceleration-accounts/&amp;sa=D&amp;source=editors&amp;ust=1718062667060866&amp;usg=AOvVaw3aJhYJcGNcewLtKzVi6Aq4">IAA</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://www.ukri.org/what-we-do/browse-our-areas-of-investment-and-support/ukri-impact-acceleration-accounts/&amp;sa=D&amp;source=editors&amp;ust=1718062667060866&amp;usg=AOvVaw3aJhYJcGNcewLtKzVi6Aq4"><font color="blue">IAA</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Impact Acceleration Account</p>
@@ -1907,7 +2082,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://idwfed.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667061727&amp;usg=AOvVaw3bDWnw3KS3QI-HQ8w0KLNH">IDWFED</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://idwfed.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667061727&amp;usg=AOvVaw3bDWnw3KS3QI-HQ8w0KLNH"><font color="blue">IDWFED</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">International Domestic Workers Federation</p>
@@ -1915,7 +2090,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://imumi.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667062717&amp;usg=AOvVaw3pnsJnUGtw37dqIn9HoHuC">IMUMI</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://imumi.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667062717&amp;usg=AOvVaw3pnsJnUGtw37dqIn9HoHuC"><font color="blue">IMUMI</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Instituto para las Mujeres en la Migración</p>
@@ -1923,7 +2098,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://irmo.org.uk/&amp;sa=D&amp;source=editors&amp;ust=1718062667063684&amp;usg=AOvVaw05iGztMVT0nhzfpmsG0MGo">IRMO</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://irmo.org.uk/&amp;sa=D&amp;source=editors&amp;ust=1718062667063684&amp;usg=AOvVaw05iGztMVT0nhzfpmsG0MGo"><font color="blue">IRMO</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Indoamerican Refugee and Migrant Organization</p>
@@ -1931,7 +2106,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://lab.org.uk/&amp;sa=D&amp;source=editors&amp;ust=1718062667064541&amp;usg=AOvVaw30Hf8ixG0r_0nucT1_7cRT">LAB</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://lab.org.uk/&amp;sa=D&amp;source=editors&amp;ust=1718062667064541&amp;usg=AOvVaw30Hf8ixG0r_0nucT1_7cRT"><font color="blue">LAB</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Latin American Bureau</p>
@@ -1939,7 +2114,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://lawadv.org.uk/&amp;sa=D&amp;source=editors&amp;ust=1718062667065469&amp;usg=AOvVaw2DvkYiXPSgTrnRG5z_tEti">LAWA</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://lawadv.org.uk/&amp;sa=D&amp;source=editors&amp;ust=1718062667065469&amp;usg=AOvVaw2DvkYiXPSgTrnRG5z_tEti"><font color="blue">LAWA</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Latin American Women’s Aid</p>
@@ -1947,7 +2122,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://lawrs.org.uk/&amp;sa=D&amp;source=editors&amp;ust=1718062667066419&amp;usg=AOvVaw0E_IqU3h_N-xw2p6PBbWRd">LAWRS</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://lawrs.org.uk/&amp;sa=D&amp;source=editors&amp;ust=1718062667066419&amp;usg=AOvVaw0E_IqU3h_N-xw2p6PBbWRd"><font color="blue">LAWRS</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Latin American Women’s Rights Service</p>
@@ -1955,7 +2130,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://migrantsinaction.org.uk/&amp;sa=D&amp;source=editors&amp;ust=1718062667067340&amp;usg=AOvVaw2sD510LjVFkjLICQkaGDv7">MinA</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://migrantsinaction.org.uk/&amp;sa=D&amp;source=editors&amp;ust=1718062667067340&amp;usg=AOvVaw2sD510LjVFkjLICQkaGDv7"><font color="blue">MinA</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Migrants in Action</p>
@@ -1963,7 +2138,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://mmcbrasil.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667068189&amp;usg=AOvVaw00cdrOkRxSobnGkqkniSxR">MMC</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://mmcbrasil.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667068189&amp;usg=AOvVaw00cdrOkRxSobnGkqkniSxR"><font color="blue">MMC</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Movimento de Mulheres Camponesas</p>
@@ -1971,7 +2146,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://www.ilo.org/global/lang--es/index.htm&amp;sa=D&amp;source=editors&amp;ust=1718062667069249&amp;usg=AOvVaw1sAkgq-l0UqcuIF5S6bldM">OIT</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://www.ilo.org/global/lang--es/index.htm&amp;sa=D&amp;source=editors&amp;ust=1718062667069249&amp;usg=AOvVaw1sAkgq-l0UqcuIF5S6bldM"><font color="blue">OIT</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Organización Internacional del Trabajo</p>
@@ -1979,7 +2154,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://www.who.int/es&amp;sa=D&amp;source=editors&amp;ust=1718062667070251&amp;usg=AOvVaw0IuSmerH2Zl5cfCUdO5t2_">OMS</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://www.who.int/es&amp;sa=D&amp;source=editors&amp;ust=1718062667070251&amp;usg=AOvVaw0IuSmerH2Zl5cfCUdO5t2_"><font color="blue">OMS</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Organización Mundial de la Salud</p>
@@ -1987,7 +2162,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://www.onamiap.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667071343&amp;usg=AOvVaw0vKtgKzFPK2YSedIkk-0a9">Onamiap</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://www.onamiap.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667071343&amp;usg=AOvVaw0vKtgKzFPK2YSedIkk-0a9"><font color="blue">Onamiap</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Organización Nacional de Mujeres Andinas y Amazónicas del Perú</p>
@@ -1995,7 +2170,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=http://sinactraho.org/quienes-somos/&amp;sa=D&amp;source=editors&amp;ust=1718062667072575&amp;usg=AOvVaw2M3JesHW7CTDs0zkWawi9P">Sinactraho</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=http://sinactraho.org/quienes-somos/&amp;sa=D&amp;source=editors&amp;ust=1718062667072575&amp;usg=AOvVaw2M3JesHW7CTDs0zkWawi9P"><font color="blue">Sinactraho</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Sindicato Nacional de Trabajadoras del Hogar</p>
@@ -2003,7 +2178,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://twitter.com/utrasdsindicato?lang%3Des&amp;sa=D&amp;source=editors&amp;ust=1718062667073828&amp;usg=AOvVaw3dhFNXk98oK0_XRfJFQR9V">UTRASD</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://twitter.com/utrasdsindicato?lang%3Des&amp;sa=D&amp;source=editors&amp;ust=1718062667073828&amp;usg=AOvVaw3dhFNXk98oK0_XRfJFQR9V"><font color="blue">UTRASD</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Unión de Trabajadoras Afrocolombianas del Servicio Doméstico</p>
@@ -2011,7 +2186,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://lawrs.org.uk/warmi/&amp;sa=D&amp;source=editors&amp;ust=1718062667074875&amp;usg=AOvVaw0fQF-FCecMqaCY9nVkG1LE">WARMI</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://lawrs.org.uk/warmi/&amp;sa=D&amp;source=editors&amp;ust=1718062667074875&amp;usg=AOvVaw0fQF-FCecMqaCY9nVkG1LE"><font color="blue">WARMI</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Women Activist Revolutionary Migrant Intersectional</p>
@@ -2019,7 +2194,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://www.wiego.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667075833&amp;usg=AOvVaw2eEu_aQJshpI-HEcFv9F7c">WIEGO</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://www.wiego.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667075833&amp;usg=AOvVaw2eEu_aQJshpI-HEcFv9F7c"><font color="blue">WIEGO</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Women in Informal Employment Globalizing and Organizing</p>
@@ -2027,7 +2202,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://lab.org.uk/wrv/&amp;sa=D&amp;source=editors&amp;ust=1718062667076883&amp;usg=AOvVaw3-tOhYPIJ5oljvGCL54HDT">WRV</a></p>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://lab.org.uk/wrv/&amp;sa=D&amp;source=editors&amp;ust=1718062667076883&amp;usg=AOvVaw3-tOhYPIJ5oljvGCL54HDT"><font color="blue">WRV</a></font></p>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Women Resisting Violence</p>
@@ -2039,176 +2214,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
     
     
 </div>
-<hr class="c160">
-<div>
-    <p class="c60"><a href="#ftnt_ref1" id="ftnt1">[1]</a> CAWN fue una red de solidaridad del Reino Unido y una oenegé con sede en Londres que apoyó a organizaciones de mujeres en Centroamérica entre 1992 y 2017. Se vio obligada a cerrar por falta de financiamiento y recursos.</p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref2" id="ftnt2">[2]</a> Hacemos referencia en todo el libro al podcast Mujeres resistiendo la violencia. Este fue publicado en el 2022 por el LAB, producido por Louise Morris en colaboración entre el LAB y el King’s College de Londres y financiado por el IAA del ESRC del King’s College, con el apoyo adicional del National Lottery Community Fund. Escucha el podcast dando clic <a class="c11" href="https://www.google.com/url?q=http://wrv.org.uk/podcast&amp;sa=D&amp;source=editors&amp;ust=1718062667078509&amp;usg=AOvVaw3XIHmpFB4CxCklASZA-vL_">aquí.</a> </p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref3" id="ftnt3">[3]</a> Los lencas son el pueblo étnico precolombino de mayor población en Honduras, también ocupan parte de la zona fronteriza de El Salvador.</p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref4" id="ftnt4">[4]</a> Los garífunas son descendientes de una población afroindígena del Caribe que se exilió en la costa hondureña en el siglo xviii y que (hoy en día) también vive en Belice.</p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref5" id="ftnt5">[5]</a> Ver UN Women (2020) <a class="c11" href="https://www.google.com/url?q=https://www.unwomen.org/en/news/stories/2020/6/explainer-intersectional-feminism-what-it-means-and-why-it-matters&amp;sa=D&amp;source=editors&amp;ust=1718062667079452&amp;usg=AOvVaw1tDLyBIwnifDMQRTpewERM">«Intersectional feminism: what it means and why it matters right now»</a>.</p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref6" id="ftnt6">[6]</a> Utilizamos los términos mujeres y hombres, aunque reconocemos que existen más de dos géneros y que las personas trans y no binarias también sufren discriminación y violencia. No obstante, el principal objetivo de este libro es destacar la violencia que afecta a las mujeres cisgénero (mujeres que se identifican con el género que se les asignó según su sexo al nacer).</p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref7" id="ftnt7">[7]</a> MenEngage América Latina es una alianza de organizaciones que trabajan para transformar las masculinidades patriarcales e involucran a hombres y niños en la lucha por la igualdad de género. Actualmente cuenta con 110 miembros en 12 países de América Latina. Más información dando clic <a class="c11" href="https://www.google.com/url?q=https://menengage.org/region/latin-america/&amp;sa=D&amp;source=editors&amp;ust=1718062667080170&amp;usg=AOvVaw2sIUqRFdQFsUyik5JRo5DH">aquí.</a> </p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref8" id="ftnt8">[8]</a> Promundo Brasil es una oenegé fundada en 1997 que opera en diferentes regiones de Brasil y otros países del mundo, y que intenta promover la igualdad de género y la prevención de la violencia, con un enfoque en la participación de hombres y mujeres en la transformación de las masculinidades. Más información sobre su labor de prevención de la violencia en <a class="c11" href="https://www.google.com/url?q=https://promundo.org.br/trabalho/?programa%3Dprevencao-de-violencia&amp;sa=D&amp;source=editors&amp;ust=1718062667080653&amp;usg=AOvVaw0hbUDUEcmGH04wq9nTv-JC">Prevenindo violência baseada em gênero e violência contra crianças.</a> </p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref9" id="ftnt9">[9]</a> Las estadísticas están disponibles en la base de datos mundial de la ONU Mujeres <a class="c11" href="https://www.google.com/url?q=https://data.unwomen.org/evaw/database&amp;sa=D&amp;source=editors&amp;ust=1718062667081100&amp;usg=AOvVaw2pA1Y3EZzM_89ad3afUtNC">Global database on violence against women</a> (UN Women, 2016).</p>
-</div>
-<div>
-    <p class="c60" id="h.i17xr6"><a href="#ftnt_ref10" id="ftnt10">[10]</a> Los primeros casos de lo que ahora en México y Centroamérica se conoce como feminicidio o asesinato de mujeres por el hecho de ser mujeres ocurrieron en 1993 en Ciudad Juárez, México. En la prensa, se empezó a publicar noticias sobre el creciente número de cadáveres mutilados de mujeres y sobre la desaparición de muchas mujeres en la ciudad, muchas de ellas jóvenes trabajadoras de las fábricas de las zonas francas. Ver más información en la página web del CEPAL y su <a class="c11" href="https://www.google.com/url?q=https://oig.cepal.org/es/indicadores/feminicidio&amp;sa=D&amp;source=editors&amp;ust=1718062667081563&amp;usg=AOvVaw0-bbCp-91KTqyfUxU0mPz2">Observatorio de Igualdad de Género de América Latina y el Caribe.</a> </p>
-</div>
-<div>
-    <p class="c104 c66"><a href="#ftnt_ref11" id="ftnt11">[11]</a> Para más información sobre las campañas de CLADEM dar clic <a class="c11" href="https://www.google.com/url?q=https://cladem.org/campanas&amp;sa=D&amp;source=editors&amp;ust=1718062667081905&amp;usg=AOvVaw0QyuAThyYzY_uwJajXgo4m">aquí.</a> </p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref12" id="ftnt12">[12]</a> Ver el <a class="c11" href="https://www.google.com/url?q=https://mundosur.org/wp-content/uploads/2020/06/Manifiesto-Latinoamericano.pdf&amp;sa=D&amp;source=editors&amp;ust=1718062667082276&amp;usg=AOvVaw1TKBV5wpjtGxnyKVIH7atZ">«Manifiesto latinoamericano contra las violencias de género, femicidios/ feminicidios y los trans/travesticidios»</a> (Mundosur, 2021).</p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref13" id="ftnt13">[13]</a> Ver el <a class="c11" href="https://www.google.com/url?q=https://feminicidiosmx.crowdmap.com/&amp;sa=D&amp;source=editors&amp;ust=1718062667082766&amp;usg=AOvVaw3c3KMrIKygkbWxpmAF0Hd9">mapa del feminicidio en México</a> de María Salguero; los mapas de Ciudad Juárez por medio de <a class="c11" href="https://www.google.com/url?q=http://www.ellastienennombre.org&amp;sa=D&amp;source=editors&amp;ust=1718062667083040&amp;usg=AOvVaw1hOapOk_NWsNexba4RIcBf">Ellas Tienen Nombre</a>; los mapas del <a class="c11" href="https://www.google.com/url?q=http://feminicidiouruguay.net&amp;sa=D&amp;source=editors&amp;ust=1718062667083334&amp;usg=AOvVaw1vV_zo65Yl1mSKlv6XLVzD">feminicidio en Uruguay</a> y el Colectivo de Geografía Crítica de Ecuador y su mapa de <a class="c11" href="https://www.google.com/url?q=https://geografiacriticaecuador.org/2017/11/01/actualizacion-del-mapa-de-feminicidios/&amp;sa=D&amp;source=editors&amp;ust=1718062667083691&amp;usg=AOvVaw2c8AbBp8q2NpIg9BJjvDj6">Feminicidios en el Ecuador continental</a>.</p>
-    
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref14" id="ftnt14">[14]</a> Las mujeres quilombolas son mujeres afrobrasileñas que residen en asentamientos históricos (quilombolos), descendientes de personas esclavizadas que huyeron de la esclavitud y que se establecieron ahí como acto de resistencia territorial organizada.</p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref15" id="ftnt15">[15]</a> Ver más en el artículo «<a class="c11" href="https://www.google.com/url?q=https://www.academia.edu/49460881/Mujeres_ind%25C3%25ADgenas_rompen_el_silencio_Tribunales_de_Conciencia_en_Guerrero&amp;sa=D&amp;source=editors&amp;ust=1718062667084307&amp;usg=AOvVaw0G-Cd9W3hcGDUZOub892PS">Mujeres indígenas rompen el silencio y exigen justicia tribunal de conciencia sobre violencia de género en México</a>» (Sierra y Figueroa, 2020). </p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref16" id="ftnt16">[16]</a> Ver Lines (2021) <a class="c11" href="https://www.google.com/url?q=https://lab.org.uk/wrv-quintana-roo-sit-in-marks-historic-step-towards-legalisation-of-abortion-in-mexico/&amp;sa=D&amp;source=editors&amp;ust=1718062667084767&amp;usg=AOvVaw3F8mEHomgxikHZgeguHoNH">«Plantón en Quintana Roo marca paso histórico hacia legalización del aborto en México»</a>.</p>
-</div>
-<div>
-    <p class="c135 c66"><a href="#ftnt_ref17" id="ftnt17">[17]</a> Este capítulo está íntimamente relacionado con el episodio 2 del podcast Mujeres resistiendo la violencia, llamado <a class="c11" href="https://www.google.com/url?q=https://lab.org.uk/wrv/podcast/&amp;sa=D&amp;source=editors&amp;ust=1718062667085160&amp;usg=AOvVaw3LYkm1eJbOfXJAqc7sxxp3">«Rio’s Trailblazing Women’s House»</a> \[«La Casa de las Mujeres, pionera en Río»\] (Morris, 2021), disponible en inglés y portugués y con transcripción al español.</p>
-</div>
-<div>
-    <p class="c60" id="h.320vgez"><a href="#ftnt_ref18" id="ftnt18">[18]</a> La violencia de género interseccional, como se amplía en el capítulo y se usa en todo el libro, se refiere a la violencia directa o indirecta hacia las mujeres y las niñas por razones de género, raza, etnicidad, clase social, orientación sexual, edad, discapacidad o cualquier otra forma de discriminación.</p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref19" id="ftnt19">[19]</a> La Casa das Mulheres fue fundada en 2016 por Redes da Maré, su objetivo es fomentar la acción de las mujeres en las favelas para ayudar a que mejoren sus condiciones de vida. Más información en McIlwaine (2021b).</p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref20" id="ftnt20">[20]</a> Estos datos se basan en colaboraciones de investigación de dos proyectos dirigidos por Cathy McIlwaine: Transnational VAWG (2016-2019) y Dignidad y Resiliencia (2019-2021). El primero, financiado por ESRC (ES/N013247/1) y el segundo por la British Academy y el Global Challenges Research Fund (HDV190030).</p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref21" id="ftnt21">[21]</a> Smith (2018) coloca estas experiencias dentro de un contexto más amplio de necropolítica de género, un término que fue acuñado por el historiador Achille Mbembe y que se refiere al modo en que los Estados deciden qué vidas son más valiosas que otras (Pele, 2020). </p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref22" id="ftnt22">[22]</a> Favelada se refiere no solo a una persona que vive o creció en las favelas, sino también a la reafirmación de la resistencia a las condiciones que enfrentan quienes habitan allí, a la manera como construyen formas de ser y de estar. </p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref23" id="ftnt23">[23]</a> Puede acceder a la exposición <a class="c11" href="https://www.google.com/url?q=https://vidasfemininas.museudapessoa.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667086051&amp;usg=AOvVaw29PoWLrhcR9i5a_EgKyS-Q">Vidas femininas</a> en línea. </p>
-</div>
-<div>
-    <p class="c60" id="h.1h65qms"><a href="#ftnt_ref24" id="ftnt24">[24]</a> Para más información sobre ejemplos de movilizaciones de mujeres ver <a class="c11" href="https://www.google.com/url?q=https://lac.unwomen.org/es/noticias-y-eventos/articulos/2020/11/impacto-economico-covid-19-mujeres-america-latina-y-el-caribe&amp;sa=D&amp;source=editors&amp;ust=1718062667086532&amp;usg=AOvVaw2pM0xQkQYwfDsK9w6g2uOn">«El impacto económico del covid-19 en las mujeres de América Latina y el Caribe»</a> (ONU Mujeres, 2020) </p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref25" id="ftnt25">[25]</a> Ver el informe de Redes da Maré (2020) sobre los resultados de la campaña en el <a class="c11" href="https://www.google.com/url?q=https://www.redesdamare.org.br/media/downloads/arquivos/RdM_Relatorio_2020.pdf&amp;sa=D&amp;source=editors&amp;ust=1718062667086972&amp;usg=AOvVaw1nLPVYtO8UXx1pcdlckBYN">«Relatório anual 2020»</a>. </p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref26" id="ftnt26">[26]</a> La terminología que se usa para las dos principales modalidades de trabajo de las trabajadoras del hogar es muy variada en los países de habla hispana. Para la modalidad uno, se usan términos como trabajadoras de puertas adentro, de planta o residentes, en este documento elegimos usar el último término. Para modalidad dos, se usa trabajadoras de puertas afuera o trabajadoras de entrada por salida, en este documento utilizaremos el término trabajadoras no residentes. (Nota de la traductora)</p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref27" id="ftnt27">[27]</a> El contrato, así como los carteles que enumeran los derechos de las trabajadoras y los salarios justos, están disponibles para descargar desde el sitio web del <a class="c11" href="https://www.google.com/url?q=http://www.caceh.org.mx/&amp;sa=D&amp;source=editors&amp;ust=1718062667087810&amp;usg=AOvVaw01vdbKLT4DIlzlZBZFzG6e">CACEH</a>. </p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref28" id="ftnt28">[28]</a> La OIT señala que existe una falta de conocimiento empírico adecuado sobre la situación de las trabajadoras domésticas indígenas. En 2016 iniciaron una serie de estudios por países para investigar las experiencias de las mujeres indígenas que se incorporan al sector del trabajo doméstico. Estos estudios tienen como objetivo capturar numerosos aspectos relacionados con el trabajo doméstico, incluidas las razones que empujan a las mujeres indígenas a realizar este tipo de trabajo; las circunstancias de la migración y el reclutamiento; experiencias de condiciones laborales; conciencia sobre las instituciones, leyes y políticas existentes; y esfuerzos, iniciativas o redes colectivas de mujeres indígenas.</p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref29" id="ftnt29">[29]</a> El LAWRS es una organización feminista de derechos humanos, dirigida por y para mujeres latinoamericanas que viven en el Reino Unido, fue fundada en 1983 por mujeres latinoamericanas en respuesta a la falta de apoyo social culturalmente sensible disponible para las mujeres migrantes y refugiadas de América Latina (Thomson, 2021).</p>
-</div>
-<div>
-    <p class="c60" id="h.415t9al"><a href="#ftnt_ref30" id="ftnt30">[30]</a> La IDWF se creó en 2009 tras una conferencia celebrada en Ámsterdam para promover la movilización de las trabajadoras del hogar en todo el mundo, para esto, contó con el apoyo de organizaciones internacionales como la Women in Informal Employment Globalizing and Organizing (WIEGO) \[Mujeres en el Empleo Informal: Globalizando y Organizando\], una red mundial centrada en el empoderamiento de los trabajadores de bajos recursos, especialmente las mujeres), así como de federaciones sindicales internacionales. El comité directivo de la IDWF aceptó las solicitudes de afiliación de 14 organizaciones de trabajadoras del hogar como primer grupo de afiliadas a la IDWF, en una reunión celebrada en mayo de 2012. El Congreso Fundador se celebró en octubre de 2013, y en este adoptó su nombre oficial como International Domestic Workers Federation (IDWF) \[Federación Internacional de Trabajadoras del Hogar\].</p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref31" id="ftnt31">[31]</a> UTRASD es una red solidaria que ofrece asesoramiento y apoyo sobre derechos laborales, consejería psicosocial, formación sobre derechos y promoción para mejorar la legislación.</p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref32" id="ftnt32">[32]</a> Para más información sobre la página web de <a class="c11" href="https://www.google.com/url?q=https://www.sinactraho.org.mx&amp;sa=D&amp;source=editors&amp;ust=1718062667088696&amp;usg=AOvVaw1BeRf_PDw3txxI-pahs54v">Sinactraho</a>. </p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref33" id="ftnt33">[33]</a> Ver el video titulado <a class="c11" href="https://www.google.com/url?q=https://www.youtube.com/watch?v%3DGit50CFeyRU&amp;sa=D&amp;source=editors&amp;ust=1718062667089047&amp;usg=AOvVaw2zarRX8eqncVVYeqw1Zlcq">Demanda por la ratificación del Convenio 190 de la OIT y su Recomendación 206</a> (Conlactraho, 2021).</p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref34" id="ftnt34">[34]</a> Fundado en 1986, Vía Campesina es un movimiento internacional formado por más de 200 millones de integrantes de unos 70 países: campesinos, pequeños agricultores, personas sin tierra, trabajadores/as rurales, pueblos indígenas y otros pequeños productores de alimentos. Este movimiento lucha por la soberanía alimentaria, concepto que ellos definen como «el derecho de las personas de todo el mundo a producir alimentos de forma local y sostenible, mediante métodos agroecológicos que respeten el contexto cultural, climático y geográfico de cada región».</p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref35" id="ftnt35">[35]</a> Nombre cambiado por petición de la fuente.</p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref36" id="ftnt36">[36]</a> La demanda de las mujeres de Lote Ocho en Guatemala ha hecho historia. Desde su presentación en 2007, otras empresas mineras canadienses han sido demandadas en Canadá por negligencia y violaciones de los derechos humanos cometidas en el extranjero. La historia completa del caso de Lote Ocho puede consultarse en el artículo <a class="c11" href="https://www.google.com/url?q=https://newint.org/features/2021/10/07/our-whole-truth-will-come-out-canada&amp;sa=D&amp;source=editors&amp;ust=1718062667089924&amp;usg=AOvVaw2FaDft-v9h2EFWHZ0iiuvI">«Our whole truth Will come out»</a> (Olivera, 2021).</p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref37" id="ftnt37">[37]</a> La Casa de Mujeres Amazónicas publica regularmente imágenes e información sobre la campaña en su página de Instagram @mujeresamazonicas.</p>
-    
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref38" id="ftnt38">[38]</a> Para mayor información sobre la demarcación de tierras y su importancia para las mujeres indígenas y quilombolas ver <a class="c11" href="https://www.google.com/url?q=https://raizesds.com.br/%2520pt/povos-indigenas-quilombolas&amp;sa=D&amp;source=editors&amp;ust=1718062667090662&amp;usg=AOvVaw3c6dXGakAq-njdHxwrykcY">«Povos indígenas e quilombolas: 3 motivos pelos quais a demarcação de terras é importante»</a> (Raízes, 2018).</p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref39" id="ftnt39">[39]</a> En noviembre de 2021, el CEDAW acordó que la próxima Recomendación General (n.o 39) se centraría en los derechos de las mujeres y las niñas indígenas. La consulta con organizaciones de la sociedad civil fue parte de un proceso participativo para acercar esta recomendación a las necesidades y prioridades específicas de las mujeres indígenas. La Recomendación n.o 39 fue adoptada en 2022. Más información en «Recomendación General n.o 39 (2022) sobre los derechos de las mujeres y las niñas Indígenas». (CEDAW, 2022).</p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref40" id="ftnt40">[40]</a> Este capítulo está íntimamente relacionado con el episodio 3 del podcast Mujeres resistiendo la violencia, llamado <a class="c11" href="https://www.google.com/url?q=https://lab.org.uk/wrv/podcast/&amp;sa=D&amp;source=editors&amp;ust=1718062667091423&amp;usg=AOvVaw0G7YAAAqDlrmzW20h_jyMp">«Mujeres migrantes: levántense»</a> (Morris, 2021), disponible en inglés, español y portugués. </p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref41" id="ftnt41">[41]</a> Este capítulo se basa en colaboraciones de investigación por medio de tres proyectos dirigidos por McIlwaine: <a class="c11" href="https://www.google.com/url?q=https://transnationalviolenceagainstwomen.org/the-researches/transnational-vawg&amp;sa=D&amp;source=editors&amp;ust=1718062667091777&amp;usg=AOvVaw1dYG0U_tW6uzrTnpwRFXhr">Transnational VAWG</a>; <a class="c11" href="https://www.google.com/url?q=https://transnationalviolenceagainstwomen.org/the-researches/research-projects-we-still-fight-in-the-dark&amp;sa=D&amp;source=editors&amp;ust=1718062667092139&amp;usg=AOvVaw36CVinW5ag3BDLQ18q4A0W">We still fight in the dark</a> y <a class="c11" href="https://www.google.com/url?q=https://cathymcilwaine.info/research-projects/step-up-migrant-women&amp;sa=D&amp;source=editors&amp;ust=1718062667092476&amp;usg=AOvVaw2OMS3DhS34APN0uEmuP6CQ">Step Up Migrant Women</a>. El primero está financiado por el Economic and Social Research Council (ESRC) (ES/N013247/1), el segundo, por ESRC y el Impact Acceleration Account (IAA) del King’s College de Londres, y el tercero, por el Latin American Women’s Rights Service (LAWRS) y la Fundación Lloyd’s.</p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref42" id="ftnt42">[42]</a> Esta investigación se basa en la colaboración con migrantes brasileñas en Londres, que incluye una encuesta cuantitativa a 175 mujeres, junto con 25 entrevistas en profundidad y cinco grupos focales; así como un mapeo de los servicios de las organizaciones que prestan apoyo a las mujeres víctimas y sobrevivientes de la violencia, basado en entrevistas con representantes de 12 proveedores.</p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref43" id="ftnt43">[43]</a> Esto se muestra en el video <a class="c11" href="https://www.google.com/url?q=https://youtu.be/_wb2U2TKbAE&amp;sa=D&amp;source=editors&amp;ust=1718062667093136&amp;usg=AOvVaw3B7o6ibMrPP31RdXB2-Qs7">Navegando fronteras</a> (LSE, 2021), creado como parte del proyecto de investigación de Megan Ryburn « Navigating borderlands: Colombian migrant women in Chile and experiences of violence» \[«Navegando fronteras: mujeres migrantes colombianas en Chile y experiencias de violencia»\]. </p>
-</div>
-<div>
-    <p class="c60" id="h.2gb3jie"><a href="#ftnt_ref44" id="ftnt44">[44]</a> Una persona no podrá recurrir a fondos públicos cuando esté «sujeta a control de inmigración», según la definición del artículo 115 de la Immigration and Asylum Act \[Ley de Inmigración y Asilo\] de 1999. Una persona sujeta a control de inmigración no puede solicitar fondos públicos (prestaciones y ayudas a la vivienda) a menos que se aplique una excepción (NRPF Network, s.f.).</p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref45" id="ftnt45">[45]</a> El Latin American Women’s Rights Service (LAWRS) es una organización feminista de derechos humanos, dirigida por y para mujeres latinoamericanas que viven en el Reino Unido. Fue fundada en respuesta a la falta de apoyo disponible para las mujeres migrantes y refugiadas de América Latina en este país (Thomson, 2021).</p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref46" id="ftnt46">[46]</a> El video «es una celebración de nuestra diversidad, identidades y culturas; una llamada de atención a los responsables políticos para que actúen; y una invitación a otros grupos de jóvenes, feministas y comunidades minoritarias para que unan sus fuerzas y nos apoyen en nuestro papel de agentes del cambio en la sociedad británica». \[ver <a class="c11" href="https://www.google.com/url?q=https://youtu.be/HGPNE1bULnw&amp;sa=D&amp;source=editors&amp;ust=1718062667093765&amp;usg=AOvVaw0c6CEDNeikGccufalqZ9fu">This is who we are: Sin Fronteras</a>\] </p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref47" id="ftnt47">[47]</a> Este proyecto interdisciplinario documentó las experiencias de mujeres sobrevivientes de la VCMN por medio de investigación (encuestas, entrevistas testimoniales y grupos focales), así como de prácticas artísticas (obras de teatro verbatim que reproducen palabra por palabra textos reales, películas e instalaciones audiovisuales) para poner de relieve la importancia y el impacto de este fenómeno. Muestra de manera alarmante, no solo las altas tasas de incidencia, sino también los efectos negativos profundamente arraigados de la VCMN en el bienestar de las mujeres. El video <a class="c11" href="https://www.google.com/url?q=https://www.youtube.com/watch?v%3DLPDNxtWB9e0&amp;sa=D&amp;source=editors&amp;ust=1718062667094197&amp;usg=AOvVaw3L0101RpkeZ0t-WOUjibmx">Raising awareness on violence against Brazilian women in London</a>, dirigido por Aida Baneres, con animación de Francesca da Bassa y música de Cesc Fonoll, está disponible en YouTube. </p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref48" id="ftnt48">[48]</a> Ver más información sobre <a class="c11" href="https://www.google.com/url?q=https://gaellecornec1.wixsite.com/efemera&amp;sa=D&amp;source=editors&amp;ust=1718062667094541&amp;usg=AOvVaw3NaVy0j3pksr_qvzXXDaTh">Efêmera</a> (Le Cornec, 2018). Ver más información sobre <a class="c11" href="https://www.google.com/url?q=https://www.footprintproductions.co.uk/film-ana&amp;sa=D&amp;source=editors&amp;ust=1718062667094786&amp;usg=AOvVaw3DEPgzsPZvdO-0mEgbChI1">Ana</a> (Le Cornec, 2019).</p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref49" id="ftnt49">[49]</a> Este Proyecto es producto de una colaboración entre MinA, Cathy McIlwaine y Niall Sreenan (del Policy Institute del King’s College), Renata Peppl (People’s Palace Projects) y con apoyo de LAWRS.</p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref50" id="ftnt50">[50]</a> Ver también <a class="c11" href="https://www.google.com/url?q=https://stepupmigrantwomen.org/2020/06/26/migrant-women-failed-by-the-state-locked-in-abuse&amp;sa=D&amp;source=editors&amp;ust=1718062667095317&amp;usg=AOvVaw12Vy80HzZK0lQySTMoyqw6">«Migrant Women: Failed by the State, Locked in Abuse»</a> \[«Mujeres migrantes: desamparadas por el Estado, prisioneras del maltrato» (Step Up Migrant Women, 2020)\]. </p>
-</div>
-<div>
-    <p class="c66 c135"><a href="#ftnt_ref51" id="ftnt51">[51]</a> Este capítulo está íntimamente relacionado con el episodio 1 del podcast Mujeres resistiendo la violencia, llamado <a class="c11" href="https://www.google.com/url?q=https://lab.org.uk/wrv/podcast/&amp;sa=D&amp;source=editors&amp;ust=1718062667095888&amp;usg=AOvVaw22eCJl1-fS_Roh5Zs-wXpT">«Nos Duelen 56 en Guatemala»</a> (Morris, 2021), disponible en inglés y español, y con transcripción al portugués. </p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref52" id="ftnt52">[52]</a> Frente a esto, por ejemplo, vale la pena destacar cómo la violencia infligida a Victoria Salazar, migrante salvadoreña en México, continuó incluso después de ser asesinada por la policía, por medio de reproducciones en línea y representaciones sensacionalistas de su muerte. Al respecto, en el artículo de Tallulah Lines (2021) «<a class="c11" href="https://www.google.com/url?q=https://web-archive.southampton.ac.uk/gcrf-reghid.com/index.html%253Fp%3D653.html&amp;sa=D&amp;source=editors&amp;ust=1718062667096513&amp;usg=AOvVaw1LM7nj13vbCier8I-B77MX">Police brutally killed Victoria Salazar: how are feminists representing her death in a dignified way?»</a> \[«La policía mató brutalmente a Victoria Salazar: ¿cómo representan las feministas su muerte de manera digna?»\], la autora se pregunta cómo podemos contribuir a mitigar la violencia contra las mujeres y las niñas y evitar revictimizar a las mujeres mediante la forma en que recordamos sus muertes y sus vidas.</p>
-</div>
-<div>
-    <p class="c60"><a href="#ftnt_ref53" id="ftnt53">[53]</a> Basándose en la comprensión de Crenshaw de la interseccionalidad (1991).</p>
-</div>
 
-<p class="c104"><a href="#cmnt_ref1" id="cmnt1">[a]</a>No pude encontrar la cita en internet, y en el artículo referenciado tampoco aparecían sus palabras, encontré esta entrevista de ella en El Espectador, creo que se puede ajustar para que sea más verificable la información.</p>
-
-
-<p class="c104"><a href="#cmnt_ref2" id="cmnt2">[b]</a>Por más que busco en internet, este grupo no se conoce con esa sigla ACDATEE. Solo el nombre. Por eso propongo reformular.</p>
-
-
-<p class="c104"><a href="#cmnt_ref3" id="cmnt3">[c]</a>propongo eliminar porque no funciona el link Para más información sobre diversas estadísticas de la violencia contra las mujeres en Guatemala consultar el portal estadístico del Observatorio de las Mujeres, de Guatemala.</p>
 
 - - -
 
