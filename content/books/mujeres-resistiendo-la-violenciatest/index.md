@@ -1044,7 +1044,7 @@ Para las mujeres indígenas, afrodescendientes y rurales, el acceso al derecho a
 
 ## CAPÍTULO 5
 
-<br><h3>«Tengo derechos y soy libre»: resistiendo la violencia de género interseccional contra mujeres migrantes latinoamericanas</h3><br><i> <sup class="c58"><a href="#ftnt40" id="ftnt_ref40">\[40\]</a></sup>
+<br><h3>«Tengo derechos y soy libre»: resistiendo la violencia de género interseccional contra mujeres migrantes latinoamericanas</h3><i> <sup class="c58"><a href="#ftnt40" id="ftnt_ref40">\[40\]</a></sup><br>
 Cathy McIlwaine<br>Traducido por Rocío Suárez López</i>
 
 Ana es una mujer migrante boliviana, de 51 años, que vive en Londres con un estatus migratorio inseguro. Ella informó acerca de cómo había sufrido años de abuso doméstico y cómo al principio tenía miedo de denunciar a la policía debido a su situación. Con ayuda de una organización de atención a migrantes pudo dejar a su pareja abusiva, acceder a apoyo y regularizar su situación. Al respecto, narró:
