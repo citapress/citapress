@@ -818,8 +818,8 @@ Este capítulo analiza los impactos del acaparamiento de tierras en mujeres rura
 
 <h3 class="c14" id="h.3jtnz0s">El acaparamiento de tierras como una práctica deshumanizante</h3>
 
-<p align="right">El acaparamiento de tierras está haciendo daño a nuestros cuerpos, a nuestras tierras, a nuestros territorios y sus ecosistemas. <br>
-Ercilia Araya, 2022.</p>
+<p align="right"><small>El acaparamiento de tierras está haciendo daño a nuestros cuerpos, a nuestras tierras, a nuestros territorios y sus ecosistemas. <br>
+Ercilia Araya (2022)</p></small>
 
 En América Latina, una gran mayoría de comunidades rurales, campesinas, indígenas y afrodescendientes están sufriendo los impactos del extractivismo de la minería y del agronegocio a gran escala. Esto ha conllevado a la negación de su derecho a la tierra, al despojo territorial generalizado, a la contaminación ambiental y, en última instancia, al desempoderamiento económico y cultural. Estos últimos se ven reflejados en la pérdida de sus formas de producción y medios de vida tradicionales, pérdida de saberes ancestrales que aseguran el bienestar de las comunidades y de los ecosistemas. 
 
