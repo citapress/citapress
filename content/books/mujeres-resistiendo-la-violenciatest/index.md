@@ -636,7 +636,7 @@ Siempre habrá tareas domésticas y de cuidados que realizar en los hogares porq
 
 ## CAPÍTULO 3
 
-<span><br>«Una lucha muy dura»: el aborto como campo de batalla por los derechos de las mujeres en América Latina<br></span>Jelke Boesten y Andrea Espinoza<br>Traducido por Mailén García
+<h3>«Una lucha muy dura»: el aborto como campo de batalla por los derechos de las mujeres en América Latina</h3><br></span><i>Jelke Boesten y Andrea Espinoza<br>Traducido por Mailén García</i>
 
 En toda América Latina existen tensiones y contradicciones alrededor del cumplimiento y la protección de los derechos reproductivos. Importantes victorias feministas han sido agresivamente resistidas e incluso revertidas por las fuerzas conservadoras. En este sentido cabe preguntarse, ¿de qué tratan estas batallas? ¿Se refieren al aborto, al «derecho a la vida», a los derechos de las mujeres o a algo más complejo? ¿Cómo podemos entender la energía invertida por activistas de ambos lados del espectro, sus ganancias y sus pérdidas? ¿Y qué significa esto en última instancia para los derechos de las mujeres y la igualdad de género en América Latina y más allá?
 
