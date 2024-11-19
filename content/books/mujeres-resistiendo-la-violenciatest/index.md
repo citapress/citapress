@@ -1396,6 +1396,34 @@ Las siguientes recomendaciones de políticas públicas representan algunas accio
  <div class="recuadro">  <b>Recomendación 1:</b>
 Las narrativas políticas y jurídicas deben tratar la VCMN como una vulneración de derechos humanos y cumplir con obligaciones jurídicamente vinculantes de garantizar la igualdad y la no discriminación (siguiendo la Convención de Belém do Pará en temas de prevención, sanción y erradicación de todas las formas de violencia contra la mujer y la Meta 5.2 del Objetivo de Desarrollo Sostenible (ODS) 5). </div>
 
+ <div class="recuadro">  <b>Recomendación 2:</b>
+Las narrativas políticas y jurídicas deben abordar el «acceso a la salud y los derechos sexuales y reproductivos» (ODS 5, Meta 5.6) como un derecho humano serio y una obligación vinculante.</div>
+
+ <div class="recuadro">  <b>Recomendación 3:</b>
+Confiar en los testimonios de las mujeres y escucharlas sobre el tema de la VCMN, utilizando sus relatos como datos fiables para informar las políticas y la legislación.</div>
+
+
+ <div class="recuadro">  <b>Recomendación 4:</b>
+Desarrollar programas en el ámbito nacional para los proveedores de justicia (jueces, políticos, personal forense y otros) sobre marcos relevantes para el derecho de las mujeres a una vida libre de violencia. Incluir la generación de conciencia crítica sobre las normas sociales y sobre la discriminación y la desigualdad interseccional y de género.</div>
+
+ <div class="recuadro">  <b>Recomendación 5:</b>
+Desarrollar programas escolares nacionales que incluyan la conciencia de género, la igualdad y la historia desde la perspectiva de los pueblos colonizados y esclavizados.</div>
+
+ <div class="recuadro">  <b>Recomendación 6:</b>
+Aumentar el financiamiento y otros recursos para los refugios de mujeres y para el apoyo a las mujeres sobrevivientes de violencia (incluyendo para el asesoramiento, la atención sanitaria, la asistencia jurídica y la generación de ingresos).</div>
+
+ <div class="recuadro">  <b>Recomendación 7:</b>
+En el caso de Estados que condonan o ignoran la VCMN y especialmente a los feminicidios y la violencia de género extractivista, exigir la rendición de cuentas mediante procesos políticos regionales e internacionales (como la Convención de Belém do Pará), por medio de la legislación nacional y la Comisión Interamericana de Derechos Humanos.</div>
+
+ <div class="recuadro">  <b>Recomendación 8:</b>
+Para abordar la violencia y la discriminación interseccional de manera adecuada y garantizar políticas inclusivas, es esencial que se recopilen datos desglosados en los ámbitos local y regional, y así entender las situaciones de todas las mujeres (según su raza, etnia, edad, orientación sexual, etc.).</div>
+
+ <div class="recuadro">  <b>Recomendación 9:</b>
+Los Estados y la sociedad civil deben escuchar y aprender de las campañas e iniciativas de base actuales para abordar la VCMN y financiar mecanismos que utilicen estrategias de resistencia colectiva innovadoras.</div>
+
+ <div class="recuadro">  <b>Recomendación 10:</b>
+Se le debe dar mayor prioridad a formas alternativas de visibilizar las experiencias de la VCMN y la resistencia de las mujeres, incluyendo una variedad de iniciativas basadas en el arte y en la memoria, y estas deberían utilizarse de manera más eficaz para influir en las políticas. Dentro de estas formas alternativas se encuentran los podcast, cuyo papel destacamos y celebramos en este libro.</div>
+
 <a id="t.90c3647a04abf2dc285061e74e2d1f19b75d3bf6"></a><a id="t.22"></a>
 
 <table>
