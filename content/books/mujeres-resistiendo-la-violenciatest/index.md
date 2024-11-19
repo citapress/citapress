@@ -683,13 +683,11 @@ Si bien es evidente que aún queda mucho por hacer para que todas las mujeres y 
 
 > Necesitamos empezar a revisar experiencias de otros países latinoamericanos que han logrado despenalizar el aborto. Tenemos harta lucha por delante, pero aprendamos de nuestras compañeras. 
 
-<a id="t.b9d7896777f44025f1d42f403c7af591c9b37bda"></a><a id="t.9"></a>
 
-<a id="t.4582003fca195c82668a0635b1b4823b38a32a66"></a><a id="t.8"></a>
 
 <div class="recuadro"> 
 
-**Recuadro 3.1: La lucha por los derechos reproductivos en El Salvador**
+** Recuadro 3.1: La lucha por los derechos reproductivos en El Salvador **
 Marilyn Thomson
 
 El Salvador no solo tiene una de las leyes de aborto más restrictivas del mundo, sino que también persigue sistemáticamente a mujeres y niñas en virtud de esta ley, incluso cuando experimentan abortos espontáneos, muerte fetal o complicaciones obstétricas. Decenas de mujeres son encarceladas por la muerte de sus fetos en los casos descritos. Según el Centro de Derechos Reproductivos, una organización mundial de defensa legal, se estima que cada año se realizan ilegalmente 5000 abortos en El Salvador. Las mujeres que hayan abortado se enfrentan a penas de entre dos y ocho años de prisión, que pueden aumentar a 40 años si son declaradas culpables de homicidio agravado.
