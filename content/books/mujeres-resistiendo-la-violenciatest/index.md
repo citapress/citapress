@@ -63,6 +63,8 @@ foreword: >-
   <p><b>La editora:</b> Alejandra Montes Escobar</p>
 published: false
 ---
+- - -
+
 ## Reconocimiento
 
 Los alarmantes índices de violencia contra las mujeres en América Latina pueden ser abrumadores y desesperanzadores. No obstante, al resaltar estrategias y acciones concretas y eficaces –lideradas por quienes son las más afectadas por esta violencia–, el libro _Mujeres resistiendo la violencia_ desempeña un papel fundamental en la búsqueda de soluciones. Este es un valioso recurso para activistas, periodistas e investigadoras, y un poderoso registro de resistencia popular.
@@ -92,6 +94,7 @@ La lucha de las organizaciones latinoamericanas para combatir la violencia de g�
 
 _Pamela Zaballa, directora general de NO MORE_
 
+- - -
 
 ## Agradecimientos
 
@@ -108,6 +111,8 @@ La investigación analizada en el capítulo 5 sobre migración fue financiada po
 Gracias a los amigos del LAB por su apoyo.
 
 Finalmente, gracias al Publication Subvention Fund de la Facultad de Ciencias Sociales y Políticas Públicas del King’s College por el apoyo económico para la traducción de este libro. Gracias a las traductoras Camila Vergara Ruiz, Elísabeth Frías, Javiera Menchaca Pardow, Mailén García, Mercy Sandoval, Patricia Muñoz Cabrera, Rocío Suárez López y a la editora, de esta edición en español, Alejandra Montes Escobar.
+
+- - -
 
 ## Introducción
 
@@ -299,6 +304,8 @@ Para las organizaciones de mujeres de base, les es difícil financiar sus activi
 
 No obstante, las redes de mujeres de base se están organizando y están logrando cambios, y en los capítulos que siguen presentamos algunas de las actividades, estrategias y campañas que están utilizando para luchar contra formas de violencia interseccionadas. Indagamos en el impacto de las violencias de género e interseccionales en diferentes países y comunidades de América Latina, y en cómo las mujeres se han resistido en escenarios distintos. También mostramos diferentes enfoques, proyectos innovadores y acciones que emprenden las organizaciones de mujeres alrededor de la VCMN, y que están transformando las vidas de las mujeres e impulsando cambios estructurales. Sobre todo, los capítulos ponen en primer plano los testimonios y las voces de las mujeres lideresas que están avanzando en la lucha en contra de la violencia de género e interseccional y que están alzando sus voces en diferentes esferas de influencia.
 
+- - -
+
 ## CAPÍTULO 1
 
 <span></h2><br><h3>«Intentaron enterrarnos, pero no sabían que éramos semillas»: resistir la violencia de género interseccional en las ciudades</span><sup class="c58"><a href="#ftnt17" id="ftnt_ref17">\[17]</a></sup><span><br></span></h3><i>Cathy McIlwaine y Moniza Rizzini Ansari<br></span>Traducido por Elísabeth Frías </i>
@@ -443,6 +450,8 @@ Por lo tanto, las iniciativas dirigidas por mujeres pueden ayudar a otras mujere
 </div>
 
 Este capítulo ha demostrado cómo las mujeres en América Latina están lejos de ser pasivas frente a la creciente violencia urbana y el conflicto, que se vieron agravados por el inicio de la pandemia de covid-19 junto con el aumento de la violencia doméstica y los feminicidios. El debate está anclado en la investigación en curso y se basa en uno de nuestros podcast (Morris, 2021) en las comunidades de favelas de Maré, en Río de Janeiro, así como de ejemplos de otras partes de la región. Ha intentado mostrar la potencia de las respuestas de las mujeres a medida que ellas han desarrollado prácticas de resistencia a corto y largo plazo, tanto informales como formales. Al igual que la violencia urbana de género se experimenta en forma interseccional, directa e indirecta ‒que en el caso de Maré muestra cómo sufren desproporcionadamente las mujeres negras de escasos recursos‒ los mecanismos de afrontamiento y las estrategias de resistencia de las mujeres también son variadas. El capítulo también ha destacado las iniciativas de Colombia que funcionan para crear ciudades más seguras, y de México, donde los colectivos feministas respondieron positivamente frente a la pandemia. En Maré, Brasil, hemos mostrado cómo se han desarrollado las «comunidades emocionales-políticas». Es apropiado terminar el capítulo con el proverbio mexicano movilizado a raíz del asesinato de Marielle Franco: «Intentaron enterrarnos, no sabían que éramos semillas».
+
+- - -
 
 ## CAPÍTULO 2
 
@@ -606,6 +615,8 @@ Aunque 129 países votaron a favor del C190 (OIT, 2019b), hasta la fecha solo 10
 Las organizaciones de trabajadoras del hogar en América Latina llevan mucho tiempo luchando por el respeto y el trato justo: que el trabajo doméstico sea valorado y reconocido como trabajo; que se escuchen las voces de las personas trabajadoras del hogar; que las personas trabajadoras del hogar sean consideradas como personas con derechos y responsabilidades, y no como sirvientes o simplemente «uno más de la familia». Las luchas de las trabajadoras del hogar son un testimonio de la resiliencia de las mujeres en situación de pobreza y marginadas, que se levantan y luchan por la justicia. Las trabajadoras del hogar en América Latina están viendo algunos resultados de sus acciones de lucha, por ejemplo, en el lento cambio en las percepciones sociales de las trabajadoras del hogar (como se propone en la película), y en la situación legal y el estatus de las mujeres que asumen trabajos de limpieza y cuidado. Hay varios factores que han contribuido, como el mayor acceso a la educación, la mayor conciencia sobre la explotación y el fortalecimiento de las organizaciones de trabajadoras del hogar que, al agrupar a las trabajadoras del sector, ha aumentado su empoderamiento y confianza en sí mismas. Por medio de estas organizaciones, las trabajadoras del hogar han aprendido sobre sus derechos laborales y han llevado sus voces y demandas colectivas al ámbito público. Junto con las personas aliadas, han influido en las políticas nacionales y en la formulación de legislación internacional, en particular en la consecución del C189 «Convenio sobre las trabajadoras y los trabajadores domésticos» de la OIT.
 
 Siempre habrá tareas domésticas y de cuidados que realizar en los hogares porque son esenciales para la salud y el bienestar de todos. Pero la dinámica de poder, que con demasiada frecuencia resulta en formas interseccionales de VCMN que trabajan en el sector, necesita una mayor transformación poniendo en práctica leyes laborales y políticas internacionales que protejan a la fuerza laboral. Es importante destacar que esto se producirá cuando cambien las percepciones y actitudes culturales hacia las mujeres que realizan la limpieza y el cuidado, y cuando la sociedad valore legítimamente este trabajo.
+
+- - -
 
 ## CAPÍTULO 3
 
@@ -776,6 +787,8 @@ Sobre <i>La potencia feminista.</i> O el deseo de cambiarlo todo:
 El derecho al aborto es quizás el campo de batalla contemporáneo más destacado por los derechos de las mujeres y la igualdad de género. Las alianzas entre élites políticas y económicas de derecha y grupos religiosos conservadores de otras clases socioeconómicas han creado poderosos movimientos en contra del aborto, los derechos reproductivos, la diversidad sexual y la igualdad de género. Los argumentos sobre el «derecho a la vida» de los fetos se contraponen a los argumentos a favor de la autonomía corporal de las mujeres y, en gran parte de América Latina, estos argumentos «provida» incluso subordinan delitos penales: niñas y adolescentes violadas y embarazadas se ven obligadas a llevar embarazos a término sin recurrir a la justicia. Las vulnerabilidades interseccionales de las mujeres, niñas y adolescentes de orígenes marginados, negras, indígenas y mestizas hacen que sea aún más importante legalizar el aborto y trabajar hacia la accesibilidad universal.
 
 Este preocupante panorama se ve iluminado por la feroz resistencia de las numerosas movilizaciones locales y regionales por el derecho al aborto y las alianzas entre fuerzas progresistas. Argentina y México recientemente legalizaron completamente el aborto; el resultado de una movilización sostenida entre diferentes sectores y que proporciona nuevos campos de debate en toda la región. A medida que entramos en una nueva era política, con un feminismo mucho más vocal, visible y con más poder político (el nuevo Gobierno feminista en Chile, instalado a principios de 2022, es sin duda el ejemplo que todos veremos) y un movimiento conservador de derecha que puede estar perdiendo fuerza, debemos mirar el futuro con esperanza, fuerza y voluntad de cambiarlo todo. «Es una lucha muy dura», pero no está nada perdida.
+
+- - -
 
 ## CAPÍTULO 4
 
@@ -1013,6 +1026,8 @@ Para las mujeres indígenas, afrodescendientes y rurales, el acceso al derecho a
 >
 > «Un grito por la vida», poema de Flor Contreras Ulloa (2021), Honduras. 
 
+- - -
+
 ## CAPÍTULO 5
 
 «Tengo derechos y soy libre»: resistiendo la violencia de género interseccional contra mujeres migrantes latinoamericanas <sup class="c58"><a href="#ftnt40" id="ftnt_ref40">\[40]</a></sup>
@@ -1209,6 +1224,8 @@ En este capítulo se han examinado las distintas formas en que las mujeres migra
 
 Estas organizaciones no solo prestan servicios de apoyo a las mujeres para que se enfrenten y resistan a la violencia de género interseccional, sino que también participan en campañas y acciones de defensa, como la campaña Step Up Migrant Women. Otras utilizan las artes para hacer consciencia y trabajan directamente con mujeres sobrevivientes migrantes para, de esta manera, encontrar formas de resistir y desarrollar mecanismos de autoayuda y solidaridad.
 
+- - -
+
 ## CAPÍTULO 6
 
 <br><span>«No pueden borrar nuestra memoria»: la conmemoración, la violencia y las artes</span><sup class="c58"><a href="#ftnt51" id="ftnt_ref51">\[51]</a></sup><span><br></span>Jelke Boesten y Louise Morris<br>Traducido por Javiera Menchaca Pardow
@@ -1331,6 +1348,8 @@ Las artes conmemorativas, el arte activista y el artivismo feminista son fundame
 > Hacer memoria en Guatemala, y no solo en Guatemala sino en general, es necesario para tomar conciencia del pasado, para gestionar el presente y para tener una idea de qué tipo de futuro puede tomar forma. Sobre todo cuando tienes una hija, empiezas a ser consciente de que es necesario entender el pasado y gestionarlo. (Morris &amp; McGibbon, 2017)
 
 Por medio del artivismo, el trauma individual se convierte en resistencia colectiva, movilización y contramemoria. Aunque no está exento de peligros ‒múltiples activistas de toda América Latina han denunciado actos de violencia e intimidación en respuesta a su trabajo‒, es potencialmente transformador: un poderoso replanteamiento de cómo se hace política, quién perpetúa la VCMN, quién produce resistencia y quién, qué y cómo lo recuerda y valora la sociedad.
+
+- - -
 
 ## Conclusiones y recomendaciones
 
@@ -1465,7 +1484,9 @@ Las narrativas políticas y jurídicas deben tratar la VCMN como una vulneració
 <hr style="border: 0.3px solid blue; width:40%;"></hr>
 <p align="center">**Colectivo WRV**</p>
 
-## Apéndice: Mujeres resistiendo la violencia,
+- - -
+
+## Apéndice: Mujeres resistiendo la violencia
 
 <span> el podcast multilingüe<br></span>Colectivo Women Resisting Violence<br>Traducido por Mercy Sandoval
 
@@ -1502,12 +1523,12 @@ La música corrió a cargo de Rebeca Lane, artista guatemalteca de hip-hop, mús
 Del taller final en el que participaron varios importantes productores latinoamericanos de podcast surgieron una serie de cuestiones clave:
 
 
-    - El podcast es un medio para escuchar a personas afectadas por la violencia y denunciarla, así como una forma de recordar y preservar la memoria para el futuro.
-    - Los podcast tienen la capacidad de informar y empoderar a las mujeres que los escuchan, así como de permitir a las mujeres participantes llegar a un público más amplio.
-    - Los podcast pueden ser un medio para afianzar y hacer crecer comunidades estableciendo vínculos y compartiendo con otras organizaciones comunitarias con el fin de promover la acción colectiva.
-    - Los podcast dan visibilidad a las batallas cotidianas de las mujeres que resisten a la violencia en los ámbitos local y transnacional.
-    - Los podcast crean una sensación de intimidad entre emisor y receptor capaz de mejorar la comunicación entre víctimas y sobrevivientes, así como entre las comunidades afectadas y audiencias más amplias.
-    - Es esencial escuchar a las personas más afectadas si queremos cambiar las estructuras políticas y las prácticas discriminatorias que obstaculizan la vida cotidiana de mujeres, mantienen violencia e impunidad, y (re)producen normas sociales y de género para mujeres y niñas.
+    * El podcast es un medio para escuchar a personas afectadas por la violencia y denunciarla, así como una forma de recordar y preservar la memoria para el futuro.
+    * Los podcast tienen la capacidad de informar y empoderar a las mujeres que los escuchan, así como de permitir a las mujeres participantes llegar a un público más amplio.
+    * Los podcast pueden ser un medio para afianzar y hacer crecer comunidades estableciendo vínculos y compartiendo con otras organizaciones comunitarias con el fin de promover la acción colectiva.
+    * Los podcast dan visibilidad a las batallas cotidianas de las mujeres que resisten a la violencia en los ámbitos local y transnacional.
+    * Los podcast crean una sensación de intimidad entre emisor y receptor capaz de mejorar la comunicación entre víctimas y sobrevivientes, así como entre las comunidades afectadas y audiencias más amplias.
+    * Es esencial escuchar a las personas más afectadas si queremos cambiar las estructuras políticas y las prácticas discriminatorias que obstaculizan la vida cotidiana de mujeres, mantienen violencia e impunidad, y (re)producen normas sociales y de género para mujeres y niñas.
 
 Por supuesto, hacer podcast no está exento de deficiencias y dificultades. Efectivamente, la producción de podcast no siempre está al alcance de las organizaciones de base para mujeres, ya que producir contenido de alta calidad requiere conocimientos técnicos, acceso a equipos costosos, recursos, intérpretes, entre otros. Como consecuencia, en algunos contextos, la radio puede ser un medio más popular para compartir historias e información a nivel de base. Sin embargo, esta no es la única forma de hacer podcast, ya que las aplicaciones gratuitas y usar micrófonos decentes con un celular hacen que grabar y compartir audio de firma digital sea cada vez más accesible. Productoras como la sudafricana Volume utilizan notas de voz en WhatsApp como un nuevo método de distribución de podcast. Dado que organizaciones como Redes da Maré utilizan regularmente notas de voz en WhatsApp para comunicarse y grabar sus voces, existe la posibilidad de que los podcast se conviertan en una forma popular de transmisión de conocimientos entre personas marginadas y, de hecho, América Latina es la región de más rápido crecimiento en el consumo de podcast (Grand View Research, 2021).
 
@@ -1521,6 +1542,7 @@ El podcast fue preseleccionado para el premio al mejor documental en los Amnesty
 
 Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por Louise Morris, con la investigación y ayuda de Cathy McIlwaine, Jelke Boesten, Marilyn Thomson, Patricia Muñoz Cabrera, Moniza Rizzini Ansari, Noelle Resende y Rebecca Wilson. Relata las historias de Vianney Claret Hernández Mejía, Stef Arreaga, Mayra Jiménez, Quimy de León, Carolina Cal, Gil García, Elizabeth Jiménez-Yáñez, Eliana Sousa Silva, Julia Leal y Michele Gandra. Fue realizado en colaboración con el King’s College de Londres y el Latin America Bureau. La ingeniería de audio adicional corrió a cargo de Eliane Correa y Ameno Cordóva. Traducción por Cristina Reynoso López, Natasha Tinsley, Hebe Powell, Ella Barnes, Luciana Lopes, Jennifer Alexander, Morgan Fairless Brown y Theodora Bradford. Doblaje por Cecilia Cruz, Alma Carballo, Esmeralda Lobos, Larisa Muñoz, Juliana Postico, Claudia Alves, Giselle Nirenberg, Ana Lucía Rojas, Mariana Reyes y Najlla Kay. Con música de Rebeca Lane, Wara, Jonathan Panta, Rafael Rocha, Serena Assumpção, Gilberto Martins y Uppbeat.
 
+- - -
 
 ## Bibliografías
 
@@ -1726,6 +1748,8 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
 
 <h3 class="c14" id="h.13qzunr">Conclusiones y recomendaciones</h3>
 <p class="c36">Grand View Research. (2021). <a class="c11" href="https://www.google.com/url?q=https://www.grandviewresearch.com/industry-analysis/podcast-market&amp;sa=D&amp;source=editors&amp;ust=1718062666924769&amp;usg=AOvVaw2R_A7wxiHNF26i3ni4rILB">Podcasting market size, share &amp; trends analysis report by genre (news &amp; politics, society &amp; culture, comedy, sports), by format (interviews, panels, solo, conversational), by region, and segment forecasts, 2023-2030</a>. </p>
+
+- - -
 
 ## Siglas de las organizaciones mencionadas
 
@@ -2213,6 +2237,7 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
 
 <p class="c104"><a href="#cmnt_ref3" id="cmnt3">[c]</a>propongo eliminar porque no funciona el link Para más información sobre diversas estadísticas de la violencia contra las mujeres en Guatemala consultar el portal estadístico del Observatorio de las Mujeres, de Guatemala.</p>
 
+- - -
 
 ## Sobre el Colectivo Women Resisting Violence
 
@@ -2233,6 +2258,8 @@ El Colectivo Women Resisting Violence (WRV) refleja los procesos de toma de deci
 **Marilyn Thomson** es consultora independiente en cuestiones de género y trabaja temas como los derechos de las mujeres migrantes y refugiadas, la economía de los cuidados y la violencia contra las mujeres y las niñas. Vivió y trabajó en América Latina durante muchos años llevando a cabo investigaciones y proyectos con universidades, oenegés internacionales y organizaciones de mujeres de base, incluida una organización de trabajadoras domésticas en México. Su tesis doctoral versa sobre la política del servicio doméstico. Fue codirectora de la Red de Mujeres Centroamericanas con sede en Reino Unido (activa entre 1992 y 2017).
 
 **Rebecca Wilson** es directora editorial de Latin America Bureau. Como periodista, ha trabajado con *El Tiempo* en Colombia y ha escrito sobre política y cultura latinoamericanas para LAB, NACLA, Sounds and Colours, Barbican Centre y BristoLatino, donde se desempeñó como jefa de redacción.
+
+- - -
 
 ## Sobre las traductoras y la editora
 
