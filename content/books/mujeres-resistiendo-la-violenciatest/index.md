@@ -1521,8 +1521,6 @@ El podcast fue preseleccionado para el premio al mejor documental en los Amnesty
 
 Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por Louise Morris, con la investigación y ayuda de Cathy McIlwaine, Jelke Boesten, Marilyn Thomson, Patricia Muñoz Cabrera, Moniza Rizzini Ansari, Noelle Resende y Rebecca Wilson. Relata las historias de Vianney Claret Hernández Mejía, Stef Arreaga, Mayra Jiménez, Quimy de León, Carolina Cal, Gil García, Elizabeth Jiménez-Yáñez, Eliana Sousa Silva, Julia Leal y Michele Gandra. Fue realizado en colaboración con el King’s College de Londres y el Latin America Bureau. La ingeniería de audio adicional corrió a cargo de Eliane Correa y Ameno Cordóva. Traducción por Cristina Reynoso López, Natasha Tinsley, Hebe Powell, Ella Barnes, Luciana Lopes, Jennifer Alexander, Morgan Fairless Brown y Theodora Bradford. Doblaje por Cecilia Cruz, Alma Carballo, Esmeralda Lobos, Larisa Muñoz, Juliana Postico, Claudia Alves, Giselle Nirenberg, Ana Lucía Rojas, Mariana Reyes y Najlla Kay. Con música de Rebeca Lane, Wara, Jonathan Panta, Rafael Rocha, Serena Assumpção, Gilberto Martins y Uppbeat.
 
-<h3 class="c14" id="h.13qzunr">Bibliografía</h3>
-<p class="c36">Grand View Research. (2021). <a class="c11" href="https://www.google.com/url?q=https://www.grandviewresearch.com/industry-analysis/podcast-market&amp;sa=D&amp;source=editors&amp;ust=1718062666924769&amp;usg=AOvVaw2R_A7wxiHNF26i3ni4rILB">Podcasting market size, share &amp; trends analysis report by genre (news &amp; politics, society &amp; culture, comedy, sports), by format (interviews, panels, solo, conversational), by region, and segment forecasts, 2023-2030</a>. </p>
 
 ## Bibliografías
 
@@ -1726,6 +1724,8 @@ Mujeres resistiendo la violencia es presentado por Renata Peppl y producido por
 <p class="c36">Morris, Louise &amp; McGibbon Andrew. (2017, November 14). <a class="c11" href="https://www.google.com/url?q=https://www.bbc.co.uk/programmes/b09dy204&amp;sa=D&amp;source=editors&amp;ust=1718062667034286&amp;usg=AOvVaw1WKvtRfsBD-hh4b_johC6Q">A call to art: memorial</a> \[podcast\]. BBC Radio 4. </p>
 <p class="c36">Rivera, Nelton. (2017, 24 de octubre). <a class="c11" href="https://www.google.com/url?q=https://prensacomunitaria.org/2017/10/nos-duelen-56-una-accion-global-por-la-justicia-y-por-las-ninas/&amp;sa=D&amp;source=editors&amp;ust=1718062667034877&amp;usg=AOvVaw2pJOuJ28tNxqV4qsXePu1R">Nos Duelen 56, una acción global por la justicia y por las niñas.</a> Prensa Comunitaria. </p>
 
+<h3 class="c14" id="h.13qzunr">Conclusiones y recomendaciones</h3>
+<p class="c36">Grand View Research. (2021). <a class="c11" href="https://www.google.com/url?q=https://www.grandviewresearch.com/industry-analysis/podcast-market&amp;sa=D&amp;source=editors&amp;ust=1718062666924769&amp;usg=AOvVaw2R_A7wxiHNF26i3ni4rILB">Podcasting market size, share &amp; trends analysis report by genre (news &amp; politics, society &amp; culture, comedy, sports), by format (interviews, panels, solo, conversational), by region, and segment forecasts, 2023-2030</a>. </p>
 
 ## Siglas de las organizaciones mencionadas
 
