@@ -620,6 +620,8 @@ Para este, pidieron al público que usara guantes de goma verdes en apoyo de su 
 
 <h3>De lo local a lo global: influenciando la política internacional</h3>
 La aprobación del C189 de la OIT «Convenio sobre las trabajadoras y los trabajadores domésticos» en 2011 llevó al reconocimiento mundial de que las trabajadoras del hogar tienen derechos laborales y ha empoderado a sus organizaciones, así como a sus sindicatos para levantarse y denunciar las violaciones laborales. El convenio exige que los Estados miembro tomen medidas para garantizar que las mujeres trabajadoras domésticas disfruten de protección contra todas las formas de abuso, acoso y violencia y exige el establecimiento de mecanismos para protegerlas y garantizar que todas las quejas sean investigadas y procesadas adecuadamente. Es un instrumento para apoyar las luchas de las organizaciones de trabajadoras del hogar que abogan ante sus gobiernos nacionales por los derechos laborales de su sector.
+
+<br>
 <br>
 
 <div class="recuadro"> 
