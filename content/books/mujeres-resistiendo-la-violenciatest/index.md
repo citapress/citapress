@@ -1247,6 +1247,23 @@ Otro ejemplo de trabajo artístico para abordar y resistir la violencia de géne
 
 ![Seguimos luchando en la oscuridad  Yo pertenezco a ningún lugar. Yo no soy bienvenida. No pertenezco ni aquí ni allá. Yo no encajo.  Aunque lo intento. Miedo. Yo siento miedo de perder a mis hijos. Yo temo la venganza. Yo temo la deportación. Entre cuatro paredes yo me encojo. Ellos tienen el poder.  Figura 5.2: Poema de una participante de uno de los talleres. ](figura5_2_captionupdate.jpeg "figura5.2")
 
+<div class="recuadro">
+ 
+**Seguimos luchando en lo oscuridad**
+ 
+Yo pertenezco a ningún lugar.
+Yo no soy bienvenida.
+No pertenezco ni aquí ni allá.
+Yo no encajo. 
+Aunque lo intento. 
+Miedo. 
+Yo slento miedo de perder a mis hljos. 
+Yo temo la venganza. 
+Yo temo la deportación.
+Entre cuatro paredes yo me encojo. 
+Elles tienen el poder.
+</div>
+
 <center><b><I>Figura 5.2: Poema de participante de uno de los talleres.</center></b></i>
 
 Cuando se preguntó a las mujeres, en el primer taller, sobre sus expectativas acerca de su participación en el proyecto, una mujer señaló qué deseaba:
