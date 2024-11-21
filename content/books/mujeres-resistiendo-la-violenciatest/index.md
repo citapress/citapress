@@ -1479,8 +1479,7 @@ Se le debe dar mayor prioridad a formas alternativas de visibilizar las experien
 
 
 
-<hr style="border: 0.3px solid blue; width:40%;"></hr>
-<p align="center"> **Colectivo WRV** </p>
+<center> ### Colectivo WRV </center>
 
 - - -
 
