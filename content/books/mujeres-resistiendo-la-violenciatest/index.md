@@ -825,7 +825,7 @@ Sobre el feminismo transnacional:
 >
 > Es importante señalar que la movilización feminista y el conocimiento conceptual se están desplazando del Sur al Norte. La actuación pública de Las Tesis, traducida y representada en todo el mundo, ha contribuido a la movilización global, pero también me refiero a cómo las trabajadoras y los trabajadores migrantes en el Norte se organizan contra la violencia o por mejores condiciones laborales en el trabajo doméstico.
 
-Sobre <i>La potencia feminista.</i> O el deseo de cambiarlo todo: 
+Sobre <i>La potencia feminista. O el deseo de cambiarlo todo</i>: 
 
 > El feminismo ya no es un lenguaje excluyente; estamos viviendo una democratización práctica del feminismo. Estamos en un debate transversal sobre cómo debemos organizarlo todo: desde la alimentación hasta la salud, pasando por el conocimiento, las relaciones sexuales y afectivas, pasando por el trabajo, la vivienda y las finanzas. Nos estamos organizando para politizar cada aspecto de la vida cotidiana. Y esto es asombroso. Tenemos la experiencia y el conocimiento como movimiento, así que creo que podemos hacer esto, cambiarlo todo.
 
