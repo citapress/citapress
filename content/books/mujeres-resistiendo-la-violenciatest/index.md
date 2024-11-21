@@ -150,7 +150,7 @@ Los estudios de caso presentados en este libro ponen en evidencia finalmente no 
 Esta introducción propone, además, una contextualización teórica más amplia sobre el panorama de la violencia de género y las violencias interseccionales que enfrentan las mujeres y las niñas de América Latina.
 
 <h3 class="c14" id="h.17dp8vu">Contexto de este libro </h3>
-<p class="c42" id="h.3rdcrjn">Este libro, escrito de forma colaborativa por las integrantes del Colectivo WRV, se basa en los hallazgos principales de dos proyectos que se han llevado a cabo desde el 2006. El primero consistió en un proyecto conjunto entre el Central American Women’s Network (CAWN) [Red de Mujeres de Centroamérica\]<sup class="c16 c10"><a href="#ftnt1" id="ftnt_ref1"> [1\]</a></sup> con el Centro de Estudios de la Mujer en Honduras (CEMH), en el cual se abordaron la violencia de género y la pobreza en las comunidades más marginadas de Honduras a lo largo de cinco años, de 2006 a 2011. El segundo, «Women resisting gendered and intersectional violence» (2021-2022) \[«Mujeres resistiendo la violencia interseccional y de género»\], es el resultado de una colaboración entre el King’s College de Londres y el Latin American Bureau (LAB), el cual documenta algunas de las estrategias innovadoras que han utilizado las latinoamericanas para mitigar la VCMN. </p>
+<p class="c42" id="h.3rdcrjn">Este libro, escrito de forma colaborativa por las integrantes del Colectivo WRV, se basa en los hallazgos principales de dos proyectos que se han llevado a cabo desde el 2006. El primero consistió en un proyecto conjunto entre el Central American Women’s Network (CAWN) [Red de Mujeres de Centroamérica]<sup class="c16 c10"><a href="#ftnt1" id="ftnt_ref1"> [1]</a></sup> con el Centro de Estudios de la Mujer en Honduras (CEMH), en el cual se abordaron la violencia de género y la pobreza en las comunidades más marginadas de Honduras a lo largo de cinco años, de 2006 a 2011. El segundo, «Women resisting gendered and intersectional violence» (2021-2022) \[«Mujeres resistiendo la violencia interseccional y de género»\], es el resultado de una colaboración entre el King’s College de Londres y el Latin American Bureau (LAB), el cual documenta algunas de las estrategias innovadoras que han utilizado las latinoamericanas para mitigar la VCMN. </p>
 Estas estrategias se difundieron por medio de un sitio web y blog, un podcast narrativo,</span><sup class="c16 c10"><a href="#ftnt2" id="ftnt_ref2"> \[2\]</a></sup><span class="c2"> eventos públicos y este libro, escrito originalmente en inglés. Uno de nuestros objetivos principales fue poner en primer plano las voces de quienes se han visto afectadas por la VCMN, tanto en América Latina como en su diáspora fuera del continente, con un enfoque particular en el Reino Unido. También destacamos el poder de las colaboraciones entre las organizaciones de la sociedad civil y los proyectos de investigación académica.
 
 Algunos de los hallazgos principales del proyecto tienen que ver con la manera como las mujeres han surgido como protagonistas en la lucha contra la violencia de género, con el desarrollo de formas innovadoras de resistencia y resiliencia y de propuestas de transformación, ya sean campañas, respuestas políticas de base, protestas públicas, abordajes desde el arte o proyectos de subsistencia comunitarios. También, que la VCMN sigue siendo profundamente interseccional, pues afecta de manera desproporcionada a las mujeres de escasos recursos económicos y más aún cuando pertenecen a otras categorías sociales oprimidas (ya sean mujeres afrodescendientes, indígenas, de zonas urbanas y rurales, pertenecientes a la comunidad LGTBIQ+ o migrantes). Y, por último, que la VCMN está profundamente arraigada en violencias estructurales más amplias, y en particular las que comete el Estado.
@@ -1251,17 +1251,17 @@ Otro ejemplo de trabajo artístico para abordar y resistir la violencia de géne
  
 **Seguimos luchando en lo oscuridad**
  
-Yo pertenezco a ningún lugar.
-Yo no soy bienvenida.
-No pertenezco ni aquí ni allá.
-Yo no encajo. 
-Aunque lo intento. 
-Miedo. 
-Yo slento miedo de perder a mis hljos. 
-Yo temo la venganza. 
-Yo temo la deportación.
-Entre cuatro paredes yo me encojo. 
-Elles tienen el poder.
+Yo pertenezco a ningún lugar.<br>
+Yo no soy bienvenida.<br>
+No pertenezco ni aquí ni allá.<br>
+Yo no encajo. <br>
+Aunque lo intento. <br>
+Miedo. <br>
+Yo slento miedo de perder a mis hijos.<br> 
+Yo temo la venganza. <br>
+Yo temo la deportación.<br>
+Entre cuatro paredes yo me encojo. <br>
+Elles tienen el poder.<br>
 </div>
 
 <center><b><I>Figura 5.2: Poema de participante de uno de los talleres.</center></b></i>
