@@ -1,5 +1,5 @@
 ---
-title: " Mujeres resistiendo la violenciaTEST"
+title: " Mujeres resistiendo la violencia"
 publication: 2024-06-10T14:54:00.000Z
 publishformat: Year
 release: 2024-06-10T14:54:00.000Z
