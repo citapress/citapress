@@ -1479,14 +1479,13 @@ Se le debe dar mayor prioridad a formas alternativas de visibilizar las experien
 
 
 
-<center> ### Colectivo WRV </center>
+<center> **Colectivo WRV** </center>
 
 - - -
 
 ## Notas a la edición
 
-<hr class="c160">
-<div>
+
     <p class="c60"><a href="#ftnt_ref1" id="ftnt1">[1]</a> CAWN fue una red de solidaridad del Reino Unido y una oenegé con sede en Londres que apoyó a organizaciones de mujeres en Centroamérica entre 1992 y 2017. Se vio obligada a cerrar por falta de financiamiento y recursos.</p>
 </div>
 <div>
