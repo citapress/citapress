@@ -1930,7 +1930,7 @@ El podcast fue preseleccionado para el premio al mejor documental en los Amnesty
     </tr>
     <tr class="c18">
         <td class="c53" colspan="1" rowspan="1">
-            <p class="c35"><font color="blue"><a class="c11" href="https://www.google.com/url?q=https://www.anamuri.cl/&amp;sa=D&amp;source=editors&amp;ust=1718062667040102&amp;usg=AOvVaw1_Bx4NJmgn5CZJyHxxglmu">Anamuri</a></p></font>
+            <p class="c35"><a class="c11" href="https://www.google.com/url?q=https://www.anamuri.cl/&amp;sa=D&amp;source=editors&amp;ust=1718062667040102&amp;usg=AOvVaw1_Bx4NJmgn5CZJyHxxglmu"><font color="blue">Anamuri</a></p></font>
         </td>
         <td class="c55" colspan="1" rowspan="1">
             <p class="c50">Asociación Nacional de Mujeres Rurales e Indígenas</p>
