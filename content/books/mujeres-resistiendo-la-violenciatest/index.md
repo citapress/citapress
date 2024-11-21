@@ -807,11 +807,11 @@ Gago explica cómo a lo largo de este proceso se superaron las diferencias entre
 
 <div class="recuadro"> 
 
-**Recuadro 3.3: Entrevista con Verónica Gago, activista argentina de #NiUnaMenos y autora de La potencia feminista. O el deseo de cambiarlo todo (2019)**
+**Recuadro 3.3: Entrevista con Verónica Gago, activista argentina de #NiUnaMenos y autora de *La potencia feminista. O el deseo de cambiarlo todo* (2019)**
 
 Sobre el cuerpo-territorio: 
 
-> El término cuerpo-territorio nos permite ver la dimensión personal de las luchas de poder, pero también cómo estamos conectadas con territorios más amplios y eso también es útil para que pensemos más allá de nuestras historias y experiencias individuales. Nos permite hacer conexiones entre lo personal y lo político, y las dimensiones políticas y materiales de este cuerpo que tenemos. En América Latina nuestras luchas están fuertemente relacionadas con la explotación extractivista –de la tierra y los cuerpos– que el cuerpo-territorio hace visible.
+> El término *cuerpo-territorio* nos permite ver la dimensión personal de las luchas de poder, pero también cómo estamos conectadas con territorios más amplios y eso también es útil para que pensemos más allá de nuestras historias y experiencias individuales. Nos permite hacer conexiones entre lo personal y lo político, y las dimensiones políticas y materiales de este cuerpo que tenemos. En América Latina nuestras luchas están fuertemente relacionadas con la explotación extractivista –de la tierra y los cuerpos– que el cuerpo-territorio hace visible.
 
 Sobre la huelga feminista: 
 
