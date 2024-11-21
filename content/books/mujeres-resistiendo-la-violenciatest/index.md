@@ -1479,7 +1479,7 @@ Se le debe dar mayor prioridad a formas alternativas de visibilizar las experien
 
 
 
-<center> **Colectivo WRV** </center>
+<center> __Colectivo WRV__ </center>
 
 - - -
 
