@@ -2426,3 +2426,5 @@ El Colectivo Women Resisting Violence (WRV) refleja los procesos de toma de deci
 ### La editora
 
 **Alejandra Montes Escobar** es filóloga hispanista de la Universidad de Antioquia y magíster en Estudios Editoriales del Instituto Caro y Cuervo. Trabaja como editora y coordinadora editorial de proyectos editoriales independientes y de ciencias sociales de Colombia, en especial para la editorial Verso Libre editores, e investiga sobre trayectorias editoriales de mujeres colombianas del siglo XX. 
+
+**Algunos derechos reservados. Esta traducción se publica bajo una licencia [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/).**
