@@ -10,6 +10,9 @@ author: "Colectivo Women Resisting Violence "
 isbn: 978-1-961368-19-4
 post_image: mujeres_cover.jpeg
 square_image: template-book-contemporary-collection-thumbnail.jpg
+download: https://lab.org.uk/wrv/book/
+download_name: Women Resisting Violence (English)
+language_link: ""
 genre:
   - nonfiction
 time_period:
