@@ -4,7 +4,7 @@ publication: 2024-11-25T07:54:00.000Z
 publishformat: Year
 release: 2024-06-10T14:54:00.000Z
 releaseformat: Year
-sortingdate: 2020-11-04T22:43:00.000Z
+sortingdate: 2017-11-01T22:43:00.000Z
 templateKey: book-page
 author: "Colectivo Women Resisting Violence "
 isbn: 978-1-961368-19-4
