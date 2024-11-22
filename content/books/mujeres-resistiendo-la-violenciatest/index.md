@@ -1580,7 +1580,7 @@ Se le debe dar mayor prioridad a formas alternativas de visibilizar las experien
     <p class="c60"><a href="#ftnt_ref21" id="ftnt21">[21]</a> Smith (2018) coloca estas experiencias dentro de un contexto más amplio de *necropolítica de género*, un término que fue acuñado por el historiador Achille Mbembe y que se refiere al modo en que los Estados deciden qué vidas son más valiosas que otras (Pele, 2020). </p>
 </div>
 <div>
-    <p class="c60"><a href="#ftnt_ref22" id="ftnt22">[22]</a> Favelada se refiere no solo a una persona que vive o creció en las favelas, sino también a la reafirmación de la resistencia a las condiciones que enfrentan quienes habitan allí, a la manera como construyen formas de ser y de estar. </p>
+    <p class="c60"><a href="#ftnt_ref22" id="ftnt22">[22]</a> *Favelada* se refiere no solo a una persona que vive o creció en las favelas, sino también a la reafirmación de la resistencia a las condiciones que enfrentan quienes habitan allí, a la manera como construyen formas de ser y de estar. </p>
 </div>
 <div>
     <p class="c60"><a href="#ftnt_ref23" id="ftnt23">[23]</a> Puede acceder a la exposición <a class="c11" href="https://www.google.com/url?q=https://vidasfemininas.museudapessoa.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667086051&amp;usg=AOvVaw29PoWLrhcR9i5a_EgKyS-Q">Vidas femininas</a> en línea. </p>
