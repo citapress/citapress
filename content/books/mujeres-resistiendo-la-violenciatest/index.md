@@ -1718,11 +1718,11 @@ Del taller final en el que participaron varios importantes productores latinoame
 
 <div class="recuadro"> 
 <ul>
-<li>&rarr;El podcast es un medio para escuchar a personas afectadas por la violencia y denunciarla, así como una forma de recordar y preservar la memoria para el futuro.</li>
-<li>&rarr;Los podcast tienen la capacidad de informar y empoderar a las mujeres que los escuchan, así como de permitir a las mujeres participantes llegar a un público más amplio.</li>
-<li>&rarr;Los podcast pueden ser un medio para afianzar y hacer crecer comunidades estableciendo vínculos y compartiendo con otras organizaciones comunitarias con el fin de promover la acción colectiva.</li>
-<li>&rarr;Los podcast dan visibilidad a las batallas cotidianas de las mujeres que resisten a la violencia en los ámbitos local y transnacional.</li>
-<li>&rarr;Los podcast crean una sensación de intimidad entre emisor y receptor capaz de mejorar la comunicación entre víctimas y sobrevivientes, así como entre las comunidades afectadas y audiencias más amplias.</li>
+<li>&rarr;El podcast es un medio para escuchar a personas afectadas por la violencia y denunciarla, así como una forma de recordar y preservar la memoria para el futuro.</li><br>
+<li>&rarr;Los podcast tienen la capacidad de informar y empoderar a las mujeres que los escuchan, así como de permitir a las mujeres participantes llegar a un público más amplio.</li><br>
+<li>&rarr;Los podcast pueden ser un medio para afianzar y hacer crecer comunidades estableciendo vínculos y compartiendo con otras organizaciones comunitarias con el fin de promover la acción colectiva.</li><br>
+<li>&rarr;Los podcast dan visibilidad a las batallas cotidianas de las mujeres que resisten a la violencia en los ámbitos local y transnacional.</li><br>
+<li>&rarr;Los podcast crean una sensación de intimidad entre emisor y receptor capaz de mejorar la comunicación entre víctimas y sobrevivientes, así como entre las comunidades afectadas y audiencias más amplias.</li><br>
 <li>&rarr;Es esencial escuchar a las personas más afectadas si queremos cambiar las estructuras políticas y las prácticas discriminatorias que obstaculizan la vida cotidiana de mujeres, mantienen violencia e impunidad, y (re)producen normas sociales y de género para mujeres y niñas.</li>
 </div>
 
