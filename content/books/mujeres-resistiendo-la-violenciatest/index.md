@@ -63,7 +63,7 @@ foreword: >-
   <p><b>Las traductoras: </b>Camila Vergara Ruiz, Elísabeth Frías, Javiera Menchaca Pardow, Mailén García, Mercy Sandoval, Patricia Muñoz Cabrera, y Rocío Suárez López.</p>
 
 
-  <p><b>La editora:</b> Alejandra Montes Escobar</p>
+  <p><b>La editora:</b> Alejandra Montes Escobar.</p>
 published: false
 ---
 - - -
