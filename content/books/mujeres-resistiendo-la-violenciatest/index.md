@@ -1716,13 +1716,12 @@ La música corrió a cargo de Rebeca Lane, artista guatemalteca de hip-hop, mús
 
 Del taller final en el que participaron varios importantes productores latinoamericanos de podcast surgieron una serie de cuestiones clave:
 
-
-    * El podcast es un medio para escuchar a personas afectadas por la violencia y denunciarla, así como una forma de recordar y preservar la memoria para el futuro.
-    * Los podcast tienen la capacidad de informar y empoderar a las mujeres que los escuchan, así como de permitir a las mujeres participantes llegar a un público más amplio.
-    * Los podcast pueden ser un medio para afianzar y hacer crecer comunidades estableciendo vínculos y compartiendo con otras organizaciones comunitarias con el fin de promover la acción colectiva.
-    * Los podcast dan visibilidad a las batallas cotidianas de las mujeres que resisten a la violencia en los ámbitos local y transnacional.
-    * Los podcast crean una sensación de intimidad entre emisor y receptor capaz de mejorar la comunicación entre víctimas y sobrevivientes, así como entre las comunidades afectadas y audiencias más amplias.
-    * Es esencial escuchar a las personas más afectadas si queremos cambiar las estructuras políticas y las prácticas discriminatorias que obstaculizan la vida cotidiana de mujeres, mantienen violencia e impunidad, y (re)producen normas sociales y de género para mujeres y niñas.
+*El podcast es un medio para escuchar a personas afectadas por la violencia y denunciarla, así como una forma de recordar y preservar la memoria para el futuro.
+*Los podcast tienen la capacidad de informar y empoderar a las mujeres que los escuchan, así como de permitir a las mujeres participantes llegar a un público más amplio.
+*Los podcast pueden ser un medio para afianzar y hacer crecer comunidades estableciendo vínculos y compartiendo con otras organizaciones comunitarias con el fin de promover la acción colectiva.
+*Los podcast dan visibilidad a las batallas cotidianas de las mujeres que resisten a la violencia en los ámbitos local y transnacional.
+*Los podcast crean una sensación de intimidad entre emisor y receptor capaz de mejorar la comunicación entre víctimas y sobrevivientes, así como entre las comunidades afectadas y audiencias más amplias.
+*Es esencial escuchar a las personas más afectadas si queremos cambiar las estructuras políticas y las prácticas discriminatorias que obstaculizan la vida cotidiana de mujeres, mantienen violencia e impunidad, y (re)producen normas sociales y de género para mujeres y niñas.
 
 Por supuesto, hacer podcast no está exento de deficiencias y dificultades. Efectivamente, la producción de podcast no siempre está al alcance de las organizaciones de base para mujeres, ya que producir contenido de alta calidad requiere conocimientos técnicos, acceso a equipos costosos, recursos, intérpretes, entre otros. Como consecuencia, en algunos contextos, la radio puede ser un medio más popular para compartir historias e información a nivel de base. Sin embargo, esta no es la única forma de hacer podcast, ya que las aplicaciones gratuitas y usar micrófonos decentes con un celular hacen que grabar y compartir audio de firma digital sea cada vez más accesible. Productoras como la sudafricana Volume utilizan notas de voz en WhatsApp como un nuevo método de distribución de podcast. Dado que organizaciones como Redes da Maré utilizan regularmente notas de voz en WhatsApp para comunicarse y grabar sus voces, existe la posibilidad de que los podcast se conviertan en una forma popular de transmisión de conocimientos entre personas marginadas y, de hecho, América Latina es la región de más rápido crecimiento en el consumo de podcast (Grand View Research, 2021).
 
