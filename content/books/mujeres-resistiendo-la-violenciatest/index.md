@@ -1069,11 +1069,12 @@ Por último, la lucha de las mujeres contra la violencia generada por el acapara
 
 Para las mujeres indígenas, afrodescendientes y rurales, el acceso al derecho a la tierra y al territorio significa adquirir el poder para exigir y ejercer sus derechos humanos fundamentales en los ámbitos individual, comunitario y familiar. A mayor escala, significa reclamar un modelo de desarrollo basado en la justicia social y en las libertades fundamentales; un modelo generado en condiciones dignas y equitativas.
 
+<i>
 > Diciendo NO a la palma de aceite, NO a la violencia, NO a quitarnos la vida y no por medio de una bala, sino quitándonos nuestra tierra y nuestro territorio.
 >
 > Porque no es forestación, es deforestación. Porque no es trabajo, es esclavitud. Esa no es vida. Es muerte. 
 >
-> Hoy alzamos la voz, unidas y empoderadas, y decimos, ¡BASTA YA!
+> Hoy alzamos la voz, unidas y empoderadas, y decimos, ¡BASTA YA! </i>
 >
 > «Un grito por la vida», poema de Flor Contreras Ulloa (2021), Honduras. 
 
