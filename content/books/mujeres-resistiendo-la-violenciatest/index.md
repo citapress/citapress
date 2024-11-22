@@ -1577,7 +1577,7 @@ Se le debe dar mayor prioridad a formas alternativas de visibilizar las experien
     <p class="c60"><a href="#ftnt_ref20" id="ftnt20">[20]</a> Estos datos se basan en colaboraciones de investigación de dos proyectos dirigidos por Cathy McIlwaine: Transnational VAWG (2016-2019) y Dignidad y Resiliencia (2019-2021). El primero, financiado por ESRC (ES/N013247/1) y el segundo por la British Academy y el Global Challenges Research Fund (HDV190030).</p>
 </div>
 <div>
-    <p class="c60"><a href="#ftnt_ref21" id="ftnt21">[21]</a> Smith (2018) coloca estas experiencias dentro de un contexto más amplio de *necropolítica de género*, un término que fue acuñado por el historiador Achille Mbembe y que se refiere al modo en que los Estados deciden qué vidas son más valiosas que otras (Pele, 2020). </p>
+    <p class="c60"><a href="#ftnt_ref21" id="ftnt21">[21]</a> Smith (2018) coloca estas experiencias dentro de un contexto más amplio de <i>necropolítica de género</i>, un término que fue acuñado por el historiador Achille Mbembe y que se refiere al modo en que los Estados deciden qué vidas son más valiosas que otras (Pele, 2020). </p>
 </div>
 <div>
     <p class="c60"><a href="#ftnt_ref22" id="ftnt22">[22]</a> *Favelada* se refiere no solo a una persona que vive o creció en las favelas, sino también a la reafirmación de la resistencia a las condiciones que enfrentan quienes habitan allí, a la manera como construyen formas de ser y de estar. </p>
