@@ -1360,7 +1360,7 @@ El arte feminista contemporáneo a menudo sitúa la memoria en su centro, como i
 
 ![Independencia de Buscando a María Elena](figura_6_1.jpg "Figura 6.1")
 
-<p class="c15" id="h.44bvf6o"><center><i><b>Figura 6.1: Independencia de Buscando a María Elena, 2011. Crédito: Natalia Iguiñiz. </b></i></p></center>
+<p class="c15" id="h.44bvf6o"><center><i><b>Figura 6.1: </i>Independencia de Buscando a María Elena,<i> 2011. Crédito: Natalia Iguiñiz. </b></i></p></center>
 
 
 <div class="recuadro"> 
