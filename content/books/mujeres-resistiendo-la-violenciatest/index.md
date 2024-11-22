@@ -1583,7 +1583,7 @@ Se le debe dar mayor prioridad a formas alternativas de visibilizar las experien
     <p class="c60"><a href="#ftnt_ref22" id="ftnt22">[22]</a> *Favelada* se refiere no solo a una persona que vive o creció en las favelas, sino también a la reafirmación de la resistencia a las condiciones que enfrentan quienes habitan allí, a la manera como construyen formas de ser y de estar. </p>
 </div>
 <div>
-    <p class="c60"><a href="#ftnt_ref23" id="ftnt23">[23]</a> Puede acceder a la exposición <a class="c11" href="https://www.google.com/url?q=https://vidasfemininas.museudapessoa.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667086051&amp;usg=AOvVaw29PoWLrhcR9i5a_EgKyS-Q">Vidas femininas</a> en línea. </p>
+    <p class="c60"><a href="#ftnt_ref23" id="ftnt23">[23]</a> Puede acceder a la exposición <a class="c11" href="https://www.google.com/url?q=https://vidasfemininas.museudapessoa.org/&amp;sa=D&amp;source=editors&amp;ust=1718062667086051&amp;usg=AOvVaw29PoWLrhcR9i5a_EgKyS-Q"><i>Vidas femininas</i></a> en línea. </p>
 </div>
 <div>
     <p class="c60" id="h.1h65qms"><a href="#ftnt_ref24" id="ftnt24">[24]</a> Para más información sobre ejemplos de movilizaciones de mujeres ver <a class="c11" href="https://www.google.com/url?q=https://lac.unwomen.org/es/noticias-y-eventos/articulos/2020/11/impacto-economico-covid-19-mujeres-america-latina-y-el-caribe&amp;sa=D&amp;source=editors&amp;ust=1718062667086532&amp;usg=AOvVaw2pM0xQkQYwfDsK9w6g2uOn">«El impacto económico del covid-19 en las mujeres de América Latina y el Caribe»</a> (ONU Mujeres, 2020) </p>
