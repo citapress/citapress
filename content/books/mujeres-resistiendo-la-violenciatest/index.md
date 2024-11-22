@@ -1717,7 +1717,7 @@ La música corrió a cargo de Rebeca Lane, artista guatemalteca de hip-hop, mús
 Del taller final en el que participaron varios importantes productores latinoamericanos de podcast surgieron una serie de cuestiones clave:
 
 <ul>
-<li>&rarrEl podcast es un medio para escuchar a personas afectadas por la violencia y denunciarla, así como una forma de recordar y preservar la memoria para el futuro.</li>
+<li>&rarr;El podcast es un medio para escuchar a personas afectadas por la violencia y denunciarla, así como una forma de recordar y preservar la memoria para el futuro.</li>
 <li>—Los podcast tienen la capacidad de informar y empoderar a las mujeres que los escuchan, así como de permitir a las mujeres participantes llegar a un público más amplio.</li>
 <li>—Los podcast pueden ser un medio para afianzar y hacer crecer comunidades estableciendo vínculos y compartiendo con otras organizaciones comunitarias con el fin de promover la acción colectiva.</li>
 <li>—Los podcast dan visibilidad a las batallas cotidianas de las mujeres que resisten a la violencia en los ámbitos local y transnacional.</li>
