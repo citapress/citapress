@@ -4,7 +4,7 @@ publication: 2023-10-24T00:45:19.863Z
 publishformat: Month and year
 release: 1914-01-02T01:45:19.896Z
 releaseformat: Year
-sortingdate: 2023-10-24T00:45:19.913Z
+sortingdate: 2024-11-22T06:53:00.000Z
 templateKey: book-page
 author: Seis autoras
 isbn: Placeholder
