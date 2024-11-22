@@ -940,7 +940,7 @@ Sin embargo, el activismo de las mujeres contra la violencia medioambiental corr
 
 > No es fácil ser mujer dirigiendo procesos de resistencias indígenas. En una sociedad increíblemente patriarcal, las mujeres estamos muy expuestas, tenemos que enfrentar circunstancias de mucho riesgo, campañas machistas y misóginas. (Mediavilla, 2022)
 
-Al igual que otras activistas medioambientales, en su lucha contra las violencias estatales y corporativas, Berta se enfrentó a diario a la violencia de género, al acoso, a amenazas de muerte y a la criminalización de su lucha, y fue finalmente asesinada. Su muerte marcó un punto final en el continuum de violencia a la que se siguen enfrentando miles de mujeres lideresas en sus respectivos territorios \[ver el recuadro 4.2].
+Al igual que otras activistas medioambientales, en su lucha contra las violencias estatales y corporativas, Berta se enfrentó a diario a la violencia de género, al acoso, a amenazas de muerte y a la criminalización de su lucha, y fue finalmente asesinada. Su muerte marcó un punto final en el *continuum* de violencia a la que se siguen enfrentando miles de mujeres lideresas en sus respectivos territorios \[ver el recuadro 4.2].
 
 
 
