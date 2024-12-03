@@ -24,7 +24,7 @@ export class changeLanguage extends React.Component {
     this.setState({
       [name]: value,
     })
-    changeLocale(event.target.value, this.state.where ? `/${this.state.where}` : null);
+    changeLocale(event.target.value, this.state.where && this.state.where !== '/read' ? `/${this.state.where}` : null);
   }
 
 
@@ -35,7 +35,7 @@ export class changeLanguage extends React.Component {
           <li key={index}>
             <button key={index}
             className={this.state.language === language ? classes.active : null}
-            onClick={() => changeLocale(language, this.state.where ? `/${this.state.where}` : null)}>
+            onClick={() => changeLocale(language, this.state.where && this.state.where !== '/read' ? `/${this.state.where}` : null)}>
             {this.state.languageOriginal[language]}</button>
           </li>
         ))}

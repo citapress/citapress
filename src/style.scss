@@ -28,7 +28,7 @@ ul {
   list-style-type: none;
   padding: 0;
   margin: 0;
-} 
+}
 
 hr {
   background-color: $blue;
@@ -96,6 +96,10 @@ table {
   table-layout: fixed;
   width: 100%;
   border-collapse: collapse;
+
+  &.label-first {
+    width: auto;
+  }
 }
 
 th,
@@ -573,8 +577,8 @@ td {
     color: #000;
     margin: 0;
     width: 100%;
-    -moz-appearance: none; 
-    -webkit-appearance: none; 
+    -moz-appearance: none;
+    -webkit-appearance: none;
     appearance: none;
     padding-left: 10px;
   }
@@ -608,7 +612,7 @@ td {
   gap: 60px;
   @media screen and (min-width: 768px) {
     flex-wrap: nowrap;
-  } 
+  }
   .portrait {
     width: 100%;
     margin: 0 auto;
@@ -684,7 +688,7 @@ iframe{
   .recuadro {
     border: 2px solid #0000FF;
     padding: 1em;
-  } 
+  }
   pre {
     text-wrap: wrap;
   }
@@ -728,6 +732,10 @@ iframe{
   p {
     text-wrap: wrap;
     overflow-wrap: break-word;
+  }
+  ul {
+    list-style-type: disc;
+    padding-left: 20px;
   }
 }
 
