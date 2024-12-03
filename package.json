@@ -2,39 +2,39 @@
   "name": "citapress-cms",
   "private": true,
   "description": "A starter for a blog powered by Gatsby and Markdown",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "Fabian Rios <hi@fabianrios.co>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
-    "decap-cms-app": "^3.1.8",
-    "gatsby": "^5.12.1",
-    "gatsby-plugin-decap-cms": "^4.0.3",
-    "gatsby-plugin-feed": "^5.12.0",
-    "gatsby-plugin-image": "^3.12.0",
+    "decap-cms-app": "^3.4.0",
+    "gatsby": "^5.14.0",
+    "gatsby-plugin-decap-cms": "^4.0.4",
+    "gatsby-plugin-feed": "^5.14.0",
+    "gatsby-plugin-image": "^3.13.1",
     "gatsby-plugin-intl": "^5.10.0",
-    "gatsby-plugin-manifest": "^5.12.0",
-    "gatsby-plugin-sass": "^6.12.0",
-    "gatsby-plugin-sharp": "^5.12.0",
-    "gatsby-remark-autolink-headers": "^6.12.0",
-    "gatsby-remark-images": "^7.12.0",
-    "gatsby-remark-prismjs": "^7.12.0",
-    "gatsby-remark-responsive-iframe": "^6.12.0",
+    "gatsby-plugin-manifest": "^5.13.1",
+    "gatsby-plugin-sass": "^6.13.1",
+    "gatsby-plugin-sharp": "^5.13.1",
+    "gatsby-remark-autolink-headers": "^6.13.1",
+    "gatsby-remark-images": "^7.13.1",
+    "gatsby-remark-prismjs": "^7.13.1",
+    "gatsby-remark-responsive-iframe": "^6.13.1",
     "gatsby-remark-table-of-contents": "^2.0.0",
-    "gatsby-source-filesystem": "^5.12.0",
-    "gatsby-transformer-remark": "^6.12.0",
-    "gatsby-transformer-sharp": "^5.12.0",
+    "gatsby-source-filesystem": "^5.13.1",
+    "gatsby-transformer-remark": "^6.13.1",
+    "gatsby-transformer-sharp": "^5.13.1",
     "prismjs": "^1.29.0",
     "rc-slider": "^10.2.1",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
-    "react-fast-marquee": "^1.6.2",
-    "sass": "^1.66.1"
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-fast-marquee": "^1.6.5",
+    "sass": "^1.81.1"
   },
   "devDependencies": {
-    "@babel/core": "~7.20.0",
-    "prettier": "^2.8.8"
+    "@babel/core": "~7.26.0",
+    "prettier": "^3.4.1"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
@@ -55,8 +55,8 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "overrides": {
-    "react": "^18.0.0",
+    "react": "^18.3.1",
     "@types/react": "^18.0.17",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.3.1"
   }
 }

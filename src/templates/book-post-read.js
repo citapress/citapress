@@ -15,7 +15,8 @@ const BookPostReadTemplate = ({
   const isBrowser = typeof window !== "undefined"
   const siteTitle = site.siteMetadata?.title || `Title`;
   const image = getImage(post.frontmatter.post_image);
-  const where = `${post.frontmatter.language_link}/read`;
+  const where = post.frontmatter.language_link ? `${post.frontmatter.language_link}/read` : null;
+  console.log({ where }, post.frontmatter.language_link)
   const postReference = useRef(null);
 
   const checkFormat = (f) => {
@@ -50,33 +51,33 @@ const BookPostReadTemplate = ({
   const handleScroll = () => {
     setScrollPosition(window.pageYOffset);
   }
-  
+
   const handleTextChange = (e) => {
-    setFontSize(e); 
+    setFontSize(e);
   }
 
   const handleLineChange = (e) => {
-    setLineHeight(e); 
+    setLineHeight(e);
   }
 
   const handleSpacing = (e) => {
-    setLetterSpacing(e); 
+    setLetterSpacing(e);
   }
 
   const handleFontFamily = (e) => {
-    setFontFamily(fontFamilies[e]); 
+    setFontFamily(fontFamilies[e]);
   }
 
   const handleLineLength = (e) => {
-    setLineLength(e); 
+    setLineLength(e);
   }
 
-  const download = post.frontmatter.download ? 
+  const download = post.frontmatter.download ?
   post.frontmatter.download.startsWith('http') ?
   post.frontmatter.download :
   `/downloads/${post.frontmatter.download}` :
   null
-  const download_other = post.frontmatter.third_download ? 
+  const download_other = post.frontmatter.third_download ?
   post.frontmatter.third_download.startsWith('http') ?
   post.frontmatter.third_download :
   `/downloads/${post.frontmatter.third_download}` :
@@ -139,7 +140,7 @@ const BookPostReadTemplate = ({
                 })
               }
               </ul>
-          
+
             <div className="reference">
                 <ul>
                   <li>ISBN: {post.frontmatter.isbn}</li>
@@ -153,10 +154,10 @@ const BookPostReadTemplate = ({
                   <a href={`/downloads/${post.frontmatter.download_ebook}`} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>{intl.formatMessage({id: 'Download Ebook'})}</a>
                 }
                 { post.frontmatter.download &&
-                  <a href={download} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>{intl.formatMessage({id: post.frontmatter.download_name ? post.frontmatter.download_name : 'Download Guide'})}</a>
+                  <a href={download} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>{intl.formatMessage({id: post.frontmatter.download_name || 'Download Guide'})}</a>
                 }
                 { post.frontmatter.third_download &&
-                  <a href={download_other} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>{intl.formatMessage({id: post.frontmatter.third_download_name ? post.frontmatter.third_download_name : 'Download Epub'})}</a>
+                  <a href={download_other} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>{intl.formatMessage({id: post.frontmatter.third_download_name || 'Download Epub'})}</a>
                 }
               </div>
             </div>
@@ -177,7 +178,7 @@ const BookPostReadTemplate = ({
           })}
         </ul>
         }
-        {post.html && 
+        {post.html &&
           <section
             dangerouslySetInnerHTML={{ __html: post.html }}
             className={`blog-post-content ${post.frontmatter.lang}`}

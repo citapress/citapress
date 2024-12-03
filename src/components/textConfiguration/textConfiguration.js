@@ -7,20 +7,21 @@ import * as classes from "./textConfiguration.module.scss";
 
 const TextConfiguration = ({ onChangeSize, onChangeLine, onChangeSpacing, onChangeFontFamily, onChangeLineLength, intl }) => {
 
-  const [text, setText] = useState(true);
+  const [text] = useState(true);
+  // const [text, setText] = useState(true);
 
   const handleChangeSize = value => {
     onChangeSize(value)
   }
-  
+
   const handleChangeLine = value => {
     onChangeLine(value)
   }
-  
+
   const handleChangeSpacing = value => {
     onChangeSpacing(value)
   }
-  
+
   const fontChange = value => {
     onChangeFontFamily(value)
   }

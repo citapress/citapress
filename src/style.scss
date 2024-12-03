@@ -1,4 +1,5 @@
-@import "variables.scss";
+@use 'variables' as *;
+@use "sass:color";
 
 html,
 body,
@@ -753,7 +754,7 @@ iframe{
   height: 100%;
   text-align: center;
   &:hover {
-    background-color: darken($blue, 10%);
+    background-color: color.adjust($blue, $lightness: -10%)
   }
   &-primary {
     height: 70px;

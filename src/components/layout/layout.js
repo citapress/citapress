@@ -11,7 +11,7 @@ const Layout = ({ location, children, intl, where }) => {
   const arrayofsplitlocation = location.pathname.split('/').filter(Boolean);
   let pathnamestriped = arrayofsplitlocation[arrayofsplitlocation.length - 1] || '';
   pathnamestriped = pathnamestriped === 'estudio' ? 'studio' : pathnamestriped;
-  const [clicked, setClicked] = useState(true)
+  const [clicked, setClicked] = useState(true);
 
   let header = (
     <div className={clicked ? "flex main-heading" : "flex main-heading open"}>

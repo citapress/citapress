@@ -1,4 +1,4 @@
-@import '/src/variables.scss';
+@use '/src/variables.scss' as *;
 
 .active {
   text-decoration: underline;
