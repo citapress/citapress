@@ -154,6 +154,12 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "G-MMPE8LY6RZ",
+      }
+    },
+    {
       resolve: `gatsby-plugin-intl`,
       options: {
         path: `${__dirname}/src/locales`,

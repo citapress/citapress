@@ -12,6 +12,7 @@
     "gatsby": "^5.14.0",
     "gatsby-plugin-decap-cms": "^4.0.4",
     "gatsby-plugin-feed": "^5.14.0",
+    "gatsby-plugin-google-analytics": "^5.14.0",
     "gatsby-plugin-image": "^3.13.1",
     "gatsby-plugin-intl": "^5.10.0",
     "gatsby-plugin-manifest": "^5.13.1",
