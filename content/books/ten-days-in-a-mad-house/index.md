@@ -14,7 +14,7 @@ download: ten-days-in-a-mad-house.epub
 download_ebook: ""
 download_name: Download EPUB
 third_download_name: Download PDF
-third_download: ten-days-in-a-mad-house.pdf
+third_download: zitkala_sa_zine_citapress_kassie_john.pdf
 genre:
   - nonfiction
   - autobiography
