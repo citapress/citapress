@@ -4,6 +4,7 @@ publication: 1924-03-07T23:12:03.284Z
 publishformat: Year
 release: 2022-05-18T22:12:03.284Z
 releaseformat: Month and year
+sortingdate: 2022-05-18T23:36:49.314Z
 templateKey: book-page
 author: Edith Wharton
 isbn: 978-1-961368-00-2
@@ -32,13 +33,16 @@ description: >-
 
   <p>"The Old Maid" is the second novella in Wharton's 1924 quartet <i>Old New York</i>; each story in the collection represents a decade in "Old New York" society from the 1840s to the 1870s. In this novella (originally subtitled "The Fifties"), Delia and Charlotte conspire to raise Charlotte's secret daughter without activating suspicion within their exacting, closed social circle. Wharton expertly digs into her characters and the social contradictions they exploit to protect their family in a story that is as biting as it is tender and, at times, triumphant. Playwright Zoë Akins won a Pulitzer Prize for her adaption of the book in 1935, and a film starring Bette Davis and directed by Edmund Goulding came out in 1939. We are thrilled to bring this book to new audiences with a free, open access edition available online to all readers with an internet connection.</p>
 foreword: >-
-  Foreword: Krithika Varagur, an author, award-winning journalist, speechwriter,
-  and editor at <i>The Drift. </i>
+  <p>Foreword: Krithika Varagur, an author, award-winning journalist,
+  speechwriter, and editor at <i>The Drift. </I></p>
 
 
-  Cover: Petra Zehner, East West German graphic artist and writer currently based in France."
+  <p>Cover: Petra Zehner, East West German graphic artist and writer currently based in France.</p>
+
+
+  <p>Watch a  <a href="https://www.youtube.com/watch?app=desktop&v=Oe6BtxOvkYo&t=1273s" target="_blank" rel="noopener noreferrer">video conversation with Krithika Varagur </a>about this book and Wharton's life and career.</p>
+published: true
 date: 2012-05-01T22:12:03.284Z
-sortingdate: 2022-05-18T23:36:49.314Z
 ---
 ## Introduction to The Old Maid by Krithika Varagur
 
