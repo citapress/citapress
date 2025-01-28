@@ -10,7 +10,7 @@ author: "Colectivo Women Resisting Violence "
 isbn: 978-1-961368-19-4
 post_image: mujeres_cover.jpeg
 square_image: template-book-contemporary-collection-thumbnail.jpg
-download: static/downloads/An Immortal Book_Sui Sin Far_Cita Press.epub
+download: mujeresresistiendolaviolencia.epub
 download_ebook: ""
 download_name: ""
 third_download_name: Women Resisting Violence (English)
