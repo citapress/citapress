@@ -151,6 +151,7 @@ module.exports = {
       resolve: `gatsby-plugin-decap-cms`,
       options: {
         enableIdentityWidget: true,
+        modulePath: `${__dirname}/src/cms/cms.js`,
       },
     },
     {

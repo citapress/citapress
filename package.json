@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "decap-cms-app": "^3.4.0",
+    "decap-cms-media-library-uploadcare": "^3.0.2",
     "gatsby": "^5.14.0",
     "gatsby-plugin-decap-cms": "^4.0.4",
     "gatsby-plugin-feed": "^5.14.0",
