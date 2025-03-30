@@ -2,8 +2,11 @@
 publication: 2018-04-01T22:12:03.284Z
 publishformat: Year
 release: 1892-04-01T23:12:03.284Z
+releaseformat: Year
 templateKey: book-page
 author: Charlotte Perkins Gilman
+post_image: https://ucarecdn.com/fa06997d-d20e-4de2-a7aa-d3790fe44695/-/smart_resize/380x380/cover-yellowwallpaper.webp
+square_image: yellowwallpaper.png
 download: ""
 language_link: el-tapiz-amarillo
 genre:
@@ -13,21 +16,6 @@ theme:
   - suspense-gothic
   - motherhood
 lang: en
-foreword: >-
-  <p>Foreword: Catherine J. Golden, Ph.D., Professor of English and The Tisch
-  Chair in Arts and Letters, Skidmore College<p>
-
-
-  <p>Cover: <a href="http://laurasavina.com/" target="_blank" rel="noreferrer">Laura Savina</a>, Italian illustrator and tap dance student</p>
-date: 2015-05-01T22:12:03.284Z
-title: The Yellow Wall-Paper
-releaseformat: Year
-sortingdate: 2018-04-01T00:00:31.212Z
-isbn: 978-1-961368-08-8
-post_image: cover-yellowwallpaper.jpg
-square_image: yellowwallpaper.png
-time_period:
-  - 19th
 description: " “'The Yellow Wall-Paper' (1892) holds an important place among
   rediscovered works by turn-of-the-century American women writers for its bold
   critique of gender politics in a patriarchal society. The nameless narrator,
@@ -39,6 +27,18 @@ description: " “'The Yellow Wall-Paper' (1892) holds an important place among
   reflection of her painful position as a woman in Victorian America. Many of
   the story’s first readers considered it a psychological horror tale in the
   fashion of Poe.\" - Catherine J. Golden"
+foreword: >-
+  <p>Foreword: Catherine J. Golden, Ph.D., Professor of English and The Tisch
+  Chair in Arts and Letters, Skidmore College<p>
+
+
+  <p>Cover: <a href="http://laurasavina.com/" target="_blank" rel="noreferrer">Laura Savina</a>, Italian illustrator and tap dance student</p>
+date: 2015-05-01T22:12:03.284Z
+title: The Yellow Wall-Paper
+sortingdate: 2018-04-01T00:00:31.212Z
+isbn: 978-1-961368-08-8
+time_period:
+  - 19th
 ---
 ## Foreword
 
