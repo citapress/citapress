@@ -2,5 +2,6 @@ import CMS from 'decap-cms-app';
 import uploadcare from "decap-cms-media-library-uploadcare";
 
 CMS.registerMediaLibrary(uploadcare);
-console.log('UPLOAD_CARE_API:', process.env.UPLOAD_CARE_API);
+// In your React component or main application file
+console.log('All environment variables:', process.env);
 
