@@ -6,7 +6,7 @@ releaseformat: Year
 templateKey: book-page
 author: Charlotte Perkins Gilman
 post_image: https://ucarecdn.com/fa06997d-d20e-4de2-a7aa-d3790fe44695/-/smart_resize/380x380/cover-yellowwallpaper.webp
-square_image: yellowwallpaper.png
+square_image: https://ucarecdn.com/f5c6b701-acd7-4429-b6b6-ad4323ca4760/-/smart_resize/380x380/yellowwallpaper.webp
 download: ""
 language_link: el-tapiz-amarillo
 genre:
