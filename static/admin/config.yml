@@ -3,6 +3,15 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 
 media_folder: static/img
+media_library:
+  name: uploadcare
+  config:
+    publicKey: {{UPLOAD_CARE_API}}
+  settings:
+    autoFilename: true
+    previewStep: true
+    defaultOperations: '/smart_resize/380x380/'
+
 public_folder: /img
 
 collections:
@@ -80,4 +89,4 @@ collections:
       - { label: 'Image7', name: 'image7', widget: 'string', required: false }
       - { label: 'Image8', name: 'image8', widget: 'string', required: false }
       - { label: 'Image9', name: 'image9', widget: 'string', required: false }
-      - { label: 'Front page block', name: 'body', widget: 'markdown' }  
+      - { label: 'Front page block', name: 'body', widget: 'markdown' }
