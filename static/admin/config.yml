@@ -7,7 +7,7 @@ media_folder: static/img
 media_library:
   name: uploadcare
   config:
-    publicKey: '{{env "UPLOAD_CARE_API"}}'
+    publicKey: '{{env "GATSBY_UPLOAD_CARE_API"}}'
   settings:
     autoFilename: true
     previewStep: true
