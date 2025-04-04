@@ -7,7 +7,7 @@ media_folder: static/img
 media_library:
   name: uploadcare
   config:
-    publicKey: '9aecb324fad7f09c0c51'
+    publicKey: '1d116da9be63b10bf383'
   settings:
     autoFilename: true
     previewStep: true
