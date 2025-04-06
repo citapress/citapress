@@ -29,7 +29,7 @@ const ThemeBookPostTemplate = ({
                 itemType="http://schema.org/Article"
               >
                 <header>
-                  <Link to={post.fields.slug} itemProp="url">
+                  <Link to={post.fields.slug} itemProp="url" className="gatsby-image-wrapper">
                     <img src={image} alt={title} />
                   </Link>
                 </header>

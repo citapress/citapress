@@ -13,7 +13,6 @@ const BookPostTemplate = ({
 }) => {
   const siteTitle = site.siteMetadata?.title || `Title`;
   const image = post.frontmatter.post_image;
-  console.log({image});
   const where = post.frontmatter.language_link;
 
   const checkFormat = (f) => {
@@ -51,7 +50,9 @@ const BookPostTemplate = ({
       >
         <header className="post-header">
           <div className="portrait">
-            <img src={image} alt={post.frontmatter.title} />
+            <div className="gatsby-image-wrapper">
+              <img src={image} alt={post.frontmatter.title} />
+            </div>
           </div>
           <div className="info">
             <h1 className="bluu" itemProp="headline">{post.frontmatter.title}</h1>

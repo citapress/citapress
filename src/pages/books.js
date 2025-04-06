@@ -34,7 +34,7 @@ const BlogIndex = ({ data, location, intl }) => {
                 itemType="http://schema.org/Article"
               >
                 <header>
-                  <Link to={post.fields.slug} itemProp="url">
+                  <Link to={post.fields.slug} itemProp="url" className="gatsby-image-wrapper">
                     <img src={image} alt={title} />
                   </Link>
                 </header>
@@ -87,11 +87,7 @@ query blogListQuery($language: String!) {
         date(formatString: "MMMM DD, YYYY")
         title
         description
-        square_image {
-           {
-            gatsbyImageData(width: 380)
-          }
-        }
+        square_image
       }
     }
   }

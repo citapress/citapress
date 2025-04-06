@@ -14,7 +14,6 @@ const BookPostReadTemplate = ({
   const isBrowser = typeof window !== "undefined"
   const siteTitle = site.siteMetadata?.title || `Title`;
   const image = post.frontmatter.post_image;
-  console.log({image});
   const where = post.frontmatter.language_link ? `${post.frontmatter.language_link}/read` : null;
   const postReference = useRef(null);
 
@@ -105,7 +104,9 @@ const BookPostReadTemplate = ({
       >
         <header className="post-header">
           <div className="portrait">
-            <img src={image} alt={post.frontmatter.title} />
+            <div className="gatsby-image-wrapper">
+              <img src={image} alt={post.frontmatter.title} />
+            </div>
           </div>
           <div className="info read-info">
             <h1 className="bluu" itemProp="headline">{post.frontmatter.title}</h1>

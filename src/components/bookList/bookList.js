@@ -28,7 +28,7 @@ const BooksList = ({ data, intl }) => {
                 itemType="http://schema.org/Article"
               >
                 <header>
-                  <Link to={book.fields.slug} itemProp="url">
+                  <Link to={book.fields.slug} itemProp="url" className="gatsby-image-wrapper">
                     <img src={image} alt={title} />
                   </Link>
                 </header>
