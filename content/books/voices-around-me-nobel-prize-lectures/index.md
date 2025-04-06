@@ -9,7 +9,7 @@ templateKey: book-page
 author: Svetlana Alexievich, Nadine Gordimer, Doris Lessing, Toni Morrison,
   Herta Müller, Alice Munro, Wisława Szymborska
 isbn: 978-1-961368-11-8
-post_image: https://ucarecdn.com/122f80b4-1fd1-4553-96de-41a831f120f5/-/preview/582x900/cover-nobel-lectures-update.png
+post_image: https://ucarecdn.com/122f80b4-1fd1-4553-96de-41a831f120f5/-/preview/380x588/
 square_image: https://ucarecdn.com/d43b0c6d-01bb-424c-aa47-c625fdbb6eba/-/preview/600x600/thumbnail-nobel-lectures-update.jpg
 download: Cita-Press-Voices-Around-Me-smalls-zines.pdf
 download_name: Zines - Print & Fold

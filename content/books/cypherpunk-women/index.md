@@ -8,8 +8,8 @@ sortingdate: 2021-02-05T23:39:57.168Z
 templateKey: book-page
 author: Edited by Leigh Cuen
 isbn: 978-1-961368-17-0
-post_image: https://ucarecdn.com/0bb5da7b-ad48-47a0-a0af-42edde2a5c08/cover_cypherpunk-women.png
-square_image: https://ucarecdn.com/15b50de8-7a5d-4e7d-8f2a-ff875c95c218/thumbnail-cypherpunk-women.jpg
+post_image: https://ucarecdn.com/0bb5da7b-ad48-47a0-a0af-42edde2a5c08/
+square_image: https://ucarecdn.com/15b50de8-7a5d-4e7d-8f2a-ff875c95c218/-/preview/425x425/
 download: https://store.bookbaby.com/book/cypherpunk-women1
 download_name: Buy Print Copy
 language_link: ""
