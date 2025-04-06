@@ -363,7 +363,7 @@ So where does that leave us? Here’s what I know needs to be true for Bitcoin t
 
 Miners’ hash rate represents the sunk cost in the Bitcoin network leading up to this point and also the miner’s belief in the Bitcoin network looking forward. The Bitcoin hashrate, the amount of power fueling the global network, has continued growing tremendously since 2010.
 
-![hash rate](https://ucarecdn.com/09da573a-d6a0-43b3-a276-b52487d413fc/image33.png)
+![hash rate](https://ucarecdn.com/09da573a-d6a0-43b3-a276-b52487d413fc/-/resize/720x/image33.png)
 
 2) Fiat On-Ramps
 
@@ -603,7 +603,7 @@ You might be familiar with the graphs of other equations such as linear, quadrat
 
 Here are graphs of several equations, including secp256k1:
 
-!(Source 2: Jimmy Song)[/image38.png]
+!(Source 2: Jimmy Song)[https://ucarecdn.com/315e812d-cd5c-4867-a6e5-cd6923de035b/-/resize/720x/image38.png]
 
 If you want to learn more about how elliptic curves are used in public key cryptography and how it is all built up starting with simple points, check out my post about the beginning of Jimmy Song’s Programming Blockchain Course.
 
@@ -615,7 +615,7 @@ A hash function can be thought of like a black box. The same input will always p
 
 The Bitcoin protocol uses hashing to ensure that no block content has been tampered with, and to link the history of blocks together – to produce an immutable blockchain. Hashes are considered one-way functions in that it is easy to compute the output if you know the input but practically impossible to go backwards and find the input if you only know the output.
 
-!(Source 3: Grokking Bitcoin by Kalle Rosenbaum)[/image37.png]
+!(Source 3: Grokking Bitcoin by Kalle Rosenbaum)[https://ucarecdn.com/c1283135-be8a-48b0-9134-53c72499364c/-/resize/720x/image37.png]
 
 Bitcoin uses the famous SHA-256 algorithm. It also uses the RIPEMD160 algorithm although not everyone knows that. One interesting characteristic of hash functions is that given an input of any length, it will always return an output of a fixed length. Fixed length outputs could potentially be put together in lines to create a square or rectangle visual shape, perhaps highlighting certain characters with different colors to create a unique text. I think this sounds fun so I’ll explore this road.
 
@@ -720,11 +720,11 @@ Even after bolding the text, this does not seem that interesting. Abort mission!
 
 If I input the result from the SHA-256 hash, here’s what I now get. More colorful!
 
-!(color)[image43.png]
+!(color)[https://ucarecdn.com/384cf145-d2b3-4a6b-8cf7-008e0e732c5d/-/resize/720x/image43.png]
 
 After playing around with the built-in formatting options, there are at least a few options for artistic shapes. In the grayscale piece below, I picked the “$” sign as the “Shape” option. It doesn’t look much like a dollar sign to me but I like the form.
 
-!(color)[image41.png]
+!(color)[https://ucarecdn.com/27c65e6e-a006-484d-a1e6-f877af451db0/-/resize/720x/image41.png]
 
 And in the next one I picked the shape of a bank as the “Shape” option, since Satoshi’s whitepaper was released just after the financial crisis of 2008. Note that in this purple one, I decided to leave two lines off as it made a more visually interesting shape. “Every morning a new arrival” and departure, right Rumi?
 
@@ -733,7 +733,7 @@ The following lines were not drawn:
 • 9BF5FA69766CF4A2B5C8A70734BFDF0F712E9CBE8CB544871FB48116EF8D21B3 (1)
 • A4AAE98092B2AF402A7E4E67D1F7101A2A363F87976228CF045C36CAEE20907C (1)
 
-!(color)[image48.png]
+!(color)[https://ucarecdn.com/7ca59b78-b7fc-49fc-8fef-ded00700833f/-/resize/720x/image48.png]
 
 Thanks for joining me in making some simple nerdy art. There’s certainly no shortage of data and processes to play around with in the world of Bitcoin.
 
@@ -1707,19 +1707,19 @@ Because the entire system of Bitcoin is decentralized, developers don’t work f
 
 Because we live under the rules and regulations of the country we’re citizens of, the “checks and balances of state power” is a mental model we are all familiar with. In the United States, we have the legislative branch that writes the laws, the executive branch that approves or vetoes them, and the judicial branch to ensure that everyone is obeying the rules of the constitution.
 
-![44](https://ucarecdn.com/4c56d56c-e259-4693-a2b9-7526e56a74c1/-/preview/614x327/image44.png)
+![44](https://ucarecdn.com/4c56d56c-e259-4693-a2b9-7526e56a74c1/-/resize/720x/image44.png)
 
 Every social system needs an ordered way to evolve, and in theory, that’s what the creation of new laws allows us to do. The process of drafting new law proposals in Congress and getting approval from the executive branch is the formal structure by which our government comes to a rough political consensus.
 
 **Bitcoin has its own interpretation of the balance of powers:**
 
-![46](https://ucarecdn.com/1ef07e22-7c55-48a9-a8ea-462d74bbf986/-/preview/720x287/image46.png)
+![46](https://ucarecdn.com/1ef07e22-7c55-48a9-a8ea-462d74bbf986/-/resize/720x/image46.png)
 
 Developers update code and then full nodes choose whether to update or not. Full nodes validate transactions and blocks while miners confirm transactions in blocks. People often say that, on the blockchain, code is law. Though law may be a strong word, the Bitcoin blockchain does have its own rules and methods of coming to consensus and enforcing the approved rules on-chain. There are some similarities between self-regulating systems used in state governments and the self-regulating systems used in tech.
 
 A BIP is a document that provides the Bitcoin community with a change proposal and describes the proposed new rules for Bitcoin. When a draft BIP is proposed, its author is required to provide details on what layer of the cake it affects, the motivation for proposing it, the rationale for why design decisions are made, and also address backward compatibility. One step in proposing and creating new BIPs that differs from the creation of laws is that all proposals have to be translated into code, implemented into the core software, and be backward compatible.
 
-![49](https://ucarecdn.com/b19e83b3-2a19-49cc-ba29-07cf7173366a/-/preview/766x296/image49.png)
+![49](https://ucarecdn.com/b19e83b3-2a19-49cc-ba29-07cf7173366a/-/resize/720x/image49.png)
 
 Consensus rules are something like Bitcoin’s version of a constitution. But because this layer defines the cryptographic contracts that create transactions and blocks, it determines which blockchain is valid, and is therefore the hardest layer to change. Changes at the consensus layer change the validation performed by all full nodes that run that new software. Any disagreement among full nodes as to what constitutes a legitimate block may result in a chain split.
 
@@ -1727,13 +1727,13 @@ Consensus rules are something like Bitcoin’s version of a constitution. But be
 
 In centralized systems, updates are pushed out without users having to do anything. Because bitcoin is decentralized, we can’t expect that people will automatically know to upgrade their full node software to the next version. To address this, new versions of the software have to be backward compatible with old versions. Legacy nodes and updated nodes always have to agree on the state of the network. A disagreement on the chain causes a chain split.
 
-![51](https://ucarecdn.com/34077e72-9acb-4a5b-81cd-a113583d56c4/-/preview/719x669/image51.png)
+![51](https://ucarecdn.com/34077e72-9acb-4a5b-81cd-a113583d56c4/-/resize/720x/image51.png)
 
 **Soft and hard forks**
 
 A soft fork is an upgrade that is backward compatible. Soft forks restrict the current rules or add new rules, making previously valid blocks invalid. A hard fork is an upgrade that is not backward compatible. Hard forks loosen current rules or eliminate the current rules entirely, making previously invalid blocks.
 
-![53](https://ucarecdn.com/a8b51454-d3ee-4412-9b12-db1ea32c26cc/-/preview/754x364/image53.png)
+![53](https://ucarecdn.com/a8b51454-d3ee-4412-9b12-db1ea32c26cc/-/resize/720x/image53.png)
 
 Soft forks keep consensus among the network of full nodes to one chain, whereas hard forks always result in a fork in the chain because the new rule is a fundamental disagreement with the current rules.
 
@@ -1841,7 +1841,7 @@ Both apathy and fear are tools of oppression. And understanding how they are use
 
 I’ve been thinking more about privacy generally, and here are some of the responses I’ve been getting when I talk about privacy on Twitter:
 
-![privacy](https://ucarecdn.com/e1d74450-f212-4fe7-8890-495f1830fd11/-/preview/580x393/privacy.png)
+![privacy](https://ucarecdn.com/e1d74450-f212-4fe7-8890-495f1830fd11/-/resize/720x/privacy.png)
 
 Whenever there’s a conversation about privacy, the inevitable question becomes “why do you need privacy?” Let’s talk briefly about why we must have privacy as the default setting for all things in our lives. Here is a simple example. There are three options for a specific function, say, how privacy policies are served to you by an application you use. People are using different approaches, and it’s very exploratory. Over time, there seems to be clustering around A, B, and C.
 
@@ -1851,7 +1851,7 @@ B — you are given a hyperlink that links to the privacy policy and one button 
 
 C — you are given no privacy policy information in a visible way, but it is linked at the bottom of a website page Now over time, B seems to be used more and more, so B is what is talked about, taught, regulated, standardized, designed around, accustomed to, and therefore becomes a self-reinforcing “standard.” This goes on and on, and while there may be new approaches now and again, B is for all intents and purposes “the standard.”
 
-![22](https://ucarecdn.com/9ebf28c1-a930-4e7e-8835-6449b3900fd7/-/preview/1000x512/image22.png)
+![22](https://ucarecdn.com/9ebf28c1-a930-4e7e-8835-6449b3900fd7/-/resize/720x/image22.png)
 
 Yes, this is a grossly simplistic view. Let’s say that by time n, the world has changed drastically and a growing group of people recognize the standard B is actually harmful to their interests, and devises an alternative, D, that is better for this group’s interests. There will be a tremendous amount of energy required to (1) demonstrate B is in fact inferior in some way, and (2) prove D is superior and install it as the standard.
 
@@ -1861,11 +1861,11 @@ Social and economic systems are inevitably far more complex than what is describ
 
 So, imagine this. Today, at t = 0, you don’t think about your privacy often, if at all, and it really has no material impact on your life. So option B feels fine. Perhaps you even justify or support option B, by tweeting things like (yes, someone said this and yes, it makes me really sad because they probably believe it):
 
-![23](https://ucarecdn.com/9ebf28c1-a930-4e7e-8835-6449b3900fd7/-/preview/1000x512/image23.png)
+![23](https://ucarecdn.com/9ebf28c1-a930-4e7e-8835-6449b3900fd7/-/resize/720x/image23.png)
 
 Tomorrow, you might that find the circumstances of your reality have changed, and you realize option B is in fact very much sub-optimal, and possibly even harmful to you, because of things like:
 
-![24](https://ucarecdn.com/a3a11ff5-f413-4962-8944-4770a1deb6a8/-/preview/1000x288/image24.png)
+![24](https://ucarecdn.com/a3a11ff5-f413-4962-8944-4770a1deb6a8/-/resize/720x/image24.png)
 
 All of a sudden, if you attempt to protect your privacy, you have something to hide, and you must be doing something evil. You were complicit in creating the status quo, either through your consent or your apathy, so now you live with its consequences, unless there are other people with sufficient power, force, and energy to redraw the boundaries of what is possible.
 

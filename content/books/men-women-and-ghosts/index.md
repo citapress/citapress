@@ -8,8 +8,8 @@ sortingdate: 2020-03-12T23:51:50.645Z
 templateKey: book-page
 author: Amy Lowell
 isbn: 978-1-961368-14-9
-post_image: cover-men-women-ghosts1.png
-square_image: thumbnail-men-women.jpg
+post_image: https://ucarecdn.com/49f2002c-9a61-47da-a5da-12229d1285a1/-/preview/641x971/cover-men-women-ghosts1.png
+square_image: https://ucarecdn.com/20f40bfd-d8c2-49ee-94bf-ed84c4327bc4/-/preview/800x800/thumbnail-men-women.jpg
 genre:
   - poetry
 time_period:

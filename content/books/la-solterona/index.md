@@ -18,8 +18,8 @@ date: 2012-05-01T22:12:03.284Z
 title: La Solterona
 sortingdate: 2022-05-22T17:09:04.183Z
 isbn: "1231232131232112"
-post_image: old-maid-cover-ES.jpg
-square_image: old-maid-square-ES.jpg
+post_image: https://ucarecdn.com/9d3a1e0f-12aa-4602-85c7-5f440b1a91f6/-/preview/662x1000/old-maid-cover-ES.jpg
+square_image: https://ucarecdn.com/59e3f9ec-3e12-4031-a3ca-e663021ebaa6/-/preview/630x630/old-maid-square-ES.jpg
 time_period:
   - modernist
 description: Los personajes de La solterona (1925) aceptan al pie de la letra
@@ -32,7 +32,7 @@ description: Los personajes de La solterona (1925) aceptan al pie de la letra
 Portada: Petra Zehner, artista gráfica y escritora residente en Francia."
 releaseformat: Year
 ---
-![Portada La Solterona](old-maid-cover-ES.jpg "Portada La Solterona")
+![Portada La Solterona](https://ucarecdn.com/9d3a1e0f-12aa-4602-85c7-5f440b1a91f6/-/preview/662x1000/old-maid-cover-ES.jpg "Portada La Solterona")
 
 ## Introducción de La Solterona de Krithika Varagur
 

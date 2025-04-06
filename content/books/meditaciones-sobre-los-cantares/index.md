@@ -8,8 +8,8 @@ sortingdate: 2021-10-12T01:12:59.841Z
 templateKey: book-page
 author: Santa Teresa de Jesús (Santa Teresa de Ávila)
 isbn: 978-1-961368-03-3
-post_image: cover-st-teresa.jpg
-square_image: thumbnail-meditaciones.jpg
+post_image: https://ucarecdn.com/94706c97-cc04-4775-9b80-a7914a9f1ea5/-/preview/634x980/cover-st-teresa.jpg
+square_image: https://ucarecdn.com/62ac1d3b-e20a-4ee4-bb27-15d5c2458e9c/-/preview/992x992/thumbnail-meditaciones.jpg
 language_link: meditations-on-the-song-of-songs
 genre:
   - nonfiction

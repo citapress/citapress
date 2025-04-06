@@ -23,8 +23,8 @@ title: El tapiz amarillo
 releaseformat: Year
 sortingdate: 2018-04-07T23:44:45.775Z
 isbn: "978-1-961368-09-5 "
-post_image: cover-tapiz-amarillo.jpg
-square_image: thumbnail-yellowwallpaper-es.jpg
+post_image: https://ucarecdn.com/20cb5f63-3034-40e5-9079-4e3fb081f6ed/-/preview/397x612/cover-tapiz-amarillo.jpg
+square_image: https://ucarecdn.com/076212e4-4f11-4992-bfb3-d593a0652e3b/-/preview/704x704/thumbnail-yellowwallpaper-es.jpg
 time_period:
   - modernist
   - 20th
@@ -36,16 +36,12 @@ description: "'El tapiz amarillo' (1892) de Charlotte Perkins Gilman ocupa un
   psicológicos debilitantes."
 ---
 <h1>El tapiz amarillo </h1>
-    <h2>Charlotte Perkins Gilman</h2>
-
-  </section>
-  <ul class="toc">
+<h2>Charlotte Perkins Gilman</h2>
+<ul class="toc">
     <li><a href="#foreword">Introducci&oacute;n de Catherine J. Golden</a></li>
     <li><a href="#book">Empezar "El tapiz amarillo"</a></li>
-  </ul>
-  <h2>
-  El tapiz amarillo - Charlotte Perkins Gilman
-  </h2>
+</ul>
+<h2>El tapiz amarillo - Charlotte Perkins Gilman</h2>
   <section id="foreword">
     <h3> Introducci&oacute;n</h3>
     <p>&quot;El tapiz amarillo&quot; (1892) de Charlotte Perkins Gilman ocupa un lugar importante entre las obras redescubiertas de escritoras estadounidenses de fin de siglo por su audaz cr&iacute;tica de la pol&iacute;tica de g&eacute;nero en una sociedad patriarcal. La narradora sin nombre, sometida a la infame cura del reposo&mdash;lo que los m&eacute;dicos diagnostican ahora como depresi&oacute;n posparto&mdash;experimenta efectos psicol&oacute;gicos debilitantes. Al principio le repugna el tapiz pintado de la habitaci&oacute;n en la que est&aacute; secuestrada en una finca de campo, pero a la narradora llega a gustarle cuando se propone descifrar su patr&oacute;n: imagina a muchas mujeres arrastr&aacute;ndose tras las rejas y se identifica con una mujer atrapada, posiblemente un reflejo de su dolorosa posici&oacute;n como mujer en la Am&eacute;rica victoriana. Muchos de los primeros lectores del relato lo consideraron un cuento de terror psicol&oacute;gico al estilo de Poe. Gilman tuvo dificultades para publicar este relato en un mercado literario dominado por los hombres, pero de su notable producci&oacute;n de novelas, relatos, poes&iacute;a y obras te&oacute;ricas que desaf&iacute;an la subyugaci&oacute;n femenina y defienden la igualdad de derechos, es mejor conocida hoy por <i>Herland</i> (1915), una novela ut&oacute;pica feminista, y &quot;El tapiz amarillo&quot;. Aclamado como un texto feminista en la d&eacute;cada de 1970, &quot;El tapiz amarillo&quot; es ahora una obra can&oacute;nica incluida en antolog&iacute;as de literatura estadounidense y de mujeres escritoras.</p>
@@ -58,8 +54,9 @@ description: "'El tapiz amarillo' (1892) de Charlotte Perkins Gilman ocupa un
    <p>
 El feminismo teresiano es estrat&eacute;gico y de supervivencia. Teresa conoc&iacute;a bien los castigos que reservaba la Inquisici&oacute;n para las mujeres que intentaban fungir como autoridades espirituales. Por lo mismo, Teresa negocia su deseo de expresar una espiritualidad &iacute;ntima y muy personal mediante la elaboraci&oacute;n de una cuidadosa ret&oacute;rica de la humildad y la obediencia, que invitamos a los lectores a que desentra&ntilde;en del texto que presentamos. </p>
     <p>Catherine J. Golden, Profesora de inglés y de la Cátedra Tisch de Artes y Letras, Skidmore College. Traducción de Lina Rosas.</p>
-
-![illustration of a woman reading in chair](illustration-of-woman-writing-in-chair.jpg "woman in chair")
+</section>
+<section id="book">
+![illustration of a woman reading in chair](https://ucarecdn.com/f0da12f4-1eb8-413c-b57e-4a34330dd461/-/preview/381x478/illustration-of-woman-writing-in-chair.jpg "woman in chair")
 
   <p>
  No es nada habitual que gente corriente como John y yo alquile casas solariegas para el verano. </p> 
@@ -159,7 +156,7 @@ El dibujo principal es un arabesco recargado, que recuerda a un hongo. Hay que i
 
 <p>Ella no sabía que yo estuviera en la habitación, y cuando le pregunté con voz tranquila, muy tranquila, controlándome al máximo, qué hacía con el papel… ¡Dio media vuelta como si la hubieran sorprendido robando, y me miró con cara de enfadada! ¡Me preguntó que por qué la asustaba!</p>
 
-![illustration of two women talking](yellowwallpaper2.jpg "two women")
+![illustration of two women talking](https://ucarecdn.com/9a056ed2-8220-4135-94d0-25d033387dc1/-/preview/372x456/yellowwallpaper2.jpg "two women")
 
 Luego dijo que el papel lo manchaba todo, que había encontrado manchas amarillas en toda mi ropa y en la de John, y que a ver si teníamos más cuidado. Qué inocente, ¿verdad? ¡Pues yo sé que está estudiando el dibujo, y estoy decidida a ser la única que descubra la solución!
 
@@ -255,8 +252,6 @@ Luego dijo que el papel lo manchaba todo, que había encontrado manchas amarilla
 
 <p>¡Como si no se le notara! De todos modos no me extraña nada su comportamiento, después de tres meses durmiendo debajo de este papel. Lo mío sólo es interés, pero estoy segura de que a John y a Jennie, en secreto, les afecta.</p>
 
-<p><center>\\*\\**</center></p>
-
 <p>¡Hurra! Es el último día, pero no me hace falta ninguno más. John se queda a dormir en la ciudad, y no volverá hasta tarde.</p>
 
 <p>Jennie quería dormir conmigo, la muy pilla, pero le he dicho que descansaría mucho mejor quedándome sola una noche.</p>
@@ -274,9 +269,20 @@ Luego dijo que el papel lo manchaba todo, que había encontrado manchas amarilla
 <p>Pero estoy aquí, y este papel no lo toca nadie más que yo. ¡Antes muerta!</p>
 
 <p>Jennie ha intentado sacarme de la habitación. ¡Cómo se le notaba! Pero yo le he dicho que ahora está tan vacía y tan limpia que me entraban ganas de estirarme otra vez y dormir todo lo que pudiera; que no me despertara ni para cenar, y que ya la avisaría yo cuando estuviera despierta.</p>
+</section>
+<p> Vaya, que se ha marchado, y los criados no est&aacute;n. Los muebles tampoco. S&oacute;lo queda la cama clavada al suelo, con el colch&oacute;n de lona que encontramos encima. Esta noche dormiremos abajo, y ma&ntilde;ana tomaremos el barco a casa. Me gusta bastante esta habitaci&oacute;n, ahora que vuelve a estar vac&iacute;a. &iexcl;Qu&eacute; destrozos hicieron los ni&ntilde;os! &iexcl;La cama est&aacute; como si la hubieran mordido! Pero tengo que poner manos a la obra. He cerrado la puerta y he tirado la llave al camino de delante. No quiero salir, ni quiero que entre nadie hasta que llegue John. Quiero darle una buena sorpresa. Tengo una cuerda que no ha encontrado ni Jennie. &iexcl;As&iacute;, si sale la mujer y quiere escaparse, podr&eacute; atarla!</p>
+<p>&iexcl;Pero se me ha olvidado que no puedo llegar muy arriba si no tengo nada a que subirme! &iexcl;Esta cama no hay quien la mueva! He intentado levantarla y empujarla hasta quedarme lisiada.</p>
+<p>Entonces me he enfadado tanto que le he arrancado un trozo de un mordisco, en una esquina; pero me he hecho da&ntilde;o en los dientes.</p>
+<p> Despu&eacute;s he arrancado todo el papel hasta donde alcanzaba de pie en el suelo. &iexcl;Est&aacute; pegad&iacute;simo, y el dibujo se lo pasa en grande! &iexcl;Todas las cabezas estranguladas, y los ojos saltones, y la proliferaci&oacute;n de hongos, todos se mofan de m&iacute; a gritos!</p>
+<p>Me estoy enfadando tanto que acabar&eacute; haciendo algo desesperado. Saltar por la ventana ser&iacute;a un ejercicio admirable, pero las barras son demasiado fuertes para intentarlo. Adem&aacute;s, tampoco lo har&iacute;a. Desde luego que no. S&eacute; perfectamente que ser&iacute;a un acto indecoroso, y que podr&iacute;a interpretarse mal.</p>
+<p>Ni siquiera me gusta mirar por las ventanas. &iexcl;Hay tantas mujeres arrastr&aacute;ndose, y corren tanto&hellip;! Me gustar&iacute;a saber si salen todas del papel, como yo.</p>
+<p>Pero ahora estoy bien sujeta con mi cuerda, la que no encontr&oacute; nadie. &iexcl;A m&iacute; s&iacute; que no me sacan a la carretera! Supongo que cuando se haga de noche tendr&eacute; que ponerme otra vez detr&aacute;s del dibujo. &iexcl;Con lo que cuesta! &iexcl;Es tan agradable estar en esta habitaci&oacute;n tan grande, y andar a gatas siempre que quiera&hellip;!</p>
+<p>No quiero salir. No quiero, ni que me lo pida Jennie.</p>
+<p>Porque fuera hay que arrastrarse por el suelo, y en vez de amarillo es todo verde. Aqu&iacute;, en cambio, puedo andar a gatas por el suelo liso, y mi hombro se ajusta perfectamente a la marca larga de la pared, con la ventaja de que as&iacute; no me pierdo.</p>
+<p>&iexcl;Anda, si est&aacute; John al otro lado de la puerta! &iexcl;Es in&uacute;til, jovencito, no podr&aacute;s abrirla! &iexcl;Qu&eacute; berridos, y qu&eacute; golpes! Ahora pide un hacha a gritos. &iexcl;Ser&iacute;a una l&aacute;stima destrozar una puerta tan bonita! &mdash;&iexcl;John, querido! &mdash;he dicho con la m&aacute;xima amabilidad&mdash;. &iexcl;La llave est&aacute; al lado de la escalera de entrada, debajo de una hoja! Con eso se ha callado un rato. Luego ha dicho (con mucha serenidad): &mdash;&iexcl;Abre la puerta, cari&ntilde;o!</p>
+<p>&mdash;No puedo &mdash;he contestado yo&mdash;. &iexcl;La llave est&aacute; al lado de la puerta principal, debajo de una hoja! Lo he repetido varias veces, muy poco a poco y con mucha dulzura; lo he dicho tantas veces que ha tenido que bajar a comprobarlo. La ha encontrado, como era de esperar, y ha entrado. Se ha quedado a un paso del umbral.</p>
+<p>&mdash;&iquest;Qu&eacute; pasa? &mdash;ha gritado&mdash;. &iquest;Pero qu&eacute; haces, por Dios? Yo he seguido andando a gatas como si nada, pero le he mirado por encima del hombro.</p>
+<p>&mdash;Al final he salido &mdash;he dicho&mdash;, aunque no quisieras ni t&uacute; ni Jane. &iexcl;Y he arrancado casi todo el papel, para que no puedan volver a meterme!</p>
+<p>&iquest;Por qu&eacute; se habr&aacute; desmayado? El caso es que lo ha hecho, y justo al lado de la pared, en mitad de mi camino. &iexcl;O sea que he tenido que pasar por encima de &eacute;l a cada vuelta!</p>
 
-<p> Vaya, que se ha marchado, y los criados no est&aacute;n. Los muebles tampoco. S&oacute;lo queda la cama clavada al suelo, con el colch&oacute;n de lona que encontramos encima. Esta noche dormiremos abajo, y ma&ntilde;ana tomaremos el barco a casa. Me gusta bastante esta habitaci&oacute;n, ahora que vuelve a estar vac&iacute;a. &iexcl;Qu&eacute; destrozos hicieron los ni&ntilde;os! &iexcl;La cama est&aacute; como si la hubieran mordido! Pero tengo que poner manos a la obra. He cerrado la puerta y he tirado la llave al camino de delante. No quiero salir, ni quiero que entre nadie hasta que llegue John. Quiero darle una buena sorpresa. Tengo una cuerda que no ha encontrado ni Jennie. &iexcl;As&iacute;, si sale la mujer y quiere escaparse, podr&eacute; atarla! <p>&iexcl;Pero se me ha olvidado que no puedo llegar muy arriba si no tengo nada a que subirme! &iexcl;Esta cama no hay quien la mueva! He intentado levantarla y empujarla hasta quedarme lisiada. <p>Entonces me he enfadado tanto que le he arrancado un trozo de un mordisco, en una esquina; pero me he hecho da&ntilde;o en los dientes.<p> Despu&eacute;s he arrancado todo el papel hasta donde alcanzaba de pie en el suelo. &iexcl;Est&aacute; pegad&iacute;simo, y el dibujo se lo pasa en grande! &iexcl;Todas las cabezas estranguladas, y los ojos saltones, y la proliferaci&oacute;n de hongos, todos se mofan de m&iacute; a gritos! <p>Me estoy enfadando tanto que acabar&eacute; haciendo algo desesperado. Saltar por la ventana ser&iacute;a un ejercicio admirable, pero las barras son demasiado fuertes para intentarlo. Adem&aacute;s, tampoco lo har&iacute;a. Desde luego que no. S&eacute; perfectamente que ser&iacute;a un acto indecoroso, y que podr&iacute;a interpretarse mal. <p>Ni siquiera me gusta mirar por las ventanas. &iexcl;Hay tantas mujeres arrastr&aacute;ndose, y corren tanto&hellip;! Me gustar&iacute;a saber si salen todas del papel, como yo. <p>Pero ahora estoy bien sujeta con mi cuerda, la que no encontr&oacute; nadie. &iexcl;A m&iacute; s&iacute; que no me sacan a la carretera! Supongo que cuando se haga de noche tendr&eacute; que ponerme otra vez detr&aacute;s del dibujo. &iexcl;Con lo que cuesta! &iexcl;Es tan agradable estar en esta habitaci&oacute;n tan grande, y andar a gatas siempre que quiera&hellip;! <p>No quiero salir. No quiero, ni que me lo pida Jennie. <p>Porque fuera hay que arrastrarse por el suelo, y en vez de amarillo es todo verde. Aqu&iacute;, en cambio, puedo andar a gatas por el suelo liso, y mi hombro se ajusta perfectamente a la marca larga de la pared, con la ventaja de que as&iacute; no me pierdo. <p>&iexcl;Anda, si est&aacute; John al otro lado de la puerta! &iexcl;Es in&uacute;til, jovencito, no podr&aacute;s abrirla! &iexcl;Qu&eacute; berridos, y qu&eacute; golpes! Ahora pide un hacha a gritos. &iexcl;Ser&iacute;a una l&aacute;stima destrozar una puerta tan bonita! &mdash;&iexcl;John, querido! &mdash;he dicho con la m&aacute;xima amabilidad&mdash;. &iexcl;La llave est&aacute; al lado de la escalera de entrada, debajo de una hoja! Con eso se ha callado un rato. Luego ha dicho (con mucha serenidad): &mdash;&iexcl;Abre la puerta, cari&ntilde;o! <p>&mdash;No puedo &mdash;he contestado yo&mdash;. &iexcl;La llave est&aacute; al lado de la puerta principal, debajo de una hoja! Lo he repetido varias veces, muy poco a poco y con mucha dulzura; lo he dicho tantas veces que ha tenido que bajar a comprobarlo. La ha encontrado, como era de esperar, y ha entrado. Se ha quedado a un paso del umbral. <p>&mdash;&iquest;Qu&eacute; pasa? &mdash;ha gritado&mdash;. &iquest;Pero qu&eacute; haces, por Dios? Yo he seguido andando a gatas como si nada, pero le he mirado por encima del hombro. <p>&mdash;Al final he salido &mdash;he dicho&mdash;, aunque no quisieras ni t&uacute; ni Jane. &iexcl;Y he arrancado casi todo el papel, para que no puedan volver a meterme! <p>&iquest;Por qu&eacute; se habr&aacute; desmayado? El caso es que lo ha hecho, y justo al lado de la pared, en mitad de mi camino. &iexcl;O sea que he tenido que pasar por encima de &eacute;l a cada vuelta!</p>
-
-![illustration of a woman leaning over a fallen man with concern](yellowwallpaper3.jpg "woman leaning over man")
-
-\    </p>
+![illustration of a woman leaning over a fallen man with concern](https://ucarecdn.com/6f3fb822-3de6-4686-95f5-80ceb06a439d/-/preview/570x316/yellowwallpaper3.jpg "woman leaning over man")

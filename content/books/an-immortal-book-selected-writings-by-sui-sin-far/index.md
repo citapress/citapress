@@ -8,8 +8,8 @@ sortingdate: 2017-01-01T16:36:35.473Z
 templateKey: book-page
 author: Sui Sin Far (Edith Maude Eaton)
 isbn: 978-1-961368-01-9
-post_image: cover-sui-sin-far-immortal-book-low.jpg
-square_image: thumbnail-sui-sin-far2.jpg
+post_image: https://ucarecdn.com/ad386ba5-94a6-4cde-9103-a2540feaa341/-/preview/655x1000/cover-sui-sin-far-immortal-book-low.jpg
+square_image: https://ucarecdn.com/d8258359-e146-499b-aca2-012b91a58f66/-/preview/900x900/thumbnail-sui-sin-far2.jpg
 download: The divine right of learning - Cita Press Reading Companion.pdf
 download_ebook: An Immortal Book_Sui Sin Far_Cita Press.epub
 third_download_name: Download Epub

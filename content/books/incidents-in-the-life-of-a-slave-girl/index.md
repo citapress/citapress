@@ -27,8 +27,8 @@ title: Incidents in the Life of a Slave Girl
 releaseformat: Year
 sortingdate: 2020-03-01T23:45:56.078Z
 isbn: 978-1-961368-05-7
-post_image: cover-incidents-in-the-life-update.jpg
-square_image: thumbnail-incidents.jpg
+post_image: https://ucarecdn.com/99e74a37-5b77-4468-a9a0-c438fd148e1b/-/preview/581x900/cover-incidents-in-the-life-update.jpg
+square_image: https://ucarecdn.com/65a2e4f2-faff-4fe0-8c3d-da3cca26483a/-/preview/600x600/thumbnail-incidents.jpg
 download_ebook: ""
 time_period:
   - 19th

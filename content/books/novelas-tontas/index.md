@@ -4,8 +4,8 @@ publication: 2023-05-01T22:12:03.284Z
 release: 2019-05-01T22:12:03.284Z
 author: Mary Anne Evans
 isbn: "1231232131232112"
-post_image: cover-silly-novels.png
-square_image: thumbnail-novelas-tontas-es.jpg
+post_image: https://ucarecdn.com/f9913cec-bca4-406e-b598-22a299e3ae96/-/preview/397x612/cover-silly-novels.png
+square_image: https://ucarecdn.com/8cfc4e02-a32f-4728-add6-99c11f73b96a/-/preview/704x704/thumbnail-novelas-tontas-es.jpg
 download: http://link.com
 language_link: silly-novels
 genre:

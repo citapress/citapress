@@ -26,8 +26,8 @@ title: Meditations on the Song of Songs
 releaseformat: Year
 sortingdate: 2021-10-09T00:42:50.573Z
 isbn: 978-1-961368-04-0
-post_image: cover-st-teresa-eng.jpg
-square_image: thumbnail-meditaciones-eng.jpg
+post_image: https://ucarecdn.com/5b22cd9a-2f33-45f3-922c-17c57e8cf40a/-/preview/634x980/cover-st-teresa-eng.jpg
+square_image: https://ucarecdn.com/9ce5ce7f-54b1-4a0c-b2d2-09a3971869ee/-/preview/992x992/thumbnail-meditaciones-eng.jpg
 download_ebook: ""
 time_period:
   - early-modern

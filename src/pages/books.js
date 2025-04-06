@@ -1,7 +1,6 @@
 import * as React from "react"
 import { graphql } from "gatsby"
 import { injectIntl, Link } from "gatsby-plugin-intl"
-import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout/layout"
 import Seo from "../components/seo"
@@ -25,7 +24,7 @@ const BlogIndex = ({ data, location, intl }) => {
       <ul className="main-list">
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
-          const image = getImage(post.frontmatter.square_image);
+          const image = post.frontmatter.square_image;
 
           return (
             <li key={post.fields.slug}>
@@ -36,7 +35,7 @@ const BlogIndex = ({ data, location, intl }) => {
               >
                 <header>
                   <Link to={post.fields.slug} itemProp="url">
-                    <GatsbyImage image={image} alt={title} />
+                    <img src={image} alt={title} />
                   </Link>
                 </header>
                 { post.frontmatter.description &&
@@ -89,7 +88,7 @@ query blogListQuery($language: String!) {
         title
         description
         square_image {
-          childImageSharp {
+           {
             gatsbyImageData(width: 380)
           }
         }

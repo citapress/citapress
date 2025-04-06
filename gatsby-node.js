@@ -237,7 +237,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       })
     }
   });
-  
+
 
 }
 
@@ -314,7 +314,6 @@ exports.createSchemaCustomization = ({ actions }) => {
     type Frontmatter {
       title: String
       description: String
-      sortingdate: Date @dateformat
       templateKey: String
       published: Boolean
       download_name: String
@@ -322,7 +321,6 @@ exports.createSchemaCustomization = ({ actions }) => {
       third_download_name: String
       releaseformat: String
       publishformat: String
-      date: Date @dateformat
       lang: String
     }
 

@@ -1,7 +1,6 @@
 import * as React from "react"
 import { graphql } from "gatsby"
 import { injectIntl, Link } from "gatsby-plugin-intl"
-import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout/layout"
 
@@ -11,7 +10,7 @@ const TimePeriodBookPostTemplate = ({
   intl
 }) => {
   const posts = data.allMarkdownRemark.nodes
-  
+
   const period = location.pathname.split('/').filter(Boolean).slice(-1)[0] || 'Time Period';
   const siteTitle = intl.formatMessage({id: period}) || `Title`;
 
@@ -21,7 +20,7 @@ const TimePeriodBookPostTemplate = ({
       <ul className="main-list">
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
-          const image = getImage(post.frontmatter.square_image);
+          const image = post.frontmatter.square_image;
 
           return (
             <li key={post.fields.slug}>
@@ -32,7 +31,7 @@ const TimePeriodBookPostTemplate = ({
               >
                 <header>
                   <Link to={post.fields.slug} itemProp="url">
-                    <GatsbyImage image={image} alt={title} />
+                    <img src={image} alt={title} />
                   </Link>
                 </header>
                 <section className="d-none">
@@ -81,11 +80,7 @@ export const pageQuery = graphql`
           genre
           time_period
           theme
-          square_image {
-            childImageSharp {
-              gatsbyImageData(width: 380)
-            }
-          }
+          square_image
         }
       }
     }

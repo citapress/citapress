@@ -24,8 +24,8 @@ title: The Poor Clare
 releaseformat: Year
 sortingdate: 2021-10-15T00:37:58.218Z
 isbn: 978-1-961368-06-4
-post_image: cover-poor-clare.jpg
-square_image: thumbnail-poor-clare.jpg
+post_image: https://ucarecdn.com/d2513f19-c2b4-4e89-8794-a6839604966b/-/preview/647x1000/cover-poor-clare.jpg
+square_image: https://ucarecdn.com/7e1ed5de-8296-442f-850a-5e917086b881/-/preview/600x600/thumbnail-poor-clare.jpg
 download_ebook: ""
 time_period:
   - 19th

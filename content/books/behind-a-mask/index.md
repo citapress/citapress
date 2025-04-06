@@ -8,8 +8,8 @@ sortingdate: 2018-04-14T23:38:09.898Z
 templateKey: book-page
 author: Louisa May Alcott
 isbn: 978-1-961368-16-3
-post_image: cover-behind-a-mask.png
-square_image: behindamask.png
+post_image: https://ucarecdn.com/5313f90b-00a5-445f-b778-7270b3360dd0/-/preview/396x612/cover-behind-a-mask.png
+square_image: https://ucarecdn.com/231065f3-5a6d-4747-8919-9298990b97d6/-/preview/783x784/behindamask.png
 genre:
   - fiction
   - novella

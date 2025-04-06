@@ -8,8 +8,8 @@ sortingdate: 2024-11-22T06:53:00.000Z
 templateKey: book-page
 author: Seis autoras
 isbn: Placeholder
-post_image: cover-ensayosfeministas-small.jpg
-square_image: thumbnail-ensayos-feministas.jpg
+post_image: https://ucarecdn.com/26866796-070e-4a86-847b-44a6796d0a31/-/preview/396x612/cover-ensayosfeministas-small.jpg
+square_image: https://ucarecdn.com/51c8b80d-29a2-49ef-80d9-73e8a5dcf0bb/-/preview/600x600/thumbnail-ensayos-feministas.jpg
 genre:
   - nonfiction
   - essay

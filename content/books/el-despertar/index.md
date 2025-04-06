@@ -24,8 +24,8 @@ title: El Despertar
 releaseformat: Year
 sortingdate: 2023-10-03T23:42:05.927Z
 isbn: "1231232131232112"
-post_image: cover-the-awakening.png
-square_image: thumbnail-eldespertar-es.jpg
+post_image: https://ucarecdn.com/a8deaafb-320d-41b8-a829-ae87f1642bbb/-/preview/397x612/cover-the-awakening.png
+square_image: https://ucarecdn.com/2a33c4aa-c5a8-4479-b2d8-40ceb1596956/-/preview/704x704/thumbnail-eldespertar-es.jpg
 time_period:
   - modernist
   - 19th

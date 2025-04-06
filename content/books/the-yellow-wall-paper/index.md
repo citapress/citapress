@@ -24,8 +24,8 @@ title: The Yellow Wall-Paper
 releaseformat: Year
 sortingdate: 2018-04-01T00:00:31.212Z
 isbn: 978-1-961368-08-8
-post_image: cover-yellowwallpaper.jpg
-square_image: yellowwallpaper.png
+post_image: https://ucarecdn.com/1d0b385d-55da-4db2-9494-0584f4cef10b/-/preview/397x612/cover-yellowwallpaper.jpg
+square_image: https://ucarecdn.com/b004ff60-b7da-4e05-83e5-fd813ba32d0b/-/preview/801x801/yellowwallpaper.png
 time_period:
   - 19th
 description: " “'The Yellow Wall-Paper' (1892) holds an important place among
@@ -60,7 +60,7 @@ This riveting story is rooted in Gilman’s life and patriarchal Victorian Ameri
 
 ## The Yellow Wall-Paper
 
-![woman in chair](yellowwallpaper1.jpg "woman in chair")
+![woman in chair](https://ucarecdn.com/d058eec3-138f-48bf-a25f-f968d50c4c01/-/preview/381x478/ "woman in chair")
 
 It is very seldom that mere ordinary people like John and myself secure ancestral halls for the summer.
 
@@ -388,7 +388,7 @@ I have watched John when he did not know I was looking, and come into the room s
 
 She didn’t know I was in the room, and when I asked her in a quiet, a very quiet voice, with the most restrained manner possible, what she was doing with the paper—she turned around as if she had been caught stealing, and looked quite angry—asked me why I should frighten her so!
 
-![two women](yellowwallpaper2.jpg "two women")
+![two women](https://ucarecdn.com/9a056ed2-8220-4135-94d0-25d033387dc1/-/preview/372x456/ "two women")
 
 Then she said that the paper stained everything it touched, that she had found yellow smooches on all my clothes and John’s, and she wished we would be more careful!
 
@@ -574,4 +574,4 @@ I kept on creeping just the same, but I looked at him over my shoulder.
 
 Now why should that man have fainted? But he did, and right across my path by the wall, so that I had to creep over him every time!
 
-![fainted](yellowwallpaper3.jpg "fainted")
+![fainted](https://ucarecdn.com/6f3fb822-3de6-4686-95f5-80ceb06a439d/-/preview/570x316/ "fainted")

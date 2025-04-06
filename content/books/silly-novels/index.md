@@ -18,8 +18,8 @@ title: Silly Novels by Silly Lady Novelists
 releaseformat: Year
 sortingdate: 2018-04-07T00:06:01.342Z
 isbn: 978-1-961368-10-1
-post_image: cover-silly-novels.png
-square_image: sillynovels.png
+post_image: https://ucarecdn.com/f9913cec-bca4-406e-b598-22a299e3ae96/-/preview/397x612/cover-silly-novels.png
+square_image: https://ucarecdn.com/6b0cbf5d-48f2-4f80-a259-319af121f74e/-/preview/800x800/sillynovels.png
 time_period:
   - 19th
   - victorian

@@ -1,7 +1,6 @@
 import * as React from "react"
 import { graphql } from "gatsby"
 import { injectIntl, Link } from "gatsby-plugin-intl"
-import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout/layout"
 import Seo from "../components/seo"
@@ -13,7 +12,8 @@ const BookPostTemplate = ({
   intl
 }) => {
   const siteTitle = site.siteMetadata?.title || `Title`;
-  const image = getImage(post.frontmatter.post_image);
+  const image = post.frontmatter.post_image;
+  console.log({image});
   const where = post.frontmatter.language_link;
 
   const checkFormat = (f) => {
@@ -31,12 +31,12 @@ const BookPostTemplate = ({
   }
   const publish_format = checkFormat(post.frontmatter.publishformat);
   const release_format = checkFormat(post.frontmatter.releaseformat);
-  const download = post.frontmatter.download ? 
+  const download = post.frontmatter.download ?
   post.frontmatter.download.startsWith('http') ?
   post.frontmatter.download :
   `/downloads/${post.frontmatter.download}` :
   null
-  const download_other = post.frontmatter.third_download ? 
+  const download_other = post.frontmatter.third_download ?
   post.frontmatter.third_download.startsWith('http') ?
   post.frontmatter.third_download :
   `/downloads/${post.frontmatter.third_download}` :
@@ -51,7 +51,7 @@ const BookPostTemplate = ({
       >
         <header className="post-header">
           <div className="portrait">
-            <GatsbyImage image={image} alt={post.frontmatter.title} />
+            <img src={image} alt={post.frontmatter.title} />
           </div>
           <div className="info">
             <h1 className="bluu" itemProp="headline">{post.frontmatter.title}</h1>
@@ -152,11 +152,7 @@ export const pageQuery = graphql`
         publishformat
         description
         foreword
-        post_image {
-          childImageSharp {
-            gatsbyImageData(width: 380)
-          }
-        }
+        post_image
         lang
       }
     }
@@ -179,11 +175,7 @@ export const pageQuery = graphql`
           date(formatString: "MMMM DD, YYYY")
           title
           description
-          square_image {
-            childImageSharp {
-              gatsbyImageData(width: 380)
-            }
-          }
+          square_image
         }
       }
     }
