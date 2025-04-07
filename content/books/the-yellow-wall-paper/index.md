@@ -24,8 +24,8 @@ title: The Yellow Wall-Paper
 releaseformat: Year
 sortingdate: 2018-04-01T00:00:31.212Z
 isbn: 978-1-961368-08-8
-post_image: https://ucarecdn.com/1d0b385d-55da-4db2-9494-0584f4cef10b/-/preview/397x612/cover-yellowwallpaper.jpg
-square_image: https://ucarecdn.com/b004ff60-b7da-4e05-83e5-fd813ba32d0b/-/preview/801x801/yellowwallpaper.png
+post_image: https://ucarecdn.com/1d0b385d-55da-4db2-9494-0584f4cef10b/-/preview/397x612/cover-yellowwallpaper.webp
+square_image: https://ucarecdn.com/b004ff60-b7da-4e05-83e5-fd813ba32d0b/-/smart_resize/600x600/yellowwallpaper.webp
 time_period:
   - 19th
 description: " “'The Yellow Wall-Paper' (1892) holds an important place among
