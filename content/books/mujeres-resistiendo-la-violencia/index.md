@@ -557,7 +557,7 @@ Durante la pandemia, además, las trabajadoras del hogar se vieron afectadas de 
 
 Las organizaciones de trabajadoras del hogar respondieron a la pandemia por medio de una campaña regional denominada Cuida a Quien te Cuida (#CuidaAQuienTeCuida). Esta fue lanzada inicialmente por sindicatos de trabajadoras del hogar de México, Argentina, Brasil y Chile, y luego se extendió por todo el continente en redes sociales. La campaña concientizó sobre la exposición al virus de las trabajadoras del hogar, incluso en cuarentena, y les proporcionó información sobre las medidas de protección que debían tomar si seguían trabajando durante la pandemia. En México, la campaña corrió a cargo del Centro Nacional para la Capacitación Profesional y Liderazgo de las Empleadas del Hogar (CACEH) y consiguieron el apoyo de artistas y productores de cine que se unieron a sus esfuerzos para concientizar a las personas empleadoras sobre los derechos de las trabajadoras del hogar [ver «<a class="c11" href="#h.1x0gk37">Lideresas inspiradoras que cambian percepciones</a>», en este capítulo]. Por medio de las redes sociales, la campaña instó a las trabajadoras y a sus empleadores a firmar un contrato escrito en el que se estipularan las horas de trabajo, las tareas, las vacaciones y los salarios.<sup class="c16 c10"><a href="#ftnt27" id="ftnt_ref27">\[27]</a></sup>
 
-![figura2_1](https://ucarecdn.com/69ab26c4-0c38-4a27-8e98-ea56dd120dbd/-/preview/720x720/ "figura2_1")
+![figura2_1](https://ucarecdn.com/69ab26c4-0c38-4a27-8e98-ea56dd120dbd/-/preview/750x750/ "figura2_1")
 
 <p class="c15" id="h.3q5sasy"><center><b><i>Figura 2.1: Póster de la campaña Cuida a Quien te Cuida. Crédito: Contagio de Consciencia/Facebook.</center></b></i> </p>
 
