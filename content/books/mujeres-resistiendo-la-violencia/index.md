@@ -415,7 +415,11 @@ En relación con esto, las mujeres también a menudo han acogido un uso estraté
 
 En términos de un panorama más amplio de la violencia urbana y los conflictos en Maré, las mujeres a menudo mencionan calcular dónde ubicar sus lugares de refugio cuando se desata un conflicto. Quedarse en casa cuando sea posible, especialmente en un espacio trasero para escapar de las balas perdidas, es la práctica más común, lo que también les permite estar presentes en caso de una invasión policial para poder proteger a los integrantes masculinos de la familia. Por otro lado, el hogar puede a veces no ser un lugar seguro para las mujeres, lo que las lleva a encontrar un refugio de la violencia combinada del espacio público y privado en espacios neutrales, como las tiendas o las casas de sus vecinos (generalmente mujeres), amigos y familiares. Es importante destacar que, lejos de ser aleatorias, estas prácticas y estrategias de afrontamiento se aprenden y enseñan entre las mujeres en la comunidad y son transmitidas por generaciones.
 
+<div class="full-width">
+
 ![Tenemos derecho a cuidarnos a nosotras mismas». Ilustración basada en un grupo focal con cinco mujeres de Ma](https://ucarecdn.com/0e1fa585-f57a-46aa-87c7-d7e5252e83f9/-/preview/1000x702/ "Tenemos derecho a cuidarnos a nosotras mismas». Ilustración basada en un grupo de enfoque con cinco mujeres de Ma")
+
+</div>
 
 <p class="c15" id="h.2u6wntf"><b><i><center>Figura 1.2: «Tenemos derecho a cuidarnos a nosotras mismas». Ilustración basada en un grupo de enfoque con cinco mujeres de Maré, Río de Janeiro. Crédito: Mila de Choch (McIlwaine, 2022a).</b></i></center></p>
 

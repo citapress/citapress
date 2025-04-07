@@ -744,10 +744,20 @@ iframe{
   }
   img {
     max-width: 750px;
-    width: 100%;
     height: auto;
     margin: 0 auto;
     display: block;
+    @media screen and (max-width: 768px) {
+      width: 100%;
+    }
+  }
+}
+
+.full-width {
+  width: 100%;
+  img {
+    width: 100%;
+    max-width: 1000px;
   }
 }
 
