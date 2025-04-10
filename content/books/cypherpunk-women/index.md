@@ -73,7 +73,7 @@ That’ll make bitcoin the norm,\
 It’s truly no coincidence\
 We call it The Perfect Storm.
 
----
+- - -
 
 ### Introduction
 
@@ -119,9 +119,9 @@ That’s just one example. There could be many ways to use bitcoin today as a to
 
 The answer is simple: However the hell we want.
 
----
+- - -
 
-_Allie Eve Knox is an erotic performer who has been accepting bitcoin for work in the adult industry since 2014. She moved most of her assets into self-custodied bitcoin solutions in 2017 and joined the crypto startup SpankChain, a payments and camming platform that has introduced hundreds of performers to cryptocurrency._
+*Allie Eve Knox is an erotic performer who has been accepting bitcoin for work in the adult industry since 2014. She moved most of her assets into self-custodied bitcoin solutions in 2017 and joined the crypto startup SpankChain, a payments and camming platform that has introduced hundreds of performers to cryptocurrency.*
 
 ## Why I Use Bitcoin
 
@@ -141,9 +141,9 @@ So I started using a variety of different wallets and exchanges. When the market
 
 Until then, the plebs send me bitcoin then beg for more of my craft. I use bitcoin because it is mine to control, and I’ve always been a bit of a goddess who masters her own universe.
 
----
+- - -
 
-_Linda Xie is the co-founder of Scalar Capital and was previously a product manager at Coinbase. She came across Bitcoin in 2011, joined Coinbase in 2014, and has educated many newcomers on bitcoin over the years._
+*Linda Xie is the co-founder of Scalar Capital and was previously a product manager at Coinbase. She came across Bitcoin in 2011, joined Coinbase in 2014, and has educated many newcomers on bitcoin over the years.*
 
 ### Bitcoin 101 Explainer
 
@@ -167,17 +167,16 @@ The more I’m in the space, the more I think we shouldn’t just be pushing the
 
 Bitcoin is a decentralized digital currency. I think part of what makes it difficult for people to understand bitcoin is that it can serve a variety of purposes and mean different things to different people. It can sound like a panacea, which leaves newcomers skeptical. People are often attracted to bitcoin due to a combination of the following properties, some of which overlap.
 
-- Decentralized: Bitcoin is a global peer-to-peer network. There is no centralized entity controlling it, which means that there is no central operator that can be shut down, censored, or that can charge fees. - Permissionless: Anyone can own bitcoin. There is no requirement in the protocol that you must live in a certain location or belong to a certain group. This is in contrast to the fiat financial system where there are many people without bank accounts or who are excluded from both capital markets and basic services, like decent loan options.
-- Censorship resistant: No one can limit what you do with your bitcoin. If you want to conduct a transaction, the network will process it. If a government wants to take away all of your money, they can’t just seize it, unlike with bank accounts. Laws differ based on jurisdiction so what is legal in one country can be considered a crime in another. This is becoming more relevant as we see stricter capital controls in some countries.
-- Transparent: There is a known supply of 21 million bitcoin that can ever exist in the world and that no one can manipulate. This is extremely appealing to those who do not want any government to have the ability to arbitrarily print more money. Citizens in countries experiencing hyperinflation are often brought up as beneficiaries of this characteristic.
-- Global: No one country owns bitcoin, and bitcoin isn’t limited by the physical borders of any country. As more companies start hiring remote workers from around the world, this form of money ensures that it can be sent to anyone in the world.
-- Efficient: The technology powering bitcoin is a lot more efficient than much of the financial infrastructure that exists today, at least in terms of time and how many middlemen need approval or fees along the way. Wall Street sees the potential and has begun to both push the “blockchain not bitcoin” narrative and work on permissioned ledgers. In capital markets, settlement costs eat into margins, so there has been talk about security tokens improving efficiency.
-- Fast: Right now, it can take several days for your money to transfer. Banks are only open during standard business hours so, if you need money to arrive during off-hours, you could be out of luck. Bitcoin allows someone to send and receive payment quickly.
-- Cheap: It’s relatively cheap to send bitcoin to anyone in the world compared to the fees that you’ll have to pay through other services. Remittances is an often-cited example of where there can be major fee savings. The Lightning Network (layer built on top of bitcoin) can enable micropayments so you can envision tipping someone a small amount for valuable content like a blog post or paying for mechanical turk-type tasks.
-- Digital: Everything is moving online so it makes sense that our money does too. As virtual reality starts becoming more popular, the current generation of kids is growing up more familiar with interacting and transacting digitally.
-- Immutable: This is the idea that the ledger is not subject to change or manipulation. This is critical for transfer of value, whether it’s a payment or a gift, since you don’t want someone to just be able to arbitrarily revert their transaction. Immutability can also be important in the context of tracing goods through a supply chain.
-- Hedge: Bitcoin is becoming increasingly viewed as a digital gold and a hedge against global uncertainty as the asset starts becoming less correlated to traditional assets. Even institutional investors might find this appealing as a hedge for their portfolio.
-
+* Decentralized: Bitcoin is a global peer-to-peer network. There is no centralized entity controlling it, which means that there is no central operator that can be shut down, censored, or that can charge fees. - Permissionless: Anyone can own bitcoin. There is no requirement in the protocol that you must live in a certain location or belong to a certain group. This is in contrast to the fiat financial system where there are many people without bank accounts or who are excluded from both capital markets and basic services, like decent loan options.
+* Censorship resistant: No one can limit what you do with your bitcoin. If you want to conduct a transaction, the network will process it. If a government wants to take away all of your money, they can’t just seize it, unlike with bank accounts. Laws differ based on jurisdiction so what is legal in one country can be considered a crime in another. This is becoming more relevant as we see stricter capital controls in some countries.
+* Transparent: There is a known supply of 21 million bitcoin that can ever exist in the world and that no one can manipulate. This is extremely appealing to those who do not want any government to have the ability to arbitrarily print more money. Citizens in countries experiencing hyperinflation are often brought up as beneficiaries of this characteristic.
+* Global: No one country owns bitcoin, and bitcoin isn’t limited by the physical borders of any country. As more companies start hiring remote workers from around the world, this form of money ensures that it can be sent to anyone in the world.
+* Efficient: The technology powering bitcoin is a lot more efficient than much of the financial infrastructure that exists today, at least in terms of time and how many middlemen need approval or fees along the way. Wall Street sees the potential and has begun to both push the “blockchain not bitcoin” narrative and work on permissioned ledgers. In capital markets, settlement costs eat into margins, so there has been talk about security tokens improving efficiency.
+* Fast: Right now, it can take several days for your money to transfer. Banks are only open during standard business hours so, if you need money to arrive during off-hours, you could be out of luck. Bitcoin allows someone to send and receive payment quickly.
+* Cheap: It’s relatively cheap to send bitcoin to anyone in the world compared to the fees that you’ll have to pay through other services. Remittances is an often-cited example of where there can be major fee savings. The Lightning Network (layer built on top of bitcoin) can enable micropayments so you can envision tipping someone a small amount for valuable content like a blog post or paying for mechanical turk-type tasks.
+* Digital: Everything is moving online so it makes sense that our money does too. As virtual reality starts becoming more popular, the current generation of kids is growing up more familiar with interacting and transacting digitally.
+* Immutable: This is the idea that the ledger is not subject to change or manipulation. This is critical for transfer of value, whether it’s a payment or a gift, since you don’t want someone to just be able to arbitrarily revert their transaction. Immutability can also be important in the context of tracing goods through a supply chain.
+* Hedge: Bitcoin is becoming increasingly viewed as a digital gold and a hedge against global uncertainty as the asset starts becoming less correlated to traditional assets. Even institutional investors might find this appealing as a hedge for their portfolio.
 
 Note this is not a comprehensive list and alternative terms are sometimes used instead. One person’s ranking of what is important to them can be entirely different from another person’s ranking. This has led to heated debates, but I think the different ways bitcoin impacts people is what makes it so powerful. There is no single target user for bitcoin.
 
@@ -185,9 +184,9 @@ Bitcoin has many attributes that serve a variety of purposes. When you talk to p
 
 In the end, bitcoin is valuable as long as it is useful to people and it is clear that there are many groups all over the world that could benefit from these attributes.
 
----
+- - -
 
-_Lisa Neigut is a hacker, plus alumna of the Recurse Center and the Etsy Android team. She’s currently the newest core contributor to Blockstream’s open source Lightning implementation, c-lightning. You can find all of her musings on topics like debt, software, and bitcoin at basicbitch.software._
+*Lisa Neigut is a hacker, plus alumna of the Recurse Center and the Etsy Android team. She’s currently the newest core contributor to Blockstream’s open source Lightning implementation, c-lightning. You can find all of her musings on topics like debt, software, and bitcoin at basicbitch.software.*
 
 ## A Technical History of Bitcoin
 
@@ -199,7 +198,7 @@ The joke is bitcoin isn’t a blockchain; It’s a timechain.
 
 The bitcoin whitepaper, Bitcoin: A Peer-to-Peer Electronic Cash System, lists eight references. One of them is Blockstream CEO Adam Back’s 2002 paper on HashCash, another is a link to the incredibly short b-money proposal. Then there’s this reference that on the face of it doesn’t really seem to fit in — S. Haber and W. S. Stornetta’s 1991 paper, How to Time-Stamp a Digital Document.
 
-Haber and Stornetta were cryptographers working at Bell’s Communications Research group in the late 80’s and early 90’s. They put out a number of paper collaborations on timestamping and eventually built a company together, Surety, based on their research ideas. Surety was the first public timestamping service, which means it offered digital proof a specific version of a document or transaction happened at a specific time.[1]
+Haber and Stornetta were cryptographers working at Bell’s Communications Research group in the late 80’s and early 90’s. They put out a number of paper collaborations on timestamping and eventually built a company together, Surety, based on their research ideas. Surety was the first public timestamping service, which means it offered digital proof a specific version of a document or transaction happened at a specific time.\[1]
 
 How to Time-Stamp a Digital Document is an attempt to solve a major conundrum in the Digital Age: Is there a way to prove the existence of a particular version of a document at a specific point in time? As more and more documents have been created and manipulated digitally, the ability to timestamp a digital document has become crucial to legal investigations such as the Kleiman v Wright case.
 
@@ -255,7 +254,7 @@ In some ways, it’s a bit like creating paint colors. You can’t make orange w
 
 **Meet Alice**
 
-Cryptographers (and, by extension, bitcoiners) have lots of inside jokes, like just referring to blockchains as “timechains.” They all carry equally strong nerd signals. For example, blog posts, lectures, and papers about bitcoin or crypto -- all of them talk about a hypothetical transaction with someone named Alice.[2]
+Cryptographers (and, by extension, bitcoiners) have lots of inside jokes, like just referring to blockchains as “timechains.” They all carry equally strong nerd signals. For example, blog posts, lectures, and papers about bitcoin or crypto -- all of them talk about a hypothetical transaction with someone named Alice.\[2]
 
 So let’s offer our own math problem with Alice falling down the timechain rabbit hole.
 
@@ -299,7 +298,7 @@ Bitcoin wallets don’t contain paper. Instead they contain numbers that act lik
 
 ## Mapping private keys
 
-Every private key has a unique, partner number[3]. This is called the public key. Public keys are what bitcoin gets locked to in a transaction.
+Every private key has a unique, partner number\[3]. This is called the public key. Public keys are what bitcoin gets locked to in a transaction.
 
 When Alice uses her wallet to send funds to her friend Bob’s bitcoin address, her wallet software is creating a new document (a transaction). This document will re-assign the bitcoin from the public key Alice controls (which has the private key for in her wallet) to a public key that Bob controls (tied to the private key for in his wallet).
 
@@ -325,17 +324,17 @@ Bitcoin is a completely new invention, but it also borrows many old ideas, in so
 
 So time and bitcoin move on, one chain link at a time.
 
-![Image caption: Haber and Stornetta’s startup Surety used to publish the blockhash weekly in the New York Times’ “Notices & Lost and Found” classifieds.](/image31.jpg)
+![Image caption: Haber and Stornetta’s startup Surety used to publish the blockhash weekly in the New York Times’ “Notices & Lost and Found” classifieds.](https://ucarecdn.com/848c53fc-47b1-421f-83dc-b208fc5c7a6f/image31.jpg)
 
 Image caption: Haber and Stornetta’s startup Surety used to publish the blockhash weekly in the New York Times’ “Notices & Lost and Found” classifieds.
 
-> [1] ‘Publication’ of the weekly hash result was done via the New York Times’ Notices & Lost and Found classifieds section. https://www.vice.com/en_us/article/j5nzx4/what-was-the-first-blockchain
+> \[1] ‘Publication’ of the weekly hash result was done via the New York Times’ Notices & Lost and Found classifieds section. https://www.vice.com/en_us/article/j5nzx4/what-was-the-first-blockchain
+>
+> \[2]: Alice, and her buddy Bob, were first introduced in a 1978 paper by cryptographers Ron Rivest, Adi Shamir, and Leonard Adleman. This paper introduced what is now known as the RSA algorithm. You can read more about Alice, Bob and RSA on Wikipedia: https://en.wikipedia.org/wiki/Alice_and_Bob#History
+>
+> \[3] It’s not actually a number. It’s a point, like in algebra. Under the hood, when you tell someone a public key, you’re giving them an x-coordinate and a y-coordinate. You can concatenate (or link) these together and get a long number. So calling it a number isn’t wrong, it’s just not actually exactly what’s going on.
 
-> [2]: Alice, and her buddy Bob, were first introduced in a 1978 paper by cryptographers Ron Rivest, Adi Shamir, and Leonard Adleman. This paper introduced what is now known as the RSA algorithm. You can read more about Alice, Bob and RSA on Wikipedia: https://en.wikipedia.org/wiki/Alice_and_Bob#History
-
-> [3] It’s not actually a number. It’s a point, like in algebra. Under the hood, when you tell someone a public key, you’re giving them an x-coordinate and a y-coordinate. You can concatenate (or link) these together and get a long number. So calling it a number isn’t wrong, it’s just not actually exactly what’s going on.
-
-_Jordan Kong is a VP at Atomic, a startup studio based in San Francisco, and a Polychain Capital alum. She has participated as a hackathon judge and mentor at ETH Denver and has given talks on the importance of product thinking in crypto. You can find her on Twitter at @ImNotJK._
+*Jordan Kong is a VP at Atomic, a startup studio based in San Francisco, and a Polychain Capital alum. She has participated as a hackathon judge and mentor at ETH Denver and has given talks on the importance of product thinking in crypto. You can find her on Twitter at @ImNotJK.*
 
 ### 3 Quick Facts about Bitcoin
 
@@ -359,13 +358,13 @@ It is not a security, currency, or even a commodity (even if laws define them as
 
 So where does that leave us? Here’s what I know needs to be true for Bitcoin to thrive:
 
-1) Mining Hash Rate
+1. Mining Hash Rate
 
 Miners’ hash rate represents the sunk cost in the Bitcoin network leading up to this point and also the miner’s belief in the Bitcoin network looking forward. The Bitcoin hashrate, the amount of power fueling the global network, has continued growing tremendously since 2010.
 
 ![hash rate](https://ucarecdn.com/09da573a-d6a0-43b3-a276-b52487d413fc/-/resize/720x/image33.png)
 
-2) Fiat On-Ramps
+2. Fiat On-Ramps
 
 Let’s face it: the vast majority of economic activity is done in fiat currency. What’s relevant here is the ease and accessibility of fiat-bitcoin exchanges, a key factor in increasing liquidity. On-ramps, the ways people get bitcoin with fiat, can take many forms such as:
 
@@ -373,13 +372,13 @@ Let’s face it: the vast majority of economic activity is done in fiat currency
 • consumer applications (e.g. Lolli, Earn.com, etc.)
 • earning bitcoin (e.g. direct wallet transactions or marketplaces like OpenBazaar)
 
-3) Regulatory Limitations
+3. Regulatory Limitations
 
 Bitcoin is as much a technological innovation as it is a societal one. Regulators may not have the tools to fully control Bitcoin, but they can certainly significantly hamper it. The direction that law-makers and enforcers take could make the difference between a world where bitcoin is widely utilized and one where bitcoin remains a niche means of exchange on the black market.
 
----
+- - -
 
-_Anita Posch is a bitcoin enthusiast and educator. She is the host of the Bitcoin & Co. podcast and a board member at the educational nonprofit Bitcoin Austria, established in 2011. She translated both volumes of "The Internet of Money" by Andreas M. Antonopoulos into German. She started her tech career in 1999 as an entrepreneur working with clients like the Vienna University of Economics. She holds a degree in urban planning from the Technical University of Vienna. The following excerpt was translated into English from her German-language book for bitcoin beginners, Bitcoin & Co.: How to safely buy, manage and keep cryptocurrencies._
+*Anita Posch is a bitcoin enthusiast and educator. She is the host of the Bitcoin & Co. podcast and a board member at the educational nonprofit Bitcoin Austria, established in 2011. She translated both volumes of "The Internet of Money" by Andreas M. Antonopoulos into German. She started her tech career in 1999 as an entrepreneur working with clients like the Vienna University of Economics. She holds a degree in urban planning from the Technical University of Vienna. The following excerpt was translated into English from her German-language book for bitcoin beginners, Bitcoin & Co.: How to safely buy, manage and keep cryptocurrencies.*
 
 ### How Do I Get Bitcoin?
 
@@ -407,9 +406,9 @@ There are also two-way machines, where you can exchange cryptocurrency for fiat 
 
 Beyond bitcoin ATMs, there are also bitcoin-style vending machines that accept but don’t dispense bitcoin. For example, in Switzerland, you can even use bitcoin to buy tickets for the Swiss federal railways at a regular ticket-vending machine.
 
----
+- - -
 
-_Karima Williams is a bitcoiner who has helped orchestrate community events for groups like Planned Parenthood, Women in Blockchain DC, and ConsenSys. She co-founded one of the biggest cryptocurrency meetups in Washington D.C., the DC Crypto Club._
+*Karima Williams is a bitcoiner who has helped orchestrate community events for groups like Planned Parenthood, Women in Blockchain DC, and ConsenSys. She co-founded one of the biggest cryptocurrency meetups in Washington D.C., the DC Crypto Club.*
 
 ### Interview with a Black Cypherpunk Woman
 
@@ -449,9 +448,9 @@ People start to gain their sovereignty when they get bitcoin. They start to thin
 
 There’s so much opportunity when it comes to bitcoin, even with the steak dinner bros. With bitcoin, no one can stop you from getting it. Once you get into it, it’s really up to you. I love this about bitcoin. I want to make sure people know about this opportunity.
 
----
+- - -
 
-_Amber Scott is a bitcoin maximalist. She also happens to be a Certified Anti-Money Laundering Specialist (CAMS), Certified Information and Privacy Professional (CIPP), plus a Certified Bitcoin Professional (CBP) who has an MBA. She has been an active contributor to bitcoin community events and programs for over five years, in addition to the work she’s done helping exchanges and brokerage firms serving bitcoiners._
+*Amber Scott is a bitcoin maximalist. She also happens to be a Certified Anti-Money Laundering Specialist (CAMS), Certified Information and Privacy Professional (CIPP), plus a Certified Bitcoin Professional (CBP) who has an MBA. She has been an active contributor to bitcoin community events and programs for over five years, in addition to the work she’s done helping exchanges and brokerage firms serving bitcoiners.*
 
 ### Why Bitcoin? A Compliance Geek’s Love Story
 
@@ -547,9 +546,9 @@ So far, we haven’t done a great job of considering the social good bitcoin cou
 
 We as bitcoiners can imagine ways to do better, from lofty goals (financial sovereignty) to the mundane use cases (settling international payments quickly without fretting about a bank). I’m ready to take that chance.
 
----
+- - -
 
-_Josie Bellini is an artist and designer who has been creating cryptoart since 2017. She creates art that tells the story of the crypto ecosystem: a story she is uniquely positioned to tell with her background in finance and her passion for technology. Not only does Josie utilize canvas and paint in her work, but she also releases digital art and augmented reality scenes to fully immerse her viewers. She now exhibits artwork at conferences across the country such as Consensus, NFT NYC, and Satoshi Roundtable. You can learn more about her work by following her on Twitter at @josiebellini and visiting her website https://josie.io/._
+*Josie Bellini is an artist and designer who has been creating cryptoart since 2017. She creates art that tells the story of the crypto ecosystem: a story she is uniquely positioned to tell with her background in finance and her passion for technology. Not only does Josie utilize canvas and paint in her work, but she also releases digital art and augmented reality scenes to fully immerse her viewers. She now exhibits artwork at conferences across the country such as Consensus, NFT NYC, and Satoshi Roundtable. You can learn more about her work by following her on Twitter at @josiebellini and visiting her website https://josie.io/.*
 
 ### A Bitcoin Art Manifesto
 
@@ -575,15 +574,15 @@ My journey to promote the adoption of crypto assets has not only empowered me to
 
 You do not have to be an artist or technologist to contribute to the growth of Bitcoin: you can simply read, research, and reach out to others. We are still in the early days of this revolution and have yet to see the full potential for change that bitcoin can have in our society.
 
----
+- - -
 
-_Audrey Chaing is a blockchain analyst and cryptocurrency trader who runs blockchaing.org. She represents the State of California as part of the Blockchain Working Group, is a member of the Oakland Blockchain Developers and SF Ethereum Developers, and created the MIT Applied Blockchain Series. She has a computer science degree from MIT and an MBA from the Wharton School of the University of Pennsylvania, and is a frequent speaker at events like Google International Women’s Day and OneWorld Blockchain at Davos._
+*Audrey Chaing is a blockchain analyst and cryptocurrency trader who runs blockchaing.org. She represents the State of California as part of the Blockchain Working Group, is a member of the Oakland Blockchain Developers and SF Ethereum Developers, and created the MIT Applied Blockchain Series. She has a computer science degree from MIT and an MBA from the Wharton School of the University of Pennsylvania, and is a frequent speaker at events like Google International Women’s Day and OneWorld Blockchain at Davos.*
 
 ### How to Make Art with Bitcoin
 
 While I’ve seen bitcoin art out there, I’ve mostly seen pieces where the literal bitcoin symbol or coin is represented in a traditional medium like painting or sculpture. Here are some examples:
 
-!(bitcoin)[/image31.jpg]
+!(bitcoin)\[/image31.jpg]
 
 So I thought it would be interesting to create art from actual data or from a process used in the Bitcoin protocol. This piece goes through my journey as I examine how I might make a visually compelling work that utilizes a component of the Bitcoin protocol. As with all experiments, this one might fail. Here we go—
 
@@ -603,7 +602,7 @@ You might be familiar with the graphs of other equations such as linear, quadrat
 
 Here are graphs of several equations, including secp256k1:
 
-!(Source 2: Jimmy Song)[https://ucarecdn.com/315e812d-cd5c-4867-a6e5-cd6923de035b/-/resize/720x/image38.png]
+!(Source 2: Jimmy Song)\[https://ucarecdn.com/315e812d-cd5c-4867-a6e5-cd6923de035b/-/resize/720x/image38.png]
 
 If you want to learn more about how elliptic curves are used in public key cryptography and how it is all built up starting with simple points, check out my post about the beginning of Jimmy Song’s Programming Blockchain Course.
 
@@ -615,14 +614,13 @@ A hash function can be thought of like a black box. The same input will always p
 
 The Bitcoin protocol uses hashing to ensure that no block content has been tampered with, and to link the history of blocks together – to produce an immutable blockchain. Hashes are considered one-way functions in that it is easy to compute the output if you know the input but practically impossible to go backwards and find the input if you only know the output.
 
-!(Source 3: Grokking Bitcoin by Kalle Rosenbaum)[https://ucarecdn.com/c1283135-be8a-48b0-9134-53c72499364c/-/resize/720x/image37.png]
+!(Source 3: Grokking Bitcoin by Kalle Rosenbaum)\[https://ucarecdn.com/c1283135-be8a-48b0-9134-53c72499364c/-/resize/720x/image37.png]
 
 Bitcoin uses the famous SHA-256 algorithm. It also uses the RIPEMD160 algorithm although not everyone knows that. One interesting characteristic of hash functions is that given an input of any length, it will always return an output of a fixed length. Fixed length outputs could potentially be put together in lines to create a square or rectangle visual shape, perhaps highlighting certain characters with different colors to create a unique text. I think this sounds fun so I’ll explore this road.
 
 I need a SHA-256 Hash Generator and this is my first search hit.
 
 **Thirteenth century meets twenty-first century**
-
 
 Now for the fun part – what to send through SHA-256?
 
@@ -720,11 +718,11 @@ Even after bolding the text, this does not seem that interesting. Abort mission!
 
 If I input the result from the SHA-256 hash, here’s what I now get. More colorful!
 
-!(color)[https://ucarecdn.com/384cf145-d2b3-4a6b-8cf7-008e0e732c5d/-/resize/720x/image43.png]
+!(color)\[https://ucarecdn.com/384cf145-d2b3-4a6b-8cf7-008e0e732c5d/-/resize/720x/image43.png]
 
 After playing around with the built-in formatting options, there are at least a few options for artistic shapes. In the grayscale piece below, I picked the “$” sign as the “Shape” option. It doesn’t look much like a dollar sign to me but I like the form.
 
-!(color)[https://ucarecdn.com/27c65e6e-a006-484d-a1e6-f877af451db0/-/resize/720x/image41.png]
+!(color)\[https://ucarecdn.com/27c65e6e-a006-484d-a1e6-f877af451db0/-/resize/720x/image41.png]
 
 And in the next one I picked the shape of a bank as the “Shape” option, since Satoshi’s whitepaper was released just after the financial crisis of 2008. Note that in this purple one, I decided to leave two lines off as it made a more visually interesting shape. “Every morning a new arrival” and departure, right Rumi?
 
@@ -733,13 +731,13 @@ The following lines were not drawn:
 • 9BF5FA69766CF4A2B5C8A70734BFDF0F712E9CBE8CB544871FB48116EF8D21B3 (1)
 • A4AAE98092B2AF402A7E4E67D1F7101A2A363F87976228CF045C36CAEE20907C (1)
 
-!(color)[https://ucarecdn.com/7ca59b78-b7fc-49fc-8fef-ded00700833f/-/resize/720x/image48.png]
+!(color)\[https://ucarecdn.com/7ca59b78-b7fc-49fc-8fef-ded00700833f/-/resize/720x/image48.png]
 
 Thanks for joining me in making some simple nerdy art. There’s certainly no shortage of data and processes to play around with in the world of Bitcoin.
 
----
+- - -
 
-_GlitchesBrew is a writer, alt-psych dabbler, lover of defiance and new ideas, and child of the old internet at heart. While democracy-sites fell and e-culture was balkanized, cryptocurrency has prevailed beyond her wildest teenage dreams._
+*GlitchesBrew is a writer, alt-psych dabbler, lover of defiance and new ideas, and child of the old internet at heart. While democracy-sites fell and e-culture was balkanized, cryptocurrency has prevailed beyond her wildest teenage dreams.*
 
 ### Currency
 
@@ -773,13 +771,13 @@ A bit of mystical software with smooth edges. Intrinsically pretty.
 
 Does this sound more like Currency to you?
 
----
+- - -
 
 ## Part 2
 
----
+- - -
 
-_Hannah Rosenberg is an e-commerce developer, economist, educator, and entrepreneur who teaches at both the University of Illinois at Chicago and the Blockchain Institute, where she serves as the managing director. She is the founder of Velas Commerce, a cryptocurrency business consultancy, and the organizer of Chicago’s largest bitcoin community, the Chicago Bitcoin and Open Blockchain Meetup._
+*Hannah Rosenberg is an e-commerce developer, economist, educator, and entrepreneur who teaches at both the University of Illinois at Chicago and the Blockchain Institute, where she serves as the managing director. She is the founder of Velas Commerce, a cryptocurrency business consultancy, and the organizer of Chicago’s largest bitcoin community, the Chicago Bitcoin and Open Blockchain Meetup.*
 
 ### Bitcoin Doesn't Care about Your Gender Philosophy
 
@@ -809,9 +807,9 @@ I’m a biologically normal woman. I’m a heterosexual mother. I have an abunda
 
 Gender matters, but it’s one variable among thousands. The world is so much more interesting and complex than the banal gender philosophy of far too many maximalists. How sad is it for all these “libertarians” to have forgotten about individuality? Bitcoin breaks the model. It is all about human evolution and individual empowerment. Trying to shove your peers into restrictive gender roles simply doesn’t jive with the philosophy of choice and empowerment. These philosophies do not belong together. Such a limited understanding of humanity has no place in the bitcoin ethos. The point here is that us walking uteruses will continue on, despite the maximalists who fail to see my individuality (and by proxy, fail to see their own complexity). In case you didn’t get the memo: bitcoin doesn’t care about your gender philosophy.
 
----
+- - -
 
-_Chelsea Palmer is a queer cypherpunk who went to the dark side of Ethereum and came back a stronger bitcoiner. A vagabond programmer and educator, she is currently working with Justin Moon on training the next generation of bitcoin contributors. Plus, she founded a crypto events startup, Carpe Lunam Events Association. You can follow her on Twitter at @IMmsGNU._
+*Chelsea Palmer is a queer cypherpunk who went to the dark side of Ethereum and came back a stronger bitcoiner. A vagabond programmer and educator, she is currently working with Justin Moon on training the next generation of bitcoin contributors. Plus, she founded a crypto events startup, Carpe Lunam Events Association. You can follow her on Twitter at @IMmsGNU.*
 
 ### Permissionless
 
@@ -864,9 +862,9 @@ like a steak on the BBQ,
 
 Honey Badger don’t care.
 
----
+- - -
 
-_Mir Liponi has always been a tech enthusiast, ever since she was a child. She discovered Bitcoin in 2012, as a university student, and quickly became an active supporter because she loved the disruptive potential. She co-founded the BHB Network initiative, to connect bitcoin experts with financial incumbents, and organizes the largest monthly bitcoin meetup in Europe, the Bitcoin Milan Meetup._
+*Mir Liponi has always been a tech enthusiast, ever since she was a child. She discovered Bitcoin in 2012, as a university student, and quickly became an active supporter because she loved the disruptive potential. She co-founded the BHB Network initiative, to connect bitcoin experts with financial incumbents, and organizes the largest monthly bitcoin meetup in Europe, the Bitcoin Milan Meetup.*
 
 ### Bitcoin and Motherhood
 
@@ -922,12 +920,11 @@ Love,
 
 Mamma
 
----
+- - -
 
-_Bitcoiner3 started studying cryptocurrency adoption for a research paper in grad school. She created a meetup group for blockchain enthusiasts focused on emerging markets that is still active with roughly 150 members._
+*Bitcoiner3 started studying cryptocurrency adoption for a research paper in grad school. She created a meetup group for blockchain enthusiasts focused on emerging markets that is still active with roughly 150 members.*
 
 ### Working from Home
-
 
 I work from home and I don’t like it.
 
@@ -955,9 +952,9 @@ It’s about working the side-hustles, the freelance gigs, the work hours at hom
 
 I’m in a better place now and you will be too. Just remember to take care of yourself in the process and not to lose yourself in the ride.
 
----
+- - -
 
-_Kokab “Setareh” Shabanipour is the self-made entrepreneur behind the travel startup IranbyBit. She’s worked with travelers from around the world and created local jobs by using bitcoin as the key payment tool for her business._
+*Kokab “Setareh” Shabanipour is the self-made entrepreneur behind the travel startup IranbyBit. She’s worked with travelers from around the world and created local jobs by using bitcoin as the key payment tool for her business.*
 
 ### Interview with a Cypherpunk Businesswoman
 
@@ -979,9 +976,9 @@ Barriers have no place in the new digital world. Any system that removes barrier
 
 Use it. This technology works.
 
----
+- - -
 
-_Bitcoiner8472 works in the engineering department of one of the world’s leading technology companies, specializing in cloud computing and network architecture. By night, she’s also a cypherpunk bitcoiner and podcaster. She discovered bitcoin in the summer of 2017. She now regularly attends community events like the Baltic Honeybadger bitcoin conference in Latvia._
+*Bitcoiner8472 works in the engineering department of one of the world’s leading technology companies, specializing in cloud computing and network architecture. By night, she’s also a cypherpunk bitcoiner and podcaster. She discovered bitcoin in the summer of 2017. She now regularly attends community events like the Baltic Honeybadger bitcoin conference in Latvia.*
 
 ### Regenesis
 
@@ -1009,9 +1006,9 @@ Out here, in the wild, scarcity conveys value and hope is born knowing the endur
 
 Your actions now have full consequences and value.
 
----
+- - -
 
-_Beth McCarthy discovered bitcoin in 2013 and was immediately drawn to the idea of social norms and processes being embedded in protocols. This designer with a Doctor of Jurisprudence (JD), plus a degree in cognitive behavior from UC Berkeley, is fascinated by efforts to create decentralized autonomous organizations (DAOs) and sometimes earns income in cryptocurrency._
+*Beth McCarthy discovered bitcoin in 2013 and was immediately drawn to the idea of social norms and processes being embedded in protocols. This designer with a Doctor of Jurisprudence (JD), plus a degree in cognitive behavior from UC Berkeley, is fascinated by efforts to create decentralized autonomous organizations (DAOs) and sometimes earns income in cryptocurrency.*
 
 ### Interview with a Crypto Witch
 
@@ -1045,9 +1042,9 @@ Incentive design generally ends up being geared toward organizing and disseminat
 
 Not to be too starry-eyed about it, but the cypherpunk movement is comparable to the feminist movement in some ways. There’s similar questioning of whether people in systems are rational actors or whether there are protocols that define how things are happening. There’s a similar focus on how we can be more autonomous, even while living within systems. There are a lot of parallels between both movements in the ways that people band together to impact change. In short, there needs to be diversity of talent and perspectives in order to make antifragile systems.
 
----
+- - -
 
-_Saga Arvidsdotter discovered bitcoin in 2014, while studying computer science and engineering at KTH Royal Institute of Technology in Sweden. Since then she’s spoken at and contributed to conferences like SXSW and Foo Camp. She’s built crypto prototypes for artists such as Imogen Heap and Mycelia, plus coded winning projects at both ETH Denver and ETH New York hackathons. Her heart beats for bitcoin with its (almost) perfectly controlled supply, and she strives to improve it by helping the ecosystem mature._
+*Saga Arvidsdotter discovered bitcoin in 2014, while studying computer science and engineering at KTH Royal Institute of Technology in Sweden. Since then she’s spoken at and contributed to conferences like SXSW and Foo Camp. She’s built crypto prototypes for artists such as Imogen Heap and Mycelia, plus coded winning projects at both ETH Denver and ETH New York hackathons. Her heart beats for bitcoin with its (almost) perfectly controlled supply, and she strives to improve it by helping the ecosystem mature.*
 
 ### Craving P2P
 
@@ -1209,9 +1206,9 @@ On the other hand, how can we ensure that we don’t lose any of the core tenets
 
 I feel inspired and excited about bitcoin every day, yet I also oftentimes feel as if I may never fully understand bitcoin… which makes me want to learn even more about it. I want to be a part of bitcoin’s legacy as it unfolds.
 
----
+- - -
 
-_Leigh Cuen is a poet from California who first learned about bitcoin in 2015 and has been writing daily coverage of the technology since 2017. She’s not confident this crazy idea will work, or of what it even means for a revolutionary, decentralized technology to “work.” But, ever the dreamer, she’s written about the future of money for Newsweek Japan, Vox [Racked], and CoinDesk, just to name a few._
+*Leigh Cuen is a poet from California who first learned about bitcoin in 2015 and has been writing daily coverage of the technology since 2017. She’s not confident this crazy idea will work, or of what it even means for a revolutionary, decentralized technology to “work.” But, ever the dreamer, she’s written about the future of money for Newsweek Japan, Vox \[Racked], and CoinDesk, just to name a few.*
 
 ### In Defense of Spending Bitcoin
 
@@ -1247,7 +1244,7 @@ The far-reaching Persian Empire linked coinage and economic ledgers to the gover
 
 In ancient Greece in particular, textile manufacturing was one of the most robust commodities markets, where historian Alain Bresson chronicled “most of the production operations were performed by women.”
 
-In his book, The Making of the Ancient Greek Economy: Institutions, Markets, and Growth in the City-States, Bresson continued: “Every young girl or adult woman, of whatever status, was typically supposed to be trained in this [weaving] activity.”
+In his book, The Making of the Ancient Greek Economy: Institutions, Markets, and Growth in the City-States, Bresson continued: “Every young girl or adult woman, of whatever status, was typically supposed to be trained in this \[weaving] activity.”
 
 Women’s labor was intrinsically tied to her legal personhood. These ancient ideas still live on in our modern economy. After all, the “father of capitalism” Adam Smith was also a fierce advocate for gendered division of labor. (We’ll get to him later. Back to Greece.)
 
@@ -1355,7 +1352,7 @@ Such a shift won’t come quickly or organically. As long as women have attempte
 
 **Home of the free?**
 
-President (Theodore Roosevelt)[https://www.jstor.org/stable/23768567?seq=1] was so afraid of women’s economic emancipation that he published a piece in the Ladies’ Home Journal in 1906, warning against “this new freedom.”
+President (Theodore Roosevelt)\[https://www.jstor.org/stable/23768567?seq=1] was so afraid of women’s economic emancipation that he published a piece in the Ladies’ Home Journal in 1906, warning against “this new freedom.”
 
 Previous generations of feminists brought us the notion of “working hours,” as opposed to free time, and human rights in the workplace, formalizing the acknowledgment that productivity requires social and physical health. The Uprising of the 20,000—a labor strike led by the International Ladies’ Garment Workers’ Union in 1909—was just one of many political movements by women workers to inspire labor laws that touch every sector across the economy.
 
@@ -1479,9 +1476,9 @@ Leeson, Peter T. The Invisible Hook: The Hidden Economics of Pirates. Princeton:
 
 Frankopan, Peter. The Silk Roads: A New History of the World. New York: Random House, 2017.
 
----
+- - -
 
-_Tina is a developer in Tehran who discovered bitcoin in April 2017, and has been a hodler ever since. She trades altcoins as a side hustle, earning enough to pay her whole university tuition in 2017._
+*Tina is a developer in Tehran who discovered bitcoin in April 2017, and has been a hodler ever since. She trades altcoins as a side hustle, earning enough to pay her whole university tuition in 2017.*
 
 ### Interview with a Shopper
 
@@ -1507,9 +1504,9 @@ There’s no need to believe in Satoshi Nakamoto like a prophet. Don't be tempte
 
 I don't think bitcoin will become the dominant global money, or useful for everyone. I think bitcoin is a luxury. The infrastructure is still being built and will only be completed in the future. Until then, people who believe in this space can spend bitcoin easily, anywhere. You can’t do that with fiat money. And that’s it.
 
----
+- - -
 
-_Joyce Yang is the CEO of Global Coin Research and the author of The Small Handbook to Asia Crypto: On Local Ecosystems, Trends and Regulations. She first discovered bitcoin in 2015 and was fascinated by how our global infrastructure could be transformed by digital money and digital assets. She’s also a Harvard alumn, an advisor to the startup Starkware and investor in the company Near Protocol._
+*Joyce Yang is the CEO of Global Coin Research and the author of The Small Handbook to Asia Crypto: On Local Ecosystems, Trends and Regulations. She first discovered bitcoin in 2015 and was fascinated by how our global infrastructure could be transformed by digital money and digital assets. She’s also a Harvard alumn, an advisor to the startup Starkware and investor in the company Near Protocol.*
 
 ### Bitcoin Girl in China: A Movie Review
 
@@ -1541,9 +1538,9 @@ But some of us are still striving to one day live on BTC, just like Bing. We, to
 
 ## PART 3: Confirmations
 
----
+- - -
 
-_Mahsa is an Iranian living in the United Kingdom with years of professional experience related to global networks, including but not limited to the internet. She sometimes participates in bitcoin events around the world._
+*Mahsa is an Iranian living in the United Kingdom with years of professional experience related to global networks, including but not limited to the internet. She sometimes participates in bitcoin events around the world.*
 
 ### Saving a Life with Bitcoin
 
@@ -1615,9 +1612,9 @@ But what would you do if life left you with no other choice?\
 I bet you’re like me and you’d briefly grasp at faith.\
 You believe, just for a moment, and become that hypocrite, too.
 
----
+- - -
 
-_Kiara Bickers is an independent writer and systems administrator at Blockstream. Her gateway drug to bitcoin was the Austrian economics, but she stayed for the fun of grappling complex systems. The following excerpt was taken from her book, Bitcoin Clarity: A Guide to Understanding._
+*Kiara Bickers is an independent writer and systems administrator at Blockstream. Her gateway drug to bitcoin was the Austrian economics, but she stayed for the fun of grappling complex systems. The following excerpt was taken from her book, Bitcoin Clarity: A Guide to Understanding.*
 
 ### Governance
 
@@ -1747,7 +1744,7 @@ As the network grew, coordination between full nodes and miners was needed. For 
 
 Here is Bitcoin developer Mark Friedenbach’s take on the idea of voting in Bitcoin:
 
-> “[I]t is the truth that most of the current developers are interested in Bitcoin as a decentralized consensus system existing outside and above the realm of human affairs. Lose that property, and it ceases to be an interesting system. I’m passionate about Bitcoin. I have zero passion for majority-vote to change the rules [of the] system. We have one of those already—it’s called fiat.”
+> “\[I]t is the truth that most of the current developers are interested in Bitcoin as a decentralized consensus system existing outside and above the realm of human affairs. Lose that property, and it ceases to be an interesting system. I’m passionate about Bitcoin. I have zero passion for majority-vote to change the rules \[of the] system. We have one of those already—it’s called fiat.”
 
 **Governance evolution**
 
@@ -1759,9 +1756,9 @@ When SegWit was first proposed, it was blocked by miners using these new inputs.
 
 As I watch the development of Bitcoin, I see a lot of its most valuable contributors taking an informal leave of absence. Whether that means not formally contributing to development in the mailing list or just leaving the rooms where the most development-oriented conversations tend to happen, it’s pretty sad. The Pareto principle states that roughly 80 percent of the effects come from 20 percent of the causes. In Bitcoin, it seems like 99 percent of the effects come from 1 percent of its best contributors. If Bitcoin loses its best contributors to politics, we may be in for some hard lessons on what’s most important.
 
----
+- - -
 
-_Norika Kizawa learned about bitcoin as a university student in Tokyo, while interning at Digital Garage and working with Bitcoin Core contributors. She’s now working on the BitPrism Project, which explores the prospect of decentralized finance applications by using a cryptographic protocol via the Lightning network._
+*Norika Kizawa learned about bitcoin as a university student in Tokyo, while interning at Digital Garage and working with Bitcoin Core contributors. She’s now working on the BitPrism Project, which explores the prospect of decentralized finance applications by using a cryptographic protocol via the Lightning network.*
 
 ### Interview with a Bitcoin Researcher
 
@@ -1811,9 +1808,9 @@ Then, while studying cryptography and cryptographic protocols associated with bi
 
 Therefore, I’d like to contribute translation, in addition to technical applications and research, to the bitcoin community. I’m translating financial cryptography textbooks. If you are sympathetic to this goal, please contact me!
 
----
+- - -
 
-_Meltem Demirors is a bitcoin veteran who co-founded startups like CoinShares and Athena Capital while investing in bitcoin startups like Casa and Flexa. She managed investments for the Digital Currency Group through the 2017 token boom, then went on to defend bitcoin as a decentralized, public good during the 2019 Facebook congressional hearings. She also co-founded the annual Crypto Springs conference and often leads educational programs about bitcoin through the Massachusetts Institute of Technology and Oxford University. This essay was previously published on [her blog](https://medium.com/@Melt_Dem/im-not-an-international-drug-dealer-3e8e3c75c57c)._
+*Meltem Demirors is a bitcoin veteran who co-founded startups like CoinShares and Athena Capital while investing in bitcoin startups like Casa and Flexa. She managed investments for the Digital Currency Group through the 2017 token boom, then went on to defend bitcoin as a decentralized, public good during the 2019 Facebook congressional hearings. She also co-founded the annual Crypto Springs conference and often leads educational programs about bitcoin through the Massachusetts Institute of Technology and Oxford University. This essay was previously published on [her blog](https://medium.com/@Melt_Dem/im-not-an-international-drug-dealer-3e8e3c75c57c).*
 
 ### I Am Not an International Drug Dealer
 
@@ -1902,9 +1899,7 @@ Privacy, like anything else, is a topic that must be learned. If it feels overwh
 There are three types of privacy I believe must be preserved—
 
 1. Privacy in Economic Interactions, meaning that who we send money to, how, when, in what amount, and why is something we have a right to keep private between ourselves and the recipient
-
 2. Privacy in Movement, meaning we should be able to move about physical, digital, and virtual space with anonymity, and we should be able to enter and leave spaces, whether in real life or online, without giving out identifying information
-
 3. Privacy in Communications, meaning we should be able to conduct conversations with the certainty that they will remain private, and that we should be able to abstract our identity from our communications both in the physical world and online
 
 Today, your degree of freedom in any of these is determined by a number of factors including where you live, what platforms and applications you use, your understanding of how to increase or decrease your privacy via use of additional tools like VPNs, and the level of surveillance an unknown third party may want to exercise on you — just to name some. There are factors that are largely within your control, and factors that are outside of your control. Tomorrow, freedom and privacy need to be a default setting. We must take it upon ourselves to educate, advocate, build, and promote tools that preserve them.
@@ -1918,9 +1913,11 @@ By now, hopefully we all know this one fact: Bitcoin is not anonymous. It is pse
 There are of course tools you can use—mixers, tumblers, and other programs—to obfuscate the flow of funds, but the ability for cryptocurrency users to stay private is complicated by the way companies to build business models violating this privacy so they can sell data to exchanges, regulators, and enforcement agencies. The future belongs to those who build it. And we have a big fight ahead.
 
 #### Crypto is about freedom.
+
 It’s not about creating a new revenue stream for Wall Street or delivering big IPO returns to investors. Those might be nice second-order effects, but I reject the notion that this is the primary goal.
 
 #### Crypto is about privacy.
+
 It’s not about creating a dystopian corporate digital currency on a private blockchain so you can guzzle Starbucks on piles of debt while you mainline Facebook and Instagram like a human click farm. It’s not going to be easy, but it’s going to be worth it. And, as one does, I’ll end with a quote, this one from a Russian dystopian sci-fi novel entitled We, published by Yevgeny Zamyatin in 1924:
 
 “There is no final one; revolutions are infinite.”
@@ -1933,11 +1930,11 @@ Choose privacy.
 
 Some starting resources:
 
-- How to Be Invisible [(Book)](https://www.amazon.com/How-Be-Invisible-Protect-Children/dp/1250010454/) by J.J. Luna
-- Smart Girl’s Guide to Privacy [(Book)](https://www.amazon.com/Smart-Girls-Guide-Privacy-Practical/dp/1593276486/ref=sr_1_1?keywords=violet%20blue%20privacy&qid=1555366390&s=books&sr=1-1-catcorr) by Violet Blue
-- EFF — [Choosing a VPN That’s Right for You](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you)
-- Tripwire — [Why OPSEC is for Everyone](https://www.tripwire.com/state-of-security/security-data-protection/opsec-everyone-not-just-people-something-hide/)
-- Kaspersky Lab — [10 Tips to Improve Your Internet Privacy](https://www.kaspersky.com/blog/privacy-ten-tips-2018/23022/)
-- Berkeley — [Top 10 Secure Computing Tips](https://security.berkeley.edu/resources/best-practices-how-to-articles/top-10-secure-computing-tips)
-- Jameson Lopp — [A Modest Privacy Protection Proposal](https://medium.com/@lopp/a-modest-privacy-protection-proposal-5b47631d7f4c)
-- NIAIA — [Individual OPSEC & Personal Security — A How To Guide](https://www.tripwire.com/state-of-security/security-data-protection/opsec-everyone-not-just-people-something-hide/)
+* How to Be Invisible [(Book)](https://www.amazon.com/How-Be-Invisible-Protect-Children/dp/1250010454/) by J.J. Luna
+* Smart Girl’s Guide to Privacy [(Book)](https://www.amazon.com/Smart-Girls-Guide-Privacy-Practical/dp/1593276486/ref=sr_1_1?keywords=violet%20blue%20privacy&qid=1555366390&s=books&sr=1-1-catcorr) by Violet Blue
+* EFF — [Choosing a VPN That’s Right for You](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you)
+* Tripwire — [Why OPSEC is for Everyone](https://www.tripwire.com/state-of-security/security-data-protection/opsec-everyone-not-just-people-something-hide/)
+* Kaspersky Lab — [10 Tips to Improve Your Internet Privacy](https://www.kaspersky.com/blog/privacy-ten-tips-2018/23022/)
+* Berkeley — [Top 10 Secure Computing Tips](https://security.berkeley.edu/resources/best-practices-how-to-articles/top-10-secure-computing-tips)
+* Jameson Lopp — [A Modest Privacy Protection Proposal](https://medium.com/@lopp/a-modest-privacy-protection-proposal-5b47631d7f4c)
+* NIAIA — [Individual OPSEC & Personal Security — A How To Guide](https://www.tripwire.com/state-of-security/security-data-protection/opsec-everyone-not-just-people-something-hide/)
