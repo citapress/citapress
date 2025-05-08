@@ -12,9 +12,9 @@ post_image: https://ucarecdn.com/ad386ba5-94a6-4cde-9103-a2540feaa341/-/preview/
 square_image: https://ucarecdn.com/d8258359-e146-499b-aca2-012b91a58f66/-/preview/900x900/thumbnail-sui-sin-far2.jpg
 download: The divine right of learning - Cita Press Reading Companion.pdf
 download_ebook: An Immortal Book_Sui Sin Far_Cita Press.epub
+download_name: Reading Guide
 third_download_name: Download Epub
 third_download: An Immortal Book_Sui Sin Far_Cita Press.epub
-download_name: Reading Guide
 language_link: ""
 genre:
   - short-stories
@@ -88,7 +88,7 @@ published: true
 
 <p>My father, who was educated in England and studied art in France, was established in business by his father at the age of 22, at the Port of Shanghai, China. There he met my mother, a Chinese young girl, who had been educated in England, and who was in training for a missionary. They were married by the British Consul, and the year following their marriage returned to England.</p>
 
-<p>As I swing the doorinferior woman of my mental gallery I find radiant pictures in the opening, and through all the scenes of that period there walks one figure–the figure of my brother, Edward, a noble little fellow, whose heart and intelligence during the brief years of early childhood led and directed mine. I mention this brother because I have recently lost him through an accident, and his death has affected me more than I can say.</p>
+<p>As I swing the door of my mental gallery I find radiant pictures in the opening, and through all the scenes of that period there walks one figure–the figure of my brother, Edward, a noble little fellow, whose heart and intelligence during the brief years of early childhood led and directed mine. I mention this brother because I have recently lost him through an accident, and his death has affected me more than I can say.</p>
 
 <p>At the age of 4 years I started to go to school. I can remember being very much interested in English history. I remember also that my mother was a fascinating story teller and that I was greatly enamored of a French version of “Little Bo-Peep,” which my father tried to teach me.</p>
 
@@ -104,7 +104,7 @@ published: true
 
 <p>When my parents found that family circumstances made it necessary to withdraw me from Mrs. Darling, my old friend’s mind seemed to become wrought with me, and she tried to persuade them to permit her to send me to a boarding school. My father, however, was an Englishmen, and the idea of having any of his children brought up on charity, hurt his pride.</p>
 
-<p>I, now in my 11th year, entered into two lives, one devoted entirely to family concerns; the other, a withdrawn life of thought and musing. This withdrawn life of thought probably took the place of ordinary education with me. I had six keys to it; one, a great capacity for feeling; another, the key of imagination; third, the key of physical pain; fourth the key of sympathy; fifth, the sense of being differentiated from the ordinary by the fact that I was an Erusian \\[sic]; sixth, the impulse to create.</p>
+<p>I, now in my 11th year, entered into two lives, one devoted entirely to family concerns; the other, a withdrawn life of thought and musing. This withdrawn life of thought probably took the place of ordinary education with me. I had six keys to it; one, a great capacity for feeling; another, the key of imagination; third, the key of physical pain; fourth the key of sympathy; fifth, the sense of being differentiated from the ordinary by the fact that I was an Erusian[sic]; sixth, the impulse to create.</p>
 ….
 
 <p><b>Little Lace Girl.</b></p>
