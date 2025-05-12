@@ -68,3 +68,5 @@ This collection ends not with an essay, but a short story—the first Woolf ever
 My hope is that this selection of Woolf’s writings will be a welcome addition to the shelves of those who want to explore the ideas and challenges that ignited Woolf’s creative imagination—to dig into all the “proper stuff” of life and art.
 
 One of the themes explored in Woolf’s most famous nonfiction work, *A Room of One’s Own*, and in some of the works collected here, is the issue of access.  Access to knowledge, information, and education. Between 1922 and 1938 Woolf published seven novels, one biography, the book-length essays *A Room of One’s Own* and *Three Guineas*, and two collections of essays.  Over the next ten years, Woolf’s work will continue to move into the public domain in more countries, increasing awareness and expanding access to her canon. I am certain that Woolf would be pleased with this project created by a Common Reader and made available to Common Readers via Cita Press, a library open to all with no barriers or closed doors to keep anyone out.
+
+—**JOANN BORRI**, 2025
