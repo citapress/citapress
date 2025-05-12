@@ -69,7 +69,8 @@ My hope is that this selection of Woolf’s writings will be a welcome addition 
 
 One of the themes explored in Woolf’s most famous nonfiction work, *A Room of One’s Own*, and in some of the works collected here, is the issue of access.  Access to knowledge, information, and education. Between 1922 and 1938 Woolf published seven novels, one biography, the book-length essays *A Room of One’s Own* and *Three Guineas*, and two collections of essays.  Over the next ten years, Woolf’s work will continue to move into the public domain in more countries, increasing awareness and expanding access to her canon. I am certain that Woolf would be pleased with this project created by a Common Reader and made available to Common Readers via Cita Press, a library open to all with no barriers or closed doors to keep anyone out.
 
-## —**JOANN BORRI**, 2025
+ —**JOANN BORRI**, 2025
+---
 
 ## MODERN FICTION
 
