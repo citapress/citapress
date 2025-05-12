@@ -1,5 +1,5 @@
 ---
-title: "A Luminous Halo: Selected Writings by Virginia Woolf"
+title: "A Luminous Halo: Selected Writings "
 publication: 2025-06-30T18:55:00.000Z
 publishformat: Month and year
 release: 1909-05-08T18:55:00.000Z
@@ -23,15 +23,15 @@ theme:
   - LGBTQ+
 lang: en
 description: >-
-  "Life is not a series of gig lamps symmetrically arranged; but a luminous
+  <p>"Life is not a series of gig lamps symmetrically arranged; but a luminous
   halo, a semi-transparent envelope surrounding us from the beginning of
-  consciousness to the end.”
+  consciousness to the end.”</p>
 
 
-  <i>A Luminous Halo</i> presents a small collection of critical writings by a titanic figure in feminist literary history: the one and only Virginia Woolf. From "Modern Fiction" to "How Should One Read a Book," "The Mark on the Wall," and more, these works are essential for any [common] reader hoping to "explore the ideas and challenges that ignited Woolf’s creative imagination—to dig into all the 'proper stuff' of life and art." Here they come together in one volume for the first time, selected and introduced by guest editor JoAnn Borri.
+  <p><i>A Luminous Halo</i> presents a small collection of critical writings by a titanic figure in feminist literary history: the one and only Virginia Woolf. From "Modern Fiction" to "How Should One Read a Book," "The Mark on the Wall," and more, these works are essential for any [common] reader hoping to "explore the ideas and challenges that ignited Woolf’s creative imagination—to dig into all the 'proper stuff' of life and art." Here they come together in one volume for the first time, selected and introduced by guest editor JoAnn Borri.</p>
 
 
-  This book is sponsored and created in partnership with The Sitting Room Library in Penngrove, California. Home to the "Woolf Wall" and extensive archives related to Woolf and other women writers, The Sitting Room is a reading room dedicated to literature and art by women. The library and archive is open to all and fully searchable via the Sitting Room's online catalogue.
+  <p>This book is sponsored and created in partnership with The Sitting Room Library in Penngrove, California. Home to the "Woolf Wall," extensive archives related to Woolf and other women writers, and thousands of books, The Sitting Room is dedicated to literature and art by women. The library and archive is open to all and fully searchable via the Sitting Room's online catalogue.</p>
 foreword: |-
   <p><b>Foreword, Guest Editor:</b> JoAnn Borri </p>
 
