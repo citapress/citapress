@@ -202,6 +202,8 @@ But do not expect just at present a complete and satisfactory presentment of her
 
 *A paper read to the Heretics, Cambridge, on May 18, 1924.*
 
+---
+
 ## ON NOT KNOWING GREEK
 
 For it is vain and foolish to talk of Knowing Greek, since in our ignorance we should be at the bottom of any class of schoolboys, since we do not know how the words sounded, or where precisely we ought to laugh, or how the actors acted, and between this foreign people and ourselves there is not only difference of race and tongue but a tremendous breach of tradition. All the more strange, then, is it that we should wish to know Greek, try to know Greek, feel for ever drawn back to Greek, and be for ever making up some notion of the meaning of Greek, though from what incongruous odds and ends, with what slight resemblance to the real meaning of Greek, who shall say?
@@ -210,9 +212,8 @@ It is obvious in the first place that Greek literature is the impersonal literat
 
 But that is not, and perhaps never can be, wholly true. Pick up any play by Sophocles, read—
 
-> Son of him who led our hosts at Troy of old, son of 
->
-> Agamemnon,
+> Son of him who led our hosts at Troy of old, son of<br>
+&nbsp;&nbsp;&nbsp; Agamemnon,
 
 and at once the mind begins to fashion itself surroundings. It makes some background, even of the most provisional sort, for Sophocles; it imagines some village, in a remote part of the country, near the sea. Even nowadays such villages are to be found in the wilder parts of England, and as we enter them we can scarcely help feeling that here, in this cluster of cottages, cut off from rail or city, are all the elements of a perfect existence. Here is the Rectory; here the Manor house, the farm and the cottages; the church for worship, the club for meeting, the cricket field for play. Here life is simply sorted out into its main elements. Each man and woman has his work; each works for the health or happiness of others. And here, in this little community, characters become part of the common stock; the eccentricities of the clergyman are known; the great ladies' defects of temper; the blacksmith's feud with the milkman, and the loves and matings of the boys and girls. Here life has cut the same grooves for centuries; customs have arisen; legends have attached themselves to hilltops and solitary trees, and the village has its history, its festivals, and its rivalries.
 
