@@ -328,6 +328,947 @@ So then, to sum up the different points we have reached in this essay—have we 
 
 If the moralists ask us how we can justify our love of reading, we can make use of some such excuse as this. But if we are honest, we know that no such excuse is needed. It is true that we get nothing whatsoever except pleasure from reading; it is true that the wisest of us is unable to say what that pleasure may be. But that pleasure—mysterious, unknown, useless as it is—is enough. That pleasure is so curious, so complex, so immensely fertilizing to the mind of anyone who enjoys it, and so wide in its effects, that it would not be in the least surprising to discover, on the day of judgment when secrets are revealed and the obscure is made plain, that the reason why we have grown from pigs to men and women, and come out from our caves, and dropped our bows and arrows, and sat round the fire and talked and drunk and made merry and given to the poor and helped the sick and made pavements and houses and erected some sort of shelter and society on the waste of the world, is nothing but this: we have loved reading.
 
+*"How Should One Read a Book?" was adapted, as Woolf puts it, from "a paper read at a school"—a lecture Woolf delivered at Hayes Court Common school in Kent in January 1926. This version was published in October of that same year in* The Yale Review [*(see Text Sources). A different version was later published in* The Common Reader: Second Series](https://gutenberg.net.au/ebooks03/0301251h.html#e26) *(1932)*. 
+
+## THE NARROW BRIDGE OF ART
+
+
+
+## WOMEN AND FICTION
+
+
+The title of this article can be read 
+
+in two ways: it may allude to women and the 
+
+fiction that they write, or to women and the 
+
+fiction that is written about them. The ambiguity is intentional, for, in dealing with 
+
+women as writers, as much elasticity as possible is desirable; it is necessary to leave oneself room to deal with other things besides their 
+
+work, so much has that work been influenced 
+
+by conditions that have nothing whatever 
+
+to do with art. 
+
+The most superficial inquiry into women’s 
+
+writing instantly raises a host of questions. 
+
+Why, we ask at once, was there no continuous 
+
+writing done by women before the eighteenth 
+
+century? Why did they then write almost as 
+
+habitually as men, and in the course of that 
+
+writing produce, one after another, some of 
+
+the classics of English fiction? And why did 
+
+their art then, and why to some extent does 
+
+their art still, take the form of fiction? 
+
+A little thought will show us that we are 
+
+asking questions to which we shall get, as 
+
+answer, only further fiction. The answer lies 
+
+at present locked in old diaries, stuffed away 
+
+in old drawers, half-obliterated in the memories 
+
+of the aged. It is to be found in the lives of the 
+
+obscure — in those almost unlit corridors of 
+
+history where the figures of: generations of 
+
+women are so dimly, so fitfully perceived. 
+
+For very little is known about women. The 
+
+history of England is the history of the male 
+
+line, not of the female. Of our fathers we know 
+
+always some fact, some distinction. They were 
+
+soldiers or they were sailors; they filled that 
+
+office or they made that law. But of our moth- 
+
+ers, our grandmothers, our great-grandmothers, 
+
+what remains? Nothing but a tradition. One 
+
+was beautiful; one was red-haired; one was 
+
+kissed by a Queen. We know nothing of them 
+
+except their names and the dates of their 
+
+marriages and the number of children they 
+
+bore. 
+
+Thus, if we wish to know why at any par- 
+
+ticular time women did this or that, why they 
+
+wrote nothing, why on the other hand they 
+
+wrote masterpieces, it is extremely difficult 
+
+to tell. Anyone who should seek among those 
+
+old papers, who should turn history wrong 
+
+side out and so construct a faithful picture of 
+
+the daily life of the ordinary woman in Shake- 
+
+speare’s time, in Milton’s time, in Johnson’s 
+
+time, would not only write a book of aston- 
+
+ishing interest, but would furnish the critic 
+
+with a weapon which he now lacks. The extraor- 
+
+dinary woman depends on the ordinary 
+
+woman. It is only when we know what were 
+
+the conditions of the average woman’s life — the number of her children, whether she had 
+
+money of her own, if she had a room to herself, 
+
+whether she had help in bringing up her fam- 
+
+ily, if she had servants, whether part of the 
+
+housework was her task — it is only when we 
+
+can measure the way of life and the experience 
+
+of life made possible to the ordinary woman 
+
+that we can account for the success or failure 
+
+of the extraordinary woman as a writer. 
+
+Strange spaces of silence seem to separate 
+
+one period of activity from another. There was 
+
+Sappho and a little group of women all writing 
+
+poetry on a Greek island six hundred years 
+
+before the birth of Christ. They fall silent. 
+
+Then about the year 1000 we find a certain 
+
+court lady, the Lady Murasaki, writing a very 
+
+long and beautiful novel in Japan. But in 
+
+England in the sixteenth century, when the 
+
+dramatists and poets were most 
+
+active, the women were dumb. 
+
+Elizabethan literature is exclu- 
+
+sively masculine. Then, at the 
+
+end of the eighteenth century 
+
+and in the beginning of the nine- 
+
+teenth, we find women again 
+
+writing — this time in England — 
+
+with extraordinary frequency and 
+
+success. 
+
+Law and custom were of course 
+
+largely responsible for these 
+
+strange intermissions of silence 
+
+and speech. When a woman was 
+
+liable, as she was in the fifteenth 
+
+century, to be beaten and flung about the room 
+
+if she did not marry the man of her parents’ 
+
+choice, the spiritual atmosphere was not favor- 
+
+able to the production of works of art. When 
+
+she was married without her own consent to 
+
+a man who thereupon became her lord and 
+
+master, “so far at least as law and custom 
+
+could make him,” as she was in the time of the 
+
+Stuarts, it is likely she had little time for writ- 
+
+ing, and less encouragement. The immense 
+
+effect of environment and suggestion upon the 
+
+mind, we in our psychoanalytical age are 
+
+beginning to realize. Again, with memoirs and 
+
+letters to help us, we are beginning to under- 
+
+stand how abnormal is the effort needed to 
+
+produce a work of art, and what shelter and 
+
+what support, the mind of the artist requires. 
+
+Of those facts the lives and letters of men like 
+
+Keats and Carlyle and Flaubert assure us. 
+
+Thus it is clear that the extraordinary outburst of fiction in the beginning of the 
+
+nineteenth century in England was heralded 
+
+by innumerable slight changes in law and 
+
+customs and manners. And women of the 
+
+nineteenth century had some leisure; they had 
+
+some education. It was no longer the exception 
+
+for women of the middle and upper classes to 
+
+choose their own husbands. And it is significant 
+
+that of the four great women novelists — Jane 
+
+Austen, Emily Bronté, Charlotte Bronté, and 
+
+George Eliot — not one had a child, and two 
+
+were unmarried. 
+
+Yet, though it is clear that the ban upon 
+
+writing had been removed, there was still, it 
+
+would seem, considerable pressure upon women 
+
+to write novels. No four women can have 
+
+been more unlike in genius and character than 
+
+these four. Jane Austen can have had nothing 
+
+in common with George Eliot; 
+
+George Eliot was the direct oppo- 
+
+site of Emily Bronté. Yet all were 
+
+trained for the same profession; 
+
+all, when they wrote, wrote novels. 
+
+Fiction was, as fiction still is, 
+
+the easiest thing for a woman to 
+
+write. Nor is it difficult to find the 
+
+reason. A novel is the least con- 
+
+centrated form of art. A novel 
+
+can be taken up or put down more 
+
+easily than a play or a poem. 
+
+George Eliot left her work to 
+
+nurse her father. Charlotte Bronté 
+
+put down her pen to pick the eyes 
+
+out of the potatoes. And living as she did in 
+
+the common sitting room, surrounded by 
+
+people, a woman was trained to use her mind 
+
+in observation and upon the analysis of charac- 
+
+ter. She was trained to be a novelist and not 
+
+to be a poet. 
+
+Even in the nineteenth century, a woman 
+
+lived almost solely in her home and her emo- 
+
+tions. And those nineteenth century novels, 
+
+remarkable as they were, were profoundly 
+
+influenced by the fact that the women who 
+
+wrote them were excluded by their sex from 
+
+certain kinds of experience. That experience 
+
+has a great influence upon fiction is indisputable. The best part of Conrad’s novels, for 
+
+instance, would be destroyed if it had been 
+
+impossible for him to be a sailor. Take away 
+
+all that Tolstoi knew of war as a soldier, of 
+
+life and society as a rich young man whos 
+
+education admitted him to all sorts of experience and War and Peace would be incred- 
+
+ibly impoverished. 
+
+Yet Pride and Prejudice, Wuthering Heights, 
+
+Villette, and Middlemarch were written by 
+
+women from whom was forcibly withheld all 
+
+experience save that which could be met with 
+
+in a middle class drawing-room. No first-hand 
+
+experience of war or seafaring or politics or 
+
+business was possible for them. Even their 
+
+emotional life was strictly regulated by law 
+
+and custom. When George Eliot ventured to 
+
+live with Mr. Lewes without being his wife, 
+
+public opinion was scandalized. Under its 
+
+pressure she withdrew into a suburban seclu- 
+
+sion which, inevitably, had the worst possible 
+
+effects upon her work. She wrote that unless 
+
+people asked of their own accord to come and 
+
+see her, she never invited them. At the same 
+
+time, on the other side of Europe, 
+
+Tolstoi was living a free life as a 
+
+soldier, with men and women of all 
+
+classes, for which nobody cen- 
+
+sured him and from which his 
+
+novels drew much of their aston- 
+
+ishing breadth and vigor. 
+
+But the novels of women were 
+
+not affected only by the necessarily 
+
+narrow range of the writer’s ex- 
+
+perience. They showed, at least 
+
+in the nineteenth century, an- 
+
+other characteristic which may be 
+
+traced to the writer’s sex. In 
+
+Middlemarch and in Jane Eyre we 
+
+are conscious not merely of the writer’s character, as we are conscious of the character of Charles Dickens, but we are conscious of a 
+
+woman’s presence — of someone resenting the 
+
+treatment of her sex and pleading for its rights. 
+
+This brings into women’s writing an element 
+
+which is entirely absent from a man’s, unless, 
+
+indeed, he happens to be a working man, a Negro, or one who for some other reason is 
+
+conscious of disability. It introduces a distortion and is frequently the cause of weakness. 
+
+The desire to plead some personal cause or 
+
+to make a character the mouthpiece of some 
+
+personal discontent or grievance always has 
+
+a distracting effect, as if the spot at which the 
+
+reader’s attention is directed were suddenly 
+
+twofold instead of single. 
+
+The genius of Jane Austen and Emily Bronté 
+
+is never more convincing than in their power to 
+
+ignore such claims and solicitations and to hold on their way unperturbed by scorn or censure. 
+
+But it needed a very serene or a very powerful 
+
+mind to resist the temptation to anger. The 
+
+ridicule, the censure, the assurance of inferior- 
+
+ity in one form or another which were lavished 
+
+upon women who practised an art, provoked 
+
+such reactions naturally enough. One sees the 
+
+effect in Charlotte Bronté’s indignation, in 
+
+George Eliot’s resignation. Again and again 
+
+one finds it in the work of the lesser women 
+
+writers — in their choice of a subject, in their 
+
+unnatural self-assertiveness, in their unnatural 
+
+docility. Moreover, insincerity leaks in almost 
+
+unconsciously, They adopt a view in deference 
+
+to authority. The vision becomes too masculine 
+
+or it becomes too feminine; it loses its perfect 
+
+integrity and, with that, its most essential 
+
+quality as a work of art. 
+
+The great change that has 
+
+crept into women’s writing is, it 
+
+would seem, a change of attitude. 
+
+The woman writer is no longer 
+
+bitter. She is no longer angry. She 
+
+is no longer pleading and protest- 
+
+ing as she writes. We are approach- 
+
+ing, if we have not yet reached, 
+
+the time when her writing will 
+
+have little or no foreign influence 
+
+to disturb it. She will be able to 
+
+concentrate upon her vision with- 
+
+out distraction from outside. The 
+
+aloofness that was once within the 
+
+reach of genius and originality is 
+
+only now coming within the reach of ordinary 
+
+women. Therefore the average novel by a 
+
+woman is far more genuine and far more inter- 
+
+esting to-day than it was a hundred or even 
+
+fifty years ago. 
+
+But it is still true that before a woman can 
+
+write exactly as she wishes to write, she has 
+
+many difficulties to face. To begin with, there 
+
+is the technical difficulty — so simple, appar- 
+
+ently; in reality, so baffling — that the very 
+
+form of the sentence does not fit her. It is a 
+
+sentence made by men; it is too loose, too 
+
+heavy, too pompous for a woman’s use. Yet in 
+
+a novel, which covers so wide a stretch of 
+
+ground, an ordinary and usual type of sentence 
+
+has to be found to carry the reader on easily 
+
+and naturally from one end of the book to the 
+
+other, And this a woman must make for her- 
+
+self, altering and adapting the current sentence 
+
+until she writes one that takes the natural shape of her thought without crushing or 
+
+distorting it. 
+
+But that, after all, is only a means to an 
+
+end, and the end is still to be reached only when 
+
+a woman has the courage to surmount opposi- 
+
+tion and the determination to be true to her- 
+
+self. For a novel, after all, is a statement about 
+
+a thousand different objects — human, nat- 
+
+ural, divine; it is an attempt to relate them to 
+
+each other. In every novel of merit these differ- 
+
+ent elements are held in place by the force of 
+
+the writer’s vision. But they have another 
+
+order also, which is the order imposed upon 
+
+them by convention. And as men are the arbi- 
+
+ters of that convention, as they have estab- 
+
+lished an order of values in life, so too, since 
+
+fiction is largely based on life, these values 
+
+prevail there also to a very great extent. 
+
+It is probable, however, that both in life and 
+
+in art the values of a woman are not the values 
+
+of a man. Thus, when a woman comes to write 
+
+a novel, she will find that she is perpetually 
+
+wishing to alter the established values — to 
+
+make serious what appears insignificant to a 
+
+man, and trivial what is to him important. 
+
+And for that, of course, she will be criticized; 
+
+for the critic of the opposite sex will be gen- 
+
+uinely puzzled and surprised by an attempt to 
+
+alter the current scale of values, and will see 
+
+in it not merely a difference of view, but a 
+
+view that is weak, or trivial, or sentimental, 
+
+because it differs from his own. 
+
+But here, too, women are coming to be more 
+
+independent of opinion. They are beginning to 
+
+respect their own sense of values. And for this 
+
+reason the subject matter of their novels begins 
+
+to show certain changes. They are less inter- 
+
+ested, it would seem, in themselves; on the 
+
+other hand, they are more interested in other 
+
+women. In the early nineteenth century, wom- 
+
+en’s novels were largely autobiographical. One 
+
+of the motives that led them to write was the 
+
+desire to expose their own suffering, to plead 
+
+their own cause. Now that this desire is no 
+
+longer so urgent, women are beginning to ex- 
+
+plore their own sex, to write of women as 
+
+women have never been written of before; 
+
+for of course, until very lately, women in 
+
+literature were the creation of men. 
+
+Here again there are difficulties to overcome, 
+
+for, if one may generalize, not only do women 
+
+submit less readily to observation than men, 
+
+but their lives are far less tested and examined by the ordinary processes of life. Often nothin 
+
+tangible remains of a woman’s day. The food 
+
+that has been cooked is eaten; the children that 
+
+have been nursed have gone out into the world, 
+
+Where does the accent fall? What is the salient 
+
+point fer the novelist to seize upon? It is diffi. 
+
+cult to say. Her life has an anonymous charac. 
+
+ter which is baffling and puzzling in the 
+
+extreme. For the first time, this dark country is 
+
+beginning to be explored in fiction; and at the 
+
+same moment a woman has also to record the 
+
+changes in women’s minds and habits which 
+
+the opening of the professions has introduced. 
+
+She has to observe how their lives are ceasing 
+
+to run underground; she has to discover what 
+
+new colors and shadows are showing in them 
+
+now that they are exposed to the outer world. 
+
+If, then, one should try to sum up the char- 
+
+acter of women’s fiction at the present moment, 
+
+one would say that it is courageous; it is sincere; 
+
+it keeps closely to what women feel. It is not 
+
+bitter. It does not insist upon its femininity. 
+
+But at the same time, a woman’s book is 
+
+not written as a man would write it. These 
+
+qualities are much commoner than they were, 
+
+and they give even to second and third-rate 
+
+work the value of truth and the interest of 
+
+sincerity. 
+
+But in addition to these good qualities, 
+
+there are two that call for a word more of 
+
+discussion. The change which has turned the 
+
+English woman from a nondescript influence, 
+
+fluctuating and vague, to a voter, a wage 
+
+earner, a responsible citizen, has given her both 
+
+in her life and in her art a turn toward the 
+
+impersonal. Her relations now are not only 
+
+emotional; they are intellectual, they are po- 
+
+litical. The old system which condemned her to 
+
+squint askance at things through the eyes or 
+
+through the interests of husband or brother, 
+
+has given place to the direct and practical 
+
+interests of one who must act for herself, and 
+
+not merely influence the acts of others. Hence 
+
+her attention is being directed away from the 
+
+personal centre which engaged it exclusively 
+
+in the past to the impersonal, and her novels 
+
+naturally become more critical of society, and 
+
+less analytical of individual lives. 
+
+We may expect that the office of gadfly 
+
+to the state, which has been so far a male pre- 
+
+rogative, will now be discharged by women 
+
+also. Their novels will deal with social evils 
+
+and remedies. Their men and women will not be observed wholly in relation to each other 
+
+emotionally, but as they cohere and clash in 
+
+and classes and races. That is one 
+
+change of some importance. But there is an- 
+
+other more interesting to those who prefer the 
+
+butterfly to the gadfly — that is to say, the 
+
+artist to the reformer. The greater imperson- 
+
+ality of women’s lives will encourage the poetic 
+
+spirit, and it is in poetry that women’s fiction 
+
+is still weakest. It will lead them to be less 
+
+absorbed in facts and no longer content to 
+
+record with astonishing acuteness the minute 
+
+details which fall under their own observation. 
+
+They will look beyond the personal and po- 
+
+litical relationships to the wider questions 
+
+which the poet tries to solve — of our destiny 
+
+and the meaning of life. 
+
+The basis of the poetic attitude is of course 
+
+largely founded upon material things. It de- 
+
+pends upon leisure, and a little money, and 
+
+the chance which money and leisure give to 
+
+observe impersonally and dispassionately. With 
+
+money and leisure at their service, women will 
+
+naturally occupy themselves more than has 
+
+hitherto been possible with the craft of letters. 
+
+They will make a fuller and a more subtle use 
+
+of the instrument of writing. Their technique 
+
+will become bolder and richer. 
+
+In the past, the virtue of women’s writing 
+
+often lay in its divine spontaneity, like that of 
+
+the blackbird’s song or the thrush’s. It was 
+
+untaught; it was from the heart. But it was also, and much more often, chattering and 
+
+garrulous — mere talk spilt over paper and left 
+
+to dry in pools and blots. In future, granted 
+
+time and books and a little space in the house 
+
+for herself, literature will become for women, 
+
+as for men, an art to be studied. Women’s 
+
+gift will be trained and strengthened. The 
+
+novel will cease to be the dumping ground for 
+
+the personal emotions. It will become, more 
+
+than at present, a work of art like any other, 
+
+and its resources and its limitations will be 
+
+explored. 
+
+From this it is a short step to the practice of 
+
+the sophisticated arts, hitherto so little prac- 
+
+tised by women — to the writing of essays and 
+
+criticism, of history and biography. And that, 
+
+too, if we are considering the novel, will be of 
+
+advantage; for besides improving the quality 
+
+of the novel itself, it will draw off the aliens 
+
+who have been attracted to fiction by its 
+
+accessibility while their hearts lay elsewhere. 
+
+Thus will the novel be rid of those excrescences 
+
+of history and fact which, in our time, have 
+
+made it so shapeless. 
+
+So, if we may prophesy, women in time to 
+
+come will write fewer novels, but better novels; 
+
+and not novels only, but poetry and criticism 
+
+and history. But in this, to be sure, one is 
+
+looking ahead to that golden, that perhaps 
+
+fabulous age when women will have what 
+
+has so long been denied them — leisure, and 
+
+money, and a room to themselves. 
+
+
+
+## THE MARK ON THE WALL
+
+
+PERHAPS it was the middle of January in the present that I first looked up and saw the mark on the wall. In order to fix a date it is necessary to remember what one saw. So now I think of the fire; the steady film of yellow light upon the page of my book; the three chrysanthemums in the round glass bowl on the mantelpiece. Yes, it must have been the winter time, and we had just finished our tea, for I remember that I was smoking a cigarette when I looked up and saw the mark on the wall for the first time. I looked up through the smoke of my cigarette and my eye lodged for a moment upon the burning coals, and that old fancy of the crimson flag flapping from the castle tower came into my mind, and I thought of the cavalcade of red knights riding up the side of the black rock. Rather to my relief the sight of the mark interrupted the fancy, for it is an old fancy, an automatic fancy, made as a child perhaps. The mark was a small round mark, black upon the white wall, about six or seven inches above the mantelpiece.
+
+How readily our thoughts swarm upon a new object, lifting it a little way, as ants carry a blade of straw so feverishly, and then leave it.… If that mark was made by a nail, it can’t have been for a picture, it must have been for a miniature—the miniature of a lady with white powdered curls, powder-dusted cheeks, and lips like red carnations. A fraud of course, for the people who had this house before us would have chosen pictures in that way—an old picture for an old room. That is the sort of people they were—very interesting people, and I think of them so often, in such queer places, because one will never see them again, never know what happened next. They wanted to leave this house because they wanted to change their style of furniture, so he said, and he was in process of saying that in his opinion art should have ideas behind it when we were torn asunder, as one is torn from the old lady about to pour out tea and the young man about to hit the tennis ball in the back garden of the suburban villa as one rushes past in the train.
+
+But as for that mark, I’m not sure about it; I don’t believe it was made by a nail after all; it’s too big, too round, for that. I might get up, but if I got up and looked at it, ten to one I shouldn’t be able to say for certain; because once a thing’s done, no one ever knows how it happened. Oh! dear me, the mystery of life; The inaccuracy of thought! The ignorance of humanity! To show how very little control of our possessions we have—what an accidental affair this living is after all our civilization—let me just count over a few of the things lost in one lifetime, beginning, for that seems always the most mysterious of losses—what cat would gnaw, what rat would nibble—three pale blue canisters of book-binding tools? Then there were the bird cages, the iron hoops, the steel skates, the Queen Anne coal-scuttle, the bagatelle board, the hand organ—all gone, and jewels, too. Opals and emeralds, they lie about the roots of turnips. What a scraping paring affair it is to be sure! The wonder is that I’ve any clothes on my back, that I sit surrounded by solid furniture at this moment. Why, if one wants to compare life to anything, one must liken it to being blown through the Tube at fifty miles an hour—landing at the other end without a single hairpin in one’s hair! Shot out at the feet of God entirely naked! Tumbling head over heels in the asphodel meadows like brown paper parcels pitched down a shoot in the post office! With one’s hair flying back like the tail of a race-horse. Yes, that seems to express the rapidity of life, the perpetual waste and repair; all so casual, all so haphazard.…
+
+But after life. The slow pulling down of thick green stalks so that the cup of the flower, as it turns over, deluges one with purple and red light. Why, after all, should one not be born there as one is born here, helpless, speechless, unable to focus one’s eyesight, groping at the roots of the grass, at the toes of the Giants? As for saying which are trees, and which are men and women, or whether there are such things, that one won’t be in a condition to do for fifty years or so. There will be nothing but spaces of light and dark, intersected by thick stalks, and rather higher up perhaps, rose-shaped blots of an indistinct colour—dim pinks and blues—which will, as time goes on, become more definite, become—I don’t know what.…
+
+And yet that mark on the wall is not a hole at all. It may even be caused by some round black substance, such as a small rose leaf, left over from the summer, and I, not being a very vigilant housekeeper—look at the dust on the mantelpiece, for example, the dust which, so they say, buried Troy three times over, only fragments of pots utterly refusing annihilation, as one can believe.
+
+The tree outside the window taps very gently on the pane.… I want to think quietly, calmly, spaciously, never to be interrupted, never to have to rise from my chair, to slip easily from one thing to another, without any sense of hostility, or obstacle. I want to sink deeper and deeper, away from the surface, with its hard separate facts. To steady myself, let me catch hold of the first idea that passes.… Shakespeare.… Well, he will do as well as another. A man who sat himself solidly in an arm-chair, and looked into the fire, so— A shower of ideas fell perpetually from some very high Heaven down through his mind. He leant his forehead on his hand, and people, looking in through the open door,—for this scene is supposed to take place on a summer’s evening—But how dull this is, this historical fiction! It doesn’t interest me at all. I wish I could hit upon a pleasant track of thought, a track indirectly reflecting credit upon myself, for those are the pleasantest thoughts, and very frequent even in the minds of modest mouse-coloured people, who believe genuinely that they dislike to hear their own praises. They are not thoughts directly praising oneself; that is the beauty of them; they are thoughts like this:
+
+“And then I came into the room. They were discussing botany. I said how I’d seen a flower growing on a dust heap on the site of an old house in Kingsway. The seed, I said, must have been sown in the reign of Charles the First. What flowers grew in the reign of Charles the First?” I asked—(but, I don’t remember the answer). Tall flowers with purple tassels to them perhaps. And so it goes on. All the time I’m dressing up the figure of myself in my own mind, lovingly, stealthily, not openly adoring it, for if I did that, I should catch myself out, and stretch my hand at once for a book in self-protection. Indeed, it is curious how instinctively one protects the image of oneself from idolatry or any other handling that could make it ridiculous, or too unlike the original to be believed in any longer. Or is it not so very curious after all? It is a matter of great importance. Suppose the looking glass smashes, the image disappears, and the romantic figure with the green of forest depths all about it is there no longer, but only that shell of a person which is seen by other people—what an airless, shallow, bald, prominent world it becomes! A world not to be lived in. As we face each other in omnibuses and underground railways we are looking into the mirror that accounts for the vagueness, the gleam of glassiness, in our eyes. And the novelists in future will realize more and more the importance of these reflections, for of course there is not one reflection but an almost infinite number; those are the depths they will explore, those the phantoms they will pursue, leaving the description of reality more and more out of their stories, taking a knowledge of it for granted, as the Greeks did and Shakespeare perhaps—but these generalizations are very worthless. The military sound of the word is enough. It recalls leading articles, cabinet ministers—a whole class of things indeed which as a child one thought the thing itself, the standard thing, the real thing, from which one could not depart save at the risk of nameless damnation. Generalizations bring back somehow Sunday in London, Sunday afternoon walks, Sunday luncheons, and also ways of speaking of the dead, clothes, and habits—like the habit of sitting all together in one room until a certain hour, although nobody liked it. There was a rule for everything. The rule for tablecloths at that particular period was that they should be made of tapestry with little yellow compartments marked upon them, such as you may see in photographs of the carpets in the corridors of the royal palaces. Tablecloths of a different kind were not real tablecloths. How shocking, and yet how wonderful it was to discover that these real things, Sunday luncheons, Sunday walks, country houses, and tablecloths were not entirely real, were indeed half phantoms, and the damnation which visited the disbeliever in them was only a sense of illegitimate freedom. What now takes the place of those things I wonder, those real standard things? Men perhaps, should you be a woman; the masculine point of view which governs our lives, which sets the standard, which establishes Whitaker’s Table of Precedency, which has become, I suppose, since the war half a phantom to many men and women, which soon—one may hope, will be laughed into the dustbin where the phantoms go, the mahogany sideboards and the Landseer prints, Gods and Devils, Hell and so forth, leaving us all with an intoxicating sense of illegitimate freedom—if freedom exists.…
+
+In certain lights that mark on the wall seems actually to project from the wall. Nor is it entirely circular. I cannot be sure, but it seems to cast a perceptible shadow, suggesting that if I ran my finger down that strip of the wall it would, at a certain point, mount and descend a small tumulus, a smooth tumulus like those barrows on the South Downs which are, they say, either tombs or camps. Of the two I should prefer them to be tombs, desiring melancholy like most English people, and finding it natural at the end of a walk to think of the bones stretched beneath the turf.… There must be some book about it. Some antiquary must have dug up those bones and given them a name.… What sort of a man is an antiquary, I wonder? Retired Colonels for the most part, I daresay, leading parties of aged labourers to the top here, examining clods of earth and stone, and getting into correspondence with the neighbouring clergy, which, being opened at breakfast time, gives them a feeling of importance, and the comparison of arrow-heads necessitates cross-country journeys to the county towns, an agreeable necessity both to them and to their elderly wives, who wish to make plum jam or to clean out the study, and have every reason for keeping that great question of the camp or the tomb in perpetual suspension, while the Colonel himself feels agreeably philosophic in accumulating evidence on both sides of the question. It is true that he does finally incline to believe in the camp; and, being opposed, indites a pamphlet which he is about to read at the quarterly meeting of the local society when a stroke lays him low, and his last conscious thoughts are not of wife or child, but of the camp and that arrowhead there, which is now in the case at the local museum, together with the foot of a Chinese murderess, a handful of Elizabethan nails, a great many Tudor clay pipes, a piece of Roman pottery, and the wine-glass that Nelson drank out of—proving I really don’t know what.
+
+No, no, nothing is proved, nothing is known. And if I were to get up at this very moment and ascertain that the mark on the wall is really—what shall we say?—the head of a gigantic old nail, driven in two hundred years ago, which has now, owing to the patient attrition of many generations of housemaids, revealed its head above the coat of paint, and is taking its first view of modern life in the sight of a white-walled fire-lit room, what should I gain?— Knowledge? Matter for further speculation? I can think sitting still as well as standing up. And what is knowledge? What are our learned men save the descendants of witches and hermits who crouched in caves and in woods brewing herbs, interrogating shrew-mice and writing down the language of the stars? And the less we honour them as our superstitions dwindle and our respect for beauty and health of mind increases.… Yes, one could imagine a very pleasant world. A quiet, spacious world, with the flowers so red and blue in the open fields. A world without professors or specialists or house-keepers with the profiles of policemen, a world which one could slice with one’s thought as a fish slices the water with his fin, grazing the stems of the water-lilies, hanging suspended over nests of white sea eggs.… How peaceful it is drown here, rooted in the centre of the world and gazing up through the grey waters, with their sudden gleams of light, and their reflections—if it were not for Whitaker’s Almanack—if it were not for the Table of Precedency!
+
+I must jump up and see for myself what that mark on the wall really is—a nail, a rose-leaf, a crack in the wood?
+
+Here is nature once more at her old game of self-preservation. This train of thought, she perceives, is threatening mere waste of energy, even some collision with reality, for who will ever be able to lift a finger against Whitaker’s Table of Precedency? The Archbishop of Canterbury is followed by the Lord High Chancellor; the Lord High Chancellor is followed by the Archbishop of York. Everybody follows somebody, such is the philosophy of Whitaker; and the great thing is to know who follows whom. Whitaker knows, and let that, so Nature counsels, comfort you, instead of enraging you; and if you can’t be comforted, if you must shatter this hour of peace, think of the mark on the wall.
+
+I understand Nature’s game—her prompting to take action as a way of ending any thought that threatens to excite or to pain. Hence, I suppose, comes our slight contempt for men of action—men, we assume, who don’t think. Still, there’s no harm in putting a full stop to one’s disagreeable thoughts by looking at a mark on the wall.
+
+Indeed, now that I have fixed my eyes upon it, I feel that I have grasped a plank in the sea; I feel a satisfying sense of reality which at once turns the two Archbishops and the Lord High Chancellor to the shadows of shades. Here is something definite, something real. Thus, waking from a midnight dream of horror, one hastily turns on the light and lies quiescent, worshipping the chest of drawers, worshipping solidity, worshipping reality, worshipping the impersonal world which is a proof of some existence other than ours. That is what one wants to be sure of.… Wood is a pleasant thing to think about. It comes from a tree; and trees grow, and we don’t know how they grow. For years and years they grow, without paying any attention to us, in meadows, in forests, and by the side of rivers—all things one likes to think about. The cows swish their tails beneath them on hot afternoons; they paint rivers so green that when a moorhen dives one expects to see its feathers all green when it comes up again. I like to think of the fish balanced against the stream like flags blown out; and of water-beetles slowly raiding domes of mud upon the bed of the river. I like to think of the tree itself:—first the close dry sensation of being wood; then the grinding of the storm; then the slow, delicious ooze of sap. I like to think of it, too, on winter’s nights standing in the empty field with all leaves close-furled, nothing tender exposed to the iron bullets of the moon, a naked mast upon an earth that goes tumbling, tumbling, all night long. The song of birds must sound very loud and strange in June; and how cold the feet of insects must feel upon it, as they make laborious progresses up the creases of the bark, or sun themselves upon the thin green awning of the leaves, and look straight in front of them with diamond-cut red eyes.… One by one the fibres snap beneath the immense cold pressure of the earth, then the last storm comes and, falling, the highest branches drive deep into the ground again. Even so, life isn’t done with; there are a million patient, watchful lives still for a tree, all over the world, in bedrooms, in ships, on the pavement, lining rooms, where men and women sit after tea, smoking cigarettes. It is full of peaceful thoughts, happy thoughts, this tree. I should like to take each one separately—but something is getting in the way.… Where was I? What has it all been about? A tree? A river? The Downs? Whitaker’s Almanack? The fields of asphodel? I can’t remember a thing. Everything’s moving, falling, slipping, vanishing.… There is a vast upheaval of matter. Someone is standing over me and saying—
+
+“I’m going out to buy a newspaper.”
+
+“Yes?”
+
+“Though it’s no good buying newspapers.… Nothing ever happens. Curse this war; God damn this war!… All the same, I don’t see why we should have a snail on our wall.”
+
+Ah, the mark on the wall! It was a snail.
+
+## 
+
+TEXT SOURCES
+
+[“Modern Fiction”: *The Common Reader*](https://www.gutenberg.org/cache/epub/64457/pg64457-images.html#Modern_Fiction)*.* New York: Harcourt, Brace, and Company, 1925. 
+
+[“Mr. Bennet and Mrs. Brown”: Woolf, Virginia, and Woolf, Leonard, ed. *The Hogarth Essays : B First Series*](< https://en.wikisource.org/wiki/Mr._Bennett_and_Mrs._Brown#cite_ref-1 >)*.* London: Hogarth Press, 1925.
+
+[“On Not Knowing Greek”: *The Common Reader*](https://www.gutenberg.org/cache/epub/64457/pg64457-images.html#Modern_Fiction)*.* New York: Harcourt, Brace, and Company, 1925. 
+
+“How Should One Read a Book?”: *The Yale Review: New Series XVI.* New Haven, CT: Yale University Press, 1927, 32-44. <https://hdl.handle.net/2027/uc1.b4091599> 
+
+“The Narrow Bridge of Art”: 
+
+[“Women and Fiction”: *The Forum* *81*, Issue 3 ](<https://archive.org/details/sim_forum-and-century_1929-03_81_3/page/178/mode/2up >)(1929): 179-183. 
+
+“The Mark on the Wall”: *Monday or Tuesday.* New York: Harcourt, Brace, and Company, 1921. [The Project Gutenberg eBook of Monday Or Tuesday, by Virginia Woolf.](https://www.gutenberg.org/cache/epub/29220/pg29220-images.html#THE_MARK_ON_THE_WALL)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
