@@ -1,5 +1,5 @@
 ---
-title: "A Luminous Halo: Selected Writings "
+title: "A Luminous Halo: Selected Writings by Virginia Woolf"
 publication: 2025-06-30T18:55:00.000Z
 publishformat: Month and year
 release: 1909-05-08T18:55:00.000Z
@@ -23,15 +23,15 @@ theme:
   - LGBTQ+
 lang: en
 description: >-
-  <p>"Life is not a series of gig lamps symmetrically arranged; but a luminous
-  halo, a semi-transparent envelope surrounding us from the beginning of
-  consciousness to the end.”</p>
+  <p><I>"Life is not a series of gig lamps symmetrically arranged; but a
+  luminous halo, a semi-transparent envelope surrounding us from the beginning
+  of consciousness to the end.”</i></p>
 
 
   <p><i>A Luminous Halo</i> presents a small collection of critical writings by a titanic figure in feminist literary history: the one and only Virginia Woolf. From "Modern Fiction" to "How Should One Read a Book," "The Mark on the Wall," and more, these works are essential for any [common] reader hoping to "explore the ideas and challenges that ignited Woolf’s creative imagination—to dig into all the 'proper stuff' of life and art." Here they come together in one volume for the first time, selected and introduced by guest editor JoAnn Borri.</p>
 
 
-  <p>This book is sponsored and created in partnership with The Sitting Room Library in Penngrove, California. Home to the "Woolf Wall," extensive archives related to Woolf and other women writers, and thousands of books, The Sitting Room is dedicated to literature and art by women. The library and archive is open to all and fully searchable via the Sitting Room's online catalogue.</p>
+  <p>This book is sponsored and created in partnership with The Sitting Room Library in Penngrove, California. Home to the "Woolf Wall," extensive archives related to Woolf and other women writers, and thousands of books, The Sitting Room is dedicated to literature and art by women. </p>
 foreword: |-
   <p><b>Foreword, Guest Editor:</b> JoAnn Borri </p>
 
@@ -42,32 +42,35 @@ published: false
 
 I have spent nearly five decades reading and rereading Virginia Woolf—what she wrote, what has been written about her, and what has been written about what she wrote. I cannot get enough. I chase after her words and thoughts with my hair “flying back like the tail of a racehorse,” attempting to grasp her meaning and understand the working of her mind and imagination.
 
-In 1977, I purchased my first Woolf novel, *Mrs. Dalloway*.  It is a “Book of the Month” edition, no introduction, no notes. I had no idea of the worlds within worlds of *Mrs. Dalloway*, nor did I have any grasp of the scope of everything Woolf created in her lifetime. But I was captured and held fast by the rhythm, the musicality, the wit, and poetry within her prose. For the next thirty years, while raising three children and building a career in healthcare regulatory compliance, I continued reading Woolf’s novels and short stories. Then, ten years ago, life presented me with the gift of a teacher and friend in J.J. Wilson: Professor Emerita, Sonoma State University; instrumental in bringing Woolf back into the academic conversation; co-founder of the *[Virginia Woolf Miscellany](<https://virginiawoolfmiscellany.wordpress.com/ >)* and of the [Sitting Room Library](https://sittingroomlibrary.org/). 
+In 1977 I purchased a copy of *Mrs. Dalloway,* my first Woolf novel*.*  It is a “Book of the Month” edition: no introduction, no notes. I had no concept of the worlds within worlds of *Mrs. Dalloway*, nor did I have any grasp of the scope of everything Woolf created in her lifetime. But I was captured and held fast by the rhythm, the musicality, the wit, and poetry within her prose. For the next thirty years, while raising three children and building a career in healthcare regulatory compliance, I continued reading Woolf’s novels and short stories. Then, ten years ago, life presented me with the gift of a teacher and friend in J. J. Wilson: Professor Emerita, Sonoma State University; instrumental in bringing Woolf back into the academic conversation; co-founder of the[ *Virginia Woolf Miscellany*](<https://virginiawoolfmiscellany.wordpress.com/ >) and of [The Sitting Room Library](https://sittingroomlibrary.org/)[](https://sittingroomlibrary.org/). 
 
-The *Virginia Woolf Miscellany (VWM)* was first published in 1973, with the goal of bringing attention to the work of Virginia Woolf and facilitating an ongoing conversation in which scholars, teachers, students, and common readers could learn from one another. What began as a newsletter with a modest circulation has grown over the years. *VWM* is now a sizable journal publishing articles, selected essays from conferences, poems, artwork, and reviews under the guidance of Professor Vara Neverow of Southern Connecticut State University and a dedicated editorial board. 
+ 
 
-The Sitting Room Library, inspired by the Morrison Reading Room at the UC Berkeley University Library, began as a place for people to gather, hold salons, and celebrate the cultural contributions of women artists and writers. The library's collection of books began with donations provided by early visitors and volunteers and has expanded to include over 7,000 titles showcasing feminist writing, art, and thought. 
+The *Virginia Woolf Miscellany* was first published in 1973, with the goal of bringing attention to the work of Virginia Woolf and facilitating an ongoing conversation in which scholars, teachers, students, and common readers could learn from one another. What began as a newsletter with a modest circulation has grown over the years. The *Miscellany* is now a sizable journal publishing articles, selected essays from conferences, poems, artwork, and reviews under the guidance of Professor Vara Neverow of Southern Connecticut State University and a dedicated editorial board. 
 
-When I retired, I began attending events at the Sitting Room, including poetry readings and writing workshops. I was soon invited to join the group of volunteers that keep the library going by serving as librarians, archivists, historians, facilitators, and more.  J.J. offered me the assignment of maintaining the ever-expanding Woolf library collection: the Woolf Wall — a dedicated area of the library that houses nearly 600 books by and about Virginia Woolf alongside all 101 issues of the *VWM*.  In the Archives you will find endless treasures, such as set directions for a dramatic reading of The Waves, presented at the 1974 Virginia Woolf Symposium at University of California Santa Cruz; photocopies of notes and illustrations from Virginia Woolf’s notebooks for *Three Guineas* taken on a trip long ago to Monks House; and documents, articles, essays, and correspondence from Woolf scholars and readers collected over the past fifty years.
+The Sitting Room Library, inspired by the Morrison Reading Room at the UC Berkeley University Library, began as a place for people to gather, hold salons, and celebrate the cultural contributions of women artists and writers. The library's collection of books began with donations provided by early visitors and volunteers and has expanded to include over 7,000 titles showcasing feminist writing, art, and thought. 
 
-The Woolf Wall is a mecca for lovers of Woolf, providing exposure to and immersion in the numerous biographies and critical studies of Woolf’s writing.  As I took on my new responsibilities as the curator of the Woolf Wall, I read several biographies including *Virginia Woolf* by Hermione Lee and *Virginia Woolf: A Writer's Life* by Lyndall Gordon. Then I ‘dipped my beak’ into the critical studies, beginning with *The Interrupted Moment: A View of Woolf’s Novels* by Lucio P. Ruotolo, and discovered that the critical studies were very accessible to a “Common Reader” like me. After all, Woolf named two collections after the common reader, and Woolf scholars, like Woolf, share a respect for readers who are not scholars or critics but read for themselves. 
+When I retired, I began attending events at the Sitting Room, including poetry readings and writing workshops. I was soon invited to join the group of volunteers that keep the library going by serving as librarians, archivists, historians, facilitators, and more. J.J. offered me the assignment of maintaining the ever-expanding Woolf  collection: the Woolf Wall — a dedicated area of the library that houses nearly 600 books by and about Virginia Woolf alongside all 101 issues of the *Miscellany.*  In the Woolf Archives you will find endless treasures, such as set directions for a dramatic reading of *The Waves*, presented at the 1974 Virginia Woolf Symposium at University of California Santa Cruz; photocopies of notes and illustrations from Virginia Woolf’s notebooks for *Three Guineas* taken when on a trip long ago to Monks House; and documents, articles, essays, and correspondence from Woolf scholars and readers collected over the past fifty years.
 
-As the books and essays piled up on my shelves and my notes accumulated in unruly piles, it occurred to me that a select few of the numerous essays and short stories written by Woolf were frequently referenced by scholars. I have at least one, if not several, copies of books cthat containthese specific works —*The Common Reader*, *Granite and Rainbow*, and *The Death of the Moth*, etc.— on my shelves. But I wanted to have them all in one volume, to move uninterrupted through Woolf’s imagination, chase her thoughts, capture them in my heart and mind and experience the rapture of grasping life, if only for a moment.  One day, I made a list of these essential writings, which has become the table of contents of this modest collection.
+The Woolf Wall is a mecca for lovers of Woolf, providing exposure to and immersion in the numerous biographies and critical studies of Woolf’s writing.  As I took on my new responsibilities as its curator, I read several biographies including *Virginia Woolf* by Hermione Lee and *Virginia Woolf: A Writer's Life*, by Lyndall Gordon. Then I "dipped my beak" into the critical studies, beginning with *The Interrupted Moment: A View of Woolf’s Novels* by Lucio P. Ruotolo, and discovered that they were very accessible to a “common reader” like me. After all, Woolf named two collections after the common reader, and Woolf scholars, like Woolf, share a respect for readers who are not scholars or critics but read for themselves. 
 
-There is much to gain from spending time tracing the lines of thought that led Woolf to distill so much truth into her fiction.  In “Modern Fiction,” which Mark Hussey, in his so-useful Virginia Woolf A-Z, cites as Woolf’s best known and most oft-quoted essay, Woolf examines the notion that the current great novels do not reflect ‘life itself.’ She implores writers to escape from the previous forms of the novel in search of models that can capture something real, writing:
+As books piled up on my shelves and my notes accumulated in unruly piles, it occurred to me that a select few of the numerous essays and short stories written by Woolf were frequently referenced by scholars. I have at least one, if not several, copies of books that contain these specific works —*The Common Reader*, *Granite and Rainbow*, and *The Death of the Moth*, etc. — on my shelves. But I wanted to have them all in one volume, to move uninterrupted through Woolf’s imagination, chase her thoughts, capture them in my heart and mind and experience the rapture of grasping life, if only for a moment.  One day I made a list of these essential writings, which has become the table of contents of this modest collection.
 
-> \
-> Life is not a series of gig lamps symmetrically arranged; but a luminous halo, a semi-transparent envelope surrounding us from the beginning of consciousness to the end. Is it not the task of the novelist to convey this varying, this unknown and uncircumscribed spirit, whatever aberration or complexity it may display, with as little mixture of the alien and external as possible?
+There is much to gain from spending time tracing the lines of thought that led Woolf to distill so much truth into her fiction.  In “Modern Fiction,” which Mark Hussey in his so-useful *Virginia Woolf A-Z* cites as Woolf’s best known and most oft-quoted essay, she examines the notion that the current great novels do not reflect ‘life itself.’ She implores writers to escape from the previous forms of the novel in search of models that can capture something real, writing:  
 
-Given what we know about how Woolf and other women writers continue to be criticized for the subjects they write about, the essay ends with the prescient statement: ‘The proper stuff of fiction’ does not exist; everything is the proper stuff of fiction.’”    
+> *“Life is not a series of gig lamps symmetrically arranged; but a luminous halo, a semi-transparent envelope surrounding us from the beginning of consciousness to the end. Is it not the task of the novelist to convey this varying, this unknown and uncircumscribed spirit, whatever aberration or complexity it may display, with as little mixture of the alien and external as possible?”*
 
-In each of these works, readers can join Woolf in exploring a range of ideas and approaches to the novel and what she is trying to accomplish with her own writing.  Often referred to as ‘one of the most influential manifestos of literary modernism,’ the essay “Mr. Bennett and Mrs. Brown” looks at how character-making is evolving as an essential literary function. Woolf asserts a need to move away from minute outside details, questioning the notion of how best to express character in fiction and the meaning of ‘reality.’  And I take  great comfort in the advice Woolf gives in “How Should One Read A Book” which is to take no advice and follow your own instincts. 
+Given what we know about how Woolf and other women writers continue to be criticized for the subjects they write about, the essay ends with the prescient statement: “‘The proper stuff of fiction’ does not exist; everything is the proper stuff of fiction...”    
 
-This collection ends not with an essay, but a short story—the first Woolf ever published, and published by her own Hogarth Press. In a letter to Ethel Smyth, (16 October 1930), Woolf writes: ‘I shall never forget the day I wrote The Mark on the Wall – all in a flash, as if flying …’  Reading “The Mark on the Wall” taught me  ‘how to read Woolf,’ and indeed, how to read, in general.  Taking cues from “How Should One Read A Book,” when I read, I let the story take me where the story is going, open my mind as wide as possible and, “try to become him {the author}.”  With Woolf’s guidance, I am a “fellow-worker and accomplice” to the writers whose worlds I enter.     
+In each of these works, readers can join Woolf in exploring a range of ideas and approaches to the novel and what she is trying to accomplish with her own writing.  Often referred to as "one of the most influential manifestos of literary modernism," the essay “Mr. Bennett and Mrs. Brown” looks at how character-making is evolving as an essential literary function. Woolf asserts a need to move away from minute outside details, questioning the notion of how best to express character in fiction and the meaning of "reality."  
 
-My hope is that this selection of Woolf’s writings will be a welcome addition to the shelves of those who want to explore the ideas and challenges that ignited Woolf’s creative imagination—to dig into all the “proper stuff” of life and art.
+I take great comfort in the advice Woolf gives in “How Should One Read A Book?” which is to take *no* advice and follow your own instincts. Now when I read, I let the story take me where the story is going, open my mind as wide as possible and, “try to become \[the author].”  With Woolf’s guidance, I am a “fellow-worker and accomplice” to the writers whose worlds I enter.     
 
-One of the themes explored in Woolf’s most famous nonfiction work, *A Room of One’s Own*, and in some of the works collected here, is the issue of access.  Access to knowledge, information, and education. Between 1922 and 1938 Woolf published seven novels, one biography, the book-length essays *A Room of One’s Own* and *Three Guineas*, and two collections of essays.  Over the next ten years, Woolf’s work will continue to move into the public domain in more countries, increasing awareness and expanding access to her canon. I am certain that Woolf would be pleased with this project created by a Common Reader and made available to Common Readers via Cita Press, a library open to all with no barriers or closed doors to keep anyone out.
+This collection ends not with an essay, but a short story—the first Woolf ever published, and published by her own Hogarth Press. In a 1930 letter to Ethel Smyth, Woolf writes: "I shall never forget the day I wrote The Mark on the Wall – all in a flash, as if flying …"  Reading “The Mark on the Wall” taught me "how to read Woolf," and indeed, how to read, in general.  
+
+My hope is that this selection of Woolf’s writings will be a welcome addition to the shelves of those who want to explore the ideas and challenges that ignited Woolf’s creative imagination—to dig into all "the proper stuff” of life and art.
+
+One of the themes explored in Woolf’s most famous nonfiction work, *A Room of One’s Own,* and in some of the works collected here, is the issue of access.  Access to knowledge, information, and education. Between 1915  and 1941 Woolf published seven novels, *The Voyage Out* (1915), *Night and Day* (1919), *Jacob’s Room* (1922), *Mrs. Dalloway* (1925), *To the Lighthouse* (1927), *The Waves* (1931), and *Between the Acts* (1941 published posthumously), three biographies—two "faux" biographies, *Orlando: A Biography (*1928) and *Flush: A Biography* (1931), and Roger Fry: A Biography (1940) which is a real biography, the book-length essays *A Room of One’s Own* (1929) and *Three Guineas* (1938), and two collections of essays.  Over the next ten years, Woolf’s work will continue to move into the public domain in more countries, increasing awareness and expanding access to her canon. I am certain that Woolf would be pleased with this project created by a common reader and made available to other common readers via Cita Press, a library open to all with no barriers or closed doors to keep anyone out. 
 
  —**JOANN BORRI**, 2025
 
@@ -201,7 +204,7 @@ But do not expect just at present a complete and satisfactory presentment of her
 
 *A paper read to the Heretics, Cambridge, on May 18, 1924.*
 
-## On Not Knowing Greek
+## ON NOT KNOWING GREEK
 
 For it is vain and foolish to talk of Knowing Greek, since in our ignorance we should be at the bottom of any class of schoolboys, since we do not know how the words sounded, or where precisely we ought to laugh, or how the actors acted, and between this foreign people and ourselves there is not only difference of race and tongue but a tremendous breach of tradition. All the more strange, then, is it that we should wish to know Greek, try to know Greek, feel for ever drawn back to Greek, and be for ever making up some notion of the meaning of Greek, though from what incongruous odds and ends, with what slight resemblance to the real meaning of Greek, who shall say?
 
@@ -285,8 +288,7 @@ These are all difficulties, sources of misunderstanding, of distorted and romant
 
 The *Odyssey* is merely a story of adventure, the instinctive story-telling of a sea-faring race. So we may begin it, reading quickly in the spirit of children wanting amusement to find out what happens next. But here is nothing immature; here are full-grown people, crafty, subtle, and passionate. Nor is the world itself a small one, since the sea which separates island from island has to be crossed by little hand-made boats and is measured by the flight of the sea-gulls. It is true that the islands are not thickly populated, and the people, though everything is made by hand, are not closely kept at work. They have had time to develop a very dignified, a very stately society, with an ancient tradition of manners behind it, which makes every relation at once orderly, natural, and full of reserve. Penelope crosses the room; Telemachus goes to bed; Nausicaa washes her linen; and their actions seem laden with beauty because they do not know that they are beautiful, have been born to their possessions, are no more self-conscious than children, and yet, all those thousands of years ago, in their little islands, know all that is to be known. With the sound of the sea in their ears, vines, meadows, rivulets about them, they are even more aware than we are of a ruthless fate. There is a sadness at the back of life which they do not attempt to mitigate. Entirely aware of their own standing in the shadow, and yet alive to every tremor and gleam of existence, there they endure, and it is to the Greeks that we turn when we are sick of the vagueness, of the confusion, of the Christianity and its consolations, of our own age.
 
-## **How Should One Read a Book?**
-
+## **HOW SHOULD ONE READ A BOOK?**
 
  *A paper read at a school.*
 
@@ -306,76 +308,52 @@ But also we can read such books with another aim, not to throw light on literatu
 
 But we tire of rubbish-reading in the long run. We tire of searching for what is needed to complete the half-truth which is all that the Wilkinsons, the Bunburys, and the Maria Allens are able to offer us. They had not the artist's power of mastering and eliminating; they could not tell the whole truth even about their own lives; they have disfigured the story that might have been so shapely. Facts are all that they can offer us, and facts are a very inferior form of fiction. Thus the desire grows upon us to have done with half-statements and approximations; to cease from searching out the minute shades of human character, to enjoy the greater abstractness, the purer truth of fiction. Thus we create the mood, intense and generalised, unaware of detail, but stressed by some regular, recurrent beat, whose natural expression is poetry; and that is the time to read poetry...when we are almost able to write it.
 
->  
->
 > Western wind, when wilt thou blow?
 >  The small rain down can rain.
 >  Christ, if my love were in my arms,
 >  And I in my bed again!
 
- 
-
 The impact of poetry is so hard and direct that for the moment there is no other sensation except that of the poem itself. What profound depths we visit then—how sudden and complete is our immersion! There is nothing here to catch hold of; nothing to stay us in our flight. The illusion of fiction is gradual; its effects are prepared; but who when they read these four lines stops to ask who wrote them, or conjures up the thought of Donne's house or Sidney's secretary; or enmeshes them in the intricacy of the past and the succession of generations? The poet is always our contemporary. Our being for the moment is centred and constricted, as in any violent shock of personal emotion. Afterwards, it is true, the sensation begins to spread in wider rings through our minds; remoter senses are reached; these begin to sound and to comment and we are aware of echoes and reflections. The intensity of poetry covers an immense range of emotion. We have only to compare the force and directness of
 
- 
-
-I shall fall like a tree, and find my grave,
- Only remembering that I grieve,
-
- 
+> I shall fall like a tree, and find my grave,
+>  Only remembering that I grieve,
 
 with the wavering modulation of
 
- 
-
-Minutes are numbered by the fall of sands,
- As by an hour glass; the span of time
- Doth waste us to our graves, and we look on it;
- An age of pleasure, revelled out, comes home
- At last, and ends in sorrow; but the life,
- Weary of riot, numbers every sand,
- Wailing in sighs, until the last drop down,
- So to conclude calamity in rest,
-
- 
+> Minutes are numbered by the fall of sands,
+>  As by an hour glass; the span of time
+>  Doth waste us to our graves, and we look on it;
+>  An age of pleasure, revelled out, comes home
+>  At last, and ends in sorrow; but the life,
+>  Weary of riot, numbers every sand,
+>  Wailing in sighs, until the last drop down,
+>  So to conclude calamity in rest,
 
 or place the meditative calm of
 
- 
-
-whether we be young or old,
- Our destiny, our being's heart and home,
- Is with infinitude, and only there;
- With hope it is, hope that can never die,
- Effort, and expectation, and desire,
- And something evermore about to be,
-
- 
+> whether we be young or old,
+>  Our destiny, our being's heart and home,
+>  Is with infinitude, and only there;
+>  With hope it is, hope that can never die,
+>  Effort, and expectation, and desire,
+>  And something evermore about to be,
 
 beside the complete and inexhaustible loveliness of
 
- 
-
-The moving Moon went up the sky,
- And nowhere did abide:
- Softly she was going up,
- And a star or two beside—
-
- 
+> The moving Moon went up the sky,
+>  And nowhere did abide:
+>  Softly she was going up,
+>  And a star or two beside—
 
 or the splendid fantasy of
 
- 
-
-And the woodland haunter
- Shall not cease to saunter
- When, far down some glade,
- Of the great world's burning,
- One soft flame upturning
- Seems, to his discerning,
- Crocus in the shade,
-
- 
+> And the woodland haunter
+>  Shall not cease to saunter
+>  When, far down some glade,
+>  Of the great world's burning,
+>  One soft flame upturning
+>  Seems, to his discerning,
+>  Crocus in the shade,
 
 to bethink us of the varied art of the poet; his power to make us at once actors and spectators; his power to run his hand into character as if it were a glove, and be Falstaff or Lear; his power to condense, to widen, to state, once and for ever.
 
