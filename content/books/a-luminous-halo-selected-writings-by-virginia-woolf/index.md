@@ -1234,7 +1234,7 @@ TEXT SOURCES
 
 [“On Not Knowing Greek”: *The Common Reader*](https://www.gutenberg.org/cache/epub/64457/pg64457-images.html#Modern_Fiction)*.* New York: Harcourt, Brace, and Company, 1925. 
 
-“How Should One Read a Book?”: *The Yale Review: New Series XVI.* New Haven, CT: Yale University Press, 1927, 32-44. <https://hdl.handle.net/2027/uc1.b4091599> 
+[“How Should One Read a Book?”: *The Yale Review: New Series XVI*](<https://hdl.handle.net/2027/uc1.b4091599 >)*.* New Haven, CT: Yale University Press, 1927, 32-44. 
 
 “The Narrow Bridge of Art”: 
 
