@@ -348,10 +348,6 @@ If the moralists ask us how we can justify our love of reading, we can make use 
 I
 
 >
->
->
->
->
 
 \---
 
@@ -453,7 +449,7 @@ Ah, the mark on the wall! It was a snail.
 
 ## BIBLIOGRAPHY & FURTHER READING
 
-*Find links and related items at the[ Are.na channel ](https://www.are.na/cita-press/woolf-2qgujsnjbn4)for this book.*
+*Find links and related items at the[ Are.na channel ](https://www.are.na/cita-press/a-luminous-halo)for this book.*
 
 Gordon, Lyndall. *Virginia Woolf : A Writer’s Life*. \[3rd ed.]. New York: Norton, 1984. 
 
@@ -467,11 +463,9 @@ Ruotolo, Lucio P. *The Interrupted Moment : A View of Virginia Woolf’s Novels*
 
 “The Evolution of the *Virginia Woolf Miscellany*," special issue edited by J. J. Wilson, Vara Neverow, and Alec Pollak. *Virginia Woolf Miscellany,* no.100 (Spring/Summer 2023). https://virginiawoolfmiscellany.wordpress.com/virginia-woolf-miscellany-issue-100-spring-summer-2023/
 
-
-
 ##### BY VIRGINIA WOOLF
 
-<small>*Works by Woolf published before January 1, 1930 are currently in the public domain in the United States. Works published after that date are in the public domain in the United Kingdom and other countries where copyright expires seventy years after the author's death. The Are.na channel for this book includes resources housing Woolf's work online.*</small> 
+<small>*Works by Woolf published before January 1, 1930 are currently in the public domain in the United States. Works published after that date are in the public domain in the United Kingdom and other countries where copyright expires seventy years after the author's death. The [Are.na channel](https://www.are.na/cita-press/a-luminous-halo) for this book includes resources housing Woolf's work online.*</small> 
 
  *The Voyage Out*. London: Duckworth & Co., 1915.
 
@@ -512,8 +506,6 @@ Ruotolo, Lucio P. *The Interrupted Moment : A View of Virginia Woolf’s Novels*
 *Moments of Being*. United Kingdom: Harcourt Brace Jovanovich, 1985.
 
 ## ACKNOWLEDGEMENTS
-
-
 
 ## TEXT SOURCES
 
