@@ -1,8 +1,8 @@
 ---
 title: "A Luminous Halo: Selected Writings by Virginia Woolf"
 publication: 2025-06-30T18:55:00.000Z
-publishformat: Month and year
-release: 1909-05-08T18:55:00.000Z
+publishformat: Year
+release: 1929-01-10T10:55:00.000Z
 releaseformat: Year
 templateKey: book-page
 author: Virginia Woolf
