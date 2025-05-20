@@ -37,7 +37,7 @@ foreword: >-
   at the Sitting Room Library in Penngrove, CA. </p> 
 
 
-  <p><b>Cover:</b> Mariana Matos is the Communications and Design Coordinator for Cita Press. 
+  <p><b>Cover:</b> Mariana Matos is the Communications & Design Coordinator for Cita Press. 
 published: false
 ---
 ## ACKNOWLEDGEMENTS
