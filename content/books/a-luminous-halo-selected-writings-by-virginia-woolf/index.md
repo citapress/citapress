@@ -471,7 +471,7 @@ Ruotolo, Lucio P. *The Interrupted Moment : A View of Virginia Woolf’s Novels*
 
 ##### BY VIRGINIA WOOLF
 
-*Works by Woolf published before January 1, 1930 are currently in the public domain in the United States. Works published after that date are in the public domain in the United Kingdom and other countries where copyright expires seventy years after the author's death.* 
+<small>*Works by Woolf published before January 1, 1930 are currently in the public domain in the United States. Works published after that date are in the public domain in the United Kingdom and other countries where copyright expires seventy years after the author's death. The Are.na channel for this book includes resources housing Woolf's work online.*</small> 
 
  *The Voyage Out*. London: Duckworth & Co., 1915.
 
