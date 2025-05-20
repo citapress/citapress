@@ -31,13 +31,23 @@ description: >-
   <p><i>A Luminous Halo</i> presents a small collection of critical writings by a titanic figure in feminist literary history: the one and only Virginia Woolf. From "Modern Fiction" to "How Should One Read a Book," "The Mark on the Wall," and more, these works are essential for any [common] reader hoping to "explore the ideas and challenges that ignited Woolf’s creative imagination—to dig into all the 'proper stuff' of life and art." Here they come together in one volume for the first time, selected and introduced by guest editor JoAnn Borri.</p>
 
 
-  <p>This book is sponsored and created in partnership with The Sitting Room Library in Penngrove, California. Home to the "Woolf Wall," extensive archives related to Woolf and other women writers, and thousands of books, The Sitting Room is dedicated to literature and art by women. </p>
+  <p>This book is sponsored by and created in partnership with The Sitting Room Library in Penngrove, California. Home to the "Woolf Wall," extensive archives related to Woolf and other women writers, and thousands of books, The Sitting Room is dedicated to literature and art by women. </p>
 foreword: |-
   <p><b>Foreword, Guest Editor:</b> JoAnn Borri </p>
 
   <p><b>Cover:</b> Mariana Matos
 published: false
 ---
+## ACKNOWLEDGEMENTS
+
+*This book was sponsored by and created in partnership with The Sitting Room Library in Penngrove, California. Special thanks to J.J. Wilson, Karen Petersen, and Raye Lynn Thomas, as well as Vara Neverow of the* Virginia Woolf Miscellany.
+
+*This work was made possible by the support of Cita's fiscal sponsor, Educopia.* 
+
+*JoAnn Borri, curator of the Woolf Wall at The Sitting Room Library, is a guest editor of this collection.* 
+
+*JOANN'S ACKNOWLEDGEMENTs*
+
 ## FOREWORD
 
 I have spent nearly five decades reading and rereading Virginia Woolf—what she wrote, what has been written about her, and what has been written about what she wrote. I cannot get enough. I chase after her words and thoughts with my hair “flying back like the tail of a racehorse,” attempting to grasp her meaning and understand the working of her mind and imagination.
@@ -225,9 +235,7 @@ That is the quality that first strikes us in Greek literature, the lightning-qui
 
 Sophocles would take the old story of Electra, for instance, but would at once impose his stamp upon it. Of that, in spite of our weakness and distortion, what remains visible to us? That his genius was of the extreme kind in the first place; that he chose a design which, if it failed, would show its failure in gashes and ruin, not in the gentle blurring of some insignificant detail; which, if it succeeded, would cut each stroke to the bone, would stamp each finger-print in marble. His Electra stands before us like a figure so tightly bound that she can only move an inch this way, an inch that. But each movement must tell to the utmost, or, bound as she is, denied the relief of all hints, repetitions, suggestions, she will be nothing but a dummy, tightly bound. Her words in crisis are, as a matter of fact, bare; mere cries of despair, joy, hate
 
-> οἲ 'γὼ τάλαιν', ὄλωλα τῇδ' ὲν ἡμέρᾀ. 
->
-> παῖσον, εἰ σθένεις, διπλῆν.
+> οἲ 'γὼ τάλαιν', ὄλωλα τῇδ' ὲν ἡμέρᾀ. <br> παῖσον, εἰ σθένεις, διπλῆν.
 
 But these cries give angle and outline to the play. It is thus, with a thousand differences of degree, that in English literature Jane Austen shapes a novel. There comes a moment—"I will dance with you," says Emma—which rises higher than the rest, which, though not eloquent in itself, or violent, or made striking by beauty of language, has the whole weight of the book behind it. In Jane Austen, too, we have the same sense, though the ligatures are much less tight, that her figures are bound, and restricted to a few definite movements. She, too, in her modest, everyday prose, chose the dangerous art where one slip means death.
 
@@ -267,9 +275,7 @@ But we must beware. Socrates did not care for "mere beauty", by which he meant, 
 
 But again (the question comes back and back), Are we reading Greek as it was written when we say this? When we read these few words cut on a tombstone, a stanza in a chorus, the end or the opening of a dialogue of Plato's, a fragment of Sappho, when we bruise our minds upon some tremendous metaphor in the *Agamemnon* instead of stripping the branch of its flowers instantly as we do in reading *Lear*—are we not reading wrongly? losing our sharp sight in the haze of associations? reading into Greek poetry not what they have but what we lack? Does not the whole of Greece heap itself behind every line of its literature? They admit us to a vision of the earth unravaged, the sea unpolluted, the maturity, tried but unbroken, of mankind. Every word is reinforced by a vigour which pours out of olive-tree and temple and the bodies of the young. The nightingale has only to be named by Sophocles and she sings; the grove has only to be called ἄβατον, "untrodden", and we imagine the twisted branches and the purple violets. Back and back we are drawn to steep ourselves in what, perhaps, is only an image of the reality, not the reality itself, a summer's day imagined in the heart of a northern winter. Chief among these sources of glamour and perhaps misunderstanding is the language. We can never hope to get the whole fling of a sentence in Greek as we do in English. We cannot hear it, now dissonant, now harmonious, tossing sound from line to line across a page. We cannot pick up infallibly one by one all those minute signals by which a phrase is made to hint, to turn, to live. Nevertheless it is the language that has us most in bondage; the desire for that which perpetually lures us back. First there is the compactness of the expression. Shelley takes twenty-one words in English to translate thirteen words of Greek.
 
-> πᾶς γοῦν ποιητὴς γίγνεται, κἂν ἄμουσος ᾖ τὸ πρίν, οὗ ἂν Ἕρως 
->
-> ἅψηται
+> πᾶς γοῦν ποιητὴς γίγνεται, κἂν ἄμουσος ᾖ τὸ πρίν, οὗ ἂν Ἕρως <br> ἅψηται
 >
 > . . . For every one, even if before he were ever so undisciplined, becomes a poet as soon as he is touched by love.
 
@@ -279,9 +285,7 @@ Every ounce of fat has been pared off, leaving the flesh firm. Then, spare and b
 
 is not
 
-> ἅτ' ἐν τάφῳ πετραίῳ, 
->
-> αἰ, δακρύεις.
+> ἅτ' ἐν τάφῳ πετραίῳ, <br> αἰ, δακρύεις.
 
 Further, in reckoning the doubts and difficulties there is this important problem—Where are we to laugh in reading Greek? There is a passage in the *Odyssey* where laughter begins to steal upon us, but if Homer were looking we should probably think it better to control our merriment. To laugh instantly it is almost necessary (though Aristophanes may supply us with an exception) to laugh in English. Humour, after all, is closely bound up with a sense of the body. When we laugh at the humour of Wycherley, we are laughing with the body of that burly rustic who was our common ancestor on the village green. The French, the Italians, the Americans, who derive physically from so different a stock, pause, as we pause in reading Homer, to make sure that they are laughing in the right place, and the pause is fatal. Thus humour is the first of the gifts to perish in a foreign tongue, and when we turn from Greek to Elizabethan literature it seems, after a long silence, as if our great age were ushered in by a burst of laughter.
 
@@ -291,7 +295,7 @@ The *Odyssey* is merely a story of adventure, the instinctive story-telling of a
 
 ## **HOW SHOULD ONE READ A BOOK?**
 
-*"How Should One Read a Book?" was adapted, as Woolf puts it, from "a paper read at a school"—a lecture Woolf delivered at Hayes Court Common school in Kent in January 1926. This version was published in October of that same year in* The Yale Review [*(see Text Sources). A different version was later published in* The Common Reader: Second Series](<>) *(1932)*. 
+*"How Should One Read a Book?" was adapted, as Woolf puts it, from "a paper read at a school"—a lecture Woolf delivered at Hayes Court Common school in Kent in January 1926. This version was published in October of that same year in* The Yale Review *[(](<>)see Text Sources). A different version was later published in* The Common Reader: Second Series *(1932)*. 
 
 AT THIS LATE HOUR of the world's history, books are to be found in almost every room of the house—in the nursery, in the drawing room, in the dining room, in the kitchen. But in some houses they have become such a company that they have to be accommodated with a room of their own—a reading room, a library, a study. Let us imagine that we are now in such a room; that it is a sunny room, with windows opening on a garden, so that we can hear the trees rustling, the gardener talking, the donkey braying, the old women gossiping at the pump—and all the ordinary processes of life pursuing the casual irregular way which they have pursued these many hundreds of years. As casually, as persistently, books have been coming together on the shelves. Novels, poems, histories, memoirs, dictionaries, maps, directories; black letter books and brand new books; books in French and Greek and Latin; of all shapes and sizes and values, bought for purposes of research, bought to amuse a railway journey, bought by miscellaneous beings, of one temperament and another, serious and frivolous, men of action and men of letters.
 
