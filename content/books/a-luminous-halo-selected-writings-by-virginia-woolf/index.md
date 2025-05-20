@@ -74,7 +74,6 @@ One of the themes explored in Woolf’s most famous nonfiction work, *A Room of 
 
 [^1]: Letter from Virginia Woolf to Ethel Smyth, October 16, 1930. *A Reflection of the Other Person: Collected Letters IV, 1929-31* (London: The Hogarth Press, 1981), 231.
 
-
 - - -
 
 ## MODERN FICTION
@@ -434,7 +433,57 @@ Ah, the mark on the wall! It was a snail.
 
 - - -
 
-TEXT SOURCES
+## BIBLIOGRAPHY & FURTHER READING
+
+Gordon, Lyndall. *Virginia Woolf : A Writer’s Life*. \[3rd ed.]. New York: Norton, 1984. 
+
+Lee, Hermione. *Virginia Woolf.* New York: Knopf, 1997. https://archive.org/details/virginiawoolf0000leeh/mode/2up
+
+Hollis, Catherine W. "A Library One Can Eat In." *Virginia Woolf Miscellany,* no. 95 (Spring/Summer 2019), 31. https://virginiawoolfmiscellany.wordpress.com/virginia-woolf-miscellany-issue-95-spring-summer-2019/
+
+Hussey, Mark. *Virginia Woolf A to Z : A Comprehensive Reference for Students, Teachers, and Common Readers to Her Life, Work, and Critical Reception*. New York: Oxford University Press,1995. https://archive.org/details/virginiawoolftoz00huss.
+
+Ruotolo, Lucio P. *The Interrupted Moment : A View of Virginia Woolf’s Novels*. Stanford, California: Stanford University Press, 1986. 
+
+“The Evolution of the *Virginia Woolf Miscellany*," edited by J. J. Wilson, Vara Neverow, and Alec Pollak. *Virginia Woolf Miscellany,* no.100 (Spring/Summer 2023). https://virginiawoolfmiscellany.wordpress.com/virginia-woolf-miscellany-issue-100-spring-summer-2023/
+
+#### By Virginia Woolf
+
+*Works by Woolf published before January 1, 1930 are currently in the public domain in the United States. Works published after that date are in the public domain in the United Kingdom and other countries where copyright expires seventy years after the author's death.* 
+
+ *The Voyage Out* (1915)
+
+ *Night and Day* (1919)
+
+*Jacob’s Room* (1922)
+
+ *Mrs. Dalloway* (1925)
+
+*The Common Reader.* New York: Harcourt, Brace & Company, 1925. https://www.gutenberg.org/cache/epub/64457/pg64457-images.html#On_Not_Knowing_Greek
+
+*To the Lighthouse* (1927)
+
+*Orlando: A Biography (*1928)
+
+*A Room of One’s Own* (1929)  
+
+*The Waves* (1931)
+
+*Flush: A Biography* (1931)
+
+*The Common Reader, Second Series.* (1932)
+
+*Three Guineas* (1938)
+
+*Roger Fry: A Biography* (1940)
+
+*Between the Acts* (1941)
+
+## ACKNOWLEDGEMENTS
+
+
+
+## TEXT SOURCES
 
 [“Modern Fiction”: *The Common Reader*](https://www.gutenberg.org/cache/epub/64457/pg64457-images.html#Modern_Fiction)*.* New York: Harcourt, Brace, and Company, 1925. 
 
@@ -442,9 +491,9 @@ TEXT SOURCES
 
 [“On Not Knowing Greek”: *The Common Reader*](https://www.gutenberg.org/cache/epub/64457/pg64457-images.html#Modern_Fiction)*.* New York: Harcourt, Brace, and Company, 1925. 
 
-[“How Should One Read a Book?”: *The Yale Review: New Series XVI*](<https://hdl.handle.net/2027/uc1.b4091599 >)*.* New Haven, CT: Yale University Press, 1927, 32-44. 
+[“How Should One Read a Book?”: *The Yale Review: New Series XVI*](<https://hdl.handle.net/2027/uc1.b4091599 >)*.* New Haven, CT: Yale University Press, 1927, 32-44.
 
-“The Narrow Bridge of Art”: 
+"Poetry, Fiction, and the Future" \["The Narrow Bridge of Art"]. *New York Herald Tribune* (New York, NY), August 14 & 21, 1927. 
 
 [“Women and Fiction”: *The Forum* *81*, Issue 3 ](<https://archive.org/details/sim_forum-and-century_1929-03_81_3/page/178/mode/2up >)(1929): 179-183. 
 
