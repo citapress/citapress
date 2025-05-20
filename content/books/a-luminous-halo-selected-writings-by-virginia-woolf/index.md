@@ -33,8 +33,8 @@ description: >-
 
   <p>This book is sponsored by and created in partnership with The Sitting Room Library in Penngrove, California. Home to the "Woolf Wall," extensive archives related to Woolf and other women writers, and thousands of books, The Sitting Room is dedicated to literature and art by women. </p>
 foreword: >-
-  <p><b>Foreword, Guest Editor:</b> JoAnn Borri </p> is the curator of the Woolf
-  Wall at the Sitting Room Library in Penngrove, Ca.
+  <p><b>Foreword, Guest Editor:</b> JoAnn Borri is the curator of the Woolf Wall
+  at the Sitting Room Library in Penngrove, CA. </p> 
 
 
   <p><b>Cover:</b> Mariana Matos is the Communications and Design Coordinator for Cita Press. 
