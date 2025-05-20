@@ -78,7 +78,7 @@ This collection ends not with an essay, but a short story—the first Woolf ever
 
 My hope is that this selection of Woolf’s writings will be a welcome addition to the shelves of those who want to explore the ideas and challenges that ignited Woolf’s creative imagination—to dig into all "the proper stuff” of life and art.
 
-One of the themes explored in Woolf’s most famous nonfiction work, *A Room of One’s Own,* and in some of the works collected here, is the issue of access.  Access to knowledge, information, and education. Between 1915  and 1941 Woolf published seven novels, *The Voyage Out* (1915), *Night and Day* (1919), *Jacob’s Room* (1922), *Mrs. Dalloway* (1925), *To the Lighthouse* (1927), *The Waves* (1931), and *Between the Acts* (1941 published posthumously), three biographies—two "faux" biographies, *Orlando: A Biography* (1928) and *Flush: A Biography* (1931), and *Roger Fry: A Biography* (1940) which is a real biography, the book-length essays *A Room of One’s Own* (1929) and *Three Guineas* (1938), and two collections of essays.  Over the next ten years, Woolf’s work will continue to move into the public domain in more countries, increasing awareness and expanding access to her canon. I am certain that Woolf would be pleased with this project created by a common reader and made available to other common readers via Cita Press, a library open to all with no barriers or closed doors to keep anyone out. 
+One of the themes explored in Woolf’s most famous nonfiction work, *A Room of One’s Own,* and in some of the works collected here, is the issue of access.  Access to knowledge, information, and education. Between 1915  and 1941 Woolf published seven novels, *The Voyage Out* (1915), *Night and Day* (1919), *Jacob’s Room* (1922), *Mrs. Dalloway* (1925), *To the Lighthouse* (1927), *The Waves* (1931), and *Between the Acts* (1941 published posthumously), three biographies—two "faux" biographies, *Orlando: A Biography* (1928) and *Flush: A Biography* (1933), and *Roger Fry: A Biography* (1940) which is a real biography, the book-length essays *A Room of One’s Own* (1929) and *Three Guineas* (1938), and two collections of essays.  Over the next ten years, Woolf’s work will continue to move into the public domain in more countries, increasing awareness and expanding access to her canon. I am certain that Woolf would be pleased with this project created by a common reader and made available to other common readers via Cita Press, a library open to all with no barriers or closed doors to keep anyone out. 
 
  —**JOANN BORRI**, 2025
 
@@ -451,49 +451,63 @@ Ah, the mark on the wall! It was a snail.
 
 ## BIBLIOGRAPHY & FURTHER READING
 
-Gordon, Lyndall. *Virginia Woolf : A Writer’s Life*. \[3rd ed.]. New York: Norton, 1984. 
+*Find links and related items at the[ Are.na channel ](https://www.are.na/cita-press/woolf-2qgujsnjbn4)for this book.*
 
-Lee, Hermione. *Virginia Woolf.* New York: Knopf, 1997. https://archive.org/details/virginiawoolf0000leeh/mode/2up
+Gordon, Lyndall. *Virginia Woolf : A Writer’s Life*. \[3rd ed.]. New York: Norton, 1984. 
 
 Hollis, Catherine W. "A Library One Can Eat In." *Virginia Woolf Miscellany,* no. 95 (Spring/Summer 2019), 31. https://virginiawoolfmiscellany.wordpress.com/virginia-woolf-miscellany-issue-95-spring-summer-2019/
 
-Hussey, Mark. *Virginia Woolf A to Z : A Comprehensive Reference for Students, Teachers, and Common Readers to Her Life, Work, and Critical Reception*. New York: Oxford University Press,1995. https://archive.org/details/virginiawoolftoz00huss.
+Hussey, Mark. *Virginia Woolf A to Z : A Comprehensive Reference for Students, Teachers, and Common Readers to Her Life, Work, and Critical Reception*. New York: Oxford University Press,1995. 
+
+Lee, Hermione. *Virginia Woolf.* New York: Knopf, 1997. 
 
 Ruotolo, Lucio P. *The Interrupted Moment : A View of Virginia Woolf’s Novels*. Stanford, California: Stanford University Press, 1986. 
 
 “The Evolution of the *Virginia Woolf Miscellany*," edited by J. J. Wilson, Vara Neverow, and Alec Pollak. *Virginia Woolf Miscellany,* no.100 (Spring/Summer 2023). https://virginiawoolfmiscellany.wordpress.com/virginia-woolf-miscellany-issue-100-spring-summer-2023/
 
-#### By Virginia Woolf
+
+
+##### BY VIRGINIA WOOLF
 
 *Works by Woolf published before January 1, 1930 are currently in the public domain in the United States. Works published after that date are in the public domain in the United Kingdom and other countries where copyright expires seventy years after the author's death.* 
 
- *The Voyage Out* (1915)
+ *The Voyage Out*. London: Duckworth & Co., 1915.
 
- *Night and Day* (1919)
+ *Night and Day*. London: Duckworth & Co, 1919.
 
-*Jacob’s Room* (1922)
+*Jacob’s Room.* Richmond, England: Leonard and Virginia Woolf at the Hogarth Press, 1922.
 
- *Mrs. Dalloway* (1925)
+ *Mrs. Dalloway.*  London: Published by Leonard and Virginia Woolf at The Hogarth Press,  1925.
 
-*The Common Reader.* New York: Harcourt, Brace & Company, 1925. https://www.gutenberg.org/cache/epub/64457/pg64457-images.html#On_Not_Knowing_Greek
+*The Common Reader.*  London: Published by Leonard and Virginia Woolf at The Hogarth Press, 1925. 
 
-*To the Lighthouse* (1927)
+*To the Lighthouse.* London: Published by Leonard and Virginia Woolf at The Hogarth Press, 1927.
 
-*Orlando: A Biography (*1928)
+*Orlando: A Biography.* London: Published by Leonard and Virginia Woolf at The Hogarth Press,1928.
 
-*A Room of One’s Own* (1929)  
+*A Room of One’s Own.*  London: Published by Leonard and Virginia Woolf at The Hogarth Press,1929. 
 
-*The Waves* (1931)
+*On Being Ill.* London: Published by Leonard and Virginia Woolf at The Hogarth Press,1930.
 
-*Flush: A Biography* (1931)
+*The Waves.*  London: Published by Leonard and Virginia Woolf at The Hogarth Press, 1931.
 
-*The Common Reader, Second Series.* (1932)
+*Flush: A Biography.*  London: Published by Leonard and Virginia Woolf at The Hogarth Press,1933.
 
-*Three Guineas* (1938)
+*The Common Reader, Second Series.*  London: Published by Leonard and Virginia Woolf at The Hogarth Press, 1932.
 
-*Roger Fry: A Biography* (1940)
+*The Years.* London: Published by Leonard and Virginia Woolf at The Hogarth Press, 1937.
 
-*Between the Acts* (1941)
+*Three Guineas.*  London: Published by Leonard and Virginia Woolf at The Hogarth Press, 1938.
+
+*Roger Fry: A Biography.*  London: Published by Leonard and Virginia Woolf at The Hogarth Press, 1940.
+
+*Between the Acts.*  London: Published by Leonard and Virginia Woolf at The Hogarth Press, 1941.
+
+*The Death of the Moth, and Other Essays.*  London: Published by Leonard and Virginia Woolf at The Hogarth Press, 1942.
+
+*Granite and Rainbow.* New York: Harcourt, Brace & Company, 1958.
+
+*Moments of Being*. United Kingdom: Harcourt Brace Jovanovich, 1985.
 
 ## ACKNOWLEDGEMENTS
 
@@ -509,7 +523,7 @@ Ruotolo, Lucio P. *The Interrupted Moment : A View of Virginia Woolf’s Novels*
 
 [“How Should One Read a Book?”: *The Yale Review: New Series XVI*](<https://hdl.handle.net/2027/uc1.b4091599 >)*.* New Haven, CT: Yale University Press, 1927, 32-44.
 
-"Poetry, Fiction, and the Future" \["The Narrow Bridge of Art"]. *New York Herald Tribune* (New York, NY), August 14 & 21, 1927. 
+["Poetry, Fiction, and the Future"](https://www.are.na/block/36852597?blockId=36852597&blockProfileId=cita-press&blockChannelId=woolf-2qgujsnjbn4&mode=Show&intent=title) \["The Narrow Bridge of Art"]. *New York Herald Tribune* (New York, NY), August 14 & 21, 1927. 
 
 [“Women and Fiction”: *The Forum* *81*, Issue 3 ](<https://archive.org/details/sim_forum-and-century_1929-03_81_3/page/178/mode/2up >)(1929): 179-183. 
 
