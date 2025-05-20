@@ -78,7 +78,7 @@ This collection ends not with an essay, but a short story—the first Woolf ever
 
 My hope is that this selection of Woolf’s writings will be a welcome addition to the shelves of those who want to explore the ideas and challenges that ignited Woolf’s creative imagination—to dig into all "the proper stuff” of life and art.
 
-One of the themes explored in Woolf’s most famous nonfiction work, *A Room of One’s Own,* and in some of the works collected here, is the issue of access.  Access to knowledge, information, and education. Between 1915  and 1941 Woolf published seven novels, *The Voyage Out* (1915), *Night and Day* (1919), *Jacob’s Room* (1922), *Mrs. Dalloway* (1925), *To the Lighthouse* (1927), *The Waves* (1931), and *Between the Acts* (1941 published posthumously), three biographies—two "faux" biographies, *Orlando: A Biography (*1928) and *Flush: A Biography* (1931), and Roger Fry: A Biography (1940) which is a real biography, the book-length essays *A Room of One’s Own* (1929) and *Three Guineas* (1938), and two collections of essays.  Over the next ten years, Woolf’s work will continue to move into the public domain in more countries, increasing awareness and expanding access to her canon. I am certain that Woolf would be pleased with this project created by a common reader and made available to other common readers via Cita Press, a library open to all with no barriers or closed doors to keep anyone out. 
+One of the themes explored in Woolf’s most famous nonfiction work, *A Room of One’s Own,* and in some of the works collected here, is the issue of access.  Access to knowledge, information, and education. Between 1915  and 1941 Woolf published seven novels, *The Voyage Out* (1915), *Night and Day* (1919), *Jacob’s Room* (1922), *Mrs. Dalloway* (1925), *To the Lighthouse* (1927), *The Waves* (1931), and *Between the Acts* (1941 published posthumously), three biographies—two "faux" biographies, *Orlando: A Biography* (1928) and *Flush: A Biography* (1931), and *Roger Fry: A Biography* (1940) which is a real biography, the book-length essays *A Room of One’s Own* (1929) and *Three Guineas* (1938), and two collections of essays.  Over the next ten years, Woolf’s work will continue to move into the public domain in more countries, increasing awareness and expanding access to her canon. I am certain that Woolf would be pleased with this project created by a common reader and made available to other common readers via Cita Press, a library open to all with no barriers or closed doors to keep anyone out. 
 
  —**JOANN BORRI**, 2025
 
@@ -109,6 +109,8 @@ The most elementary remarks upon modern English fiction can hardly avoid some me
 - - -
 
 ## MRS. BENNET AND MR. BROWN 
+
+*This is the first essay published under the first Hogarth Essays series by Hogarth Press. It was adapted from a lecture Woolf gave to members of the* *Cambridge Heretics Society. The Hogarth Essays series also published works by Vernon Lee, Gertrude Stein, and others.*
 
 It seems to me possible, perhaps desirable, that I may be the only person in this room who has committed the folly of writing, trying to write, or failing to write, a novel. And when I asked myself, as your invitation to speak to you about modern fiction made me ask myself, what demon whispered in my ear and urged me to my doom, a little figure rose before me—the figure of a man, or of a woman, who said, "My name is Brown. Catch me if you can."
 
@@ -338,6 +340,16 @@ If the moralists ask us how we can justify our love of reading, we can make use 
 \---
 
 ## THE NARROW BRIDGE OF ART
+
+*This is the original form of the essay, published in two parts as "Poetry Fiction and the Future" in the* New York Herald Tribune's *Sunday "Books" section in August 1927. It was later reprinted in the posthumous* Collected Essays by Virginia Woolf (Volume Two). 
+
+I
+
+>
+>
+>
+>
+>
 
 \---
 
