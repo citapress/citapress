@@ -42,7 +42,7 @@ published: false
 ---
 ## ACKNOWLEDGEMENTS
 
-*This book was sponsored by and created in partnership with The Sitting Room Library in Penngrove, California. Special thanks to J.J. Wilson, Karen Petersen, and Raye Lynn Thomas, as well as Vara Neverow of the* Virginia Woolf Miscellany.
+*This book was sponsored by and created in partnership with The Sitting Room Library in Penngrove, California. Special thanks to J.J. Wilson, Karen Petersen, and Raye Lynn Thomas, as well as Vara Neverow of the* Virginia Woolf Miscellany. *We are grateful to Grace French of the Cleveland Public Library and staff at the New York Public Library for assistance in locating original materials.* 
 
 *This work was made possible by the support of Cita's fiscal sponsor, Educopia.* 
 
