@@ -7,8 +7,8 @@ releaseformat: Year
 templateKey: book-page
 author: Virginia Woolf
 isbn: 978-1-961368-21-7
-post_image: https://ucarecdn.com/74e5735f-19d5-4c2d-bc94-29d4f70edf7c/LuminousHalo.png
-square_image: https://ucarecdn.com/292f0b8f-5b03-481e-8c55-f66fafd68a90/LuminousHalo-square.png
+post_image: https://ucarecdn.com/502a7f36-4c69-42c6-a246-ff6deabafff1/Cover.jpeg
+square_image: https://ucarecdn.com/b864390f-aa33-4610-9562-e69bb57a8c36/Square.jpeg
 genre:
   - fiction
   - short-stories
