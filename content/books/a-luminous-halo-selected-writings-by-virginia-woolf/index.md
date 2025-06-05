@@ -48,7 +48,13 @@ published: false
 
 *JoAnn Borri, curator of the Woolf Wall at The Sitting Room Library, is a guest editor and the curator of this collection.* 
 
-*JOANN'S ACKNOWLEDGEMENTs*
+*\---*
+
+*This book would not exist without several friendships for which I am eternally thankful, and the partnership created between the Sitting Room Library and Cita Press. I am forever indebted to J. J. Wilson for the unfettered access to the Woolf Wall and archives, and for expanding and guiding my understanding of the works of Virginia Woolf.  Also, my deepest thanks to Jessi Haley who took seriously my idea of organizing these selected writings into a single collection, and made it happen. Thanks also to Juliana Castro Varón, Mariana Matos and Educopia, and my dear Sitting Room friends who cheered me on as this book was becoming a reality.* 
+
+*And, of course I will be forever grateful for Virginia Woolf herself. Reading Woolf —her novels, essays, diaries, and letters— has filled my mind with thoughts, questions and ideas that have enriched my life.* 
+
+*—JoAnn Borri*
 
 ## FOREWORD
 
@@ -506,8 +512,6 @@ Ruotolo, Lucio P. *The Interrupted Moment : A View of Virginia Woolf’s Novels*
 *Granite and Rainbow.* New York: Harcourt, Brace & Company, 1958.
 
 *Moments of Being*. United Kingdom: Harcourt Brace Jovanovich, 1985.
-
-## ACKNOWLEDGEMENTS
 
 ## TEXT SOURCES
 
