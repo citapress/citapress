@@ -57,6 +57,8 @@ published: false
 
 *—JoAnn Borri*
 
+---
+
 ## FOREWORD
 
 I have spent nearly five decades reading and rereading Virginia Woolf—what she wrote, what has been written about her, and what has been written about what she wrote. I cannot get enough. I chase after her words and thoughts with my hair “flying back like the tail of a racehorse,” attempting to grasp her meaning and understand the working of her mind and imagination.
