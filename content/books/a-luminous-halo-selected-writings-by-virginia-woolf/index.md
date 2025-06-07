@@ -32,6 +32,9 @@ description: >-
 
 
   <p>This book is sponsored by and created in partnership with The Sitting Room Library in Penngrove, California. Home to the "Woolf Wall," extensive archives related to Woolf and other women writers, and thousands of books, The Sitting Room is dedicated to literature and art by women. </p>
+
+
+  <p><i>Cover illustration: "View from the studio at Monk's House" by Mariana Matos</i></p>
 foreword: >-
   <p><b>Foreword, Guest Editor:</b> JoAnn Borri lives in Northern California.
   Her vocations are reading, writing and gardening. She is the curator of the
@@ -39,7 +42,7 @@ foreword: >-
 
 
   <p><b>Cover:</b> Mariana Matos is an interdisciplinary designer based in Detroit, MI. She is the Communications & Design Coordinator for Cita Press. 
-published: false
+published: true
 ---
 ## ACKNOWLEDGEMENTS
 
