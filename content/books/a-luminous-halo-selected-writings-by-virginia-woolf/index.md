@@ -7,7 +7,7 @@ releaseformat: Year
 templateKey: book-page
 author: Virginia Woolf
 isbn: 978-1-961368-21-7
-post_image: https://ucarecdn.com/d901acc2-976d-4286-ba83-115b99f6893d/coming-soon.png
+post_image: https://ucarecdn.com/44bca8c6-4b14-406f-ba4f-70b56bff34b2/woolf-2 (1).png
 square_image: https://ucarecdn.com/c3623c54-6ee0-4e6e-b1d4-da6f5933a767/-/crop/666x601/0,190/-/preview/coming-soon.png
 genre:
   - fiction
