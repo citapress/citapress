@@ -7,8 +7,8 @@ releaseformat: Year
 templateKey: book-page
 author: Virginia Woolf
 isbn: 978-1-961368-21-7
-post_image: https://ucarecdn.com/502a7f36-4c69-42c6-a246-ff6deabafff1/Cover.jpeg
-square_image: https://ucarecdn.com/b864390f-aa33-4610-9562-e69bb57a8c36/Square.jpeg
+post_image: https://ucarecdn.com/d901acc2-976d-4286-ba83-115b99f6893d/coming-soon.png
+square_image: https://ucarecdn.com/c3623c54-6ee0-4e6e-b1d4-da6f5933a767/-/crop/666x601/0,190/-/preview/coming-soon.png
 genre:
   - fiction
   - short-stories
@@ -32,19 +32,14 @@ description: >-
 
 
   <p>This book is sponsored by and created in partnership with The Sitting Room Library in Penngrove, California. Home to the "Woolf Wall," extensive archives related to Woolf and other women writers, and thousands of books, The Sitting Room is dedicated to literature and art by women. </p>
+foreword: >-
+  <p><b>Foreword, Guest Editor:</b> JoAnn Borri lives in Northern California.
+  Her vocations are reading, writing and gardening. She is the curator of the
+  Woolf Wall at the Sitting Room Library in Penngrove, CA.</p> 
 
 
-  <p> <i>Cover illustration: "View from the studio at Monk's House" by Mariana Matos </i></p>
-foreword: >+
-  <p><b>Foreword, Guest Editor:</b> JoAnn Borri is the curator of the Woolf Wall
-  at the Sitting Room Library in Penngrove, CA. </p> 
-
-
-  <p><b>Cover:</b> Mariana Matos is the Communications & Design Coordinator for Cita Press. </p>
-
-
-
-published: true
+  <p><b>Cover:</b> Mariana Matos is an interdisciplinary designer based in Detroit, MI. She is the Communications & Design Coordinator for Cita Press. 
+published: false
 ---
 ## ACKNOWLEDGEMENTS
 
@@ -61,6 +56,8 @@ published: true
 *And, of course I will be forever grateful for Virginia Woolf herself. Reading Woolf —her novels, essays, diaries, and letters— has filled my mind with thoughts, questions and ideas that have enriched my life.* 
 
 *—JoAnn Borri*
+
+---
 
 ## FOREWORD
 
