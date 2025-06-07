@@ -44,7 +44,7 @@ foreword: >-
   <p><b>Cover:</b> Mariana Matos is an interdisciplinary designer based in Detroit, MI. She is the Communications & Design Coordinator for Cita Press. 
 published: true
 ---
-![](https://ucarecdn.com/85d4be0b-1c71-4e1c-8ee5-3f1434185ecd/Sitting Room Logo.jpg "sitting room")
+![]()
 
 ## ACKNOWLEDGEMENTS
 
