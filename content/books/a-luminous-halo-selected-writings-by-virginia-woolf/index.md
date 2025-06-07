@@ -44,6 +44,8 @@ foreword: >-
   <p><b>Cover:</b> Mariana Matos is an interdisciplinary designer based in Detroit, MI. She is the Communications & Design Coordinator for Cita Press. 
 published: true
 ---
+![](https://ucarecdn.com/77c5745b-a5bf-492b-b8ab-be2b9d624393/Sitting Room Logo.png)
+
 ## ACKNOWLEDGEMENTS
 
 *This book was sponsored by and created in partnership with The Sitting Room Library in Penngrove, California. Special thanks to J.J. Wilson, Karen Petersen, and Raye Lynn Thomas, as well as Vara Neverow of the* Virginia Woolf Miscellany. *We are grateful to Grace French of the Cleveland Public Library and staff at the New York Public Library for assistance in gathering original publication materials.* 
@@ -52,7 +54,7 @@ published: true
 
 *JoAnn Borri, curator of the Woolf Wall at The Sitting Room Library, is a guest editor and the curator of this collection.* 
 
----
+- - -
 
 *This book would not exist without several friendships for which I am eternally thankful, and the partnership created between the Sitting Room Library and Cita Press. I am forever indebted to J. J. Wilson for the unfettered access to the Woolf Wall and archives, and for expanding and guiding my understanding of the works of Virginia Woolf.  Also, my deepest thanks to Jessi Haley who took seriously my idea of organizing these selected writings into a single collection, and made it happen. Thanks also to Juliana Castro Varón, Mariana Matos and Educopia, and my dear Sitting Room friends who cheered me on as this book was becoming a reality.* 
 
@@ -60,7 +62,7 @@ published: true
 
 *—JoAnn Borri*
 
----
+- - -
 
 ## FOREWORD
 
