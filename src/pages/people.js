@@ -86,39 +86,7 @@ const PeopleIndex = ({ location, intl }) => {
                   height="auto"
                 />
               </div>
-              <div className="column">
-                <p>
-                  <b>Fabián Ríos</b> is Cita’s Web Developer. Fabián brings
-                  about 11 years of experience as a developer and media artist.
-                  He lives with his wife, children, and dog in Düsseldorf,
-                  Germany.
-                </p>
-              </div>
-            </div>
-            
-  
-            <div className="flex">
-              <div className="column">
-                <img
-                  src="/img/people/daniel.png"
-                  alt="Illustration of Daniel Saldana Paris"
-                  width="150px"
-                  height="auto"
-                />
-              </div>
-              <div className="column">
-                <p>
-                  <b>Daniel Saldaña París</b> is Cita's Literary Translation & Technology Fellow. A writer and translator born in Mexico City, author of three novels and a collection of personal essays. He was a 2022-2023 Cullman Center Fellow at the New York Public Library.
-                </p>
-              </div>
-            </div>
-            <p>
-              <b>
-                <i>Getting Fit</i> consulting team:
-              </b>{" "}
-              Lauren Dapena Fraiz, Katherine Kim, Brandon Locke, Jessica
-              Meyerson
-            </p>
+             
             <hr />
             <p>
               <span className="inside-title">Advisory Board:</span>
@@ -189,6 +157,39 @@ const PeopleIndex = ({ location, intl }) => {
             <p>
               <span className="inside-title">General Contributors:</span>
               <span></span>
+            </p>
+                    <p> <div className="column">
+                <p>
+                  <b>Fabián Ríos</b> is Cita’s Web Developer. Fabián brings
+                  about 11 years of experience as a developer and media artist.
+                  He lives with his wife, children, and dog in Düsseldorf,
+                  Germany.
+                </p>
+              </div>
+            </div>
+            
+  
+            <div className="flex">
+              <div className="column">
+                <img
+                  src="/img/people/daniel.png"
+                  alt="Illustration of Daniel Saldana Paris"
+                  width="150px"
+                  height="auto"
+                />
+              </div>
+              <div className="column">
+                <p>
+                  <b>Daniel Saldaña París</b> is Cita's Literary Translation & Technology Fellow. A writer and translator born in Mexico City, author of three novels and a collection of personal essays. He was a 2022-2023 Cullman Center Fellow at the New York Public Library.
+                </p>
+              </div>
+            </div>
+            <p>
+              <b>
+                <i>Getting Fit</i> consulting team:
+              </b>{" "}
+              Lauren Dapena Fraiz, Katherine Kim, Brandon Locke, Jessica
+              Meyerson
             </p>
             <p>
               <b>Volunteer Web Development Lead:</b>{" "}
