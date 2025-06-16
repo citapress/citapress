@@ -44,7 +44,6 @@ const PeopleIndex = ({ location, intl }) => {
               </div>
             </div>
           
-              </div>
                        <div className="flex">
               <div className="column">
                 <img
@@ -77,16 +76,7 @@ const PeopleIndex = ({ location, intl }) => {
                  is an interdisciplinary designer based in Detroit, MI.
                 </p>
             </div>
-            <div className="flex">
-              <div className="column">
-                <img
-                  src="/img/people/fabian.jpg"
-                  alt="Illustration of Fabián Ríos"
-                  width="150px"
-                  height="auto"
-                />
-              </div>
-             
+           
             <hr />
             <p>
               <span className="inside-title">Advisory Board:</span>
@@ -158,8 +148,18 @@ const PeopleIndex = ({ location, intl }) => {
               <span className="inside-title">General Contributors:</span>
               <span></span>
             </p>
+                     <div className="flex">
+              <div className="column">
+                <img
+                  src="/img/people/fabian.jpg"
+                  alt="Illustration of Fabián Ríos"
+                  width="150px"
+                  height="auto"
+                />
+              </div>
+             
                     <p> <div className="column">
-                <p>
+              
                   <b>Fabián Ríos</b> is Cita’s Web Developer. Fabián brings
                   about 11 years of experience as a developer and media artist.
                   He lives with his wife, children, and dog in Düsseldorf,
