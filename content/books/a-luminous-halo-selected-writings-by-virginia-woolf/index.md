@@ -56,6 +56,8 @@ published: true
 
 ###### Test 6
 
+![The Sitting Room ](https://ucarecdn.com/9a1ea2f3-c663-4151-a78d-06992ae6d436/Sitting Room Logo.jpg "TSRL")
+
 ## ACKNOWLEDGEMENTS
 
 *This book was sponsored by and created in partnership with The Sitting Room Library in Penngrove, California. Special thanks to J.J. Wilson, Karen Petersen, and Raye Lynn Thomas, as well as Vara Neverow of the* Virginia Woolf Miscellany. *We are grateful to Grace French of the Cleveland Public Library and staff at the New York Public Library for assistance in gathering original publication materials.* 
