@@ -3,6 +3,11 @@ title: News
 lang: en
 templateKey: news-page
 ---
+## 2025
+
+* **May 2025 (Event)** Join us at the fifth annual Santa Rosa Zine Fest on May 3 at the Sonoma County Library, North West Branch.
+* **April 2025 (Event)** We are exhibiting at the Other Islands Book Fair from April 26-27, hosted by Pratt Institute's Graduate Communications Design program at the Pratt Student Union in Brooklyn, NY.
+
 ## 2024
 
 * **November 2024 (Event)** Cita Press will be an exhibitor at the inaugural [Off Register Santa Barbara Art Book and Print Fair](https://www.offregistersb.org) on November 16! Join us for this free event, and for our 4 pm presentation on "New Life in the Public Domain." Read more about the fair [here](https://www.independent.com/2024/11/06/book-the-date-for-santa-barbaras-first-art-book-and-print-fair/).
