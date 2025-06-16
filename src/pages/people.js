@@ -43,7 +43,9 @@ const PeopleIndex = ({ location, intl }) => {
                 </p>
               </div>
             </div>
-            <div className="flex">
+          
+              </div>
+                       <div className="flex">
               <div className="column">
                 <img
                   src="/img/people/jessi.png"
@@ -60,6 +62,20 @@ const PeopleIndex = ({ location, intl }) => {
                   <i>Chicago Review</i> and <i>Colloquium Magazine</i>.
                 </p>
               </div>
+                     <div className="flex">
+              <div className="column">
+                <img
+                  src="/img/people/mariana-sketch.png"
+                  alt="Illustration of Mariana Matos"
+                  width="150px"
+                  height="auto"
+                />
+              </div>
+              <div className="column">
+                <p>
+                  <b>Mariana Matos</b> is Cita’s Communications and Design Coordinator. Mariana
+                 is an interdisciplinary designer based in Detroit, MI.
+                </p>
             </div>
             <div className="flex">
               <div className="column">
