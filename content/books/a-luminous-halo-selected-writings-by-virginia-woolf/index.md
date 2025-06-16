@@ -48,13 +48,15 @@ published: false
 
 ## Test 2
 
-### Test 3 
+### Test 3
 
 #### Test 4
 
 ##### Test 5
 
 ###### Test 6
+
+![](https://ucarecdn.com/b9eb6c7d-d9cb-4737-a459-5a42b0fe68df/Sitting-Room-Logo.jpg)
 
 ![TSRL](content/books/a-luminous-halo-selected-writings-by-virginia-woolf/Sitting-Room-Logo.jpg "TSRL")
 
