@@ -55,6 +55,13 @@ module.exports = {
       options: {
         plugins: [
           {
+            resolve: "gatsby-remark-external-links",
+            options: {
+              target: "_blank",
+              rel: "nofollow"
+            }
+          },
+          {
             resolve: `gatsby-remark-table-of-contents`,
             options: {
               tight: true,
