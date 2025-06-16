@@ -58,12 +58,6 @@ published: false
 
 ![The Sitting Room logo, featuring a silhouette of two figures in old-fashioned dresses sitting at a desk, one writing with a quill and one reading](https://ucarecdn.com/b9eb6c7d-d9cb-4737-a459-5a42b0fe68df/Sitting-Room-Logo.jpg "The Sitting Room Logo")
 
-![TSRL](content/books/a-luminous-halo-selected-writings-by-virginia-woolf/Sitting-Room-Logo.jpg "TSRL")
-
-![The Sitting Room ](https://ucarecdn.com/9a1ea2f3-c663-4151-a78d-06992ae6d436/Sitting Room Logo.jpg "TSRL")
-
-![TSRL](static/img/Sitting-Room-Logo.jpg "TSRL")
-
 ## ACKNOWLEDGEMENTS
 
 *This book was sponsored by and created in partnership with The Sitting Room Library in Penngrove, California. Special thanks to J.J. Wilson, Karen Petersen, and Raye Lynn Thomas, as well as Vara Neverow of the* Virginia Woolf Miscellany. *We are grateful to Grace French of the Cleveland Public Library and staff at the New York Public Library for assistance in gathering original publication materials.* 
