@@ -42,7 +42,7 @@ foreword: >-
 
 
   <p><b>Cover:</b> Mariana Matos is an interdisciplinary designer based in Detroit, MI. She is the Communications & Design Coordinator for Cita Press. 
-published: true
+published: false
 ---
 # TEST 1
 
