@@ -64,7 +64,7 @@ const PeopleIndex = ({ location, intl }) => {
                      <div className="flex">
               <div className="column">
                 <img
-                  src="/img/people/mariana-sketch.png"
+                  src="/img/people/mariana-sketch.jpg"
                   alt="Illustration of Mariana Matos"
                   width="150px"
                   height="auto"
