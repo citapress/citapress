@@ -56,7 +56,8 @@ published: false
 
 ###### Test 6
 
-![The Sitting Room logo, featuring a silhouette of two figures in old-fashioned dresses sitting at a desk, one writing with a quill and one reading](https://ucarecdn.com/b9eb6c7d-d9cb-4737-a459-5a42b0fe68df/Sitting-Room-Logo.jpg "The Sitting Room Logo")
+![TSRL](content/books/a-luminous-halo-selected-writings-by-virginia-woolf/Sitting-Room-Logo.jpg "TSRL")
+
 
 ## ACKNOWLEDGEMENTS
 
