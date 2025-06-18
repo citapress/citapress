@@ -56,7 +56,8 @@ published: false
 
 ###### Test 6
 
-![TSRL](content/books/a-luminous-halo-selected-writings-by-virginia-woolf/Sitting-Room-Logo.jpg "TSRL")
+
+
 
 
 ## ACKNOWLEDGEMENTS
