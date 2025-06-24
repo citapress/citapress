@@ -20,7 +20,7 @@ const PeopleIndex = ({ location, intl }) => {
                 generous support of the Mellon Foundation.
               </span>
             </p>
-                   
+
             <hr />
             <p>
               <span className="inside-title">Staff:</span>
@@ -28,7 +28,7 @@ const PeopleIndex = ({ location, intl }) => {
             <div className="flex">
               <div className="column">
                 <img
-                  src="/img/people/juli.png"
+                  src="/img/people/juli.jpg"
                   alt="Illustration of Juliana Castro"
                   width="150px"
                   height="auto"
@@ -43,11 +43,10 @@ const PeopleIndex = ({ location, intl }) => {
                 </p>
               </div>
             </div>
-          
-                       <div className="flex">
+            <div className="flex">
               <div className="column">
                 <img
-                  src="/img/people/jessi.png"
+                  src="/img/people/jessi.jpg"
                   alt="Illustration of Jessi Haley"
                   width="150px"
                   height="auto"
@@ -61,10 +60,11 @@ const PeopleIndex = ({ location, intl }) => {
                   <i>Chicago Review</i> and <i>Colloquium Magazine</i>.
                 </p>
               </div>
-                     <div className="flex">
+            </div>
+            <div className="flex">
               <div className="column">
                 <img
-                  src="https://ucarecdn.com/0a68b6b6-9343-4369-a45e-1743dc88261e/marianasketch.jpg"
+                  src="/img/people/mariana-sketch.jpg"
                   alt="Illustration of Mariana Matos"
                   width="150px"
                   height="auto"
@@ -73,10 +73,52 @@ const PeopleIndex = ({ location, intl }) => {
               <div className="column">
                 <p>
                   <b>Mariana Matos</b> is Cita’s Communications and Design Coordinator. Mariana
-                 is an interdisciplinary designer based in Detroit, MI.
+                  is an interdisciplinary designer based in Detroit, MI.
                 </p>
+              </div>
             </div>
-           
+            <div className="flex">
+              <div className="column">
+                <img
+                  src="/img/people/fabian.jpg"
+                  alt="Illustration of Fabián Ríos"
+                  width="150px"
+                  height="auto"
+                />
+              </div>
+              <div className="column">
+                <p>
+                  <b>Fabián Ríos</b> is Cita’s Web Developer. Fabián brings
+                  about 11 years of experience as a developer and media artist.
+                  He lives with his wife, children, and dog in Düsseldorf,
+                  Germany.
+                </p>
+              </div>
+            </div>
+
+
+            <div className="flex">
+              <div className="column">
+                <img
+                  src="/img/people/daniel.png"
+                  alt="Illustration of Daniel Saldana Paris"
+                  width="150px"
+                  height="auto"
+                />
+              </div>
+              <div className="column">
+                <p>
+                  <b>Daniel Saldaña París</b> is Cita's Literary Translation & Technology Fellow. A writer and translator born in Mexico City, author of three novels and a collection of personal essays. He was a 2022-2023 Cullman Center Fellow at the New York Public Library.
+                </p>
+              </div>
+            </div>
+            <p>
+              <b>
+                <i>Getting Fit</i> consulting team:
+              </b>{" "}
+              Lauren Dapena Fraiz, Katherine Kim, Brandon Locke, Jessica
+              Meyerson
+            </p>
             <hr />
             <p>
               <span className="inside-title">Advisory Board:</span>
@@ -84,7 +126,7 @@ const PeopleIndex = ({ location, intl }) => {
             <div className="flex">
               <div className="column">
                 <img
-                  src="/img/people/janneke.png"
+                  src="/img/people/janneke.jpg"
                   alt="Illustration of Janneke Adema"
                   width="150px"
                   height="auto"
@@ -122,11 +164,11 @@ const PeopleIndex = ({ location, intl }) => {
                 </p>
               </div>
             </div>
-      
+
             <div className="flex">
               <div className="column">
                 <img
-                  src="/img/people/jessica.png"
+                  src="/img/people/jessica.jpg"
                   alt="Illustration of Jessica Meyerson"
                   width="150px"
                   height="auto"
@@ -144,52 +186,10 @@ const PeopleIndex = ({ location, intl }) => {
                 </p>
               </div>
             </div>
+
             <p>
               <span className="inside-title">General Contributors:</span>
               <span></span>
-            </p>
-                     <div className="flex">
-              <div className="column">
-                <img
-                  src="/img/people/fabian.jpg"
-                  alt="Illustration of Fabián Ríos"
-                  width="150px"
-                  height="auto"
-                />
-              </div>
-             
-                    <p> <div className="column">
-              
-                  <b>Fabián Ríos</b> is Cita’s Web Developer. Fabián brings
-                  about 11 years of experience as a developer and media artist.
-                  He lives with his wife, children, and dog in Düsseldorf,
-                  Germany.
-                </p>
-              </div>
-            </div>
-            
-  
-            <div className="flex">
-              <div className="column">
-                <img
-                  src="/img/people/daniel.png"
-                  alt="Illustration of Daniel Saldana Paris"
-                  width="150px"
-                  height="auto"
-                />
-              </div>
-              <div className="column">
-                <p>
-                  <b>Daniel Saldaña París</b> is Cita's Literary Translation & Technology Fellow. A writer and translator born in Mexico City, author of three novels and a collection of personal essays. He was a 2022-2023 Cullman Center Fellow at the New York Public Library.
-                </p>
-              </div>
-            </div>
-            <p>
-              <b>
-                <i>Getting Fit</i> consulting team:
-              </b>{" "}
-              Lauren Dapena Fraiz, Katherine Kim, Brandon Locke, Jessica
-              Meyerson
             </p>
             <p>
               <b>Volunteer Web Development Lead:</b>{" "}
@@ -235,14 +235,14 @@ const PeopleIndex = ({ location, intl }) => {
               Mania, Llisole, Mungang Kim, Becris and corpus delicti and Luisa
               Iborra. Powered by The Noun Project, and licensed under CC.Video
               voice - Kira Street.</p>
-              <p>Preformatted text - Project Gutenberg. </p><p>Interior illustrations for
-              The Yellow Wall-Paper - Jo. H. Hatfield, currently under public
-              domain.</p><p> Spanish translation for The Old Maid - Freeditorial. </p><p> Bindery by Evan Brooks. Licensed under MIT
-              License.</p><p> Short video / gifs - From Giphy!</p> <p>Roboto and Bitter,
-              distributed by Google Fonts. Licensed under OFL, Bluu, distributed
-              by Open Foundry. Licensed under OFL.</p><p> If you believe this could contain
-              a more concrete credit, hit us up!
-            </p>
+            <p>Preformatted text - Project Gutenberg. </p><p>Interior illustrations for
+            The Yellow Wall-Paper - Jo. H. Hatfield, currently under public
+            domain.</p><p> Spanish translation for The Old Maid - Freeditorial. </p><p> Bindery by Evan Brooks. Licensed under MIT
+            License.</p><p> Short video / gifs - From Giphy!</p> <p>Roboto and Bitter,
+            distributed by Google Fonts. Licensed under OFL, Bluu, distributed
+            by Open Foundry. Licensed under OFL.</p><p> If you believe this could contain
+            a more concrete credit, hit us up!
+          </p>
             <hr />
             <p>
               If you want to join us,
@@ -278,7 +278,7 @@ const PeopleIndex = ({ location, intl }) => {
               {" "}
               <div className="column">
                 <img
-                  src="/img/people/juli.png"
+                  src="/img/people/juli.jpg"
                   alt="Illustration of Juliana Castro"
                   width="150px"
                   height="auto"
@@ -298,7 +298,7 @@ const PeopleIndex = ({ location, intl }) => {
               {" "}
               <div className="column">
                 <img
-                  src="/img/people/jessi.png"
+                  src="/img/people/jessi.jpg"
                   alt="Illustration of Jessi Haley"
                   width="150px"
                   height="auto"
@@ -310,6 +310,21 @@ const PeopleIndex = ({ location, intl }) => {
                   de Cita. Jessi anteriormente administró el programa de
                   escritura creativa en la Universidad de Chicago y formó parte
                   del equipo editorial de Chicago Review y Colloquium Magazine.
+                </p>
+              </div>{" "}
+            </div>{" "}
+            <div className="flex">
+              <div className="column">
+                <img
+                  src="/img/people/mariana-sketch.jpg"
+                  alt="Illustration of Mariana Matos"
+                  width="150px"
+                  height="auto"
+                />
+              </div>
+              <div className="column">
+                <p>
+                  <b>Mariana Matos</b> Es Coordinadora de Comunicación y Diseño de Cita. Mariana es una diseñadora interdisciplinaria ubicada en Detroit, MI.
                 </p>
               </div>{" "}
             </div>{" "}
@@ -352,7 +367,7 @@ const PeopleIndex = ({ location, intl }) => {
             <div className="flex">
               <div className="column">
                 <img
-                  src="/img/people/janneke.png"
+                  src="/img/people/janneke.jpg"
                   alt="Illustration of Janneke Adema"
                   width="150px"
                   height="auto"
@@ -394,7 +409,7 @@ const PeopleIndex = ({ location, intl }) => {
               {" "}
               <div className="column">
                 <img
-                  src="/img/people/jessica.png"
+                  src="/img/people/jessica.jpg"
                   alt="Illustration of Jessica Meyerson"
                   width="150px"
                   height="auto"
