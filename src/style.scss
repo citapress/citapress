@@ -111,23 +111,33 @@ td {
 
 .table-of-contents {
   .depth-1 {
-    font-size: 1.4em;
+    font-size: 2em;
     margin: 20px 0;
   }
   .depth-2 {
-    font-size: 1.2em;
-    padding-left: 20px;
+    font-size: 1.5em;
+    padding-left: 10px;
     margin-bottom: 10px;
   }
   .depth-3 {
-    font-size: 1em;
-    padding-left: 40px;
+    font-size: 1.3em;
+    padding-left: 20px;
     margin-bottom: 5px;
   }
   .depth-4 {
+    font-size: 1.1em;
+    margin-bottom: 5px;
+    padding-left: 30px;
+  }
+  .depth-5 {
+    font-size: 0.9em;
+    margin-bottom: 5px;
+    padding-left: 40px;
+  }
+  .depth-6 {
     font-size: 0.8em;
     margin-bottom: 5px;
-    padding-left: 20px;
+    padding-left: 50px;
   }
 }
 
