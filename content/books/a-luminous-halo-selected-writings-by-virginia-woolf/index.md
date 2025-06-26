@@ -126,7 +126,7 @@ The most elementary remarks upon modern English fiction can hardly avoid some me
 
 - - -
 
-## MR. BENNET AND MRS. BROWN 
+## MR. BENNETT AND MRS. BROWN 
 
 *This is the first essay published under the first Hogarth Essays series by Hogarth Press. It was adapted from a lecture Woolf gave to members of the* *Cambridge Heretics Society. The Hogarth Essays series also published works by Vernon Lee, Gertrude Stein, and others.*
 
