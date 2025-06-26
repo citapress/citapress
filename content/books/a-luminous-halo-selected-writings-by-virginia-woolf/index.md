@@ -23,7 +23,7 @@ theme:
   - LGBTQ+
 lang: en
 description: >-
-  <p><I>"Life is not a series of gig lamps symmetrically arranged; but a
+  <p><i>"Life is not a series of gig lamps symmetrically arranged; but a
   luminous halo, a semi-transparent envelope surrounding us from the beginning
   of consciousness to the end.”</i></p>
 
@@ -44,20 +44,6 @@ foreword: >-
   <p><b>Cover:</b> Mariana Matos is an interdisciplinary designer based in Detroit, MI. She is the Communications & Design Coordinator for Cita Press. 
 published: false
 ---
-# TEST 1
-
-## Test 2
-
-### Test 3
-
-#### Test 4
-
-##### Test 5
-
-###### Test 6
-
-
-
 
 
 ## ACKNOWLEDGEMENTS
@@ -140,7 +126,7 @@ The most elementary remarks upon modern English fiction can hardly avoid some me
 
 - - -
 
-## MRS. BENNET AND MR. BROWN 
+## MR. BENNET AND MRS. BROWN 
 
 *This is the first essay published under the first Hogarth Essays series by Hogarth Press. It was adapted from a lecture Woolf gave to members of the* *Cambridge Heretics Society. The Hogarth Essays series also published works by Vernon Lee, Gertrude Stein, and others.*
 
