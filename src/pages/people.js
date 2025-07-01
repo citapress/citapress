@@ -191,7 +191,7 @@ const PeopleIndex = ({ location, intl }) => {
               <span className="inside-title">Contributors:</span>
               <span></span>
             </p>
-            <p>
+         
                      <div className="column">
                 <p>
                   <b>Fabián Ríos</b> is Cita’s Web Developer. Fabián brings
