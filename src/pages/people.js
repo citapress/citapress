@@ -191,8 +191,16 @@ const PeopleIndex = ({ location, intl }) => {
               <span className="inside-title">Contributors:</span>
               <span></span>
             </p>
-         
-                     <div className="column">
+     <div className="flex">
+              <div className="column">
+                <img
+                  src="/img/people/fabian.jpg"
+                  alt="Illustration of Fabián Ríos"
+                  width="150px"
+                  height="auto"
+                />
+              </div>
+              <div className="column">
                 <p>
                   <b>Fabián Ríos</b> is Cita’s Web Developer. Fabián brings
                   about 11 years of experience as a developer and media artist.
@@ -201,7 +209,6 @@ const PeopleIndex = ({ location, intl }) => {
                 </p>
               </div>
             </div>
-
 
             <div className="flex">
               <div className="column">
