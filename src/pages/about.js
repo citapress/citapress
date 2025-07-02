@@ -42,7 +42,7 @@ const AboutIndex = ({ location, intl }) => {
                   <li>To be participatory, crowdsourced and open to new voices and collaborations</li>
                 </ul>
                 <p>
-                  <span className="bluu">Advisory Board:</span> <a href="https://openreflections.wordpress.com/" target="_blank" rel="noreferrer">Janneke Adema</a>, <a href="https://knightfoundation.org/employee/vicky-checo/" target="_blank" rel="noreferrer">Vicky Checo</a>, <a href="https://twitter.com/krmaher" target="_blank" rel="noreferrer">Katherine Maher</a>, <a href="https://educopia.org/jessica-meyerson/" target="_blank" rel="noreferrer">Jessica Meyerson</a>, & <a href="https://mindyseu.com/" target="_blank" rel="noreferrer">Mindy Seu</a>.
+                  <span className="bluu">Advisory Board:</span> <a href="https://openreflections.wordpress.com/" target="_blank" rel="noreferrer">Janneke Adema</a>, Gita Manaktala, and <a href="https://educopia.org/jessica-meyerson/" target="_blank" rel="noreferrer">Jessica Meyerson</a>.
                 </p>
               </>
             ) : (
