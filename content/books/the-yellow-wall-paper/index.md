@@ -1,33 +1,26 @@
 ---
+title: The Yellow Wall-Paper
 publication: 2018-04-01T22:12:03.284Z
 publishformat: Year
 release: 1892-04-01T23:12:03.284Z
+releaseformat: Year
+sortingdate: 2018-04-01T00:00:31.212Z
 templateKey: book-page
 author: Charlotte Perkins Gilman
+isbn: 978-1-961368-08-8
+post_image: https://ucarecdn.com/1d0b385d-55da-4db2-9494-0584f4cef10b/-/preview/397x612/cover-yellowwallpaper.webp
+square_image: https://ucarecdn.com/b004ff60-b7da-4e05-83e5-fd813ba32d0b/-/smart_resize/600x600/yellowwallpaper.webp
 download: ""
 language_link: el-tapiz-amarillo
 genre:
   - novella
+time_period:
+  - 19th
 theme:
   - mental-health
   - suspense-gothic
   - motherhood
 lang: en
-foreword: >-
-  <p>Foreword: Catherine J. Golden, Ph.D., Professor of English and The Tisch
-  Chair in Arts and Letters, Skidmore College<p>
-
-
-  <p>Cover: <a href="http://laurasavina.com/" target="_blank" rel="noreferrer">Laura Savina</a>, Italian illustrator and tap dance student</p>
-date: 2015-05-01T22:12:03.284Z
-title: The Yellow Wall-Paper
-releaseformat: Year
-sortingdate: 2018-04-01T00:00:31.212Z
-isbn: 978-1-961368-08-8
-post_image: https://ucarecdn.com/1d0b385d-55da-4db2-9494-0584f4cef10b/-/preview/397x612/cover-yellowwallpaper.webp
-square_image: https://ucarecdn.com/b004ff60-b7da-4e05-83e5-fd813ba32d0b/-/smart_resize/600x600/yellowwallpaper.webp
-time_period:
-  - 19th
 description: " “'The Yellow Wall-Paper' (1892) holds an important place among
   rediscovered works by turn-of-the-century American women writers for its bold
   critique of gender politics in a patriarchal society. The nameless narrator,
@@ -39,6 +32,13 @@ description: " “'The Yellow Wall-Paper' (1892) holds an important place among
   reflection of her painful position as a woman in Victorian America. Many of
   the story’s first readers considered it a psychological horror tale in the
   fashion of Poe.\" - Catherine J. Golden"
+foreword: >-
+  <p>Foreword: Catherine J. Golden, Ph.D., Professor of English and The Tisch
+  Chair in Arts and Letters, Skidmore College<p>
+
+
+  <p>Cover: <a href="http://laurasavina.com/" target="_blank" rel="noreferrer">Laura Savina</a>, Italian illustrator and tap dance student</p>
+date: 2015-05-01T22:12:03.284Z
 ---
 ## Foreword
 
@@ -86,7 +86,7 @@ Personally, I believe that congenial work, with excitement and change, would do 
 
 But what is one to do?
 
-I did write for a while in spite of them; but it does exhaust me a good deal—having to be so sly about it, or else meet with heavy opposition. I sometimes fancy that in my condition if I had less opposition and more society and stimulus—but John says the very worst thing I can do is to think about my condition, and I confess it always makes me feel bad.
+I did write for a while in spite of them; but it \*does\* exhaust me a good deal—having to be so sly about it, or else meet with heavy opposition. I sometimes fancy that in my condition if I had less opposition and more society and stimulus—but John says the very worst thing I can do is to think about my condition, and I confess it always makes me feel bad.
 
 So I will let it alone and talk about the house.
 
@@ -114,7 +114,7 @@ He is very careful and loving, and hardly lets me stir without special direction
 
 I have a schedule prescription for each hour in the day; he takes all care from me, and so I feel basely ungrateful not to value it more.
 
-He said we came here solely on my account, that I was to have perfect rest and all the air I could get. “Your exercise depends on your strength, my dear,” said he, “and your food somewhat on your appetite; but air you can absorb all the time. ‘So we took the nursery at the top of the house.
+He said we came here solely on my account, that I was to have perfect rest and all the air I could get. “Your exercise depends on your strength, my dear,” said he, “and your food somewhat on your appetite; but air you can absorb all the time." So we took the nursery at the top of the house.
 
 It is a big, airy room, the whole floor nearly, with windows that look all ways, and air and sunshine galore. It was nursery first and then playroom and gymnasium, I should judge; for the windows are barred for little children, and there are rings and things in the walls.
 
@@ -334,7 +334,9 @@ I thought it was a good time to talk, so I told him that I really was not gainin
 
 “Bless her little heart!” said he with a big hug, “she shall be as sick as she pleases! But now let’s improve the shining hours by going to sleep, and talk about it in the morning!”
 
-“And you won’t go away?” I asked gloomily. “Why, how can I, dear? It is only three weeks more and then we will take a nice little trip of a few days while Jennie is getting the house ready. Really dear you are better!”
+“And you won’t go away?” I asked gloomily. 
+
+“Why, how can I, dear? It is only three weeks more and then we will take a nice little trip of a few days while Jennie is getting the house ready. Really dear you are better!”
 
 “Better in body perhaps—“I began, and stopped short, for he sat up straight and looked at me with such a stern, reproachful look that I could not say another word.
 
