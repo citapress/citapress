@@ -52,9 +52,11 @@ published: true
   </ul>
   </section>
   <section id="foreword">
-    <h3> Foreword </h3>
-    <p>
-      In 2022, Annie Ernaux became the seventeenth woman to win the Nobel Prize in Literature. She is also the first French woman, the sixteenth French citizen, the ninety-sixth European, and the 119th person to win. In her acceptance lecture, she outlined how she viewed the context of her win: “I do not regard as an individual victory the Nobel prize that has been awarded me. It is neither from pride nor modesty that I see it, in some sense, as a collective victory.”</p>
+
+
+## FOREWORD  
+
+\    In 2022, Annie Ernaux became the seventeenth woman to win the Nobel Prize in Literature. She is also the first French woman, the sixteenth French citizen, the ninety-sixth European, and the 119th person to win. In her acceptance lecture, she outlined how she viewed the context of her win: “I do not regard as an individual victory the Nobel prize that has been awarded me. It is neither from pride nor modesty that I see it, in some sense, as a collective victory.”</p>
 
 <p>Ernaux’s claim of a collective ownership for a highly individualized award echoes ideas shared by many of the women laureates that came before her—as does her emphasis on the tension between the patriarchal system the Nobel stems from (and, to many, still represents) and the structural position of some winners, particularly women. When asked if she anticipated the prize, 2013 laureate Alice Munro replied: “Oh, no, no! I was a woman! . . . I just love the honor, I love it, but I just didn’t think that way.” Learning about her win from a group of reporters as she returned home from a hospital visit, eighty-seven-year-old Doris Lessing was flustered: “They told me a long time ago they didn’t like me and I would never get it. . . . They sent a special official to tell me so.”<a href="#footnote1">\[1]</a> Surrounded by snapping cameras, she promised: “I swear I’m going upstairs to find some suitable sentences, which I will be using from now on.”</p>
 
@@ -90,7 +92,7 @@ published: true
 
 <p>Each writer’s Nobel lecture includes something that could be applied across the work of the other women who have won, something that collects the individual work under an umbrella of “benefit to humankind.” Each writer explains, in a way reflective of her style, time, place, and politics, how recognition of her work is part of a long, shared story. But if any of the lectures contains something akin to a slogan, it must be Alexievich’s (fitting for a writer whose work, at its core, is aimed at weaving disparate perspectives into an intricate whole). In accepting the prize, she reminds readers and writers alike: “I do not stand alone at this podium. . . . There are voices around me, hundreds of voices.”</p>
 
-<p>Through our work, Cita Press honors the principles of decentralization, collective knowledge production, and equitable access to knowledge. The pieces brought together here reflect these values in ways that represent each writer’s unique commitments, experiences, and style. Our mission is to make the work of women from the past and present visible, and to illuminate the long and diverse history of feminist thought and art. The Nobel Prize gave a huge platform to the writers collected here, and it feels important to think about how this rarefied group of women frame their own legacies, and how they speak to each other from the same stage across the years. We present this book—free, online first, and with a cover by Fiorella Ferroni—with the open invitation to share in these women’s work and ideas. We hope you return to these pieces, together and apart, often or sometimes, but always with the understanding that there are voices around us, and that language gives us a chance to speak and also to listen. </p>
+<p>Through our work, Cita Press honors the principles of decentralization, collective knowledge production, and equitable access to knowledge. The pieces brought together here reflect these values in ways that represent each writer’s unique commitments, experiences, and style. Our mission is to make the work of women from the past and present visible, and to illuminate the long and diverse history of feminist thought and art. The Nobel Prize gave a huge platform to the writers collected here, and it feels important to think about how this rarefied group of women frame their own legacies, and how they speak to each other from the same stage across the years. We present this book—free, online first, and with a cover by Fiorella Ferroni—with the open invitation to share in these women’s work and ideas. We hope you return to these pieces, together and apart, often or sometimes, but always with the understanding that there are voices around us, and that language gives us a chance to speak and also to listen. </p> **—JESSI HALEY, 2023**
 
 <p><i>Jessi Haley is editorial coordinator for Cita Press. Cita thanks the Nobel Foundation for the permission to publish these pieces.</i></p>
 
@@ -111,11 +113,11 @@ published: true
 
 - - -
 
-  <h2 id="chapter1"> NADINE GORDIMER, 1991 </h2>
+##  NADINE GORDIMER, 1991 
 
-  <p><i> Nobel Lecture, December 7, 1991</i></p>
+  *December 7, 1991*
 
-<p><b>WRITING & BEING</b></p>
+<p><b>Writing & Being</b></p>
 
 <p>In the beginning was the Word.</p>
 
@@ -190,8 +192,12 @@ published: true
 
 - - -
 
-<h2 id="chapter2"> TONI MORRISON, 1993 </h2>
-<p><i>Nobel Lecture December 7, 1993</i></p>
+
+
+## TONI MORRISON, 1993
+
+
+*December 7, 1993*
 
 <p>“Once upon a time there was an old woman. Blind but wise.” Or was it an old man? A guru, perhaps. Or a griot soothing restless children. I have heard this story, or one exactly like it, in the lore of several cultures.</p>
 
@@ -265,11 +271,13 @@ published: true
 <p>
 <i>From</i> Nobel Lectures, Literature 1991-1995,<i> Editor Sture Allén, World Scientific Publishing Co., Singapore, 1997 </i><p>
 
-## <p>Copyright © The Nobel Foundation 1993</p>
+Copyright © The Nobel Foundation 1993
 
-<h2 id="chapter3"> WISŁAWA SZYMBORSKA, 1996 </h2>
 
-  <p><i>Nobel Lecture, December 7, 1996</i></p>
+
+## WISŁAWA SZYMBORSKA, 1996 
+
+*Nobel Lecture, December 7, 1996*
 
 <p><b>The poet and the world</b></p>
 
@@ -319,9 +327,9 @@ published: true
 
 - - -
 
- <h2 id="chapter4"> DORIS LESSING, 2007 </h2>
+## DORIS LESSING, 2007 
 
-<p><i>December 7, 2007</i></p>
+*December 7, 2007*
 
 <p><b>On not winning the Nobel Prize</b></p>
 
@@ -525,9 +533,9 @@ published: true
 
 - - -
 
-<h2 id="chapter5"> HERTA MÜLLER, 2009 </h2>
- 
- <p><i>December 7, 2009</i></p>
+##  HERTA MÜLLER, 2009 
+
+*December 7, 2009*
 
 <p><b>Every word knows something of a vicious circle</b></p>
 
@@ -644,7 +652,7 @@ published: true
 
 ## ALICE MUNRO, 2013 
 
-<p><i>The 2013 Nobel Lecture in Literature was replaced by a pre-recorded video conversation with the Laureate: “Alice Munro: In Her Own Words,” shown at the Swedish Academy on 7 December 2013.</i></p>
+<p><i>The 2013 Nobel Lecture in Literature was replaced by a pre-recorded video conversation with the Laureate: “Alice Munro: In Her Own Words,” shown at the Swedish Academy on December 7, 2013.</i></p>
 
 <p><b>Alice Munro: In Her Own Words</b></p>
 
@@ -817,7 +825,7 @@ published: true
 Translation: Rose-Marie Nielsen.
 Production: Swedish Educational Broadcasting Company and Swedish Television.
 Recorded November 12 and 13, 2013, in Canada.
-© Swedish Academy, Swedish Educational Broadcasting Company and Swedish Television. </p><p>
+© Swedish Academy, Swedish Educational Broadcasting Company and Swedish Television. </p>
 
 - - -
 
