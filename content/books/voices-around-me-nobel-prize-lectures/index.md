@@ -109,12 +109,7 @@ published: true
 </p>
 <p id="footnote8">[8] José Vergara,<a href="https://lithub.com/on-the-dangers-of-greatness-a-conversation-with-svetlana-alexievich/" target="_blank">“On the Dangers of Greatness: A Conversation with Svetlana Alexievich.”</a> <i>Literary Hub</i>, June 3, 2022.</p>
 
-  </section>
-  <h3 id="book">
-Voices Around Me: Nobel Lectures
-  </h3>
-
- <!-- If book has chapters use the following example to link to chapters. Check that the type of tag corresponds to the one used by Project Gutemberg. Only replace "id="chapterX" in the ID already given by the chapter in Project Gutemberg -->
+---
 
   <h2 id="chapter1"> NADINE GORDIMER, 1991 </h2>
 
@@ -126,23 +121,23 @@ Voices Around Me: Nobel Lectures
 
 <p>The Word was with God, signified God’s Word, the word that was Creation. But over the centuries of human culture the word has taken on other meanings, secular as well as religious. To have the word has come to be synonymous with ultimate authority, with prestige, with awesome, sometimes dangerous persuasion, to have Prime Time, a TV talk show, to have the gift of the gab as well as that of speaking in tongues. The word flies through space, it is bounced from satellites, now nearer than it has ever been to the heaven from which it was believed to have come. But its most significant transformation occurred for me and my kind long ago, when it was first scratched on a stone tablet or traced on papyrus, when it materialized from sound to spectacle, from being heard to being read as a series of signs, and then a script; and travelled through time from parchment to Gutenberg. For this is the genesis story of the writer. It is the story that wrote her or him into being.</p>
 
-<p>It was, strangely, a double process, creating at the same time both the writer and the very purpose of the writer as a mutation in the agency of human culture. It was both ontogenesis as the origin and development of an individual being, and the adaptation, in the nature of that individual, specifically to the exploration of ontogenesis, the origin and development of the individual being. For we writers are evolved for that task. Like the prisoners incarcerated with the jaguar in Borges’ story <a href="#section1">\\\\[1]</a>, ‘The God’s Script’, who was trying to read, in a ray of light which fell only once a day, the meaning of being from the marking on the creature’s pelt, we spend our lives attempting to interpret through the word the readings we take in the societies, the world of which we are part. It is in this sense, this inextricable, ineffable participation, that writing is always and at once an exploration of self and of the world; of individual and collective being.</p>
+<p>It was, strangely, a double process, creating at the same time both the writer and the very purpose of the writer as a mutation in the agency of human culture. It was both ontogenesis as the origin and development of an individual being, and the adaptation, in the nature of that individual, specifically to the exploration of ontogenesis, the origin and development of the individual being. For we writers are evolved for that task. Like the prisoners incarcerated with the jaguar in Borges’ story <a href="#section1">[1]</a>, ‘The God’s Script’, who was trying to read, in a ray of light which fell only once a day, the meaning of being from the marking on the creature’s pelt, we spend our lives attempting to interpret through the word the readings we take in the societies, the world of which we are part. It is in this sense, this inextricable, ineffable participation, that writing is always and at once an exploration of self and of the world; of individual and collective being.</p>
 
 <p>Being here.</p>
 
 <p>Humans, the only self-regarding animals, blessed or cursed with this torturing higher faculty, have always wanted to know why. And this is not just the great ontological question of why we are here at all, for which religions and philosophies have tried to answer conclusively for various peoples at various times, and science tentatively attempts dazzling bits of explanation we are perhaps going to die out in our millennia, like dinosaurs, without having developed the necessary comprehension to understand as a whole. Since humans became self-regarding they have sought, as well, explanations for the common phenomena of procreation, death, the cycle of seasons, the earth, sea, wind and stars, sun and moon, plenty and disaster. With myth, the writer’s ancestors, the oral story-tellers, began to feel out and formulate these mysteries, using the elements of daily life – observable reality – and the faculty of the imagination – the power of projection into the hidden – to make stories.</p>
 
-<p>Roland Barthes <a href="#section2">\\\\[2]</a> asks, ‘What is characteristic of myth?’ And answers: ‘To transform a meaning into form.’ Myths are stories that mediate in this way between the known and unknown. Claude Levi-Strauss <a href="#section3">\\\\[3]</a> wittily de-mythologizes myth as a genre between a fairy tale and a detective story. Being here; we don’t know who-dun-it. But something satisfying, if not the answer, can be invented. Myth was the mystery plus the fantasy – gods, anthropomorphized animals and birds, chimera, phantasmagorical creatures – that posits out of the imagination some sort of explanation for the mystery. Humans and their fellow creatures were the materiality of the story, but as Nikos Kazantzakis <a href="#section4">\\\\[4]</a> once wrote, ‘Art is the representation not of the body but of the forces which created the body.’</p>
+<p>Roland Barthes <a href="#section2">[2]</a> asks, ‘What is characteristic of myth?’ And answers: ‘To transform a meaning into form.’ Myths are stories that mediate in this way between the known and unknown. Claude Levi-Strauss <a href="#section3">[3]</a> wittily de-mythologizes myth as a genre between a fairy tale and a detective story. Being here; we don’t know who-dun-it. But something satisfying, if not the answer, can be invented. Myth was the mystery plus the fantasy – gods, anthropomorphized animals and birds, chimera, phantasmagorical creatures – that posits out of the imagination some sort of explanation for the mystery. Humans and their fellow creatures were the materiality of the story, but as Nikos Kazantzakis <a href="#section4">[4]</a> once wrote, ‘Art is the representation not of the body but of the forces which created the body.’</p>
 
 <p>There are many proven explanations for natural phenomena now; and there are new questions of being arising out of some of the answers. For this reason, the genre of myth has never been entirely abandoned, although we are inclined to think of it as archaic. If it dwindled to the children’s bedtime tale in some societies, in parts of the world protected by forests or deserts from international megaculture it has continued, alive, to offer art as a system of mediation between the individual and being. And it has made a whirling comeback out of Space, an Icarus in the avatar of Batman and his kind, who never fall into the ocean of failure to deal with the gravity forces of life. These new myths, however, do not seek so much to enlighten and provide some sort of answers as to distract, to provide a fantasy escape route for people who no longer want to face even the hazard of answers to the terrors of their existence. (Perhaps it is the positive knowledge that humans now possess the means to destroy their whole planet, the fear that they have in this way themselves become the gods, dreadfully charged with their own continued existence, that has made comic-book and movie myth escapist.) The forces of being remain. They are what the writer, as distinct from the contemporary popular mythmaker, still engage today, as myth in its ancient form attempted to do. </p>
 
-<p>How writers have approached this engagement and continue to experiment with it has been and is, perhaps more than ever, the study of literary scholars. The writer in relation to the nature of perceivable reality and what is beyond – imperceivable reality – is the basis for all these studies, no matter what resulting concepts are labelled, and no matter in what categorized microfiles writers are stowed away for the annals of literary historiography. Reality is constructed out of many elements and entities, seen and unseen, expressed, and left unexpressed for breathing-space in the mind. Yet from what is regarded as old-hat psychological analysis to modernism and post-modernism, structuralism and poststructuralism, all literary studies are aimed at the same end: to pin down to a consistency (and what is consistency if not the principle hidden within the riddle?); to make definitive through methodology the writer’s grasp at the forces of being. But life is aleatory in itself; being is constantly pulled and shaped this way and that by circumstances and different levels of consciousness. There is no pure state of being, and it follows that there is no pure text, ‘real’ text, totally incorporating the aleatory. It surely cannot be reached by any critical methodology, however interesting the attempt. To deconstruct a text is in a way a contradiction, since to deconstruct it is to make another construction out of the pieces, as Roland Barthes <a href="#section5">\\\\[5]</a> does so fascinatingly, and admits to, in his linguistic and semantical dissection of Balzac’s story, ‘Sarrasine’. So the literary scholars end up being some kind of storyteller, too.</p>
+<p>How writers have approached this engagement and continue to experiment with it has been and is, perhaps more than ever, the study of literary scholars. The writer in relation to the nature of perceivable reality and what is beyond – imperceivable reality – is the basis for all these studies, no matter what resulting concepts are labelled, and no matter in what categorized microfiles writers are stowed away for the annals of literary historiography. Reality is constructed out of many elements and entities, seen and unseen, expressed, and left unexpressed for breathing-space in the mind. Yet from what is regarded as old-hat psychological analysis to modernism and post-modernism, structuralism and poststructuralism, all literary studies are aimed at the same end: to pin down to a consistency (and what is consistency if not the principle hidden within the riddle?); to make definitive through methodology the writer’s grasp at the forces of being. But life is aleatory in itself; being is constantly pulled and shaped this way and that by circumstances and different levels of consciousness. There is no pure state of being, and it follows that there is no pure text, ‘real’ text, totally incorporating the aleatory. It surely cannot be reached by any critical methodology, however interesting the attempt. To deconstruct a text is in a way a contradiction, since to deconstruct it is to make another construction out of the pieces, as Roland Barthes <a href="#section5">[5]</a> does so fascinatingly, and admits to, in his linguistic and semantical dissection of Balzac’s story, ‘Sarrasine’. So the literary scholars end up being some kind of storyteller, too.</p>
 
 <p>Perhaps there is no other way of reaching some understanding of being than through art? Writers themselves don’t analyze what they do; to analyze would be to look down while crossing a canyon on a tightrope. To say this is not to mystify the process of writing but to make an image out of the intense inner concentration the writer must have to cross the chasms of the aleatory and make them the word’s own, as an explorer plants a flag. Yeats’ inner ‘lonely impulse of delight’ in the pilot’s solitary flight, and his ‘terrible beauty’ born of mass uprising, both opposed and conjoined; E. M. Forster’s modest ‘only connect’; Joyce’s chosen, wily ‘silence, cunning and exile’; more contemporary, Gabriel García Márquez’s labyrinth in which power over others, in the person of Simon Bolivar, is led to the thrall of the only unassailable power, death – these are some examples of the writer’s endlessly varied ways of approaching the state of being through the word. Any writer of any worth at all hopes to play only a pocket-torch of light – and rarely, through genius, a sudden flambeau – into the bloody yet beautiful labyrinth of human experience, of being.</p>
 
-<p>Anthony Burgess <a href="#section6">\\\\[6]</a> once gave a summary definition of literature as ‘the aesthetic exploration of the world’. I would say that writing only begins there, for the exploration of much beyond, which nevertheless only aesthetic means can express.</p>
+<p>Anthony Burgess <a href="#section6">[6]</a> once gave a summary definition of literature as ‘the aesthetic exploration of the world’. I would say that writing only begins there, for the exploration of much beyond, which nevertheless only aesthetic means can express.</p>
 
-<p>How does the writer become one, having been given the word? I do not know if my own beginnings have any particular interest. No doubt they have much in common with those of others, have been described too often before as a result of this yearly assembly before which a writer stands. For myself, I have said that nothing factual that I write or say will be as truthful as my fiction. The life, the opinions, are not the work, for it is in the tension between standing apart and being involved that the imagination transforms both. Let me give some minimal account of myself. I am what I suppose would be called a natural writer. I did not make any decision to become one. I did not, at the beginning, expect to earn a living by being read. I wrote as a child out of the joy of apprehending life through my senses – the look and scent and feel of things; and soon out of the emotions that puzzled me or raged within me and which took form, found some enlightenment, solace and delight, shaped in the written word. There is a little Kafka <a href="#section7">\\\\[7]</a> parable that goes like this; ‘I have three dogs: Hold-him, Seize-him, and Nevermore. Hold-him and Seize-him are ordinary little Schipperkes and nobody would notice them if they were alone. But there is Nevermore, too. Nevermore is a mongrel Great Dane and has an appearance that centuries of the most careful breeding could never have produced. Nevermore is a gypsy.’ In the small South African gold-mining town where I was growing up I was Nevermore the mongrel (although I could scarcely have been described as a Great Dane …) in whom the accepted characteristics of the townspeople could not be traced. I was the Gypsy, tinkering with words second-hand, mending my own efforts at writing by learning from what I read. For my school was the local library. Proust, Chekhov and Dostoevsky, to name only a few to whom I owe my existence as a writer, were my professors. In that period of my life, yes, I was evidence of the theory that books are made out of other books . . . But I did not remain so for long, nor do I believe any potential writer could.</p>
+<p>How does the writer become one, having been given the word? I do not know if my own beginnings have any particular interest. No doubt they have much in common with those of others, have been described too often before as a result of this yearly assembly before which a writer stands. For myself, I have said that nothing factual that I write or say will be as truthful as my fiction. The life, the opinions, are not the work, for it is in the tension between standing apart and being involved that the imagination transforms both. Let me give some minimal account of myself. I am what I suppose would be called a natural writer. I did not make any decision to become one. I did not, at the beginning, expect to earn a living by being read. I wrote as a child out of the joy of apprehending life through my senses – the look and scent and feel of things; and soon out of the emotions that puzzled me or raged within me and which took form, found some enlightenment, solace and delight, shaped in the written word. There is a little Kafka <a href="#section7">[7]</a> parable that goes like this; ‘I have three dogs: Hold-him, Seize-him, and Nevermore. Hold-him and Seize-him are ordinary little Schipperkes and nobody would notice them if they were alone. But there is Nevermore, too. Nevermore is a mongrel Great Dane and has an appearance that centuries of the most careful breeding could never have produced. Nevermore is a gypsy.’ In the small South African gold-mining town where I was growing up I was Nevermore the mongrel (although I could scarcely have been described as a Great Dane …) in whom the accepted characteristics of the townspeople could not be traced. I was the Gypsy, tinkering with words second-hand, mending my own efforts at writing by learning from what I read. For my school was the local library. Proust, Chekhov and Dostoevsky, to name only a few to whom I owe my existence as a writer, were my professors. In that period of my life, yes, I was evidence of the theory that books are made out of other books . . . But I did not remain so for long, nor do I believe any potential writer could.</p>
 
 <p>With adolescence comes the first reaching out to otherness through the drive of sexuality. For most children, from then on the faculty of the imagination, manifest in play, is lost in the focus on day dreams of desire and love, but for those who are going to be artists of one kind or another the first life-crisis after that of birth does something else in addition: the imagination gains range and extends by the subjective flex of new and turbulent emotions. There are new perceptions. The writer begins to be able to enter into other lives. The process of standing apart and being involved has come. </p>
 
@@ -152,11 +147,11 @@ Voices Around Me: Nobel Lectures
 
 <p>The alternative is not the malediction of the ivory tower, another destroyer of creativity. Borges once said he wrote for his friends and to pass the time. I think this was an irritated flippant response to the crass question – often an accusation – ‘For whom do you write?’, just as Sartre’s admonition that there are times when a writer should cease to write, and act upon being only in another way, was given in the frustration of an unresolved conflict between distress at injustice in the world and the knowledge that what he knew how to do best was write. Both Borges and Sartre, from their totally different extremes of denying literature a social purpose, were certainly perfectly aware that it has its implicit and unalterable social role in exploring the state of being, from which all other roles, personal among friends, public at the protest demonstration, derive. Borges was not writing for his friends, for he published and we all have received the bounty of his work. Sartre did not stop writing, although he stood at the barricades in 1968.</p>
 
-<p>The question of for whom do we write nevertheless plagues the writer, a tin can attached to the tail of every work published. Principally it jangles the inference of tendentiousness as praise or denigration. In this context, Camus <a href="#section8">\\\\[8]</a> dealt with the question best. He said that he liked individuals who take sides more than literatures that do. ‘One either serves the whole of man or does not serve him at all. And if man needs bread and justice, and if what has to be done must be done to serve this need, he also needs pure beauty which is the bread of his heart.’ So Camus called for ‘Courage in and talent in one’s work.’ And Márquez <a href="#section9">\\\\[9]</a> redefined tender fiction thus: The best way a writer can serve a revolution is to write as well as he can.</p>
+<p>The question of for whom do we write nevertheless plagues the writer, a tin can attached to the tail of every work published. Principally it jangles the inference of tendentiousness as praise or denigration. In this context, Camus <a href="#section8">[8]</a> dealt with the question best. He said that he liked individuals who take sides more than literatures that do. ‘One either serves the whole of man or does not serve him at all. And if man needs bread and justice, and if what has to be done must be done to serve this need, he also needs pure beauty which is the bread of his heart.’ So Camus called for ‘Courage in and talent in one’s work.’ And Márquez <a href="#section9">[9]</a> redefined tender fiction thus: The best way a writer can serve a revolution is to write as well as he can.</p>
 
 <p>I believe that these two statements might be the credo for all of us who write. They do not resolve the conflicts that have come, and will continue to come, to contemporary writers. But they state plainly an honest possibility of doing so, they turn the face of the writer squarely to her and his existence, the reason to be, as a writer, and the reason to be, as a responsible human, acting, like any other, within a social context. </p>
 
-<p>Being here: in a particular time and place. That is the existential position with particular implications for literature. Czeslaw Milosz <a href="#section10">\\\\[10]</a> once wrote the cry: ‘What is poetry which does not serve nations or people?’ and Brecht <a href="#section11">\\\\[11]</a> wrote of a time when ‘to speak of trees is almost a crime’. Many of us have had such despairing thoughts while living and writing through such times, in such places, and Sartre’s solution makes no sense in a world where writers were – and still are – censored and forbidden to write, where, far from abandoning the word, lives were and are at risk in smuggling it, on scraps of paper, out of prisons. The state of being whose ontogenesis we explore has overwhelmingly included such experiences. Our approaches, in Nikos Kazantzakis’ <a href="#section12">\\\\[12]</a> words, have to ‘make the decision which harmonizes with the fearsome rhythm of our time.’</p>
+<p>Being here: in a particular time and place. That is the existential position with particular implications for literature. Czeslaw Milosz <a href="#section10">[10]</a> once wrote the cry: ‘What is poetry which does not serve nations or people?’ and Brecht <a href="#section11">[11]</a> wrote of a time when ‘to speak of trees is almost a crime’. Many of us have had such despairing thoughts while living and writing through such times, in such places, and Sartre’s solution makes no sense in a world where writers were – and still are – censored and forbidden to write, where, far from abandoning the word, lives were and are at risk in smuggling it, on scraps of paper, out of prisons. The state of being whose ontogenesis we explore has overwhelmingly included such experiences. Our approaches, in Nikos Kazantzakis’ <a href="#section12">[12]</a> words, have to ‘make the decision which harmonizes with the fearsome rhythm of our time.’</p>
 
 <p>Some of us have seen our books lie for years unread in our own countries, banned, and we have gone on writing. Many writers have been imprisoned. Looking at Africa alone – Soyinka, Ngugi wa Thiong’o, Jack Mapanje, in their countries, and in my own country, South Africa, Jeremy Cronin, Mongane Wally Serote, Breyten Breytenbach, Dennis Brutus, Jaki Seroke: all these went to prison for the courage shown in their lives, and have continued to take the right, as poets, to speak of trees. Many of the greats, from Thomas Mann to Chinua Achebe, cast out by political conflict and oppression in different countries, have endured the trauma of exile, from which some never recover as writers, and some do not survive at all. I think of the South Africans, Can Themba, Alex la Guma, Nat Nakasa, Todd Matshikiza. And some writers, over half a century from Joseph Roth to Milan Kundera, have had to publish new works first in the word that is not their own, a foreign language. </p>
 
@@ -171,29 +166,29 @@ Voices Around Me: Nobel Lectures
     <p style="margin-left: 50px;">we read each looking eye</p>
    <p style="margin-left: 50px;">… It has taken lives to be able to do so.</p>
 
-<p>These are the words of the South African poet and fighter for justice and peace in our country, Mongane Serote. <a href="#section13">\\\\[13]</a></p>
+<p>These are the words of the South African poet and fighter for justice and peace in our country, Mongane Serote. <a href="#section13">[13]</a></p>
 
 <p>The writer is of service to humankind only insofar as the writer uses the word even against his or her own loyalties, trusts the state of being, as it is revealed, to hold somewhere in its complexity filaments of the cord of truth, able to be bound together, here and there, in art: trusts the state of being to yield somewhere fragmentary phrases of truth, which is the final word of words, never changed by our stumbling efforts to spell it out and write it down, never changed by lies, by semantic sophistry, by the dirtying of the word for the purposes of racism, sexism, prejudice, domination, the glorification of destruction, the curses and the praise-songs.</p>
 
-<p id="section1">\\\\[1] “The God’s Script” from <i>Labyrinths & Other Writings</i> by Jorge Luis Borges. Translator unknown. Edited by Donald H. Yates & James E. Kirby. Penguin Modern Classics, page 71.</p>
-<p id="section2">\\\\[2]<i> Mythologies</i> by Roland Barthes. Translated by Annette Lavers. Hill & Wang, page 131.</p>
-<p id="section3">\\\\[3]<i> Historie de Lynx</i> by Claude Lévi-Strauss.’… je les situais à mi-chemin entre le conte de fées et le roman policier’. Plon, page 13.</p>
-<p id="section4">\\\\[4]<i> Report to Greco</i> by Nikos Kazantzakis. Faber & Faber, page 150.</p>
-<p id="section5">\\\\[5] <i>S/Z</i> by Roland Barthes. Translated by Richard Miller. Jonathan Cape.</p>
-<p id="section6">\\\\[6] London <i>Observer</i> review. 19/4/81. Anthony Burgess.</p>
-<p id="section7">\\\\[7] The Third Octavo Notebook from <i>Wedding Preparations in the Country</i> by Franz Kafka. Definitive Edition. Secker & Warburg.</p>
-<p id="section8">\\\\[8] <i>Carnets</i> 1942-5 by Albert Camus.</p>
-<p id="section9">\\\\[9] Gabriel Gárcia Márquez. In an interview; my notes do not give the journal or date.</p>
-<p id="section10">\\\\[10] ‘Dedication’ from <i>Selected Poems</i> by Czeslaw Milosz. The Ecco Press.</p>
-<p id="section11">\\\\[11] “To Posterity’ from <i>Selected Poems</i> by Bertolt Brecht. Translated by H. R. Hays. Grove Press, page 173.</p>
-<p id="section12">\\\\[12]<i> Report to Greco</i> by Nikos Kazantzakis. Faber & Faber.</p>
-<p id="section13">\\\\[13]<i> A Tough Tale</i> by Mongane Wally Serote. Kliptown Books.</p>
+<p id="section1">[1] “The God’s Script” from <i>Labyrinths & Other Writings</i> by Jorge Luis Borges. Translator unknown. Edited by Donald H. Yates & James E. Kirby. Penguin Modern Classics, page 71.</p>
+<p id="section2">[2]<i> Mythologies</i> by Roland Barthes. Translated by Annette Lavers. Hill & Wang, page 131.</p>
+<p id="section3">[3]<i> Historie de Lynx</i> by Claude Lévi-Strauss.’… je les situais à mi-chemin entre le conte de fées et le roman policier’. Plon, page 13.</p>
+<p id="section4">[4]<i> Report to Greco</i> by Nikos Kazantzakis. Faber & Faber, page 150.</p>
+<p id="section5">[5] <i>S/Z</i> by Roland Barthes. Translated by Richard Miller. Jonathan Cape.</p>
+<p id="section6">[6] London <i>Observer</i> review. 19/4/81. Anthony Burgess.</p>
+<p id="section7">[7] The Third Octavo Notebook from <i>Wedding Preparations in the Country</i> by Franz Kafka. Definitive Edition. Secker & Warburg.</p>
+<p id="section8">[8] <i>Carnets</i> 1942-5 by Albert Camus.</p>
+<p id="section9">[9] Gabriel Gárcia Márquez. In an interview; my notes do not give the journal or date.</p>
+<p id="section10">[10] ‘Dedication’ from <i>Selected Poems</i> by Czeslaw Milosz. The Ecco Press.</p>
+<p id="section11">[11] “To Posterity’ from <i>Selected Poems</i> by Bertolt Brecht. Translated by H. R. Hays. Grove Press, page 173.</p>
+<p id="section12">[12]<i> Report to Greco</i> by Nikos Kazantzakis. Faber & Faber.</p>
+<p id="section13">[13]<i> A Tough Tale</i> by Mongane Wally Serote. Kliptown Books.</p>
 <p>
 <i>From </i>Nobel Lectures, Literature 1991-1995,<i> Editor Sture Allén, World Scientific Publishing Co., Singapore, 1997</i></p>
 
 <p>Copyright © The Nobel Foundation 1991 </p>
 
-
+---
 
 <h2 id="chapter2"> TONI MORRISON, 1993 </h2>
 <p><i>Nobel Lecture December 7, 1993</i></p>
@@ -271,6 +266,7 @@ Voices Around Me: Nobel Lectures
 <i>From</i> Nobel Lectures, Literature 1991-1995,<i> Editor Sture Allén, World Scientific Publishing Co., Singapore, 1997 </i><p>
 
   <p>Copyright © The Nobel Foundation 1993</p>
+---
 
 <h2 id="chapter3"> WISŁAWA SZYMBORSKA, 1996 </h2>
 
@@ -322,7 +318,7 @@ Voices Around Me: Nobel Lectures
 
 <p>Copyright © The Nobel Foundation 1996</p>
 
-
+---
  <h2 id="chapter4"> DORIS LESSING, 2007 </h2>
 
 <p><i>December 7, 2007</i></p>
@@ -527,7 +523,8 @@ Voices Around Me: Nobel Lectures
 
 <p><i>The Nobel Lecture has been changed according to the wish of the author.</i></p>
 
- <a href="#toc">Back to the Start</a>
+
+---
 
 <h2 id="chapter5"> HERTA MÜLLER, 2009 </h2>
  
@@ -644,7 +641,7 @@ Voices Around Me: Nobel Lectures
 
 <p>Copyright © The Nobel Foundation 2009</p>
 
- <a href="#toc">Back to the Start</a>
+---
 
 <h2 id="chapter6"> ALICE MUNRO, 2013 </h2>
 
@@ -773,7 +770,7 @@ Voices Around Me: Nobel Lectures
 
 <p>I used to sit behind the desk and find the books for people and handle all the things you do in a bookstore, generally just by myself, and people came in and talked about books a lot, it was very much a place for people to get together rather than immediately buy things, and this was especially true at night, when I’d be sitting here by myself, and I had these people come in every night, talking to me about something, and it was great, it was a lot of fun. Up until this point I had been a housewife, I was at home all the time, I was a writer as well, but this was a wonderful chance to get into the world. I don’t think we made much money, possibly I talked to people a little too much, you know, instead of getting them to the books, but it was a fantastic time in my life.</p>
 
-<p>\\\\[Visitor in the bookstore]:<i> Your books remind me of home. – Yes, I live right south of Amsterdam. Thank you so much, goodbye.</p></i>
+<p>[Visitor in the bookstore]:<i> Your books remind me of home. – Yes, I live right south of Amsterdam. Thank you so much, goodbye.</p></i>
 
 <p>Think of that! Well, I love it when someone just comes up to you like that, when it’s not only a matter of getting autographs, but of telling you why.</p>
 
@@ -815,14 +812,15 @@ Voices Around Me: Nobel Lectures
 
 <p>Oh, I want to say that I am so grateful for this great honour, that nothing, nothing in the world could make me so happy as this! Thank you!</p>
 
-<p><i>\\\\[During the Nobel programme on December 7 an excerpt from the short story ‘Carried Away’ was read by the Swedish actor Pernilla August.]</i></p>
+<p><i>[During the Nobel programme on December 7 an excerpt from the short story ‘Carried Away’ was read by the Swedish actor Pernilla August.]</i></p>
 
 <p>Interviewer: Stefan Åsberg.
 Translation: Rose-Marie Nielsen.
 Production: Swedish Educational Broadcasting Company and Swedish Television.
 Recorded November 12 and 13, 2013, in Canada.
 © Swedish Academy, Swedish Educational Broadcasting Company and Swedish Television. </p><p>
- <a href="#toc">Back to the Start</a>
+
+---
 
   <h2 id="chapter7"> SVETLANA ALEXIEVICH, 2015 </h2>
 
@@ -972,6 +970,6 @@ Recorded November 12 and 13, 2013, in Canada.
  
 
   </p>
-  <a href="#toc">Back to the Start</a>
+
 
 </div>
