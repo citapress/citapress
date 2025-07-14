@@ -273,7 +273,7 @@ published: true
 
 Copyright © The Nobel Foundation 1993
 
-
+---
 
 ## WISŁAWA SZYMBORSKA, 1996 
 
