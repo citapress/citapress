@@ -94,19 +94,19 @@ published: true
 
 <p><i>Jessi Haley is editorial coordinator for Cita Press. Cita thanks the Nobel Foundation for the permission to publish these pieces.</i></p>
 
-<p id="footnote1">\[1] See the full clip <a href="https://www.nytimes.com/video/books/100000002556650/doris-lessing-on-the-nobel-prize.html" target="_blank">"Doris Lessing on the Nobel Prize"</a> from <i>The New York Times</i> (November 17,2013). Reuters, Copyright <i>The New York Times, 2013</i>.</p>
-<p id="footnote2">\[2] From the Nobel Committee, for Doris Lessing and Nadine Gordimer, respectively.
+<p id="footnote1">[1] See the full clip <a href="https://www.nytimes.com/video/books/100000002556650/doris-lessing-on-the-nobel-prize.html" target="_blank">"Doris Lessing on the Nobel Prize"</a> from <i>The New York Times</i> (November 17,2013). Reuters, Copyright <i>The New York Times, 2013</i>.</p>
+<p id="footnote2">[2] From the Nobel Committee, for Doris Lessing and Nadine Gordimer, respectively.
 </p>
-<p id="footnote3">\[3]  As the children in Toni Morrison’s Nobel Prize lecture demand: “Tell us what it is to be a woman so that we may know what it is to be a man. What moves at the margin. What it is to have no home in this place. To be set adrift from the one you knew. What it is to live at the edge of towns that cannot bear your company.”
+<p id="footnote3">[3]  As the children in Toni Morrison’s Nobel Prize lecture demand: “Tell us what it is to be a woman so that we may know what it is to be a man. What moves at the margin. What it is to have no home in this place. To be set adrift from the one you knew. What it is to live at the edge of towns that cannot bear your company.”
 </p>
-<p id="footnote4">\[4]  As of 2022, the roster of Swedish Academy members joined the body between 1980 and 2020; the majority of the current Nobel Committee is made up of recently elected members.
+<p id="footnote4">[4]  As of 2022, the roster of Swedish Academy members joined the body between 1980 and 2020; the majority of the current Nobel Committee is made up of recently elected members.
 </p>
-<p id="footnote5">\[5] (Except for probably in the case of Bob Dylan!)</p>
+<p id="footnote5">[5] (Except for probably in the case of Bob Dylan!)</p>
 [^6]: The full list of winners, countries, and years: Selma Lagerlof (1909, Sweden), Grazia Deledda (1926, Italy), Sigrid Undset (1928, Norway), Pearl Buck (1938, US), Gabriela Mistral (1945, Chile), Nelly Sachs (1966, Sweden), Nadine Gordimer (1991, South Africa), Toni Morrison (1993, US), Wisława Szymborska (1996, Poland), Elfriede Jelinek (2004, Austria), Doris Lessing (2007, England), Herta Müller (2009, Germany), Alice Munro (2013, Canada), Svetlana Alexievich (2015, Belarus), Olga Tokarczuk (2018, Poland), Louise Glück (2020, US), and Annie Ernaux (2022, France). 
 </p>
 [^7]: From <a href="https://www.pbs.org/wnet/americanmasters/when-toni-morrison-won-the-nobel-prize/14866/" target="_blank">“Toni Morrison: The Pieces I Am” (dir. Timothy Greenfield-Sanders, 2019).</a>  In the same clip, Fran Liebovitz said “I highly recommend you have a friend who wins the Nobel Prize.”
 </p>
-<p id="footnote8">8] José Vergara,<a href="https://lithub.com/on-the-dangers-of-greatness-a-conversation-with-svetlana-alexievich/" target="_blank">“On the Dangers of Greatness: A Conversation with Svetlana Alexievich.”</a> <i>Literary Hub</i>, June 3, 2022.</p>
+<p id="footnote8">[8] José Vergara,<a href="https://lithub.com/on-the-dangers-of-greatness-a-conversation-with-svetlana-alexievich/" target="_blank">“On the Dangers of Greatness: A Conversation with Svetlana Alexievich.”</a> <i>Literary Hub</i>, June 3, 2022.</p>
 
   </section>
   <h3 id="book">
