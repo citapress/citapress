@@ -114,7 +114,7 @@ He is very careful and loving, and hardly lets me stir without special direction
 
 I have a schedule prescription for each hour in the day; he takes all care from me, and so I feel basely ungrateful not to value it more.
 
-He said we came here solely on my account, that I was to have perfect rest and all the air I could get. “Your exercise depends on your strength, my dear,” said he, “and your food somewhat on your appetite; but air you can absorb all the time." So we took the nursery at the top of the house.
+He said we came here solely on my account, that I was to have perfect rest and all the air I could get. “Your exercise depends on your strength, my dear,” said he, “and your food somewhat on your appetite; but air you can absorb all the time." So we took the nursery, at the top of the house.
 
 It is a big, airy room, the whole floor nearly, with windows that look all ways, and air and sunshine galore. It was nursery first and then playroom and gymnasium, I should judge; for the windows are barred for little children, and there are rings and things in the walls.
 
