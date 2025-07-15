@@ -89,14 +89,14 @@ Through our work, Cita Press honors the principles of decentralization, collecti
 </p>
 <p id="footnote3">(3)  As the children in Toni Morrison’s Nobel Prize lecture demand: “Tell us what it is to be a woman so that we may know what it is to be a man. What moves at the margin. What it is to have no home in this place. To be set adrift from the one you knew. What it is to live at the edge of towns that cannot bear your company.”
 </p>
-<p id="footnote4">\\[4]  [^4]: As of 2022, the roster of Swedish Academy members joined the body between 1980 and 2020; the majority of the current Nobel Committee is made up of recently elected members.
+<p id="footnote4">(4) As of 2022, the roster of Swedish Academy members joined the body between 1980 and 2020; the majority of the current Nobel Committee is made up of recently elected members.
 </p>
-<p id="footnote5">\\[5] (Except for probably in the case of Bob Dylan!)</p>
-<p id="footnote6">\\[6]: The full list of winners, countries, and years: Selma Lagerlof (1909, Sweden), Grazia Deledda (1926, Italy), Sigrid Undset (1928, Norway), Pearl Buck (1938, US), Gabriela Mistral (1945, Chile), Nelly Sachs (1966, Sweden), Nadine Gordimer (1991, South Africa), Toni Morrison (1993, US), Wisława Szymborska (1996, Poland), Elfriede Jelinek (2004, Austria), Doris Lessing (2007, England), Herta Müller (2009, Germany), Alice Munro (2013, Canada), Svetlana Alexievich (2015, Belarus), Olga Tokarczuk (2018, Poland), Louise Glück (2020, US), and Annie Ernaux (2022, France). 
+<p id="footnote5">(5) (Except for probably in the case of Bob Dylan!)</p>
+<p id="footnote6">(6) The full list of winners, countries, and years: Selma Lagerlof (1909, Sweden), Grazia Deledda (1926, Italy), Sigrid Undset (1928, Norway), Pearl Buck (1938, US), Gabriela Mistral (1945, Chile), Nelly Sachs (1966, Sweden), Nadine Gordimer (1991, South Africa), Toni Morrison (1993, US), Wisława Szymborska (1996, Poland), Elfriede Jelinek (2004, Austria), Doris Lessing (2007, England), Herta Müller (2009, Germany), Alice Munro (2013, Canada), Svetlana Alexievich (2015, Belarus), Olga Tokarczuk (2018, Poland), Louise Glück (2020, US), and Annie Ernaux (2022, France). 
 </p>
-<p id="footnote7">\\[7] From <a href="https://www.pbs.org/wnet/americanmasters/when-toni-morrison-won-the-nobel-prize/14866/" target="_blank">“Toni Morrison: The Pieces I Am” (dir. Timothy Greenfield-Sanders, 2019).</a>  In the same clip, Fran Liebovitz said “I highly recommend you have a friend who wins the Nobel Prize.”
+<p id="footnote7">(7) From <a href="https://www.pbs.org/wnet/americanmasters/when-toni-morrison-won-the-nobel-prize/14866/" target="_blank">“Toni Morrison: The Pieces I Am” (dir. Timothy Greenfield-Sanders, 2019).</a>  In the same clip, Fran Liebovitz said “I highly recommend you have a friend who wins the Nobel Prize.”
 </p>
-<p id="footnote8">\\[8] José Vergara,<a href="https://lithub.com/on-the-dangers-of-greatness-a-conversation-with-svetlana-alexievich/" target="_blank">“On the Dangers of Greatness: A Conversation with Svetlana Alexievich.”</a> <i>Literary Hub</i>, June 3, 2022.</p>
+<p id="footnote8">(8) José Vergara,<a href="https://lithub.com/on-the-dangers-of-greatness-a-conversation-with-svetlana-alexievich/" target="_blank">“On the Dangers of Greatness: A Conversation with Svetlana Alexievich.”</a> <i>Literary Hub</i>, June 3, 2022.</p>
 
 - - -
 
