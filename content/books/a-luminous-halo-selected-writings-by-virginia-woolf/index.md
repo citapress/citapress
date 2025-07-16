@@ -345,7 +345,7 @@ If the moralists ask us how we can justify our love of reading, we can make use 
 
 ## THE NARROW BRIDGE OF ART
 
-*This is the original form of the essay, published in two parts as "Poetry Fiction and the Future" in the* New York Herald Tribune's *Sunday "Books" section in August 1927. It was later reprinted in the posthumous* Collected Essays by Virginia Woolf (Volume Two). 
+*This is adapted (with some slight corrections for consistency) from the original form of the essay, published in two parts as "Poetry Fiction and the Future" in the* New York Herald Tribune's *Sunday "Books" section in August 1927. It was later reprinted in the posthumous* Collected Essays by Virginia Woolf (Volume Two). 
 
 **I**
 
