@@ -4,6 +4,7 @@ publication: 2025-06-30T18:55:00.000Z
 publishformat: Year
 release: 1929-01-10T10:55:00.000Z
 releaseformat: Year
+sortingdate: ""
 templateKey: book-page
 author: Virginia Woolf
 isbn: 978-1-961368-21-7
