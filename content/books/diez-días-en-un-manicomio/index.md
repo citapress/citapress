@@ -1304,7 +1304,7 @@ Mi trabajo me ha dejado un consuelo: como resultado de la fuerza de mi historia,
 
 ## **Ep**ílogo: **Nota a la traducción**
 
-Por Daniel Saldaña París
+***Por Daniel Saldaña París***
 
 La traducción de este libro de Nellie Bly se realizó gracias a la Beca de Traducción Literaria y Tecnología de Cita Press. La idea, según la convocatoria, era utilizar las herramientas de la mal llamada Inteligencia Artificial (es decir, los modelos computacionales conocidos como *Large Language Model*, *Neural Language Model* y *Machine Translator*), junto con herramientas tradicionales (diccionarios, foros, conversaciones y mis propias habilidades) para traducir *Diez días en un manicomio*, libro seminal del periodismo inmersivo en los Estados Unidos. El resultado sería no sólo la traducción al español del reportaje, sino también una serie de reflexiones sobre el uso de las nuevas tecnologías en la traducción literaria. En este epílogo comparto algunas de dichas reflexiones, por lo que no hablaré más que tangencialmente del libro de Bly, que ya ha sido presentado por Mikita Brottman con mayor autoridad y justicia de las que yo podría hacerle.
 
