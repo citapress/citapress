@@ -1300,7 +1300,7 @@ Mi trabajo me ha dejado un consuelo: como resultado de la fuerza de mi historia,
 
 *FIN*
 
-
+---
 
 ## **Ep**ílogo: **Nota a la traducción**
 
@@ -1332,6 +1332,7 @@ Cierro estas líneas con una valoración personal: lo que aprendí traduciendo a
 
 —Ciudad de México, septiembre de 2024
 
+---
 
 
 ## **Bibliografía y lecturas recomendadas**
