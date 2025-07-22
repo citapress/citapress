@@ -115,341 +115,341 @@ Llegado a este punto, permítanme decir algo: desde el momento en que entré en 
 
 Pero volvamos a mi trabajo y a mi misión. Después de recibir mis instrucciones, regresé a mi pensión y, al caer la noche, empecé a practicar el papel en el que debutaría al día siguiente. Qué difícil tarea, pensé, aparecer ante una multitud y convencerla de que estaba loca. Nunca en mi vida había estado cerca de enajenadas y no tenía la menor idea de cómo se comportaban. Encima, sería examinada por varios doctos médicos que hacían de la locura su especialidad y que todos los días tenían contacto con dementes. ¿Cómo esperaba pasar ante estos doctores y convencerlos de que estaba loca? Temía no poder engañarlos. Empecé a pensar que mi tarea estaba condenada al fracaso, pero había que realizarla. Así que me precipité hasta el espejo y me examiné la cara. Recordé todo lo que había leído sobre los comportamientos de las personas dementes; de cómo, antes que nada, deben tener los ojos desorbitados, así que abrí los míos lo más posible y miré fijamente mi reflejo sin parpadear. Les aseguro que la visión no era tranquilizadora, ni siquiera para mí misma, en especial a altas horas de la noche. Traté de intensificar la llama de la lámpara con la esperanza de que aumentara mi valor. Sólo tuve un éxito parcial, pero me consolé con la idea de que dentro de unas pocas noches ya no estaría allí, sino encerrada en una celda con un montón de lunáticas.
 
-	No hacía demasiado frío; sin embargo, cuando pensaba en lo que me esperaba, un escalofrío invernal me recorría la espalda, como burlándose del sudor que, lenta pero indefectiblemente, me iba alisando el flequillo. En los tiempos muertos, mientras practicaba frente al espejo e imaginaba mi futuro como lunática, leía fragmentos de cuentos de fantasmas improbables e imposibles, y así, cuando llegó el alba a ahuyentar la noche, me encontró en un estado de ánimo propicio para mi misión, pero lo bastante hambrienta como para sentir claramente que quería mi desayuno. Con parsimonia y tristeza, tomé mi baño matutino y me despedí en silencio de algunos de los artículos más preciados para la civilización moderna. Aparté con ternura mi cepillo de dientes y, al darme la última frotada con el jabón, murmuré: “Puede ser por unos días, o puede ser por más tiempo”. Después me puse la ropa vieja que había seleccionado para la ocasión. Estaba de un humor que me hacía ver todo como a través de un cristal muy serio. No está de más echar una última “mirada cariñosa”, reflexioné, porque ¿quién podría asegurar que la tensión de fingir demencia y estar encerrada con un grupo de personas locas no acabaría por desquiciarme de verdad, de forma irreversible? Aunque ni una sola vez pensé en eludir mi misión. Con una calma, al menos externa, partí a mi enloquecida encomienda.
+No hacía demasiado frío; sin embargo, cuando pensaba en lo que me esperaba, un escalofrío invernal me recorría la espalda, como burlándose del sudor que, lenta pero indefectiblemente, me iba alisando el flequillo. En los tiempos muertos, mientras practicaba frente al espejo e imaginaba mi futuro como lunática, leía fragmentos de cuentos de fantasmas improbables e imposibles, y así, cuando llegó el alba a ahuyentar la noche, me encontró en un estado de ánimo propicio para mi misión, pero lo bastante hambrienta como para sentir claramente que quería mi desayuno. Con parsimonia y tristeza, tomé mi baño matutino y me despedí en silencio de algunos de los artículos más preciados para la civilización moderna. Aparté con ternura mi cepillo de dientes y, al darme la última frotada con el jabón, murmuré: “Puede ser por unos días, o puede ser por más tiempo”. Después me puse la ropa vieja que había seleccionado para la ocasión. Estaba de un humor que me hacía ver todo como a través de un cristal muy serio. No está de más echar una última “mirada cariñosa”, reflexioné, porque ¿quién podría asegurar que la tensión de fingir demencia y estar encerrada con un grupo de personas locas no acabaría por desquiciarme de verdad, de forma irreversible? Aunque ni una sola vez pensé en eludir mi misión. Con una calma, al menos externa, partí a mi enloquecida encomienda.
 
-	Al principio, pensé que lo mejor sería ir a una pensión y, tras asegurarme alojamiento, decirle en confidencia a la casera, o al señor, según fuera el caso, que estaba buscando trabajo para, a los pocos días, fingir que enloquecía. Al sopesar la idea, temí que tardase demasiado en rendir frutos. Se me ocurrió de pronto que sería mucho más sencillo ir a una pensión para mujeres trabajadoras. Supe que, ya que una casa llena de mujeres me creyera loca, no cejarían hasta verme lejos de ellas y en un lugar seguro.
+Al principio, pensé que lo mejor sería ir a una pensión y, tras asegurarme alojamiento, decirle en confidencia a la casera, o al señor, según fuera el caso, que estaba buscando trabajo para, a los pocos días, fingir que enloquecía. Al sopesar la idea, temí que tardase demasiado en rendir frutos. Se me ocurrió de pronto que sería mucho más sencillo ir a una pensión para mujeres trabajadoras. Supe que, ya que una casa llena de mujeres me creyera loca, no cejarían hasta verme lejos de ellas y en un lugar seguro.
 
-	Seleccioné en el directorio el Hogar Temporal para Mujeres, en el número 84 de la Segunda Avenida. Al caminar por la avenida, decidí que, una vez dentro del Hogar, haría lo posible por iniciar mi travesía hacia Blackwell’s Island y al manicomio.
+Seleccioné en el directorio el Hogar Temporal para Mujeres, en el número 84 de la Segunda Avenida. Al caminar por la avenida, decidí que, una vez dentro del Hogar, haría lo posible por iniciar mi travesía hacia Blackwell’s Island y al manicomio.
 
-
+---
 
 ## **Capítulo III: En el hogar temporal**
 
 Me dispuse a empezar mi carrera como Nellie Brown, la chica loca. Al avanzar por la avenida intenté asumir el aspecto que lucen las doncellas en los cuadros titulados “Soñadora”. Las expresiones “distantes” tienen un aire de locura. Pasé por el pequeño patio de cemento hasta la entrada del Hogar. Tiré de la campanilla, que hizo un sonido tan fuerte como el badajo de una iglesia, y esperé con ansias a que se abriera la puerta del Hogar que, según era mi intención, me arrojaría en breve a la caridad de la policía. La puerta retrocedió con brusquedad, y ante mí apareció una chica bajita, rubia, con no más de trece primaveras a cuestas.
 
-	–¿Se encuentra la matrona? –pregunté en voz baja. 
+–¿Se encuentra la matrona? –pregunté en voz baja. 
 
-	–Sí está; se encuentra ocupada. Pase al salón del fondo –respondió la chica en voz alta, sin que su rostro, de una peculiar madurez, se modificara un ápice.
+–Sí está; se encuentra ocupada. Pase al salón del fondo –respondió la chica en voz alta, sin que su rostro, de una peculiar madurez, se modificara un ápice.
 
-	Seguí las instrucciones, no muy amables ni corteses, y me vi en un salón incómodo y oscuro. Ahí esperé la llegada de mi anfitriona. Había estado sentada al menos unos veinte minutos cuando entró una mujer esbelta, enfundada en un austero vestido oscuro y, deteniéndose ante mí, espetó en tono inquisitivo: 
+Seguí las instrucciones, no muy amables ni corteses, y me vi en un salón incómodo y oscuro. Ahí esperé la llegada de mi anfitriona. Había estado sentada al menos unos veinte minutos cuando entró una mujer esbelta, enfundada en un austero vestido oscuro y, deteniéndose ante mí, espetó en tono inquisitivo: 
 
-	–¿Y bien?
+–¿Y bien?
 
-	–¿Es usted la matrona? –pregunté. 
+–¿Es usted la matrona? –pregunté. 
 
-	–No –respondió ella–, la matrona está enferma; soy su asistente. ¿Qué desea?
+–No –respondió ella–, la matrona está enferma; soy su asistente. ¿Qué desea?
 
-	–Quisiera quedarme aquí unos cuantos días, si pueden recibirme.
+–Quisiera quedarme aquí unos cuantos días, si pueden recibirme.
 
-	–Bueno, no tengo habitaciones sencillas, estamos rebasadas; pero si está dispuesta a ocupar una habitación con otra chica, es todo lo que puedo hacer por usted.
+–Bueno, no tengo habitaciones sencillas, estamos rebasadas; pero si está dispuesta a ocupar una habitación con otra chica, es todo lo que puedo hacer por usted.
 
-	–Eso me haría muy feliz –contesté–. ¿Cuánto cobran? 
+–Eso me haría muy feliz –contesté–. ¿Cuánto cobran? 
 
-	Había llevado conmigo tan solo unos setenta centavos, a sabiendas de que, cuanto antes se agotaran mis fondos, tanto más pronto me echarían, y que me echaran era lo que buscaba.
+Había llevado conmigo tan solo unos setenta centavos, a sabiendas de que, cuanto antes se agotaran mis fondos, tanto más pronto me echarían, y que me echaran era lo que buscaba.
 
-	–Cobramos treinta centavos la noche –fue su respuesta.
+–Cobramos treinta centavos la noche –fue su respuesta.
 
-	Con eso, le pagué el alojamiento de una noche y ella me dejó con el pretexto de tener otras ocupaciones. Abandonada a mis propios medios de entretenimiento, inspeccioné mis alrededores.
+Con eso, le pagué el alojamiento de una noche y ella me dejó con el pretexto de tener otras ocupaciones. Abandonada a mis propios medios de entretenimiento, inspeccioné mis alrededores.
 
-	No eran alegres, por decir lo menos. Un armario, un escritorio, un librero, un órgano y varias sillas conformaban el mobiliario de la estancia, en la que apenas entraba la luz del día. 
+No eran alegres, por decir lo menos. Un armario, un escritorio, un librero, un órgano y varias sillas conformaban el mobiliario de la estancia, en la que apenas entraba la luz del día. 
 
-	Para cuando me había familiarizado con mis aposentos, empezó a repicar en el sótano una campana que rivalizaba con la de la entrada en cuanto a volumen, a la vez que varias mujeres descendían en tropel las escaleras desde diversos puntos de la casa. Imaginé, por los signos evidentes, que se había servido la comida, pero, como nadie me dijo nada, no hice ningún esfuerzo por sumarme al tren de las hambrientas. Sin embargo, sí que esperaba que alguien me invitase a bajar. Siempre produce un sentimiento de añoranza y soledad el saber que otros están comiendo cuando una no tiene ocasión de hacerlo, incluso sin tener hambre. Me alegró que la asistente de la matrona viniera hasta mí y me preguntara si no quería algo de comer. Le respondí que sí y luego le pregunté cómo se llamaba. Señora Stanard, dijo, y de inmediato lo apunté en un cuaderno que había llevado conmigo para tomar notas y en el que había escrito varias páginas de absoluto sinsentido para los inquisitivos científicos.
+Para cuando me había familiarizado con mis aposentos, empezó a repicar en el sótano una campana que rivalizaba con la de la entrada en cuanto a volumen, a la vez que varias mujeres descendían en tropel las escaleras desde diversos puntos de la casa. Imaginé, por los signos evidentes, que se había servido la comida, pero, como nadie me dijo nada, no hice ningún esfuerzo por sumarme al tren de las hambrientas. Sin embargo, sí que esperaba que alguien me invitase a bajar. Siempre produce un sentimiento de añoranza y soledad el saber que otros están comiendo cuando una no tiene ocasión de hacerlo, incluso sin tener hambre. Me alegró que la asistente de la matrona viniera hasta mí y me preguntara si no quería algo de comer. Le respondí que sí y luego le pregunté cómo se llamaba. Señora Stanard, dijo, y de inmediato lo apunté en un cuaderno que había llevado conmigo para tomar notas y en el que había escrito varias páginas de absoluto sinsentido para los inquisitivos científicos.
 
-	Así equipada, esperé algún acontecimiento. Pero en cuanto a mi comida… bueno, seguí a la señora Stanard por las escaleras sin alfombrar que descendían hasta el sótano, donde un gran número de mujeres estaba ya comiendo. La mujer me encontró lugar en una mesa junto a otras tres. La criada de pelo corto que me había abierto la puerta actuaba ahora de camarera. Con los brazos en la cintura y mirándome fijamente, dijo: 
+Así equipada, esperé algún acontecimiento. Pero en cuanto a mi comida… bueno, seguí a la señora Stanard por las escaleras sin alfombrar que descendían hasta el sótano, donde un gran número de mujeres estaba ya comiendo. La mujer me encontró lugar en una mesa junto a otras tres. La criada de pelo corto que me había abierto la puerta actuaba ahora de camarera. Con los brazos en la cintura y mirándome fijamente, dijo: 
 
-	–¿Carne de cordero hervida, carne de res hervida, frijoles, papas, café o té?
+–¿Carne de cordero hervida, carne de res hervida, frijoles, papas, café o té?
 
-	–Res, papas, café y pan –respondí. 
+–Res, papas, café y pan –respondí. 
 
-	–El pan va incluido –explicó, y se dirigió hacia la cocina, que estaba en la parte trasera. No había pasado mucho tiempo cuando volvió con lo que había pedido en una bandeja grande y muy golpeada, que azotó con brusquedad ante mí. Comencé mi simple comida. No era muy apetecible, así que mientras fingía comer observaba a las demás. 
+–El pan va incluido –explicó, y se dirigió hacia la cocina, que estaba en la parte trasera. No había pasado mucho tiempo cuando volvió con lo que había pedido en una bandeja grande y muy golpeada, que azotó con brusquedad ante mí. Comencé mi simple comida. No era muy apetecible, así que mientras fingía comer observaba a las demás. 
 
-	¡A menudo he moralizado sobre la forma repulsiva que suele asumir la caridad! He aquí un hogar para mujeres merecedoras y, sin embargo, cuánta farsa contenía aquel nombre. El suelo estaba desnudo, y las pequeñas mesas de madera ignoraban de manera sublime los ornatos modernos, como el barniz, el esmalte y los manteles. Es inútil hablar de la baratura del lino y de sus efectos civilizatorios. Sin embargo, estas honestas trabajadoras, las más necesitadas de las mujeres, se ven obligadas a llamar “hogar” a aquel espacio desolado.
+¡A menudo he moralizado sobre la forma repulsiva que suele asumir la caridad! He aquí un hogar para mujeres merecedoras y, sin embargo, cuánta farsa contenía aquel nombre. El suelo estaba desnudo, y las pequeñas mesas de madera ignoraban de manera sublime los ornatos modernos, como el barniz, el esmalte y los manteles. Es inútil hablar de la baratura del lino y de sus efectos civilizatorios. Sin embargo, estas honestas trabajadoras, las más necesitadas de las mujeres, se ven obligadas a llamar “hogar” a aquel espacio desolado.
 
-	Al terminar su comida, cada mujer se dirigía al escritorio de la esquina, donde la señora Stanard esperaba sentada, y le pagaba su cuenta. Aquel ejemplar único de humanidad que era mi mesera me tendió un recibo rojo, muy arrugado y maltratado. Mi cuenta era de unos treinta centavos.
+Al terminar su comida, cada mujer se dirigía al escritorio de la esquina, donde la señora Stanard esperaba sentada, y le pagaba su cuenta. Aquel ejemplar único de humanidad que era mi mesera me tendió un recibo rojo, muy arrugado y maltratado. Mi cuenta era de unos treinta centavos.
 
-	Después de la comida, subí al piso superior y retomé mi lugar en el salón del fondo. Tenía frío y estaba bastante incómoda; además, ya me había convencido de que no aguantaría aquel asunto por mucho tiempo, de modo que, cuanto antes asumiera mi demencia, más pronto me libraría de aquel ocio obligatorio. ¡Ay! En verdad que aquel fue el día más largo de mi vida. Observé con desgana a las mujeres del salón delantero, donde estaban sentadas todas, salvo yo. 
+Después de la comida, subí al piso superior y retomé mi lugar en el salón del fondo. Tenía frío y estaba bastante incómoda; además, ya me había convencido de que no aguantaría aquel asunto por mucho tiempo, de modo que, cuanto antes asumiera mi demencia, más pronto me libraría de aquel ocio obligatorio. ¡Ay! En verdad que aquel fue el día más largo de mi vida. Observé con desgana a las mujeres del salón delantero, donde estaban sentadas todas, salvo yo. 
 
-	Una no hacía sino leer, rascarse la cabeza y, cada tanto, decir suavemente “Georgie”, sin levantar la mirada de su libro. “Georgie” era su hijo hiperactivo, más bullicioso que ningún otro niño que hubiera visto antes. Él hacía todo aquello que fuera grosero y falto de modales, pensé, y la madre no decía nada a menos que oyera a alguien más gritarle al niño. Otra mujer se quedaba dormida una y otra vez, y se despertaba a sí misma con sus ronquidos. En verdad, me sentí muy agradecida de que sólo se despertara a sí misma. La mayoría de las mujeres estaban ahí sentadas sin hacer nada, aunque había unas cuantas que hacían encajes y tejían sin pausa. La campana gigante parecía activarse todo el tiempo, al igual que la chica de pelo corto. Esta última era, además, una de esas chicas que cantan sin cesar fragmentos de todas las canciones e himnos que se han compuesto en los últimos cincuenta años. Sí que existe el martirio en nuestros días. El sonido de la campana traía a más personas que buscaban refugio aquella noche. Salvo por una mujer, que era del campo y había venido a la ciudad en una expedición de compras, todas eran mujeres trabajadoras, algunas de ellas con críos.
+Una no hacía sino leer, rascarse la cabeza y, cada tanto, decir suavemente “Georgie”, sin levantar la mirada de su libro. “Georgie” era su hijo hiperactivo, más bullicioso que ningún otro niño que hubiera visto antes. Él hacía todo aquello que fuera grosero y falto de modales, pensé, y la madre no decía nada a menos que oyera a alguien más gritarle al niño. Otra mujer se quedaba dormida una y otra vez, y se despertaba a sí misma con sus ronquidos. En verdad, me sentí muy agradecida de que sólo se despertara a sí misma. La mayoría de las mujeres estaban ahí sentadas sin hacer nada, aunque había unas cuantas que hacían encajes y tejían sin pausa. La campana gigante parecía activarse todo el tiempo, al igual que la chica de pelo corto. Esta última era, además, una de esas chicas que cantan sin cesar fragmentos de todas las canciones e himnos que se han compuesto en los últimos cincuenta años. Sí que existe el martirio en nuestros días. El sonido de la campana traía a más personas que buscaban refugio aquella noche. Salvo por una mujer, que era del campo y había venido a la ciudad en una expedición de compras, todas eran mujeres trabajadoras, algunas de ellas con críos.
 
-	Cuando se acercaba la noche, la señora Stanard se acercó a mí y me dijo:
+Cuando se acercaba la noche, la señora Stanard se acercó a mí y me dijo:
 
-	–¿Qué te pasa? ¿Tienes alguna pena o algún lío?
+–¿Qué te pasa? ¿Tienes alguna pena o algún lío?
 
-	–No –dije casi atónita ante la pregunta–. ¿Por qué?
+–No –dije casi atónita ante la pregunta–. ¿Por qué?
 
-	–Oh, porque –comenzó, con aire femenino– puedo verlo en tu rostro. Cuenta una historia de gran tormento.
+–Oh, porque –comenzó, con aire femenino– puedo verlo en tu rostro. Cuenta una historia de gran tormento.
 
-	–Sí, todo es muy triste –dije yo, con un tono dubitativo que pretendía reflejar mi locura.
+–Sí, todo es muy triste –dije yo, con un tono dubitativo que pretendía reflejar mi locura.
 
-	–No debes permitir que ello te preocupe. Todos tenemos nuestros problemas, pero los superamos en buena hora. ¿Qué tipo de trabajo buscas?
+–No debes permitir que ello te preocupe. Todos tenemos nuestros problemas, pero los superamos en buena hora. ¿Qué tipo de trabajo buscas?
 
-	–No lo sé, todo es tan triste –respondí.
+–No lo sé, todo es tan triste –respondí.
 
-	–¿Te gustaría ser enfermera de niños y llevar una linda cofia y una bata? –me preguntó. 
+–¿Te gustaría ser enfermera de niños y llevar una linda cofia y una bata? –me preguntó. 
 
-	Me llevé el pañuelo a la cara para esconder una sonrisa y contesté con un tono apagado: 	–Nunca he trabajado, no sé cómo hacerlo.
+Me llevé el pañuelo a la cara para esconder una sonrisa y contesté con un tono apagado: –Nunca he trabajado, no sé cómo hacerlo.
 
-	–Pero debes aprender –me urgió–, todas estas mujeres trabajan.
+–Pero debes aprender –me urgió–, todas estas mujeres trabajan.
 
-	–¿De verdad? –dije con un susurro bajo y estremecedor–. Pues a mí me parecen horribles, como mujeres locas. Les tengo mucho miedo.
+–¿De verdad? –dije con un susurro bajo y estremecedor–. Pues a mí me parecen horribles, como mujeres locas. Les tengo mucho miedo.
 
-	–No tienen muy buen aspecto –contestó, asintiendo–, pero son buenas mujeres, honestas y trabajadoras. Aquí no recibimos a gente loca.
+–No tienen muy buen aspecto –contestó, asintiendo–, pero son buenas mujeres, honestas y trabajadoras. Aquí no recibimos a gente loca.
 
-	De nuevo escondí mi sonrisa con el pañuelo, pues pensé que antes de que amaneciera se daría cuenta de que al menos tenía a una persona loca entre su rebaño.
+De nuevo escondí mi sonrisa con el pañuelo, pues pensé que antes de que amaneciera se daría cuenta de que al menos tenía a una persona loca entre su rebaño.
 
-	–Todas parecen locas –afirmé de nuevo– y les tengo miedo. Hay tanta gente loca por ahí, y una nunca sabe qué pueden llegar a hacer. Se cometen tantos asesinatos, y la policía nunca atrapa a los asesinos –terminé con un sollozo que habría quebrado a una audiencia de críticos desencantados. 
+–Todas parecen locas –afirmé de nuevo– y les tengo miedo. Hay tanta gente loca por ahí, y una nunca sabe qué pueden llegar a hacer. Se cometen tantos asesinatos, y la policía nunca atrapa a los asesinos –terminé con un sollozo que habría quebrado a una audiencia de críticos desencantados. 
 
-	Ella dio un respingo convulso y repentino, y supe que mi primer tiro había dado en el blanco. Fue divertido ver lo poco que tardó en levantarse de su silla y murmurar apresuradamente: 
+Ella dio un respingo convulso y repentino, y supe que mi primer tiro había dado en el blanco. Fue divertido ver lo poco que tardó en levantarse de su silla y murmurar apresuradamente: 
 
-	–Volveré a hablar con usted más tarde. Yo sabía que no volvería, y no lo hizo.
+–Volveré a hablar con usted más tarde. Yo sabía que no volvería, y no lo hizo.
 
-	Cuando sonó la campana de la cena, bajé con las demás al sótano y participé en la comida de la noche, que era similar a la del mediodía, salvo que era más barata y había más gente; porque las mujeres que pasaban el día trabajando estaban de vuelta. Después de la cena, nos retiramos a los salones, donde todas se sentaron o permanecieron de pie, ya que no había suficientes sillas disponibles. 
+Cuando sonó la campana de la cena, bajé con las demás al sótano y participé en la comida de la noche, que era similar a la del mediodía, salvo que era más barata y había más gente; porque las mujeres que pasaban el día trabajando estaban de vuelta. Después de la cena, nos retiramos a los salones, donde todas se sentaron o permanecieron de pie, ya que no había suficientes sillas disponibles. 
 
-	Fue una noche terriblemente solitaria, y la luz que caía de la única lámpara de gas del salón y de la lámpara de aceite del pasillo ayudaba a envolvernos en una penumbra y a teñir nuestros espíritus de un tono azul marino, pero sentí que no necesitaría muchas inmersiones en aquella atmósfera para llegar a merecer el lugar que aspiraba.
+Fue una noche terriblemente solitaria, y la luz que caía de la única lámpara de gas del salón y de la lámpara de aceite del pasillo ayudaba a envolvernos en una penumbra y a teñir nuestros espíritus de un tono azul marino, pero sentí que no necesitaría muchas inmersiones en aquella atmósfera para llegar a merecer el lugar que aspiraba.
 
-	Observé a dos mujeres que, entre todas, parecían las más sociables, y las elegí para que fueran las responsables de mi salvación o, hablando con más precisión, de mi condena y mi sentencia. Disculpándome con la explicación de que me sentía sola, pregunté si podía unirme a su compañía. Aceptaron con generosidad, así que, con mi sombrero y mis guantes puestos, que nadie me había pedido que me quitara, me senté a escuchar la conversación, bastante aburrida, en la que no participé, limitándome a mantener mi aspecto triste y a responder a sus observaciones con un “Sí” o “No” o “No sabría decir”. Varias veces les dije que creía que todas las mujeres de la casa parecían locas, pero ellas se tardaron en captar mi muy original comentario. Una dijo que se llamaba señora King y que era sureña. Añadió luego que yo tenía acento sureño y me preguntó con brusquedad si no venía, en realidad, del sur. Dije “Sí”. La otra mujer se puso a hablar sobre los barcos que iban a Boston y me preguntó si yo sabía a qué hora zarpaban. 
+Observé a dos mujeres que, entre todas, parecían las más sociables, y las elegí para que fueran las responsables de mi salvación o, hablando con más precisión, de mi condena y mi sentencia. Disculpándome con la explicación de que me sentía sola, pregunté si podía unirme a su compañía. Aceptaron con generosidad, así que, con mi sombrero y mis guantes puestos, que nadie me había pedido que me quitara, me senté a escuchar la conversación, bastante aburrida, en la que no participé, limitándome a mantener mi aspecto triste y a responder a sus observaciones con un “Sí” o “No” o “No sabría decir”. Varias veces les dije que creía que todas las mujeres de la casa parecían locas, pero ellas se tardaron en captar mi muy original comentario. Una dijo que se llamaba señora King y que era sureña. Añadió luego que yo tenía acento sureño y me preguntó con brusquedad si no venía, en realidad, del sur. Dije “Sí”. La otra mujer se puso a hablar sobre los barcos que iban a Boston y me preguntó si yo sabía a qué hora zarpaban. 
 
-	Por un momento, olvidé mi papel de locura asumida y le dije la hora correcta en que partía el barco. Luego me preguntó qué tipo de trabajo pensaba hacer, o si alguna vez había trabajado en algo. Le contesté que me parecía muy triste que hubiera tanta gente trabajadora en el mundo. Ella dijo, a modo de respuesta, que había tenido mala suerte al venir a Nueva York, donde había trabajado corrigiendo pruebas para un diccionario médico durante un tiempo, pero que su salud se había deteriorado con la tarea y ahora se regresaba a Boston. Cuando la mucama vino a decirnos que nos fuéramos a la cama, comenté que tenía miedo y una vez más aventuré la afirmación de que todas las mujeres de la casa parecían estar locas. La mucama insistió en que me fuera a la cama. Pregunté si no podría sentarme en las escaleras, pero me dijo con decisión: “No, porque todas en la casa pensarían que está usted loca”. Al fin, permití que me llevaran a una habitación.
+Por un momento, olvidé mi papel de locura asumida y le dije la hora correcta en que partía el barco. Luego me preguntó qué tipo de trabajo pensaba hacer, o si alguna vez había trabajado en algo. Le contesté que me parecía muy triste que hubiera tanta gente trabajadora en el mundo. Ella dijo, a modo de respuesta, que había tenido mala suerte al venir a Nueva York, donde había trabajado corrigiendo pruebas para un diccionario médico durante un tiempo, pero que su salud se había deteriorado con la tarea y ahora se regresaba a Boston. Cuando la mucama vino a decirnos que nos fuéramos a la cama, comenté que tenía miedo y una vez más aventuré la afirmación de que todas las mujeres de la casa parecían estar locas. La mucama insistió en que me fuera a la cama. Pregunté si no podría sentarme en las escaleras, pero me dijo con decisión: “No, porque todas en la casa pensarían que está usted loca”. Al fin, permití que me llevaran a una habitación.
 
-	En este punto debo presentar por nombre al nuevo personaje de mi historia. Se trata de la mujer que había sido correctora de pruebas y que estaba a punto de regresar a Boston. Su nombre era señora Caine, y era tan valiente como buena persona. Entró en mi habitación, se sentó y habló conmigo largo rato, deshaciéndome el peinado con suaves maneras. Intentó persuadirme de que me desvistiera y me metiera a la cama, pero yo me rehusé con terquedad. Durante este tiempo, varias de las internas se habían reunido en torno a nosotras. Se expresaban de diferentes modos. “¡Pobre zafada!”, decían. “¡Vaya que está zafada!” “Me da miedo quedarme aquí con semejante loca en la casa.” “Nos asesinará a todas antes de que amanezca.” Mandaron a una mujer a buscar a un policía para que me llevara de una vez. Estaban todas, en verdad, en un estado de terrible pavor. 
+En este punto debo presentar por nombre al nuevo personaje de mi historia. Se trata de la mujer que había sido correctora de pruebas y que estaba a punto de regresar a Boston. Su nombre era señora Caine, y era tan valiente como buena persona. Entró en mi habitación, se sentó y habló conmigo largo rato, deshaciéndome el peinado con suaves maneras. Intentó persuadirme de que me desvistiera y me metiera a la cama, pero yo me rehusé con terquedad. Durante este tiempo, varias de las internas se habían reunido en torno a nosotras. Se expresaban de diferentes modos. “¡Pobre zafada!”, decían. “¡Vaya que está zafada!” “Me da miedo quedarme aquí con semejante loca en la casa.” “Nos asesinará a todas antes de que amanezca.” Mandaron a una mujer a buscar a un policía para que me llevara de una vez. Estaban todas, en verdad, en un estado de terrible pavor. 
 
-	Nadie quería hacerse responsable de mí, y la mujer que ocuparía la habitación conmigo declaró que no se quedaría con aquella “mujer loca” ni aunque le dieran todo el dinero de los Vanderbilt. Fue entonces cuando la señora Caine dijo que ella se quedaría conmigo. Yo le dije que me gustaría que así fuera, por lo que la dejaron conmigo. No se desvistió, pero se acostó en la cama, vigilando mis movimientos. Trató de convencerme de que me acostara, pero me daba miedo hacerlo. Sabía que, una vez que me rindiera, me quedaría dormida y soñaría tan plácida y pacíficamente como una cría. Corría el riesgo, por decirlo con una expresión coloquial, de “quedarme dormida como un tronco”. Me había hecho a la idea de pasar toda la noche en vela, así que insistí en sentarme en la orilla de la cama y mirar al vacío sin parpadear. Mi pobre compañera se sumió en un estado miserable de infelicidad. Cada tantos minutos, se levantaba para observarme. Dijo que mis ojos emitían un brillo terriblemente intenso y luego empezó a cuestionarme; me preguntó dónde había vivido, cuánto tiempo llevaba en Nueva York, qué había estado haciendo y muchas cosas más. A todas sus preguntas, ofrecí la misma respuesta: le dije que se me había olvidado todo, que desde que había empezado mi dolor de cabeza no lograba recordar nada.
+Nadie quería hacerse responsable de mí, y la mujer que ocuparía la habitación conmigo declaró que no se quedaría con aquella “mujer loca” ni aunque le dieran todo el dinero de los Vanderbilt. Fue entonces cuando la señora Caine dijo que ella se quedaría conmigo. Yo le dije que me gustaría que así fuera, por lo que la dejaron conmigo. No se desvistió, pero se acostó en la cama, vigilando mis movimientos. Trató de convencerme de que me acostara, pero me daba miedo hacerlo. Sabía que, una vez que me rindiera, me quedaría dormida y soñaría tan plácida y pacíficamente como una cría. Corría el riesgo, por decirlo con una expresión coloquial, de “quedarme dormida como un tronco”. Me había hecho a la idea de pasar toda la noche en vela, así que insistí en sentarme en la orilla de la cama y mirar al vacío sin parpadear. Mi pobre compañera se sumió en un estado miserable de infelicidad. Cada tantos minutos, se levantaba para observarme. Dijo que mis ojos emitían un brillo terriblemente intenso y luego empezó a cuestionarme; me preguntó dónde había vivido, cuánto tiempo llevaba en Nueva York, qué había estado haciendo y muchas cosas más. A todas sus preguntas, ofrecí la misma respuesta: le dije que se me había olvidado todo, que desde que había empezado mi dolor de cabeza no lograba recordar nada.
 
-	¡Pobre criatura! Con cuánta crueldad la torturé y ¡qué corazón más gentil el suyo! Pero ¡cómo las torturé a todas! Una de ellas soñó conmigo: una pesadilla. Después de estar en la habitación cerca de una hora, yo misma me sobresalté al escuchar los gritos de una mujer en el cuarto de al lado. Empecé a imaginar que estaba de verdad en un manicomio.
+¡Pobre criatura! Con cuánta crueldad la torturé y ¡qué corazón más gentil el suyo! Pero ¡cómo las torturé a todas! Una de ellas soñó conmigo: una pesadilla. Después de estar en la habitación cerca de una hora, yo misma me sobresalté al escuchar los gritos de una mujer en el cuarto de al lado. Empecé a imaginar que estaba de verdad en un manicomio.
 
-	La señora Caine se despertó, miró en rededor, asustada, y prestó atención. En seguida salió y fue al cuarto de junto, y la escuché interrogar a la otra mujer. Cuando volvió, me dijo que la mujer había tenido una pesadilla espantosa. Había soñado conmigo. Me había visto, dijo, correr hacia ella con un cuchillo en la mano, con la intención de matarla. Al intentar huir de mí, por fortuna, había logrado gritar, y así se había despertado, ahuyentando la pesadilla. Luego, la señora Caine se metió de nuevo en la cama, bastante alterada, pero muy soñolienta.
+La señora Caine se despertó, miró en rededor, asustada, y prestó atención. En seguida salió y fue al cuarto de junto, y la escuché interrogar a la otra mujer. Cuando volvió, me dijo que la mujer había tenido una pesadilla espantosa. Había soñado conmigo. Me había visto, dijo, correr hacia ella con un cuchillo en la mano, con la intención de matarla. Al intentar huir de mí, por fortuna, había logrado gritar, y así se había despertado, ahuyentando la pesadilla. Luego, la señora Caine se metió de nuevo en la cama, bastante alterada, pero muy soñolienta.
 
-	Yo también estaba cansada, pero me había puesto manos a la obra y estaba decidida a mantenerme despierta toda la noche para llevar mi trabajo de actuación a una conclusión feliz por la mañana. Escuché las campanadas de la medianoche. Me quedaban seis horas de espera antes del alba. El tiempo pasaba con una lentitud exasperante. Los minutos parecían horas. Se apagaron los ruidos de la casa y la avenida.
+Yo también estaba cansada, pero me había puesto manos a la obra y estaba decidida a mantenerme despierta toda la noche para llevar mi trabajo de actuación a una conclusión feliz por la mañana. Escuché las campanadas de la medianoche. Me quedaban seis horas de espera antes del alba. El tiempo pasaba con una lentitud exasperante. Los minutos parecían horas. Se apagaron los ruidos de la casa y la avenida.
 
-	Temiendo que el sueño me atrapara entre sus garras, comencé a revisar mi vida. ¡Qué extraño parece todo! Un incidente, por muy insignificante que sea, no es sino un eslabón más en la cadena que nos ata a nuestro inalterable destino. Empecé por el comienzo y viví una vez más la historia de mi vida. Recordé a los viejos amigos con un entusiasmo placentero; viejas enemistades, viejas penas, viejas alegrías volvieron al presente. Las páginas pasadas de mi vida volvieron a abrirse y el pasado fue presente.
+Temiendo que el sueño me atrapara entre sus garras, comencé a revisar mi vida. ¡Qué extraño parece todo! Un incidente, por muy insignificante que sea, no es sino un eslabón más en la cadena que nos ata a nuestro inalterable destino. Empecé por el comienzo y viví una vez más la historia de mi vida. Recordé a los viejos amigos con un entusiasmo placentero; viejas enemistades, viejas penas, viejas alegrías volvieron al presente. Las páginas pasadas de mi vida volvieron a abrirse y el pasado fue presente.
 
-	Cuando terminé, enfoqué mis pensamientos con valentía en el futuro, preguntándome, primero, qué me depararía el día siguiente y después haciendo planes para llevar a cabo mi proyecto. Me pregunté si sería capaz de cruzar las aguas hacia el objetivo de mi extraña ambición, para convertirme, más temprano que tarde, en una reclusa de los pabellones habitados por mis hermanas dementes. Luego, una vez dentro, ¿cuál sería mi experiencia? ¿Y después? ¿Cómo lograría salir? ¡Qué más da!, pensé, ya me dejarán salir.
+Cuando terminé, enfoqué mis pensamientos con valentía en el futuro, preguntándome, primero, qué me depararía el día siguiente y después haciendo planes para llevar a cabo mi proyecto. Me pregunté si sería capaz de cruzar las aguas hacia el objetivo de mi extraña ambición, para convertirme, más temprano que tarde, en una reclusa de los pabellones habitados por mis hermanas dementes. Luego, una vez dentro, ¿cuál sería mi experiencia? ¿Y después? ¿Cómo lograría salir? ¡Qué más da!, pensé, ya me dejarán salir.
 
-	Esa fue la noche más crucial de mi existencia. ¡Por unas cuantas horas me las vi frente a frente conmigo misma!
+Esa fue la noche más crucial de mi existencia. ¡Por unas cuantas horas me las vi frente a frente conmigo misma!
 
-	Miré hacia la ventana y saludé con alegría el leve resplandor del alba. La luz cobró fuerza y grisura, pero el silencio tenía una extraña profundidad. Mi compañera dormía. Me quedaban una o dos horas por delante. Por fortuna, encontré en qué ocupar mi mente. Robert Bruce, en su cautiverio, había ganado confianza en el futuro y pasaba el tiempo tan agradablemente como podía dadas las circunstancias, observando a la célebre araña tejer su tela. Yo tenía alimañas menos nobles para interesarme. Sin embargo, creía haber hecho descubrimientos valiosos de historia natural. Estaba a punto de caer dormida, a pesar de mí misma, cuando un sobresalto me despertó del todo. Me pareció oír algo arrastrarse y caer sobre la colcha con un ruido apenas perceptible. 
+Miré hacia la ventana y saludé con alegría el leve resplandor del alba. La luz cobró fuerza y grisura, pero el silencio tenía una extraña profundidad. Mi compañera dormía. Me quedaban una o dos horas por delante. Por fortuna, encontré en qué ocupar mi mente. Robert Bruce, en su cautiverio, había ganado confianza en el futuro y pasaba el tiempo tan agradablemente como podía dadas las circunstancias, observando a la célebre araña tejer su tela. Yo tenía alimañas menos nobles para interesarme. Sin embargo, creía haber hecho descubrimientos valiosos de historia natural. Estaba a punto de caer dormida, a pesar de mí misma, cuando un sobresalto me despertó del todo. Me pareció oír algo arrastrarse y caer sobre la colcha con un ruido apenas perceptible. 
 
-	Tuve la oportunidad de estudiar a aquellos interesantes roedores a conciencia. Era evidente que habían venido a desayunar y parecían bastante decepcionados de no encontrar allí su plato principal. Corrían arriba y abajo de la almohada, se juntaban, parecían sostener un conciliábulo y actuaban por completo como si estuvieran sorprendidos por la ausencia de su apetitoso desayuno. Tras una larga deliberación, desaparecieron por fin, en busca de víctimas en otras latitudes, y me dejaron pasar los largos minutos observando a las cucarachas, cuyo tamaño y agilidad me sorprendieron mucho. 
+Tuve la oportunidad de estudiar a aquellos interesantes roedores a conciencia. Era evidente que habían venido a desayunar y parecían bastante decepcionados de no encontrar allí su plato principal. Corrían arriba y abajo de la almohada, se juntaban, parecían sostener un conciliábulo y actuaban por completo como si estuvieran sorprendidos por la ausencia de su apetitoso desayuno. Tras una larga deliberación, desaparecieron por fin, en busca de víctimas en otras latitudes, y me dejaron pasar los largos minutos observando a las cucarachas, cuyo tamaño y agilidad me sorprendieron mucho. 
 
-	Mi compañera de habitación llevaba largo tiempo sumergida en un sueño profundo, pero de pronto se despertó y expresó su sorpresa al verme aún despierta y aparentemente tan animada como un grillo. Desplegaba su habitual empatía. Vino hasta mí, me tomó de las manos, trató de consolarme lo mejor posible y me preguntó si no quería irme a casa. Me mantuvo en el piso superior hasta que casi todo el mundo salió de la casa y luego me llevó al sótano para darme café y un pan. Después de eso, sumida en el silencio, volví a mi habitación, donde me senté, abatida. La señora Caine se fue poniendo más y más ansiosa. 
+Mi compañera de habitación llevaba largo tiempo sumergida en un sueño profundo, pero de pronto se despertó y expresó su sorpresa al verme aún despierta y aparentemente tan animada como un grillo. Desplegaba su habitual empatía. Vino hasta mí, me tomó de las manos, trató de consolarme lo mejor posible y me preguntó si no quería irme a casa. Me mantuvo en el piso superior hasta que casi todo el mundo salió de la casa y luego me llevó al sótano para darme café y un pan. Después de eso, sumida en el silencio, volví a mi habitación, donde me senté, abatida. La señora Caine se fue poniendo más y más ansiosa. 
 
-	–Qué podemos hacer? –exclamaba una y otra vez–. ¿Dónde están tus amigos?	
+–Qué podemos hacer? –exclamaba una y otra vez–. ¿Dónde están tus amigos?	
 
-	–No –respondí–, no tengo amigos, pero tengo algunos baúles. ¿Dónde están? Los quiero. 
+–No –respondí–, no tengo amigos, pero tengo algunos baúles. ¿Dónde están? Los quiero. 
 
-	La buena mujer trató de tranquilizarme, diciendo que los encontraríamos a su debido tiempo. Me creía loca. 
+La buena mujer trató de tranquilizarme, diciendo que los encontraríamos a su debido tiempo. Me creía loca. 
 
-	 Sin embargo, la perdono. Sólo cuando una ha estado en problemas se da cuenta de la poca simpatía y amabilidad que hay en el mundo. Las mujeres del Hogar que no me temían habían querido divertirse a mis expensas, así que me habían molestado con preguntas y comentarios que, de haber estado loca, habrían sido crueles e inhumanos. Sólo esa mujer, de entre todas, la bonita y delicada señora Caine, desplegaba un auténtico sentimiento femenino. Instó a las demás a dejar de burlarse de mí y tomó la cama de la mujer que se negó a dormir en mi compañía. Protestó ante la sugerencia de dejarme sola y de encerrarme por la noche para que no hiciera daño a nadie. Insistió en permanecer conmigo para socorrerme si lo necesitaba. Me alisó el cabello, me lavó la cara y me habló con la dulzura que una madre emplearía con una hija enferma. Intentó, por todos los medios, que me durmiera y descansara, y al despuntar el alba se puso en pie y me envolvió en una manta por miedo a que me enfriara; luego, me besó en la frente y susurró, con compasión: “¡Pobrecita, pobrecita!”.
+Sin embargo, la perdono. Sólo cuando una ha estado en problemas se da cuenta de la poca simpatía y amabilidad que hay en el mundo. Las mujeres del Hogar que no me temían habían querido divertirse a mis expensas, así que me habían molestado con preguntas y comentarios que, de haber estado loca, habrían sido crueles e inhumanos. Sólo esa mujer, de entre todas, la bonita y delicada señora Caine, desplegaba un auténtico sentimiento femenino. Instó a las demás a dejar de burlarse de mí y tomó la cama de la mujer que se negó a dormir en mi compañía. Protestó ante la sugerencia de dejarme sola y de encerrarme por la noche para que no hiciera daño a nadie. Insistió en permanecer conmigo para socorrerme si lo necesitaba. Me alisó el cabello, me lavó la cara y me habló con la dulzura que una madre emplearía con una hija enferma. Intentó, por todos los medios, que me durmiera y descansara, y al despuntar el alba se puso en pie y me envolvió en una manta por miedo a que me enfriara; luego, me besó en la frente y susurró, con compasión: “¡Pobrecita, pobrecita!”.
 
-	Cuánto admiré el valor y la amabilidad de esa pequeña mujer. Cuánto deseé calmarla y susurrarle que yo no estaba loca, y cuánto ansié que, si alguna pobre chica llegaba a ser tan infeliz como yo pretendía serlo, se encontrara con alguien que poseyera el mismo espíritu de humana amabilidad que tenía la señora Ruth Caine. 
+Cuánto admiré el valor y la amabilidad de esa pequeña mujer. Cuánto deseé calmarla y susurrarle que yo no estaba loca, y cuánto ansié que, si alguna pobre chica llegaba a ser tan infeliz como yo pretendía serlo, se encontrara con alguien que poseyera el mismo espíritu de humana amabilidad que tenía la señora Ruth Caine. 
 
-
+---
 
 ## **Capítulo IV: El juez Duffy y la policía**
 
 Pero volvamos a mi historia. Sostuve mi papel hasta que entró la asistente de la matrona, la señora Stanard, quien intentó persuadirme de que me calmara. Empecé a ver con claridad que quería echarme de la casa a toda costa, de ser posible sin barullo. Mis intenciones eran otras. Me rehusé a moverme e insistí sin descanso en el cuento de mis baúles extraviados. Al final, alguien sugirió que se llamara a un oficial. Después de un rato, la señora Stanard se puso su gorro y salió. Supe entonces que me estaba acercando al hogar para alienados. Pronto volvió, trayendo consigo a dos policías –hombres fuertes y corpulentos–, quienes entraron a la habitación sin mucha ceremonia, esperando encontrarse, era evidente, con una persona violenta y loca. El nombre de uno de ellos era Tom Bockert. 
 
-	Cuando entraron, fingí no verlos. 
+Cuando entraron, fingí no verlos. 
 
-	–Quiero que se la lleven sin armar lío –dijo la señora Stanard. 
+–Quiero que se la lleven sin armar lío –dijo la señora Stanard. 
 
-	–Si no viene con nosotros por las buenas –respondió uno de los hombres–, la arrastraré a la calle. 
+–Si no viene con nosotros por las buenas –respondió uno de los hombres–, la arrastraré a la calle. 
 
-	Yo seguía sin darme por enterada de su presencia, pero desde luego quería evitar que se armase un escándalo afuera. Por fortuna, la señora Caine vino en mi auxilio. Les contó a los oficiales de mis clamores por mis baúles extraviados, y entre todos idearon un plan para llevarme con ellos en silencio, diciéndome que me acompañarían a buscar mis pertenencias perdidas. Me preguntaron si iría. Les dije que me daba miedo ir sola. Entonces la señora Stanard dijo que ella me acompañaría y pactó que los dos policías nos siguieran a una distancia respetuosa. Me ajustó el velo, salimos de la casa por el sótano y nos aventuramos por la ciudad, con los dos oficiales siguiéndonos a unos pasos. Caminamos en total silencio hasta llegar, por fin, a la estación, que la buena mujer me aseguró era la oficina de objetos perdidos, donde sin duda encontraría mis pertenencias. Entré llena de miedo y temblando, con buena razón.
+Yo seguía sin darme por enterada de su presencia, pero desde luego quería evitar que se armase un escándalo afuera. Por fortuna, la señora Caine vino en mi auxilio. Les contó a los oficiales de mis clamores por mis baúles extraviados, y entre todos idearon un plan para llevarme con ellos en silencio, diciéndome que me acompañarían a buscar mis pertenencias perdidas. Me preguntaron si iría. Les dije que me daba miedo ir sola. Entonces la señora Stanard dijo que ella me acompañaría y pactó que los dos policías nos siguieran a una distancia respetuosa. Me ajustó el velo, salimos de la casa por el sótano y nos aventuramos por la ciudad, con los dos oficiales siguiéndonos a unos pasos. Caminamos en total silencio hasta llegar, por fin, a la estación, que la buena mujer me aseguró era la oficina de objetos perdidos, donde sin duda encontraría mis pertenencias. Entré llena de miedo y temblando, con buena razón.
 
-	Unos días antes de todo aquello había conocido al capitán McCullagh en una reunión celebrada en Cooper Union. En esa ocasión, le había solicitado cierta información que él me proporcionó. Si se encontraba ahí, ¿no me reconocería? En ese caso, todo estaría perdido en cuanto a llegar hasta la isla. Me calé el sombrero de marinera tan abajo como pude y me preparé para el calvario. En efecto, el fornido capitán McCullagh estaba de pie junto a un escritorio.
+Unos días antes de todo aquello había conocido al capitán McCullagh en una reunión celebrada en Cooper Union. En esa ocasión, le había solicitado cierta información que él me proporcionó. Si se encontraba ahí, ¿no me reconocería? En ese caso, todo estaría perdido en cuanto a llegar hasta la isla. Me calé el sombrero de marinera tan abajo como pude y me preparé para el calvario. En efecto, el fornido capitán McCullagh estaba de pie junto a un escritorio.
 
-	Me escudriñó un momento mientras el oficial del escritorio conversaba en voz baja con la señora Stanard y con los policías que me escoltaban.
+Me escudriñó un momento mientras el oficial del escritorio conversaba en voz baja con la señora Stanard y con los policías que me escoltaban.
 
-	–¿Es usted Nellie Brown? –preguntó el oficial. 
+–¿Es usted Nellie Brown? –preguntó el oficial. 
 
-	Respondí que eso creía. 
+Respondí que eso creía. 
 
-	–¿De dónde viene? –me preguntó. 
+–¿De dónde viene? –me preguntó. 
 
-	Le dije que no lo sabía, y luego la señora Stanard le dio un montón de información sobre mí: le habló de mi extraño comportamiento al llegar al Hogar, de cómo no había pegado ojo en toda la noche y que, en su opinión, yo era una pobre desafortunada que había enloquecido tras recibir tratos inhumanos. La señora Stanard y los otros dos oficiales hablaron otro rato, y se ordenó a Tom Bockert que nos llevara hasta el tribunal en un coche. 
+Le dije que no lo sabía, y luego la señora Stanard le dio un montón de información sobre mí: le habló de mi extraño comportamiento al llegar al Hogar, de cómo no había pegado ojo en toda la noche y que, en su opinión, yo era una pobre desafortunada que había enloquecido tras recibir tratos inhumanos. La señora Stanard y los otros dos oficiales hablaron otro rato, y se ordenó a Tom Bockert que nos llevara hasta el tribunal en un coche. 
 
-	–Ven conmigo –dijo Bockert–, encontraré ese baúl tuyo. 
+–Ven conmigo –dijo Bockert–, encontraré ese baúl tuyo. 
 
-	Nos fuimos los tres juntos: la señora Stanard, Tom Bockert y yo. Les dije que era muy amable de su parte venir conmigo y que siempre recordaría aquel gesto. Mientras caminábamos, insistí en el asunto de mis baúles, intercalando algún comentario ocasional sobre la desastrosa condición de las calles y el curioso carácter de la gente con la que nos cruzábamos por el camino. 
+Nos fuimos los tres juntos: la señora Stanard, Tom Bockert y yo. Les dije que era muy amable de su parte venir conmigo y que siempre recordaría aquel gesto. Mientras caminábamos, insistí en el asunto de mis baúles, intercalando algún comentario ocasional sobre la desastrosa condición de las calles y el curioso carácter de la gente con la que nos cruzábamos por el camino. 
 
-	–No creo haber visto gente como ésta antes –dije–. ¿Quiénes son? 	
+–No creo haber visto gente como ésta antes –dije–. ¿Quiénes son? 	
 
-	Mis acompañantes me miraron con expresión de lástima, creyendo evidentemente que yo era una extranjera, una inmigrante o algo parecido. Me dijeron que aquellas personas eran trabajadores. Comenté una vez más que me parecía que había demasiada gente trabajadora en el mundo para la cantidad de trabajo por hacer. Tras ese comentario, el oficial P. T. Bockert me observó con detenimiento, pensando, era claro, que estaba del todo chiflada. Pasamos frente a varios policías más, quienes casi siempre preguntaban a mis robustos guardianes qué me pasaba. Para entonces, un gran número de críos harapientos nos seguía también, haciendo comentarios sobre mí que me parecieron tan originales como divertidos.
+Mis acompañantes me miraron con expresión de lástima, creyendo evidentemente que yo era una extranjera, una inmigrante o algo parecido. Me dijeron que aquellas personas eran trabajadores. Comenté una vez más que me parecía que había demasiada gente trabajadora en el mundo para la cantidad de trabajo por hacer. Tras ese comentario, el oficial P. T. Bockert me observó con detenimiento, pensando, era claro, que estaba del todo chiflada. Pasamos frente a varios policías más, quienes casi siempre preguntaban a mis robustos guardianes qué me pasaba. Para entonces, un gran número de críos harapientos nos seguía también, haciendo comentarios sobre mí que me parecieron tan originales como divertidos.
 
-	–¿Y ésta qué tiene? 
+–¿Y ésta qué tiene? 
 
-	–A ver, poli, ¿de dónde la sacó? 
+–A ver, poli, ¿de dónde la sacó? 
 
-	–¿Dónde la recogió? 
+–¿Dónde la recogió? 
 
-	–¡Es un primor! 
+–¡Es un primor! 
 
-	La pobre señora Stanard tenía más miedo que yo. La situación se iba poniendo interesante, pero yo aún temía por mi suerte frente al juez.
+La pobre señora Stanard tenía más miedo que yo. La situación se iba poniendo interesante, pero yo aún temía por mi suerte frente al juez.
 
-	Por fin llegamos a un edificio bajo y Tom Bockert me ofreció esta información con amabilidad: 
+Por fin llegamos a un edificio bajo y Tom Bockert me ofreció esta información con amabilidad: 
 
-	–Esta es la oficina de objetos perdidos. Pronto encontraremos esos baúles tuyos.
+–Esta es la oficina de objetos perdidos. Pronto encontraremos esos baúles tuyos.
 
-	A la entrada del edificio había apostada una multitud de curiosos. No creí que mi caso fuera aún lo bastante malo como para permitirme pasar entre ellos sin decir nada, así que pregunté si aquellas personas habían perdido también sus baúles. 
+A la entrada del edificio había apostada una multitud de curiosos. No creí que mi caso fuera aún lo bastante malo como para permitirme pasar entre ellos sin decir nada, así que pregunté si aquellas personas habían perdido también sus baúles. 
 
-	–Sí –dijo Tom–, casi todas estas personas están buscando sus baúles.
+–Sí –dijo Tom–, casi todas estas personas están buscando sus baúles.
 
-	–También parecen extranjeros –dije. 
+–También parecen extranjeros –dije. 
 
-	–Sí –dijo–, todos son extranjeros recién llegados. Todos han perdido sus baúles y buena parte de nuestro trabajo consiste en ayudarlos a que los encuentren.
+–Sí –dijo–, todos son extranjeros recién llegados. Todos han perdido sus baúles y buena parte de nuestro trabajo consiste en ayudarlos a que los encuentren.
 
-	Entramos en el juzgado. Era el Juzgado Policial del Mercado Essex. Finalmente se decidiría el asunto de mi locura. El juez Duffy estaba sentado ante un alto escritorio, con un gesto que parecía indicar que vendía la leche de la bondad humana al por mayor. Temí que no me esperase el destino que buscaba, por la amabilidad que vi en cada línea de su rostro. De modo que, con el corazón apesadumbrado, seguí a la señora Stanard cuando atendió el llamado a acercarse al escritorio, donde Tom Brockert acababa de hacer un recuento del asunto. 
+Entramos en el juzgado. Era el Juzgado Policial del Mercado Essex. Finalmente se decidiría el asunto de mi locura. El juez Duffy estaba sentado ante un alto escritorio, con un gesto que parecía indicar que vendía la leche de la bondad humana al por mayor. Temí que no me esperase el destino que buscaba, por la amabilidad que vi en cada línea de su rostro. De modo que, con el corazón apesadumbrado, seguí a la señora Stanard cuando atendió el llamado a acercarse al escritorio, donde Tom Brockert acababa de hacer un recuento del asunto. 
 
-	–Venga aquí –dijo un oficial–. ¿Cómo se llama usted?
+–Venga aquí –dijo un oficial–. ¿Cómo se llama usted?
 
-	–Nellie Brown –respondí, con un ligero acento–. He perdido mis baúles y me gustaría que usted los encontrara.
+–Nellie Brown –respondí, con un ligero acento–. He perdido mis baúles y me gustaría que usted los encontrara.
 
-	–¿Cuándo llegó usted a Nueva York? –me preguntó. 
+–¿Cuándo llegó usted a Nueva York? –me preguntó. 
 
-	–No he llegado a Nueva York –contesté (mientras añadía, para mí misma, “porque llevo un buen rato aquí”).
+–No he llegado a Nueva York –contesté (mientras añadía, para mí misma, “porque llevo un buen rato aquí”).
 
-	–Pero está ahora mismo en Nueva York –dijo el hombre. 
+–Pero está ahora mismo en Nueva York –dijo el hombre. 
 
-	–No –dije, poniendo el gesto incrédulo que pensé que podría tener una persona loca–, no he llegado a Nueva York.
+–No –dije, poniendo el gesto incrédulo que pensé que podría tener una persona loca–, no he llegado a Nueva York.
 
-	–Esta chica es del oeste –dijo él, en un tono que me hizo temblar–. Tiene acento del oeste. 
+–Esta chica es del oeste –dijo él, en un tono que me hizo temblar–. Tiene acento del oeste. 
 
-	En ese punto, alguien más que había escuchado el breve diálogo afirmó que había vivido en el sur y que mi acento era sureño, mientras que otro oficial estaba seguro de que era del este. Sentí un gran alivio cuando el primero en hablar se giró hacia el juez y dijo:
+En ese punto, alguien más que había escuchado el breve diálogo afirmó que había vivido en el sur y que mi acento era sureño, mientras que otro oficial estaba seguro de que era del este. Sentí un gran alivio cuando el primero en hablar se giró hacia el juez y dijo:
 
-	–Juez, tenemos aquí el peculiar caso de una joven que no sabe quién es ni de dónde viene. Más vale que lo atienda usted a la brevedad.
+–Juez, tenemos aquí el peculiar caso de una joven que no sabe quién es ni de dónde viene. Más vale que lo atienda usted a la brevedad.
 
-	Comencé a temblar por algo que era más que frío, y miré al extraño grupo de gente a mi alrededor, compuesto por hombres y mujeres de humilde vestimenta, con historias de dificultades, abuso y pobreza impresas en el rostro. Algunos conversaban ansiosamente con sus amigos, mientras que otros permanecían sentados con una mirada de absoluta desesperanza. Aquí y allá se veían funcionarios bien vestidos y alimentados que observaban la escena con pasividad, casi con indiferencia. Para ellos era el mismo cuento de siempre. Una desafortunada más que se añadía a una larga lista que hacía tiempo había dejado de ser interesante o preocupante para ellos.
+Comencé a temblar por algo que era más que frío, y miré al extraño grupo de gente a mi alrededor, compuesto por hombres y mujeres de humilde vestimenta, con historias de dificultades, abuso y pobreza impresas en el rostro. Algunos conversaban ansiosamente con sus amigos, mientras que otros permanecían sentados con una mirada de absoluta desesperanza. Aquí y allá se veían funcionarios bien vestidos y alimentados que observaban la escena con pasividad, casi con indiferencia. Para ellos era el mismo cuento de siempre. Una desafortunada más que se añadía a una larga lista que hacía tiempo había dejado de ser interesante o preocupante para ellos.
 
-	–Ven aquí, niña, y descúbrete el rostro –instó el juez Duffy, en un tono que me sorprendió por la rudeza, que me parecía impensable en ese amable rostro suyo. 
+–Ven aquí, niña, y descúbrete el rostro –instó el juez Duffy, en un tono que me sorprendió por la rudeza, que me parecía impensable en ese amable rostro suyo. 
 
-	–¿A quién le habla? –pregunté con todo el aplomo del que era capaz. 
+–¿A quién le habla? –pregunté con todo el aplomo del que era capaz. 
 
-	–Ven aquí, mi niña, y alza tu velo. Sabes, si la reina de Inglaterra estuviera aquí, tendría que alzarse también el velo –dijo con gran amabilidad. 
+–Ven aquí, mi niña, y alza tu velo. Sabes, si la reina de Inglaterra estuviera aquí, tendría que alzarse también el velo –dijo con gran amabilidad. 
 
-	–Eso está mucho mejor –respondí–. No soy la reina de Inglaterra, pero alzaré mi velo. 
+–Eso está mucho mejor –respondí–. No soy la reina de Inglaterra, pero alzaré mi velo. 
 
-	Mientras lo hacía, el juez me miró y, luego, en un tono muy gentil, dijo:
+Mientras lo hacía, el juez me miró y, luego, en un tono muy gentil, dijo:
 
-	–Niña mía, ¿qué te pasa?
+–Niña mía, ¿qué te pasa?
 
-	–No me pasa nada, salvo que he perdido mis baúles, y este hombre –señalé al oficial Bockert– me prometió traerme a donde pudieran encontrarlos. 
+–No me pasa nada, salvo que he perdido mis baúles, y este hombre –señalé al oficial Bockert– me prometió traerme a donde pudieran encontrarlos. 
 
-	–¿Qué sabe usted de esta niña? –preguntó el juez con severidad a la señora Stanard, que permanecía de pie a mi lado, pálida y temblando. 
+–¿Qué sabe usted de esta niña? –preguntó el juez con severidad a la señora Stanard, que permanecía de pie a mi lado, pálida y temblando. 
 
-	–No sé nada, salvo que llegó ayer al Hogar y pidió pasar ahí la noche.
+–No sé nada, salvo que llegó ayer al Hogar y pidió pasar ahí la noche.
 
-	–¡El hogar! ¿Qué quiere decir con eso del hogar? –preguntó con presteza el juez Duffy. 
+–¡El hogar! ¿Qué quiere decir con eso del hogar? –preguntó con presteza el juez Duffy. 
 
-	–Es un hogar temporal para mujeres trabajadoras, en el número 84 de la Segunda Avenida.
+–Es un hogar temporal para mujeres trabajadoras, en el número 84 de la Segunda Avenida.
 
-	–¿Cuál es su posición ahí?
+–¿Cuál es su posición ahí?
 
-	–Soy asistente de la matrona. 
+–Soy asistente de la matrona. 
 
-	–Bueno, dígame todo lo que sepa del caso. 
+–Bueno, dígame todo lo que sepa del caso. 
 
-	–Cuando iba entrando al Hogar ayer, la vi bajar por la avenida. Estaba sola. Apenas acababa de entrar a la casa cuando sonó la campana y apareció ella. Al recibirla, quiso saber si podía pasar ahí la noche, y le dije que sí. Después de un tiempo, comentó que todas en la casa estaban locas y que les tenía miedo. Luego, no quería dormirse y pasó toda la noche sentada.
+–Cuando iba entrando al Hogar ayer, la vi bajar por la avenida. Estaba sola. Apenas acababa de entrar a la casa cuando sonó la campana y apareció ella. Al recibirla, quiso saber si podía pasar ahí la noche, y le dije que sí. Después de un tiempo, comentó que todas en la casa estaban locas y que les tenía miedo. Luego, no quería dormirse y pasó toda la noche sentada.
 
-	–¿Tenía dinero consigo?
+–¿Tenía dinero consigo?
 
-	–Sí –respondí por ella–, le pagué todo, y la comida fue la peor que he probado en mi vida.
+–Sí –respondí por ella–, le pagué todo, y la comida fue la peor que he probado en mi vida.
 
-	Todos sonrieron ante esto, y alguno murmuró “no está tan loca en cuanto a la comida”. 
+Todos sonrieron ante esto, y alguno murmuró “no está tan loca en cuanto a la comida”. 
 
-	 –Pobre niña –dijo el juez Duffy–, viene bien vestida y es una dama. Su inglés es perfecto, y apostaría lo que fuera a que es una buena chica. Estoy seguro de que es la querida de alguien. 
+ –Pobre niña –dijo el juez Duffy–, viene bien vestida y es una dama. Su inglés es perfecto, y apostaría lo que fuera a que es una buena chica. Estoy seguro de que es la querida de alguien. 
 
-	Ante esta declaración todos rieron, y yo me puse el pañuelo sobre la cara y me las arreglé para ahogar la risa que amenazaba con arruinar mis planes, a pesar de mi determinación. 
+Ante esta declaración todos rieron, y yo me puse el pañuelo sobre la cara y me las arreglé para ahogar la risa que amenazaba con arruinar mis planes, a pesar de mi determinación. 
 
-	–Quiero decir que es querida por alguna mujer –se corrigió a toda prisa el juez–. Estoy seguro de que alguien la está buscando. Pobre chica, seré bueno con ella, pues se parece a mi difunta hermana.
+–Quiero decir que es querida por alguna mujer –se corrigió a toda prisa el juez–. Estoy seguro de que alguien la está buscando. Pobre chica, seré bueno con ella, pues se parece a mi difunta hermana.
 
-	Después de tal anuncio hubo un cuchicheo, y los oficiales me lanzaron una mirada más amable mientras yo bendecía en silencio a aquel juez de buen corazón, y deseé que cualquier pobre criatura que padeciese las aflicciones que yo fingía tener llegase a lidiar con un hombre tan amable como el juez Duffy.
+Después de tal anuncio hubo un cuchicheo, y los oficiales me lanzaron una mirada más amable mientras yo bendecía en silencio a aquel juez de buen corazón, y deseé que cualquier pobre criatura que padeciese las aflicciones que yo fingía tener llegase a lidiar con un hombre tan amable como el juez Duffy.
 
-	–Ojalá estuvieran aquí los reporteros –dijo éste al final–. Ellos podrían averiguar algo sobre ella. 
+–Ojalá estuvieran aquí los reporteros –dijo éste al final–. Ellos podrían averiguar algo sobre ella. 
 
-	Esto último me asustó sobremanera, pues si hay alguien capaz de desentrañar un misterio es un reportero. Pensé que prefería enfrentarme a una multitud de doctos médicos, policías y detectives antes que a dos brillantes especímenes de mi oficio, así que dije:
+Esto último me asustó sobremanera, pues si hay alguien capaz de desentrañar un misterio es un reportero. Pensé que prefería enfrentarme a una multitud de doctos médicos, policías y detectives antes que a dos brillantes especímenes de mi oficio, así que dije:
 
-	–No entiendo por qué se necesita tanta cosa para ayudarme a encontrar mis baúles. Estos hombres son unos insolentes y no quiero que me miren. Me voy a ir. No quiero quedarme aquí. 
+–No entiendo por qué se necesita tanta cosa para ayudarme a encontrar mis baúles. Estos hombres son unos insolentes y no quiero que me miren. Me voy a ir. No quiero quedarme aquí. 
 
-	Dicho esto, me cubrí de nuevo el rostro y esperé en secreto que los reporteros tuvieran contratiempos hasta que me llevaran al manicomio. 
+Dicho esto, me cubrí de nuevo el rostro y esperé en secreto que los reporteros tuvieran contratiempos hasta que me llevaran al manicomio. 
 
-	–No sé qué hacer con esta pobre cría –dijo el apesadumbrado juez–. Alguien debe ocuparse de ella.
+–No sé qué hacer con esta pobre cría –dijo el apesadumbrado juez–. Alguien debe ocuparse de ella.
 
-	–Envíela a la isla –sugirió uno de los oficiales.
+–Envíela a la isla –sugirió uno de los oficiales.
 
-	–Oh, ¡no lo haga! –dijo la señora Stanard, con evidente alarma–. ¡No lo haga! Es una dama; estar en la isla acabaría con ella.
+–Oh, ¡no lo haga! –dijo la señora Stanard, con evidente alarma–. ¡No lo haga! Es una dama; estar en la isla acabaría con ella.
 
-	De pronto, me dieron ganas de sacudir a esa buena mujer. Pensar que la isla era justo el lugar al que quería llegar, y ¡aquí estaba ella tratando de impedirlo! Era amable de su parte, pero resultaba desesperante dadas las circunstancias.
+De pronto, me dieron ganas de sacudir a esa buena mujer. Pensar que la isla era justo el lugar al que quería llegar, y ¡aquí estaba ella tratando de impedirlo! Era amable de su parte, pero resultaba desesperante dadas las circunstancias.
 
-	–Aquí hay gato encerrado –dijo el juez–. Me parece que a esta niña la drogaron y la trajeron a la ciudad. Prepare los documentos y la mandaremos a Bellevue para que la examinen. Probablemente en unos días se le pasará el efecto de la droga y podrá contarnos una historia estremecedora. ¡Si tan sólo vinieran los reporteros!
+–Aquí hay gato encerrado –dijo el juez–. Me parece que a esta niña la drogaron y la trajeron a la ciudad. Prepare los documentos y la mandaremos a Bellevue para que la examinen. Probablemente en unos días se le pasará el efecto de la droga y podrá contarnos una historia estremecedora. ¡Si tan sólo vinieran los reporteros!
 
-	Yo les temía, así que dije algo sobre que no quería seguir ahí ni que me vieran. El juez Duffy le dijo entonces al oficial Bockert que me llevara a la oficina de atrás. Cuando nos sentamos ahí, llegó el juez Duffy y me preguntó si mi casa estaba en Cuba. 
+Yo les temía, así que dije algo sobre que no quería seguir ahí ni que me vieran. El juez Duffy le dijo entonces al oficial Bockert que me llevara a la oficina de atrás. Cuando nos sentamos ahí, llegó el juez Duffy y me preguntó si mi casa estaba en Cuba. 
 
-	–Sí –respondí con una sonrisa–. ¿Cómo lo supo?
+–Sí –respondí con una sonrisa–. ¿Cómo lo supo?
 
-	–Ah, lo sabía, querida. Ahora, dime en dónde está. ¿En qué parte de Cuba?
+–Ah, lo sabía, querida. Ahora, dime en dónde está. ¿En qué parte de Cuba?
 
-	–En la hacienda –respondí.
+–En la hacienda –respondí.
 
-	–Ajá –dijo el juez–, en una granja. ¿Recuerdas La Habana?
+–Ajá –dijo el juez–, en una granja. ¿Recuerdas La Habana?
 
-	–Sí, señor –contesté en castellano–, está cerca de casa. ¿Cómo lo supo?
+–Sí, señor –contesté en castellano–, está cerca de casa. ¿Cómo lo supo?
 
-	–Pues lo supe sin más, querida. Ahora bien, ¿me dirás el nombre de tu hogar? –preguntó, persuasivamente.
+–Pues lo supe sin más, querida. Ahora bien, ¿me dirás el nombre de tu hogar? –preguntó, persuasivamente.
 
-	–Eso es lo que se me olvida –contesté con tristeza–. Tengo dolor de cabeza todo el tiempo, y hace que se me olviden las cosas. No quiero que me agobien. Todos me preguntan cosas, y eso hace que mi cabeza empeore –y esto último era cierto.
+–Eso es lo que se me olvida –contesté con tristeza–. Tengo dolor de cabeza todo el tiempo, y hace que se me olviden las cosas. No quiero que me agobien. Todos me preguntan cosas, y eso hace que mi cabeza empeore –y esto último era cierto.
 
-	–Bueno, nadie te agobiará más. Siéntate aquí y descansa un rato –y el genial juez me dejó a solas con la señora Stanard.
+–Bueno, nadie te agobiará más. Siéntate aquí y descansa un rato –y el genial juez me dejó a solas con la señora Stanard.
 
-	Justo entonces entró un oficial con un reportero. Me dio mucho miedo; pensé que me reconocerían como periodista, así que volví la cabeza y dije: 
+Justo entonces entró un oficial con un reportero. Me dio mucho miedo; pensé que me reconocerían como periodista, así que volví la cabeza y dije: 
 
-	–No quiero ver a ningún reportero, no veré a ninguno. 
+–No quiero ver a ningún reportero, no veré a ninguno. 
 
-	El juez dijo que no debían agobiarme. 
+El juez dijo que no debían agobiarme. 
 
-	–Bueno, en eso no hay ninguna locura –dijo el oficial que había traído al reportero, y ambos salieron de la oficina. 
+–Bueno, en eso no hay ninguna locura –dijo el oficial que había traído al reportero, y ambos salieron de la oficina. 
 
 Tuve otro acceso de miedo. ¿Había llevado demasiado lejos mi deseo de no ver a reporteros, revelando mi cordura? Si había dado la impresión de estar cuerda, estaba decidida a contrarrestarla, así que salté y corrí de un lado a otro de la oficina, mientras la señora Stanard se aferraba a mi brazo, aterrorizada.
 
-	–No me quedaré aquí, ¡quiero mis baúles! ¿Por qué me tienen que molestar tantas personas? –y así seguí hasta que el médico de urgencias llegó, acompañado por el juez. 
+–No me quedaré aquí, ¡quiero mis baúles! ¿Por qué me tienen que molestar tantas personas? –y así seguí hasta que el médico de urgencias llegó, acompañado por el juez. 
 
-
+---
 
 ## **Capítulo V: Declarada loca**
 
 –He aquí a una pobre chica a la que han drogado –explicó el juez–. Se parece a mi hermana, y cualquiera puede ver que es una buena chica. Me interesa esta niña y haré por ella todo lo que haría por una hija. Quiero que sea amable con ella –le dijo al médico de urgencias. 
 
-	Luego, volviéndose hacia la señora Stanard, le preguntó si no podía alojarme unos días más hasta que se hiciera la investigación de mi caso. Por fortuna, ella dijo que no, porque todas las mujeres del Hogar me tenían miedo y se marcharían si me dejaban quedarme ahí. A mí me preocupaba mucho que me fuera a aceptar si le aseguraban el pago, así que dije algo sobre la mala calidad de la comida y que no pensaba volver al Hogar. Luego vino la auscultación; el doctor parecía inteligente y yo no tenía la más mínima esperanza de engañarlo, pero me propuse con firmeza sostener la farsa. 
+Luego, volviéndose hacia la señora Stanard, le preguntó si no podía alojarme unos días más hasta que se hiciera la investigación de mi caso. Por fortuna, ella dijo que no, porque todas las mujeres del Hogar me tenían miedo y se marcharían si me dejaban quedarme ahí. A mí me preocupaba mucho que me fuera a aceptar si le aseguraban el pago, así que dije algo sobre la mala calidad de la comida y que no pensaba volver al Hogar. Luego vino la auscultación; el doctor parecía inteligente y yo no tenía la más mínima esperanza de engañarlo, pero me propuse con firmeza sostener la farsa. 
 
-	–Saca la lengua –me ordenó con brusquedad. 
+–Saca la lengua –me ordenó con brusquedad. 
 
-	–No quiero –respondí, siendo fiel a la verdad. 
+–No quiero –respondí, siendo fiel a la verdad. 
 
-	–Debes hacerlo. Estás enferma, y yo soy médico.
+–Debes hacerlo. Estás enferma, y yo soy médico.
 
-	–No estoy enferma ni lo he estado nunca. Sólo quiero mis baúles. 
+–No estoy enferma ni lo he estado nunca. Sólo quiero mis baúles. 
 
-	Pero saqué la lengua, y él la observó de manera sagaz. Luego me tomó el pulso y escuchó los latidos de mi corazón. No tenía ni idea de cómo debía latir el corazón de una persona loca, así que contuve el aliento mientras él escuchaba, hasta que, cuando el médico se retiró, tuve que tomar una bocanada de aire. Después, el doctor estudió el efecto de la luz en mis pupilas. Sosteniendo su mano a medio palmo de mi cara, me dijo que la observara y, retirándola con presteza, examinó mis ojos. Me quedé intrigada por cómo se vería la locura en el ojo, así que pensé que lo mejor que podía hacer en esas circunstancias era mirar al vacío. Eso hice, mantuve los ojos fijos y sin parpadear frente a su mano, y, cuando la apartó, hice todo lo posible por seguir sin parpadear.
+Pero saqué la lengua, y él la observó de manera sagaz. Luego me tomó el pulso y escuchó los latidos de mi corazón. No tenía ni idea de cómo debía latir el corazón de una persona loca, así que contuve el aliento mientras él escuchaba, hasta que, cuando el médico se retiró, tuve que tomar una bocanada de aire. Después, el doctor estudió el efecto de la luz en mis pupilas. Sosteniendo su mano a medio palmo de mi cara, me dijo que la observara y, retirándola con presteza, examinó mis ojos. Me quedé intrigada por cómo se vería la locura en el ojo, así que pensé que lo mejor que podía hacer en esas circunstancias era mirar al vacío. Eso hice, mantuve los ojos fijos y sin parpadear frente a su mano, y, cuando la apartó, hice todo lo posible por seguir sin parpadear.
 
-	–¿Qué drogas has estado tomando? –me preguntó entonces. 
+–¿Qué drogas has estado tomando? –me preguntó entonces. 
 
-	–¡Drogas! –repetí asombrada–. No sé qué son las drogas. 
+–¡Drogas! –repetí asombrada–. No sé qué son las drogas. 
 
-	–Las pupilas de sus ojos han estado dilatadas desde que llegó al Hogar. No han cambiado ni una vez –explicó la señora Stanard. Me pregunté cómo podía saber si habían cambiado o no, pero no dije nada.
+–Las pupilas de sus ojos han estado dilatadas desde que llegó al Hogar. No han cambiado ni una vez –explicó la señora Stanard. Me pregunté cómo podía saber si habían cambiado o no, pero no dije nada.
 
-	–Creo que ha estado usando belladona –dijo el médico.
+–Creo que ha estado usando belladona –dijo el médico.
 
-	Por primera vez agradecí mi ligera miopía, que por supuesto explicaba la dilatación de mis pupilas. Pensé que podía ser honesta cuando tuviera ocasión de serlo, sin afectar mis planes, así que le dije que era miope, que no estaba para nada enferma, nunca lo había estado, y que nadie tenía derecho a detenerme por buscar mis baúles. Quería irme a casa. Él escribió un montón de cosas en un cuaderno largo y estrecho, y luego dijo que me iba a llevar a casa. El juez le dijo que me llevara, que fuera amable conmigo y que hiciera por mí cuanto estuviera en sus manos. Si tan sólo existieran más hombres como el juez Duffy, las pobres desafortunadas no creerían que la vida es oscuridad pura.
+Por primera vez agradecí mi ligera miopía, que por supuesto explicaba la dilatación de mis pupilas. Pensé que podía ser honesta cuando tuviera ocasión de serlo, sin afectar mis planes, así que le dije que era miope, que no estaba para nada enferma, nunca lo había estado, y que nadie tenía derecho a detenerme por buscar mis baúles. Quería irme a casa. Él escribió un montón de cosas en un cuaderno largo y estrecho, y luego dijo que me iba a llevar a casa. El juez le dijo que me llevara, que fuera amable conmigo y que hiciera por mí cuanto estuviera en sus manos. Si tan sólo existieran más hombres como el juez Duffy, las pobres desafortunadas no creerían que la vida es oscuridad pura.
 
-	Empecé entonces a confiar más en mis habilidades, dado que un juez, un médico y una multitud me habían declarado loca, y me puse el velo con mucha alegría cuando me dijeron que viajaríamos en carruaje y que después de eso podría irme a casa. 
+Empecé entonces a confiar más en mis habilidades, dado que un juez, un médico y una multitud me habían declarado loca, y me puse el velo con mucha alegría cuando me dijeron que viajaríamos en carruaje y que después de eso podría irme a casa. 
 
-	–Me da tanto gusto ir con usted –dije, y era cierto. En verdad me daba gusto. 
+–Me da tanto gusto ir con usted –dije, y era cierto. En verdad me daba gusto. 
 
-	Una vez más, custodiada por el oficial Brockert, crucé el pequeño y atestado juzgado. Me sentí orgullosa de mí misma al salir por una puerta lateral hacia un callejón, donde esperaba la ambulancia. Cerca del portón cerrado y enrejado había una pequeña oficina ocupada por varios hombres y por grandes libros. Ahí entramos todos. Cuando empezaron a preguntarme cosas, el doctor se interpuso y dijo que él tenía todos los papeles y que era inútil hacerme más preguntas, porque yo no era capaz de responderlas. Esto fue para mí un gran alivio, pues mis nervios estaban ya bastante crispados. Un hombre de aspecto rudo quiso subirme a la ambulancia, pero rechacé su ayuda con tal determinación que el médico y el policía le dijeron que desistiera y ejecutaron ellos mismos el galante gesto. No subí a la ambulancia sin protestar. Comenté que nunca había visto un carruaje de semejante factura y que no quería subir a él, pero después de un rato me dejé persuadir, como había sido mi intención desde el principio.
+Una vez más, custodiada por el oficial Brockert, crucé el pequeño y atestado juzgado. Me sentí orgullosa de mí misma al salir por una puerta lateral hacia un callejón, donde esperaba la ambulancia. Cerca del portón cerrado y enrejado había una pequeña oficina ocupada por varios hombres y por grandes libros. Ahí entramos todos. Cuando empezaron a preguntarme cosas, el doctor se interpuso y dijo que él tenía todos los papeles y que era inútil hacerme más preguntas, porque yo no era capaz de responderlas. Esto fue para mí un gran alivio, pues mis nervios estaban ya bastante crispados. Un hombre de aspecto rudo quiso subirme a la ambulancia, pero rechacé su ayuda con tal determinación que el médico y el policía le dijeron que desistiera y ejecutaron ellos mismos el galante gesto. No subí a la ambulancia sin protestar. Comenté que nunca había visto un carruaje de semejante factura y que no quería subir a él, pero después de un rato me dejé persuadir, como había sido mi intención desde el principio.
 
-	Nunca olvidaré aquel trayecto. Después de que me acostaran sobre una manta amarilla, el médico subió y se sentó junto a la puerta. El gran portón se abrió de par en par, y la muchedumbre de curiosos que se había juntado ahí se abrió para dejar pasar a la ambulancia. ¡Vaya que intentaron ver a la supuesta loca! El médico se dio cuenta de que no me gustaba que la gente me mirara y tuvo la consideración de bajar las cortinas, tras preguntarme si eso deseaba. Pero eso no desalentó a la gente. Los niños corrieron detrás de nosotros, gritando toda suerte de improperios y tratando de atisbar bajo las cortinas. Fue un trayecto bastante interesante, pero debo decir que también fue excepcionalmente duro. Me aferré a lo que pude, aunque no había mucho a qué aferrarse, y el chofer condujo como si temiera que alguien nos diera alcance.
+Nunca olvidaré aquel trayecto. Después de que me acostaran sobre una manta amarilla, el médico subió y se sentó junto a la puerta. El gran portón se abrió de par en par, y la muchedumbre de curiosos que se había juntado ahí se abrió para dejar pasar a la ambulancia. ¡Vaya que intentaron ver a la supuesta loca! El médico se dio cuenta de que no me gustaba que la gente me mirara y tuvo la consideración de bajar las cortinas, tras preguntarme si eso deseaba. Pero eso no desalentó a la gente. Los niños corrieron detrás de nosotros, gritando toda suerte de improperios y tratando de atisbar bajo las cortinas. Fue un trayecto bastante interesante, pero debo decir que también fue excepcionalmente duro. Me aferré a lo que pude, aunque no había mucho a qué aferrarse, y el chofer condujo como si temiera que alguien nos diera alcance.
 
-	
+---
 
 
 
@@ -459,119 +459,119 @@ Tuve otro acceso de miedo. ¿Había llevado demasiado lejos mi deseo de no ver a
 
 Al fin llegamos a Bellevue, la tercera estación en mi camino hacia la isla. Había superado con éxito las pruebas del Hogar y el Juzgado del Mercado de Essex, por lo que ahora estaba segura de que no fracasaría. La ambulancia se detuvo con un súbito traqueteo y el médico bajó de un brinco. “¿Cuántas traes?”, escuché que preguntaba alguien. “Sólo una, para el pabellón”, fue la respuesta. Un hombre de aspecto rudo se acercó y, agarrándome de un brazo, intentó sacarme a rastras del coche, como si yo tuviera la fuerza de un elefante y fuera a resistirme. El médico, al ver mi cara de disgusto, le ordenó que me dejara en paz, diciendo que él se encargaría de mí personalmente. En seguida, me levantó con cuidado, y caminé con la gracia de una reina frente al grupo de curiosos que se había reunido para ver a la nueva infeliz. Entré junto con el doctor en una pequeña y oscura oficina, donde varios hombres más nos esperaban. El que estaba detrás del escritorio abrió un libro y comenzó la larga retahíla de preguntas que ya me habían hecho varias veces. 
 
-	Me negué a responder, y el doctor le dijo que no era necesario molestarme más, pues ya tenía todos los papeles preparados y que yo estaba demasiado loca como para responder cualquier cosa que pudiese alterar mi destino. Me sentí aliviada de que fuera tan sencillo, ya que, aunque seguía impertérrita, empezaba a sentirme débil por la falta de alimentos. La orden que siguió fue que me llevaran al pabellón para alienadas, entonces un hombre musculoso vino hacia mí y me asió del brazo con tal fuerza que un dolor me atravesó de pronto. Me enojé y por un momento olvidé mi papel y me volví hacia él para decirle:
+Me negué a responder, y el doctor le dijo que no era necesario molestarme más, pues ya tenía todos los papeles preparados y que yo estaba demasiado loca como para responder cualquier cosa que pudiese alterar mi destino. Me sentí aliviada de que fuera tan sencillo, ya que, aunque seguía impertérrita, empezaba a sentirme débil por la falta de alimentos. La orden que siguió fue que me llevaran al pabellón para alienadas, entonces un hombre musculoso vino hacia mí y me asió del brazo con tal fuerza que un dolor me atravesó de pronto. Me enojé y por un momento olvidé mi papel y me volví hacia él para decirle:
 
-	–¿Cómo se atreve a tocarme? Al oír esto, aflojó un poco su mano y yo me lo sacudí de encima con más fuerza de la que me creía capaz. 
+–¿Cómo se atreve a tocarme? Al oír esto, aflojó un poco su mano y yo me lo sacudí de encima con más fuerza de la que me creía capaz. 
 
-	–No iré con nadie más que con este hombre –dije, señalando al médico de urgencias–. El juez dijo que él debía cuidar de mí, y no pienso ir con nadie más. 
+–No iré con nadie más que con este hombre –dije, señalando al médico de urgencias–. El juez dijo que él debía cuidar de mí, y no pienso ir con nadie más. 
 
-	Al escucharme, el médico dijo que él me llevaría, así que nos fuimos agarrados del brazo, detrás del hombre que había intentado, en un inicio, tratarme con rudeza. Atravesamos las muy bien cuidadas instalaciones hasta llegar al pabellón para alienadas. Una enfermera de cofia blanca estaba ahí para recibirme. 
+Al escucharme, el médico dijo que él me llevaría, así que nos fuimos agarrados del brazo, detrás del hombre que había intentado, en un inicio, tratarme con rudeza. Atravesamos las muy bien cuidadas instalaciones hasta llegar al pabellón para alienadas. Una enfermera de cofia blanca estaba ahí para recibirme. 
 
-	–Esta joven debe esperar el barco aquí –dijo el médico, y se dispuso a dejarme. 
+–Esta joven debe esperar el barco aquí –dijo el médico, y se dispuso a dejarme. 
 
-	Le supliqué que no se fuera, o que me llevara con él, pero dijo que primero quería comer y que yo debía esperarlo ahí. Cuando insistí en acompañarlo, declaró que tenía que asistir en una amputación y que no sería bien visto que yo estuviera presente. Era obvio que creía lidiar con una persona loca. Justo entonces se oyeron los chillidos más horribles de la locura, provenientes de un patio que había al fondo. A pesar de todo mi valor, sentí un escalofrío ante la idea de verme encerrada con una semejante que estaba del todo loca. El médico notó evidentemente mi nerviosismo, pues le dijo al asistente:
+Le supliqué que no se fuera, o que me llevara con él, pero dijo que primero quería comer y que yo debía esperarlo ahí. Cuando insistí en acompañarlo, declaró que tenía que asistir en una amputación y que no sería bien visto que yo estuviera presente. Era obvio que creía lidiar con una persona loca. Justo entonces se oyeron los chillidos más horribles de la locura, provenientes de un patio que había al fondo. A pesar de todo mi valor, sentí un escalofrío ante la idea de verme encerrada con una semejante que estaba del todo loca. El médico notó evidentemente mi nerviosismo, pues le dijo al asistente:
 
-	–Qué ruido hacen los carpinteros.
+–Qué ruido hacen los carpinteros.
 
-	Volviéndose hacia mí, improvisó una explicación sobre unos edificios nuevos que estaban construyendo, y que el ruido provenía de los trabajadores atareados en ello. Le dije que no quería quedarme ahí sin él, y para tranquilizarme me prometió que volvería pronto. Me dejó y, por fin, me vi convertida en una interna del manicomio. 
+Volviéndose hacia mí, improvisó una explicación sobre unos edificios nuevos que estaban construyendo, y que el ruido provenía de los trabajadores atareados en ello. Le dije que no quería quedarme ahí sin él, y para tranquilizarme me prometió que volvería pronto. Me dejó y, por fin, me vi convertida en una interna del manicomio. 
 
-	Me detuve en la puerta y contemplé la escena que se desarrollaba ante mí. El corredor, largo y sin alfombrar, había sido restregado hasta alcanzar esa blancura exclusiva de las instituciones públicas. Al final del pasillo había una gran puerta doble de metal cerrada con candado. Varios bancos de aspecto incómodo y unas cuantas sillas eran los únicos muebles. A cada lado del corredor había puertas que daban a lo que supuse, y luego comprobé, eran los dormitorios. Cerca de la puerta de la entrada, del lado derecho, había una salita de estar para las enfermeras, y enfrente de ésta un comedor donde en ese instante servían la comida. Una enfermera con un vestido negro, cofia blanca y delantal, armada con un montón de llaves, estaba a cargo del pasillo. Al poco tiempo conocería su nombre: señorita Ball.
+Me detuve en la puerta y contemplé la escena que se desarrollaba ante mí. El corredor, largo y sin alfombrar, había sido restregado hasta alcanzar esa blancura exclusiva de las instituciones públicas. Al final del pasillo había una gran puerta doble de metal cerrada con candado. Varios bancos de aspecto incómodo y unas cuantas sillas eran los únicos muebles. A cada lado del corredor había puertas que daban a lo que supuse, y luego comprobé, eran los dormitorios. Cerca de la puerta de la entrada, del lado derecho, había una salita de estar para las enfermeras, y enfrente de ésta un comedor donde en ese instante servían la comida. Una enfermera con un vestido negro, cofia blanca y delantal, armada con un montón de llaves, estaba a cargo del pasillo. Al poco tiempo conocería su nombre: señorita Ball.
 
-	Una vieja irlandesa era la única criada en activo. Oí que la llamaban Mary, y me alegra saber que hay una mujer de buen corazón en aquel sitio. Siempre me trató con amabilidad y extrema consideración. Había tan sólo tres pacientes, como las llamaban. Yo era la cuarta. Pensé que podía empezar a trabajar de inmediato, pues aún existía la posibilidad de que el primer doctor que me viera me declarara cuerda y me mandara de regreso al ancho mundo. Así que caminé hasta el fondo de la habitación, me presenté ante una de las mujeres y le pregunté todo sobre su vida. Su nombre era Anne Neville, y se había enfermado por exceso de trabajo. Había estado trabajando como camarera, y cuando decayó su salud la enviaron a un asilo de monjas para curarse. Su sobrino, que era mesero, se quedó sin trabajo, y al verse incapaz de pagar sus gastos del asilo, tuvo que transferirla a Bellevue. 
+Una vieja irlandesa era la única criada en activo. Oí que la llamaban Mary, y me alegra saber que hay una mujer de buen corazón en aquel sitio. Siempre me trató con amabilidad y extrema consideración. Había tan sólo tres pacientes, como las llamaban. Yo era la cuarta. Pensé que podía empezar a trabajar de inmediato, pues aún existía la posibilidad de que el primer doctor que me viera me declarara cuerda y me mandara de regreso al ancho mundo. Así que caminé hasta el fondo de la habitación, me presenté ante una de las mujeres y le pregunté todo sobre su vida. Su nombre era Anne Neville, y se había enfermado por exceso de trabajo. Había estado trabajando como camarera, y cuando decayó su salud la enviaron a un asilo de monjas para curarse. Su sobrino, que era mesero, se quedó sin trabajo, y al verse incapaz de pagar sus gastos del asilo, tuvo que transferirla a Bellevue. 
 
-	–¿Está usted mal mentalmente? –le pregunté. 
+–¿Está usted mal mentalmente? –le pregunté. 
 
-	–No –respondió–. Los doctores me han estado haciendo muchas preguntas curiosas y me han confundido todo lo posible, pero no hay nada de malo en mi cerebro.
+–No –respondió–. Los doctores me han estado haciendo muchas preguntas curiosas y me han confundido todo lo posible, pero no hay nada de malo en mi cerebro.
 
-	–¿Sabe usted que sólo a las locas las mandan aquí? –pregunté. 
+–¿Sabe usted que sólo a las locas las mandan aquí? –pregunté. 
 
-	–Sí, lo sé, pero no hay nada que pueda hacer. Los doctores se niegan a escucharme, y es inútil decirles nada a las enfermeras.
+–Sí, lo sé, pero no hay nada que pueda hacer. Los doctores se niegan a escucharme, y es inútil decirles nada a las enfermeras.
 
-	Convencida por muchas razones de que la señorita Neville estaba tan sana como yo, centré mis atenciones en otra de las pacientes. La encontré necesitada de ayuda médica y bastante débil mentalmente, aunque he visto a muchas mujeres en las clases más humildes de la sociedad, cuya cordura nunca fue puesta en duda, que no eran mucho más brillantes. 
+Convencida por muchas razones de que la señorita Neville estaba tan sana como yo, centré mis atenciones en otra de las pacientes. La encontré necesitada de ayuda médica y bastante débil mentalmente, aunque he visto a muchas mujeres en las clases más humildes de la sociedad, cuya cordura nunca fue puesta en duda, que no eran mucho más brillantes. 
 
-	La tercera paciente, la señora Fox, no quiso decir mucho. Era muy callada y, después de decirme que el suyo era un caso perdido, se negó a hablar. Así, empecé a sentirme más segura de mi posición y decidí que ningún doctor me convencería de que estaba cuerda mientras abrigara la esperanza de cumplir con mi misión. Una enfermera baja y de piel clara llegó y, poniéndose la cofia, le dijo a la señorita Ball que se fuera a comer. La nueva enfermera, de nombre Scott, vino hacia mí y me dijo con brusquedad:
+La tercera paciente, la señora Fox, no quiso decir mucho. Era muy callada y, después de decirme que el suyo era un caso perdido, se negó a hablar. Así, empecé a sentirme más segura de mi posición y decidí que ningún doctor me convencería de que estaba cuerda mientras abrigara la esperanza de cumplir con mi misión. Una enfermera baja y de piel clara llegó y, poniéndose la cofia, le dijo a la señorita Ball que se fuera a comer. La nueva enfermera, de nombre Scott, vino hacia mí y me dijo con brusquedad:
 
-	–Quítate el sombrero.
+–Quítate el sombrero.
 
-	–No me quitaré el sombrero –respondí–. Estoy esperando el barco, y no me lo pienso quitar.
+–No me quitaré el sombrero –respondí–. Estoy esperando el barco, y no me lo pienso quitar.
 
-	–Bueno, pues no vas a abordar ningún barco. Mejor que lo sepas desde ahora. Estás en un manicomio.
+–Bueno, pues no vas a abordar ningún barco. Mejor que lo sepas desde ahora. Estás en un manicomio.
 
-	Aunque era del todo consciente de aquel hecho, sus palabras sin adornos me conmocionaron. 
+Aunque era del todo consciente de aquel hecho, sus palabras sin adornos me conmocionaron. 
 
-	–Yo no quería venir aquí; no estoy enferma ni loca, y no voy a quedarme aquí –dije. 
+–Yo no quería venir aquí; no estoy enferma ni loca, y no voy a quedarme aquí –dije. 
 
 –Pasarás mucho tiempo aquí encerrada si no haces lo que te dicen –respondió la señorita Scott–. Más vale que te quites el sombrero o usaré la fuerza, y si no logro arrancártelo, tendré que tocar la campanilla para pedir ayuda. ¿Te lo vas a quitar?
 
-	–No, de ningún modo. Tengo frío y quiero dejarme el sombrero; usted no puede hacer que me lo quite.
+–No, de ningún modo. Tengo frío y quiero dejarme el sombrero; usted no puede hacer que me lo quite.
 
-	–Te voy a dar unos minutos más. Si no te lo quitas usaré la fuerza, y te advierto que no será muy agradable.
+–Te voy a dar unos minutos más. Si no te lo quitas usaré la fuerza, y te advierto que no será muy agradable.
 
-	–Si usted me quita el sombrero yo le quitaré la cofia, así que adelante.
+–Si usted me quita el sombrero yo le quitaré la cofia, así que adelante.
 
-	En ese momento, alguien llamó a la señorita Scott desde la puerta. Como temí que una exhibición de carácter representara demasiada cordura, me quité el sombrero y los guantes y esperé su regreso, sentada en silencio y con la mirada en el vacío. Tenía hambre, por lo que me alegró ver a Mary preparando todo para la comida. Los preparativos fueron sencillos. Simplemente acercó un banco recto hasta el costado de una mesa sin mantel y ordenó a las pacientes que se reunieran para el festín; luego, trajo un pequeño plato de aluminio en el que había un pedazo de carne hervida y una papa. Estaba muy frío, como si lo hubiesen cocinado la semana previa, y no había posibilidad de normalizarlo con sal o pimiento. Como no me acerqué a la mesa, Mary vino hasta la esquina donde estaba, y, mientras me tendía el plato de aluminio, me preguntó:
+En ese momento, alguien llamó a la señorita Scott desde la puerta. Como temí que una exhibición de carácter representara demasiada cordura, me quité el sombrero y los guantes y esperé su regreso, sentada en silencio y con la mirada en el vacío. Tenía hambre, por lo que me alegró ver a Mary preparando todo para la comida. Los preparativos fueron sencillos. Simplemente acercó un banco recto hasta el costado de una mesa sin mantel y ordenó a las pacientes que se reunieran para el festín; luego, trajo un pequeño plato de aluminio en el que había un pedazo de carne hervida y una papa. Estaba muy frío, como si lo hubiesen cocinado la semana previa, y no había posibilidad de normalizarlo con sal o pimiento. Como no me acerqué a la mesa, Mary vino hasta la esquina donde estaba, y, mientras me tendía el plato de aluminio, me preguntó:
 
-	–¿Tienes unos centavitos por ahí, cariño?
+–¿Tienes unos centavitos por ahí, cariño?
 
-	–¿Qué? –dije yo, sorprendida. 
+–¿Qué? –dije yo, sorprendida. 
 
-	–Que si tienes unos centavitos por ahí, cariño, que me puedas dar. Igual te los van a quitar todos, cariño, así que es mejor que me los des en cualquier caso.
+–Que si tienes unos centavitos por ahí, cariño, que me puedas dar. Igual te los van a quitar todos, cariño, así que es mejor que me los des en cualquier caso.
 
-	Esta vez entendí bien, pero no tenía intención de pagarle impuestos a Mary tan al inicio del juego, pues temía que eso afectara el trato que me dispensaba, así que le dije que había perdido mi bolso, lo cual era más que cierto. Aunque no le di dinero a Mary, no dejó de ser amable conmigo. Cuando objeté sobre el plato de aluminio en el que me había llevado la comida, me fue a buscar un plato de porcelana; y cuando me fue imposible comer la comida que me ofrecía, me dio un vaso de leche y una galleta salada.
+Esta vez entendí bien, pero no tenía intención de pagarle impuestos a Mary tan al inicio del juego, pues temía que eso afectara el trato que me dispensaba, así que le dije que había perdido mi bolso, lo cual era más que cierto. Aunque no le di dinero a Mary, no dejó de ser amable conmigo. Cuando objeté sobre el plato de aluminio en el que me había llevado la comida, me fue a buscar un plato de porcelana; y cuando me fue imposible comer la comida que me ofrecía, me dio un vaso de leche y una galleta salada.
 
-	Todas las ventanas del salón estaban abiertas y el aire frío empezaba a calar en mi sangre sureña. De hecho, refrescó tanto que se hizo casi insoportable, por lo que me quejé de ello con la señorita Scott y la señorita Ball. Pero respondieron con parquedad que me encontraba en un lugar de caridad y que no podía esperar nada distinto. Todas las demás mujeres sufrían el frío, y las enfermeras mismas tenían que vestir pesados abrigos para entrar en calor. Pregunté si podía meterme a la cama. “¡No!”, me dijeron. Finalmente, la señorita Scott trajo un viejo chal gris y, tras sacudirle las polillas de encima, me dijo que me cubriera con él. 
+Todas las ventanas del salón estaban abiertas y el aire frío empezaba a calar en mi sangre sureña. De hecho, refrescó tanto que se hizo casi insoportable, por lo que me quejé de ello con la señorita Scott y la señorita Ball. Pero respondieron con parquedad que me encontraba en un lugar de caridad y que no podía esperar nada distinto. Todas las demás mujeres sufrían el frío, y las enfermeras mismas tenían que vestir pesados abrigos para entrar en calor. Pregunté si podía meterme a la cama. “¡No!”, me dijeron. Finalmente, la señorita Scott trajo un viejo chal gris y, tras sacudirle las polillas de encima, me dijo que me cubriera con él. 
 
-	–Es un chal bastante lamentable –dije. 
+–Es un chal bastante lamentable –dije. 
 
-	–Bueno, algunas personas se las arreglarían mejor si no fueran tan orgullosas –repuso la señorita Scott–. La gente que depende de la caridad no debería esperar nada y no debería quejarse. 
+–Bueno, algunas personas se las arreglarían mejor si no fueran tan orgullosas –repuso la señorita Scott–. La gente que depende de la caridad no debería esperar nada y no debería quejarse. 
 
-	Así que me puse el chal raído por las polillas, abrigándome con su olor a encerrado, y me senté en una silla de mimbre, preguntándome qué seguiría, si moriría congelada o sobreviviría. Mi nariz estaba muy fría, así que me cubrí la cabeza, y cuando empezaba a cabecear, me arrebataron el chal de golpe y vi ante mí a un hombre extraño junto a la señorita Scott. El hombre resultó ser un médico, y su primer saludo fue:
+Así que me puse el chal raído por las polillas, abrigándome con su olor a encerrado, y me senté en una silla de mimbre, preguntándome qué seguiría, si moriría congelada o sobreviviría. Mi nariz estaba muy fría, así que me cubrí la cabeza, y cuando empezaba a cabecear, me arrebataron el chal de golpe y vi ante mí a un hombre extraño junto a la señorita Scott. El hombre resultó ser un médico, y su primer saludo fue:
 
-	–He visto esa cara antes.
+–He visto esa cara antes.
 
-	–¿Así que me conoce? –pregunté, con una muestra de impaciencia que en realidad no sentía. 
+–¿Así que me conoce? –pregunté, con una muestra de impaciencia que en realidad no sentía. 
 
-	–Me parece que sí. ¿De dónde saliste?
+–Me parece que sí. ¿De dónde saliste?
 
-	–De mi casa.
+–De mi casa.
 
-	–¿Dónde está tu casa?
+–¿Dónde está tu casa?
 
-	–¿No lo sabe usted? En Cuba.
+–¿No lo sabe usted? En Cuba.
 
-	Procedió a sentarse junto a mí, me tomó el pulso, examinó mi lengua y, por último, dijo:
+Procedió a sentarse junto a mí, me tomó el pulso, examinó mi lengua y, por último, dijo:
 
-	–Cuéntale a la señorita Scott todo sobre tu vida.
+–Cuéntale a la señorita Scott todo sobre tu vida.
 
-	–No, no pienso hacerlo. No hablaré con mujeres.
+–No, no pienso hacerlo. No hablaré con mujeres.
 
-	–¿Qué haces en Nueva York?
+–¿Qué haces en Nueva York?
 
-	–Nada.
+–Nada.
 
-	–¿Puedes trabajar?
+–¿Puedes trabajar?
 
-	–No, señor.
+–No, señor.
 
-	–Dime, ¿eres una mujer de la calle?
+–Dime, ¿eres una mujer de la calle?
 
-	–No le entiendo –respondí, genuinamente disgustada con él. 
+–No le entiendo –respondí, genuinamente disgustada con él. 
 
-	–Quiero decir, ¿has permitido que los hombres se ocupen de ti, a cambio de quedarte con ellos?
+–Quiero decir, ¿has permitido que los hombres se ocupen de ti, a cambio de quedarte con ellos?
 
-	Me dieron ganas de abofetearlo, pero debía mantener la compostura, así que me limité a decir:
+Me dieron ganas de abofetearlo, pero debía mantener la compostura, así que me limité a decir:
 
-	–No entiendo de qué habla. Siempre he vivido en casa.
+–No entiendo de qué habla. Siempre he vivido en casa.
 
-	Después de muchas preguntas más, tan inútiles como insensibles, el doctor me dejó y se puso a conversar con la enfermera. 
+Después de muchas preguntas más, tan inútiles como insensibles, el doctor me dejó y se puso a conversar con la enfermera. 
 
-	–Positivamente loca –dijo–. La considero un caso perdido. Necesita que la lleven a un lugar donde se encarguen de ella.
+–Positivamente loca –dijo–. La considero un caso perdido. Necesita que la lleven a un lugar donde se encarguen de ella.
 
-	Y así fue como pasé por mi segundo experto médico.
+Y así fue como pasé por mi segundo experto médico.
 
-	Después de aquello, comencé a tener menos consideración por la habilidad de los doctores de la que había tenido hasta entonces y un mayor respeto por mí misma. De pronto, tuve la seguridad de que ningún médico podía distinguir si alguien estaba loco o no, siempre y cuando no fuese un caso violento.
+Después de aquello, comencé a tener menos consideración por la habilidad de los doctores de la que había tenido hasta entonces y un mayor respeto por mí misma. De pronto, tuve la seguridad de que ningún médico podía distinguir si alguien estaba loco o no, siempre y cuando no fuese un caso violento.
 
-	Por la tarde vinieron un chico y una mujer. La mujer se sentó a mi lado en un banco, mientras que el chico entró a la sala y se puso a hablar con la señorita Scott. Al poco tiempo salió y, tras despedirse con un movimiento de cabeza de aquella mujer, que era su madre, se marchó. Ella no parecía loca, pero como era alemana no logré descubrir su historia. Su nombre, sin embargo, era Louise Schanz. Parecía un tanto perdida, pero cuando las enfermeras le dieron material para coser, hizo su trabajo bien y rápido. A las tres de la tarde todas las pacientes recibieron un caldo de habas, y a las cinco una taza de té con un trozo de pan. A mí me consintieron, porque cuando vieron que me era imposible comer el pan o beber aquel líquido honrado con el nombre de té, me dieron una taza de leche y una galleta, lo mismo que había tomado al mediodía.
+Por la tarde vinieron un chico y una mujer. La mujer se sentó a mi lado en un banco, mientras que el chico entró a la sala y se puso a hablar con la señorita Scott. Al poco tiempo salió y, tras despedirse con un movimiento de cabeza de aquella mujer, que era su madre, se marchó. Ella no parecía loca, pero como era alemana no logré descubrir su historia. Su nombre, sin embargo, era Louise Schanz. Parecía un tanto perdida, pero cuando las enfermeras le dieron material para coser, hizo su trabajo bien y rápido. A las tres de la tarde todas las pacientes recibieron un caldo de habas, y a las cinco una taza de té con un trozo de pan. A mí me consintieron, porque cuando vieron que me era imposible comer el pan o beber aquel líquido honrado con el nombre de té, me dieron una taza de leche y una galleta, lo mismo que había tomado al mediodía.
 
 Justo cuando encendieron el gas llegó otra paciente. Era una joven de veinticinco años. Me dijo que acababa de levantarse de su lecho de enferma. Su aspecto confirmaba su historia. Parecía haber padecido un ataque de fiebre. “Ahora sufro de debilidad nerviosa –dijo– y mis amigos me han enviado aquí para recibir atención.” No le comenté dónde estaba, pues se veía muy satisfecha. A las seis y cuarto, la señorita Ball dijo que quería marcharse, así́ que todas tuvimos que irnos a la cama. A cada una de nosotras –ahora éramos seis– se nos asignó una habitación y se nos dijo que nos desnudáramos. Así lo hice, y me dieron una bata corta de franela de algodón para que la usara durante la noche. Luego, la señorita Ball tomó toda la ropa que había llevado puesta durante el día y, haciendo un fardo con ella, la etiquetó como “Brown” y se la llevó. La ventana con barrotes de hierro estaba cerrada, y la señorita Ball, después de darme una manta extra –lo cual, según dijo, era un favor que rara vez se concedía–, salió y me dejó sola. La cama no era cómoda. De hecho, era tan dura que no podía hacerme ni un hueco en ella, y la almohada estaba rellena de paja. Debajo de la sábana había un hule extendido. A medida que la noche iba enfriando, yo intentaba calentar el hule. Seguí intentándolo, pero cuando amaneció estaba tan frío como al acostarme, y, dado que yo también me hallaba a la misma temperatura de un témpano, di la tarea por imposible.
 
@@ -601,7 +601,7 @@ Era un hombre joven y atractivo. Tenía el aire y el porte de un caballero. En e
 
 El doctor iba acompañado por un amigo que nunca aventuró ningún comentario, sólo me miraba tumbada en la cama. Después de muchas preguntas, a las que respondí con veracidad, me dejó. Siguieron otras complicaciones. Durante toda la noche, las enfermeras se leían en voz alta las unas para las otras, y sé que las otras pacientes, al igual que me pasó a mí, no pudieron dormir. Cada media hora, las enfermeras caminaban con pesadez por los pasillos, con sus botas de tacón resonando como la marcha de un regimiento, y miraban con detenimiento a cada paciente. Desde luego, aquello bastó para mantenernos despiertas. Después, cuando se acercaba la mañana, empezaron a batir huevos para el desayuno, y el sonido me hizo darme cuenta de cuánta hambre tenía. Gritos y chillidos ocasionales surgían del pabellón masculino, lo cual tampoco ayudó a que la noche pasara con más ligereza. Además, la sirena de la ambulancia, que traía a más desafortunadas, sonó como un toque de difuntos. Y así pasé mi primera noche como una chica loca en Bellevue. 
 
-
+---
 
 **Capítulo VII**
 
@@ -609,69 +609,72 @@ El doctor iba acompañado por un amigo que nunca aventuró ningún comentario, s
 
 A las seis en punto de la mañana del domingo 25 de septiembre, las enfermeras retiraron la manta con la que me cubría. “Ven, es hora de salir de la cama”, me dijeron, y abrieron la ventana para dejar entrar el aire fresco. Luego me regresaron mi ropa. Una vez vestida, me llevaron hasta unos lavabos donde todas las demás pacientes intentaban quitarse de la cara todo rastro de sueño. A las siete en punto nos dieron un menjurje espantoso; Mary nos dijo que era caldo de pollo. El frío, por el que ya habíamos sufrido bastante el día anterior, calaba aún más, y cuando me quejé con la enfermera me dijo que una de las reglas de la institución era no encender la calefacción hasta octubre, así que tendríamos que aguantarlo, puesto que las tuberías de vapor ni siquiera habían sido limpiadas. Luego, las enfermeras de la noche, armadas con tijeras, comenzaron a hacer la manicura a las pacientes. Me cortaron las uñas casi al ras, al igual que al resto. Poco después apareció otro joven y atractivo doctor y me condujeron a la sala de estar. 
 
-	–¿Tú quién eres? –me preguntó. 
+–¿Tú quién eres? –me preguntó. 
 
-	–Nellie Moreno –respondí, usando la versión en castellano de mi apellido. 
+–Nellie Moreno –respondí, usando la versión en castellano de mi apellido. 
 
-	–Entonces, ¿por qué te pusieron Brown? –preguntó–. ¿Qué te pasa?
+–Entonces, ¿por qué te pusieron Brown? –preguntó–. ¿Qué te pasa?
 
-	–Nada. Yo no quería venir aquí, pero me trajeron. Quisiera irme. ¿Me dejará salir?
+–Nada. Yo no quería venir aquí, pero me trajeron. Quisiera irme. ¿Me dejará salir?
 
-	–¿Si te saco de aquí te quedarás conmigo? ¿No te irás corriendo en cuanto pises la calle?
+–¿Si te saco de aquí te quedarás conmigo? ¿No te irás corriendo en cuanto pises la calle?
 
-	–No puedo prometer que no lo haré –contesté con una sonrisa y un suspiro, pues era guapo.
+–No puedo prometer que no lo haré –contesté con una sonrisa y un suspiro, pues era guapo.
 
-	Me hizo muchas preguntas más. ¿Veía a veces caras en las paredes? ¿Escuchaba voces en torno mío? Le respondí lo mejor que pude.
+Me hizo muchas preguntas más. ¿Veía a veces caras en las paredes? ¿Escuchaba voces en torno mío? Le respondí lo mejor que pude.
 
-	–¿Oyes voces por la noche? –preguntó. 
+–¿Oyes voces por la noche? –preguntó. 
 
-	–Sí, platican tanto que no logro dormir.
+–Sí, platican tanto que no logro dormir.
 
-	–Eso pensé –dijo para sí. Luego, volviéndose hacia mí, preguntó–. ¿Qué dicen tales voces?
+–Eso pensé –dijo para sí. Luego, volviéndose hacia mí, preguntó–. ¿Qué dicen tales voces?
 
-	–Bueno, no siempre les pongo atención. Pero a veces, muy seguido, hablan sobre Nellie Brown, y luego sobre otros temas que me interesan mucho menos –contesté con la verdad.
+–Bueno, no siempre les pongo atención. Pero a veces, muy seguido, hablan sobre Nellie Brown, y luego sobre otros temas que me interesan mucho menos –contesté con la verdad.
 
-	–Con eso basta –le dijo el doctor a la señorita Scott, quien estaba esperando afuera. 
+–Con eso basta –le dijo el doctor a la señorita Scott, quien estaba esperando afuera. 
 
-	–¿Me puedo ir ya? –pregunté. 
+–¿Me puedo ir ya? –pregunté. 
 
-	–Sí –dijo él, con una risa satisfecha–, pronto estarás en otro sitio.
+–Sí –dijo él, con una risa satisfecha–, pronto estarás en otro sitio.
 
-	–Hace mucho frío aquí; quiero salir –dije.
+–Hace mucho frío aquí; quiero salir –dije.
 
-	–Es cierto –le dijo el doctor a la señorita Scott–, el frío aquí es casi intolerable, y tendrán casos de neumonía si no se andan con cuidado.
+–Es cierto –le dijo el doctor a la señorita Scott–, el frío aquí es casi intolerable, y tendrán casos de neumonía si no se andan con cuidado.
 
-	Después de eso, me sacaron y pasó otra paciente. Me senté casi junto a la puerta y esperé para escuchar cómo el doctor ponía a prueba la cordura de las otras internas. Salvo mínimas variaciones, el interrogatorio fue igual que el mío. A todas las pacientes les preguntaba si veían caras en las paredes, si oían voces y qué decían éstas. Debo añadir que cada paciente negó tales fenómenos auditivos y visuales. A las diez en punto nos dieron una taza de caldo de carne sin sal; al mediodía, un poco de carne fría y una papa; a las tres en punto, una taza de avena hervida, y a las cinco y media, una taza de té y una rebanada de pan sin mantequilla. Todas teníamos hambre y frío. Después de que el médico se marchara, nos dieron chales y nos dijeron que camináramos por los pasillos para entrar en calor. Durante el día, varios curiosos visitaron el pabellón para ver a la chica loca proveniente de Cuba. Mantuve la cabeza cubierta, con la excusa de que tenía frío, por temor a que alguno de los reporteros me reconociera. Algunos de los visitantes buscaban, según supe, a una chica desaparecida, pues me hicieron quitarme el chal varias veces y, después de mirarme, decían: “No la conozco” o “No es ella”, por lo que me sentía agradecida en secreto. El director O'Rourke me visitó y puso en práctica sus buenas artes, examinándome. Luego trajo a algunas mujeres bien vestidas y, en otro momento, a algunos caballeros, para que echaran un vistazo a la misteriosa Nellie Brown.
+Después de eso, me sacaron y pasó otra paciente. Me senté casi junto a la puerta y esperé para escuchar cómo el doctor ponía a prueba la cordura de las otras internas. Salvo mínimas variaciones, el interrogatorio fue igual que el mío. A todas las pacientes les preguntaba si veían caras en las paredes, si oían voces y qué decían éstas. Debo añadir que cada paciente negó tales fenómenos auditivos y visuales. A las diez en punto nos dieron una taza de caldo de carne sin sal; al mediodía, un poco de carne fría y una papa; a las tres en punto, una taza de avena hervida, y a las cinco y media, una taza de té y una rebanada de pan sin mantequilla. Todas teníamos hambre y frío. Después de que el médico se marchara, nos dieron chales y nos dijeron que camináramos por los pasillos para entrar en calor. Durante el día, varios curiosos visitaron el pabellón para ver a la chica loca proveniente de Cuba. Mantuve la cabeza cubierta, con la excusa de que tenía frío, por temor a que alguno de los reporteros me reconociera. Algunos de los visitantes buscaban, según supe, a una chica desaparecida, pues me hicieron quitarme el chal varias veces y, después de mirarme, decían: “No la conozco” o “No es ella”, por lo que me sentía agradecida en secreto. El director O'Rourke me visitó y puso en práctica sus buenas artes, examinándome. Luego trajo a algunas mujeres bien vestidas y, en otro momento, a algunos caballeros, para que echaran un vistazo a la misteriosa Nellie Brown.
 
-	Los reporteros eran los más latosos. ¡Eran muchos! Y todos tan brillantes e inteligentes que me entró un miedo terrible de que notaran que estaba cuerda. Fueron muy amables y agradables conmigo, y muy gentiles en todas sus preguntas. Mi último visitante de la noche anterior se acercó a la ventana mientras algunos reporteros me entrevistaban en la sala de estar y le dijo a la enfermera que les permitiera verme, ya que podrían ser de ayuda para encontrar alguna pista sobre mi identidad.
+Los reporteros eran los más latosos. ¡Eran muchos! Y todos tan brillantes e inteligentes que me entró un miedo terrible de que notaran que estaba cuerda. Fueron muy amables y agradables conmigo, y muy gentiles en todas sus preguntas. Mi último visitante de la noche anterior se acercó a la ventana mientras algunos reporteros me entrevistaban en la sala de estar y le dijo a la enfermera que les permitiera verme, ya que podrían ser de ayuda para encontrar alguna pista sobre mi identidad.
 
-	Por la tarde vino el doctor Field y me examinó. Me hizo sólo unas pocas preguntas, que no tenían relación alguna con mi caso. La pregunta principal fue por mi hogar y mis amigos, si había tenido amantes o había estado casada alguna vez. Luego me hizo estirar los brazos y mover los dedos, lo cual hice sin dilación; sin embargo, lo escuché decir que el mío era un caso perdido. A las demás pacientes les hicieron las mismas preguntas. 
+Por la tarde vino el doctor Field y me examinó. Me hizo sólo unas pocas preguntas, que no tenían relación alguna con mi caso. La pregunta principal fue por mi hogar y mis amigos, si había tenido amantes o había estado casada alguna vez. Luego me hizo estirar los brazos y mover los dedos, lo cual hice sin dilación; sin embargo, lo escuché decir que el mío era un caso perdido. A las demás pacientes les hicieron las mismas preguntas. 
 
-	Cuando el doctor estaba a punto de dejar el pabellón, la señorita Tillie Mayard descubrió que estaba en un manicomio. Se acercó al doctor Field y le preguntó por qué la habían llevado ahí.
+Cuando el doctor estaba a punto de dejar el pabellón, la señorita Tillie Mayard descubrió que estaba en un manicomio. Se acercó al doctor Field y le preguntó por qué la habían llevado ahí.
 
-	–¿Acabas de descubrir que estás en un manicomio? –le preguntó el doctor. 
+–¿Acabas de descubrir que estás en un manicomio? –le preguntó el doctor. 
 
-	–Sí, mis amigas me dijeron que me enviaban a un pabellón de convalecencia para que me trataran por una debilidad nerviosa, de la que sufro desde que enfermé. Quiero irme de este lugar cuanto antes.
+–Sí, mis amigas me dijeron que me enviaban a un pabellón de convalecencia para que me trataran por una debilidad nerviosa, de la que sufro desde que enfermé. Quiero irme de este lugar cuanto antes.
 
-	–Bueno, no vas a salir de aquí pronto –dijo el doctor con una risita. 
+–Bueno, no vas a salir de aquí pronto –dijo el doctor con una risita. 
 
-	–Si usted de verdad supiera algo –respondió ella–, se habría dado cuenta de que estoy perfectamente cuerda. ¿Por qué no me pone a prueba?
+–Si usted de verdad supiera algo –respondió ella–, se habría dado cuenta de que estoy perfectamente cuerda. ¿Por qué no me pone a prueba?
 
-	–Ya tenemos registro de todo lo que hay que saber –dijo el doctor, y dejó a la pobre chica condenada al manicomio, quizás de por vida, sin concederle la más mínima oportunidad de probar su cordura. 
+–Ya tenemos registro de todo lo que hay que saber –dijo el doctor, y dejó a la pobre chica condenada al manicomio, quizás de por vida, sin concederle la más mínima oportunidad de probar su cordura. 
 
-	La noche del domingo no fue sino una repetición de la del sábado. Toda la noche estuvimos despiertas debido a la charla de las enfermeras y a su pesada marcha por los pasillos sin alfombrar. La mañana del lunes nos dijeron que a la una y treinta nos trasladarían. Las enfermeras me interrogaron sin tregua sobre mi hogar y todas parecían compartir la idea de que yo tenía un amante que me había lanzado al mundo y que había destrozado mi cerebro. Por la mañana llegaron varios reporteros. Parecían incansables en sus esfuerzos por obtener algo nuevo. Sin embargo, la señorita Scott se negó a permitir que me vieran, lo cual le agradecí en mi fuero interno. Si hubieran tenido acceso a mi persona, lo más probable es que mi misterio se habría desvanecido, pues muchos de ellos me conocían de vista. El director O’Rourke vino para una última visita y charló un poco conmigo. Escribió su nombre en mi cuaderno, diciéndole a la enfermera que yo lo olvidaría todo en una hora. Sonreí y me dije que no estaba tan segura de ello. Otras personas pidieron verme, pero nadie me conocía ni podía proveer información sobre mí.
+La noche del domingo no fue sino una repetición de la del sábado. Toda la noche estuvimos despiertas debido a la charla de las enfermeras y a su pesada marcha por los pasillos sin alfombrar. La mañana del lunes nos dijeron que a la una y treinta nos trasladarían. Las enfermeras me interrogaron sin tregua sobre mi hogar y todas parecían compartir la idea de que yo tenía un amante que me había lanzado al mundo y que había destrozado mi cerebro. Por la mañana llegaron varios reporteros. Parecían incansables en sus esfuerzos por obtener algo nuevo. Sin embargo, la señorita Scott se negó a permitir que me vieran, lo cual le agradecí en mi fuero interno. Si hubieran tenido acceso a mi persona, lo más probable es que mi misterio se habría desvanecido, pues muchos de ellos me conocían de vista. El director O’Rourke vino para una última visita y charló un poco conmigo. Escribió su nombre en mi cuaderno, diciéndole a la enfermera que yo lo olvidaría todo en una hora. Sonreí y me dije que no estaba tan segura de ello. Otras personas pidieron verme, pero nadie me conocía ni podía proveer información sobre mí.
 
-	Llegó el mediodía. Me puse más y más nerviosa conforme se acercaba el momento de partir rumbo a la isla. Temía a cada nuevo visitante, angustiada ante la idea de que mi secreto fuera descubierto de último momento. Más tarde me dieron un chal, mi sombrero y mis guantes. Apenas y podía ponérmelos, pues tenía los nervios de punta. Al fin llegó el ayudante, y me despedí de Mary deslizándole “unos cuantos centavos” en la mano. “Dios te bendiga –dijo–; rezaré por ti. Anímate, cariño. Eres fuerte y saldrás de ésta.” Le dije que así lo esperaba y luego me despedí de la señorita Scott en español. El ayudante de aspecto rudo me agarró por ambos brazos y, entre guiándome y arrastrándome, me llevó hasta una ambulancia. Se había juntado un grupo de estudiantes y nos observaron con curiosidad. Yo me puse el chal en la cara y me hundí en el carro, agradecida. Las señoritas Neville y Mayard, y las señoras Fox y Schanz lo abordaron una tras otra detrás de mí. Un hombre se subió con nosotras, cerraron las puertas y la ambulancia salió por el portón con gran estilo, ¡rumbo al manicomio y la victoria! Las pacientes no hicieron ningún intento por escapar. El olor del aliento del ayudante era lo suficiente fuerte para infundirnos mareos. 
+Llegó el mediodía. Me puse más y más nerviosa conforme se acercaba el momento de partir rumbo a la isla. Temía a cada nuevo visitante, angustiada ante la idea de que mi secreto fuera descubierto de último momento. Más tarde me dieron un chal, mi sombrero y mis guantes. Apenas y podía ponérmelos, pues tenía los nervios de punta. Al fin llegó el ayudante, y me despedí de Mary deslizándole “unos cuantos centavos” en la mano. “Dios te bendiga –dijo–; rezaré por ti. Anímate, cariño. Eres fuerte y saldrás de ésta.” Le dije que así lo esperaba y luego me despedí de la señorita Scott en español. El ayudante de aspecto rudo me agarró por ambos brazos y, entre guiándome y arrastrándome, me llevó hasta una ambulancia. Se había juntado un grupo de estudiantes y nos observaron con curiosidad. Yo me puse el chal en la cara y me hundí en el carro, agradecida. Las señoritas Neville y Mayard, y las señoras Fox y Schanz lo abordaron una tras otra detrás de mí. Un hombre se subió con nosotras, cerraron las puertas y la ambulancia salió por el portón con gran estilo, ¡rumbo al manicomio y la victoria! Las pacientes no hicieron ningún intento por escapar. El olor del aliento del ayudante era lo suficiente fuerte para infundirnos mareos. 
 
-	Cuando llegamos al muelle, se juntó tal cantidad de gente en torno a la ambulancia que tuvieron que llamar a la policía para que la apartara y pudiéramos subir al barco. Yo fui la última de la procesión. Me escoltaron por la rampa, y la fresca brisa trajo hasta mi rostro el aliento alcohólico del ayudante, haciéndome tambalear. Me llevaron a un camarote sucio, donde encontré a mis compañeras sentadas en una estrecha banca. Las pequeñas ventanas estaban cerradas y, con el olor del asqueroso cuarto, el aire se sentía denso. En un extremo del camarote había un pequeño catre en tal estado que tuve que taparme la nariz al acercarme a él. Allí acostaron a una chica enferma. Una vieja, con una cofia enorme y una cesta sucia llena de mendrugos y trozos de carne seca, completaba el cuadro de nuestra compañía. La puerta era custodiada por dos ayudantes femeninas. Una iba enfundada en un vestido de yute y la otra vestía como si se hubiera esmerado en tener estilo. Eran mujeres toscas y gordas, y escupían jugo de tabaco en el suelo con más destreza que encanto. Una de estas temibles criaturas parecía tener mucha fe en el poder de la mirada sobre los locos, pues, cuando alguna de nosotras se movía o se ponía en pie para mirar por la alta ventana, ella decía “siéntate” y fruncía el entrecejo, observándonos de un modo francamente terrorífico. Mientras vigilaban la puerta, charlaban con algunos hombres que había afuera. Departían sobre el número de pacientes y sobre sus propios asuntos de un modo que no era edificante ni refinado.
+Cuando llegamos al muelle, se juntó tal cantidad de gente en torno a la ambulancia que tuvieron que llamar a la policía para que la apartara y pudiéramos subir al barco. Yo fui la última de la procesión. Me escoltaron por la rampa, y la fresca brisa trajo hasta mi rostro el aliento alcohólico del ayudante, haciéndome tambalear. Me llevaron a un camarote sucio, donde encontré a mis compañeras sentadas en una estrecha banca. Las pequeñas ventanas estaban cerradas y, con el olor del asqueroso cuarto, el aire se sentía denso. En un extremo del camarote había un pequeño catre en tal estado que tuve que taparme la nariz al acercarme a él. Allí acostaron a una chica enferma. Una vieja, con una cofia enorme y una cesta sucia llena de mendrugos y trozos de carne seca, completaba el cuadro de nuestra compañía. La puerta era custodiada por dos ayudantes femeninas. Una iba enfundada en un vestido de yute y la otra vestía como si se hubiera esmerado en tener estilo. Eran mujeres toscas y gordas, y escupían jugo de tabaco en el suelo con más destreza que encanto. Una de estas temibles criaturas parecía tener mucha fe en el poder de la mirada sobre los locos, pues, cuando alguna de nosotras se movía o se ponía en pie para mirar por la alta ventana, ella decía “siéntate” y fruncía el entrecejo, observándonos de un modo francamente terrorífico. Mientras vigilaban la puerta, charlaban con algunos hombres que había afuera. Departían sobre el número de pacientes y sobre sus propios asuntos de un modo que no era edificante ni refinado.
 
-	El barco se detuvo, y la vieja y la chica enferma se apearon. Al resto de nosotras nos dijeron que no nos moviéramos. En la siguiente parada bajaron mis compañeras, una por una. Yo fui la última, y al parecer hacía falta que un hombre y una mujer me condujeran hasta la rampa para alcanzar la orilla. Ahí esperaba una ambulancia, y dentro de ella había otras cuatro pacientes.
+El barco se detuvo, y la vieja y la chica enferma se apearon. Al resto de nosotras nos dijeron que no nos moviéramos. En la siguiente parada bajaron mis compañeras, una por una. Yo fui la última, y al parecer hacía falta que un hombre y una mujer me condujeran hasta la rampa para alcanzar la orilla. Ahí esperaba una ambulancia, y dentro de ella había otras cuatro pacientes.
 
-	–¿Qué sitio es éste? –le pregunté al hombre que hundía sus dedos en mi brazo. 
+–¿Qué sitio es éste? –le pregunté al hombre que hundía sus dedos en mi brazo. 
 
-	–Es Blackwell’s Island, un lugar para alienados del que no saldrás nunca.
+–Es Blackwell’s Island, un lugar para alienados del que no saldrás nunca.
 
-	Después me metieron a empellones en la ambulancia, elevaron la escalerilla, subieron atrás un oficial y un cartero y, así, me llevaron con presteza hasta el Manicomio de Blackwell’s Island.
+Después me metieron a empellones en la ambulancia, elevaron la escalerilla, subieron atrás un oficial y un cartero y, así, me llevaron con presteza hasta el Manicomio de Blackwell’s Island.
+
+---
+
 
 ## **Capítulo VIII: En el manicomio**
 
