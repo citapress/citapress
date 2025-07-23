@@ -49,8 +49,6 @@ foreword: >
   <p><b>Portada:</b> Dajia Zhou es una ilustradora, narradora y soñadora que reside actualmente en Boston, MA.</p>
 published: false
 ---
-
-
 ## **Prólogo**
 
 Por Mikita Brottman
@@ -81,9 +79,7 @@ Cuando apareció en 1887, se promocionó *Diez días en un manicomio* como “el
 
 Bly escribió su relato para un periódico, para ser leído por un público amplio y no por una audiencia versada en periodismo o psicología. Por lo tanto, es justo que esta nueva edición se encuentre en internet de manera gratuita, para que cualquiera pueda leerla, lejos del contexto minimizador de la “célebre hazaña”. También resulta apropiado que *Diez días en un manicomio* aparezca en un catálogo que incluye “El tapiz amarillo”, de Charlotte Perkins Gilman, que se sumerge en la interioridad de una mujer (si bien de una clase social distinta de las de aquellas que Bly conoce en el manicomio) que sufre de un agudo desequilibrio psicológico. Al situar el relato en este nuevo contexto, se le permite al público contemporáneo, por fin, comprender y apreciar la naturaleza radical y reveladora del experimento de Bly, así como de la historia que nos cuenta.
 
-
----
-
+- - -
 
 ## **Capítulo I: Una misión delicada**
 
@@ -105,11 +101,13 @@ Tenía escasa confianza en mi capacidad para engañar a los expertos en locura, 
 
 A mí sola me correspondieron las preparaciones preliminares de mi calvario. Sólo se decidió una cosa de antemano: que debía ocultarme bajo el seudónimo de Nellie Brown, cuyas iniciales coincidían con las de mi propio nombre y con el monograma de mis sábanas, para que no hubiera problema en seguir el rastro de mis movimientos y asistirme en cualquier dificultad o peligro en que pudiera verme envuelta. Había formas de ingresar al pabellón para dementes, pero yo no las conocía. Podía seguir uno de dos caminos. O bien, fingía demencia en casa de ciertos amigos y me hacía ingresar voluntariamente con el acuerdo de dos médicos competentes, o podía llegar a mi destino por vía de las cortes judiciales.
 
+![Nellie practica la demencia en casa](https://ucarecdn.com/8817e626-a55b-4bd5-a526-35f96f114c27/DiezDias_IllustrationCaptions_1. Nellie practica la demencia en casa.png "Nellie practica la demencia en casa")
+
 Tras reflexionar, creí más prudente no incordiar a mis amigos ni conseguir que ningún médico bondadoso me ayudara en mi propósito. Además, para ayudarme a llegar a Blackwell’s Island, mis amigos habrían tenido que fingir pobreza y, por desgracia, para el fin que perseguía, mi relación con los desventurados, excepto conmigo misma, era muy superficial. Así, decidí el plan que me llevó a cumplir con éxito mi misión. Conseguí que me internaran en el pabellón de dementes de Blackwell's Island, donde pasé diez días y diez noches y viví una experiencia que nunca olvidaré. Asumí el papel de una pobre y desafortunada loca, y sentí que era mi deber no eludir ninguno de los resultados desagradables que surgieran. Me convertí en una de las locas de la ciudad durante ese tiempo, tuve muchas experiencias y vi y oí más acerca del tratamiento concedido a esta clase indefensa de nuestra población, y cuando había visto y oído lo suficiente, mi liberación fue rápidamente asegurada. Abandoné el manicomio con placer y pesar: placer por poder disfrutar de la vida una vez más, y pesar por no poder llevar conmigo a algunas de las desventuradas mujeres que vivieron y sufrieron a mi lado, quienes, estoy convencida, están tan cuerdas como yo misma lo estaba y lo sigo estando.
 
 Llegado a este punto, permítanme decir algo: desde el momento en que entré en el pabellón para alienadas de la isla, no hice ningún esfuerzo por mantenerme en el asumido *papel* de la demente. Hablé y actué justo como lo hago en la vida cotidiana. Sin embargo, es extraño decirlo, cuanto más hablaba y actuaba con cordura, más loca me creían todos, excepto uno de los médicos, cuya amabilidad y suaves maneras recordaré por largo tiempo.
 
----
+- - -
 
 ## **Capítulo II: La preparación para la prueba**
 
@@ -121,7 +119,7 @@ Al principio, pensé que lo mejor sería ir a una pensión y, tras asegurarme al
 
 Seleccioné en el directorio el Hogar Temporal para Mujeres, en el número 84 de la Segunda Avenida. Al caminar por la avenida, decidí que, una vez dentro del Hogar, haría lo posible por iniciar mi travesía hacia Blackwell’s Island y al manicomio.
 
----
+- - -
 
 ## **Capítulo III: En el hogar temporal**
 
@@ -243,7 +241,7 @@ Sin embargo, la perdono. Sólo cuando una ha estado en problemas se da cuenta de
 
 Cuánto admiré el valor y la amabilidad de esa pequeña mujer. Cuánto deseé calmarla y susurrarle que yo no estaba loca, y cuánto ansié que, si alguna pobre chica llegaba a ser tan infeliz como yo pretendía serlo, se encontrara con alguien que poseyera el mismo espíritu de humana amabilidad que tenía la señora Ruth Caine. 
 
----
+- - -
 
 ## **Capítulo IV: El juez Duffy y la policía**
 
@@ -413,7 +411,7 @@ Tuve otro acceso de miedo. ¿Había llevado demasiado lejos mi deseo de no ver a
 
 –No me quedaré aquí, ¡quiero mis baúles! ¿Por qué me tienen que molestar tantas personas? –y así seguí hasta que el médico de urgencias llegó, acompañado por el juez. 
 
----
+- - -
 
 ## **Capítulo V: Declarada loca**
 
@@ -449,9 +447,7 @@ Una vez más, custodiada por el oficial Brockert, crucé el pequeño y atestado 
 
 Nunca olvidaré aquel trayecto. Después de que me acostaran sobre una manta amarilla, el médico subió y se sentó junto a la puerta. El gran portón se abrió de par en par, y la muchedumbre de curiosos que se había juntado ahí se abrió para dejar pasar a la ambulancia. ¡Vaya que intentaron ver a la supuesta loca! El médico se dio cuenta de que no me gustaba que la gente me mirara y tuvo la consideración de bajar las cortinas, tras preguntarme si eso deseaba. Pero eso no desalentó a la gente. Los niños corrieron detrás de nosotros, gritando toda suerte de improperios y tratando de atisbar bajo las cortinas. Fue un trayecto bastante interesante, pero debo decir que también fue excepcionalmente duro. Me aferré a lo que pude, aunque no había mucho a qué aferrarse, y el chofer condujo como si temiera que alguien nos diera alcance.
 
----
-
-
+- - -
 
 ## Capítulo VI:En el Hospital Bellevue
 
@@ -599,7 +595,7 @@ Era un hombre joven y atractivo. Tenía el aire y el porte de un caballero. En e
 
 El doctor iba acompañado por un amigo que nunca aventuró ningún comentario, sólo me miraba tumbada en la cama. Después de muchas preguntas, a las que respondí con veracidad, me dejó. Siguieron otras complicaciones. Durante toda la noche, las enfermeras se leían en voz alta las unas para las otras, y sé que las otras pacientes, al igual que me pasó a mí, no pudieron dormir. Cada media hora, las enfermeras caminaban con pesadez por los pasillos, con sus botas de tacón resonando como la marcha de un regimiento, y miraban con detenimiento a cada paciente. Desde luego, aquello bastó para mantenernos despiertas. Después, cuando se acercaba la mañana, empezaron a batir huevos para el desayuno, y el sonido me hizo darme cuenta de cuánta hambre tenía. Gritos y chillidos ocasionales surgían del pabellón masculino, lo cual tampoco ayudó a que la noche pasara con más ligereza. Además, la sirena de la ambulancia, que traía a más desafortunadas, sonó como un toque de difuntos. Y así pasé mi primera noche como una chica loca en Bellevue. 
 
----
+- - -
 
 ## Capítulo VII:La meta a la vista
 
@@ -669,8 +665,7 @@ El barco se detuvo, y la vieja y la chica enferma se apearon. Al resto de nosotr
 
 Después me metieron a empellones en la ambulancia, elevaron la escalerilla, subieron atrás un oficial y un cartero y, así, me llevaron con presteza hasta el Manicomio de Blackwell’s Island.
 
----
-
+- - -
 
 ## **Capítulo VIII: En el manicomio**
 
@@ -830,9 +825,7 @@ Era un salón largo y austero, con bancas amarillas alrededor. En esas bancas, t
 
 Ella me alzó el vestido y las faldas y señaló: un par de zapatos, un par de medias, un vestido de manta, un sombrero de paja, etcétera.
 
----	
-
-
+\---	
 
 ## **Capítulo X: Mi primera cena**
 
@@ -855,8 +848,6 @@ Otra paciente, al ver esto, me ofreció́ amablemente el suyo, pero lo rechacé
 –Me es imposible comerme esto –repliqué, y, a pesar de sus ruegos, aquella noche no probé bocado. 
 
 No les llevó mucho tiempo a las pacientes consumir todo lo que había de comestible en la mesa; luego, recibimos la orden de formar una fila en el pasillo. Cuando lo hicimos, se abrieron las puertas frente a nosotras y se nos pidió volver a la sala de estar. Muchas de las pacientes se apiñaron cerca de nosotras, y, tanto ellas como las enfermeras, me instaron de nuevo a tocar el piano. Para complacer a las pacientes, prometí tocar; la señorita Tillie Mayard cantaría. Lo primero que me pidió que tocara fue “Duérmete, niño”, y así lo hice. Ella la cantó con gran belleza.
-
-
 
 ## **Capítulo XI: En los baños**
 
@@ -960,9 +951,7 @@ Unos días después, le pregunté al doctor Ingram si me lo podía devolver, y �
 
 Cuando las pacientes terminaron las labores domésticas, y puesto que era un día soleado, aunque frío, nos dijeron que saliéramos al vestíbulo y nos pusiéramos los chales y sombreros para dar un paseo. ¡Pobres pacientes! Qué deseosas estaban de respirar aire fresco; cuánto ansiaban un breve descanso de su prisión. Salieron a toda prisa al vestíbulo y hubo una escaramuza por los sombreros. ¡Y qué sombreros!
 
----
-
-	
+- - -
 
 ## **Capítulo XII: De paseo con las lunáticas**
 
@@ -1016,8 +1005,7 @@ Luego se ponía en pie y se aventuraba a deambular por la habitación. A veces l
 
 En ese momento, vi a la señorita Grupe sentarse sobre la vieja y pasarle las manos frías por la cara y dentro del cuello de su vestido. Ante los chillidos de la vieja, la enfermera se rio salvajemente, al igual que el resto de sus compañeras, y repitió aquella crueldad. Aquel día se llevaron a la anciana a otro pabellón. 
 
----
-
+- - -
 
 ## **Capítulo XIII: Asfixia y golpes a las pacientes**
 
@@ -1081,7 +1069,7 @@ Uno de los personajes del Pabellón 6 era Matilda, una viejecita alemana que, se
 
 Vi cómo la señorita Grady, con el pretexto de susurrarle algo, le escupía en la oreja. Matilda se limpió la oreja en silencio y no dijo nada.
 
----
+- - -
 
 ## **Capítulo XIV: Algunas historias desafortunadas**
 
@@ -1163,8 +1151,7 @@ También conocí a Bridget McGuinness, quien parece estar cuerda en el presente.
 
 –Las palizas que me dieron allí fueron espantosas. Me tiraban del pelo, me mantenían bajo el agua hasta que me asfixiaba, me estrangulaban y me daban patadas. Las enfermeras siempre tenían a una paciente callada junto a la ventana para que les avisara cuando se acercaba algún médico. Era inútil quejarse con ellos, pues siempre decían que eran imaginaciones de nuestros cerebros enfermos; además, nos tocaba otra paliza por contarlo. Sujetaban a las pacientes bajo el agua y las amenazaban con dejarlas morir allí hasta que juraban no contárselo a los médicos. Todas lo prometíamos, porque sabíamos que los doctores no iban a ayudarnos, y hubiéramos hecho cualquier cosa para escapar del castigo. Después de romper una ventana, me trasladaron a la Cabaña, el peor lugar de la isla. Está terriblemente sucio y el hedor es espantoso. En verano hay un enjambre de moscas. La comida es peor que en otros pabellones y sólo nos dan platos de hojalata. Los barrotes no están por fuera, como en este pabellón, sino por dentro. Hay muchas pacientes tranquilas que llevan años ahí, pero las enfermeras las retienen para que hagan todo el trabajo. Entre las palizas que me dieron ahí, las enfermeras saltaron una vez sobre mí y me rompieron dos costillas. Mientras estaba ahí trajeron a una chica muy joven. Había estado enferma y luchó para que no la metieran en aquel sucio lugar. Una noche, las enfermeras la agarraron y, después de golpearla, la metieron desnuda en un baño frío y luego a la cama. Para cuando llegó la mañana, la chica estaba muerta. Los médicos dijeron que había muerto de convulsiones, y eso fue todo lo que se hizo al respecto. Inyectan morfina y cloruro en tal cantidad que las pacientes se vuelven locas. He visto a ciertas pacientes enloquecer pidiendo agua por el efecto de las drogas, y las enfermeras se la negaban. He oído a mujeres suplicar durante toda una noche por una gota y no se la daban. Yo misma lloré por agua hasta que mi boca estaba tan reseca y pastosa que no podía hablar. También en el Pabellón 7 vi algo similar. Las pacientes suplicaban por un trago de agua antes de retirarse a dormir, pero las enfermeras –la señorita Hart y las demás– se negaban a abrir el baño para que pudieran saciar su sed.
 
----
-
+- - -
 
 ## **Capítulo XV: Incidentes de la vida en el manicomio**
 
@@ -1198,8 +1185,7 @@ La única diversión, si así puede llamársele, que se ofrece a las pacientes a
 
 Una fábrica de cepillos de fregar, otra de esterillas y la lavandería son los lugares donde trabajan las pacientes leves. No reciben recompensa por ello, pero lo desean con ansias. 
 
----
-
+- - -
 
 ## **Capítulo XVI: El último adiós**
 
@@ -1257,8 +1243,7 @@ Había deseado con gran intensidad salir de aquel lugar espantoso; sin embargo, 
 
 Pronto me vi cruzando el río y acercándome a Nueva York. Una vez más era una chica libre, después de diez días en el manicomio de Blackwell’s Island.
 
----
-
+- - -
 
 ## **Capítulo XVII: La investigación del gran jurado**
 
@@ -1300,7 +1285,7 @@ Mi trabajo me ha dejado un consuelo: como resultado de la fuerza de mi historia,
 
 *FIN*
 
----
+- - -
 
 ## **Ep**ílogo: **Nota a la traducción**
 
@@ -1332,8 +1317,7 @@ Cierro estas líneas con una valoración personal: lo que aprendí traduciendo a
 
 —Ciudad de México, septiembre de 2024
 
----
-
+- - -
 
 ## **Bibliografía y lecturas recomendadas**
 
