@@ -47,11 +47,11 @@ foreword: >
 
 
   <p><b>Portada:</b> Dajia Zhou es una ilustradora, narradora y soñadora que reside actualmente en Boston, MA.</p>
-published: false
+published: true
 ---
 ## **Prólogo**
 
-Por Mikita Brottman
+***Por Mikita Brottman***
 
 En 1887, por encargo del periódico *New York World* de Joseph Pulitzer, la periodista Nellie Bly se hizo pasar por una “persona loca” a fin de ser admitida en el Manicomio para Mujeres de Blackwell’s Island. Considerada desde la perspectiva de hoy, esta podría entenderse como una maniobra pionera del periodismo investigativo, a pesar de que sus métodos fueron, sin lugar a duda, personales e idiosincráticos. En su época, fue vista como una “hazaña” y se anunció con bombo y platillo en titulares sensacionalistas (“Finge demencia para revelar los horrores del pabellón psiquiátrico”).
 
