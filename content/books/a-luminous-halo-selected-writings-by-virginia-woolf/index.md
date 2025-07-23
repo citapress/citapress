@@ -584,7 +584,7 @@ Ruotolo, Lucio P. *The Interrupted Moment : A View of Virginia Woolf’s Novels*
 
 [“Mr. Bennet and Mrs. Brown”: Woolf, Virginia, and Woolf, Leonard, ed. *The Hogarth Essays : B First Series*](< https://en.wikisource.org/wiki/Mr._Bennett_and_Mrs._Brown#cite_ref-1 >)*.* London: Hogarth Press, 1925.
 
-[“On Not Knowing Greek”: *The Common Reader*](https://www.gutenberg.org/cache/epub/64457/pg64457-images.html#Modern_Fiction)*.* New York: Harcourt, Brace, and Company, 1925. 
+[“On Not Knowing Greek”: *The Common Reader*](https://www.gutenberg.org/cache/epub/64457/pg64457-images.html#On_Not_Knowing_Greek)*.* New York: Harcourt, Brace, and Company, 1925. 
 
 [“How Should One Read a Book?”: *The Yale Review: New Series XVI*](<https://hdl.handle.net/2027/uc1.b4091599 >)*.* New Haven, CT: Yale University Press, 1927, 32-44.
 
