@@ -43,7 +43,7 @@ foreword: >
   MacSweeney), saldrá a la venta en julio de 2025 en Catapult.</p>
 
 
-  <p><b>Prologo:</b> Mikita Brottman es una autora, psicoanalista y profesora de literatura en el Maryland Institute College of Art de Baltimore.</p>
+  <p><b>Prólogo:</b> Mikita Brottman es una autora, psicoanalista y profesora de literatura en el Maryland Institute College of Art de Baltimore.</p>
 
 
   <p><b>Portada y ilustraciones:</b> Dajia Zhou es una ilustradora, narradora y soñadora que reside actualmente en Boston, MA.</p>
