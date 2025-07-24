@@ -267,6 +267,8 @@ Respondí que eso creía. 
 
 Le dije que no lo sabía, y luego la señora Stanard le dio un montón de información sobre mí: le habló de mi extraño comportamiento al llegar al Hogar, de cómo no había pegado ojo en toda la noche y que, en su opinión, yo era una pobre desafortunada que había enloquecido tras recibir tratos inhumanos. La señora Stanard y los otros dos oficiales hablaron otro rato, y se ordenó a Tom Bockert que nos llevara hasta el tribunal en un coche. 
 
+![En manos de la policía](https://ucarecdn.com/d37b72f0-9bbc-4915-8798-7e7fc58b031e/tempImage1VTMFZ.heic "En manos de la policía")
+
 –Ven conmigo –dijo Bockert–, encontraré ese baúl tuyo. 
 
 Nos fuimos los tres juntos: la señora Stanard, Tom Bockert y yo. Les dije que era muy amable de su parte venir conmigo y que siempre recordaría aquel gesto. Mientras caminábamos, insistí en el asunto de mis baúles, intercalando algún comentario ocasional sobre la desastrosa condición de las calles y el curioso carácter de la gente con la que nos cruzábamos por el camino. 
@@ -318,6 +320,8 @@ En ese punto, alguien más que había escuchado el breve diálogo afirmó que ha
 –Juez, tenemos aquí el peculiar caso de una joven que no sabe quién es ni de dónde viene. Más vale que lo atienda usted a la brevedad.
 
 Comencé a temblar por algo que era más que frío, y miré al extraño grupo de gente a mi alrededor, compuesto por hombres y mujeres de humilde vestimenta, con historias de dificultades, abuso y pobreza impresas en el rostro. Algunos conversaban ansiosamente con sus amigos, mientras que otros permanecían sentados con una mirada de absoluta desesperanza. Aquí y allá se veían funcionarios bien vestidos y alimentados que observaban la escena con pasividad, casi con indiferencia. Para ellos era el mismo cuento de siempre. Una desafortunada más que se añadía a una larga lista que hacía tiempo había dejado de ser interesante o preocupante para ellos.
+
+![Nellie ante el juez Duffy](https://ucarecdn.com/06e03b97-1566-444c-97a7-c1aef04d761f/tempImageZdpF6m.heic "Nellie ante el juez Duffy")
 
 –Ven aquí, niña, y descúbrete el rostro –instó el juez Duffy, en un tono que me sorprendió por la rudeza, que me parecía impensable en ese amable rostro suyo. 
 
@@ -429,6 +433,8 @@ Luego, volviéndose hacia la señora Stanard, le preguntó si no podía alojarme
 
 Pero saqué la lengua, y él la observó de manera sagaz. Luego me tomó el pulso y escuchó los latidos de mi corazón. No tenía ni idea de cómo debía latir el corazón de una persona loca, así que contuve el aliento mientras él escuchaba, hasta que, cuando el médico se retiró, tuve que tomar una bocanada de aire. Después, el doctor estudió el efecto de la luz en mis pupilas. Sosteniendo su mano a medio palmo de mi cara, me dijo que la observara y, retirándola con presteza, examinó mis ojos. Me quedé intrigada por cómo se vería la locura en el ojo, así que pensé que lo mejor que podía hacer en esas circunstancias era mirar al vacío. Eso hice, mantuve los ojos fijos y sin parpadear frente a su mano, y, cuando la apartó, hice todo lo posible por seguir sin parpadear.
 
+![Un experto en locura trabajando](https://ucarecdn.com/e839d24f-65e9-479f-8a35-efa6cb790082/tempImagenxlMsD.heic "Un experto en locura trabajando")
+
 –¿Qué drogas has estado tomando? –me preguntó entonces. 
 
 –¡Drogas! –repetí asombrada–. No sé qué son las drogas. 
@@ -449,7 +455,7 @@ Nunca olvidaré aquel trayecto. Después de que me acostaran sobre una manta ama
 
 - - -
 
-## Capítulo VI:En el Hospital Bellevue
+## Capítulo VI: En el Hospital Bellevue
 
 Al fin llegamos a Bellevue, la tercera estación en mi camino hacia la isla. Había superado con éxito las pruebas del Hogar y el Juzgado del Mercado de Essex, por lo que ahora estaba segura de que no fracasaría. La ambulancia se detuvo con un súbito traqueteo y el médico bajó de un brinco. “¿Cuántas traes?”, escuché que preguntaba alguien. “Sólo una, para el pabellón”, fue la respuesta. Un hombre de aspecto rudo se acercó y, agarrándome de un brazo, intentó sacarme a rastras del coche, como si yo tuviera la fuerza de un elefante y fuera a resistirme. El médico, al ver mi cara de disgusto, le ordenó que me dejara en paz, diciendo que él se encargaría de mí personalmente. En seguida, me levantó con cuidado, y caminé con la gracia de una reina frente al grupo de curiosos que se había reunido para ver a la nueva infeliz. Entré junto con el doctor en una pequeña y oscura oficina, donde varios hombres más nos esperaban. El que estaba detrás del escritorio abrió un libro y comenzó la larga retahíla de preguntas que ya me habían hecho varias veces. 
 
@@ -533,6 +539,8 @@ Así que me puse el chal raído por las polillas, abrigándome con su olor a enc
 
 –¿No lo sabe usted? En Cuba.
 
+![Positivamente loca](https://ucarecdn.com/4349a660-732c-4d61-8cd0-65f46b44cb14/tempImage6u61rh.heic "Positivamente loca")
+
 Procedió a sentarse junto a mí, me tomó el pulso, examinó mi lengua y, por último, dijo:
 
 –Cuéntale a la señorita Scott todo sobre tu vida.
@@ -597,7 +605,7 @@ El doctor iba acompañado por un amigo que nunca aventuró ningún comentario, s
 
 - - -
 
-## Capítulo VII:La meta a la vista
+## Capítulo VII: La meta a la vista
 
 A las seis en punto de la mañana del domingo 25 de septiembre, las enfermeras retiraron la manta con la que me cubría. “Ven, es hora de salir de la cama”, me dijeron, y abrieron la ventana para dejar entrar el aire fresco. Luego me regresaron mi ropa. Una vez vestida, me llevaron hasta unos lavabos donde todas las demás pacientes intentaban quitarse de la cara todo rastro de sueño. A las siete en punto nos dieron un menjurje espantoso; Mary nos dijo que era caldo de pollo. El frío, por el que ya habíamos sufrido bastante el día anterior, calaba aún más, y cuando me quejé con la enfermera me dijo que una de las reglas de la institución era no encender la calefacción hasta octubre, así que tendríamos que aguantarlo, puesto que las tuberías de vapor ni siquiera habían sido limpiadas. Luego, las enfermeras de la noche, armadas con tijeras, comenzaron a hacer la manicura a las pacientes. Me cortaron las uñas casi al ras, al igual que al resto. Poco después apareció otro joven y atractivo doctor y me condujeron a la sala de estar. 
 
@@ -875,6 +883,8 @@ Me condujeron a la habitación 28 y me dejaron ahí, intentando abrirme un hueco
 
 –Bueno, no deberías esperar ninguna amabilidad en este sitio, porque no vas a recibirla – dijo ella, y salió cerrando la puerta tras de sí. 
 
+![Su dormitorio](https://ucarecdn.com/7bb471ca-5af9-4c5a-ba17-0fd351c6bea0/tempImageFg4S1Q.heic "Su dormitorio")
+
 Debajo de mí había una sábana y un hule, y me cubría una sábana y una manta negra de lana. Nunca sentí nada tan molesto como la manta de lana cuando trataba de mantenerla sobre mis hombros para evitar que el frío se colara debajo. Cuando la jalaba hacia arriba, mis pies quedaban al descubierto; cuando la bajaba, mis hombros quedaban expuestos. No había en el cuarto absolutamente nada, excepto la cama y yo misma. Como habían cerrado la puerta, imaginé que me dejarían sola toda la noche, pero me llegó el sonido de dos mujeres marchando con pies pesados por el pasillo. Se detenían frente a cada puerta, la abrían y, unos momentos después, se oía que la cerraban de nuevo. Hicieron todo eso, a lo largo del pasillo y hasta llegar a mi puerta, sin esforzarse en lo más mínimo en guardar silencio. Ahí se detuvieron un instante; introdujeron la llave en la cerradura y la giraron. Observé a quienes estaban a punto de entrar, con sus vestidos a rayas blancas y marrones, abrochados con botones de latón, largos delantales blancos, un ancho cinturón en la cintura del que colgaban un montón de llaves, y pequeñas cofias blancas en la cabeza. Dado que iban vestidas como las asistentas diurnas, supe que eran enfermeras. La primera llevaba una linterna y dirigió su haz hacia mi rostro mientras le decía a su compañera:
 
 –Ésta es Nellie Brown. 
@@ -974,6 +984,8 @@ Pasaron de largo, pero otras ocuparon sus lugares. ¿Pueden imaginar esa visión
 ¡Locas! ¿Hay algo que se le acerque en horror a eso? Mi corazón se estremeció de pena cuando vi a una mujer anciana, de pelo cano, hablando como perdida hacia la nada. Una mujer llevaba una camisa de fuerza y otras dos tenían que arrastrarla. Tullidas, ciegas, viejas, jóvenes, hogareñas y bonitas; una masa humana sin sentido. No hay peor destino que aquel. 
 
 Miré los bellos jardines, que creí reconfortantes para las pobres criaturas confinadas en la isla, y me reí de mis propias ideas. ¿Cómo podrían disfrutarlos? No se les permite tocar el césped; sólo está ahí para contemplarlo. Vi a algunas pacientes que recogían con impaciencia y cuidado una nuez o una hoja que había caído en su camino, pero no se les permitía conservarlas. Las enfermeras siempre las instaban a tirar aquellos pedacitos de consuelo divino. 
+
+![Reclusas tranquilas de paseo](https://ucarecdn.com/06a23f34-2b16-4a20-9dab-e5db79dd47dc/tempImagehYl2vf.heic "Reclusas tranquilas de paseo")
 
 Al pasar por un pabellón bajo, donde estaban recluidas incontables lunáticas, leí un lema inscrito en el muro: “Mientras haya vida, hay esperanza”. Lo absurdo del mensaje me golpeó con una auténtica sacudida. Me hubiera gustado escribir sobre las rejas que conducen al manicomio: “Aquella que entre debe dejar afuera la esperanza”. 
 
