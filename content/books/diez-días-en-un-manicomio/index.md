@@ -39,8 +39,8 @@ description: <i>Diez días en un manicomio </i> recoge los reportajes de Nellie
 foreword: >
   <p><b>Traducción y epílogo:</b> Daniel Saldaña París es un escritor y
   traductor residente en Nueva York y Ciudad de México. Su última novela, <i>El
-  baile y el incendio</i>(<i>The Dance and the Fire</I>, traducida por Christina
-  MacSweeney), saldrá a la venta en julio de 2025 en Catapult.</p>
+  baile y el incendio</i> (<i>The Dance and the Fire</I>, traducida por
+  Christina MacSweeney), saldrá a la venta en julio de 2025 en Catapult.</p>
 
 
   <p><b>Prólogo:</b> Mikita Brottman es una autora, psicoanalista y profesora de literatura en el Maryland Institute College of Art de Baltimore.</p>
