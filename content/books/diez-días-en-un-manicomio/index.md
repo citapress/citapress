@@ -47,11 +47,11 @@ foreword: >
 
 
   <p><b>Portada:</b> Dajia Zhou es una ilustradora, narradora y soñadora que reside actualmente en Boston, MA.</p>
-published: true
+published: false
 ---
 ## **Prólogo**
 
-***Por Mikita Brottman***
+Por Mikita Brottman
 
 En 1887, por encargo del periódico *New York World* de Joseph Pulitzer, la periodista Nellie Bly se hizo pasar por una “persona loca” a fin de ser admitida en el Manicomio para Mujeres de Blackwell’s Island. Considerada desde la perspectiva de hoy, esta podría entenderse como una maniobra pionera del periodismo investigativo, a pesar de que sus métodos fueron, sin lugar a duda, personales e idiosincráticos. En su época, fue vista como una “hazaña” y se anunció con bombo y platillo en titulares sensacionalistas (“Finge demencia para revelar los horrores del pabellón psiquiátrico”).
 
@@ -267,6 +267,8 @@ Respondí que eso creía. 
 
 Le dije que no lo sabía, y luego la señora Stanard le dio un montón de información sobre mí: le habló de mi extraño comportamiento al llegar al Hogar, de cómo no había pegado ojo en toda la noche y que, en su opinión, yo era una pobre desafortunada que había enloquecido tras recibir tratos inhumanos. La señora Stanard y los otros dos oficiales hablaron otro rato, y se ordenó a Tom Bockert que nos llevara hasta el tribunal en un coche. 
 
+![En manos de la policía](https://ucarecdn.com/7a7dc339-2923-457a-b668-34c42fb5a068/tempImagevj7Xds.heic "En manos de la policía")
+
 –Ven conmigo –dijo Bockert–, encontraré ese baúl tuyo. 
 
 Nos fuimos los tres juntos: la señora Stanard, Tom Bockert y yo. Les dije que era muy amable de su parte venir conmigo y que siempre recordaría aquel gesto. Mientras caminábamos, insistí en el asunto de mis baúles, intercalando algún comentario ocasional sobre la desastrosa condición de las calles y el curioso carácter de la gente con la que nos cruzábamos por el camino. 
@@ -318,6 +320,8 @@ En ese punto, alguien más que había escuchado el breve diálogo afirmó que ha
 –Juez, tenemos aquí el peculiar caso de una joven que no sabe quién es ni de dónde viene. Más vale que lo atienda usted a la brevedad.
 
 Comencé a temblar por algo que era más que frío, y miré al extraño grupo de gente a mi alrededor, compuesto por hombres y mujeres de humilde vestimenta, con historias de dificultades, abuso y pobreza impresas en el rostro. Algunos conversaban ansiosamente con sus amigos, mientras que otros permanecían sentados con una mirada de absoluta desesperanza. Aquí y allá se veían funcionarios bien vestidos y alimentados que observaban la escena con pasividad, casi con indiferencia. Para ellos era el mismo cuento de siempre. Una desafortunada más que se añadía a una larga lista que hacía tiempo había dejado de ser interesante o preocupante para ellos.
+
+![Nellie ante el juez Duffy](https://ucarecdn.com/f83377bb-fb00-4920-a0f5-d18f4a82f51a/tempImagejxCCuW.heic "Nellie ante el juez Duffy")
 
 –Ven aquí, niña, y descúbrete el rostro –instó el juez Duffy, en un tono que me sorprendió por la rudeza, que me parecía impensable en ese amable rostro suyo. 
 
@@ -429,6 +433,8 @@ Luego, volviéndose hacia la señora Stanard, le preguntó si no podía alojarme
 
 Pero saqué la lengua, y él la observó de manera sagaz. Luego me tomó el pulso y escuchó los latidos de mi corazón. No tenía ni idea de cómo debía latir el corazón de una persona loca, así que contuve el aliento mientras él escuchaba, hasta que, cuando el médico se retiró, tuve que tomar una bocanada de aire. Después, el doctor estudió el efecto de la luz en mis pupilas. Sosteniendo su mano a medio palmo de mi cara, me dijo que la observara y, retirándola con presteza, examinó mis ojos. Me quedé intrigada por cómo se vería la locura en el ojo, así que pensé que lo mejor que podía hacer en esas circunstancias era mirar al vacío. Eso hice, mantuve los ojos fijos y sin parpadear frente a su mano, y, cuando la apartó, hice todo lo posible por seguir sin parpadear.
 
+![Un experto en locura trabajando](https://ucarecdn.com/8101427e-bf26-46a5-a8af-c70aa575063f/tempImage4zNM1Z.heic "Un experto en locura trabajando")
+
 –¿Qué drogas has estado tomando? –me preguntó entonces. 
 
 –¡Drogas! –repetí asombrada–. No sé qué son las drogas. 
@@ -532,6 +538,8 @@ Así que me puse el chal raído por las polillas, abrigándome con su olor a enc
 –¿Dónde está tu casa?
 
 –¿No lo sabe usted? En Cuba.
+
+![Positivamente loca](https://ucarecdn.com/50a695f4-9e91-470c-b5e0-59aa88ed8848/tempImageMAxeb2.heic "Positivamente loca")
 
 Procedió a sentarse junto a mí, me tomó el pulso, examinó mi lengua y, por último, dijo:
 
@@ -871,6 +879,8 @@ Me condujeron a la habitación 28 y me dejaron ahí, intentando abrirme un hueco
 
 –Pues me importa un bledo –dijo–, ahora estás en una institución pública y no puedes esperar que te den todo lo que quieres. Esto es caridad, y deberías agradecer lo que te damos.
 
+![Su dormitorio](https://ucarecdn.com/07a9ed57-e104-47f2-a1fa-a6ddb4461888/tempImage6dQZ7h.heic "Su dormitorio")
+
 –Pero el gobierno de la ciudad financia estos lugares –argüí –y le paga a la gente para que sea amable con las desafortunadas que llegamos aquí.
 
 –Bueno, no deberías esperar ninguna amabilidad en este sitio, porque no vas a recibirla – dijo ella, y salió cerrando la puerta tras de sí. 
@@ -974,6 +984,8 @@ Pasaron de largo, pero otras ocuparon sus lugares. ¿Pueden imaginar esa visión
 ¡Locas! ¿Hay algo que se le acerque en horror a eso? Mi corazón se estremeció de pena cuando vi a una mujer anciana, de pelo cano, hablando como perdida hacia la nada. Una mujer llevaba una camisa de fuerza y otras dos tenían que arrastrarla. Tullidas, ciegas, viejas, jóvenes, hogareñas y bonitas; una masa humana sin sentido. No hay peor destino que aquel. 
 
 Miré los bellos jardines, que creí reconfortantes para las pobres criaturas confinadas en la isla, y me reí de mis propias ideas. ¿Cómo podrían disfrutarlos? No se les permite tocar el césped; sólo está ahí para contemplarlo. Vi a algunas pacientes que recogían con impaciencia y cuidado una nuez o una hoja que había caído en su camino, pero no se les permitía conservarlas. Las enfermeras siempre las instaban a tirar aquellos pedacitos de consuelo divino. 
+
+![Reclusas tranquilas de paseo](https://ucarecdn.com/00514dae-81af-4e2b-9654-63e2fe398ff9/tempImager9G9DT.heic "Reclusas tranquilas de paseo")
 
 Al pasar por un pabellón bajo, donde estaban recluidas incontables lunáticas, leí un lema inscrito en el muro: “Mientras haya vida, hay esperanza”. Lo absurdo del mensaje me golpeó con una auténtica sacudida. Me hubiera gustado escribir sobre las rejas que conducen al manicomio: “Aquella que entre debe dejar afuera la esperanza”. 
 
