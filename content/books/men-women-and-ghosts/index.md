@@ -80,10 +80,13 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
                                      William Blake.
 </pre>
 
-<a name="#link2H_PREF" id="#link2H_PREF">
-    <h2>
-      Preface by the Author
-    </h2>
+  <a name="link2H_PREF" id="link2H_PREF">
+      <!--  H2 anchor --> </a>
+
+
+  <h2><b>Preface by the Author</b>
+  </h2>
+
 
   <p>
     This is a book of stories. For that reason I have excluded all purely lyrical poems. But the word "stories" has been stretched to its fullest application. It includes both narrative poems, properly so called; tales divided into scenes; and a few pieces of less obvious story-telling import in which one might say that the dramatis personae are air, clouds, trees, houses, streets, and such like things.
@@ -119,11 +122,20 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
     Amy Lowell <br>
     July 10, 1916
   </p>
+<br>
+<br>
+
+  <a name="link2H_4_0003" id="link2H_4_0003">
+      <!--  H2 anchor --> </a>
+  
   
 <a name="link2H_4_0004" id="link2H_4_0004">
     <h2>
       FIGURINES IN OLD SAXE
     </h2>
+
+<a name="link2H_4_0005" id="link2H_4_0005">
+      <!--  H2 anchor --> </a>
     <h2>
       Patterns
     </h2>
@@ -259,32 +271,32 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    How fresh the Dartle's little waves that day!<br>
-   &nbsp A steely silver, underlined with blue,<br>
+   ­­&nbsp; A steely silver, underlined with blue,<br>
    And flashing where the round clouds, blown away,<br>
-   &nbsp Let drop the yellow sunshine to gleam through<br>
+   &nbsp; Let drop the yellow sunshine to gleam through<br>
    And tip the edges of the waves with shifts<br>
-    &nbspAnd spots of whitest fire, hard like gems<br>
-    &nbsp &nbsp &nbsp Cut from the midnight moon they were, and sharp<br>
-   &nbsp As wind through leafless stems.<br>
+    &nbsp; And spots of whitest fire, hard like gems<br>
+    &nbsp; &nbsp; &nbsp; Cut from the midnight moon they were, and sharp<br>
+   &nbsp; As wind through leafless stems.<br>
    The Lady Eunice walked between the drifts<br>
    Of blooming cherry-trees, and watched the rifts<br>
-    &nbsp &nbsp &nbsp Of clouds drawn through the river's azure warp.</p>
+    &nbsp; &nbsp; &nbsp; Of clouds drawn through the river's azure warp.</p>
 
 <p>
        II</p>
 <p>
 
    Her little feet tapped softly down the path.<br>
-   &nbsp Her soul was listless; even the morning breeze<br>
+   &nbsp; Her soul was listless; even the morning breeze<br>
    Fluttering the trees and strewing a light swath<br>
-   &nbsp Of fallen petals on the grass, could please<br>
+   &nbsp; Of fallen petals on the grass, could please<br>
    Her not at all.  She brushed a hair aside<br>
-   &nbsp With a swift move, and a half-angry frown.<br>
-   &nbsp &nbsp &nbsp  She stopped to pull a daffodil or two,<br>
+   &nbsp; With a swift move, and a half-angry frown.<br>
+   &nbsp; &nbsp; &nbsp;  She stopped to pull a daffodil or two,<br>
     And held them to her gown<br>
    To test the colours; put them at her side,<br>
    Then at her breast, then loosened them and tried<br>
-  &nbsp&nbsp  &nbsp Some new arrangement, but it would not do.<br>
+  &nbsp;&nbsp;  &nbsp; Some new arrangement, but it would not do.<br>
      </p>
 
 <p>
@@ -292,32 +304,32 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    A lady in a Manor-house, alone,<br>
-   &nbsp Whose husband is in Flanders with the Duke<br>
+   &nbsp; Whose husband is in Flanders with the Duke<br>
    Of Marlborough and Prince Eugene, she's grown<br>
-   &nbsp Too apathetic even to rebuke<br>
+   &nbsp; Too apathetic even to rebuke<br>
    Her idleness.  What is she on this Earth?<br>
     No woman surely, since she neither can<br>
-    &nbsp &nbsp &nbsp Be wed nor single, must not let her mind<br>
-   &nbsp Build thoughts upon a man<br>
+    &nbsp; &nbsp; &nbsp; Be wed nor single, must not let her mind<br>
+   &nbsp; Build thoughts upon a man<br>
    Except for hers.  Indeed that were no dearth<br>
    Were her Lord here, for well she knew his worth,<br>
-    &nbsp &nbsp  And when she thought of him her eyes were kind.<br>
+    &nbsp; &nbsp;  And when she thought of him her eyes were kind.<br>
 
 <p>
        IV</p>
 <p>
 
    Too lately wed to have forgot the wooing.<br>
-    &nbspToo unaccustomed as a bride to feel<br>
+    &nbsp;Too unaccustomed as a bride to feel<br>
    Other than strange delight at her wife's doing.<br>
-   &nbsp Even at the thought a gentle blush would steal<br>
+   &nbsp; Even at the thought a gentle blush would steal<br>
    Over her face, and then her lips would frame<br>
-   &nbsp Some little word of loving, and her eyes<br>
-    &nbsp&nbsp&nbsp Would brim and spill their tears, when all they saw<br>
-   &nbsp Was the bright sun, slantwise<br>
+   &nbsp; Some little word of loving, and her eyes<br>
+    &nbsp;&nbsp;&nbsp; Would brim and spill their tears, when all they saw<br>
+   &nbsp; Was the bright sun, slantwise<br>
    Through burgeoning trees, and all the morning's flame<br>
    Burning and quivering round her.  With quick shame<br>
-    &nbsp&nbsp&nbsp She shut her heart and bent before the law.<br>
+    &nbsp;&nbsp;&nbsp; She shut her heart and bent before the law.<br>
 
 </p>
 <p>
@@ -325,16 +337,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    He was a soldier, she was proud of that.<br>
-    &nbspThis was his house and she would keep it well.<br>
+    &nbsp;This was his house and she would keep it well.<br>
    His honour was in fighting, hers in what<br>
-   &nbsp He'd left her here in charge of.  Then a spell<br>
+   &nbsp; He'd left her here in charge of.  Then a spell<br>
    Of conscience sent her through the orchard spying<br>
-    &nbspUpon the gardeners.  Were their tools about?<br>
-      &nbsp&nbsp&nbsp Were any branches broken?  Had the weeds<br>
-    &nbspBeen duly taken out<br>
+    &nbsp;Upon the gardeners.  Were their tools about?<br>
+      &nbsp;&nbsp;&nbsp; Were any branches broken?  Had the weeds<br>
+    &nbsp;Been duly taken out<br>
    Under the 'spaliered pears, and were these lying<br>
    Nailed snug against the sunny bricks and drying<br>
-      &nbsp&nbsp&nbsp Their leaves and satisfying all their needs?<br>
+      &nbsp;&nbsp;&nbsp; Their leaves and satisfying all their needs?<br>
 
 </p>
 <p>
@@ -342,48 +354,48 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    She picked a stone up with a little pout,<br>
-   &nbsp Stones looked so ill in well-kept flower-borders.<br>
+   &nbsp; Stones looked so ill in well-kept flower-borders.<br>
    Where should she put it?  All the paths about<br>
-   &nbsp Were strewn with fair, red gravel by her orders.<br>
+   &nbsp; Were strewn with fair, red gravel by her orders.<br>
    No stone could mar their sifted smoothness.  So<br>
-    &nbspShe hurried to the river.  At the edge<br>
-     &nbsp&nbsp&nbsp  She stood a moment charmed by the swift blue<br>
-   &nbsp Beyond the river sedge.<br>
+    &nbsp;She hurried to the river.  At the edge<br>
+     &nbsp;&nbsp;&nbsp;  She stood a moment charmed by the swift blue<br>
+   &nbsp; Beyond the river sedge.<br>
    She watched it curdling, crinkling, and the snow<br>
    Purfled upon its wave-tops.  Then, "Hullo,<br>
-     &nbsp&nbsp&nbsp  My Beauty, gently, or you'll wriggle through."<br>
+     &nbsp;&nbsp;&nbsp;  My Beauty, gently, or you'll wriggle through."<br>
 
 </p>
 <p>
        VII</p>
 <p>
    The Lady Eunice caught a willow spray<br>
-   &nbsp To save herself from tumbling in the shallows<br>
+   &nbsp; To save herself from tumbling in the shallows<br>
    Which rippled to her feet.  Then straight away<br>
-   &nbsp She peered down stream among the budding sallows.<br>
+   &nbsp; She peered down stream among the budding sallows.<br>
    A youth in leather breeches and a shirt<br>
-   &nbsp Of finest broidered lawn lay out upon<br>
-       &nbsp&nbsp&nbspAn overhanging bole and deftly swayed<br>
-    &nbspA well-hooked fish which shone<br>
+   &nbsp; Of finest broidered lawn lay out upon<br>
+       &nbsp;&nbsp;&nbsp;An overhanging bole and deftly swayed<br>
+    &nbsp;A well-hooked fish which shone<br>
    In the pale lemon sunshine like a spurt<br>
    Of silver, bowed and damascened, and girt<br>
-     &nbsp&nbsp&nbsp  With crimson spots and moons which waned and played.<br>
+     &nbsp;&nbsp;&nbsp;  With crimson spots and moons which waned and played.<br>
 </p>
 <p>
        VIII</p>
 <p>
 
    The fish hung circled for a moment, ringed<br>
-   &nbsp And bright; then flung itself out, a thin blade<br>
+   &nbsp; And bright; then flung itself out, a thin blade<br>
    Of spotted lightning, and its tail was winged<br>
-   &nbsp With chipped and sparkled sunshine.  And the shade<br>
+   &nbsp; With chipped and sparkled sunshine.  And the shade<br>
    Broke up and splintered into shafts of light<br>
-    &nbspWheeling about the fish, who churned the air<br>
-     &nbsp&nbsp&nbsp  And made the fish-line hum, and bent the rod<br>
-   &nbsp Almost to snapping.  Care<br>
+    &nbsp;Wheeling about the fish, who churned the air<br>
+     &nbsp;&nbsp;&nbsp;  And made the fish-line hum, and bent the rod<br>
+   &nbsp; Almost to snapping.  Care<br>
    The young man took against the twigs, with slight,<br>
    Deft movements he kept fish and line in tight<br>
-     &nbsp&nbsp&nbsp  Obedience to his will with every prod.<br>
+     &nbsp;&nbsp;&nbsp;  Obedience to his will with every prod.<br>
 
 </p>
 <p>
@@ -391,16 +403,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    He lay there, and the fish hung just beyond.<br>
-   &nbsp He seemed uncertain what more he should do.<br>
+   &nbsp; He seemed uncertain what more he should do.<br>
    He drew back, pulled the rod to correspond,<br>
-   &nbsp Tossed it and caught it; every time he threw,<br>
+   &nbsp; Tossed it and caught it; every time he threw,<br>
    He caught it nearer to the point.  At last<br>
-   &nbsp The fish was near enough to touch.  He paused.<br>
-    &nbsp&nbsp&nbsp   Eunice knew well the craft&mdash;"What's got the thing!"<br>
-   &nbsp She cried.  "What can have caused&mdash;<br>
+   &nbsp; The fish was near enough to touch.  He paused.<br>
+    &nbsp;&nbsp;&nbsp;   Eunice knew well the craft&mdash;"What's got the thing!"<br>
+   &nbsp; She cried.  "What can have caused&mdash;<br>
    Where is his net?  The moment will be past.<br>
    The fish will wriggle free."  She stopped aghast.<br>
-     &nbsp&nbsp&nbsp  He turned and bowed.  One arm was in a sling.<br>
+     &nbsp;&nbsp;&nbsp;  He turned and bowed.  One arm was in a sling.<br>
 
 </p>
 <p>
@@ -408,16 +420,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    The broad, black ribbon she had thought his basket<br>
-   &nbsp Must hang from, held instead a useless arm.<br>
+   &nbsp; Must hang from, held instead a useless arm.<br>
    "I do not wonder, Madam, that you ask it."<br>
-    &nbspHe smiled, for she had spoke aloud.  "The charm<br>
+    &nbsp;He smiled, for she had spoke aloud.  "The charm<br>
    Of trout fishing is in my eyes enhanced<br>
-   &nbsp When you must play your fish on land as well."<br>
-    &nbsp&nbsp&nbsp   "How will you take him?" Eunice asked.  "In truth<br>
-   &nbsp I really cannot tell.<br>
+   &nbsp; When you must play your fish on land as well."<br>
+    &nbsp;&nbsp;&nbsp;   "How will you take him?" Eunice asked.  "In truth<br>
+   &nbsp; I really cannot tell.<br>
    'Twas stupid of me, but it simply chanced<br>
    I never thought of that until he glanced<br>
-    &nbsp&nbsp&nbspInto the branches.  'Tis a bit uncouth."<br>
+    &nbsp;&nbsp;&nbsp;Into the branches.  'Tis a bit uncouth."<br>
 
 </p>
 <p>
@@ -425,16 +437,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    He watched the fish against the blowing sky,<br>
-   &nbsp Writhing and glittering, pulling at the line.<br>
+   &nbsp; Writhing and glittering, pulling at the line.<br>
    "The hook is fast, I might just let him die,"<br>
-   &nbsp He mused.  "But that would jar against your fine<br>
+   &nbsp; He mused.  "But that would jar against your fine<br>
    Sense of true sportsmanship, I know it would,"<br>
-   &nbsp Cried Eunice.  "Let me do it."  Swift and light<br>
-     &nbsp&nbsp&nbsp  She ran towards him.  "It is so long now<br>
-   &nbsp Since I have felt a bite,<br>
+   &nbsp; Cried Eunice.  "Let me do it."  Swift and light<br>
+     &nbsp;&nbsp;&nbsp;  She ran towards him.  "It is so long now<br>
+   &nbsp; Since I have felt a bite,<br>
    I lost all heart for everything."  She stood,<br>
    Supple and strong, beside him, and her blood<br>
-     &nbsp&nbsp&nbsp  Tingled her lissom body to a glow.<br>
+     &nbsp;&nbsp;&nbsp;  Tingled her lissom body to a glow.<br>
 
 </p>
 <p>
@@ -442,16 +454,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    She quickly seized the fish and with a stone<br>
-   &nbsp Ended its flurry, then removed the hook,<br>
+   &nbsp; Ended its flurry, then removed the hook,<br>
    Untied the fly with well-poised fingers.  Done,<br>
-   &nbsp She asked him where he kept his fishing-book.<br>
+   &nbsp; She asked him where he kept his fishing-book.<br>
    He pointed to a coat flung on the ground.<br>
-   &nbsp She searched the pockets, found a shagreen case,<br>
-   &nbsp&nbsp&nbsp    Replaced the fly, noticed a golden stamp<br>
-   &nbsp Filling the middle space.<br>
+   &nbsp; She searched the pockets, found a shagreen case,<br>
+   &nbsp;&nbsp;&nbsp;    Replaced the fly, noticed a golden stamp<br>
+   &nbsp; Filling the middle space.<br>
    Two letters half rubbed out were there, and round<br>
    About them gay rococo flowers wound<br>
-     &nbsp&nbsp&nbsp  And tossed a spray of roses to the clamp.<br>
+     &nbsp;&nbsp;&nbsp;  And tossed a spray of roses to the clamp.<br>
 
 </p>
 <p>
@@ -459,16 +471,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    The Lady Eunice puzzled over these.<br>
-   &nbsp "G. D." the young man gravely said.  "My name<br>
+   &nbsp; "G. D." the young man gravely said.  "My name<br>
    Is Gervase Deane.  Your servant, if you please."<br>
-   &nbsp "Oh, Sir, indeed I know you, for your fame<br>
+   &nbsp; "Oh, Sir, indeed I know you, for your fame<br>
    For exploits in the field has reached my ears.<br>
-    &nbspI did not know you wounded and returned."<br>
-     &nbsp&nbsp&nbsp  "But just come back, Madam.  A silly prick<br>
-   &nbsp To gain me such unearned<br>
+    &nbsp;I did not know you wounded and returned."<br>
+     &nbsp;&nbsp;&nbsp;  "But just come back, Madam.  A silly prick<br>
+   &nbsp; To gain me such unearned<br>
    Holiday making.  And you, it appears,<br>
    Must be Sir Everard's lady.  And my fears<br>
-     &nbsp&nbsp&nbsp  At being caught a-trespassing were quick."<br>
+     &nbsp;&nbsp;&nbsp;  At being caught a-trespassing were quick."<br>
 
 </p>
 <p>
@@ -476,16 +488,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    He looked so rueful that she laughed out loud.<br>
-   &nbsp "You are forgiven, Mr. Deane.  Even more,<br>
+   &nbsp; "You are forgiven, Mr. Deane.  Even more,<br>
    I offer you the fishing, and am proud<br>
-    &nbspThat you should find it pleasant from this shore.<br>
+    &nbsp;That you should find it pleasant from this shore.<br>
    Nobody fishes now, my husband used<br>
-   &nbsp To angle daily, and I too with him.<br>
-    &nbsp&nbsp&nbsp   He loved the spotted trout, and pike, and dace.v
-   &nbsp He even had a whim<br>
+   &nbsp; To angle daily, and I too with him.<br>
+    &nbsp;&nbsp;&nbsp;   He loved the spotted trout, and pike, and dace.v
+   &nbsp; He even had a whim<br>
    That flies my fingers tied swiftly confused<br>
    The greater fish.  And he must be excused, <br>
-     &nbsp&nbsp&nbsp  Love weaves odd fancies in a lonely place."<br>
+     &nbsp;&nbsp;&nbsp;  Love weaves odd fancies in a lonely place."<br>
 
 </p>
 <p>
@@ -493,16 +505,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    She sighed because it seemed so long ago,<br>
-   &nbsp Those days with Everard; unthinking took<br>
+   &nbsp; Those days with Everard; unthinking took<br>
    The path back to the orchard.  Strolling so<br>
-   &nbsp She walked, and he beside her.  In a nook<br>
+   &nbsp; She walked, and he beside her.  In a nook<br>
    Where a stone seat withdrew beneath low boughs,<br>
-   &nbsp Full-blossomed, hummed with bees, they sat them down.<br>
-    &nbsp&nbsp&nbsp   She questioned him about the war, the share<br>
-   &nbsp Her husband had, and grown<br>
+   &nbsp; Full-blossomed, hummed with bees, they sat them down.<br>
+    &nbsp;&nbsp;&nbsp;   She questioned him about the war, the share<br>
+   &nbsp; Her husband had, and grown<br>
    Eager by his clear answers, straight allows<br>
    Her hidden hopes and fears to speak, and rouse<br>
-    &nbsp&nbsp&nbsp   Her numbed love, which had slumbered unaware.<br>
+    &nbsp;&nbsp;&nbsp;   Her numbed love, which had slumbered unaware.<br>
 
 </p>
 <p>
@@ -510,16 +522,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    Under the orchard trees daffodils danced<br>
-  &nbsp  And jostled, turning sideways to the wind.<br>
+  &nbsp;  And jostled, turning sideways to the wind.<br>
    A dropping cherry petal softly glanced<br>
-   &nbsp Over her hair, and slid away behind.<br>
+   &nbsp; Over her hair, and slid away behind.<br>
    At the far end through twisted cherry-trees<br>
-    &nbspThe old house glowed, geranium-hued, with bricks<br>
-    &nbsp&nbsp&nbsp   Bloomed in the sun like roses, low and long,<br>
-   &nbsp Gabled, and with quaint tricks<br>
+    &nbsp;The old house glowed, geranium-hued, with bricks<br>
+    &nbsp;&nbsp;&nbsp;   Bloomed in the sun like roses, low and long,<br>
+   &nbsp; Gabled, and with quaint tricks<br>
    Of chimneys carved and fretted.  Out of these<br>
    Grey smoke was shaken, which the faint Spring breeze<br>
-    &nbsp&nbsp&nbsp   Tossed into nothing.  Then a thrush's song<br>
+    &nbsp;&nbsp;&nbsp;   Tossed into nothing.  Then a thrush's song<br>
 
 </p>
 <p>
@@ -527,16 +539,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    Needled its way through sound of bees and river.<br>
-   &nbsp The notes fell, round and starred, between young leaves,<br>
+   &nbsp; The notes fell, round and starred, between young leaves,<br>
    Trilled to a spiral lilt, stopped on a quiver.<br>
-   &nbsp The Lady Eunice listens and believes.<br>
+   &nbsp; The Lady Eunice listens and believes.<br>
    Gervase has many tales of her dear Lord,<br>
-   &nbsp His bravery, his knowledge, his charmed life.<br>
-    &nbsp&nbsp&nbsp   She quite forgets who's speaking in the gladness<br>
-   &nbsp Of being this man's wife.<br>
+   &nbsp; His bravery, his knowledge, his charmed life.<br>
+    &nbsp;&nbsp;&nbsp;   She quite forgets who's speaking in the gladness<br>
+   &nbsp; Of being this man's wife.<br>
    Gervase is wounded, grave indeed, the word<br>
    Is kindly said, but to a softer chord<br>
-    &nbsp&nbsp&nbsp   She strings her voice to ask with wistful sadness,<br>
+    &nbsp;&nbsp;&nbsp;   She strings her voice to ask with wistful sadness,<br>
 
 </p>
 <p>
@@ -544,16 +556,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    "And is Sir Everard still unscathed?  I fain<br>
-   &nbsp Would know the truth."  "Quite well, dear Lady, quite."<br>
+   &nbsp; Would know the truth."  "Quite well, dear Lady, quite."<br>
    She smiled in her content.  "So many slain,<br>
-   &nbsp You must forgive me for a little fright."<br>
+   &nbsp; You must forgive me for a little fright."<br>
    And he forgave her, not alone for that,<br>
-   &nbsp But because she was fingering his heart,<br>
-     &nbsp&nbsp&nbsp  Pressing and squeezing it, and thinking so<br>
-   &nbsp Only to ease her smart<br>
+   &nbsp; But because she was fingering his heart,<br>
+     &nbsp;&nbsp;&nbsp;  Pressing and squeezing it, and thinking so<br>
+   &nbsp; Only to ease her smart<br>
    Of painful, apprehensive longing.  At<br>
    Their feet the river swirled and chucked.  They sat<br>
-     &nbsp&nbsp&nbsp  An hour there.  The thrush flew to and fro.<br>
+     &nbsp;&nbsp;&nbsp;  An hour there.  The thrush flew to and fro.<br>
 
 </p>
 <p>
@@ -561,16 +573,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    The Lady Eunice supped alone that day,<br>
-   &nbsp As always since Sir Everard had gone,<br>
+   &nbsp; As always since Sir Everard had gone,<br>
    In the oak-panelled parlour, whose array<br>
-   &nbsp Of faded portraits in carved mouldings shone.<br>
+   &nbsp; Of faded portraits in carved mouldings shone.<br>
    Warriors and ladies, armoured, ruffed, peruked.<br>
-   &nbsp Van Dykes with long, slim fingers; Holbeins, stout<br>
-    &nbsp&nbsp&nbsp   And heavy-featured; and one Rubens dame,<br>
-    &nbspA peony just burst out,<br>
+   &nbsp; Van Dykes with long, slim fingers; Holbeins, stout<br>
+    &nbsp;&nbsp;&nbsp;   And heavy-featured; and one Rubens dame,<br>
+    &nbsp;A peony just burst out,<br>
    With flaunting, crimson flesh.  Eunice rebuked<br>
    Her thoughts of gentler blood, when these had duked<br>
-     &nbsp&nbsp&nbsp  It with the best, and scorned to change their name.<br>
+     &nbsp;&nbsp;&nbsp;  It with the best, and scorned to change their name.<br>
 
 </p>
 <p>
@@ -578,16 +590,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    A sturdy family, and old besides,<br>
-   &nbsp Much older than her own, the Earls of Crowe.<br>
+   &nbsp; Much older than her own, the Earls of Crowe.<br>
    Since Saxon days, these men had sought their brides<br>
-   &nbsp Among the highest born, but always so,<br>
+   &nbsp; Among the highest born, but always so,<br>
    Taking them to themselves, their wealth, their lands,<br>
-   &nbsp But never their titles.  Stern perhaps, but strong,<br>
-    &nbsp&nbsp&nbsp   The Framptons fed their blood from richest streams,<br>
-   &nbsp Scorning the common throng.<br>
+   &nbsp; But never their titles.  Stern perhaps, but strong,<br>
+    &nbsp;&nbsp;&nbsp;   The Framptons fed their blood from richest streams,<br>
+   &nbsp; Scorning the common throng.<br>
    Gazing upon these men, she understands<br>
    The toughness of the web wrought from such strands<br>
-    &nbsp&nbsp&nbsp   And pride of Everard colours all her dreams.<br>
+    &nbsp;&nbsp;&nbsp;   And pride of Everard colours all her dreams.<br>
 
 </p>
 <p>
@@ -595,16 +607,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    Eunice forgets to eat, watching their faces<br>
-   &nbsp Flickering in the wind-blown candle's shine.<br>
+   &nbsp; Flickering in the wind-blown candle's shine.<br>
    Blue-coated lackeys tiptoe to their places,<br>
-   &nbsp And set out plates of fruit and jugs of wine.<br>
+   &nbsp; And set out plates of fruit and jugs of wine.<br>
    The table glitters black like Winter ice.<br>
-   &nbsp The Dartle's rushing, and the gentle clash<br>
-    &nbsp&nbsp&nbsp   Of blossomed branches, drifts into her ears.<br>
-   &nbsp And through the casement sash<br>
+   &nbsp; The Dartle's rushing, and the gentle clash<br>
+    &nbsp;&nbsp;&nbsp;   Of blossomed branches, drifts into her ears.<br>
+   &nbsp; And through the casement sash<br>
    She sees each cherry stem a pointed slice<br>
    Of splintered moonlight, topped with all the spice<br>
-    &nbsp&nbsp&nbsp   And shimmer of the blossoms it uprears.<br>
+    &nbsp;&nbsp;&nbsp;   And shimmer of the blossoms it uprears.<br>
 
 </p>
 <p>
@@ -612,16 +624,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    "In such a night&mdash;" she laid the book aside,<br>
-  &nbsp  She could outnight the poet by thinking back.<br>
+  &nbsp;  She could outnight the poet by thinking back.<br>
    In such a night she came here as a bride.<br>
-  &nbsp  The date was graven in the almanack<br>
+  &nbsp;  The date was graven in the almanack<br>
    Of her clasped memory.  In this very room<br>
-  &nbsp  Had Everard uncloaked her.  On this seat<br>
-   &nbsp&nbsp&nbsp    Had drawn her to him, bade her note the trees,<br>
-   &nbsp How white they were and sweet<br>
+  &nbsp;  Had Everard uncloaked her.  On this seat<br>
+   &nbsp;&nbsp;&nbsp;    Had drawn her to him, bade her note the trees,<br>
+   &nbsp; How white they were and sweet<br>
    And later, coming to her, her dear groom,<br>
    Her Lord, had lain beside her in the gloom<br>
-   &nbsp&nbsp&nbsp    Of moon and shade, and whispered her to ease.<br>
+   &nbsp;&nbsp;&nbsp;    Of moon and shade, and whispered her to ease.<br>
 
 </p>
 <p>
@@ -629,16 +641,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    Her little taper made the room seem vast,<br>
-   &nbsp Caverned and empty.  And her beating heart<br>
+   &nbsp; Caverned and empty.  And her beating heart<br>
    Rapped through the silence all about her cast<br>
-   &nbsp Like some loud, dreadful death-watch taking part<br>
+   &nbsp; Like some loud, dreadful death-watch taking part<br>
    In this sad vigil.  Slowly she undrest,<br>
-  &nbsp  Put out the light and crept into her bed.<br>
-      &nbsp&nbsp&nbsp  The linen sheets were fragrant, but so cold.<br>
-  &nbsp  And brimming tears she shed,<br>
+  &nbsp;  Put out the light and crept into her bed.<br>
+      &nbsp;&nbsp;&nbsp;  The linen sheets were fragrant, but so cold.<br>
+  &nbsp;  And brimming tears she shed,<br>
    Sobbing and quivering in her barren nest,<br>
    Her weeping lips into the pillow prest,<br>
-     &nbsp&nbsp&nbsp  Her eyes sealed fast within its smothering fold.<br>
+     &nbsp;&nbsp;&nbsp;  Her eyes sealed fast within its smothering fold.<br>
 
 </p>
 <p>
@@ -646,16 +658,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    The morning brought her a more stoic mind,<br>
-   &nbsp And sunshine struck across the polished floor.<br>
+   &nbsp; And sunshine struck across the polished floor.<br>
    She wondered whether this day she should find<br>
-    &nbspGervase a-fishing, and so listen more,<br>
+    &nbsp;Gervase a-fishing, and so listen more,<br>
    Much more again, to all he had to tell.<br>
-   &nbsp And he was there, but waiting to begin<br>
-     &nbsp&nbsp&nbsp  Until she came.  They fished awhile, then went<br>
-   &nbsp To the old seat within<br>
+   &nbsp; And he was there, but waiting to begin<br>
+     &nbsp;&nbsp;&nbsp;  Until she came.  They fished awhile, then went<br>
+   &nbsp; To the old seat within<br>
    The cherry's shade.  He pleased her very well<br>
    By his discourse.  But ever he must dwell<br>
-    &nbsp&nbsp&nbsp   Upon Sir Everard.  Each incident<br>
+    &nbsp;&nbsp;&nbsp;   Upon Sir Everard.  Each incident<br>
 
 </p>
 <p>
@@ -663,16 +675,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    Must be related and each term explained.<br>
-    &nbspHow troops were set in battle, how a siege<br>
+    &nbsp;How troops were set in battle, how a siege<br>
    Was ordered and conducted.  She complained<br>
-   &nbsp Because he bungled at the fall of Liege.<br>
+   &nbsp; Because he bungled at the fall of Liege.<br>
    The curious names of parts of forts she knew,<br>
-   &nbsp And aired with conscious pride her ravelins,<br>
-    &nbsp&nbsp&nbsp   And counterscarps, and lunes.  The day drew on,<br>
-   &nbsp And his dead fish's fins<br>
+   &nbsp; And aired with conscious pride her ravelins,<br>
+    &nbsp;&nbsp;&nbsp;   And counterscarps, and lunes.  The day drew on,<br>
+   &nbsp; And his dead fish's fins<br>
    In the hot sunshine turned a mauve-green hue.<br>
    At last Gervase, guessing the hour, withdrew.<br>
-     &nbsp&nbsp&nbsp  But she sat long in still oblivion.<br>
+     &nbsp;&nbsp;&nbsp;  But she sat long in still oblivion.<br>
 
 </p>
 <p>
@@ -680,16 +692,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    Then he would bring her books, and read to her<br>
-   &nbsp The poems of Dr. Donne, and the blue river<br>
+   &nbsp; The poems of Dr. Donne, and the blue river<br>
    Would murmur through the reading, and a stir<br>
-   &nbsp Of birds and bees make the white petals shiver,<br>
+   &nbsp; Of birds and bees make the white petals shiver,<br>
    And one or two would flutter prone and lie<br>
-   &nbsp Spotting the smooth-clipped grass.  The days went by<br>
-    &nbsp&nbsp&nbsp   Threaded with talk and verses.  Green leaves pushed<br>
-   &nbsp Through blossoms stubbornly.<br>
+   &nbsp; Spotting the smooth-clipped grass.  The days went by<br>
+    &nbsp;&nbsp;&nbsp;   Threaded with talk and verses.  Green leaves pushed<br>
+   &nbsp; Through blossoms stubbornly.<br>
    Gervase, unconscious of dishonesty,<br>
    Fell into strong and watchful loving, free<br>
-    &nbsp&nbsp&nbsp   He thought, since always would his lips be hushed.<br>
+    &nbsp;&nbsp;&nbsp;   He thought, since always would his lips be hushed.<br>
 
 </p>
 <p>
@@ -697,16 +709,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    But lips do not stay silent at command,<br>
-   &nbsp And Gervase strove in vain to order his.<br>
+   &nbsp; And Gervase strove in vain to order his.<br>
    Luckily Eunice did not understand<br>
-   &nbsp That he but read himself aloud, for this<br>
+   &nbsp; That he but read himself aloud, for this<br>
    Their friendship would have snapped.  She treated him<br>
-   &nbsp And spoilt him like a brother.  It was now<br>
-   &nbsp&nbsp&nbsp    "Gervase" and "Eunice" with them, and he dined<br>
-   &nbsp Whenever she'd allow,<br>
+   &nbsp; And spoilt him like a brother.  It was now<br>
+   &nbsp;&nbsp;&nbsp;    "Gervase" and "Eunice" with them, and he dined<br>
+   &nbsp; Whenever she'd allow,<br>
    In the oak parlour, underneath the dim<br>
    Old pictured Framptons, opposite her slim<br>
-   &nbsp&nbsp&nbsp    Figure, so bright against the chair behind.<br>
+   &nbsp;&nbsp;&nbsp;    Figure, so bright against the chair behind.<br>
 
 </p>
 <p>
@@ -714,16 +726,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    Eunice was happier than she had been<br>
-   &nbsp For many days, and yet the hours were long.<br>
+   &nbsp; For many days, and yet the hours were long.<br>
    All Gervase told to her but made her lean<br>
-   &nbsp More heavily upon the past.  Among<br>
+   &nbsp; More heavily upon the past.  Among<br>
    Her hopes she lived, even when she was giving<br>
-   &nbsp Her morning orders, even when she twined<br>
-   &nbsp&nbsp&nbsp    Nosegays to deck her parlours.  With the thought<br>
-   &nbsp Of Everard, her mind<br>
+   &nbsp; Her morning orders, even when she twined<br>
+   &nbsp;&nbsp;&nbsp;    Nosegays to deck her parlours.  With the thought<br>
+   &nbsp; Of Everard, her mind<br>
    Solaced its solitude, and in her striving<br>
    To do as he would wish was all her living.<br>
-    &nbsp&nbsp&nbsp   She welcomed Gervase for the news he brought.<br>
+    &nbsp;&nbsp;&nbsp;   She welcomed Gervase for the news he brought.<br>
 
 </p>
 <p>
@@ -731,16 +743,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    Black-hearts and white-hearts, bubbled with the sun,<br>
-   &nbsp Hid in their leaves and knocked against each other.<br>
+   &nbsp; Hid in their leaves and knocked against each other.<br>
    Eunice was standing, panting with her run<br>
-   &nbsp Up to the tool-house just to get another<br>
+   &nbsp; Up to the tool-house just to get another<br>
    Basket.  All those which she had brought were filled,<br>
-   &nbsp And still Gervase pelted her from above.<br>
-   &nbsp&nbsp&nbsp    The buckles of his shoes flashed higher and higher<br>
-    &nbspUntil his shoulders strove<br>
+   &nbsp; And still Gervase pelted her from above.<br>
+   &nbsp;&nbsp;&nbsp;    The buckles of his shoes flashed higher and higher<br>
+    &nbsp;Until his shoulders strove<br>
    Quite through the top.  "Eunice, your spirit's filled<br>
    This tree.  White-hearts!"  He shook, and cherries spilled<br>
-     &nbsp&nbsp&nbsp  And spat out from the leaves like falling fire.<br>
+     &nbsp;&nbsp;&nbsp;  And spat out from the leaves like falling fire.<br>
 
 </p>
 <p>
@@ -748,16 +760,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    The wide, sun-winged June morning spread itself<br>
-   &nbsp Over the quiet garden.  And they packed<br>
+   &nbsp; Over the quiet garden.  And they packed<br>
    Full twenty baskets with the fruit.  "My shelf<br>
-   &nbsp Of cordials will be stored with what it lacked.<br>
+   &nbsp; Of cordials will be stored with what it lacked.<br>
    In future, none of us will drink strong ale,<br>
-   &nbsp But cherry-brandy."  "Vastly good, I vow,"<br>
-    &nbsp&nbsp&nbsp   And Gervase gave the tree another shake.<br>
-    &nbspThe cherries seemed to flow<br>
+   &nbsp; But cherry-brandy."  "Vastly good, I vow,"<br>
+    &nbsp;&nbsp;&nbsp;   And Gervase gave the tree another shake.<br>
+    &nbsp;The cherries seemed to flow<br>
    Out of the sky in cloudfuls, like blown hail.<br>
    Swift Lady Eunice ran, her farthingale,<br>
-     &nbsp&nbsp&nbsp  Unnoticed, tangling in a fallen rake.<br>
+     &nbsp;&nbsp;&nbsp;  Unnoticed, tangling in a fallen rake.<br>
 
 </p>
 <p>
@@ -765,16 +777,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    She gave a little cry and fell quite prone<br>
-   &nbsp In the long grass, and lay there very still.<br>
+   &nbsp; In the long grass, and lay there very still.<br>
    Gervase leapt from the tree at her soft moan,<br>
-   &nbsp And kneeling over her, with clumsy skill<br>
+   &nbsp; And kneeling over her, with clumsy skill<br>
    Unloosed her bodice, fanned her with his hat,<br>
-   &nbsp And his unguarded lips pronounced his heart.<br>
-   &nbsp&nbsp&nbsp    "Eunice, my Dearest Girl, where are you hurt?"<br>
-   &nbsp His trembling fingers dart<br>
+   &nbsp; And his unguarded lips pronounced his heart.<br>
+   &nbsp;&nbsp;&nbsp;    "Eunice, my Dearest Girl, where are you hurt?"<br>
+   &nbsp; His trembling fingers dart<br>
    Over her limbs seeking some wound.  She strove<br>
    To answer, opened wide her eyes, above<br>
-    &nbsp&nbsp&nbsp   Her knelt Sir Everard, with face alert.<br>
+    &nbsp;&nbsp;&nbsp;   Her knelt Sir Everard, with face alert.<br>
 
 </p>
 <p>
@@ -782,16 +794,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    Her eyelids fell again at that sweet sight,<br>
-   &nbsp "My Love!" she murmured, "Dearest!  Oh, my Dear!"<br>
+   &nbsp; "My Love!" she murmured, "Dearest!  Oh, my Dear!"<br>
    He took her in his arms and bore her right<br>
-   &nbsp And tenderly to the old seat, and "Here<br>
+   &nbsp; And tenderly to the old seat, and "Here<br>
    I have you mine at last," she said, and swooned<br>
-    &nbspUnder his kisses.  When she came once more<br>
-   &nbsp&nbsp&nbsp    To sight of him, she smiled in comfort knowing<br>
-    &nbspHerself laid as before<br>
+    &nbsp;Under his kisses.  When she came once more<br>
+   &nbsp;&nbsp;&nbsp;    To sight of him, she smiled in comfort knowing<br>
+    &nbsp;Herself laid as before<br>
    Close covered on his breast.  And all her glowing<br>
    Youth answered him, and ever nearer growing<br>
-    &nbsp&nbsp&nbsp   She twined him in her arms and soft festooned<br>
+    &nbsp;&nbsp;&nbsp;   She twined him in her arms and soft festooned<br>
 
 </p>
 <p>
@@ -799,16 +811,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    Herself about him like a flowering vine,<br>
-   &nbsp Drawing his lips to cling upon her own.<br>
+   &nbsp; Drawing his lips to cling upon her own.<br>
    A ray of sunlight pierced the leaves to shine<br>
-   &nbsp Where her half-opened bodice let be shown<br>
+   &nbsp; Where her half-opened bodice let be shown<br>
    Her white throat fluttering to his soft caress,<br>
-   &nbsp Half-gasping with her gladness.  And her pledge<br>
-   &nbsp&nbsp&nbsp    She whispers, melting with delight.  A twig<br>
-   &nbsp Snaps in the hornbeam hedge.<br>
+   &nbsp; Half-gasping with her gladness.  And her pledge<br>
+   &nbsp;&nbsp;&nbsp;    She whispers, melting with delight.  A twig<br>
+   &nbsp; Snaps in the hornbeam hedge.<br>
    A cackling laugh tears through the quietness.<br>
    Eunice starts up in terrible distress.<br>
-    &nbsp&nbsp&nbsp   "My God!  What's that?"  Her staring eyes are big.<br>
+    &nbsp;&nbsp;&nbsp;   "My God!  What's that?"  Her staring eyes are big.<br>
 
 </p>
 <p>
@@ -816,16 +828,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    Revulsed emotion set her body shaking<br>
-   &nbsp As though she had an ague.  Gervase swore,<br>
+   &nbsp; As though she had an ague.  Gervase swore,<br>
    Jumped to his feet in such a dreadful taking<br>
-   &nbsp His face was ghastly with the look it wore.<br>
+   &nbsp; His face was ghastly with the look it wore.<br>
    Crouching and slipping through the trees, a man<br>
-    &nbspIn worn, blue livery, a humpbacked thing,<br>
-    &nbsp&nbsp&nbsp   Made off.  But turned every few steps to gaze<br>
-   &nbsp At Eunice, and to fling<br>
+    &nbsp;In worn, blue livery, a humpbacked thing,<br>
+    &nbsp;&nbsp;&nbsp;   Made off.  But turned every few steps to gaze<br>
+   &nbsp; At Eunice, and to fling<br>
    Vile looks and gestures back.  "The ruffian!<br>
    By Christ's Death!  I will split him to a span<br>
-     &nbsp&nbsp&nbsp  Of hog's thongs."  She grasped at his sleeve, "Gervase!<br>
+     &nbsp;&nbsp;&nbsp;  Of hog's thongs."  She grasped at his sleeve, "Gervase!<br>
 
 </p>
 <p>
@@ -833,16 +845,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    What are you doing here?  Put down that sword,<br>
-  &nbsp  That's only poor old Tony, crazed and lame.<br>
+  &nbsp;  That's only poor old Tony, crazed and lame.<br>
    We never notice him.  With my dear Lord<br>
-   &nbsp I ought not to have minded that he came.<br>
+   &nbsp; I ought not to have minded that he came.<br>
    But, Gervase, it surprises me that you<br>
-  &nbsp  Should so lack grace to stay here."  With one hand<br>
-  &nbsp&nbsp&nbsp     She held her gaping bodice to conceal<br>
-   &nbsp Her breast.  "I must demand<br>
+  &nbsp;  Should so lack grace to stay here."  With one hand<br>
+  &nbsp;&nbsp;&nbsp;     She held her gaping bodice to conceal<br>
+   &nbsp; Her breast.  "I must demand<br>
    Your instant absence.  Everard, but new<br>
    Returned, will hardly care for guests.  Adieu."<br>
-     &nbsp&nbsp&nbsp  "Eunice, you're mad."  His brain began to reel.<br>
+     &nbsp;&nbsp;&nbsp;  "Eunice, you're mad."  His brain began to reel.<br>
 
 </p>
 <p>
@@ -850,16 +862,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    He tried again to take her, tried to twist<br>
-  &nbsp  Her arms about him.  Truly, she had said<br>
+  &nbsp;  Her arms about him.  Truly, she had said<br>
    Nothing should ever part them.  In a mist<br>
-  &nbsp  She pushed him from her, clasped her aching head<br>
+  &nbsp;  She pushed him from her, clasped her aching head<br>
    In both her hands, and rocked and sobbed aloud.<br>
-  &nbsp  "Oh!  Where is Everard?  What does this mean?<br>
-   &nbsp&nbsp&nbsp    So lately come to leave me thus alone!"<br>
-   &nbsp But Gervase had not seen<br>
+  &nbsp;  "Oh!  Where is Everard?  What does this mean?<br>
+   &nbsp;&nbsp;&nbsp;    So lately come to leave me thus alone!"<br>
+   &nbsp; But Gervase had not seen<br>
    Sir Everard.  Then, gently, to her bowed<br>
    And sickening spirit, he told of her proud<br>
-   &nbsp&nbsp&nbsp    Surrender to him.  He could hear her moan.<br>
+   &nbsp;&nbsp;&nbsp;    Surrender to him.  He could hear her moan.<br>
 
 </p>
 <p>
@@ -867,16 +879,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    Then shame swept over her and held her numb,<br>
-  &nbsp  Hiding her anguished face against the seat.<br>
+  &nbsp;  Hiding her anguished face against the seat.<br>
    At last she rose, a woman stricken&mdash;dumb&mdash;<br>
- &nbsp   And trailed away with slowly-dragging feet.<br>
+ &nbsp;   And trailed away with slowly-dragging feet.<br>
    Gervase looked after her, but feared to pass<br>
-  &nbsp  The barrier set between them.  All his rare<br>
-  &nbsp&nbsp&nbsp     Joy broke to fragments&mdash;worse than that, unreal.<br>
-  &nbsp  And standing lonely there,<br>
+  &nbsp;  The barrier set between them.  All his rare<br>
+  &nbsp;&nbsp;&nbsp;     Joy broke to fragments&mdash;worse than that, unreal.<br>
+  &nbsp;  And standing lonely there,<br>
    His swollen heart burst out, and on the grass<br>
    He flung himself and wept.  He knew, alas!<br>
-   &nbsp &nbsp&nbsp   The loss so great his life could never heal.<br>
+   &nbsp; &nbsp;&nbsp;   The loss so great his life could never heal.<br>
 
 </p>
 <p>
@@ -884,16 +896,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    For days thereafter Eunice lived retired,<br>
-  &nbsp  Waited upon by one old serving-maid.<br>
+  &nbsp;  Waited upon by one old serving-maid.<br>
    She would not leave her chamber, and desired<br>
-  &nbsp  Only to hide herself.  She was afraid<br>
+  &nbsp;  Only to hide herself.  She was afraid<br>
    Of what her eyes might trick her into seeing,<br>
-  &nbsp  Of what her longing urge her then to do.<br>
-   &nbsp&nbsp    What was this dreadful illness solitude<br>
-   &nbsp Had tortured her into?<br>
+  &nbsp;  Of what her longing urge her then to do.<br>
+   &nbsp;&nbsp;    What was this dreadful illness solitude<br>
+   &nbsp; Had tortured her into?<br>
    Her hours went by in a long constant fleeing<br>
    The thought of that one morning.  And her being<br>
-    &nbsp&nbsp   Bruised itself on a happening so rude.<br>
+    &nbsp;&nbsp;   Bruised itself on a happening so rude.<br>
 
 </p>
 <p>
@@ -901,16 +913,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    It grew ripe Summer, when one morning came<br>
- &nbsp   Her tirewoman with a letter, printed<br>
+ &nbsp;   Her tirewoman with a letter, printed<br>
    Upon the seal were the Deane crest and name.<br>
- &nbsp   With utmost gentleness, the letter hinted<br>
+ &nbsp;   With utmost gentleness, the letter hinted<br>
    His understanding and his deep regret.<br>
-  &nbsp  But would she not permit him once again<br>
-  &nbsp&nbsp&nbsp     To pay her his profound respects?  No word<br>
-  &nbsp  Of what had passed should pain<br>
+  &nbsp;  But would she not permit him once again<br>
+  &nbsp;&nbsp;&nbsp;     To pay her his profound respects?  No word<br>
+  &nbsp;  Of what had passed should pain<br>
    Her resolution.  Only let them get<br>
    Back the old comradeship.  Her eyes were wet<br>
-   &nbsp&nbsp&nbsp    With starting tears, now truly she deplored<br>
+   &nbsp;&nbsp;&nbsp;    With starting tears, now truly she deplored<br>
 
 </p>
 <p>
@@ -918,16 +930,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    His misery.  Yes, she was wrong to keep<br>
-  &nbsp  Away from him.  He hardly was to blame.<br>
+  &nbsp;  Away from him.  He hardly was to blame.<br>
    'Twas she&mdash;she shuddered and began to weep.<br>
-   &nbsp 'Twas her fault!  Hers!  Her everlasting shame<br>
+   &nbsp; 'Twas her fault!  Hers!  Her everlasting shame<br>
    Was that she suffered him, whom not at all<br>
-   &nbsp She loved.  Poor Boy!  Yes, they must still be friends.<br>
-   &nbsp&nbsp&nbsp    She owed him that to keep the balance straight.<br>
-   &nbsp It was such poor amends<br>
+   &nbsp; She loved.  Poor Boy!  Yes, they must still be friends.<br>
+   &nbsp;&nbsp;&nbsp;    She owed him that to keep the balance straight.<br>
+   &nbsp; It was such poor amends<br>
    Which she could make for rousing hopes to gall<br>
    Him with their unfulfilment.  Tragical<br>
-   &nbsp&nbsp&nbsp    It was, and she must leave him desolate.<br>
+   &nbsp;&nbsp;&nbsp;    It was, and she must leave him desolate.<br>
 
 </p>
 <p>
@@ -935,16 +947,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    Hard silence he had forced upon his lips<br>
-  &nbsp  For long and long, and would have done so still<br>
+  &nbsp;  For long and long, and would have done so still<br>
    Had not she&mdash;here she pressed her finger tips<br>
-   &nbsp Against her heavy eyes.  Then with forced will<br>
+   &nbsp; Against her heavy eyes.  Then with forced will<br>
    She wrote that he might come, sealed with the arms<br>
-   &nbsp Of Crowe and Frampton twined.  Her heart felt lighter<br>
-    &nbsp&nbsp&nbsp   When this was done.  It seemed her constant care<br>
-   &nbsp Might some day cease to fright her.<br>
+   &nbsp; Of Crowe and Frampton twined.  Her heart felt lighter<br>
+    &nbsp;&nbsp;&nbsp;   When this was done.  It seemed her constant care<br>
+   &nbsp; Might some day cease to fright her.<br>
    Illness could be no crime, and dreadful harms<br>
    Did come from too much sunshine.  Her alarms<br>
-   &nbsp&nbsp&nbsp    Would lessen when she saw him standing there,<br>
+   &nbsp;&nbsp;&nbsp;    Would lessen when she saw him standing there,<br>
 
 </p>
 <p>
@@ -952,16 +964,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    Simple and kind, a brother just returned<br>
-  &nbsp  From journeying, and he would treat her so.<br>
+  &nbsp;  From journeying, and he would treat her so.<br>
    She knew his honest heart, and if there burned<br>
-   &nbsp A spark in it he would not let it show.<br>
+   &nbsp; A spark in it he would not let it show.<br>
    But when he really came, and stood beside<br>
-   &nbsp Her underneath the fruitless cherry boughs,<br>
-   &nbsp&nbsp&nbsp    He seemed a tired man, gaunt, leaden-eyed.<br>
-   &nbsp He made her no more vows,<br>
+   &nbsp; Her underneath the fruitless cherry boughs,<br>
+   &nbsp;&nbsp;&nbsp;    He seemed a tired man, gaunt, leaden-eyed.<br>
+   &nbsp; He made her no more vows,<br>
    Nor did he mention one thing he had tried<br>
    To put into his letter.  War supplied<br>
-   &nbsp&nbsp&nbsp    Him topics.  And his mind seemed occupied.<br>
+   &nbsp;&nbsp;&nbsp;    Him topics.  And his mind seemed occupied.<br>
 
 </p>
 <p>
@@ -969,16 +981,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    Daily they met.  And gravely walked and talked.<br>
- &nbsp   He read her no more verses, and he stayed<br>
+ &nbsp;   He read her no more verses, and he stayed<br>
    Only until their conversation, balked<br>
-  &nbsp  Of every natural channel, fled dismayed.<br>
+  &nbsp;  Of every natural channel, fled dismayed.<br>
    Again the next day she would meet him, trying<br>
-   &nbsp To give her tone some healthy sprightliness,<br>
-   &nbsp&nbsp&nbsp    But his uneager dignity soon chilled<br>
-   &nbsp Her well-prepared address.<br>
+   &nbsp; To give her tone some healthy sprightliness,<br>
+   &nbsp;&nbsp;&nbsp;    But his uneager dignity soon chilled<br>
+   &nbsp; Her well-prepared address.<br>
    Thus Summer waned, and in the mornings, crying<br>
    Of wild geese startled Eunice, and their flying<br>
-   &nbsp&nbsp&nbsp    Whirred overhead for days and never stilled.<br>
+   &nbsp;&nbsp;&nbsp;    Whirred overhead for days and never stilled.<br>
 
 </p>
 <p>
@@ -986,16 +998,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    One afternoon of grey clouds and white wind,<br>
-    &nbspEunice awaited Gervase by the river.<br>
+    &nbsp;Eunice awaited Gervase by the river.<br>
    The Dartle splashed among the reeds and whined<br>
-    &nbspOver the willow-roots, and a long sliver<br>
+    &nbsp;Over the willow-roots, and a long sliver<br>
    Of caked and slobbered foam crept up the bank.<br>
-    &nbspAll through the garden, drifts of skirling leaves<br>
-     &nbsp&nbsp&nbsp  Blew up, and settled down, and blew again.<br>
-    &nbspThe cherry-trees were weaves<br>
+    &nbsp;All through the garden, drifts of skirling leaves<br>
+     &nbsp;&nbsp;&nbsp;  Blew up, and settled down, and blew again.<br>
+    &nbsp;The cherry-trees were weaves<br>
    Of empty, knotted branches, and a dank<br>
    Mist hid the house, mouldy it smelt and rank<br>
-      &nbsp&nbsp&nbsp With sodden wood, and still unfalling rain.<br>
+      &nbsp;&nbsp;&nbsp; With sodden wood, and still unfalling rain.<br>
 
 </p>
 <p>
@@ -1003,16 +1015,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    Eunice paced up and down.  No joy she took<br>
-   &nbsp At meeting Gervase, but the custom grown<br>
+   &nbsp; At meeting Gervase, but the custom grown<br>
    Still held her.  He was late.  She sudden shook,<br>
-   &nbsp And caught at her stopped heart.  Her eyes had shown<br>
+   &nbsp; And caught at her stopped heart.  Her eyes had shown<br>
    Sir Everard emerging from the mist.<br>
-   &nbsp His uniform was travel-stained and torn,<br>
-    &nbsp&nbsp&nbsp   His jackboots muddy, and his eager stride<br>
-    &nbspJangled his spurs.  A thorn<br>
+   &nbsp; His uniform was travel-stained and torn,<br>
+    &nbsp;&nbsp;&nbsp;   His jackboots muddy, and his eager stride<br>
+    &nbsp;Jangled his spurs.  A thorn<br>
    Entangled, trailed behind him.  To the tryst<br>
    He hastened.  Eunice shuddered, ran&mdash;a twist<br>
-    &nbsp&nbsp&nbsp   Round a sharp turning and she fled to hide.<br>
+    &nbsp;&nbsp;&nbsp;   Round a sharp turning and she fled to hide.<br>
 
 </p>
 <p>
@@ -1020,16 +1032,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    But he had seen her as she swiftly ran,<br>
-    &nbspA flash of white against the river's grey.<br>
+    &nbsp;A flash of white against the river's grey.<br>
    "Eunice," he called.  "My Darling.  Eunice.  Can<br>
-    &nbspYou hear me?  It is Everard.  All day<br>
+    &nbsp;You hear me?  It is Everard.  All day<br>
    I have been riding like the very devil<br>
-   &nbsp To reach you sooner.  Are you startled, Dear?"<br>
-   &nbsp&nbsp&nbsp    He broke into a run and followed her,<br>
-   &nbsp And caught her, faint with fear,<br>
+   &nbsp; To reach you sooner.  Are you startled, Dear?"<br>
+   &nbsp;&nbsp;&nbsp;    He broke into a run and followed her,<br>
+   &nbsp; And caught her, faint with fear,<br>
    Cowering and trembling as though she some evil<br>
    Spirit were seeing.  "What means this uncivil<br>
-    &nbsp&nbsp&nbsp   Greeting, Dear Heart?"  He saw her senses blur.<br>
+    &nbsp;&nbsp;&nbsp;   Greeting, Dear Heart?"  He saw her senses blur.<br>
 
 </p>
 <p>
@@ -1037,16 +1049,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    Swaying and catching at the seat, she tried<br>
-   &nbsp To speak, but only gurgled in her throat.<br>
+   &nbsp; To speak, but only gurgled in her throat.<br>
    At last, straining to hold herself, she cried<br>
-   &nbsp To him for pity, and her strange words smote<br>
+   &nbsp; To him for pity, and her strange words smote<br>
    A coldness through him, for she begged Gervase<br>
-   &nbsp To leave her, 'twas too much a second time.<br>
-    &nbsp&nbsp&nbsp   Gervase must go, always Gervase, her mind<br>
-   &nbsp Repeated like a rhyme<br>
+   &nbsp; To leave her, 'twas too much a second time.<br>
+    &nbsp;&nbsp;&nbsp;   Gervase must go, always Gervase, her mind<br>
+   &nbsp; Repeated like a rhyme<br>
    This name he did not know.  In sad amaze<br>
    He watched her, and that hunted, fearful gaze,<br>
-    &nbsp&nbsp&nbsp   So unremembering and so unkind.<br>
+    &nbsp;&nbsp;&nbsp;   So unremembering and so unkind.<br>
 
 </p>
 <p>
@@ -1054,16 +1066,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    Softly he spoke to her, patiently dealt<br>
-   &nbsp With what he feared her madness.  By and by<br>
+   &nbsp; With what he feared her madness.  By and by<br>
    He pierced her understanding.  Then he knelt<br>
-   &nbsp Upon the seat, and took her hands:  "Now try<br>
+   &nbsp; Upon the seat, and took her hands:  "Now try<br>
    To think a minute I am come, my Dear,<br>
-   &nbsp Unharmed and back on furlough.  Are you glad<br>
-    &nbsp&nbsp&nbsp   To have your lover home again?  To me,<br>
-   &nbsp Pickthorn has never had<br>
+   &nbsp; Unharmed and back on furlough.  Are you glad<br>
+    &nbsp;&nbsp;&nbsp;   To have your lover home again?  To me,<br>
+   &nbsp; Pickthorn has never had<br>
    A greater pleasantness.  Could you not bear<br>
    To come and sit awhile beside me here?<br>
-    &nbsp&nbsp&nbsp   A stone between us surely should not be."<br>
+    &nbsp;&nbsp;&nbsp;   A stone between us surely should not be."<br>
 
 </p>
 <p>
@@ -1071,16 +1083,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    She smiled a little wan and ravelled smile,<br>
-   &nbsp Then came to him and on his shoulder laid<br>
+   &nbsp; Then came to him and on his shoulder laid<br>
    Her head, and they two rested there awhile,<br>
-   &nbsp Each taking comfort.  Not a word was said.<br>
+   &nbsp; Each taking comfort.  Not a word was said.<br>
    But when he put his hand upon her breast<br>
-   &nbsp And felt her beating heart, and with his lips<br>
-   &nbsp&nbsp&nbsp    Sought solace for her and himself.  She started<br>
-    &nbspAs one sharp lashed with whips,<br>
+   &nbsp; And felt her beating heart, and with his lips<br>
+   &nbsp;&nbsp;&nbsp;    Sought solace for her and himself.  She started<br>
+    &nbsp;As one sharp lashed with whips,<br>
    And pushed him from her, moaning, his dumb quest<br>
    Denied and shuddered from.  And he, distrest,<br>
-    &nbsp&nbsp&nbsp   Loosened his wife, and long they sat there, parted.<br>
+    &nbsp;&nbsp;&nbsp;   Loosened his wife, and long they sat there, parted.<br>
 
 </p>
 <p>
@@ -1088,16 +1100,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    Eunice was very quiet all that day,<br>
-   &nbsp A little dazed, and yet she seemed content.<br>
+   &nbsp; A little dazed, and yet she seemed content.<br>
    At candle-time, he asked if she would play<br>
-   &nbsp Upon her harpsichord, at once she went<br>
+   &nbsp; Upon her harpsichord, at once she went<br>
    And tinkled airs from Lully's 'Carnival'<br>
-   &nbsp And 'Bacchus', newly brought away from France.<br>
-    &nbsp&nbsp&nbsp   Then jaunted through a lively rigadoon<br>
-   &nbsp To please him with a dance<br>
+   &nbsp; And 'Bacchus', newly brought away from France.<br>
+    &nbsp;&nbsp;&nbsp;   Then jaunted through a lively rigadoon<br>
+   &nbsp; To please him with a dance<br>
    By Purcell, for he said that surely all<br>
    Good Englishmen had pride in national<br>
-   &nbsp&nbsp&nbsp    Accomplishment.  But tiring of it soon<br>
+   &nbsp;&nbsp;&nbsp;    Accomplishment.  But tiring of it soon<br>
 
 </p>
 <p>
@@ -1105,16 +1117,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    He whispered her that if she had forgiven<br>
-   &nbsp His startling her that afternoon, the clock<br>
+   &nbsp; His startling her that afternoon, the clock<br>
    Marked early bed-time.  Surely it was Heaven<br>
-   &nbsp He entered when she opened to his knock.<br>
+   &nbsp; He entered when she opened to his knock.<br>
    The hours rustled in the trailing wind<br>
-   &nbsp Over the chimney.  Close they lay and knew<br>
-   &nbsp&nbsp&nbsp    Only that they were wedded.  At his touch<br>
-   &nbsp Anxiety she threw<br>
+   &nbsp; Over the chimney.  Close they lay and knew<br>
+   &nbsp;&nbsp;&nbsp;    Only that they were wedded.  At his touch<br>
+   &nbsp; Anxiety she threw<br>
    Away like a shed garment, and inclined<br>
    Herself to cherish him, her happy mind<br>
-    &nbsp&nbsp&nbsp   Quivering, unthinking, loving overmuch.<br>
+    &nbsp;&nbsp;&nbsp;   Quivering, unthinking, loving overmuch.<br>
 
 </p>
 <p>
@@ -1122,16 +1134,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    Eunice lay long awake in the cool night<br>
-  &nbsp  After her husband slept.  She gazed with joy<br>
+  &nbsp;  After her husband slept.  She gazed with joy<br>
    Into the shadows, painting them with bright<br>
-   &nbsp Pictures of all her future life's employ.<br>
+   &nbsp; Pictures of all her future life's employ.<br>
    Twin gems they were, set to a single jewel,<br>
-   &nbsp Each shining with the other.  Soft she turned<br>
-    &nbsp&nbsp&nbsp   And felt his breath upon her hair, and prayed<br>
-  &nbsp  Her happiness was earned.<br>
+   &nbsp; Each shining with the other.  Soft she turned<br>
+    &nbsp;&nbsp;&nbsp;   And felt his breath upon her hair, and prayed<br>
+  &nbsp;  Her happiness was earned.<br>
    Past Earls of Crowe should give their blood for fuel<br>
    To light this Frampton's hearth-fire.  By no cruel<br>
-    &nbsp&nbsp&nbsp   Affrightings would she ever be dismayed.<br>
+    &nbsp;&nbsp;&nbsp;   Affrightings would she ever be dismayed.<br>
 
 </p>
 <p>
@@ -1139,16 +1151,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    When Everard, next day, asked her in joke<br>
-   &nbsp What name it was that she had called him by,<br>
+   &nbsp; What name it was that she had called him by,<br>
    She told him of Gervase, and as she spoke<br>
-   &nbsp She hardly realized it was a lie.<br>
+   &nbsp; She hardly realized it was a lie.<br>
    Her vision she related, but she hid<br>
-  &nbsp  The fondness into which she had been led.<br>
-   &nbsp&nbsp&nbsp    Sir Everard just laughed and pinched her ear,<br>
-  &nbsp  And quite out of her head<br>
+  &nbsp;  The fondness into which she had been led.<br>
+   &nbsp;&nbsp;&nbsp;    Sir Everard just laughed and pinched her ear,<br>
+  &nbsp;  And quite out of her head<br>
    The matter drifted.  Then Sir Everard chid<br>
    Himself for laziness, and off he rid<br>
-    &nbsp&nbsp&nbsp   To see his men and count his farming-gear.<br>
+    &nbsp;&nbsp;&nbsp;   To see his men and count his farming-gear.<br>
 
 </p>
 <p>
@@ -1156,16 +1168,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    At supper he seemed overspread with gloom,<br>
-   &nbsp But gave no reason why, he only asked<br>
+   &nbsp; But gave no reason why, he only asked<br>
    More questions of Gervase, and round the room<br>
-   &nbsp He walked with restless strides.  At last he tasked<br>
+   &nbsp; He walked with restless strides.  At last he tasked<br>
    Her with a greater feeling for this man<br>
-   &nbsp Than she had given.  Eunice quick denied<br>
-   &nbsp&nbsp&nbsp    The slightest interest other than a friend<br>
-   &nbsp Might claim.  But he replied<br>
+   &nbsp; Than she had given.  Eunice quick denied<br>
+   &nbsp;&nbsp;&nbsp;    The slightest interest other than a friend<br>
+   &nbsp; Might claim.  But he replied<br>
    He thought she underrated.  Then a ban<br>
    He put on talk and music.  He'd a plan<br>
-    &nbsp&nbsp&nbsp    To work at, draining swamps at Pickthorn End.<br>
+    &nbsp;&nbsp;&nbsp;    To work at, draining swamps at Pickthorn End.<br>
 
 </p>
 <p>
@@ -1173,16 +1185,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    Next morning Eunice found her Lord still changed,<br>
-   &nbsp Hard and unkind, with bursts of anger.  Pride<br>
+   &nbsp; Hard and unkind, with bursts of anger.  Pride<br>
    Kept him from speaking out.  His probings ranged<br>
-   &nbsp All round his torment.  Lady Eunice tried<br>
+   &nbsp; All round his torment.  Lady Eunice tried<br>
    To sooth him.  So a week went by, and then<br>
-    &nbspHis anguish flooded over; with clenched hands<br>
-    &nbsp&nbsp&nbsp   Striving to stem his words, he told her plain<br>
-   &nbsp Tony had seen them, "brands<br>
+    &nbsp;His anguish flooded over; with clenched hands<br>
+    &nbsp;&nbsp;&nbsp;   Striving to stem his words, he told her plain<br>
+   &nbsp; Tony had seen them, "brands<br>
    Burning in Hell," the man had said.  Again<br>
    Eunice described her vision, and how when<br>
-   &nbsp&nbsp&nbsp    Awoke at last she had known dreadful pain.<br>
+   &nbsp;&nbsp;&nbsp;    Awoke at last she had known dreadful pain.<br>
 
 </p>
 <p>
@@ -1190,16 +1202,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    He could not credit it, and misery fed<br>
-  &nbsp  Upon his spirit, day by day it grew.<br>
+  &nbsp;  Upon his spirit, day by day it grew.<br>
    To Gervase he forbade the house, and led<br>
-   &nbsp The Lady Eunice such a life she flew<br>
+   &nbsp; The Lady Eunice such a life she flew<br>
    At his approaching footsteps.  Winter came<br>
-  &nbsp  Snowing and blustering through the Manor trees.<br>
-  &nbsp&nbsp&nbsp     All the roof-edges spiked with icicles<br>
-  &nbsp  In fluted companies.<br>
+  &nbsp;  Snowing and blustering through the Manor trees.<br>
+  &nbsp;&nbsp;&nbsp;     All the roof-edges spiked with icicles<br>
+  &nbsp;  In fluted companies.<br>
    The Lady Eunice with her tambour-frame<br>
    Kept herself sighing company.  The flame<br>
-   &nbsp&nbsp&nbsp    Of the birch fire glittered on the walls.<br>
+   &nbsp;&nbsp;&nbsp;    Of the birch fire glittered on the walls.<br>
 
 </p>
 <p>
@@ -1207,16 +1219,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    A letter was brought to her as she sat,<br>
-   &nbsp Unsealed, unsigned.  It told her that his wound,<br>
+   &nbsp; Unsealed, unsigned.  It told her that his wound,<br>
    The writer's, had so well recovered that<br>
-   &nbsp To join his regiment he felt him bound.<br>
+   &nbsp; To join his regiment he felt him bound.<br>
    But would she not wish him one short "Godspeed",<br>
-   &nbsp He asked no more.  Her greeting would suffice.<br>
-   &nbsp&nbsp&nbsp    He had resolved he never should return.<br>
-   &nbsp Would she this sacrifice<br>
+   &nbsp; He asked no more.  Her greeting would suffice.<br>
+   &nbsp;&nbsp;&nbsp;    He had resolved he never should return.<br>
+   &nbsp; Would she this sacrifice<br>
    Make for a dying man?  How could she read<br>
    The rest!  But forcing her eyes to the deed,<br>
-    &nbsp&nbsp&nbsp   She read.  Then dropped it in the fire to burn.<br>
+    &nbsp;&nbsp;&nbsp;   She read.  Then dropped it in the fire to burn.<br>
 
 </p>
 <p>
@@ -1224,16 +1236,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    Gervase had set the river for their meeting<br>
-   &nbsp As farthest from the farms where Everard<br>
+   &nbsp; As farthest from the farms where Everard<br>
    Spent all his days.  How should he know such cheating<br>
-   &nbsp Was quite expected, at least no dullard<br>
+   &nbsp; Was quite expected, at least no dullard<br>
    Was Everard Frampton.  Hours by hours he hid<br>
-    &nbspAmong the willows watching.  Dusk had come,<br>
-   &nbsp&nbsp&nbsp    And from the Manor he had long been gone.<br>
-   &nbsp Eunice her burdensome<br>
+    &nbsp;Among the willows watching.  Dusk had come,<br>
+   &nbsp;&nbsp;&nbsp;    And from the Manor he had long been gone.<br>
+   &nbsp; Eunice her burdensome<br>
    Task set about.  Hooded and cloaked, she slid<br>
    Over the slippery paths, and soon amid<br>
-    &nbsp&nbsp   The sallows saw a boat tied to a stone.<br>
+    &nbsp;&nbsp;   The sallows saw a boat tied to a stone.<br>
 
 </p>
 <p>
@@ -1241,16 +1253,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    Gervase arose, and kissed her hand, then pointed<br>
-   &nbsp Into the boat.  She shook her head, but he<br>
+   &nbsp; Into the boat.  She shook her head, but he<br>
    Begged her to realize why, and with disjointed<br>
-   &nbsp Words told her of what peril there might be<br>
+   &nbsp; Words told her of what peril there might be<br>
    From listeners along the river bank.<br>
-   &nbsp A push would take them out of earshot.  Ten<br>
-    &nbsp&nbsp&nbsp   Minutes was all he asked, then she should land,<br>
-   &nbsp He go away again,<br>
+   &nbsp; A push would take them out of earshot.  Ten<br>
+    &nbsp;&nbsp;&nbsp;   Minutes was all he asked, then she should land,<br>
+   &nbsp; He go away again,<br>
    Forever this time.  Yet how could he thank<br>
    Her for so much compassion.  Here she sank<br>
-    &nbsp&nbsp&nbsp   Upon a thwart, and bid him quick unstrand<br>
+    &nbsp;&nbsp;&nbsp;   Upon a thwart, and bid him quick unstrand<br>
 
 </p>
 <p>
@@ -1258,16 +1270,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    His boat.  He cast the rope, and shoved the keel<br>
-   &nbsp Free of the gravel; jumped, and dropped beside<br>
+   &nbsp; Free of the gravel; jumped, and dropped beside<br>
    Her; took the oars, and they began to steal<br>
-   &nbsp Under the overhanging trees.  A wide<br>
+   &nbsp; Under the overhanging trees.  A wide<br>
    Gash of red lantern-light cleft like a blade<br>
-   &nbsp Into the gloom, and struck on Eunice sitting<br>
-   &nbsp&nbsp&nbsp    Rigid and stark upon the after thwart.<br>
-   &nbsp It blazed upon their flitting<br>
+   &nbsp; Into the gloom, and struck on Eunice sitting<br>
+   &nbsp;&nbsp;&nbsp;    Rigid and stark upon the after thwart.<br>
+   &nbsp; It blazed upon their flitting<br>
    In merciless light.  A moment so it stayed,<br>
    Then was extinguished, and Sir Everard made<br>
-    &nbsp&nbsp&nbsp   One leap, and landed just a fraction short.<br>
+    &nbsp;&nbsp;&nbsp;   One leap, and landed just a fraction short.<br>
 
 </p>
 <p>
@@ -1275,16 +1287,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    His weight upon the gunwale tipped the boat<br>
-  &nbsp  To straining balance.  Everard lurched and seized<br>
+  &nbsp;  To straining balance.  Everard lurched and seized<br>
    His wife and held her smothered to his coat.<br>
-  &nbsp  "Everard, loose me, we shall drown&mdash;" and squeezed<br>
+  &nbsp;  "Everard, loose me, we shall drown&mdash;" and squeezed<br>
    Against him, she beat with her hands.  He gasped<br>
-   &nbsp "Never, by God!"  The slidden boat gave way<br>
-   &nbsp&nbsp&nbsp    And the black foamy water split&mdash;and met.<br>
-    &nbspBubbled up through the spray<br>
+   &nbsp; "Never, by God!"  The slidden boat gave way<br>
+   &nbsp;&nbsp;&nbsp;    And the black foamy water split&mdash;and met.<br>
+    &nbsp;Bubbled up through the spray<br>
    A wailing rose and in the branches rasped,<br>
    And creaked, and stilled.  Over the treetops, clasped<br>
-     &nbsp&nbsp&nbsp  In the blue evening, a clear moon was set.<br>
+     &nbsp;&nbsp;&nbsp;  In the blue evening, a clear moon was set.<br>
 
 </p>
 <p>
@@ -1292,16 +1304,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    They lie entangled in the twisting roots,<br>
-  &nbsp  Embraced forever.  Their cold marriage bed<br>
+  &nbsp;  Embraced forever.  Their cold marriage bed<br>
    Close-canopied and curtained by the shoots<br>
- &nbsp   Of willows and pale birches.  At the head,<br>
+ &nbsp;   Of willows and pale birches.  At the head,<br>
    White lilies, like still swans, placidly float<br>
-  &nbsp  And sway above the pebbles.  Here are waves<br>
-  &nbsp&nbsp&nbsp     Sun-smitten for a threaded counterpane<br>
-  &nbsp  Gold-woven on their graves.<br>
+  &nbsp;  And sway above the pebbles.  Here are waves<br>
+  &nbsp;&nbsp;&nbsp;     Sun-smitten for a threaded counterpane<br>
+  &nbsp;  Gold-woven on their graves.<br>
    In perfect quietness they sleep, remote<br>
    In the green, rippled twilight.  Death has smote<br>
-   &nbsp&nbsp&nbsp    Them to perpetual oneness who were twain.<br>
+   &nbsp;&nbsp;&nbsp;    Them to perpetual oneness who were twain.<br>
 
 </p>
     <p>
@@ -1823,10 +1835,10 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
    The crane of a large warehouse creaked and jingled;<br>
    Charlotta held her breath for very fear,<br>
    About her in the street she seemed to hear:<br>
-    &nbsp&nbsp   "They call me Hanging Johnny,<br>
-    &nbsp&nbsp&nbsp&nbsp      Away-i-oh;<br>
-    &nbsp&nbsp   They call me Hanging Johnny,<br>
-    &nbsp&nbsp&nbsp&nbsp      So hang, boys, hang."</p>
+    &nbsp;&nbsp;   "They call me Hanging Johnny,<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;      Away-i-oh;<br>
+    &nbsp;&nbsp;   They call me Hanging Johnny,<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;      So hang, boys, hang."</p>
 
 <p>
 
@@ -2356,17 +2368,17 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 
 <p>
 
-   &nbsp&nbsp   It woke in the silence of frost-bright nights,<br>
-   &nbsp&nbsp   In little lights,<br>
-   &nbsp&nbsp   Like will-o'-the-wisps flickering, fluttering,<br>
-   &nbsp&nbsp   Here&mdash;there&mdash;<br>
-   &nbsp&nbsp   Spurting, sputtering,<br>
-   &nbsp&nbsp   Fading and lighting,<br>
-   &nbsp&nbsp   Together, asunder&mdash;<br>
-   &nbsp&nbsp   Till Lotta sat up in bed with wonder,<br>
-   &nbsp&nbsp   And the faint grey patch of the window shone<br>
-   &nbsp&nbsp   Upon her sitting there, alone.<br>
-   &nbsp&nbsp   For Theodore slept.</p>
+   &nbsp;&nbsp;   It woke in the silence of frost-bright nights,<br>
+   &nbsp;&nbsp;   In little lights,<br>
+   &nbsp;&nbsp;   Like will-o'-the-wisps flickering, fluttering,<br>
+   &nbsp;&nbsp;   Here&mdash;there&mdash;<br>
+   &nbsp;&nbsp;   Spurting, sputtering,<br>
+   &nbsp;&nbsp;   Fading and lighting,<br>
+   &nbsp;&nbsp;   Together, asunder&mdash;<br>
+   &nbsp;&nbsp;   Till Lotta sat up in bed with wonder,<br>
+   &nbsp;&nbsp;   And the faint grey patch of the window shone<br>
+   &nbsp;&nbsp;   Upon her sitting there, alone.<br>
+   &nbsp;&nbsp;   For Theodore slept.</p>
 
 <p>
 
@@ -2651,26 +2663,26 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    Stella sings:<br>
-    &nbsp&nbsp  "Round and round, rolls my hoop,<br>
-    &nbsp&nbsp  Scarcely touching the ground,<br>
-    &nbsp&nbsp  With a swoop,<br>
-    &nbsp&nbsp  And a bound,<br>
-    &nbsp&nbsp  Round and round.<br>
-    &nbsp&nbsp  With a bumpety, crunching, scattering sound,<br>
-    &nbsp&nbsp  Down the garden it flies;<br>
-    &nbsp&nbsp  In our eyes<br>
-    &nbsp&nbsp  The sun lies.<br>
-    &nbsp&nbsp  See it spin<br>
-    &nbsp&nbsp  Out and in;<br>
-    &nbsp&nbsp  Through the paths it goes whirling,<br>
-    &nbsp&nbsp  About the beds curling.<br>
-    &nbsp&nbsp  Sway now to the loop,<br>
-    &nbsp&nbsp  Faster, faster, my hoop.<br>
-    &nbsp&nbsp  Round you come,<br>
-    &nbsp&nbsp  Up you come,<br>
-    &nbsp&nbsp  Quick and straight as before.<br>
-    &nbsp&nbsp  Run, run, my hoop, run,<br>
-    &nbsp&nbsp  Away from the sun."</p>
+    &nbsp;&nbsp;  "Round and round, rolls my hoop,<br>
+    &nbsp;&nbsp;  Scarcely touching the ground,<br>
+    &nbsp;&nbsp;  With a swoop,<br>
+    &nbsp;&nbsp;  And a bound,<br>
+    &nbsp;&nbsp;  Round and round.<br>
+    &nbsp;&nbsp;  With a bumpety, crunching, scattering sound,<br>
+    &nbsp;&nbsp;  Down the garden it flies;<br>
+    &nbsp;&nbsp;  In our eyes<br>
+    &nbsp;&nbsp;  The sun lies.<br>
+    &nbsp;&nbsp;  See it spin<br>
+    &nbsp;&nbsp;  Out and in;<br>
+    &nbsp;&nbsp;  Through the paths it goes whirling,<br>
+    &nbsp;&nbsp;  About the beds curling.<br>
+    &nbsp;&nbsp;  Sway now to the loop,<br>
+    &nbsp;&nbsp;  Faster, faster, my hoop.<br>
+    &nbsp;&nbsp;  Round you come,<br>
+    &nbsp;&nbsp;  Up you come,<br>
+    &nbsp;&nbsp;  Quick and straight as before.<br>
+    &nbsp;&nbsp;  Run, run, my hoop, run,<br>
+    &nbsp;&nbsp;  Away from the sun."</p>
 
 <p>
 
@@ -2680,32 +2692,32 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    Minna sings:<br>
-    &nbsp&nbsp  "Turn, hoop,<br>
-    &nbsp&nbsp  Burn hoop,<br>
-    &nbsp&nbsp  Twist and twine<br>
-    &nbsp&nbsp Hoop of mine.<br>
-    &nbsp&nbsp  Flash along,<br>
-    &nbsp&nbsp  Leap along,<br>
-    &nbsp&nbsp  Right at the sun.<br>
-    &nbsp&nbsp  Run, hoop, run.<br>
-    &nbsp&nbsp  Faster and faster,<br>
-    &nbsp&nbsp  Whirl, twirl.<br>
-    &nbsp&nbsp  Wheel like fire,<br>
-    &nbsp&nbsp  And spin like glass;<br>
-    &nbsp&nbsp  Fire's no whiter<br>
-    &nbsp&nbsp  Glass is no brighter.<br>
-    &nbsp&nbsp  Dance,<br>
-    &nbsp&nbsp  Prance,<br>
-    &nbsp&nbsp  Over and over,<br>
-    &nbsp&nbsp About and about,<br>
-    &nbsp&nbsp  With the top of you under,<br>
-    &nbsp&nbsp  And the bottom at top,<br>
-    &nbsp&nbsp  But never a stop.<br>
-    &nbsp&nbsp  Turn about, hoop, to the tap of my stick,<br>
-    &nbsp&nbsp   I follow behind you<br>
-    &nbsp&nbsp  To touch and remind you.<br>
-    &nbsp&nbsp  Burn and glitter, so white and quick,<br>
-    &nbsp&nbsp  Round and round, to the tap of a stick."</p>
+    &nbsp;&nbsp;  "Turn, hoop,<br>
+    &nbsp;&nbsp;  Burn hoop,<br>
+    &nbsp;&nbsp;  Twist and twine<br>
+    &nbsp;&nbsp; Hoop of mine.<br>
+    &nbsp;&nbsp;  Flash along,<br>
+    &nbsp;&nbsp;  Leap along,<br>
+    &nbsp;&nbsp;  Right at the sun.<br>
+    &nbsp;&nbsp;  Run, hoop, run.<br>
+    &nbsp;&nbsp;  Faster and faster,<br>
+    &nbsp;&nbsp;  Whirl, twirl.<br>
+    &nbsp;&nbsp;  Wheel like fire,<br>
+    &nbsp;&nbsp;  And spin like glass;<br>
+    &nbsp;&nbsp;  Fire's no whiter<br>
+    &nbsp;&nbsp;  Glass is no brighter.<br>
+    &nbsp;&nbsp;  Dance,<br>
+    &nbsp;&nbsp;  Prance,<br>
+    &nbsp;&nbsp;  Over and over,<br>
+    &nbsp;&nbsp; About and about,<br>
+    &nbsp;&nbsp;  With the top of you under,<br>
+    &nbsp;&nbsp;  And the bottom at top,<br>
+    &nbsp;&nbsp;  But never a stop.<br>
+    &nbsp;&nbsp;  Turn about, hoop, to the tap of my stick,<br>
+    &nbsp;&nbsp;   I follow behind you<br>
+    &nbsp;&nbsp;  To touch and remind you.<br>
+    &nbsp;&nbsp;  Burn and glitter, so white and quick,<br>
+    &nbsp;&nbsp;  Round and round, to the tap of a stick."</p>
 
 <p>
 
@@ -2731,38 +2743,38 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 <p>
 
    Stella sings:<br>
-    &nbsp&nbsp  "Hoop, hoop,<br>
-    &nbsp&nbsp Roll along,<br>
-    &nbsp&nbsp  Faster bowl along,<br>
-    &nbsp&nbsp  Hoop.<br>
-    &nbsp&nbsp Slow, to the turning,<br>
-    &nbsp&nbsp  Now go!&mdash;Go!<br>
-    &nbsp&nbsp  Quick!<br>
-    &nbsp&nbsp  Here's the stick.<br>
-    &nbsp&nbsp  Rat-a-tap-tap it,<br>
-    &nbsp&nbsp  Pat it, flap it.<br>
-    &nbsp&nbsp  Fly like a bird or a yellow-backed bee,<br>
-    &nbsp&nbsp  See how soon you can reach that tree.<br>
-    &nbsp&nbsp  Here is a path that is perfectly straight.<br>
-    &nbsp&nbsp  Roll along, hoop, or we shall be late."</p>
+    &nbsp;&nbsp;  "Hoop, hoop,<br>
+    &nbsp;&nbsp; Roll along,<br>
+    &nbsp;&nbsp;  Faster bowl along,<br>
+    &nbsp;&nbsp;  Hoop.<br>
+    &nbsp;&nbsp; Slow, to the turning,<br>
+    &nbsp;&nbsp;  Now go!&mdash;Go!<br>
+    &nbsp;&nbsp;  Quick!<br>
+    &nbsp;&nbsp;  Here's the stick.<br>
+    &nbsp;&nbsp;  Rat-a-tap-tap it,<br>
+    &nbsp;&nbsp;  Pat it, flap it.<br>
+    &nbsp;&nbsp;  Fly like a bird or a yellow-backed bee,<br>
+    &nbsp;&nbsp;  See how soon you can reach that tree.<br>
+    &nbsp;&nbsp;  Here is a path that is perfectly straight.<br>
+    &nbsp;&nbsp;  Roll along, hoop, or we shall be late."</p>
 
 <p>
 
    Minna sings:<br>
-    &nbsp&nbsp  "Trip about, slip about, whip about<br>
-    &nbsp&nbsp  Hoop.<br>
-    &nbsp&nbsp  Wheel like a top at its quickest spin,<br>
-    &nbsp&nbsp  Then, dear hoop, we shall surely win.<br>
-    &nbsp&nbsp  First to the greenhouse and then to the wall<br>
-    &nbsp&nbsp  Circle and circle,<br>
-    &nbsp&nbsp  And let the wind push you,<br>
-    &nbsp&nbsp  Poke you,<br>
-    &nbsp&nbsp  Brush you,<br>
-    &nbsp&nbsp  And not let you fall.<br>
-    &nbsp&nbsp  Whirring you round like a wreath of mist.<br>
-    &nbsp&nbsp  Hoopety hoop,<br>
-    &nbsp&nbsp  Twist,<br>
-    &nbsp&nbsp  Twist."</p>
+    &nbsp;&nbsp;  "Trip about, slip about, whip about<br>
+    &nbsp;&nbsp;  Hoop.<br>
+    &nbsp;&nbsp;  Wheel like a top at its quickest spin,<br>
+    &nbsp;&nbsp;  Then, dear hoop, we shall surely win.<br>
+    &nbsp;&nbsp;  First to the greenhouse and then to the wall<br>
+    &nbsp;&nbsp;  Circle and circle,<br>
+    &nbsp;&nbsp;  And let the wind push you,<br>
+    &nbsp;&nbsp;  Poke you,<br>
+    &nbsp;&nbsp;  Brush you,<br>
+    &nbsp;&nbsp;  And not let you fall.<br>
+    &nbsp;&nbsp;  Whirring you round like a wreath of mist.<br>
+    &nbsp;&nbsp;  Hoopety hoop,<br>
+    &nbsp;&nbsp;  Twist,<br>
+    &nbsp;&nbsp;  Twist."</p>
 
 <p>
 
@@ -3026,9 +3038,9 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
    And there are two little green doves,<br>
    With green traces tying them to the chariot.<br>
    "Now we will get in, and fly right up to the clouds.<br>
-    &nbsp&nbsp  Fly, Doves, up in the sky,<br>
-    &nbsp&nbsp  With Minna and me,<br>
-    &nbsp&nbsp  After the bee."</p>
+    &nbsp;&nbsp;  Fly, Doves, up in the sky,<br>
+    &nbsp;&nbsp;  With Minna and me,<br>
+    &nbsp;&nbsp;  After the bee."</p>
 
 <p>
 
@@ -3093,9 +3105,9 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
    Drop,<br>
    Drop,<br>
    Daisy petals.<br>
-    &nbsp&nbsp  "One I love,<br>
-    &nbsp&nbsp  Two I love,<br>
-    &nbsp&nbsp  Three I love I say..."<br>
+    &nbsp;&nbsp;  "One I love,<br>
+    &nbsp;&nbsp;  Two I love,<br>
+    &nbsp;&nbsp;  Three I love I say..."<br>
    The ground is peppered with daisy petals,<br>
    And the little girls nibble the golden centres,<br>
    And play it is cake.</p>
@@ -3511,7 +3523,7 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
    Her fruit stained the cobbles of the way.<br>
    Monsieur Popain joined her there.<br>
    "Tiens, Mademoiselle,<br>
-    &nbsp&nbsp&nbsp&nbsp     c'est le General Bonaparte, partant pour la Guerre!"<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;     c'est le General Bonaparte, partant pour la Guerre!"<br>
 </p>
     <p>
       <a name="link2H_4_0013" id="link2H_4_0013">
@@ -3891,11 +3903,11 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
    He boasts magnificently, with his mouth full of nails.<br>
    Stephen Pibold has a tenor voice,<br>
    He shifts his quid of tobacco and sings:<br>
-    &nbsp&nbsp   "The second in command was blear-eyed Ned:<br>
-    &nbsp&nbsp&nbsp&nbsp      While the surgeon his limb was a-lopping,<br>
-    &nbsp&nbsp   A nine-pounder came and smack went his head,<br>
-    &nbsp&nbsp&nbsp&nbsp      Pull away, pull away, pull away!  I say;<br>
-    &nbsp&nbsp      Rare news for my Meg of Wapping!"<br>
+    &nbsp;&nbsp;   "The second in command was blear-eyed Ned:<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;      While the surgeon his limb was a-lopping,<br>
+    &nbsp;&nbsp;   A nine-pounder came and smack went his head,<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;      Pull away, pull away, pull away!  I say;<br>
+    &nbsp;&nbsp;      Rare news for my Meg of Wapping!"<br>
    Every Sunday<br>
    People come in crowds<br>
    (After church-time, of course)<br>
@@ -3924,10 +3936,10 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
    And the copper nails<br>
    Stand about and sparkle in big wooden pails.<br>
    Bang!  Clash!  Bang!<br>
-    &nbsp&nbsp   "And he swigg'd, and Nick swigg'd,<br>
-    &nbsp&nbsp&nbsp&nbsp      And Ben swigg'd, and Dick swigg'd,<br>
-    &nbsp&nbsp   And I swigg'd, and all of us swigg'd it,<br>
-    &nbsp&nbsp&nbsp&nbsp      And swore there was nothing like grog."<br>
+    &nbsp;&nbsp;   "And he swigg'd, and Nick swigg'd,<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;      And Ben swigg'd, and Dick swigg'd,<br>
+    &nbsp;&nbsp;   And I swigg'd, and all of us swigg'd it,<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;      And swore there was nothing like grog."<br>
    It seems they sing,<br>
    Even though coppering is not an easy thing.<br>
    What a splendid specimen of humanity is a true British workman,<br>
@@ -4139,7 +4151,7 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
    Antoine, with a laugh:  "I'll give you two sous for that antiquated hen."<br>
    The Imperial Eagle sells for two sous,<br>
    And the lilies go up.<br>
-    &nbsp&nbsp&nbsp&nbsp     A man must choose!
+    &nbsp;&nbsp;&nbsp;&nbsp;     A man must choose!
 
 </p>
 <p>
@@ -4172,7 +4184,7 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
    Crowd your horses back upon the people, Uhlans and Hungarian Lancers,<br>
    They see too much.<br>
    Unfortunately, Gentlemen of the Invading Armies, what they do not see,<br>
-   &nbsp&nbsp  they hear.<br>
+   &nbsp;&nbsp;  they hear.<br>
    Tap!  Clink-a-tink!<br>
    Tap!<br>
    Another sharp spear<br>
@@ -4236,7 +4248,7 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
    Farewell, Austerlitz, Tilsit, Presbourg;<br>
    Farewell, greatness departed.<br>
    Farewell, Imperial honours, knocked broadcast by the beating hammers<br>
-   &nbsp&nbsp  of ignorant workmen.<br>
+   &nbsp;&nbsp;  of ignorant workmen.<br>
    Straight, in the Spring moonlight,<br>
    Rises the deflowered arch.<br>
    In the silence, shining bright,<br>
@@ -4356,7 +4368,7 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
    The Sergeant is lying on the floor<br>
    Stone dead, and his hat with the tricolore<br>
    Cockade has rolled off into the cinders.  Victorine snorts and lays back<br>
-   &nbsp&nbsp  her ears.<br>
+   &nbsp;&nbsp;  her ears.<br>
    What glistens on the anvil?  Sweat or tears?
 
 </p>
@@ -4410,7 +4422,7 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
    Upholsterer Darling has a fine shop in Jamestown.<br>
    Tap!  Tap!<br>
    Andrew Darling has ridden hard from Longwood to see to the work in his shop<br>
-   &nbsp&nbsp  in Jamestown.<br>
+   &nbsp;&nbsp;  in Jamestown.<br>
    He has a corps of men in it, toiling and swearing,<br>
    Knocking, and measuring, and planing, and squaring,<br>
    Working from a chart with figures,<br>
@@ -5960,7 +5972,7 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
    I'm comin', Ed.<br>
    I'll be ther in a minit.<br>
    Oh, I'm so tired!<br>
-    &nbsp&nbsp&nbsp&nbsp     (Faints)
+    &nbsp;&nbsp;&nbsp;&nbsp;     (Faints)
 </p>
     <p>
       <a name="link2H_4_0027" id="link2H_4_0027">
@@ -6035,7 +6047,7 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
    But Mr. Spruggins held the candle so close that it singed his chin,<br>
    And ran and stumbled up the stairs in a surprisingly agile manner,<br>
    For the wind through the keyhole kept saying, "Spruggins!  Spruggins!"<br>
-   &nbsp&nbsp  behind him.<br>
+   &nbsp;&nbsp;  behind him.<br>
    The fire in his bedroom burned brightly.<br>
    The room with its crimson bed and window curtains<br>
    Was as red and glowing as a carbuncle.<br>
@@ -6320,13 +6332,13 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
   So not one blurred outline can tease the mind to fright.</p>
 <p>
 
-  &nbsp&nbsp  "O All ye Works of the Lord, Bless ye the Lord; Praise Him, and Magnify Him
+  &nbsp;&nbsp;  "O All ye Works of the Lord, Bless ye the Lord; Praise Him, and Magnify Him
       for ever.<br>
-  &nbsp&nbsp  O let the Earth Bless the Lord; Yea, let it Praise Him, and Magnify Him
+  &nbsp;&nbsp;  O let the Earth Bless the Lord; Yea, let it Praise Him, and Magnify Him
       for ever.<br>
-  &nbsp&nbsp  O ye Mountains and Hills, Bless ye the Lord; Praise Him, and Magnify Him
+  &nbsp;&nbsp;  O ye Mountains and Hills, Bless ye the Lord; Praise Him, and Magnify Him
       for ever.<br>
-   &nbsp&nbsp O All ye Green Things upon the Earth, Bless ye the Lord; Praise Him,
+   &nbsp;&nbsp; O All ye Green Things upon the Earth, Bless ye the Lord; Praise Him,
       and Magnify Him for ever."</p>
 
 <p>
@@ -6433,13 +6445,13 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
 
 <p>
 
-  &nbsp&nbsp  "O ye Fire and Heat, Bless ye the Lord; Praise Him, and Magnify Him
+  &nbsp;&nbsp;  "O ye Fire and Heat, Bless ye the Lord; Praise Him, and Magnify Him
       for ever.<br>
-  &nbsp&nbsp  O ye Winter and Summer, Bless ye the Lord; Praise Him, and Magnify Him
+  &nbsp;&nbsp;  O ye Winter and Summer, Bless ye the Lord; Praise Him, and Magnify Him
       for ever.<br>
-  &nbsp&nbsp  O ye Nights and Days, Bless ye the Lord; Praise Him, and Magnify Him
+  &nbsp;&nbsp;  O ye Nights and Days, Bless ye the Lord; Praise Him, and Magnify Him
       for ever.<br>
-  &nbsp&nbsp  O ye Lightnings and Clouds, Bless ye the Lord; Praise Him, and Magnify Him
+  &nbsp;&nbsp;  O ye Lightnings and Clouds, Bless ye the Lord; Praise Him, and Magnify Him
       for ever."</p>
 
 <p>
@@ -6801,7 +6813,7 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
    The nave is blue with incense,<br>
    Writhing, twisting,<br>
    Snaking over the heads of the chanting priests.<br>
-   &nbsp&nbsp&nbsp&nbsp   'Requiem aeternam dona ei, Domine';<br>
+   &nbsp;&nbsp;&nbsp;&nbsp;   'Requiem aeternam dona ei, Domine';<br>
    The priests whine their bastard Latin<br>
    And the censers swing and click.<br>
    The priests walk endlessly<br>
@@ -6810,16 +6822,16 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
    Off the key.<br>
    The organ crashes out in a flaring chord,<br>
    And the priests hitch their chant up half a tone.<br>
-   &nbsp&nbsp&nbsp&nbsp   'Dies illa, dies irae,<br>
-   &nbsp&nbsp&nbsp&nbsp   Calamitatis et miseriae,<br>
-   &nbsp&nbsp&nbsp&nbsp   Dies magna et amara valde.'<br>
+   &nbsp;&nbsp;&nbsp;&nbsp;   'Dies illa, dies irae,<br>
+   &nbsp;&nbsp;&nbsp;&nbsp;   Calamitatis et miseriae,<br>
+   &nbsp;&nbsp;&nbsp;&nbsp;   Dies magna et amara valde.'<br>
    A wind rattles the leaded windows.<br>
    The little pear-shaped candle flames leap and flutter,<br>
-   &nbsp&nbsp&nbsp&nbsp   'Dies illa, dies irae;'<br>
+   &nbsp;&nbsp;&nbsp;&nbsp;   'Dies illa, dies irae;'<br>
    The swaying smoke drifts over the altar,<br>
-   &nbsp&nbsp&nbsp&nbsp   'Calamitatis et miseriae;'<br>
+   &nbsp;&nbsp;&nbsp;&nbsp;   'Calamitatis et miseriae;'<br>
    The shuffling priests sprinkle holy water,<br>
-    &nbsp&nbsp&nbsp&nbsp  'Dies magna et amara valde;'<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;  'Dies magna et amara valde;'<br>
    And there is a stark stillness in the midst of them<br>
    Stretched upon a bier.<br>
    His ears are stone to the organ,<br>
@@ -6829,9 +6841,9 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
    Whine, shuffle, genuflect,<br>
    He will always be as rigid as he is now<br>
    Until he crumbles away in a dust heap.<br>
-   &nbsp&nbsp&nbsp&nbsp   'Lacrymosa dies illa,<br>
-   &nbsp&nbsp&nbsp&nbsp   Qua resurget ex favilla<br>
-   &nbsp&nbsp&nbsp&nbsp   Judicandus homo reus.'<br>
+   &nbsp;&nbsp;&nbsp;&nbsp;   'Lacrymosa dies illa,<br>
+   &nbsp;&nbsp;&nbsp;&nbsp;   Qua resurget ex favilla<br>
+   &nbsp;&nbsp;&nbsp;&nbsp;   Judicandus homo reus.'<br>
    Above the grey pillars the roof is in darkness.
 
 </p>
