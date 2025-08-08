@@ -80,6 +80,46 @@ foreword: "Cover: Annika Leppäaho is a designer, illustrator and art director
                                      William Blake.
 </pre>
 
+<a name="#link2H_PREF" id="#link2H_PREF">
+    <h2>
+      Preface by the Author
+    </h2>
+
+  <p>
+    This is a book of stories. For that reason I have excluded all purely lyrical poems. But the word "stories" has been stretched to its fullest application. It includes both narrative poems, properly so called; tales divided into scenes; and a few pieces of less obvious story-telling import in which one might say that the dramatis personae are air, clouds, trees, houses, streets, and such like things.
+  </p>
+  <p>
+    It has long been a favourite idea of mine that the rhythms of 'vers libre' have not been sufficiently plumbed, that there is in them a power of variation which has never yet been brought to the light of experiment. I think it was the piano pieces of Debussy, with their strange likeness to short vers libre poems, which first showed me the close kinship of music and poetry, and there flashed into my mind the idea of using the movement of poetry in somewhat the same way that the musician uses the movement of music.
+  </p>
+  <p>
+    It was quite evident that this could never be done in the strict pattern of a metrical form, but the flowing, fluctuating rhythm of vers libre seemed to open the door to such an experiment. First, however, I considered the same method as applied to the more pronounced movements of natural objects. If the reader will turn to the poem, "A Roxbury Garden", he will find in the first two sections an attempt to give the circular movement of a hoop bowling along the ground, and the up and down, elliptical curve of a flying shuttlecock.
+  </p>
+  <p>
+    From these experiments, it is but a step to the flowing rhythm of music. In "The Cremona Violin", I have tried to give this flowing, changing rhythm to the parts in which the violin is being played. The effect is farther heightened, because the rest of the poem is written in the seven line Chaucerian stanza; and, by deserting this ordered pattern for the undulating line of vers libre, I hoped to produce something of the suave, continuous tone of a violin. Again, in the violin parts themselves, the movement constantly changes, as will be quite plain to any one reading these passages aloud.
+  </p>
+  <p>
+    In "The Cremona Violin", however, the rhythms are fairly obvious and regular. I set myself a far harder task in trying to transcribe the various movements of Stravinsky's "Three Pieces 'Grotesques', for String Quartet". Several musicians, who have seen the poem, think the movement accurately given.
+  </p>
+  <p>
+  These experiments lead me to believe that there is here much food for thought and matter for study, and I hope many poets will follow me in opening up the still hardly explored possibilities of vers libre.
+  </p>
+  <p>
+    A good many of the poems in this book are written in "polyphonic prose". A form about which I have written and spoken so much that it seems hardly necessary to explain it here. Let me hastily add, however, that the word "prose" in its name refers only to the typographical arrangement, for in no sense is this a prose form. Only read it aloud, Gentle Reader, I beg, and you will see what you will see. For a purely dramatic form, I know none better in the whole range of poetry. It enables the poet to give his characters the vivid, real effect they have in a play, while at the same time writing in the 'decor'.
+  </p>
+  <p>
+    One last innovation I have still to mention. It will be found in "Spring Day", and more fully enlarged upon in the series, "Towns in Colour". In these poems, I have endeavoured to give the colour, and light, and shade, of certain places and hours, stressing the purely pictorial effect, and with little or no reference to any other aspect of the places described. It is an enchanting thing to wander through a city looking for its unrelated beauty, the beauty by which it captivates the sensuous sense of seeing.
+  </p>
+  <p>
+    I have always loved aquariums, but for years I went to them and looked, and looked, at those swirling, shooting, looping patterns of fish, which always defied transcription to paper until I hit upon the "unrelated" method. The result is in "An Aquarium". I think the first thing which turned me in this direction was John Gould Fletcher's "London Excursion", in "Some Imagist Poets". I here record my thanks.
+  </p>
+  <p>
+    For the substance of the poems—why, the poems are here. No one writing to-day can fail to be affected by the great war raging in Europe at this time. We are too near it to do more than touch upon it. But, obliquely, it is suggested in many of these poems, most notably those in the section, "Bronze Tablets". The Napoleonic Era is an epic subject, and waits a great epic poet. I have only been able to open a few windows upon it here and there. But the scene from the windows is authentic, and the watcher has used eyes, and ears, and heart, in watching.
+  </p>
+  <p>
+    Amy Lowell <br>
+    July 10, 1916
+  </p>
+  
 <a name="link2H_4_0004" id="link2H_4_0004">
     <h2>
       FIGURINES IN OLD SAXE
