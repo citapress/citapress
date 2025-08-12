@@ -8,8 +8,8 @@ sortingdate: ""
 templateKey: book-page
 author: Virginia Woolf
 isbn: 978-1-961368-21-7
-post_image: https://ucarecdn.com/f47af6fe-3402-4325-a6f3-dd1aaa109126/tempImage7EEOfG.heic
-square_image: https://ucarecdn.com/1a825851-af2b-41da-a895-41def8b2317d/tempImageCVlZEM.heic
+post_image: https://ucarecdn.com/f6fc422b-f68d-4d1a-a1e3-5153256c90f4/woolf-cover.jpeg
+square_image: https://ucarecdn.com/14baf505-6fff-4d43-b3a7-52ea8c81ece2/woolf-thumbnail.jpeg
 genre:
   - fiction
   - short-stories
