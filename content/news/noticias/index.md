@@ -3,8 +3,16 @@ title: noticias
 lang: es
 templateKey: news-page
 ---
+
+
+**2025**
+
+* **July de 2025 (Anuncio)** Nos complace anunciar la publicación de la nueva traducción al español de *Diez días en un manicomio,* de Daniel Saldaña París para el Cita Press Literary Translation & Technology project. ¡Es la primera traducción de un libro entero que comisionamos especialmente para Cita! Lean el ensayo de Daniel sobre el proyecto, «La traducción, la IA y la carga política de las palabras», en el epílogo de ambas ediciones de *Diez días en un manicomio (Ten Days in a Mad-House)*, de Nellie Bly. La traducción al inglés del ensayo es de Christina MacSweeney. También pueden encontrarlo, junto con una grabación de audio, en el Especial de *Asymptote* de julio de 2025 «[What A.I. Can't Do](https://www.asymptotejournal.com/special-feature/translation-ai-and-the-political-weight-of-words-daniel-saldana-paris/)».
+
 **2024**
 
+* **Noviembre de 2025 (Anuncio)** Mujeres resistiendo la violencia, un libro esclarecedor y poderoso sobre las formas en que las mujeres enfrentan y resisten diversas formas de violencia de género, ahora está disponible en español.
+  Este libro hace parte de un proyecto más amplio del Latin America Bureau (LAB) y de King’s College London que ha sido difundido por medio de un sitio web, una serie de podcast, eventos, y el libro en inglés, español y próximamente en portugués. En asociación con el LAB, Cita Press se complace poner a disposición de todos en línea, de forma gratuita, la edición en español de este libro. 
 * **Octubre de 2024 (Evento/Anuncio)** ¡El 24 de octubre asistiremos al evento Cambio histórico: Celebrando la vida y el legado de Zitkála-Šá en la Biblioteca Pública de Salt Lake City! [Inscríbase aquí. ](https://events.womenshistory.org/events/historic-change-zitkala-sa/)Nuestro libro *Plantada en una tierra extraña: Escritos selectos de Zitkála-Šá* estará disponible en línea ese mismo día.
 * **Mayo de 2024 (Anuncio)** Cita publica una nueva edición de "Ten Days in a Mad-House" de Nellie Bly. El prólogo es de Mikita Brottman y la portada e ilustraciones son de Dajia Zhou. Traducción muy pronto.
 * **Junio de 2024Abril de 2024 (Anuncio/Contratación)** Daniel Saldaña París se une a Cita Press como Becario de Traducción Literaria y Tecnología.
