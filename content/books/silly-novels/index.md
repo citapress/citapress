@@ -1,28 +1,26 @@
 ---
+title: Silly Novels by Silly Lady Novelists
 publication: 2018-04-11T22:12:03.284Z
 publishformat: Year
 release: 1856-04-06T23:05:01.284Z
+releaseformat: Year
+sortingdate: 2018-04-07T00:06:01.342Z
 templateKey: book-page
-author: Mary Anne Evans (George Eliot)
+author: George Eliot
+isbn: 978-1-961368-10-1
+post_image: https://ucarecdn.com/f9913cec-bca4-406e-b598-22a299e3ae96/-/preview/397x612/cover-silly-novels.png
+square_image: https://ucarecdn.com/6b0cbf5d-48f2-4f80-a259-319af121f74e/-/preview/800x800/sillynovels.png
 download: ""
 language_link: novelas-tontas
 genre:
   - manifesto
   - essay
-theme:
-  - first-person-narrator
-lang: en
-foreword: Cover by Jean Yang, visual and product designer
-date: 2012-05-01T22:12:03.284Z
-title: Silly Novels by Silly Lady Novelists
-releaseformat: Year
-sortingdate: 2018-04-07T00:06:01.342Z
-isbn: 978-1-961368-10-1
-post_image: https://ucarecdn.com/f9913cec-bca4-406e-b598-22a299e3ae96/-/preview/397x612/cover-silly-novels.png
-square_image: https://ucarecdn.com/6b0cbf5d-48f2-4f80-a259-319af121f74e/-/preview/800x800/sillynovels.png
 time_period:
   - 19th
   - victorian
+theme:
+  - first-person-narrator
+lang: en
 description: >
   <p><i>"No educational restrictions can shut women out from the materials of
   fiction, and there is no species of art which is so free from rigid
@@ -30,6 +28,8 @@ description: >
 
 
   <p>"Silly Novels by Silly Lady Novelists" appeared anonymously in the <i>Westminster Review</i> in 1856. The essay argued that contemporary popular novels for and by women played into tropes and assumptions that undercut the actual aptitudes of women in a frustrating and, ultimately, dangerous way. The author, Mary Ann Evans, deployed a wit and honesty that she would later use to examine the foibles of a wide range of characters in the realist novels she published under her now-famous pseudonym: George Eliot.</p>
+foreword: Cover by Jean Yang, visual and product designer
+date: 2012-05-01T22:12:03.284Z
 ---
 Silly Novels by Lady Novelists are a genus with many species, determined by the particular quality of silliness that predominates in them—the frothy, the prosy, the pious, or the pedantic.  But it is a mixture of all these—a composite order of feminine fatuity—that produces the largest class of such novels, which we shall distinguish as the _mind-and-millinery_ species.  The heroine is usually an heiress, probably a peeress in her own right, with perhaps a vicious baronet, an amiable duke, and an irresistible younger son of a marquis as lovers in the foreground, a clergyman and a poet sighing for her in the middle distance, and a crowd of undefined adorers dimly indicated beyond.  Her eyes and her wit are both dazzling; her nose and her morals are alike free from any tendency to irregularity; she has a superb contralto and a superb intellect; she is perfectly well dressed and perfectly religious; she dances like a sylph, and reads the Bible in the original tongues.  Or it may be that the heroine is not an heiress—that rank and wealth are the only things in which she is deficient; but she infallibly gets into high society, she has the triumph of refusing many matches and securing the best, and she wears some family jewels or other as a sort of crown of righteousness at the end.  Rakish men either bite their lips in impotent confusion at her repartees, or are touched to penitence by her reproofs, which, on appropriate occasions, rise to a lofty strain of rhetoric; indeed, there is a general propensity in her to make speeches, and to rhapsodize at some length when she retires to her bedroom.  In her recorded conversations she is amazingly eloquent, and in her unrecorded conversations amazingly witty.  She is understood to have a depth of insight that looks through and through the shallow theories of philosophers, and her superior instincts are a sort of dial by which men have only to set their clocks and watches, and all will go well.  The men play a very subordinate part by her side.  You are consoled now and then by a hint that they have affairs, which keeps you in mind that the working-day business of the world is somehow being carried on, but ostensibly the final cause of their existence is that they may accompany the heroine on her “starring” expedition through life.  They see her at a ball, and they are dazzled; at a flower-show, and they are fascinated; on a riding excursion, and they are witched by her noble horsemanship; at church, and they are awed by the sweet solemnity of her demeanor.  She is the ideal woman in feelings, faculties, and flounces.  For all this she as often as not marries the wrong person to begin with, and she suffers terribly from the plots and intrigues of the vicious baronet; but even death has a soft place in his heart for such a paragon, and remedies all mistakes for her just at the right moment.  The vicious baronet is sure to be killed in a duel, and the tedious husband dies in his bed requesting his wife, as a particular favor to him, to marry the man she loves best, and having already dispatched a note to the lover informing him of the comfortable arrangement.  Before matters arrive at this desirable issue our feelings are tried by seeing the noble, lovely, and gifted heroine pass through many mauvais moments, but we have the satisfaction of knowing that her sorrows are wept into embroidered pocket-handkerchiefs, that her fainting form reclines on the very best upholstery, and that whatever vicissitudes she may undergo, from being dashed out of her carriage to having her head shaved in a fever, she comes out of them all with a complexion more blooming and locks more redundant than ever.
 
