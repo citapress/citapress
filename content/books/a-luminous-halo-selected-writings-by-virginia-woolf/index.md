@@ -12,7 +12,7 @@ post_image: https://ucarecdn.com/f6fc422b-f68d-4d1a-a1e3-5153256c90f4/woolf-cove
 square_image: https://ucarecdn.com/14baf505-6fff-4d43-b3a7-52ea8c81ece2/woolf-thumbnail.jpeg
 download: a-luminous-halo.pdf
 download_ebook: a-luminous-halo.epub
-download_name: Download EPUB
+download_name: Download PDF
 third_download_name: ""
 third_download: Download Mini Zine
 genre:
