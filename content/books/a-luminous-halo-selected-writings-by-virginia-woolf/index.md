@@ -14,7 +14,7 @@ download: a-luminous-halo.pdf
 download_ebook: a-luminous-halo.epub
 download_name: Download PDF
 third_download_name: woolf-minizine.pdf
-third_download: woolf-minizine.pdf
+third_download: Download The Mark on the Wall Mini-Zine
 genre:
   - fiction
   - short-stories
