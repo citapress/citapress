@@ -13,8 +13,8 @@ square_image: https://ucarecdn.com/14baf505-6fff-4d43-b3a7-52ea8c81ece2/woolf-th
 download: a-luminous-halo.pdf
 download_ebook: a-luminous-halo.epub
 download_name: Download PDF
-third_download_name: ""
-third_download: Download Mini Zine
+third_download_name: woolf-minizine.pdf
+third_download: woolf-minizine.pdf
 genre:
   - fiction
   - short-stories
