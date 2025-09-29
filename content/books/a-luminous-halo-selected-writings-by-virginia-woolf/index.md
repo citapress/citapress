@@ -54,7 +54,7 @@ published: true
 
 ## ACKNOWLEDGEMENTS
 
-*This book was sponsored by and created in partnership with The Sitting Room Library in Penngrove, California. Special thanks to J.J. Wilson, Karen Petersen, and Raye Lynn Thomas, as well as Vara Neverow of the* Virginia Woolf Miscellany. *We are grateful to Grace French of the Cleveland Public Library and staff at the New York Public Library for assistance in gathering original publication materials.* 
+*This book was sponsored by and created in partnership with [The Sitting Room Library ](https://sittingroomlibrary.org/)in Penngrove, California. Special thanks to J.J. Wilson, Karen Petersen, and Raye Lynn Thomas, as well as Vara Neverow of the* Virginia Woolf Miscellany. *We are grateful to Grace French of the Cleveland Public Library and staff at the New York Public Library for assistance in gathering original publication materials.* 
 
 *This work was made possible by the support of Cita's fiscal sponsor, Educopia.* 
 
@@ -590,7 +590,6 @@ Ruotolo, Lucio P. *The Interrupted Moment : A View of Virginia Woolf’s Novels*
 *The Death of the Moth, and Other Essays.*  London: Published by Leonard and Virginia Woolf at The Hogarth Press, 1942.
 
 *The Moment and Other Essays.* London: The Hogarth Press, 1947. 
-
 
 *The Captain's Death Bed and Other Essays.* London: The Hogarth Press, 1950.
 
