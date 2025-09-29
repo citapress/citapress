@@ -48,7 +48,7 @@ foreword: >-
 
 
   <p><b>Cover:</b> Mariana Matos is an interdisciplinary designer based in Detroit, MI. She is the Communications & Design Coordinator for Cita Press. 
-published: false
+published: true
 ---
 ![The Sitting Room Logo: The silhouette of two woman sitting at a table in old-timey dresses. One writes with a quill while the other reads. ](https://ucarecdn.com/a8b6ff34-25a2-4e61-893c-a270297690b2/Sitting-Room-Logo.jpg "Sitting Room Logo")
 
