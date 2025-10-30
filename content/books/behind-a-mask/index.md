@@ -28,6 +28,7 @@ description: Behind a Mask is one of the thrillers, mysteries, and sensational
   as it follows Jean Muir, a down-on-her-luck actress who disguises herself as a
   young governess and infiltrates a wealthy family.
 foreword: "Cover: Lauren Smedley is a designer and lover of museums. "
+published: true
 ---
 <p class="toc">
 <a href="#link2H_4_0001" class="pginternal"> <i>Chapter I</i> JEAN MUIR </a>
