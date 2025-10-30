@@ -26,7 +26,12 @@ description: Mary Shelley wrote <i>Mathilda</i> from 1819-1820, shortly after
   the novella explores grief, despair, and redemption. Despite its deployment of
   familiar Gothic themes like suicide, incest, and a woman withering away, its
   framing is frequently read as a feminist reclamation of the genre.
-foreword: "Cover: Kathy Mueller is a designer, art director & educator."
+foreword: >-
+  <p><b>Cover:</b> Kathy Mueller is a designer, art director & educator.</p>
+
+
+  <p><b>Foreword:</b> Christina Standley is a writer based in Northern California. </p>
+published: true
 ---
 ## FOREWORD
 
