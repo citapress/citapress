@@ -20,7 +20,7 @@ theme:
   - suspense-gothic
 lang: en
 description: Behind a Mask is one of the thrillers, mysteries, and sensational
-  works Louisa May Alcott published under the pen name A.M. Bernard. It was
+  works Louisa May Alcott published under the pen name A.M. Barnard. It was
   first published in 1866, and then re-published in 1975 by scholar, rare book
   dealer, and biographer Madeleine B. Stern. Further readership and analysis of
   the novella has helped expand understanding of Alcott's work and interests.
