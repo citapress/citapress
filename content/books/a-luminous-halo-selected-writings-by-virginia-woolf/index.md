@@ -34,10 +34,13 @@ description: >-
   of consciousness to the end.”</i></p>
 
 
-  <p><i>A Luminous Halo</i> presents a small collection of critical writings by a titanic figure in feminist literary history: the one and only Virginia Woolf (1882-1941). From "Modern Fiction" to "How Should One Read a Book," "The Mark on the Wall," and more, these works are essential for any [common] reader hoping to "explore the ideas and challenges that ignited Woolf’s creative imagination—to dig into all the 'proper stuff' of life and art." Here they come together in one volume for the first time, selected and introduced by guest editor JoAnn Borri.</p>
+  <p><i>A Luminous Halo</i> presents a small collection of critical writings by a titanic figure in feminist literary history: the one and only Virginia Woolf (1882-1941). From "Modern Fiction" to "How Should One Read a Book?", "The Mark on the Wall," and more, these works are essential for any [common] reader hoping to "explore the ideas and challenges that ignited Woolf’s creative imagination—to dig into all the 'proper stuff' of life and art." Here they come together in one volume for the first time, selected and introduced by guest editor JoAnn Borri.</p>
 
 
-  <p>This book is sponsored by and created in partnership with The Sitting Room Library in Penngrove, California. Home to the "Woolf Wall," extensive archives related to Woolf and other women writers, and thousands of books, The Sitting Room is dedicated to literature and art by women. </p>
+  <p><b> A paperback version, which includes the addition of the essay “Professions for Women" and the 1932 version of "How Should One Read a Book?" (revised by Woolf) is <a href="https://tinyurl.com/luminous-halo">available to purchase. </a></b></p>
+
+
+  <p>This book is sponsored by and created in partnership with the Sitting Room Library in Penngrove, California. Home to the "Woolf Wall," extensive archives related to Woolf and other women writers, and thousands of books, The Sitting Room is dedicated to literature and art by women. </p>
 
 
   <p><i>Cover illustration: "View from the studio at Monk's House" by Mariana Matos</i></p>
