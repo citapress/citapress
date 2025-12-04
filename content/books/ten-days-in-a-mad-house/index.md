@@ -15,7 +15,7 @@ download_ebook: ""
 download_name: Download EPUB
 third_download_name: Download PDF
 third_download: ten-days-in-a-mad-house.pdf
-language_link: https://citapress.org/es/diez-días-en-un-manicomio/
+language_link: diez-días-en-un-manicomio
 genre:
   - nonfiction
   - autobiography
