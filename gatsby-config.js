@@ -21,7 +21,14 @@ module.exports = {
     },
   },
   plugins: [
-    `gatsby-plugin-sass`,
+    {
+      resolve: `gatsby-plugin-sass`,
+      options: {
+        sassOptions: {
+          silenceDeprecations: ['legacy-js-api'],
+        },
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -165,6 +172,13 @@ module.exports = {
         languages: [`en`, `es`],
         defaultLanguage: `en`,
         redirect: false,
+      },
+    },
+    `gatsby-plugin-sitemap`,
+    {
+      resolve: `gatsby-plugin-offline`,
+      options: {
+        precachePages: [`/`, `/books/*`, `/about`, `/contact`, `/people`],
       },
     },
   ],

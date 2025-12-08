@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm outdated:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
