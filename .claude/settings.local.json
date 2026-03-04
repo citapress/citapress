@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(npm outdated:*)"
+      "Bash(npm outdated:*)",
+      "Bash(npm view:*)",
+      "Bash(do echo:*)"
     ],
     "deny": [],
     "ask": []
