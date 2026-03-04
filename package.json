@@ -8,10 +8,7 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
-    "decap-cms-app": "3.10.1",
-    "decap-cms-media-library-uploadcare": "^3.0.2",
     "gatsby": "^5.15.0",
-    "gatsby-plugin-decap-cms": "^4.0.4",
     "gatsby-plugin-feed": "^5.15.0",
     "gatsby-plugin-google-analytics": "^5.15.0",
     "gatsby-plugin-intl": "^5.10.0",

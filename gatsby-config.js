@@ -153,13 +153,6 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-decap-cms`,
-      options: {
-        enableIdentityWidget: true,
-        modulePath: `${__dirname}/src/cms/cms.js`,
-      },
-    },
-    {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: "G-V1J3CFLFXH",
