@@ -8,8 +8,8 @@ sortingdate: 2016-11-01T11:21:00.000Z
 templateKey: book-page
 author: Nellie Bly
 isbn: 978-1-961368-23-1
-post_image: https://ucarecdn.com/0b04fe2e-4af2-4345-9e99-2ba8314dbb14/diez_dias_cover.jpg
-square_image: https://ucarecdn.com/039a60c3-2d99-4652-ada6-1d619d00f658/diez_dias_square.jpg
+post_image: https://ucarecdn.com/0b04fe2e-4af2-4345-9e99-2ba8314dbb14/-/preview/397x612/diez_dias_cover.jpg
+square_image: https://ucarecdn.com/039a60c3-2d99-4652-ada6-1d619d00f658/-/preview/600x600/diez_dias_square.jpg
 language_link: ten-days-in-a-mad-house
 genre:
   - nonfiction

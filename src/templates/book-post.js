@@ -1,6 +1,7 @@
 import * as React from "react"
 import { graphql } from "gatsby"
 import { injectIntl, Link } from "gatsby-plugin-intl"
+import { withPreview } from "../utils/uploadcare"
 
 import Layout from "../components/layout/layout"
 import Seo from "../components/seo"
@@ -12,7 +13,7 @@ const BookPostTemplate = ({
   intl
 }) => {
   const siteTitle = site.siteMetadata?.title || `Title`;
-  const image = post.frontmatter.post_image;
+  const image = withPreview(post.frontmatter.post_image, 397, 612);
   const where = post.frontmatter.language_link;
 
   const checkFormat = (f) => {

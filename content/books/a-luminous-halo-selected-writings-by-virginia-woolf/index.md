@@ -8,8 +8,8 @@ sortingdate: ""
 templateKey: book-page
 author: Virginia Woolf
 isbn: 978-1-961368-21-7
-post_image: https://ucarecdn.com/f6fc422b-f68d-4d1a-a1e3-5153256c90f4/woolf-cover.jpeg
-square_image: https://ucarecdn.com/14baf505-6fff-4d43-b3a7-52ea8c81ece2/woolf-thumbnail.jpeg
+post_image: https://ucarecdn.com/f6fc422b-f68d-4d1a-a1e3-5153256c90f4/-/preview/397x612/woolf-cover.jpeg
+square_image: https://ucarecdn.com/14baf505-6fff-4d43-b3a7-52ea8c81ece2/-/preview/600x600/woolf-thumbnail.jpeg
 download: a-luminous-halo.pdf
 download_ebook: a-luminous-halo.epub
 download_name: Download PDF

@@ -1,6 +1,7 @@
 // list of books component
 import * as React from "react"
 import { injectIntl, Link } from "gatsby-plugin-intl"
+import { withPreview } from "../../utils/uploadcare"
 
 const BooksList = ({ data, intl }) => {
   const books = data;
@@ -18,7 +19,7 @@ const BooksList = ({ data, intl }) => {
       <ul className="main-list">
         {books.map(book => {
           const title = book.frontmatter.title || book.fields.slug
-          const image = book.frontmatter.square_image;
+          const image = withPreview(book.frontmatter.square_image, 600, 600);
 
           return (
             <li key={book.fields.slug}>
