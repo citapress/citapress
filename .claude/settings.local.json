@@ -3,7 +3,8 @@
     "allow": [
       "Bash(npm outdated:*)",
       "Bash(npm view:*)",
-      "Bash(do echo:*)"
+      "Bash(do echo:*)",
+      "Bash(npm show:*)"
     ],
     "deny": [],
     "ask": []
