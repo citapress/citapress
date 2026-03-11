@@ -4,7 +4,8 @@
       "Bash(npm outdated:*)",
       "Bash(npm view:*)",
       "Bash(do echo:*)",
-      "Bash(npm show:*)"
+      "Bash(npm show:*)",
+      "Bash(cat:*)"
     ],
     "deny": [],
     "ask": []
