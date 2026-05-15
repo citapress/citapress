@@ -26,8 +26,8 @@ title: The Awakening
 releaseformat: Year
 sortingdate: 2018-04-07T00:01:28.967Z
 isbn: 978-1-961368-07-1
-post_image: https://ucarecdn.com/a8deaafb-320d-41b8-a829-ae87f1642bbb/-/preview/397x612/cover-the-awakening.png
-square_image: https://ucarecdn.com/1d8d4a41-25d1-4280-ad13-24bc8dd6a09f/-/preview/801x801/theawakening.png
+post_image: https://ucarecdn.com/a8deaafb-320d-41b8-a829-ae87f1642bbb/cover-the-awakening.png
+square_image: https://ucarecdn.com/1d8d4a41-25d1-4280-ad13-24bc8dd6a09f/theawakening.png
 time_period:
   - 19th
   - modernist

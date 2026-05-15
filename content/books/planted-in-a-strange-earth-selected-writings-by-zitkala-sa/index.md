@@ -8,8 +8,8 @@ sortingdate: 1906-10-01T15:14:00.000Z
 templateKey: book-page
 author: Zitkála-Šá (Gertrude Simmons Bonnin)
 isbn: 978-1-961368-20-0
-post_image: https://ucarecdn.com/461ac210-f690-4d49-9ed5-23ec0fb2640e/-/preview/666x1000/zitkala_cover.jpg
-square_image: https://ucarecdn.com/c5639a45-9f12-46af-a8c5-dbe3116eae01/-/preview/600x600/zitkala_sa_thumbnail.jpg
+post_image: https://ucarecdn.com/461ac210-f690-4d49-9ed5-23ec0fb2640e/zitkala_cover.jpg
+square_image: https://ucarecdn.com/c5639a45-9f12-46af-a8c5-dbe3116eae01/zitkala_sa_thumbnail.jpg
 download: zitkala_sa_zine_citapress_kassie_john.pdf
 download_ebook: ""
 download_name: Zine - Print & Fold

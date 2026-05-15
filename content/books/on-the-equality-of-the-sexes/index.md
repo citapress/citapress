@@ -24,8 +24,8 @@ title: On the Equality of the Sexes
 releaseformat: Year
 sortingdate: 2018-04-09T00:03:16.361Z
 isbn: "1231232131232112"
-post_image: https://ucarecdn.com/4da9dc3e-28ea-458d-9c71-2c217ed00ae3/-/preview/397x612/cover-on-the-equality.png
-square_image: https://ucarecdn.com/109cabab-6606-4d35-ac92-f060aabcf8b9/-/preview/600x600/ontheequality.png
+post_image: https://ucarecdn.com/4da9dc3e-28ea-458d-9c71-2c217ed00ae3/cover-on-the-equality.png
+square_image: https://ucarecdn.com/109cabab-6606-4d35-ac92-f060aabcf8b9/ontheequality.png
 time_period:
   - early-modern
 description: '"When “On the Equality of the Sexes” appeared in 1790 in

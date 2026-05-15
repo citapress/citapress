@@ -9,8 +9,8 @@ templateKey: book-page
 author: Svetlana Alexievich, Nadine Gordimer, Doris Lessing, Toni Morrison,
   Herta Müller, Alice Munro, Wisława Szymborska
 isbn: 978-1-961368-11-8
-post_image: https://ucarecdn.com/122f80b4-1fd1-4553-96de-41a831f120f5/-/preview/380x588/
-square_image: https://ucarecdn.com/d43b0c6d-01bb-424c-aa47-c625fdbb6eba/-/preview/600x600/thumbnail-nobel-lectures-update.jpg
+post_image: https://ucarecdn.com/122f80b4-1fd1-4553-96de-41a831f120f5/
+square_image: https://ucarecdn.com/d43b0c6d-01bb-424c-aa47-c625fdbb6eba/thumbnail-nobel-lectures-update.jpg
 download: Cita-Press-Voices-Around-Me-smalls-zines.pdf
 download_name: Zines - Print & Fold
 genre:
@@ -626,7 +626,7 @@ Copyright © The Nobel Foundation 1993
 
 <p>Can it be that the question about the handkerchief was never about the handkerchief at all, but rather about the acute solitude of a human being?</p>
 
-<img src="https://ucarecdn.com/114fc9f4-2f36-41a6-bac7-8a324646d6bd/-/preview/350x506/muller_lecture_image.jpg" alt="Image of final word collage from Mueller lecture">
+<img src="https://ucarecdn.com/114fc9f4-2f36-41a6-bac7-8a324646d6bd/muller_lecture_image.jpg" alt="Image of final word collage from Mueller lecture">
 
 <p><i>Translated by Philip Boehm</i></p>
 

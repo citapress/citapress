@@ -23,8 +23,8 @@ title: El tapiz amarillo
 releaseformat: Year
 sortingdate: 2018-04-07T23:44:45.775Z
 isbn: "978-1-961368-09-5 "
-post_image: https://ucarecdn.com/20cb5f63-3034-40e5-9079-4e3fb081f6ed/-/preview/397x612/cover-tapiz-amarillo.jpg
-square_image: https://ucarecdn.com/076212e4-4f11-4992-bfb3-d593a0652e3b/-/preview/704x704/thumbnail-yellowwallpaper-es.jpg
+post_image: https://ucarecdn.com/20cb5f63-3034-40e5-9079-4e3fb081f6ed/cover-tapiz-amarillo.jpg
+square_image: https://ucarecdn.com/076212e4-4f11-4992-bfb3-d593a0652e3b/thumbnail-yellowwallpaper-es.jpg
 time_period:
   - modernist
   - 20th
@@ -56,7 +56,7 @@ El feminismo teresiano es estrat&eacute;gico y de supervivencia. Teresa conoc&ia
     <p>Catherine J. Golden, Profesora de inglés y de la Cátedra Tisch de Artes y Letras, Skidmore College. Traducción de Lina Rosas.</p>
 </section>
 <section id="book">
-![illustration of a woman reading in chair](https://ucarecdn.com/f0da12f4-1eb8-413c-b57e-4a34330dd461/-/preview/381x478/illustration-of-woman-writing-in-chair.jpg "woman in chair")
+![illustration of a woman reading in chair](https://ucarecdn.com/f0da12f4-1eb8-413c-b57e-4a34330dd461/illustration-of-woman-writing-in-chair.jpg "woman in chair")
 
   <p>
  No es nada habitual que gente corriente como John y yo alquile casas solariegas para el verano. </p> 
@@ -156,7 +156,7 @@ El dibujo principal es un arabesco recargado, que recuerda a un hongo. Hay que i
 
 <p>Ella no sabía que yo estuviera en la habitación, y cuando le pregunté con voz tranquila, muy tranquila, controlándome al máximo, qué hacía con el papel… ¡Dio media vuelta como si la hubieran sorprendido robando, y me miró con cara de enfadada! ¡Me preguntó que por qué la asustaba!</p>
 
-![illustration of two women talking](https://ucarecdn.com/9a056ed2-8220-4135-94d0-25d033387dc1/-/preview/372x456/yellowwallpaper2.jpg "two women")
+![illustration of two women talking](https://ucarecdn.com/9a056ed2-8220-4135-94d0-25d033387dc1/yellowwallpaper2.jpg "two women")
 
 Luego dijo que el papel lo manchaba todo, que había encontrado manchas amarillas en toda mi ropa y en la de John, y que a ver si teníamos más cuidado. Qué inocente, ¿verdad? ¡Pues yo sé que está estudiando el dibujo, y estoy decidida a ser la única que descubra la solución!
 
@@ -285,4 +285,4 @@ Luego dijo que el papel lo manchaba todo, que había encontrado manchas amarilla
 <p>&mdash;Al final he salido &mdash;he dicho&mdash;, aunque no quisieras ni t&uacute; ni Jane. &iexcl;Y he arrancado casi todo el papel, para que no puedan volver a meterme!</p>
 <p>&iquest;Por qu&eacute; se habr&aacute; desmayado? El caso es que lo ha hecho, y justo al lado de la pared, en mitad de mi camino. &iexcl;O sea que he tenido que pasar por encima de &eacute;l a cada vuelta!</p>
 
-![illustration of a woman leaning over a fallen man with concern](https://ucarecdn.com/6f3fb822-3de6-4686-95f5-80ceb06a439d/-/preview/570x316/yellowwallpaper3.jpg "woman leaning over man")
+![illustration of a woman leaning over a fallen man with concern](https://ucarecdn.com/6f3fb822-3de6-4686-95f5-80ceb06a439d/yellowwallpaper3.jpg "woman leaning over man")

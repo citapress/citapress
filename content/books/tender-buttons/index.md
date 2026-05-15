@@ -8,8 +8,8 @@ sortingdate: 2020-03-27T00:32:41.120Z
 templateKey: book-page
 author: Gertrude Stein
 isbn: 978-1-961368-12-5
-post_image: https://ucarecdn.com/4775b3e7-e851-4c08-83f4-2b303685ede9/-/preview/396x612/cover-tender-buttons.jpg
-square_image: https://ucarecdn.com/9d3d4f4a-749d-4a8a-9ded-7d4ad421005d/-/preview/425x425/thumbnail-tender-buttons.jpg
+post_image: https://ucarecdn.com/4775b3e7-e851-4c08-83f4-2b303685ede9/cover-tender-buttons.jpg
+square_image: https://ucarecdn.com/9d3d4f4a-749d-4a8a-9ded-7d4ad421005d/thumbnail-tender-buttons.jpg
 genre:
   - poetry
 time_period:
@@ -29,7 +29,7 @@ foreword: >-
   <p>Foreword: Gabrielle Welsh is a writer, reader, editor in Chicago, Illinois.</p>
 published: true
 ---
-![Tender Buttons Cover: feat. black and white images on blank background](https://ucarecdn.com/4775b3e7-e851-4c08-83f4-2b303685ede9/-/preview/396x612/cover-tender-buttons.jpg "Tender Buttons Cover")
+![Tender Buttons Cover: feat. black and white images on blank background](https://ucarecdn.com/4775b3e7-e851-4c08-83f4-2b303685ede9/cover-tender-buttons.jpg "Tender Buttons Cover")
 
  
 
