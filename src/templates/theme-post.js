@@ -1,7 +1,6 @@
 import * as React from "react"
 import { graphql } from "gatsby"
 import { injectIntl, Link } from "gatsby-plugin-intl"
-import { withPreview } from "../utils/uploadcare"
 
 import Layout from "../components/layout/layout"
 
@@ -20,7 +19,7 @@ const ThemeBookPostTemplate = ({
       <ul className="main-list">
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
-          const image = withPreview(post.frontmatter.square_image, 600, 600);
+          const image = post.frontmatter.square_image;
 
           return (
             <li key={post.fields.slug}>
