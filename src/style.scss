@@ -722,7 +722,7 @@ iframe{
   display: block;
   img {
     width: 100%;
-    height: auto;
+    height: auto !important;
     transition: all 300ms ease;
   }
 }
