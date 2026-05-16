@@ -5,7 +5,9 @@
       "Bash(npm view:*)",
       "Bash(do echo:*)",
       "Bash(npm show:*)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "Bash(node *)",
+      "Bash(curl -sS -i \"https://citapress.org/.netlify/images?url=https%3A%2F%2Fucarecdn.com%2F195e4c4b-cfb3-4e67-97fa-16cfc6d952d8%2Fwoolfthumbnail.jpeg&w=600&h=600&fit=cover\")"
     ],
     "deny": [],
     "ask": []

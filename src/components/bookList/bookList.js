@@ -1,6 +1,10 @@
 // list of books component
 import * as React from "react"
 import { injectIntl, Link } from "gatsby-plugin-intl"
+import { resizedImage, responsiveSrcSet } from "../../utils/image"
+
+const SQUARE_WIDTHS = [300, 600, 900];
+const SQUARE_SIZES = "(min-width: 768px) 300px, 50vw";
 
 const BooksList = ({ data, intl }) => {
   const books = data;
@@ -18,7 +22,9 @@ const BooksList = ({ data, intl }) => {
       <ul className="main-list">
         {books.map(book => {
           const title = book.frontmatter.title || book.fields.slug
-          const image = book.frontmatter.square_image;
+          const source = book.frontmatter.square_image;
+          const src = resizedImage(source, { width: 600, height: 600 });
+          const srcSet = responsiveSrcSet(source, SQUARE_WIDTHS, { aspectRatio: 1 });
 
           return (
             <li key={book.fields.slug}>
@@ -29,7 +35,18 @@ const BooksList = ({ data, intl }) => {
               >
                 <header>
                   <Link to={book.fields.slug} itemProp="url" className="gatsby-image-wrapper">
-                    <img src={image} alt={title} />
+                    {src && (
+                      <img
+                        src={src}
+                        srcSet={srcSet}
+                        sizes={SQUARE_SIZES}
+                        alt={title}
+                        loading="lazy"
+                        decoding="async"
+                        width={600}
+                        height={600}
+                      />
+                    )}
                   </Link>
                 </header>
                 <section className="d-none">
