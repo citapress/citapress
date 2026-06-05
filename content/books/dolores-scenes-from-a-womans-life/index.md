@@ -24,11 +24,7 @@ description: TBD
 foreword: TBD
 published: false
 ---
-# Dolores: **Scenes From a Woman’s Life**
-
-**SOLEDAD ACOSTA DE SAMPER**
-
-Translated by Sara Abadía
+***Translated by Sara Abadía***
 
 ## Foreword
 
