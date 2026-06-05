@@ -30,9 +30,9 @@ published: false
 
 ## Part I
 
-*La nature est un drame avec de personnages.* —*Victor Hugo
-
-\**Nature is a drama with characters.*
+> *La nature est un drame avec de personnages.** —Victor Hugo
+>
+> \**Nature is a drama with characters.*
 
 *\-* 
 
