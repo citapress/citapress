@@ -82,13 +82,38 @@ Suddenly  we heard the chilling, sharp, unmusical sound of the *chirimia*, whic
 
 “The festivities have begun!” everybody shouted joyfully. 
 
-
-
 [^1]: The author uses the initial N to refer to towns whose names she does not want to specify. In the 2021 edition of the novel [published by Ediciones Uniandes](https://ediciones.uniandes.edu.co/gpd-dolores-9789587980967-680d2b6c9d6c3.html), Carolina Alzate speculates that this could be referring to a town near Natagaima, currently in Tolima. She also noted that, at the time, universities were in the capital, Bogotá, and well-positioned young men went there to get education. Transportation was difficult, so students sometimes spent years abroad.
 
 [^2]: A *cachaco* was a young man in 19th-century Bogotá. Elegant and gentlemanly, he was different from the period’s “dandy” because he was not particularly thought of as overly concerned with his appearance. I have chosen to leave the term in the original Spanish because it was also used to mean traditional men from Bogotá - making it only of the city.
 
 [^3]: The *vacaloca* (literally, “crazy cow”) was a popular 19th-century firework display in Colombia: a cow-shaped frame covered in fireworks, carried or chased through the crowd. Children played with *buscaniguas*, small chasing firecrackers that darted unpredictably across the ground.
 
-[^4]: 
+[^4]: The following paragraphs contain an assortment of popular Colombian 19th-century table games, food, drinks, and music instruments. To define them I followed Alzate, who in turns follows the *Nuevo diccionario de americanismos*, the *Diccionario de bogotanismos*, and the *DLE*; plus general knowledge. Here are the explanations of each one:
+**Games:**
 
+* *Pasa diez* was likely a card or dice game where players “pass ten” or aim for a total of ten — something akin to blackjack or “twenty-one,” but with local variations.
+* In *cachimona*, players drew lines—one per participant—and hid a small ball at the end of one; whoever chose the line with the ball won.
+* In *bis-bis*, bets were placed on a board divided into numbered squares; a winning number was drawn by chance, and the banker paid the corresponding multiplier.
+
+**Food:**
+
+* *Ajiaco* is now a thick potato soup from the Cundiboyacense highlands, though the term once referred to other stews. 
+* *Lechona* is a stuffed roasted pig from Tolima.
+* *Guarruz* is a traditional fried or toasted snack made from corn and rice.
+* *Chimbos* are sweet egg-based confections, often poached in syrup; a traditional dessert.
+* *Cocadas* are chewy coconut sweets.
+* *Panderos* are ring-shaped cookies or pastries made with cassava or corn flour, crunchy and sweet.
+* *Arepas* are cornmeal cakes or patties, grilled or fried.
+
+**Drinks:**
+
+* *Chicha* is fermented from fruits.
+* *Guarapo* is fermente from sugarcane juice.
+* *Mistela* is a mixture of aguardiente, water, sugar, and aromatic spices.
+* In Colombia, *horchatas* are not always the same as the Mexican type; they can be grain- or nut-based drinks.
+
+**Percussion instruments:**
+
+* *Alfandoques* are wooden or bamboo tubes filled with seeds or stones and shaken to produce sound.
+* *Carrascas* are hollowed palm segments with carved grooves, scraped with a stick or bone to create rhythm.
+* *Chirimia:* Wooden wind instrument similar to a clarinet, about seventy centimeters long, with ten holes and a cane reed mouthpiece.
