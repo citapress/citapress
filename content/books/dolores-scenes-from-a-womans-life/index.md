@@ -24,19 +24,21 @@ description: TBD
 foreword: TBD
 published: false
 ---
-## Dolores
+# Dolores: **Scenes From a Woman’s Life**
 
-**Scenes From a Woman’s Life**
-
-SOLEDAD ACOSTA DE SAMPER
+**SOLEDAD ACOSTA DE SAMPER**
 
 Translated by Sara Abadía
 
-*La nature est un drame avec de personnages*
+## Foreword
 
-Victor Hugo
+## Part I
 
-\**Nature is a drama with characters*
+*La nature est un drame avec de personnages.* —*Victor Hugo
+
+\**Nature is a drama with characters.*
+
+*\-* 
 
 “WHAT a pretty girl!” exclaimed Antonio, seeing a group on horseback passing through the middle of the square in the village of N\*\**, just then arrived to take part in the local festivities, appointed for the following day.
 
@@ -45,8 +47,6 @@ Antonio González had been a fellow student and my favorite friend from my youth
 “What I admire the most,” added Antonio, “is the complexion, so white and delicate, as it is rarely to be found in this hot climate of ours.”
 
 Indeed, Dolores’ jet-black eyes and hair contrasted with her blushed complexion and her crimson lips.
-
- 
 
 “You are right,” exclaimed my father, who was standing next to me, “her complexion is foreign to our climate… My God!” he added with some emotion a moment later, “I never thought of it before!”
 
