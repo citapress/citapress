@@ -22,6 +22,6 @@ theme:
 lang: en
 description: a test upload image book
 foreword: no foreword
-published: true
+published: false
 ---
 just simple words here
