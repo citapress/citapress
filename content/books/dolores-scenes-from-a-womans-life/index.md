@@ -7,8 +7,8 @@ releaseformat: Year
 templateKey: book-page
 author: Soledad Acosta de Samper
 isbn: 978-1-961368-24-8
-post_image: src/images/square-coming-soon.jpg
-square_image: src/images/square-coming-soon.jpg
+post_image: https://2x3xqwnyz5.ucarecd.net/8d906255-9cfd-4691-ab66-7a2d0c5d4bc3/comingsoon.jpg
+square_image: https://2x3xqwnyz5.ucarecd.net/b69e5df3-f864-4827-b7fb-afe8df0fddfe/square-coming-soon.jpg
 genre:
   - fiction
   - novella
