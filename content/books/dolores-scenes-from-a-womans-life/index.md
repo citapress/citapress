@@ -173,6 +173,8 @@ I know not how it is, but the heart has sometimes presentments that we cannot ac
 
 Antonio suffered, I was sad, and we returned to my father’s almost without exchanging a word.
 
+
+
 	
 
 [^1]: The author uses the initial N to refer to towns whose names she does not want to specify. In the 2021 edition of the novel [published by Ediciones Uniandes](https://ediciones.uniandes.edu.co/gpd-dolores-9789587980967-680d2b6c9d6c3.html), Carolina Alzate speculates that this could be referring to a town near Natagaima, currently in Tolima. She also noted that, at the time, universities were in the capital, Bogotá, and well-positioned young men went there to get education. Transportation was difficult, so students sometimes spent years abroad.
