@@ -699,7 +699,7 @@ I did my duty and assisted at the interment, which she directed should be in the
 
 Among her papers was found a will leaving her property to me, and a number of compositions in prose and verse. Here are a few fragments of a Diary, the contents of which exhibited most clearly her character, her moral sufferings, her vacillations, and her desperation.
 
-\*\**
+-------
 
 **June 23th, 1843**
 
@@ -721,7 +721,7 @@ Today I received a letter from my cousin Pedro. He is very kind and it is a cons
 **April, 1845**
 
 
-… God, religion, future life! Unfathomable questions! Terrible vacillations of my soul! If my malady was only of the body, if it had not changed my spirit! But the nature of my character changes:  my heart is like that of the beast in this wilderness, cruel, cruel—and cold as the stones I see at the bottom of the running stream. Sometimes in a fit of madness I fly to my flowers, which seem to insult me with their beauty, and I tear them apart, and throw them in the wind. A moment after I come back to my senses, I tenderly look for them and cry when I find them withered. Other times, my soul rebels: it cannot believe so good a God could make me suffer so, and I deny His existence. Afterwards, I humble myself, throw myself on my knees and fall into endless adoration of the Almighty Being……….
+… God, religion, future life![^16] Unfathomable questions! Terrible vacillations of my soul! If my malady was only of the body, if it had not changed my spirit! But the nature of my character changes:  my heart is like that of the beast in this wilderness, cruel, cruel—and cold as the stones I see at the bottom of the running stream. Sometimes in a fit of madness I fly to my flowers, which seem to insult me with their beauty, and I tear them apart, and throw them in the wind. A moment after I come back to my senses, I tenderly look for them and cry when I find them withered. Other times, my soul rebels: it cannot believe so good a God could make me suffer so, and I deny His existence. Afterwards, I humble myself, throw myself on my knees and fall into endless adoration of the Almighty Being……….
 
 
 [^1]: The author uses the initial N to refer to towns whose names she does not want to specify. In the 2021 edition of the novel published by Ediciones Uniandes, Carolina Alzate speculates that this could be referring to a town near Natagaima, currently in Tolima. She also noted that, at the time, universities were in the capital, Bogotá, and well-positioned young men went there to get education. Transportation was difficult, so students sometimes spent years abroad.
@@ -753,6 +753,10 @@ Today I received a letter from my cousin Pedro. He is very kind and it is a cons
 [^14]: *Tresillo*: Card game, usually played by three people.
 
 [^15]: As I mentioned in the Prologue, Acosta de Samper re-wrote and expanded some passages in her English translation. This is one of them (“If it was true…soulless joy?”).
+
+[^16]: In Acosta de Samper’s translation, this passage reads: "...God, Religion, Future life!... What is all this but words, words, empty words that have no meaning to me. XXX XXX with emotion I look up to the sky but I find no loving Being there! What is Religion! I read about it in the good books my uncle sends me but I cannot grasp its aim, I cannot believe in any good it can make me. The future life of my soul has become a thing indifferent to me… If my malady was only of the body, if it had not changed my spirit I could bear it… But I am not the same gentle girl Antonio loved, no; in appearance I am a monster and my heart is like a XXXX, cruel, cruel and as cold as the stones I see at the bottom of the running stream I bathe in to calm my sufferings. I hate all that is beautiful, I tear to pieces all I find: the flowers of my garden and set loose the XXX birds of my aviary….. The paroxysm passes; I come back to my senses at last, to cry over my garden deprived of its beauty and I miss the music of my birds. Sometimes I get up from my bed of sufferings at night while my servants sleep in peace: I run out like a mad person I lift my hands to the sky and howl like a wild animal: 'If there is a God,' I scream, 'why do I endure this when never have I wronged a human creature?'... Then it seems to me He looks down on me with compassionate pity. I feel the hand of the Almighty on my throbbing heart, I bow to the ground and pray humbly… 'Oh! My God, thy will be done'... Those are my best hours……………”
+
+
 
 ## Glossary
 
