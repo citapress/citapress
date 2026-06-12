@@ -337,9 +337,7 @@ It was two months after my return to Bogotá that I received the first letter fr
 >
 > Dolores.
 
-
 After a few days I received this other letter:
-
 
 > I have your letter, my dear cousin, and it has been truly a consolation to me. Thanks! A thousand times thanks! You inquire the circumstances of my father’s disappearance, and how he could possibly have remained in concealment for so long a time, without suspicion or guess that he still lived. 
 >
@@ -358,7 +356,6 @@ After a few days I received this other letter:
 > Knowing that there existed a cottage on the confines of my aunt’s estate, he selected it for his domicile. The children by whom he was accompanied knew nothing of him or his history, and he could therefore with perfect safety send them to the village with letters to your father, revealing to him the fact of his existence, and asking information of his family. You may picture to yourself the astonishment of your father at this revelation, since no doubt existed in the mind of anyone that he had been drowned in the Magdalena; but, persuaded of the truth, he at once communicated it to Aunt Juana, and counselled with her upon what was best to be done. His first impression was to find my father and bring him to his own house, whether willingly or not; but you know the horror of my aunt of any person afflicted with his disease, and that nothing could induce her to accede to such a proposal; she argued that (and I have been assured that in this she was right), satisfied in her own mind I inherited a predisposition to the same disease, it was necessary to prevent the possibility of contagion. It was finally concluded that every necessary comfort be sent him, but that he should remain separated from his family, and his existence continue to be ignored. But my poor, unhappy father! He never desired more than to see me clandestinely and at some distance… You must remember the evening of your departure. He was then concealed in the bushes of the little stream. He saw us happy and heard our laughter.
 >
 > I learn that his disease is in the last stage of its progress… and that at times he suffers terribly; but I am not permitted to see him, or to do anything in alleviation. I am always sad and withdrawn, and I feel that my character has changed completely. But tell me, - what does Antonio say? Does he easily forget me? … a foolish inquiry, isn’t it? Let us talk of yourself. I learn that there are obstacles that will postpone your marriage, but in the mean time you are breathing an atmosphere of hope and confidence. We have lived, Pedro, as brother and sister… to you God will give happiness, to me… but so be it. He knows how much I can endure and He will send me strength and resignation to his will. Good-bye…
->
 
 I could not be otherwise but deeply moved by these news from N\*\**. The state of Dolores’ mind that the letter disclosed, at times of morbid grief and at times exalted, alarmed me. I immediately wrote to my father that something must be done to distract her from continually brooding upon the painful condition of her father, which could predispose her more than anything to having an outbreak of his disease. A thought consoled me: that it seldom appeared in the children of a leper, oftener passing to the next generation and appearing in the grandchildren. Nevertheless, I could fully appreciate and approve of the honorable feeling that influenced her in desiring to break off any engagement with Antonio. I could not, however, bring myself suddenly to destroy the hopes of my friend. I saw him so happy in his love, the energy and force that it inspired his work, a power and vigor that would enable him to triumph over every obstacle. To destroy so fair a promise appeared to me no less than wanton unnecessary cruelty. 
 
@@ -612,11 +609,11 @@ A few days after, I joined my travelling companion at Honda. We descended the Ma
 
 [^12]: *Hacienda*: Country estate, plantation.
 
-[^13]:*Lazaroth* derives from Lazarus of Bethany, the biblical figure resurrected by Jesus. In medieval Europe, “Lazarus” became a generic name for the poor, the sick, and especially lepers, turning “lazarinos” into a term associated with social exclusion, illness, and abandonment. See *Oxford English Dictionary*, s.v. “Lazar” and “lazaretto”; *Encyclopaedia Britannica*, “Lazarus.”
+[^13]: *Lazaroth* derives from Lazarus of Bethany, the biblical figure resurrected by Jesus. In medieval Europe, “Lazarus” became a generic name for the poor, the sick, and especially lepers, turning “lazarinos” into a term associated with social exclusion, illness, and abandonment. See *Oxford English Dictionary*, s.v. “Lazar” and “lazaretto”; *Encyclopaedia Britannica*, “Lazarus.”
 
 ## Glossary
 
-**Games:**
+**Games & Amusements:**
 
 * *Pasa diez* was likely a card or dice game where players “pass ten” or aim for a total of ten — something akin to blackjack or “twenty-one,” but with local variations.
 * In *cachimona*, players drew lines—one per participant—and hid a small ball at the end of one; whoever chose the line with the ball won.
