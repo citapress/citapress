@@ -279,7 +279,23 @@ She did not reply but with a tender look intended for my absent friend; and then
 
 [^3]: The *vacaloca* (literally, “crazy cow”) was a popular 19th-century firework display in Colombia: a cow-shaped frame covered in fireworks, carried or chased through the crowd. Children played with *buscaniguas*, small chasing firecrackers that darted unpredictably across the ground.
 
-[^4]: The following paragraphs contain an assortment of popular nineteenth-century Colombian table games, food, drinks, and music instruments. To define them I followed Alzate, who in turns follows the *Nuevo diccionario de americanismos*, the *Diccionario de bogotanismos*, and the *DLE*; plus general knowledge. See the glossary for the explanations of each one:
+[^4]: The following paragraphs contain an assortment of popular nineteenth-century Colombian table games, food, drinks, and music instruments. To define them I followed Alzate, who in turns follows the *Nuevo diccionario de americanismos*, the *Diccionario de bogotanismos*, and the *DLE*; plus general knowledge. See the glossary for the explanations of each one.
+
+[^5]: Lord Chesterfield was an English statesman and writer (1694–1773), author of Letters to His Son and Letters to His Godson, celebrated for their wit, elegance, and daring style (Alzate).
+
+[^6]:Understood, as it is in most South American countries today, as the continent of America, and not just the country of the United States.
+
+[^7]: *Ñapangas* or *cintureras*: Mestiza or mulatta women who worked as peasants or domestic servants. According to Soledad Acosta de Samper in *Un chistoso de aldea* (1905), *cinturera* referred in the lowlands to women who wore skirts without bodices (Alzate, *Nuevo diccionario de americanismos*).
+
+[^8]:  *Fula*: thin cotton fabric, dyed indigo.
+
+[^9]: *Bambuco*: Dance with a rural atmosphere, typical of the Colombian Andean region, in which couples perform movements and figures that imitate the conquest of women by men. 
+
+[^10]: *Ruanas*: A type of poncho.
+
+[^11]: *Trapiche*: Sugar mill.
+
+[^12]: *Hacienda*: Country estate, plantation.
 
 
 ## Glossary
@@ -313,18 +329,3 @@ She did not reply but with a tender look intended for my absent friend; and then
 * *Carrascas* are hollowed palm segments with carved grooves, scraped with a stick or bone to create rhythm.
 * *Chirimia:* Wooden wind instrument similar to a clarinet, about seventy centimeters long, with ten holes and a cane reed mouthpiece.
 
-[^5]: Lord Chesterfield was an English statesman and writer (1694–1773), author of Letters to His Son and Letters to His Godson, celebrated for their wit, elegance, and daring style (Alzate).
-
-[^6]:Understood, as it is in most South American countries today, as the continent of America, and not just the country of the United States.
-
-[^7]: *Ñapangas* or *cintureras*: Mestiza or mulatta women who worked as peasants or domestic servants. According to Soledad Acosta de Samper in *Un chistoso de aldea* (1905), *cinturera* referred in the lowlands to women who wore skirts without bodices (Alzate, *Nuevo diccionario de americanismos*).
-
-[^8]:  *Fula*: thin cotton fabric, dyed indigo.
-
-[^9]: *Bambuco*: Dance with a rural atmosphere, typical of the Colombian Andean region, in which couples perform movements and figures that imitate the conquest of women by men. 
-
-[^10]: *Ruanas*: A type of poncho.
-
-[^11]: *Trapiche*: Sugar mill.
-
-[^12]: *Hacienda*: Country estate, plantation.
