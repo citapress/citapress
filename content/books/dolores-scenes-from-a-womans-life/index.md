@@ -54,9 +54,9 @@ published: false
 > *Nature is a drama with characters.*
 
 
-“WHAT a pretty girl!” exclaimed Antonio, seeing a group on horseback passing through the middle of the square in the village of N\*\** [^1], just then arrived to take part in the local festivities, appointed for the following day.
+“WHAT a pretty girl!” exclaimed Antonio, seeing a group on horseback passing through the middle of the square in the village of N\*\*\* [^1], just then arrived to take part in the local festivities, appointed for the following day.
 
-Antonio González had been a fellow student and my favorite friend from my youth. Upon saying goodbye at university, both of us having obtained the degree of Doctor, he offered to visit my town during the parish festivals, and accordingly had arrived the day before at N\*\**. Looking for amusement – and finding everything interesting, with the enthusiasm of early youth – we were overseeing the construction of the barriers in the square for the bullfight happening the next day. It was then that, like I said before, there passed a party on horseback, in the midst of which stood out, like a precious lily in the middle of a field, the most beautiful flower of the district: my cousin Dolores.
+Antonio González had been a fellow student and my favorite friend from my youth. Upon saying goodbye at university, both of us having obtained the degree of Doctor, he offered to visit my town during the parish festivals, and accordingly had arrived the day before at N\*\*\*. Looking for amusement – and finding everything interesting, with the enthusiasm of early youth – we were overseeing the construction of the barriers in the square for the bullfight happening the next day. It was then that, like I said before, there passed a party on horseback, in the midst of which stood out, like a precious lily in the middle of a field, the most beautiful flower of the district: my cousin Dolores.
 
 “What I admire the most,” added Antonio, “is the complexion, so white and delicate, as it is rarely to be found in this hot climate of ours.”
 
@@ -66,9 +66,9 @@ Indeed, Dolores’ jet-black eyes and hair contrasted with her blushed complexio
 
 Neither Antonio nor I understood the exclamation of the old man. Years later we would remember the impression that vague fear made on us, which seemed so strange…
 
-My father was the physician of N\*\**, and would have been noted for his practical science and his charity in any other village more civilized than ours. Contrary to the general custom of parents, he had always wanted me to study medicine, in the hope, as he expressed himself, that I might one day excel him in the profession.
+My father was the physician of N\*\*\*, and would have been noted for his practical science and his charity in any other village more civilized than ours. Contrary to the general custom of parents, he had always wanted me to study medicine, in the hope, as he expressed himself, that I might one day excel him in the profession.
 
-An only son, satisfied with my own luck, pampered by my father, and well loved by a large family, I had always felt happy in my lot. I was then at N\*\** temporarily, to arrange some matters of business and soon be able to finalize my union to a young lady whom I had met and fallen in love with in Bogotá. 
+An only son, satisfied with my own luck, pampered by my father, and well loved by a large family, I had always felt happy in my lot. I was then at N\*\*\* temporarily, to arrange some matters of business and soon be able to finalize my union to a young lady whom I had met and fallen in love with in Bogotá. 
 
 Of all my relations, my aunt Juana, a very respectable and wealthy lady, had always been the most attached to me. She had protected and taken care of me from childhood, since the death of my mother. Dolores, daughter of a deceased sister, having lost both father and mother, had also lived with her for many years. And so aunt Juana divided her affections between her favorite niece and nephew.
 
