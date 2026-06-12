@@ -189,7 +189,7 @@ After remaining a few days more in our village, Don Basilio took his departure i
 
 The village festival concluded, the company began at once to separate, each to his own home.
 
-The day before the departure of Antonio, I arranged a party consisting of the principal persons who remained. At a few hours’ ride there runs a noble stream, its banks shadowed by lofty trees, and a near *trapiche* that offers resources and a place to leave the horses— the favorite place for those who organize excursions in the surrounding country.
+The day before the departure of Antonio, I arranged a party consisting of the principal persons who remained. At a few hours’ ride there runs a noble stream, its banks shadowed by lofty trees, and a near *trapiche*[^11] that offers resources and a place to leave the horses— the favorite place for those who organize excursions in the surrounding country.
 
 	At seven in the morning about twenty collected at the door of Aunt Juana to await Dolores, who did not long detain us, but came mounted upon a spirited horse, with a flowing dress and a little round hat, her veil in the wind, her appearance striking, and her look most gracious. After a noisy passage through the streets, we took a narrow road along some horse pastures that brought us into groups of those who especially sympathized together. I left Antonio to take the side of Dolores, remembering that some author whose name I forget said that there was no better time for a declaration than when mounted on horseback. And indeed the liveliness of the ride, the wind blowing all around you, the possibility to spur on or rein in your horse, of stalling or riding ahead without apparent reason, to look away or to find your partner’s eye; all of this enlivens the spirit and allows for occasions to be alone even in the midst of a large group. Notwithstanding this, Antonio remained silent for the most of the ride, and the expression of both partook of deep but sweet melancholy, possibly because they knew that they were to separate that night.
 
@@ -244,3 +244,5 @@ The day before the departure of Antonio, I arranged a party consisting of the pr
 [^9]: *Bambuco*: Dance with a rural atmosphere, typical of the Colombian Andean region, in which couples perform movements and figures that imitate the conquest of women by men. 
 
 [^10]: *Ruanas*: A type of poncho.
+
+[^11]: *Trapiche*: Sugar mill.
