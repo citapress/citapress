@@ -191,11 +191,9 @@ The village festival concluded, the company began at once to separate, each to h
 
 The day before the departure of Antonio, I arranged a party consisting of the principal persons who remained. At a few hours’ ride there runs a noble stream, its banks shadowed by lofty trees, and a near *trapiche*[^11] that offers resources and a place to leave the horses— the favorite place for those who organize excursions in the surrounding country.
 
-```
 At seven in the morning about twenty collected at the door of Aunt Juana to await Dolores, who did not long detain us, but came mounted upon a spirited horse, with a flowing dress and a little round hat, her veil in the wind, her appearance striking, and her look most gracious. After a noisy passage through the streets, we took a narrow road along some horse pastures that brought us into groups of those who especially sympathized together. I left Antonio to take the side of Dolores, remembering that some author whose name I forget said that there was no better time for a declaration than when mounted on horseback. And indeed the liveliness of the ride, the wind blowing all around you, the possibility to spur on or rein in your horse, of stalling or riding ahead without apparent reason, to look away or to find your partner’s eye; all of this enlivens the spirit and allows for occasions to be alone even in the midst of a large group. Notwithstanding this, Antonio remained silent for the most of the ride, and the expression of both partook of deep but sweet melancholy, possibly because they knew that they were to separate that night.
 
 We accompanied the ladies to their banks of the stream, where we left them to their bath and returned to the *trapiche*, all in fine spirits except Antonio, who did not recover until the picnic was ready and ladies again joined us. The country was beautiful: the fragrance of flowers, the whirr of insects, the murmur of the river that flowed downstream among glistening rocks by our side, the noise of the wind in its passage through the overhanging limbs and leaves of the trees, and all the life and movement of a tropical climate invited enjoyment and repose, and the lazy bliss of living. Antonio and Dolores had separated from the rest, and were seated at the foot of a large rock covered with yellow moss. Dolores, in a state of abstraction, was occupied in tearing out the petals of a bunch of flowers in her hand, and throwing them into the river that splashed golden sand at her feet, while both watched with interest their fate in the troubled current. Some fell in an eddy and ran ashore upon the soft back; others into the full current and were soon engulfed in a whirlpool, and disappeared forever; others set out quickly and joyfully but falling into a pool the rocks had formed, there they stumbled and unable to escape, were saturated with water and sank little by little; a few, more fortunate than the rest, collected together and found their way to the middle of the river, descending in mid-current, on and on, without an obstacle.
-```
 
 “Do you take the philosophy of the scene before you?” said I, approaching from behind. Antonio and Dolores, both startled by the suddenness of the appeal, communicated with each other by looks more eloquent than language.
 
@@ -219,7 +217,7 @@ Within half an hour they separated, perhaps forever—two souls who seem born to
 
 When alone, Antonio confessed to me that he had not been able to speak to Dolores of his love; that it being so noble and vehement, he could not find the words to express it. He beseeched me to say to my cousin that he had not formally asked her hand yet, because his position did not entitled him to do it, but, hoping that he was not indifferent to her, asked me to beg her not to forget him.
 
-On the same day that Antonio took leave, on his return to Bogotá, Aunt Juana removed with Dolores to her *hacienda* in the country. I had witnessed the separation of Dolores and Antonio, and although her lips presented a smile, I knew that her heart would require some consolation. On the following Sunday, therefore, I set out early for the *hacienda*, called The Spring, and situated on an extensive plain, at the foot of lofty mountains covered with wood, in which cattle and a large cocoa plantation ranged. 
+On the same day that Antonio took leave, on his return to Bogotá, Aunt Juana removed with Dolores to her *hacienda*[^12] in the country. I had witnessed the separation of Dolores and Antonio, and although her lips presented a smile, I knew that her heart would require some consolation. On the following Sunday, therefore, I set out early for the *hacienda*, called The Spring, and situated on an extensive plain, at the foot of lofty mountains covered with wood, in which cattle and a large cocoa plantation ranged. 
 
 On arrival I found my Aunt was absent, and the house silent. I dismounted, however, and gave the horse to a servant, passed through the patio, and went directly to the quarter occupied by Dolores, who I was told I should find there. 
 
@@ -272,3 +270,5 @@ On arrival I found my Aunt was absent, and the house silent. I dismounted, howev
 [^10]: *Ruanas*: A type of poncho.
 
 [^11]: *Trapiche*: Sugar mill.
+
+[^12]: *Hacienda*: Country estate, plantation.
