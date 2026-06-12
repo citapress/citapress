@@ -101,6 +101,32 @@ Suddenly  we heard the chilling, sharp, unmusical sound of the *chirimia*, whic
 
 “The festivities have begun!” everybody shouted joyfully. 
 
+Indeed, back then it was believed in towns that there could be no popular festivities if they were not presided over by the sound of the *chirimia*. On this occasion it was played by an old fellow who went about from village to village, party to party. He was always received with pleasure, and treated with great deference, as an indispensable guest.
+
+The *chirimia* is not an instrument exclusively American, something like a Scotch bag-pipe, or the *gaeta* of Galicia or Savoy. A similar instrument is found among the Greek sculptures, and it was on one of this description that Nero played, its discordant sounds harmonizing with his own disposition.
+
+After having inspected the tables of the square, where hilarity reigned supreme, we next proceeded to a *ñapangas* or *cintureras* ball. Such was the composure of these women, that even the ladies liked to go and see them dance, without fear that their manners may be criticized. It had been announced beforehand that the ball would be full and noisy, and so it was; in approaching the place we found ourselves among a curious crowd, who surrounded the door or hung from the windows overlooking the saloon. Upon our arrival they made room for us however; the ladies found a place near the windows and us gentlemen stood behind them. 
+
+The saloon was of ordinary shape, with a brick floor polished up for the occasion. On the walls there were some colored prints of *William Tell*, and *Matilda of the Crusades*. Four long sofas of rawhide, and some chairs of unequal size and shape were its only decoration; there were alcoves on either side, with red curtains in place of wooden doors, and along the walls strips of wood had been nails, supporting tallow candles, by the din light of which we could see the ladies seated around the room.
+
+The *ñapangas* wore petticoats of blue *fula* —fringed at the bottom, shifts bordered with red and black, a red or blue handkerchief, and a little straw hat trimmed with a wide ribbon. Some took off their hats in dancing, and displayed long black hair, parted in double braids which hung down their backs, terminating with a ribbon tie.
+
+The men, all of whom had pretensions of being social *cachacos*, smoked and drank small cups of aguardiente, fraternizing with the musicians, who, placed in the anterior door of the saloon, were occupied in tuning their instruments. 
+
+“Get up, Don Basilio!” a cry came from the doorway as the band began to play an enlivening *bambuco.* “Your partner’s waiting for you!”
+
+All eyes were immediately turned upon a man about forty years of age: fat, close shaven, a wide face and retreating forehead; there was hardness in his look, and a habit of closing one eye when he conversed gave to his countenance a singularly disagreeable expression.
+
+“We shall have sufficient amusement tonight," said Antonio, “if Don Basilio dances."
+
+“Quiet," I answered. “You will never be pardoned if he hears you; that man is presumptuous and revengeful."
+
+“I will dance," exclaimed Don Basilio, with an air of importance, “if Julian will accompany me."
+
+“Go forwards, Julian," the *cachacos* shouted and, forcing him into the middle of the room, they compelled him to take the hand of a merry, easygoing *ñapanga*, whose sparkling black eyes contrasted well with an orange-blossom in her hair*.* In the meantime Don Basilio took another, saying something in her ear that made her blush, and, with a complacent air, approaching immediately in front of her, began to dance *bambuco*. The girl, who was light and young, sprang to the floor and wheeled about the fat figure of her partner, making him ridiculous in his efforts to follow her; it was like a bear dancing with a kitten. Although too effeminate and full of affectation, Julian, with the other girl, made a pleasanter quartette.
+
+But while they finish dancing, let us say something of these characters, some of whom are connected with our story.
+
 [^1]: The author uses the initial N to refer to towns whose names she does not want to specify. In the 2021 edition of the novel [published by Ediciones Uniandes](https://ediciones.uniandes.edu.co/gpd-dolores-9789587980967-680d2b6c9d6c3.html), Carolina Alzate speculates that this could be referring to a town near Natagaima, currently in Tolima. She also noted that, at the time, universities were in the capital, Bogotá, and well-positioned young men went there to get education. Transportation was difficult, so students sometimes spent years abroad.
 
 [^2]: A *cachaco* was a young man in 19th-century Bogotá. Elegant and gentlemanly, he was different from the period’s “dandy” because he was not particularly thought of as overly concerned with his appearance. I have chosen to leave the term in the original Spanish because it was also used to mean traditional men from Bogotá - making it only of the city.
