@@ -701,7 +701,27 @@ Among her papers was found a will leaving her property to me, and a number of co
 
 \*\**
 
+**June 23th, 1843**
 
+A year has passed, a whole year since I’ve been suffering alone—isolated, abandoned by the world in this wilderness. Oh, if anybody would remember me! If it was so, I know I would feel bursts of consolation, and this broken heart would be inspired to resign. Afar in the distant plain they run about and enjoy themselves. Tomorrow is the Saint John’s Eve, the anniversary of the festival in N\*\**. The festival! What memories come to mind! Today I found by chance a bouquet of withered jasmine. Could it be believed that this monster I see in the glass is the same pretty girl who got these flowers as a gift? Antonio, Antonio, you whom I love in the secret chamber of my soul, whose memory is my only consolation. Antonio, do you perchance think of the unhappy girl you loved? If you knew how your image haunts me! I hear your name is the wind that sighs amongst the foliage of the trees, in the running stream; the scent of my favorite flowers bring to me the thought of you; I see your name in the pages of the books I read; my pen traces it in every page I write; in the evening when I look on the beauty of the sky I see it drawn with the brightest stars; in the sand of the stream I bathe in; I see your form, oh! beloved Antonio, in the clouds when the sun sets in glory, and I hear your voice in my dreams by night… My God! That this love should be so strong, so deep, so wide, and my lips condemned to be forever silent! …………………
+
+**December 8th, 1843**
+
+
+Life is to me like a black coffin I am already shrouded in. Is death perhaps the beginning of another life? What irony! At the bottom of my mind I can only find the feeling of nothingness. If God was really just and merciful like people say, would he allow such a wretched soul like myself to suffer such? Oh! Death, come, come to the aid of the unhappiest being on earth! Loneliness is everywhere, silence, stillness, the maddening calmness of Nature… The sky fills me with horror with its ghastly beauty, the moon does not move me with its exalted beauty, the plains bore me, the flowers bring memories of my past life, why come and cause such deep feelings to one that no longer exists?…If it was true that death is the beginning of another life, better than this one, or worse, I would not care, I would seek it without delay. But I believe in nothing. Religion has dropped from my soul as through a siève. If God lived could He be so unjust? What have I done in my drawing into womanhood that I should be so punished? Why does He not send death to deliver me from my sufferings? If He hears my voice of despair why does He not take me at last to His breast… No, no I cannot believe! Heaven is mute and empty and I am alone on earth… Sometimes the sky in all its beauty is to me so silent and so awful that I hide myself in the darkest corner of my cottage. Why does the splendid sun send his brilliant light to me? Why does the moon insult my misery with its supernatural beauty upon the blue expanse of the heavenly vault? I turn my eyes away from the distant freen fields, the wavering boughs of the trees, the splendid flowers that bring to me recollection of my past and transient happy life. Sun, moon, stars, murmuring waters, why, oh! Why come to pierce my agonized heart with soulless joy?[^15]
+
+**May, 1844** 
+
+…horrible torment… my awful illness does not continue to advance as it ought to. Will I live great many years still? Sometimes I wake at night after an agitated dream. I fancy I have found at last a pistol and try to discharge it but cannot do it; in my efforts to fire I wake to find myself living. Other times I feel like I was sinking, sinking in a river. I know death awaits me at the bottom of the stream, but when I feel myself drowning, I awake from an intense surge of joy.
+
+**February, 1845**
+
+Today I received a letter from my cousin Pedro. He is very kind and it is a consolation to find I am not yet utterly forgotten by all besides my good uncle… He wrote to me about his quest and studious life, his projects for the future, his schemes… oh! No, I said his letter had been a comfort to me, an alleviation in my misery, but it is not true. Men are the cruelest beings ever created: to mention a future to one that has none of her own, a poor creature that is cut from the living. In the Middle Ages when it was found out that a person was afflicted by this mysterious malady he was considered as one dead. He was taken to church, and the priests read over him the funeral service; after that he was deprived of all communication with the worlds, he never knew any more what happened in it, he had nothing to do with his fellow creatures; those that loved him once considered him dead… I am not like them; I flew to a wilderness to bury myself alive, to forget and be forgotten by all those I left in the land of the living. To love, what does it mean? To love is to feel pleasant emotions: the doctors say that lepers lose their nervous system. Then, for what purpose do I feel? Why do I tenderly recall those I loved? ……………………
+
+**April, 1845**
+
+
+… God, religion, future life! Unfathomable questions! Terrible vacillations of my soul! If my malady was only of the body, if it had not changed my spirit! But the nature of my character changes:  my heart is like that of the beast in this wilderness, cruel, cruel—and cold as the stones I see at the bottom of the running stream. Sometimes in a fit of madness I fly to my flowers, which seem to insult me with their beauty, and I tear them apart, and throw them in the wind. A moment after I come back to my senses, I tenderly look for them and cry when I find them withered. Other times, my soul rebels: it cannot believe so good a God could make me suffer so, and I deny His existence. Afterwards, I humble myself, throw myself on my knees and fall into endless adoration of the Almighty Being……….
 
 
 [^1]: The author uses the initial N to refer to towns whose names she does not want to specify. In the 2021 edition of the novel published by Ediciones Uniandes, Carolina Alzate speculates that this could be referring to a town near Natagaima, currently in Tolima. She also noted that, at the time, universities were in the capital, Bogotá, and well-positioned young men went there to get education. Transportation was difficult, so students sometimes spent years abroad.
@@ -731,6 +751,8 @@ Among her papers was found a will leaving her property to me, and a number of co
 [^13]: *Lazaroth* derives from Lazarus of Bethany, the biblical figure resurrected by Jesus. In medieval Europe, “Lazarus” became a generic name for the poor, the sick, and especially lepers, turning “lazarinos” into a term associated with social exclusion, illness, and abandonment. See *Oxford English Dictionary*, s.v. “Lazar” and “lazaretto”; *Encyclopaedia Britannica*, “Lazarus.”
 
 [^14]: *Tresillo*: Card game, usually played by three people.
+
+[^15]: As I mentioned in the Prologue, Acosta de Samper re-wrote and expanded some passages in her English translation. This is one of them (“If it was true…soulless joy?”).
 
 ## Glossary
 
