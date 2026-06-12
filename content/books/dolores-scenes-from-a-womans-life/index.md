@@ -47,16 +47,15 @@ published: false
 
 ## Foreword
 
-## Part I
+## Part One
 
 > *La nature est un drame avec de personnages.* —Victor Hugo
 >
 > *Nature is a drama with characters.*
 
+“WHAT a pretty girl!” exclaimed Antonio, seeing a group on horseback passing through the middle of the square in the village of N\*\** [^1], just then arrived to take part in the local festivities, appointed for the following day.
 
-“WHAT a pretty girl!” exclaimed Antonio, seeing a group on horseback passing through the middle of the square in the village of N\*\*\* [^1], just then arrived to take part in the local festivities, appointed for the following day.
-
-Antonio González had been a fellow student and my favorite friend from my youth. Upon saying goodbye at university, both of us having obtained the degree of Doctor, he offered to visit my town during the parish festivals, and accordingly had arrived the day before at N\*\*\*. Looking for amusement – and finding everything interesting, with the enthusiasm of early youth – we were overseeing the construction of the barriers in the square for the bullfight happening the next day. It was then that, like I said before, there passed a party on horseback, in the midst of which stood out, like a precious lily in the middle of a field, the most beautiful flower of the district: my cousin Dolores.
+Antonio González had been a fellow student and my favorite friend from my youth. Upon saying goodbye at university, both of us having obtained the degree of Doctor, he offered to visit my town during the parish festivals, and accordingly had arrived the day before at N\*\**. Looking for amusement – and finding everything interesting, with the enthusiasm of early youth – we were overseeing the construction of the barriers in the square for the bullfight happening the next day. It was then that, like I said before, there passed a party on horseback, in the midst of which stood out, like a precious lily in the middle of a field, the most beautiful flower of the district: my cousin Dolores.
 
 “What I admire the most,” added Antonio, “is the complexion, so white and delicate, as it is rarely to be found in this hot climate of ours.”
 
@@ -66,9 +65,9 @@ Indeed, Dolores’ jet-black eyes and hair contrasted with her blushed complexio
 
 Neither Antonio nor I understood the exclamation of the old man. Years later we would remember the impression that vague fear made on us, which seemed so strange…
 
-My father was the physician of N\*\*\*, and would have been noted for his practical science and his charity in any other village more civilized than ours. Contrary to the general custom of parents, he had always wanted me to study medicine, in the hope, as he expressed himself, that I might one day excel him in the profession.
+My father was the physician of N\*\**, and would have been noted for his practical science and his charity in any other village more civilized than ours. Contrary to the general custom of parents, he had always wanted me to study medicine, in the hope, as he expressed himself, that I might one day excel him in the profession.
 
-An only son, satisfied with my own luck, pampered by my father, and well loved by a large family, I had always felt happy in my lot. I was then at N\*\*\* temporarily, to arrange some matters of business and soon be able to finalize my union to a young lady whom I had met and fallen in love with in Bogotá. 
+An only son, satisfied with my own luck, pampered by my father, and well loved by a large family, I had always felt happy in my lot. I was then at N\*\** temporarily, to arrange some matters of business and soon be able to finalize my union to a young lady whom I had met and fallen in love with in Bogotá. 
 
 Of all my relations, my aunt Juana, a very respectable and wealthy lady, had always been the most attached to me. She had protected and taken care of me from childhood, since the death of my mother. Dolores, daughter of a deceased sister, having lost both father and mother, had also lived with her for many years. And so aunt Juana divided her affections between her favorite niece and nephew.
 
@@ -222,7 +221,9 @@ On arrival I found my Aunt was absent, and the house silent. I dismounted, howev
 
 The favourite seat of my cousin was in a wide corridor in the rear of the house, overlooking an orchard and garden, with some tall mangoes, oranges, and lemons of the choicest kinds, rose apples and pomegranates; the trunks and limbs of the largest trees entwined with star jessamine and convolvulus of several varieties, with musk-rose and geraniums. Under a canopy of pomegranate and jessamine stood a water pond, whose constant murmur harmonized with the voices of numerous small birds. The aviary of Dolores was well known in the vicinity. It occupied one end of the corridor. In it were collected birds from every quarter and climate who had taught themselves how to live together peacefully. There sang the harmonious blackbirds, the cheerful oriole and the artistic troupial, the noisy sugarbirds, and the bluebird and the cardinal. In the midst of flowers, sewing, reading, and singing with her birds, Dolores passed the day. In approaching the house you might often hear the hum of the aviary and the sweet voice of the mistress at the same time.
 
-	But on the day of my arrival silence prevailed throughout the place. All nature appeared paralyzed by the fiery sun and suffocating heat. The birds were silent and nothing was heard but the trickling water of the pond, winding its way by gentle leaps through beds of flowers. From afar I could see Dolores, simply dressed in white, with no other adornment than her beautiful dark hair. She was sitting upon a low stool, with one arm resting upon her usual seat and supporting her head, while her other little hand, white and rosy, hung loosely by her side. I stopped to contemplate the charming figure, supposing her asleep, but she had heard the jingle of my spurs approaching, and rose immediately, striving to conceal the tears that filled her eyes, and gathering up a paper that lay with her needlework.
+```
+But on the day of my arrival silence prevailed throughout the place. All nature appeared paralyzed by the fiery sun and suffocating heat. The birds were silent and nothing was heard but the trickling water of the pond, winding its way by gentle leaps through beds of flowers. From afar I could see Dolores, simply dressed in white, with no other adornment than her beautiful dark hair. She was sitting upon a low stool, with one arm resting upon her usual seat and supporting her head, while her other little hand, white and rosy, hung loosely by her side. I stopped to contemplate the charming figure, supposing her asleep, but she had heard the jingle of my spurs approaching, and rose immediately, striving to conceal the tears that filled her eyes, and gathering up a paper that lay with her needlework.
+```
 
 After the first salutation was over, seeing the paper, I asked, “What is this, cousin?”
 
@@ -272,6 +273,321 @@ She did not reply but with a tender look intended for my absent friend; and then
 >
 > *Pain is a light that illuminates our lives* 
 
+It was two months after my return to Bogotá that I received the first letter from Dolores, which I have preserved with many others as remembrances of my cousin, whose distinct talent was unknown by everyone but myself.
+
+> MY DEAR COUSIN: I was waiting until I received notice of your arrival before writing to you; since then I have wished to do it, but have been prevented by occurrences at home and in my life that rendered it impossible… I do not know if I should confide even to you the horrible secret which has been laid open to me; but my heart requires relief, and I well know that you are not only my brother, but a dear friend, who will truly sympathize with me in my distress. I have read somewhere recently that there is a security in friendship that is wanting in love, and that makes it both indissoluble and double in its joy. Oh! friendship is now my only consolation. All other sentiment is prohibited to me…It is but a short time, you must well remember it, I saw the world as beautiful, happy, and charming; everything appeared to smile upon me… but now, great God!... an earthquake has overturned and converted to ruins the temple of all my hopes!
+>
+> Pardon, Pedro, this circumlocution, with which I try to delay confessing my sorrows. It will indicate to you the terror I feel to see in writing what I dare not think of.
+>
+> But courage! I will begin—
+>
+> Some days after your departure, it was in the evening, and I was on my way to the apartment of my aunt, when in passing the corridor of the outer patio they told me that an old countryman, living on the confines of the estate, was inquiring for her; he had a letter in his hand, and, understanding that it was for my aunt, I took it from him, intending to deliver it, when she, seeing from the corridor above that old Simon had brought it, cried out vehemently, “Throw that letter away, Dolores; throw it away!” I incontinently did as I was bid, and let it fall. My aunt then obliged me to wash my hands, and, ordering a brazier, only touched the letter after fumigating it. 
+>
+> I was so much astonished at the scene before me that I did not at first attempt to ascertain the cause of it. To me it appeared as a jest, and I exclaimed, laughing, “Is the paper poisoned, aunt? Has old Simon taken lessons from Borgia, of which we were reading?”
+>
+> “Don’t laugh, my child," said she gravely, “the poison that this letter may contain is more terrible than anything ever invented by man."
+>
+> Having said this, she read the letter, and, having finished it, threw the paper into the brazier, and saw it consumed to the last scrap. 
+>
+> “Now it is proper that you should explain the mystery to me”
+>
+> “There is nothing romantic in it," she interrupted me to say with a sad tone, “Do you not know that leprosy exists in our immediate vicinity? One of these unfortunates it was who sent the letter."
+>
+> “Who?” I asked.
+>
+> “One to whom I have been accustomed to send assistance, and who lives in the neighborhood of Simon."
+>
+> “Poor man!” I exclaimed, “And does he live alone in the mountain, isolated from all society; no one even approaching him; living and dying without the hand or voice of a friend? My God! What a horrible lot! What cruelty!” I felt overcome; my heart seemed to sink within me, and I could not help saying: “It is a barbarous state of society, dear aunt, that rejects succor to the unfortunate."
+>
+> “So it is," she answered, “but where is the remedy? It is said that this dreadful disease is easily communicated; and is it not better in such cases that one should suffer than many? For my part, Dolores, I confess that the very sight of a leper makes me tremble. I would rather die than approach him."
+>
+> “How then came you to know this unfortunate; and why, dear aunt, do you protect him? I cannot but feel an interest in this poor man, for the address of the letter that I saw was very well written, and I have an impression that I have seen the handwriting before."
+>
+> “Why do you protect him, you ask? Should we not always, as fast as in our power, alleviate distress?”
+>
+> My aunt thus cut short the conversation. Although for some time the object of the letter was never alluded to, it left a strong impression upon me. Winter came upon us suddenly and with all its force. We were deluged with rain, as you well know sometimes happens in this climate, and became completely isolated; for not only were the streams rendered impassable, but the roads so flooded that nobody could reach us. I was continually awakened in the middle of the night by the noise of the tempest, and the sound of falling water; thunder and lightning filled the air, and the wind roared against the well-secured windows. While all this was acting without, and I well sheltered in my own room surrounded by every comfort, I could not help but think upon the lot of those solitary outcasts of society, the poor lepers. I could not but picture in imagination their hopeless condition in the mountains, amid the war of the elements, pressed down by terrible suffering, and alone, always alone…
+>
+> One night I was reading late, studying French with the books you left me, and striving to gain some instruction and make progress in my studies, to educate my spirit, so that I might not appear altogether ignorant: acquaintance with *certain* persons from the capital had made having some education appear to me as indispensable. I thus went to bed late and was falling asleep, when I thought that I heard footsteps in the outer patio of the house, and the sound of two suppressed voices. A favorite dog that always sleeps in my room suddenly rose, sprung from the open window upon the corridor, and in less than a minute afterwards was leaping up on someone in the patio; but the voice of my aunt caused it to cease. It appeared very extraordinary that my aunt, who usually retired to her own room at eight o’clock, should be going about the house at midnight! I rose, determined if possible to solve the mystery, and, partially opening the door upon the further corridor, distinctly heard a man, speaking from below, say “Good-bye, Juana." His voice caused me to tremble; I thought I was dreaming…
+>
+> “Wait a moment," said my aunt; “I am going to bring a portrait that I had executed for you by a painter from Quito, who happened to be here a few days ago."
+>
+> Saying this, I heard Aunt Juana went to her room, and I, taking advantage of the darkness, concealed myself in an obscure angle of the corridor, from where I could see a shape standing motionless at the center of the patio.
+>
+> The tremor and vague apprehension that seized me on first hearing the voice of the stranger, disappeared on finding that it was no ghost or work of the imagination; but I could not understand why she should have her sittings in the middle of the night and why she was giving away her portrait!... It is true that not long ago I begged her to have her portrait taken by the artists who had painted mine. A moment later she returned, and leaning on the balustrade of the corridor, tying the package she had brought with a cord, she said, “It is not as good a likeness as I could wish," and when the shape came closer, she added, “There goes also Dolores' book, *The Imitation of Christ*, which I replaced with a new one."
+>
+> “You don’t know how much good this will do to me," said the stranger with feeling … “Oh, my poor daughter!...Her portrait!...”
+>
+> That voice, that accent, made my blood cease to flow, and for a short time I was perfectly unconscious. A terrible idea, an awful terror, had flashed upon me, and completely overcome, I arose cold and trembling.
+>
+> “Go at once, Jeronimo," cried my aunt; “I hear a noise in Dolores’ room, and…”
+>
+> I heard no more. I had recognized the voice of my father, and my aunt had called him by name. My father, who for six years and upwards I had supposed to be dead! I thought no further about the mystery of this apparition; I sprang down the stairs from the corridor to the patio, I ran towards the shape and, upon approaching it, threw my arms around his neck. At the sight, my aunt, who witnessed it, as well as my father (and he was indeed my father), gave a shriek of horror; and him, with an effort of despair, separated himself from me, covered his face with his *ruana* and attempted to escape, and I to follow him; but my aunt, who by this time had descended to the patio, detained me, crying, “Dolores! Dolores! For God’s sake do not follow him— he is a leper!."
+>
+> “A leper? What do I care! My father is not dead, and I will embrace him."
+>
+> You can hardly imagine the scene that followed… At the end my aunt succeeded in getting my father away, and, calling the servants, carried me by main force to my own chamber, and there stripping me of all the clothes I had on, threw them into the patio, with orders to burn them the first thing in the morning. 
+>
+> I could not consent that my aunt should leave me until she had explained these events; why my father was hidden from the world, and all the circumstances that brought about the events I have described… Our conversation continued through the night, and she did not leave me until the first rays of the sun appeared through the open window. I then rose, and, seating myself by the window, could not help but admire the beautiful landscape before me. You know that it looks towards the mountain range. In the distances the lofty chain and blue hills of the highlands; nearer by, a rolling country, covered with verdure, where the cattle feed, and horses and mares range unmolested; while the noble trees, with shrubs and shrubbery, from the foreground of the house, swayed with the momentum of the breezes, and amid those branches perched innumerable birds, just then beginning their matin song. On one side was the corral full of mooing calves, whose healthy breath mingled with the scent of flowers climbing up the balcony…. The day, the landscape, the rumors of the countryside were beautiful and admirable!... I saw but could not feel, for the whole course of my life had been in a moment changed. My father lives, but he suffers! 
+>
+> Isn't it true, Pedro, that Lazaroth is a horrible disease? Knowing what inheritance awaits me, everyone would try to distance themselves from me and look for the early symptoms; I would be doomed to live in isolation! My father, who loved me tenderly, didn't want that stain to tarnish my reputation, so he decided to disappear. He has lived hidden in the most remote corners of the province, and it has only been a year since my aunt and your father found out where he is... But will I be able to live happily far away from my unfortunate father? Would it be fair to deceive others by hiding the disease that fate may condemn me to? My father has made it clear to me that he will not allow anyone to know that he exists… In your last letter you say that Antonio hoped to acquire a position which in a short time would enable him to ask my hand. Cousin, it is already too late. He must renounce every thought of the kind... Let him forget me! He must not be linked with my misfortune. Never disclose the reason, but cause him to understand the utter hopelessness of my accepting him. He will think me inconstant, ungrateful... but what can I do? This sacrifice is great, very great, but there is no remedy.
+>
+> Good-bye.
+>
+> Write some words of comfort to the one who suffers greatly,
+>
+> Dolores.
+
+
+After a few days I received this other letter:
+
+
+> I have your letter, my dear cousin, and it has been truly a consolation to me. Thanks! A thousand times thanks! You inquire the circumstances of my father’s disappearance, and how he could possibly have remained in concealment for so long a time, without suspicion or guess that he still lived. 
+>
+> I have, so far as it has been in my power, collected the particulars attending it, and will give them to you in the order they occurred.
+>
+> You know that, after the death of my mother, all my father’s affections were concentrated upon me; that he looked after me with the tenderness of a woman. I was twelve years of age when, perceiving a change in his health that alarmed him, he went to Bogotá for medical advice, and there submitted his case to several physicians of standing in the profession, who, after consultation, agreed in the opinion that the horrible and incurable disease was leprosy. In deep despair, without determining in his own mind the course most proper to pursue in this situation, he set out on his return home; but on the road leading him to the banks of the Magdalena river, in his excited state of mind suicide presented itself as a lesser evil, and the only remedy. In a state of partial insanity he dismounted from his horse and threw himself into the current of the river, with the intention of drowning; but you may remember that my father was a good swimmer, and, natural instinct and love of life prevailed, and he arrived in safety on the opposite side of the river, although in a state of exhaustion. There was found by a poor unfortunate, who occupied a small cottage on the banks of the stream, himself a leper, what a coincidence! Living alone, and supported by such assistance as was sent from a neighboring village, the produce of a few plantains and other crops, cultivated by the assistance of his two children, who sold them in the vicinity. My father remained for some days with him, and it was here that he conceived the idea of retiring from the world forever, and thus placing in concealment his own misfortunes and sufferings, lest this mysterious legacy should fall upon the life of his daughter. 
+>
+> A little gold that he happened to carry in his pocket, and a few jewels that he disposed of, sufficed for his present support in that desolate area; but he soon separated from the leper. Isn't living on equal terms with a common person the worst of misfortunes? He purchased a small cottage, high up in the mountain, and there he lived, lonely and deeply afflicted, for more than five years. Occasionally he would visit the banks of the Magdalena and the poor leper, and consult with him upon the progress of the disease from which both were suffering. On other occasions he would go by night in the garb of a countryman, into the nearest villages, to learn, if possible, something of his family; more often to return disappointed to his disconsolate abode!
+>
+> One day, going to the cottage of his friend the leper, he found the two children in deep affliction at the door. 
+>
+> The leper was dead. My father was so much moved by the spectacle, that he invited them to accompany him to his abode in the mountain, which they, one a girl of twelve, the other a boy of fourteen years of age, most gratefully accepted. For a long time he had received no intelligence whatever of his family. It preyed on his mind continually, and his anxiety was increased by the death of the leper, whose sudden departure appeared as a warning that his own might be near at hand, and he could not resist the desire of seeing me one last time. 
+>
+> He then commenced a most arduous journey over the vast deserted plains and mountain districts, accompanied by the two children.
+>
+> Knowing that there existed a cottage on the confines of my aunt’s estate, he selected it for his domicile. The children by whom he was accompanied knew nothing of him or his history, and he could therefore with perfect safety send them to the village with letters to your father, revealing to him the fact of his existence, and asking information of his family. You may picture to yourself the astonishment of your father at this revelation, since no doubt existed in the mind of anyone that he had been drowned in the Magdalena; but, persuaded of the truth, he at once communicated it to Aunt Juana, and counselled with her upon what was best to be done. His first impression was to find my father and bring him to his own house, whether willingly or not; but you know the horror of my aunt of any person afflicted with his disease, and that nothing could induce her to accede to such a proposal; she argued that (and I have been assured that in this she was right), satisfied in her own mind I inherited a predisposition to the same disease, it was necessary to prevent the possibility of contagion. It was finally concluded that every necessary comfort be sent him, but that he should remain separated from his family, and his existence continue to be ignored. But my poor, unhappy father! He never desired more than to see me clandestinely and at some distance… You must remember the evening of your departure. He was then concealed in the bushes of the little stream. He saw us happy and heard our laughter.
+>
+> I learn that his disease is in the last stage of its progress… and that at times he suffers terribly; but I am not permitted to see him, or to do anything in alleviation. I am always sad and withdrawn, and I feel that my character has changed completely. But tell me, - what does Antonio say? Does he easily forget me? … a foolish inquiry, isn’t it? Let us talk of yourself. I learn that there are obstacles that will postpone your marriage, but in the mean time you are breathing an atmosphere of hope and confidence. We have lived, Pedro, as brother and sister… to you God will give happiness, to me… but so be it. He knows how much I can endure and He will send me strength and resignation to his will. Good-bye…
+>
+
+I could not be otherwise but deeply moved by these news from N\*\**. The state of Dolores’ mind that the letter disclosed, at times of morbid grief and at times exalted, alarmed me. I immediately wrote to my father that something must be done to distract her from continually brooding upon the painful condition of her father, which could predispose her more than anything to having an outbreak of his disease. A thought consoled me: that it seldom appeared in the children of a leper, oftener passing to the next generation and appearing in the grandchildren. Nevertheless, I could fully appreciate and approve of the honorable feeling that influenced her in desiring to break off any engagement with Antonio. I could not, however, bring myself suddenly to destroy the hopes of my friend. I saw him so happy in his love, the energy and force that it inspired his work, a power and vigor that would enable him to triumph over every obstacle. To destroy so fair a promise appeared to me no less than wanton unnecessary cruelty. 
+
+This state of things continued for some months, until we received intelligence of the death of her father: I had a few lines from her, expressive in grief. She could not publicly mourn the loss of her father, nor wear any mourning clothes, for he had let her know in his last moments that he wanted his sacrifice to serve at least to protect his daughter from the suspicious glances of a society that would know what awaited her upon learning the cause of his death. 
+
+My aunt, seeing her broken down condition, in the hope that a change of air and scene might prove of service, brought her to Espinal, both at the same time asking me to visit them there, as the distance was less from Bogotá.
+
+I accepted the invitation, and went to spend a week with them. How was I to foresee the  consequences of that visit to myself!
+
+Nothing appeared to bring consolation to Dolores. She was as pale as possible, and every movement expressed the agony of her situation. She then reiterated the request that I should convince Antonio of the impossibility of their union, but without disclosing the true reason.
+
+It was a painful duty that she imposed, and a difficult one. But on my return to Bogotá, I strove to convince him of her repugnance to matrimony, and the hopelessness of his suit— I cannot say with much success, for I often lacked value in fully distressing him.
+
+In the mean time, my own matrimonial prospects had assumed an aspect that caused me great anxiety about the future. Don Basilio had presented himself in the family as an aspirant to the hand of Mercedes, who always received him coldly, but her parents with a cordiality very displeasing to me; and, after a little, as their attentions to him increased, I was treated with greater indifference. One day Mercedes said to me that she was very sorry, but her parents had received some information very injurious to me; that she had defended me, but could not prevent a journey that they proposed in the direction of Chiquinquirá; that her mother had promised to visit the Virgin a long time since, but had never been able to perform it; and she believed the principal object now was to separate us. I wished an inquiry to the charges brought against me, but Mercedes objected to urging it at this time, as she did not herself know the nature of them; that when she had been able to ascertain it I would be in a better position to defend myself.
+
+Perfectly satisfied that it was all the work of Don Basilio, I promised to wait. In a few days the family, with Mercedes, set out for Chiquinquirá. For the first few weeks after their departure I felt dejected. My only pleasure was to converse with Antonio upon our mutual disappointment. At first Mercedes wrote to me frequently, but at last informed me that she was not to return to Bogotá as soon as she had expected; that her mother wished to spend some months with her relatives in San Gil. Every time I received a letter from Mercedes, it was cause for celebration, but eventually they began to dwindle, under the pretext that her mother had forbidden her to write to me. At that time, I still loved her and believed I was loved in return, and although I suffered greatly during that period, I remember it fondly: “All other pleasures are not equal to our sorrows,” as a French author once said. But little by little I got used to her silence and no longer waited for her letters with such impatience. I don't know the reason, but there were so many balls and gatherings in Bogotá in those days: I attended them and I confess that I was not sad. However, I always carried a discomfort in my soul, a hidden sorrow that clouded my memory of Mercedes.
+
+I had been four months without any information of her, when I received a letter, and with deep sadness in my heart I realized that I did not open it with the joy it would have once inspired. In this she told me that, having stated to her father it was time for her to return to Bogotá to verify our contract of marriage, he answered that with his consent I should never marry her. He refused to explain his reason, but said that a prolonged absence would enable us to forget one another. Mercedes' letter was extremely affectionate, perhaps more so than any other; but with that magnetism, that intuition that exists between two people who love each other and that remains even after they have loved each other; with that revelation of the soul, I mean, that is understood without being able to explain it, I felt that in her warmest expressions there was coldness and detachment; that the sympathy and feelings hitherto existing between us was in the brink of being broken. From that day I began to reconcile myself to her absence, and to familiarize myself with the possibility of paths separating.
+
+At last some important business brought the father and family of Mercedes back to Bogotá. As soon as I heard of her unexpected arrival, my heart leapt for a moment and I immediately headed to her house. What a sad disappointment! That feeling was fleeting, and I soon felt calm again. However, I tried to convince myself that seeing her would make me happy again, and on entering I recalled the scenes of former happiness, and tried to think that my former hopes were about to be realized. I arrived and saw her as beautiful as ever, but the light that was missing in my eyes had gone out in hers. We spoke: I tried to hide my indifference; she was distracted... As I said goodbye, I was overcome with immense regret. It is so discouraging to feel your heart empty, without emotion or enthusiasm!
+
+Aware of the change in our relations, she made no allusion to it; I sought no explanation, for I feared a reconciliation that was no longer desired; and in this temper of mind left the house. I saw her beautiful as ever, splendidly dressed, and we frequently met at the theater, and at evening parties. The world talked of her conquests and admirers, among whom Don Basilio and Julian, who had returned to Bogotá, figured conspicuously; but instead of the pain and jealousy that would once have stung me to the quick, my own tranquility was little disturbed by it. I was no longer in love, and the stronger passions of envy and jealousy had departed with it. There is no doubt that there is jealousy, or rather a certain envy, in a heart that does not love, but there can be no passionate love without them.
+
+Poor Mercedes! Occasionally she strived to bring me to her side; to conceal her own indifference, and I not to expose mine. I was very sad then: the human heart, including my own, seemed so small, changeable, and unworthy to me, even though deep down it held the memory of the woman I loved like an angel, but who had become for me a weak, futile being, easily led by the will of others. Sometimes my conscience accused me of having changed too. It was true, but I had not begun to feel indifferent until I noticed her detachment. Her silence, her vacillations during the separation, had made me see her in a different light, and the ideal of happiness that I had pictured to myself vanished forever.
+
+While in this state of despondency, in which one neither wants nor hopes for anything, I received a letter from Dolores that filled me with the most painful apprehension. After reading it, I determined to see her, and to set out the next day for N\*\**, and that evening went to take leave of Mercedes.
+
+I was much oppressed in spirits, my mind was willing to accept any sympathy, and I think that if she had received me as formally, she would have regained the empire of my heart. How grateful I would have been to her for inspiring me with the feeling I believed to be the greatest gift given to mortals: love!
+
+I ascended the stairs in a state of great perturbation, and my voice trembled on saluting her.
+
+I found the usual company collected; on one side of the room, around the piano, was a group composed of Mercedes and some female friends, one of whom was executing a piece of music, while Don Basilio was giving a dissertation upon the opera from which it was taken; Julian turned the leaves of the music with a languid look towards Mercedes. On the other side was her father playing *tresillo* with two or three friends introduced by Don Basilio, common congressmen from distant provinces, with stiff collars, tight jackets, taut gaiters, and hands so black and rough that it was clear who their forebears had been.
+
+A little flutter took place in the company upon my arrival. All eyes were turned upon me, and for the moment there was an interruption of conversation. Mercedes received me with hauteur, turning her back after a slight salutation, hardly looking at me. The master of the house merely acknowledged me, and the company was as cold as ice; but, in the midst of the partial silence caused by my arrival, Don Basilio, addressing me in a loud voice, with his accustomed pedantry, said:
+
+“Talking of the king of Rome, or, as the English say, talking of the devil—it is but a moment, young man, since we were talking of you,”;and added, looking round with a significant air, “have you recently received any news from your interesting relations, with whom I became acquainted last year in the village of N\*\**?”
+
+I do not know what I answered, but shortly afterwards, approaching Mercedes, I told her I came to take leave, as I propose to be absent for some days.
+
+“Naturally," was her answer, blushing with great annoyance.
+
+“Why naturally?" I said, “you cannot know where I am going…”
+
+“How could I not guess?... The deceived can sometimes open their eyes”
+
+“The deceived?”
+
+“The deceived woman, if you like”
+
+“Explain yourself, Mercedes”
+
+“I will. Know that I now understand the falseness of your behavior, and rest assured that all ties between us are severed”
+
+“And what in Heaven am I guilty of?”
+
+“I haven’t the time to explain now. Be satisfied to know that I know everything…” and then she added ironically, “I understand you wanting to visit the one you prefer!”
+
+“I don’t understand”
+
+“No? Then do me the favor to present my respects to your cousin Dolores”
+
+“Mercedes, you are very unjust. I cannot think who could have invented such…”
+
+She could not avoid casting her eyes towards Don Basilio as she said, interrupting me: “I cannot comprehend why you should have troubled yourself to take leave of me, since there can be no sympathy between us, and I take no particular interest in your affairs."
+
+Of course, I knew the whole to be the work of Don Basilio, but pride prevented me from asking further explanation.
+
+“I see it," I said, looking towards my rival, “but to defend myself at this time would compromise my own character. I see that the fortress is in the hands of the enemy, and that it would prove useless, any attempt to expose the calumnies and falsehoods that have been circulated against me."
+
+And, saluting Mercedes and the company somewhat haughtily, I left the room, under the perverse and malignant smile of Don Basilio. Julian followed me to the door, and, offering his hand, said, “Pedro, you must not believe that I have any part in the conspiracy against you. I hold you in too high esteem, and am opposed to all such maneuvers." 
+
+I thanked him for this spontaneous gesture, and we parted.
+
+In traversing the streets to my own residence, hatred, revenge, profound humiliation that I should be made the butt of an adventurer, contempt for Mercedes who had become his instrument, all agitated my mind and made my heart beat with excitement; but I remembered that in leaving the room the eyes of Mercedes followed me, melancholic and tearful. I did not see her again for many years, and then under peculiar circumstances!
+
+On arriving at home, they told me that a gentleman waited to see me. It was Antonio. Approaching to salute, he stopped short, and, refusing my hand, said, with agitation: “I desire, first, to know if my hand is given to a friend, or to a traitor of friendship."
+
+“I, a traitor? Antonio!”
+
+“Yes, you”
+
+“Do explain…This is the last straw!," I said with dismay, “This only was wanting to render me insane… I have just come from seeing Mercedes, who has definitely broken off all intercourse between us."
+
+“And has she not told you the reason?”
+
+“She gave me to understand that she believed in a base calumny."
+
+“A calumny! This time she might be right, Pedro! Pedro! There was a dream of hope left to me—your loyalty during so many years! Tell me the truth," he added, with a friendlier tone, “to lose all hope at once—but tell me, perhaps you loved Dolores before I knew her? And, in your last visit to Espinal, four months since—oh! Tell me the truth!”
+
+“I swear in the name of our old friendship and by everything sacred, that Dolores has never been other than a sister to me."
+
+“I do not know what to believe… I have been thinking a great deal upon your conduct of late, and there is so much that I cannot explain. Since you were in Espinal, you have on various occasions try to convince me that I should give up the hope of marrying Dolores, and will not even permit me to speak of her. All this with an air of mystery in it that you cannot conceal, and you do not explain the cause of such a startling change. My friend Durán told me, some days since, that nobody ever saw Dolores anymore, that she had retired from the world and never left the house…Lately they have circulated reports respecting you and her which I will not repeat. But tell me if there is any truth in them!”
+
+“How, any truth?" I answered, disconcerted, and not knowing what to say.
+
+“Tell me if you should marry her.”
+
+“This is an infernal lie, the work of Don Basilio—and that you, Antonio, should listen to it!”
+
+“Of Don Basilio?” he said; and a moment after added, “you are right, Pedro, it must be a lie. I wonder that I did not think so before. They told me that tomorrow you were to leave for N\*\**. I shall delay no more. I cannot easily believe in the repugnance to marriage on the part of Dolores. Have you not assured me of her attachment? You yourself shall carry a letter asking the hand of your cousin, and we’ll settle the marriage any way we can. This will be the most effectual mode of confronting such a calumny."
+
+“This I cannot do," I exclaimed, without considering the import of my own words.
+
+“Why?”
+
+“She says that she will never marry."
+
+Antonio looked at me without saying a word, and I added, “There is a mystery in her life that I cannot reveal."
+
+“A mystery!”
+
+“Yes”
+
+“A mystery in the life of a woman cannot be right. I insist that you inform me in what it consists. I am not the hero of a novel; if I am deceived, it will be with some clear reason you should give."
+
+“I am not at liberty to reveal it. Dolores herself has demanded secrecy."
+
+“A secret! And I was beginning to believe!” was his answer, and, rising, he seized his hat with an air of defiance, and in a voice trembling with passion, imposed silence, and said, “That’s enough. No one shall make a fool of me with impunity. Do not reply; I will not commit an indiscretion here. I will send friends to arrange the matter between us."
+
+“It is a duel!” I said.
+
+“I so intend it. And perhaps cowardice is another of the qualities that distinguishes you."
+
+“You are blinded by passion, Antonio,” I said, procuring to preserve my own reason,  “between us there can never be a duel. This is ridiculous! Hear me: I have given you my word that the story you have heard is a base slander and falsehood."
+
+“What proof” he retorted, “can you offer to show that I should believe your words, since you insist that Dolores cannot marry??”
+
+“Time…” I said.
+
+“Time! You are a coward!”
+
+“I cannot permit anyone to call me so!”
+
+“Then accept my challenge, or answer my enquiries”
+
+“Antonio” I exclaimed, with great effort restraining my own temper, “Antonio, this is absurd. If circumstances demand it, let us separate, but not as enemies!”
+
+Antonio, in a state of frenzy, approached me with his hand raised, crying, “Coward, hypocrite!”
+
+It was too much; I lost all consideration, and; showing him the door, said, “Begone, and settle matters whenever and in any way you like."
+
+The following day, at six in the evening, I was brought home in a state of insensibility. On the return of consciousness, I found myself in bed. It was night, and at the foot of the bed sat the housekeeper fast asleep. I tried to speak and move, but the effort produced a sharp pain in my chest and it compelled me to remain quiet. I was alone, without parent or friend, or consolation of any kind; the charity of my landlord being my only dependence and support. By degrees I began to recall the events of the previous day. I again saw myself placed opposite to Antonio, behind the hills of San Diego, each with pistol in hand. Julian was my witness on the occasion. The expression of Antonio's countenance was awful; he looked at me with a hate intensified by former affection. For the time, I had lost every religious sentiment, even the remembrance of my father… deep depression and abandonment seized me; I desired death. I pointed my pistol at Antonio, but the memory of Dolores, and the pain I should inflict in case of his death, brought back better thoughts, and I fired in the air. At the same moment, I felt a strong shock and fell prostrate to the ground… I remember nothing more.
+
+I lost all consciousness, and for several days life hung upon a thread. When reason returned, and my eyes opened anew upon the world, one of the first objects they encountered was my father at the bedside, who had arrived in N\*\** without notice of my situation. The following letter from Dolores will fully explain better than anything else the object of his coming:
+
+> I do not know if you received a letter written some days since. It may have been lost, or possibly you did not understand it. I would now be more explicit, that you may better comprehend my situation, and the cause for the turmoil that dominates my spirit. I am perfectly calm, and think that I have strength to meet it with courage… Strength of mind! Great God! Calm… What irony!... no, Pedro, I am mad, desperate.
+>
+> I am not sound in mind, at times a maniac…
+>
+> However I desire and strive to overcome the horror of my situation, and repugnance to it. I must tell you all.
+>
+> Ever since my return to Espinal I have felt unwell, a constant nervous affection and prostration, by turns one hour cold, the next burning strength followed by debility, bravery by timidity, fear by courage—in short, a mass of contradictions and opposite sensations. On going to N\*\** I consulted your father, who made many inquiries, and his countenance expressed deep emotion and sorrow, while I explained the symptoms of the strange disease that affected me. My poor uncle tries to encourage me, maintaining that it is only the consequence of my recent troubles.
+>
+> My aunt desired that I should consult other physicians besides your father; but I was averse to it, and only wished to be left alone. However, seeing that my health did not improve, without consulting me she sent for several of our country doctors, who, if they have not diplomas, have experience, and collected at Espinal at the appointed time.
+>
+> I trembled when called upon to present myself, but was received with so much frankness and good humor that I became encouraged, and lost much of the horrible apprehension that never entirely left me. Before retiring I understood that they would meet in the saloon for consultation on my case. Desirous of knowing the worst, I left for my room but concealed myself in an alcove, separated from it by a very slight partition.
+>
+> A short time had elapsed before I reached my hiding-place, and the consultation had already begun:
+>
+> “Poor girl,” said one, “there appears to me no hope…”
+>
+> “The leprosy has hardly passed to the second stage,” said another, “and I think we should do what we can."
+>
+> “All we can do is to retard its progress for a short time…” was the answer.
+>
+> And there was but one opinion, that they knew of no effective remedy…
+>
+> I know not what more was said, or what further their consultation amounted to. I had fortitude to hear their decision, and tried to look forward with serenity to the suffering that awaits me. But to be confirmed in what I had hitherto only apprehended, to look face to face with the spectre presented to me, of a sudden to contemplate all the horror of my situation, my strength gave way under the terrible blow, and, although still retaining a certain consciousness, I fell upon the floor, prostrated and exhausted. I neither shed tears nor uttered complaint. My despair is beyond alleviation. A long sobbing in the corridor brought me back to myself. I knew the voice of my aunt, and I arose, and hoped that we might weep together! Guided by the same interest, she had inquired the opinion of the doctors, and, hearing it, had not been able to restrain her emotions.
+>
+> I approached her, and at first she could not altogether repress a certain feeling of repugnance, although it immediately changed to one of the utmost tenderness, and she said:
+>
+> “My dear daughter, come and embrace me," tendering her arms at the same time. But the first look had pierced me to the soul. I could not forget it, and, flying from her without hearing her cries, shut myself up in my own room. I was an outcast, abandoned by the whole world! I remember no more. It appears that my aunt, after repeatedly calling upon me, and receiving no answer, became alarmed, and with the assistance of your father forced the door and found me in a state of insanity!
+>
+> Yes, Pedro, in my desperation I had lost my mind, and so remained for several days, when reason returned, and I was left to contemplate the horrible state of existence that awaited me. The first thing I thought of was to write to you. You had always been a friend in whose sympathy I could trust, a brother, who has been my support and consolation. To you I call. I don't remember what I was saying to you; there was still a cloud of madness in my mind. Your father says that there is still hope, and goes to Bogota to consult with and take the advice of the most eminent physicians of the country. If there should still be hope! Father Almighty!... if there should still be hope!
+
+The letter to which Dolores refers was the one that determined me at once to see her, when I was so tragically prevented.
+
+As soon as I was able to get up, I wanted to accompany my father to the best doctors in Bogotá, who gave us some medicines that they said had significantly improved several lepers. My father returned to N\*\**, leaving me alone, sad, still unwell, discouraged, and without prospect for the future. In this situation I learned that a wealthy gentleman in ill health, and about to sail for Europe, was in want of a physician to accompany him. I offered myself and was immediately accepted; but I could not resist the desire of hugging my relatives and my father before my departure. Besides, I wished to arrange about selling some property that I possessed, as a resource, having it in contemplation to remain some years in Europe.
+
+Setting out immediately, I arrived at my father’s very unexpectedly, and after spending a few hours with him, went directly to the residence of Aunt Juana. I found her alone and very sad, for the medicine brought from Bogotá had produced no alleviating effect upon my poor cousin, who remained alone on the plantation, and, my aunt added with a gush of tears, would see nobody, nor permit any one to approach her. I endeavored to console her by saying that I should visit my cousin, and try to soften this extreme rigor in her mode of living.
+
+I went, therefore, to the plantation; at first she refused to see me, but relented on learning that I was about to enter upon so far a journey that might last for some years.
+
+She was seated upon a low bench in the darkest corner of a room obscurely lighted, and, with her white dress and colorless complexion, had more the appearance of a spectre than a living being. She did not wish me to approach, much less to touch her, but, using the prerogative of cousin and brother, I unexpectedly seized both her hands, and opened the window that I might myself see the ravages that the fearful disease had already made.
+
+It was then at the commencement of the third stage. The light rosy color that first alarmed my father, and is the earliest symptom, had already passed off when I last saw her at Espinal, and had changed to a pale yellowish tint; she was now swollen, the flesh rough and purplish. All her beauty had disappeared; her eyes alone retained a brilliancy that looked unnatural. I perfectly understood that she had given up all hope of recovery, but nevertheless was cautious to conceal my surprise at the extraordinary change that had taken place. At first she hardly answered me, and seemed disposed to remain silent, but when I adverted to the pain she was inflicting on Aunt Juana, she said that her retirement and desire to separate herself were only part of a plan of life that she had settled in her own mind and intended to carry out.
+
+“I wish my aunt to get used to our separation, since I will no longer be living with her."
+
+"Where then will you go?" I asked.
+
+“I will live alone” was her answer. “My aunt entertains an aversion, a peculiar horror of the disease under which I am suffering-she cannot overcome it; and, if I were to remain with her, her life would be a daily martyrdom. Besides, I have become extremely nervous; the voice of a stranger gives me pain and palpitation of the heart… I view humanity at large as an enemy that is forever persecuting me, harassing me, I fear it, and shall separate myself from those who fear me."
+
+“But how?”
+
+“Do you not remember the charming spot where we took leave when you were last here?”
+
+“The little valley and mountain stream?”
+
+“There I shall build a cottage, and, accompanied by the two children who attended my father in his last moments, and feel no repugnance to one in my situation, I may live out a retired life of tranquil solitude."
+
+“This is madness, Dolores. How could you live alone in a desert mountain? No, this cannot be."
+
+“Instead of dissuading me, Pedro," she said, “you should pity and assist me in carrying out my design. If not," wringing her hands in an attitude of desperation, “if not, I will flee alone to the mountain, and die like a wild beast in the woods. Look! Can there be anything worse than to know that your very presence inspires horror? My God! if you will not permit me to live alone, to hide myself from the world, I know not what I shall do… It is easy to take one's life."
+
+The exasperated state of her mind precluded all reasoning. I could only offer to assist in carrying out her wishes. After a short time required to compose herself, she said—
+
+“And Antonio?”
+
+“I have not seen him. Perhaps you do not know…?”
+
+“Yes, your father has related everything to me. I have been the cause of all your troubles and danger, but as yet you have received from me no consolation or any remark of gratitude! Pardon me, that my own sufferings render me selfish. I confess my feebleness: the idea that Antonio should look upon me with repugnance absolutely frightens me."
+
+“But is it not worse that he would think ill of you?”
+
+“Yes, it is, it did not occur to me before. Let him know everything!”
+
+On saying this, her eyes filled with tears, and she wept bitterly. When recovered, she added: “Tell Mercedes as much as you like about me."
+
+I answered, “Mercedes is no more anything to me. I would rather not enter into explanation. She should have had faith in my loyalty to her."
+
+Dolores looked at me for a moment, and then said: “You never loved her, for true love obliterates pride and selfishness. You can neither entertain pique, resentment, nor unkindness of any sort towards the loved one."
+
+“Let us say no more about her. Mercedes has other admirers, and I do not think of her anymore."
+
+I took leave, promising to speak to my aunt, which I did, and at last convinced her that the life of Dolores depended upon carrying out her wishes.
+
+A few days after, I joined my travelling companion at Honda. We descended the Magdalena river together without accident or occurrence of anything remarkable, and embarked at Santa Marta on the first of the next month.
+
 [^1]: The author uses the initial N to refer to towns whose names she does not want to specify. In the 2021 edition of the novel published by Ediciones Uniandes, Carolina Alzate speculates that this could be referring to a town near Natagaima, currently in Tolima. She also noted that, at the time, universities were in the capital, Bogotá, and well-positioned young men went there to get education. Transportation was difficult, so students sometimes spent years abroad.
 
 [^2]: A *cachaco* was a young man in 19th-century Bogotá. Elegant and gentlemanly, he was different from the period’s “dandy” because he was not particularly thought of as overly concerned with his appearance. I have chosen to leave the term in the original Spanish because it was also used to mean traditional men from Bogotá - making it only of the city.
@@ -295,7 +611,6 @@ She did not reply but with a tender look intended for my absent friend; and then
 [^11]: *Trapiche*: Sugar mill.
 
 [^12]: *Hacienda*: Country estate, plantation.
-
 
 ## Glossary
 
@@ -327,4 +642,3 @@ She did not reply but with a tender look intended for my absent friend; and then
 * *Alfandoques* are wooden or bamboo tubes filled with seeds or stones and shaken to produce sound.
 * *Carrascas* are hollowed palm segments with carved grooves, scraped with a stick or bone to create rhythm.
 * *Chirimia:* Wooden wind instrument similar to a clarinet, about seventy centimeters long, with ten holes and a cane reed mouthpiece.
-
