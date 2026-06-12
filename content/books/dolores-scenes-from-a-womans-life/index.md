@@ -585,6 +585,30 @@ I took leave, promising to speak to my aunt, which I did, and at last convinced 
 
 A few days after, I joined my travelling companion at Honda. We descended the Magdalena river together without accident or occurrence of anything remarkable, and embarked at Santa Marta on the first of the next month.
 
+## Part Three
+
+> *Sólo te busco en la selva más lejana
+> Tétrico albergue, asilo tenebroso
+> No pisado jamás de huella humana.*
+>
+> *I only seek you in the farthest of forest*\
+> *Gloomy shelter, dark refuge*\
+> *Never trodden by human footprints.*
+>
+> —Vicenta Maturana
+>
+> *Je meurs, et sur ma tombe, ou lentement j’arrive,* \
+> *Nul ne viendra verser des pleurs.* 
+>
+> *I am dying, and on my grave, where I am slowly arriving,*\
+> *No one will come to shed tears.*
+>
+> —Gilbert
+
+During the first months of my stay in Europe I received several letters from my father, containing particulars of the health of Dolores. Notwithstanding the best medical advice, she grew worse every day. All hope of recovery was given up; the horrible and mysterious disease continued its ravages, destroying not the beauty alone, but almost the human appearance of my unfortunate cousin. She lived in the dark, depriving herself of air and light, begging that she might be permitted to hide from an atmosphere that suffocated her.
+
+At last, amongst others, I received the following letter from herself:
+
 [^1]: The author uses the initial N to refer to towns whose names she does not want to specify. In the 2021 edition of the novel published by Ediciones Uniandes, Carolina Alzate speculates that this could be referring to a town near Natagaima, currently in Tolima. She also noted that, at the time, universities were in the capital, Bogotá, and well-positioned young men went there to get education. Transportation was difficult, so students sometimes spent years abroad.
 
 [^2]: A *cachaco* was a young man in 19th-century Bogotá. Elegant and gentlemanly, he was different from the period’s “dandy” because he was not particularly thought of as overly concerned with his appearance. I have chosen to leave the term in the original Spanish because it was also used to mean traditional men from Bogotá - making it only of the city.
