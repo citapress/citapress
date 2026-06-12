@@ -721,6 +721,28 @@ Today I received a letter from my cousin Pedro. He is very kind and it is a cons
 
 … God, religion, future life![^16] Unfathomable questions! Terrible vacillations of my soul! If my malady was only of the body, if it had not changed my spirit! But the nature of my character changes:  my heart is like that of the beast in this wilderness, cruel, cruel—and cold as the stones I see at the bottom of the running stream. Sometimes in a fit of madness I fly to my flowers, which seem to insult me with their beauty, and I tear them apart, and throw them in the wind. A moment after I come back to my senses, I tenderly look for them and cry when I find them withered. Other times, my soul rebels: it cannot believe so good a God could make me suffer so, and I deny His existence. Afterwards, I humble myself, throw myself on my knees and fall into endless adoration of the Almighty Being……….
 
+**September, 1845**
+
+Ever the silence, the loneliness, the absence of a friendly voice to caress me with a word of sympathy. Eternal separation! Can there be a more terrifying thought for a being born to love?
+
+**January 1st, 1846**
+
+I am going through a period of complete discouragement and lethargy. Lately, I’ve been living as though in a dream… I am not sad nor desperate. I feel nothing in my heart: everything is indifferent to me; life is suffering, death… Everything passes and merges in the darkness of my soul, and nothing moves me. One feeling! One feeling even if it were of sorrow, fear, fright (the only things to which I can aspire), I would bless as a consolation: such is the state I am in! This is worse than my mad desperation of times past. I vegetate like a rotting tree: I live like a stone in some deserted place…
+
+**March, 1846**
+
+At times I intend to study, to read, to learn, just to do something, dedicate myself to intellectual work, and thus forget my situation: I endeavor to flee from myself, but always, always thought pursues me, and, as the French writer says: *“Le chagrin monte en croupe et galope avec moi”*.
+
+A woman is essentially a loving being, and in all of life’s events wants only to shine before those loved by her. Vanity in her is for the sake of love, as for a man it is for ambition. For whom do I learn? My studies, my education, my talent, if it were true that I possess any, is all useless, for I can never inspire a feeling of admiration: I am alone, alone forever…
+
+**September 6th, 1846**
+
+… It has come at last… Death is at my door. My hand writes these lines with great difficulty, but I will trace here my last thought in the world. I have asked, I have prayed for this hour… And now what do I feel? Why did it not come when I lived with a fallacious fancy, a mad conceit, an imaginary conception of a thing that could not be?... The loss of this beautiful and impossible ideal has broken at last, the link that tied me to this world cut asunder forever!
+
+
+I received a letter from my cousin Pedro. It was dated from Bogotá on his way back from Europe. When it was given to me I was so glad! I will hear at last a loving human voice that will bring me news from Antonio. I went out to the edge of the running stream, my favorite seat. I felt my dull heart beating against my side… I thought I heard Antonio’s voice in the low music of the murmuring water. He will send me a message, a kind word with Pedro, I thought. But oh! What a surprise! My cousin only speaks to me about Antonio’s marriage. Antonio’s marriage! Oh! Fool, fool that I have been in all these years!... I knew I would never see him again, but the idea that he would love another woman as he loved me never passes my mind. I woke as from a dream, it seemed to me the years that have gone were happy, oh! So happy while my delusion lasted… Everything around me spoke of him; there is not a corner in my cottage where he did not live in spirit; there is not a tree, a plant, a flower, a radiant star, a lovely weed, that is not in it something of Antonio for me… I don’t know what I felt; though it was midday everything was dark about me. I felt I was really dying. This news stabbed me to the heart. I only needed a strong emotion that my soul would leave forever this tainted body. I know, I have studied my malady too well not to know the symptoms of death. I have prepared everything for this last act of my miserable life… oh! Merciful God I am coming to thee at last! I love thee only… Antonio, my loved one on earth, has forgotten me, but oh! My Saviour, my Redeemer! Make Him as happy as thou hast made me unfortunate; instead of my long martyrdom give him felicity, give him health, give him success, give him joy… Now I am ready, and I will go to thee, Christ and rest forever on thy compassionate and tender Heart!...
+
+
 [^1]: The author uses the initial N to refer to towns whose names she does not want to specify. In the 2021 edition of the novel published by Ediciones Uniandes, Carolina Alzate speculates that this could be referring to a town near Natagaima, currently in Tolima. She also noted that, at the time, universities were in the capital, Bogotá, and well-positioned young men went there to get education. Transportation was difficult, so students sometimes spent years abroad.
 
 [^2]: A *cachaco* was a young man in 19th-century Bogotá. Elegant and gentlemanly, he was different from the period’s “dandy” because he was not particularly thought of as overly concerned with his appearance. I have chosen to leave the term in the original Spanish because it was also used to mean traditional men from Bogotá - making it only of the city.
