@@ -777,16 +777,19 @@ I received a letter from my cousin Pedro. It was dated from Bogotá on his way b
 
 [^18]: “Sorrow climbs aboard and gallops with me." The quote is from the book *The Perverted Peasant: or The Dangers of the City* by Restif de La Bretonne (1734-1806).
 
-[^19]: Translator’s Note: I have opted to leave the last diary entry the way Acosta de Samper translated it. Although she added some extra lines, the order and meaning remains the same as the Spanish version, only enhancing the images on some sections. I believe it is the right choice of ending for this edition. 
+[^19]: **Translator’s Note:** I have opted to leave the last diary entry the way Acosta de Samper translated it. Although she added some extra lines, the order and meaning remains the same as the Spanish version, only enhancing the images on some sections. I believe it is the right choice of ending for this edition. 
 
 
 ## Glossary
 
 **Games & Amusements:**
 
+* The *vacaloca* (literally, “crazy cow”) was a popular 19th-century firework display in Colombia: a cow-shaped frame covered in fireworks, carried or chased through the crowd. Children played with *buscaniguas*, small chasing firecrackers that darted unpredictably across the ground.
 * *Pasa diez* was likely a card or dice game where players “pass ten” or aim for a total of ten — something akin to blackjack or “twenty-one,” but with local variations.
 * In *cachimona*, players drew lines—one per participant—and hid a small ball at the end of one; whoever chose the line with the ball won.
 * In *bis-bis*, bets were placed on a board divided into numbered squares; a winning number was drawn by chance, and the banker paid the corresponding multiplier.
+* *Bambuco*: Dance with a rural atmosphere, typical of the Colombian Andean region, in which couples perform movements and figures that imitate the conquest of women by men. 
+* *Tresillo*: Card game, usually played by three people.
 
 **Food:**
 
@@ -810,3 +813,8 @@ I received a letter from my cousin Pedro. It was dated from Bogotá on his way b
 * *Alfandoques* are wooden or bamboo tubes filled with seeds or stones and shaken to produce sound.
 * *Carrascas* are hollowed palm segments with carved grooves, scraped with a stick or bone to create rhythm.
 * *Chirimia:* Wooden wind instrument similar to a clarinet, about seventy centimeters long, with ten holes and a cane reed mouthpiece.
+
+**Clothing**
+
+* *Fula*: thin cotton fabric, dyed indigo.
+*  *Ruana*: A type of poncho.
