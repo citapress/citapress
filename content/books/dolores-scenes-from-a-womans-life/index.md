@@ -279,7 +279,11 @@ She did not reply but with a tender look intended for my absent friend; and then
 
 [^3]: The *vacaloca* (literally, “crazy cow”) was a popular 19th-century firework display in Colombia: a cow-shaped frame covered in fireworks, carried or chased through the crowd. Children played with *buscaniguas*, small chasing firecrackers that darted unpredictably across the ground.
 
-[^4]: The following paragraphs contain an assortment of popular Colombian 19th-century table games, food, drinks, and music instruments. To define them I followed Alzate, who in turns follows the *Nuevo diccionario de americanismos*, the *Diccionario de bogotanismos*, and the *DLE*; plus general knowledge. Here are the explanations of each one:
+[^4]: The following paragraphs contain an assortment of popular nineteenth-century Colombian table games, food, drinks, and music instruments. To define them I followed Alzate, who in turns follows the *Nuevo diccionario de americanismos*, the *Diccionario de bogotanismos*, and the *DLE*; plus general knowledge. See the glossary for the explanations of each one:
+
+
+## Glossary
+
 **Games:**
 
 * *Pasa diez* was likely a card or dice game where players “pass ten” or aim for a total of ten — something akin to blackjack or “twenty-one,” but with local variations.
