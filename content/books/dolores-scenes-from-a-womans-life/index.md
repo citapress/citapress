@@ -159,7 +159,7 @@ Don Basilio, inspired by the dancing and music, which brought back the time of h
 > Such promising delights,
 > Where did they go?
 
-At this time the music commenced the waltz of the country, and all the young men hastened to seek partners among the graceful *ñapangas*. Some used *ruanas*, and all danced with the hat on and a cigar in the mouth.
+At this time the music commenced the waltz of the country, and all the young men hastened to seek partners among the graceful *ñapangas*. Some used *ruanas*[^10], and all danced with the hat on and a cigar in the mouth.
 
 Our young ladies looked on the scene in silence, and not little vexed at seeing young men of their acquaintance joining in the dance, and treated on par with these women. 
 
