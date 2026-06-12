@@ -781,6 +781,7 @@ I received a letter from my cousin Pedro. It was dated from Bogotá on his way b
 
 
 ## Glossary
+*In order of appearance.*
 
 **Games & Amusements:**
 
@@ -818,3 +819,8 @@ I received a letter from my cousin Pedro. It was dated from Bogotá on his way b
 
 * *Fula*: thin cotton fabric, dyed indigo.
 *  *Ruana*: A type of poncho.
+
+**People**
+
+*  A *cachaco* was a young man in 19th-century Bogotá. Elegant and gentlemanly, he was different from the period’s “dandy” because he was not particularly thought of as overly concerned with his appearance. 
+* *Ñapangas* or *cintureras*: Mestiza or mulatta women who worked as peasants or domestic servants. According to Soledad Acosta de Samper in *Un chistoso de aldea* (1905), *cinturera* referred in the lowlands to women who wore skirts without bodices (Alzate, *Nuevo diccionario de americanismos*).
