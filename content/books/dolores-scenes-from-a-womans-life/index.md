@@ -1,7 +1,7 @@
 ---
 title: "Dolores: Scenes from a Woman's Life"
 publication: 2026-06-30T14:02:00.000-07:00
-publishformat: Month and year
+publishformat: Year
 release: 1867-06-05T12:30:00.000-07:45
 releaseformat: Year
 templateKey: book-page
