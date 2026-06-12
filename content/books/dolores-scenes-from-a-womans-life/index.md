@@ -721,7 +721,7 @@ Today I received a letter from my cousin Pedro. He is very kind and it is a cons
 
 … God, religion, future life![^16] Unfathomable questions! Terrible vacillations of my soul! If my malady was only of the body, if it had not changed my spirit! But the nature of my character changes:  my heart is like that of the beast in this wilderness, cruel, cruel—and cold as the stones I see at the bottom of the running stream. Sometimes in a fit of madness I fly to my flowers, which seem to insult me with their beauty, and I tear them apart, and throw them in the wind. A moment after I come back to my senses, I tenderly look for them and cry when I find them withered. Other times, my soul rebels: it cannot believe so good a God could make me suffer so, and I deny His existence. Afterwards, I humble myself, throw myself on my knees and fall into endless adoration of the Almighty Being……….
 
-**September, 1845**
+**September, 1845** [^17]
 
 Ever the silence, the loneliness, the absence of a friendly voice to caress me with a word of sympathy. Eternal separation! Can there be a more terrifying thought for a being born to love?
 
@@ -731,7 +731,7 @@ I am going through a period of complete discouragement and lethargy. Lately, I�
 
 **March, 1846**
 
-At times I intend to study, to read, to learn, just to do something, dedicate myself to intellectual work, and thus forget my situation: I endeavor to flee from myself, but always, always thought pursues me, and, as the French writer says: *“Le chagrin monte en croupe et galope avec moi”*.
+At times I intend to study, to read, to learn, just to do something, dedicate myself to intellectual work, and thus forget my situation: I endeavor to flee from myself, but always, always thought pursues me, and, as the French writer says: *“Le chagrin monte en croupe et galope avec moi”*.[^18]
 
 A woman is essentially a loving being, and in all of life’s events wants only to shine before those loved by her. Vanity in her is for the sake of love, as for a man it is for ambition. For whom do I learn? My studies, my education, my talent, if it were true that I possess any, is all useless, for I can never inspire a feeling of admiration: I am alone, alone forever…
 
@@ -774,6 +774,11 @@ I received a letter from my cousin Pedro. It was dated from Bogotá on his way b
 [^15]: As I mentioned in the Prologue, Acosta de Samper re-wrote and expanded some passages in her English translation. This is one of them (“If it was true…soulless joy?”).
 
 [^16]: In Acosta de Samper’s translation, this passage reads: "...God, Religion, Future life!... What is all this but words, words, empty words that have no meaning to me. XXX XXX with emotion I look up to the sky but I find no loving Being there! What is Religion! I read about it in the good books my uncle sends me but I cannot grasp its aim, I cannot believe in any good it can make me. The future life of my soul has become a thing indifferent to me… If my malady was only of the body, if it had not changed my spirit I could bear it… But I am not the same gentle girl Antonio loved, no; in appearance I am a monster and my heart is like a XXXX, cruel, cruel and as cold as the stones I see at the bottom of the running stream I bathe in to calm my sufferings. I hate all that is beautiful, I tear to pieces all I find: the flowers of my garden and set loose the XXX birds of my aviary….. The paroxysm passes; I come back to my senses at last, to cry over my garden deprived of its beauty and I miss the music of my birds. Sometimes I get up from my bed of sufferings at night while my servants sleep in peace: I run out like a mad person I lift my hands to the sky and howl like a wild animal: 'If there is a God,' I scream, 'why do I endure this when never have I wronged a human creature?'... Then it seems to me He looks down on me with compassionate pity. I feel the hand of the Almighty on my throbbing heart, I bow to the ground and pray humbly… 'Oh! My God, thy will be done'... Those are my best hours……………”
+
+[^17]: In Samper’s translation, she omits the next three entries. She continues with the last passage that happens also in September but a year ahead, which could account for the omission.
+
+[^18]: “Sorrow climbs aboard and gallops with me." The quote is from the book *The Perverted Peasant: or The Dangers of the City* by Restif de La Bretonne (1734-1806).
+
 
 ## Glossary
 
