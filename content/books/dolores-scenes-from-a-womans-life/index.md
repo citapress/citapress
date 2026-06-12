@@ -49,11 +49,10 @@ published: false
 
 ## Part I
 
-> \*La nature est un drame avec de personnages.\** —Victor Hugo
+> *La nature est un drame avec de personnages.* —Victor Hugo
 >
-> \**Nature is a drama with characters.*
+> *Nature is a drama with characters.*
 
-*\-* 
 
 “WHAT a pretty girl!” exclaimed Antonio, seeing a group on horseback passing through the middle of the square in the village of N\*\** [^1], just then arrived to take part in the local festivities, appointed for the following day.
 
@@ -269,9 +268,9 @@ She did not reply but with a tender look intended for my absent friend; and then
 
 ## Part Two
 
-> *La douleur est une lumière qui nous èclaire la vie** —Balzac
+> *La douleur est une lumière qui nous èclaire la vie* —Balzac
 >
-> \**Pain is a light that illuminates our lives* 
+> *Pain is a light that illuminates our lives* 
 
 [^1]: The author uses the initial N to refer to towns whose names she does not want to specify. In the 2021 edition of the novel [published by Ediciones Uniandes](https://ediciones.uniandes.edu.co/gpd-dolores-9789587980967-680d2b6c9d6c3.html), Carolina Alzate speculates that this could be referring to a town near Natagaima, currently in Tolima. She also noted that, at the time, universities were in the capital, Bogotá, and well-positioned young men went there to get education. Transportation was difficult, so students sometimes spent years abroad.
 
