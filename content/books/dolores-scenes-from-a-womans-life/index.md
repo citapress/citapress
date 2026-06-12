@@ -43,8 +43,6 @@ foreword: >-
   <p><b> Cover:</b> Mariana Sanín A. 
 published: false
 ---
-***Translated by Sara Abadía***
-
 ## Acknowledgements
 
 ## Translator's Foreword
@@ -72,7 +70,7 @@ Though the absence of the third part of the book is striking, the most fascinati
 All of these reasons make *Dolores* a particularly fascinating challenge for a contemporary translator. This is how I chose to approach the text: I decided to preserve the anglicisms and nineteenth-century syntactic structures used by the original translator whenever they did not alter the meaning of the source text. Naturally, I did not include explanations unnecessary for a modern reader, nor did I add comments regarding race or femininity that are absent from the original. Whenever possible, I kept Spanish words that have no direct translation and included their meanings in the glossary, following Alzate’s definitions in the [2021 edition published by the Universidad de los Andes,](https://ediciones.uniandes.edu.co/gpd-dolores-9789587980967-680d2b6c9d6c3.html) which presents the authorized text. As for the stimulating—yet challenging—third part, in which Acosta de Samper restores what is missing, but also resorts to paraphrasing in order to adapt the long sentences of Spanish syntax to the English version, I left them almost intact. Where I encountered passages of particular beauty and poetic force, which also add a layer of complexity to the story and to the psychology of the character, I retained them, while carefully marking the beginning and end of these additions in the footnotes for curious readers who may wish to trace the transformations of the text.
 
 
-Finally, I would like to extend my deepest thanks to Jessi Haley and Juliana Castro Varón  for making Cita Press possible and for giving a home to thousands of women writers who, like Soledad, do not always find a place in truly feminist and democratic publishing circuits. I dare say the author would be delighted to see *Dolores* reach so many readers around the world. Thank you, thank you.
+Finally, I would like to extend my deepest thanks to Jessi Haley and Juliana Castro Varón  for making Cita Press possible and for giving a home to thousands of women writers who, like Soledad, do not always find a place in truly feminist and democratic publishing circuits. I dare say the author would be delighted to see *Dolores* reach so many readers around the world. Thank you, thank you. ***—Sara Abadía*** 
 
 **Bio**
 
