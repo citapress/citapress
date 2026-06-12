@@ -105,15 +105,15 @@ Indeed, back then it was believed in towns that there could be no popular festiv
 
 The *chirimia* is not an instrument exclusively American[^6], something like a Scotch bag-pipe, or the *gaeta* of Galicia or Savoy. A similar instrument is found among the Greek sculptures, and it was on one of this description that Nero played, its discordant sounds harmonizing with his own disposition.
 
-After having inspected the tables of the square, where hilarity reigned supreme, we next proceeded to a *ñapangas* or *cintureras* ball. Such was the composure of these women, that even the ladies liked to go and see them dance, without fear that their manners may be criticized. It had been announced beforehand that the ball would be full and noisy, and so it was; in approaching the place we found ourselves among a curious crowd, who surrounded the door or hung from the windows overlooking the saloon. Upon our arrival they made room for us however; the ladies found a place near the windows and us gentlemen stood behind them. 
+After having inspected the tables of the square, where hilarity reigned supreme, we next proceeded to a *ñapangas* or *cintureras* ball.[^7] Such was the composure of these women, that even the ladies liked to go and see them dance, without fear that their manners may be criticized. It had been announced beforehand that the ball would be full and noisy, and so it was; in approaching the place we found ourselves among a curious crowd, who surrounded the door or hung from the windows overlooking the saloon. Upon our arrival they made room for us however; the ladies found a place near the windows and us gentlemen stood behind them. 
 
 The saloon was of ordinary shape, with a brick floor polished up for the occasion. On the walls there were some colored prints of *William Tell*, and *Matilda of the Crusades*. Four long sofas of rawhide, and some chairs of unequal size and shape were its only decoration; there were alcoves on either side, with red curtains in place of wooden doors, and along the walls strips of wood had been nails, supporting tallow candles, by the din light of which we could see the ladies seated around the room.
 
-The *ñapangas* wore petticoats of blue *fula* —fringed at the bottom, shifts bordered with red and black, a red or blue handkerchief, and a little straw hat trimmed with a wide ribbon. Some took off their hats in dancing, and displayed long black hair, parted in double braids which hung down their backs, terminating with a ribbon tie.
+The *ñapangas* wore petticoats of blue *fula*[^8] —fringed at the bottom, shifts bordered with red and black, a red or blue handkerchief, and a little straw hat trimmed with a wide ribbon. Some took off their hats in dancing, and displayed long black hair, parted in double braids which hung down their backs, terminating with a ribbon tie.
 
 The men, all of whom had pretensions of being social *cachacos*, smoked and drank small cups of aguardiente, fraternizing with the musicians, who, placed in the anterior door of the saloon, were occupied in tuning their instruments. 
 
-“Get up, Don Basilio!” a cry came from the doorway as the band began to play an enlivening *bambuco.* “Your partner’s waiting for you!”
+“Get up, Don Basilio!” a cry came from the doorway as the band began to play an enlivening *bambuco.*[^9] “Your partner’s waiting for you!”
 
 All eyes were immediately turned upon a man about forty years of age: fat, close shaven, a wide face and retreating forehead; there was hardness in his look, and a habit of closing one eye when he conversed gave to his countenance a singularly disagreeable expression.
 
@@ -214,3 +214,11 @@ Antonio suffered, I was sad, and we returned to my father’s almost without exc
 [^5]: Lord Chesterfield was an English statesman and writer (1694–1773), author of Letters to His Son and Letters to His Godson, celebrated for their wit, elegance, and daring style (Alzate).
 
 [^6]:Understood, as it is in most South American countries today, as the continent of America, and not just the country of the United States.
+
+[^7]: *Ñapangas* or *cintureras*: Mestiza or mulatta women who worked as peasants or domestic servants. According to Soledad Acosta de Samper in *Un chistoso de aldea* (1905), *cinturera* referred in the lowlands to women who wore skirts without bodices (Alzate, *Nuevo diccionario de americanismos*).
+
+[^8]:  *Fula*: thin cotton fabric, dyed indigo.
+
+[^9]: *Bambuco*: Dance with a rural atmosphere, typical of the Colombian Andean region, in which couples perform movements and figures that imitate the conquest of women by men. 
+
+[^10]: *Ruanas*: A type of poncho.
