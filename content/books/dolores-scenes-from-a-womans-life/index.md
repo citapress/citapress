@@ -55,7 +55,7 @@ published: false
 
 *\-* 
 
-“WHAT a pretty girl!” exclaimed Antonio, seeing a group on horseback passing through the middle of the square in the village of N\*\**[^1], just then arrived to take part in the local festivities, appointed for the following day.
+“WHAT a pretty girl!” exclaimed Antonio, seeing a group on horseback passing through the middle of the square in the village of N\*\** [^1], just then arrived to take part in the local festivities, appointed for the following day.
 
 Antonio González had been a fellow student and my favorite friend from my youth. Upon saying goodbye at university, both of us having obtained the degree of Doctor, he offered to visit my town during the parish festivals, and accordingly had arrived the day before at N\*\**. Looking for amusement – and finding everything interesting, with the enthusiasm of early youth – we were overseeing the construction of the barriers in the square for the bullfight happening the next day. It was then that, like I said before, there passed a party on horseback, in the midst of which stood out, like a precious lily in the middle of a field, the most beautiful flower of the district: my cousin Dolores.
 
