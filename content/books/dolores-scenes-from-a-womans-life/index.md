@@ -34,8 +34,11 @@ description: >+
 
   <p>This new translation by Sara Abadía updates an unpublished nineteenth century English translation of an iconic Latin American feminist text, making it accessible to readers in English in a way that corresponds to Acosta de Samper’s original vision. </p>
 
-foreword: |-
-  <b>Translation & Foreword: </b> Sara Abadía
+foreword: >-
+  <b>Translation & Foreword: </b> Sara Abadía Alvarado is a literary scholar and
+  professor of performing arts based in Boston. <i>En medio de una noche
+  eterna</i> is her debut novel.
+
 
   <p><b> Cover:</b> Mariana Sanín A. 
 published: false
