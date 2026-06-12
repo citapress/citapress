@@ -221,6 +221,58 @@ On the same day that Antonio took leave, on his return to Bogotá, Aunt Juana re
 
 On arrival I found my Aunt was absent, and the house silent. I dismounted, however, and gave the horse to a servant, passed through the patio, and went directly to the quarter occupied by Dolores, who I was told I should find there. 
 
+The favourite seat of my cousin was in a wide corridor in the rear of the house, overlooking an orchard and garden, with some tall mangoes, oranges, and lemons of the choicest kinds, rose apples and pomegranates; the trunks and limbs of the largest trees entwined with star jessamine and convolvulus of several varieties, with musk-rose and geraniums. Under a canopy of pomegranate and jessamine stood a water pond, whose constant murmur harmonized with the voices of numerous small birds. The aviary of Dolores was well known in the vicinity. It occupied one end of the corridor. In it were collected birds from every quarter and climate who had taught themselves how to live together peacefully. There sang the harmonious blackbirds, the cheerful oriole and the artistic troupial, the noisy sugarbirds, and the bluebird and the cardinal. In the midst of flowers, sewing, reading, and singing with her birds, Dolores passed the day. In approaching the house you might often hear the hum of the aviary and the sweet voice of the mistress at the same time.
+
+	But on the day of my arrival silence prevailed throughout the place. All nature appeared paralyzed by the fiery sun and suffocating heat. The birds were silent and nothing was heard but the trickling water of the pond, winding its way by gentle leaps through beds of flowers. From afar I could see Dolores, simply dressed in white, with no other adornment than her beautiful dark hair. She was sitting upon a low stool, with one arm resting upon her usual seat and supporting her head, while her other little hand, white and rosy, hung loosely by her side. I stopped to contemplate the charming figure, supposing her asleep, but she had heard the jingle of my spurs approaching, and rose immediately, striving to conceal the tears that filled her eyes, and gathering up a paper that lay with her needlework.
+
+After the first salutation was over, seeing the paper, I asked, “What is this, cousin?”
+
+“I was writing, and…”
+
+“To whom?”
+
+“To nobody," was her answer.
+
+“What? Has Antonio already..?”
+
+“No, Pedro," she responded with much dignity; “he never asked me to, nor should I have done so if he had."
+
+“Dolores," I said, taking her cold and trembling hand in both of mine, “have I not told you that Antonio loves you madly, that he has confessed it to me a thousand times, and begged that I would exhort you to preserve your faith in him?”
+
+“So far," she said, “he has given me reason to understand some preference towards me. But I can say no more."
+
+“And that letter?”
+
+“It is no letter," she said.
+
+“A missive, then," I replied, laughingly; “a note, an epistle, a billet, call it what you will."
+
+“You won’t believe me," she returned. “There, take the paper. It is written only for myself, but as you insist I will show it to you."
+
+She did so, and it contained some charming verses, displaying deep sentiment and high poetic power; but a melancholy I did not know she possessed pervaded—it was a tender adieu to her happy and tranquil infancy, and an invocation to womanhood, that had suddenly opened like a new revelation. Her heart had been moved for the first time, and that shiver made her feel that a life of suffering had begun.
+
+ Embarrassed and moved, she kept her eyes down while I was reading. Her pale, and rosy complexion appeared to increase in brilliancy in contrast to her white attire and dark unbraided hair. A vague sentiment of fear touched me at the moment, as it had done my father on another occasion upon noticing the particular color of her complexion; but the impression passed off, to be renewed again afterwards.
+
+The remainder of the day was spent in my aunt’s house. I had performed my promise to Antonio, and satisfied myself of her feelings towards him. It was time for me to return to Bogotá, and I was impatient to do so, to see my betrothed, after an absence of six weeks.
+
+On my departure Dolores proposed to accompany me part of the way, to point out a very beautiful spot at the foot of the mountain, that she had discovered in her rambles but a few days before.
+
+She was in charming spirits, full of the animation inspired by a love that seemed to form a kind of halo around her. What matters a short separation knowing one’s love is reciprocated? At a part of the road where a narrow pass opens a mountain, she took the lead and I followed—not without admiration of her graceful figure, and graceful and serene management of a fiery horse, which to her alone was docile and obedient.
+
+In a short time we passed into a more open country. A mountain stream came tumbling over rocks into a basin surrounded by quivering, varied furze and pasture. he stream was bordered on either side and arched by thick foliage of lofty trees, through which the sun never penetrated, preventing the growth of vegetation beneath, where detached rocks, and decayed trunks of old trees green with moss, partially covered the soil, carpeted by a soft, golden sand. The sun had begun to set, and the lengthened shadows produced a delicious freshness in that spot; flocks of colorful native birds, talkative parrots and paroquets, had collected on the tops of the trees, gilded by the last retiring rays. Here we dismounted, and my aunt, who had accompanied us, bringing out some sweets, with a coca-nut shell curiously embossed in polished silver, invited us to a rural entertainment.
+
+“How delightful it would be," said Dolores, “to pass one’s life in such a place as this."
+
+“Alone?” I answered, with a smile.
+
+She did not reply but with a tender look intended for my absent friend; and then in a happy mood continued the conversation. Poor girl… but still happy in the ignorance of what was yet to come!
+
+## Part Two
+
+> *La douleur est une lumière qui nous èclaire la vie** —Balzac
+>
+> \**Pain is a light that illuminates our lives* 
+
 [^1]: The author uses the initial N to refer to towns whose names she does not want to specify. In the 2021 edition of the novel [published by Ediciones Uniandes](https://ediciones.uniandes.edu.co/gpd-dolores-9789587980967-680d2b6c9d6c3.html), Carolina Alzate speculates that this could be referring to a town near Natagaima, currently in Tolima. She also noted that, at the time, universities were in the capital, Bogotá, and well-positioned young men went there to get education. Transportation was difficult, so students sometimes spent years abroad.
 
 [^2]: A *cachaco* was a young man in 19th-century Bogotá. Elegant and gentlemanly, he was different from the period’s “dandy” because he was not particularly thought of as overly concerned with his appearance. I have chosen to leave the term in the original Spanish because it was also used to mean traditional men from Bogotá - making it only of the city.
