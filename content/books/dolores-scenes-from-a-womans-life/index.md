@@ -387,7 +387,7 @@ I was much oppressed in spirits, my mind was willing to accept any sympathy, and
 
 I ascended the stairs in a state of great perturbation, and my voice trembled on saluting her.
 
-I found the usual company collected; on one side of the room, around the piano, was a group composed of Mercedes and some female friends, one of whom was executing a piece of music, while Don Basilio was giving a dissertation upon the opera from which it was taken; Julian turned the leaves of the music with a languid look towards Mercedes. On the other side was her father playing *tresillo* with two or three friends introduced by Don Basilio, common congressmen from distant provinces, with stiff collars, tight jackets, taut gaiters, and hands so black and rough that it was clear who their forebears had been.
+I found the usual company collected; on one side of the room, around the piano, was a group composed of Mercedes and some female friends, one of whom was executing a piece of music, while Don Basilio was giving a dissertation upon the opera from which it was taken; Julian turned the leaves of the music with a languid look towards Mercedes. On the other side was her father playing *tresillo* [^14] with two or three friends introduced by Don Basilio, common congressmen from distant provinces, with stiff collars, tight jackets, taut gaiters, and hands so black and rough that it was clear who their forebears had been.
 
 A little flutter took place in the company upon my arrival. All eyes were turned upon me, and for the moment there was an interruption of conversation. Mercedes received me with hauteur, turning her back after a slight salutation, hardly looking at me. The master of the house merely acknowledged me, and the company was as cold as ice; but, in the midst of the partial silence caused by my arrival, Don Basilio, addressing me in a loud voice, with his accustomed pedantry, said:
 
@@ -634,6 +634,8 @@ At last, amongst others, I received the following letter from herself:
 [^12]: *Hacienda*: Country estate, plantation.
 
 [^13]: *Lazaroth* derives from Lazarus of Bethany, the biblical figure resurrected by Jesus. In medieval Europe, “Lazarus” became a generic name for the poor, the sick, and especially lepers, turning “lazarinos” into a term associated with social exclusion, illness, and abandonment. See *Oxford English Dictionary*, s.v. “Lazar” and “lazaretto”; *Encyclopaedia Britannica*, “Lazarus.”
+
+[^14]: *Tresillo*: Card game, usually played by three people.
 
 ## Glossary
 
