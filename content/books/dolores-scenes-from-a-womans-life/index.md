@@ -45,9 +45,38 @@ published: false
 ---
 ***Translated by Sara Abadía***
 
+## Acknowledgements
+
 ## Translator's Foreword
 
+**Translator’s Foreword**
 
+Soledad Acosta de Samper spoke English, traveled the world, wrote every day, and saved the newspaper clippings in which her novels appeared to turn them into albums. She married for love, had four daughters—one of them, a nun and a poet, published the version of the *Novena de Aguinaldos* that is sung during the nine days leading up to Christmas in Colombia, Venezuela, and Ecuador—founded five magazines, established herself as a journalist and historian, fought for women’s place in society, and resisted the censorship imposed on her most renowned female protagonist today in Latin America: Dolores.
+	
+
+Acosta was one of the most prolific writers of her time among both male and female writers. She wrote “twenty-one novels, forty-eight short stories, four plays, forty-three social and literary studies, twenty-one historical treatises, and founded and directed five newspapers (in which she herself contributed the majority of the fiction and nonfiction texts); she also produced numerous translations”. Like many women writers of the nineteenth century, she was censored and later forgotten. Her generation was one of thinkers, politically committed to defining how individuals were to be shaped as citizens of a civilized nation. This included, of course, the place of women, who were constantly relegated to silence and submission and assigned responsibility for the home and children. Acosta’s writing was politically engaged and openly opinionated. 
+
+The 1980s, fortunately, brought with them a feminism committed to revisiting and recovering the literary canon of women writers. Acosta was recovered during that decade by pioneering scholars such as Monserrat Ordóñez and Carolina Alzate, whose teachings paved the way for this translation project, through which I hope to continue filling the gaps in literary production and scholarship surrounding the author. It must have been difficult to situate her within a tradition in her own time, but, like so many others, she was writing—as the reader can now see in this book—for the future. Her portrayal of social customs appears almost fantastical in light of the transformation undergone by her protagonist.
+
+*Dolores*, titled after its heroine, was written in 1847. It tells the story of a young woman from nineteenth-century Bogotá who discovers a family secret that gradually leads to her decline. Through her letters and diary we enter her inner world, full of reflections on the meaning of death and love, religion and nature, illness and youth. The book was published in the same year as *María* by Jorge Isaacs, a novel that has since been recognized as Colombia’s foundational novel and has appeared in more than 150 editions (while *Dolores* has had only four over the past 150 years). Although it was perhaps not recognized for its brilliance at the time of publication, *Dolores* is today the most studied and critically reviewed of Acosta’s works.
+
+*Dolores* is something of a unicorn in the practice of translation for several reasons. To start with, there exists an English translation produced in New York in the late nineteenth century. We do not know the translator’s name or the exact date of their work, since neither appears in the printed version. It is rare for a modern translator to have access to a version produced in the same period as the original work, and this access  offers  unique opportunities. On the one hand, the translation serves as a source for the idioms of nineteenth-century English; on the other, as evidence of the ideas that the translator held about a Colombian woman writer. For instance, there are passages in the English version in which Dolores’s complexion is described as “pure” or “white,” words that do not appear in the Spanish manuscript, although the latter does portray her with rosy cheeks and beautiful skin. In other moments, when Acosta devotes several sentences to describing the customs of Bogotá at the time—many of them employing words now obsolete—the nineteenth-century translator opts for a mixture of approximate equivalents and Spanish words explained (sometimes, though not always) through footnotes.
+
+
+Yet this is not the most interesting feature. In the original English translation of *Dolores*, the entire third part of the novel is omitted. The book is a framed narrative: although Dolores is the protagonist, she is not the narrator; her story is told by her cousin Pedro. In the first part, his voice predominates; the second combines his words with the letters Dolores sends him. The third section—the one eliminated in the nineteenth-century translation—consists entirely of the protagonist’s diaries, in which she writes in which her voice, previously mediated through letters and recounted conversations, comes through directly, with marked intensity. This structure is a way of circumventing the public’s preference for a male narrator and allowing Dolores to have the final word in her own story, without Pedro having to speak for her, as Alzate notes—a reading I share.
+
+
+Though the absence of the third part of the book is striking, the most fascinating aspect of the manuscript comes from an act of coauthorship that corrects it: Acosta de Samper herself translated, by hand, the omitted third part. Or rather, she revisited it (not to say rewrote it). Every writer knows the temptation to keep revising a text indefinitely, as well as the experience of rereading a book long after it has been published. Time, distance, and experience turn us into editors and expanders. Translation, moreover, offers the possibility of giving a text something like a parallel life, in which it can exist in another register. That is precisely what Acosta de Samper did upon returning to her novel *Dolores*. In her English version, the final section abounds in paraphrases and in beautiful added passages that do not appear in the original Spanish text.
+
+
+All of these reasons make *Dolores* a particularly fascinating challenge for a contemporary translator. This is how I chose to approach the text: I decided to preserve the anglicisms and nineteenth-century syntactic structures used by the original translator whenever they did not alter the meaning of the source text. Naturally, I did not include explanations unnecessary for a modern reader, nor did I add comments regarding race or femininity that are absent from the original. Whenever possible, I kept Spanish words that have no direct translation and included their meanings in the glossary, following Alzate’s definitions in the [2021 edition published by the Universidad de los Andes,](https://ediciones.uniandes.edu.co/gpd-dolores-9789587980967-680d2b6c9d6c3.html) which presents the authorized text. As for the stimulating—yet challenging—third part, in which Acosta de Samper restores what is missing, but also resorts to paraphrasing in order to adapt the long sentences of Spanish syntax to the English version, I left them almost intact. Where I encountered passages of particular beauty and poetic force, which also add a layer of complexity to the story and to the psychology of the character, I retained them, while carefully marking the beginning and end of these additions in the footnotes for curious readers who may wish to trace the transformations of the text.
+
+
+Finally, I would like to extend my deepest thanks to Jessi Haley and Juliana Castro Varón  for making Cita Press possible and for giving a home to thousands of women writers who, like Soledad, do not always find a place in truly feminist and democratic publishing circuits. I dare say the author would be delighted to see *Dolores* reach so many readers around the world. Thank you, thank you.
+
+**Bio**
+
+Sara Abadía is a Colombian writer and educator. She studied Literature at Universidad de los Andes, where she first encountered the work of Soledad Acosta de Samper, an author with whom she continues to hold an ongoing dialogue. Her work has appeared in *070*, *NACLA*, and with Laguna Press. In 2023, she was selected for *Anthology III* of the New York Book Fair for her short story “Anamorfosis.” *En medio de una noche eterna* is her debut novel, written during her Master’s program in Creative Writing in Spanish at NYU, under the supervision and guidance of Rita Indiana, Amelia Bande, and Silvina López Medín. She currently lives in Boston, where she teaches theater to young people in East Boston. She writes with deliberate ambition and a sustained belief in literature’s power to outlast time.
 
 ## Part One
 
@@ -739,9 +768,7 @@ A woman is essentially a loving being, and in all of life’s events wants only 
 
 … It has come at last… Death is at my door. My hand writes these lines with great difficulty, but I will trace here my last thought in the world. I have asked, I have prayed for this hour… And now what do I feel? Why did it not come when I lived with a fallacious fancy, a mad conceit, an imaginary conception of a thing that could not be?... The loss of this beautiful and impossible ideal has broken at last, the link that tied me to this world cut asunder forever!
 
-
 I received a letter from my cousin Pedro. It was dated from Bogotá on his way back from Europe. When it was given to me I was so glad! I will hear at last a loving human voice that will bring me news from Antonio. I went out to the edge of the running stream, my favorite seat. I felt my dull heart beating against my side… I thought I heard Antonio’s voice in the low music of the murmuring water. He will send me a message, a kind word with Pedro, I thought. But oh! What a surprise! My cousin only speaks to me about Antonio’s marriage. Antonio’s marriage! Oh! Fool, fool that I have been in all these years!... I knew I would never see him again, but the idea that he would love another woman as he loved me never passes my mind. I woke as from a dream, it seemed to me the years that have gone were happy, oh! So happy while my delusion lasted… Everything around me spoke of him; there is not a corner in my cottage where he did not live in spirit; there is not a tree, a plant, a flower, a radiant star, a lovely weed, that is not in it something of Antonio for me… I don’t know what I felt; though it was midday everything was dark about me. I felt I was really dying. This news stabbed me to the heart. I only needed a strong emotion that my soul would leave forever this tainted body. I know, I have studied my malady too well not to know the symptoms of death. I have prepared everything for this last act of my miserable life… oh! Merciful God I am coming to thee at last! I love thee only… Antonio, my loved one on earth, has forgotten me, but oh! My Saviour, my Redeemer! Make Him as happy as thou hast made me unfortunate; instead of my long martyrdom give him felicity, give him health, give him success, give him joy… Now I am ready, and I will go to thee, Christ and rest forever on thy compassionate and tender Heart!...[^19]
-
 
 [^1]: The author uses the initial N to refer to towns whose names she does not want to specify. In the 2021 edition of the novel published by Ediciones Uniandes, Carolina Alzate speculates that this could be referring to a town near Natagaima, currently in Tolima. She also noted that, at the time, universities were in the capital, Bogotá, and well-positioned young men went there to get education. Transportation was difficult, so students sometimes spent years abroad.
 
@@ -781,8 +808,23 @@ I received a letter from my cousin Pedro. It was dated from Bogotá on his way b
 
 [^19]: **Translator’s Note:** I have opted to leave the last diary entry the way Acosta de Samper translated it. Although she added some extra lines, the order and meaning remains the same as the Spanish version, only enhancing the images on some sections. I believe it is the right choice of ending for this edition. 
 
+## Bibliography
+
+Acosta de Samper, Soledad. *Dolores*. Bogotá, Ediciones Uniandes, 2021.
+
+
+Acosta de Samper, Soledad. *Dolores*. *The Story of a Leper.* New York, 1899. https://babel.banrepcultural.org/digital/collection/p17054coll26/id/15636
+
+
+Alzare, Carolina. *Soledad Acosta de Samper y el discurso letrado de género, 1853-1881.* Bogotá, Iberoamericana, 2015.
+
+
+Alzate, Carolina & Ordóñez, Montserrat et al. *Soledad Acosta de Samper. Escritura, género y	nación en el siglo XIX.* Editorial Iberoamericana Vervuert, 2005.
+
+
 
 ## Glossary
+
 *In order of appearance.*
 
 **Games & Amusements:**
@@ -820,9 +862,9 @@ I received a letter from my cousin Pedro. It was dated from Bogotá on his way b
 **Clothing**
 
 * *Fula*: thin cotton fabric, dyed indigo.
-*  *Ruana*: A type of poncho.
+* *Ruana*: A type of poncho.
 
 **People**
 
-*  A *cachaco* was a young man in 19th-century Bogotá. Elegant and gentlemanly, he was different from the period’s “dandy” because he was not particularly thought of as overly concerned with his appearance. 
+* A *cachaco* was a young man in 19th-century Bogotá. Elegant and gentlemanly, he was different from the period’s “dandy” because he was not particularly thought of as overly concerned with his appearance. 
 * *Ñapangas* or *cintureras*: Mestiza or mulatta women who worked as peasants or domestic servants. According to Soledad Acosta de Samper in *Un chistoso de aldea* (1905), *cinturera* referred in the lowlands to women who wore skirts without bodices (Alzate, *Nuevo diccionario de americanismos*).
