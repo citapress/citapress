@@ -45,7 +45,9 @@ published: false
 ---
 ***Translated by Sara Abadía***
 
-## Foreword
+## Translator's Foreword
+
+
 
 ## Part One
 
