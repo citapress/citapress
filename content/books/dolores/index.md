@@ -114,110 +114,18 @@ La situación del país impedía que se tuviese comunicación alguna con la madr
 
 Cuando volvió a reinar alguna paz en el país se supo que, entre los españoles que habían salido prófugos, el patrón de Basilio, después de haber vagado por las costas de Colombia y enfermádose en las Antillas, apenas había tenido tiempo de llegar a España y morir sin dar sus últimas disposiciones. Los herederos enviaron órdenes para que realizasen las pocas fincas que no habían sido confiscadas, y se habló vagamente de una suma de consideración que el español había dejado enterrada, pero no pudieron reclamarla ni dar pruebas de su existencia.
 
-Basilio volvió a la capital diciendo haber heredado a su incógnito pariente, y haciendo
+Basilio volvió a la capital diciendo haber heredado a su incógnito pariente, y haciendo alarde de su riqueza trató de introducirse en la sociedad distinguida, pero fue rechazado con desdén.
 
-alarde de su riqueza trató de introducirse en la sociedad distinguida, pero fue rechazado
+Disgustado, pero decidido a poner todos los medios que tenía a su alcance para hacer olvidar su origen, partió para Europa y permaneció algunos años en París. Sin relaciones ni posición, se entregó a los vicios y acabó de corromper el escaso corazón con que la naturaleza lo había dotado. Alimentando su espíritu con la lectura de obras escépticas como las que entonces estaban en moda, imitaciones de los nuevos sistemas filosóficos de la moderna Alemania, el joven americano se convirtió en un materialista sin ningún sentimiento de virtud.
 
-con desdén.
+Resuelto a crearse una carrera brillante en su país, volvió con mil proyectos ambiciosos, y muy pronto se hicieron notar sus artículos en los periódicos de uno y otro partido. Poseía una memoria muy feliz, una instrucción regular y cierta elocuencia irónica, aunque superficial, con que se engaña fácilmente. Se firmaba B. de Miraflores, y decían que en París había pasado por barón. Hablaba francés e inglés con bastante corrección y siempre adornaba su conversación con frases y citas de autores extranjeros. Se vestía con un lujo extravagante y de mal gusto, y daba almuerzos en que desplegaba un boato charro con que alucinaba al vulgo.
 
-Disgustado, pero decidido a poner todos los medios que tenía a su alcance para hacer
+Pero, desgraciadamente, si tenía memoria para algunas cosas la había perdido completamente para otras, y durante su viaje olvidó a la pobre madre, única persona que lloraba su ausencia. A su regreso de Europa no quiso verla ni dejarse visitar por ella (¡eso lo podría desacreditar!) pero fingiendo la generosidad que distingue a los nobles corazones, enviaba, por medio de un joven que le servía de factótum, una pensión mensual a «la pobre estanciera que le había servido de nodriza», según decía arqueando las cejas.
 
-olvidar su origen, partió para Europa y permaneció algunos años en París. Sin relaciones
+Deseando, al cabo de algunos años, faire une fin, como él decía, propuso casamiento sucesivamente a las señoritas más ricas, bellas y virtuosas de Bogotá: naturalmente todas lo desdeñaron hiriendo su amor propio, lo que le hizo recordar la famosa máxima de que: «de la calumnia siempre queda algo», y tarde o temprano se vengó de ellas.
 
-ni posición, se entregó a los vicios y acabó de corromper el escaso corazón con que la
+Desalentado en sus proyectos matrimoniales entró de lleno en la política; pero aquí también lo aguardaban desengaños. Sus antecedentes poco claros, su lenguaje acervo y mordaz y sus malas costumbres lo hicieron despreciable entre los hombres de algún valer en todos los partidos. No pudiendo hacerse apreciar y admirar se hizo temible, y juró burlarse de la sociedad y vengarse de todos los que lo habían humillado. Se alió con los hombres más corrompidos de uno y otro partido y logró por medio de intrigas formarse cierta reputación entre los escritores públicos del país. Su pluma siempre estaba al servicio de los que gobernaban: con los conservadores, llamados entonces retrógrados, era partidario del orden absoluto; hablaba con elocuencia de las garantías individuales y del ejército permanente; se mostraba partidario de la pena de muerte y vilipendiaba la libertad de imprenta. Con los llamados progresistas, peroraba sobre la necesidad de la libertad del pensamiento y de la democracia pura; se enternecía al hablar de la causa sagrada del pueblo soberano y del sufragio universal; citaba a todas manos, mezclando sacrílegamente a Platón, Voltaire, Rousseau y Jesucristo. Una vez que quería halagar a los ultrarrojos lloró, en un discurso de aniversario de la independencia, la muerte prematura de la víctima de la democracia: ¡Marat!
 
-naturaleza lo había dotado. Alimentando su espíritu con la lectura de obras escépticas
+La carrera política de nuestro héroe no podía ser completa si no agregaba un lauro más a su gloria: quería ser diputado. En las provincias del centro y del Magdalena era demasiado conocido para ser popular, y le aconsejaron que fuese a las provincias del Sur, donde podría ganarse a los electores con algunos discursos bien sentidos. Éste era el motivo que había llevado a don Basilio de Miraflores a mi pueblo, en el que se detuvo de paso al saber que se preparaban fiestas.
 
-como las que entonces estaban en moda, imitaciones de los nuevos sistemas filosóficos
-
-de la moderna Alemania, el joven americano se convirtió en un materialista sin ningún
-
-sentimiento de virtud.
-
-Resuelto a crearse una carrera brillante en su país, volvió con mil proyectos ambiciosos, y
-
-muy pronto se hicieron notar sus artículos en los periódicos de uno y otro partido. Poseía
-
-una memoria muy feliz, una instrucción regular y cierta elocuencia irónica, aunque
-
-superficial, con que se engaña fácilmente. Se firmaba B. de Miraflores, y decían que en
-
-París había pasado por barón. Hablaba francés e inglés con bastante corrección y siempre
-
-adornaba su conversación con frases y citas de autores extranjeros. Se vestía con un lujo
-
-extravagante y de mal gusto, y daba almuerzos en que desplegaba un boato charro con
-
-que alucinaba al vulgo.
-
-Pero, desgraciadamente, si tenía memoria para algunas cosas la había perdido
-
-completamente para otras, y durante su viaje olvidó a la pobre madre, única persona que
-
-lloraba su ausencia. A su regreso de Europa no quiso verla ni dejarse visitar por ella (¡eso
-
-lo podría desacreditar!) pero fingiendo la generosidad que distingue a los nobles
-
-corazones, enviaba, por medio de un joven que le servía de factótum, una pensión
-
-mensual a «la pobre estanciera que le había servido de nodriza», según decía arqueando
-
-las cejas.
-
-Deseando, al cabo de algunos años, faire une fin, como él decía, propuso casamiento
-
-sucesivamente a las señoritas más ricas, bellas y virtuosas de Bogotá: naturalmente todas
-
-lo desdeñaron hiriendo su amor propio, lo que le hizo recordar la famosa máxima de que:
-
-«de la calumnia siempre queda algo», y tarde o temprano se vengó de ellas.
-
-Desalentado en sus proyectos matrimoniales entró de lleno en la política; pero aquí
-
-también lo aguardaban desengaños. Sus antecedentes poco claros, su lenguaje acervo y
-
-mordaz y sus malas costumbres lo hicieron despreciable entre los hombres de algún valer
-
-en todos los partidos. No pudiendo hacerse apreciar y admirar se hizo temible, y juró
-
-burlarse de la sociedad y vengarse de todos los que lo habían humillado. Se alió con los
-
-hombres más corrompidos de uno y otro partido y logró por medio de intrigas formarse
-
-cierta reputación entre los escritores públicos del país. Su pluma siempre estaba al
-
-servicio de los que gobernaban: con los conservadores, llamados entonces retrógrados,
-
-era partidario del orden absoluto; hablaba con elocuencia de las garantías individuales y
-
-del ejército permanente; se mostraba partidario de la pena de muerte y vilipendiaba la
-
-libertad de imprenta. Con los llamados progresistas, peroraba sobre la necesidad de la
-
-libertad del pensamiento y de la democracia pura; se enternecía al hablar de la causa
-
-sagrada del pueblo soberano y del sufragio universal; citaba a todas manos, mezclando
-
-sacrílegamente a Platón, Voltaire, Rousseau y Jesucristo. Una vez que quería halagar a
-
-los ultrarrojos lloró, en un discurso de aniversario de la independencia, la muerte
-
-prematura de la víctima de la democracia: ¡Marat!
-
-La carrera política de nuestro héroe no podía ser completa si no agregaba un lauro más a
-
-su gloria: quería ser diputado. En las provincias del centro y del Magdalena era
-
-demasiado conocido para ser popular, y le aconsejaron que fuese a las provincias del Sur,
-
-donde podría ganarse a los electores con algunos discursos bien sentidos. Éste era el
-
-motivo que había llevado a don Basilio de Miraflores a mi pueblo, en el que se detuvo de
-
-paso al saber que se preparaban fiestas.
-
-Julián era el tipo de cierta clase de cachacos que desgraciadamente se han hecho muy
-
-comunes en los últimos años; aumentando sus malas cualidades en cada generación y
-
-perdiendo las pocas buenas que los distinguían.
+Julián era el tipo de cierta clase de cachacos que desgraciadamente se han hecho muy comunes en los últimos años; aumentando sus malas cualidades en cada generación y perdiendo las pocas buenas que los distinguían.
