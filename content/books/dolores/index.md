@@ -85,3 +85,139 @@ De repente se oyó el chillido agudo y destemplado de la chirimía, que dominó 
 Efectivamente, en los pueblos no se creía en ese tiempo que pudiera haber fiestas populares si no las presidía la chirimía. Entonces la tocaba un anciano que vivía continuamente viajando de pueblo en pueblo y de fiesta en fiesta; en todas partes lo recibían con el mayor placer y lo agasajaban como al ser interesante y más indispensable. La chirimía no es un instrumento exclusivo de América: es muy semejante en su sonido al bag-pipe de los escoceses y a la gaita de gallegos y saboyardos. No hace mucho que se descubrió en una antigua escultura parecido. Parece que Nerón se complacía en tocarlo, acaso porque esos discordes acentos armonizaban con su espíritu.
 
 Después de haber inspeccionado las mesas de la plaza, en las cuales campeaba, la alegría popular, nos dirigimos hacia un baile, de ñapangas o cintureras. Era tal la compostura de estas gentes, que las señoras gustaban ir a verlas bailar, sin temor de que sus modales pudiesen ser tachados. Se había anunciado este baile como muy ruidoso y en extremo concurrido; así fue, que hallamos una multitud de curiosos que rodeaban la puerta o prendidos de las ventanas se asomaban a la sala. Sin embargo, al vernos llegar se hicieron a un lado, y las señoritas se situaron al pie de las ventanas y nosotros detrás de ellas.
+
+La sala era de regular tamaño, enladrillada, blanqueada con aseo, y en las paredes se veían algunas pinturas coloreadas representando, según parecía, escenas de Guillermo Tell y de Matilde o las Cruzadas: cuatro sofás de cuero bruto y algunas silletas desiguales eran los muebles que la adornaban. En las puertas de las alcobas, a derecha o izquierda, se veían cortinas de percala roja que disimulaban la falta de puertas de madera. De trecho en trecho y prendidas de la pared habían puesto alcayatas de lata con sus correspondientes velas de sebo, a cuya incierta luz podíamos distinguir las muchachas que se habían sentado en contorno de la sala.
+
+Las ñapangas vestían enaguas de fula azul con su arandela abajo, camisa bordada de rojo y negro, pañolón rojo o azul y sombrerito de paja fina con lazos de cinta ancha. Algunas se quitaban los sombreros para bailar y descubrían sus profusas cabelleras negras partidas en dos trenzas que caían por las espaldas terminando en lazos de cinta.
+
+Los hombres, casi todos con pretensiones a ser los cachacos de la sociedad, fumaban y tomaban copitas de aguardiente, fraternizando con los músicos, quienes situados en la puerta interior de la sala templaban sus instrumentos.
+
+\-¡Arriba, don Basilio! -exclamaban varias voces desde la puerta, al momento que empezaban a tocar un alegre bambuco-: ¡la pareja lo aguarda!
+
+Y todas las miradas se dirigieron a un hombre de unos cuarentas años, grueso, lampiño, de cara ancha, frente angosta y escurrida hacia atrás: su mirada torva y la costumbre de cerrar un ojo al hablar le daban un aire singularmente desagradable.
+
+\-Nos vamos a divertir esta noche si baila don Basilio -dijo Antonio.
+
+\-Cállate -le contesté-, que si te oye no te perdonará jamás; ese hombre es presuntuoso y vengativo.
+
+\-Bailo -exclamó don Basilio con aire importante-, si Julián me acompaña.
+
+\-¡Adelante, Julián! -gritaron los cachacos; y sacando a Julián de en medio de ellos lo obligaron a que diera la mano a una alegre y desenvuelta ñapanga, cuyos negros ojuelos hacían contraste con una mano de azahares que llevaba en la cabeza. Entre tanto don Basilio tiraba a otra de la mano diciéndole al oído palabras que la hicieron sonrojarse, y adelantándose con aire complacido se situó frente a ella y empezó a bailar el bambuco.
+
+La muchacha, joven y ligera, daba vueltas en torno de su pareja poniendo en ridículo el grueso talle y toscos ademanes de su galán, el cual parecía un enorme oso jugando con una gatita. Aunque afeminado y lleno de afectación, Julián formaba con la otra muchacha, un cuadro más agradable.
+
+Pero mientras acaban de bailar, digamos quienes eran estos personajes, uno de los cuales figura en esta relación.
+
+Basilio Flores era hijo de una pobre campesina de los alrededores de Bogotá. Su genio vivo y natural talento llamaron la atención a un rico hacendado en cuyo terreno su madre cultivaba su sementerilla de papas y maíz. El hacendado lo llevó a su casa y le enseñó a leer en sus ratos de ocio; y encantado con la facilidad que, el muchacho tenía para aprender, propuso sacar de él un buen dependiente, sobre quien pudiese, con el tiempo, descargar una parte de sus complicados negocios. Lo envió, pues, a un colegio en donde pronto hizo grandes adelantos. Tenía Basilio 18 años cuando estalló la guerra de la independencia, y el español que lo protegía creyó necesario emigrar. Antes de partir llamó al muchacho con mucho sigilo y le exigió bajo juramento que cuando se calmasen las revueltas públicas sacase una suma que había enterrado en un sitio de la casa de su habitación y que con ella lo fuese a buscar a España.
+
+La situación del país impedía que se tuviese comunicación alguna con la madre mía, y en medio de las emociones políticas que lo rodeaban el protegido del español seguramente olvidó la recomendación de su patrón. Después de haber tomado en arrendamiento por un mes la casa del español (que había sido confiscada) por cuenta de una familia que debía llegar del campo y que nunca se vio en Bogotá, Basilio se retiró de la capital para acompañar, decía, a un pariente rico que vivía en el fondo de no sé qué provincia. Otros aseguraron que ese tío era completamente imaginario y que durante el tiempo que se eclipsó lo vieron en la choza de su madre entregado al estudio, con la esperanza de hacer una brillante entrada en la sociedad bogotana.
+
+Cuando volvió a reinar alguna paz en el país se supo que, entre los españoles que habían salido prófugos, el patrón de Basilio, después de haber vagado por las costas de Colombia y enfermádose en las Antillas, apenas había tenido tiempo de llegar a España y morir sin dar sus últimas disposiciones. Los herederos enviaron órdenes para que realizasen las pocas fincas que no habían sido confiscadas, y se habló vagamente de una suma de consideración que el español había dejado enterrada, pero no pudieron reclamarla ni dar pruebas de su existencia.
+
+Basilio volvió a la capital diciendo haber heredado a su incógnito pariente, y haciendo
+
+alarde de su riqueza trató de introducirse en la sociedad distinguida, pero fue rechazado
+
+con desdén.
+
+Disgustado, pero decidido a poner todos los medios que tenía a su alcance para hacer
+
+olvidar su origen, partió para Europa y permaneció algunos años en París. Sin relaciones
+
+ni posición, se entregó a los vicios y acabó de corromper el escaso corazón con que la
+
+naturaleza lo había dotado. Alimentando su espíritu con la lectura de obras escépticas
+
+como las que entonces estaban en moda, imitaciones de los nuevos sistemas filosóficos
+
+de la moderna Alemania, el joven americano se convirtió en un materialista sin ningún
+
+sentimiento de virtud.
+
+Resuelto a crearse una carrera brillante en su país, volvió con mil proyectos ambiciosos, y
+
+muy pronto se hicieron notar sus artículos en los periódicos de uno y otro partido. Poseía
+
+una memoria muy feliz, una instrucción regular y cierta elocuencia irónica, aunque
+
+superficial, con que se engaña fácilmente. Se firmaba B. de Miraflores, y decían que en
+
+París había pasado por barón. Hablaba francés e inglés con bastante corrección y siempre
+
+adornaba su conversación con frases y citas de autores extranjeros. Se vestía con un lujo
+
+extravagante y de mal gusto, y daba almuerzos en que desplegaba un boato charro con
+
+que alucinaba al vulgo.
+
+Pero, desgraciadamente, si tenía memoria para algunas cosas la había perdido
+
+completamente para otras, y durante su viaje olvidó a la pobre madre, única persona que
+
+lloraba su ausencia. A su regreso de Europa no quiso verla ni dejarse visitar por ella (¡eso
+
+lo podría desacreditar!) pero fingiendo la generosidad que distingue a los nobles
+
+corazones, enviaba, por medio de un joven que le servía de factótum, una pensión
+
+mensual a «la pobre estanciera que le había servido de nodriza», según decía arqueando
+
+las cejas.
+
+Deseando, al cabo de algunos años, faire une fin, como él decía, propuso casamiento
+
+sucesivamente a las señoritas más ricas, bellas y virtuosas de Bogotá: naturalmente todas
+
+lo desdeñaron hiriendo su amor propio, lo que le hizo recordar la famosa máxima de que:
+
+«de la calumnia siempre queda algo», y tarde o temprano se vengó de ellas.
+
+Desalentado en sus proyectos matrimoniales entró de lleno en la política; pero aquí
+
+también lo aguardaban desengaños. Sus antecedentes poco claros, su lenguaje acervo y
+
+mordaz y sus malas costumbres lo hicieron despreciable entre los hombres de algún valer
+
+en todos los partidos. No pudiendo hacerse apreciar y admirar se hizo temible, y juró
+
+burlarse de la sociedad y vengarse de todos los que lo habían humillado. Se alió con los
+
+hombres más corrompidos de uno y otro partido y logró por medio de intrigas formarse
+
+cierta reputación entre los escritores públicos del país. Su pluma siempre estaba al
+
+servicio de los que gobernaban: con los conservadores, llamados entonces retrógrados,
+
+era partidario del orden absoluto; hablaba con elocuencia de las garantías individuales y
+
+del ejército permanente; se mostraba partidario de la pena de muerte y vilipendiaba la
+
+libertad de imprenta. Con los llamados progresistas, peroraba sobre la necesidad de la
+
+libertad del pensamiento y de la democracia pura; se enternecía al hablar de la causa
+
+sagrada del pueblo soberano y del sufragio universal; citaba a todas manos, mezclando
+
+sacrílegamente a Platón, Voltaire, Rousseau y Jesucristo. Una vez que quería halagar a
+
+los ultrarrojos lloró, en un discurso de aniversario de la independencia, la muerte
+
+prematura de la víctima de la democracia: ¡Marat!
+
+La carrera política de nuestro héroe no podía ser completa si no agregaba un lauro más a
+
+su gloria: quería ser diputado. En las provincias del centro y del Magdalena era
+
+demasiado conocido para ser popular, y le aconsejaron que fuese a las provincias del Sur,
+
+donde podría ganarse a los electores con algunos discursos bien sentidos. Éste era el
+
+motivo que había llevado a don Basilio de Miraflores a mi pueblo, en el que se detuvo de
+
+paso al saber que se preparaban fiestas.
+
+Julián era el tipo de cierta clase de cachacos que desgraciadamente se han hecho muy
+
+comunes en los últimos años; aumentando sus malas cualidades en cada generación y
+
+perdiendo las pocas buenas que los distinguían.
