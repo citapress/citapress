@@ -28,10 +28,10 @@ published: false
 ---
 ## PARTE PRIMERA
 
-*La nature est un drame avec des personnages.*\
-*La naturaleza es un drama con personajes.*
-
-–VÍCTOR HUGO
+> *La nature est un drame avec des personnages.*\
+> *La naturaleza es un drama con personajes.*
+>
+> –VÍCTOR HUGO
 
 
 
