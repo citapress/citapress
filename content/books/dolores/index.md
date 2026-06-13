@@ -129,3 +129,39 @@ Desalentado en sus proyectos matrimoniales entró de lleno en la política; pero
 La carrera política de nuestro héroe no podía ser completa si no agregaba un lauro más a su gloria: quería ser diputado. En las provincias del centro y del Magdalena era demasiado conocido para ser popular, y le aconsejaron que fuese a las provincias del Sur, donde podría ganarse a los electores con algunos discursos bien sentidos. Éste era el motivo que había llevado a don Basilio de Miraflores a mi pueblo, en el que se detuvo de paso al saber que se preparaban fiestas.
 
 Julián era el tipo de cierta clase de cachacos que desgraciadamente se han hecho muy comunes en los últimos años; aumentando sus malas cualidades en cada generación y perdiendo las pocas buenas que los distinguían.
+
+Hijo de un rico propietario de las provincias del Sur y educado en Bogotá, en cuyos colegios había permanecido siete años, no había sufrido nunca aquella heroica pobreza que forma el carácter del estudiante.
+
+Su tez blanca y rosada, su talle flexible y su mirada lánguida le habían granjeado la admiración de las señoritas de Bogotá, mientras que la riqueza conocida y la posición que ocupaba su familia le habían ganado el corazón de las madres de familia. Durante los siete años de colegio y los dos más en que permaneció repasando lo que había estudiado, como escribía a sus padres, aprendió a hablar algo en francés y tal cual frase en latín: de historia, sabía la de las novelas de Dumas; muy poco de filosofía y menos de geografía; tenía bonita letra con mala ortografía; pero en cambio, según él, era profundo en el arte de gobernar a los pueblos, y sabía con perfección fabricar por mayor versos frenéticos y horripilantes, es decir, puntos suspensivos, exclamaciones aisladas y puntos de admiración con intermedios de apóstrofes e interjecciones elocuentes. Tocaba guitarra y aun piano por nota, bailaba todas las danzas conocidas y hablaba con gravedad del tedio de su existencia, de la pérdida de sus ilusiones y de su adolorido corazón; pero al ver la frescura de su fisonomía y la alegría de su aspecto, se comprendía que su salud no había sufrido con tamañas desgracias y tantas pérdidas irreparables.
+
+A los nueve años de esta holganza sobrevino una orden de su padre para que volviera a sus penates. Salió de la capital lleno de dolor, jurando volver pronto y dejando su corazón empeñado como una preciosa prenda en tres casas diferentes: en poder de una linda señorita, en el de una hermosa dama de alta categoría, que gastaba los últimos arreboles de su vida en coqueteos, y en una pequeña trastienda del barrio de las Nieves, en donde sus almibaradas palabras habían hecho la desgracia de una pobre muchacha hija de un artesano. La señorita lo olvidó muy pronto; la hermosa dama encontró algún figurín de modas ambulante en quien pensar; pero la infeliz hija del pueblo lloró hasta el fin de sus días la loca confianza de su juventud.
+
+Inspirado por el baile y la ruidosa música, don Basilio recordó los tiempos de su mocedad y adornó los últimos compases del bambuco con varios saltos en tosca imitación del cancán de los famosos bailes de «Mabille» y «Valentino».
+
+\-¡Bravo! -dijo don Basilio levantando la copa y poniendo los ojos en el techo-, ¡oh! París ¿quién puede olvidar las delicias de tus lucidos bailes?
+
+Tan alegres fantasías, \
+deleites tan halagüeños,\
+¿dónde fueron?
+
+En ese momento los instrumentos tocaron un vals del país y todos jóvenes se apresuraron a sacar parejas entre las ñapangas más agraciadas. Algunos usaban ruana y todos bailaban con el sombrero puesto y el cigarro en la boca.
+
+Las señoritas que acompañábamos miraban en silencio aquella escena, y se sentían naturalmente vejadas y chocadas al ver que los jóvenes que las visitaban eran tratados de igual a igual por aquellas mujeres.
+
+\-Vámonos -dijeron, y se quitaron de las ventanas.
+
+Antonio y yo acompañamos a las señoras hasta sus respectivas casas y volvimos a tomar el camino de nuestra habitación.
+
+El corazón tiene a veces presentimientos que no podemos explicarnos. No sé por qué la suerte de Dolores me preocupaba aquella noche: recordaba mil causas que debían hacerla feliz, y con todo no podía desechar una aprehensión sin motivo que me molestaba sin comprenderla. Antonio, por su parte, sentía los primeros síntomas de una gran pasión: las tempestades que se desarrollan en el corazón siempre se anuncian por un sentimiento de melancolía dolorosa. La dulzura del sentimiento no inspira sino cuando uno ha perdido ya el poder de voluntad y ama sin reflexionar.
+
+Antonio sufría; yo me sentía triste, y ambos volvimos a casa en silencio.
+
+En los días siguientes concurrimos a los encierros y corridas de toros y los bailes por la noche. Antonio se mostraba completamente subyugado por los encantos de Dolores, y cada vez que nos hallábamos juntos no se cansaba de elogiarme sus gracias y hermosura.
+
+Recuerdo que una vez casi se enfadó conmigo porque le cité riendo aquel proverbio latino: «No es la naturaleza lo que hace bella a la mujer, sino nuestro amor».
+
+Dolores recibía los homenajes de Antonio con su buen humor e inagotable alegría. Ella no podía estar nunca triste y perseguía con alegres chanzas a los que se mostraban melancólicos. Mi amigo correspondía a su genio vivo, contestándole con mil chistes y agudezas propias del cachaco bogotano. El amor entre estos dos jóvenes era bello, puro y risueño como un día de primavera. En donde quiera que se reunían comunicaban su innata alegría a cuantos los rodeaban. No he visto nunca; dos personas más adecuadas para amarse y saber apreciar sus mutuas cualidades. No hay duda que es un grave error el que encierra aquel axioma de que los contrastes simpatizan. Eso puede dar cierto brillo, animación y variedad a un sentimiento fugaz, a una inclinación pasajera; pero entre personas que aman verdaderamente es preciso una completa armonía, armonía en sentimientos, en educación, en posición social y en el fondo de las ideas. La tranquilida moral es el resultado de la armonía, y ese debe ser el principal objeto del matrimonio, en lo que debe consistir su bello ideal.
+
+Don Basilio pronto descubrió que Dolores, además de ser bella y virtuosa, poesía una dote regular, e inmediatamente puso sitio ante aquella nueva fortaleza; creyó que no sería mal negocio encontrar en su viaje una diputación y una novia. El caudal de su difunto tío empezaba a desaparecer muy de veras y no quería ver llegar la vejez unida a la pobreza.
+
+Le confió a Julián su propósito diciendo:
