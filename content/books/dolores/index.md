@@ -205,3 +205,65 @@ Volvimos al pueblo por la noche: estaba muy oscura no obstante que las estrellas
 Entonces comprendí cuán verdadera y tiernamente amaba a Dolores. El amor sincero no es egoísta; y nunca es más cobarde el corazón que cuando la persona amada está en peligro, aunque éste parezca insignificante para los demás.
 
 ¡Media hora después se separaron, tal vez para siempre, aquellos dos seres que habían nacido para amarse tan profundamente!
+
+Luego a solas me confió Antonio que no había podido hablar a Dolores de su amor, que siendo tan vehemente y elevado, no había hallado palabras con que expresarlo. Me rogó que le dijera a mi prima en nombre suyo que no había pedido su mano formalmente porque su posición no se lo permitía aún; pero teniendo esperanzas de ser correspondido me pedía la suplicara que no lo olvidase.
+
+El mismo día que partió Antonio para Bogotá, la tía Juana volvió a su hacienda con Dolores. Yo había visto la despedida de Dolores y Antonio, y aunque ella tenía la sonrisa en los labrios comprendí que necesitaría algún consuelo. Así, al domingo siguiente me dirigí muy temprano a la hacienda, llamada Primavera, situada en una llanura al pie de altos cerros cubiertos de bosques y vestida principalmente de ganados y extensos cacaotales.
+
+Cuando llegué, mi tía estaba ausente y la casa completamente silenciosa. Me desmonté y entregando mi caballo a un sirviente, atravesé el patio que antecedía a la casa y me dirigí al retrete de Dolores en el cual me dijeron se encontraba.
+
+El sitio favorito de mi prima era un ancho corredor hacia la puerta de atrás de la casa y con vista sobre una semi-huerta, semi-jardín compuesto de altos árboles de mango, de preciosos naranjos y limoneros, pomarosos y granados, por cuyos troncos trepaban y se apoyaban los jazmines estrellados, los variados convólvulos, las mosquetas y los nervios.
+
+Debajo de una enramada de granadillo y jazmín estaba la alberca, cuyas aguas murmuradoras se unían a los armoniosos cantos de muchos pájaros. La pajarera de Dolores era afamada en los alrededores: en una gran jaula que ocupaba todo el ángulo del corredor había reunido muchos pájaros de diversos climas que se habían enseñado a vivir unidos y en paz. Allí cantaban las armoniosas mirlas blancas y negras, el alegre toche y el artístico turpial, los azucareros ruidosos y el azulejo y el cardenal. En medio de sus flores y pájaros, Dolores pasaba el día cosiendo, leyendo, y cantando con ellos. Desde lejos se oía el rumor de la pajarera y la dulce voz de su ama.
+
+Ese día todo estaba en silencio. El calor era sofocante, y la naturaleza parecía agobiada y abochornada por los rayos de un sol de fuego que reinaba sólo en un cielo despejado. Los pájaros callaban y sólo se oía el ruido del chorro de la alberca que corría sin cesar bajo su enramada de flores. Desde lejos vi a Dolores vestida de blanco y llevando por único adorno su hermoso pelo de matiz oscuro. Recostada sobre un cojín al pie del asiento en que había estado sentada, apoyaba la cabeza sobre el brazo doblado, mientras que la otra manecita blanca y rosada caía inerte a su lado. Detúveme a contemplarla creyéndola dormida, pero había oído el ruido de mis espuelas al acercarme, y se levantó de repente, tratando de ocultar las lágrimas que se le escapaban y cogiendo al mismo tiempo un papel que tenía sobre su mesita de costura.
+
+\-¿Qué es esto prima? -le pregunté señalándole el papel, después de haberla saludado.
+
+\-Estaba escribiendo y...
+
+\-¿A quién?
+
+\-A nadie.
+
+\-Cómo, ¿Antonio ya logró...?
+
+\-No, Pedro -me contestó con dignidad-; él no me pidió tal cosa, ni yo lo haría.
+
+\-Dolores -le dije tomando entre mis manos la suya fría y temblorosa- ¿no te juró Antonio que te amaba locamente, como me lo dijo mil veces? ¡Confiésame que te suplicó que le guardaras tu fe!
+
+\-No; me hizo comprender que me prefería tal vez, pero nunca me dijo más.
+
+\-¿Y esa carta?
+
+\-¡No es carta!
+
+\-Misiva, pues -dije riéndome-, epístola, billete, como quieras llamarla.
+
+\-¿No quieres creerme? Toma el papel; haces que te muestre lo que sólo escribía para mí.
+
+Y me presentó un papel en que actuaba de escribir unos preciosos versos, que mostraban un profundo sentimiento poético y cierto espíritu de melancolía vaga que no le conocía. Era un tierno adiós a su tranquila y feliz niñez y una invocación a su juventud que se le aparecía de repente como una revelación. Su corazón se había conmovido por primera vez, y ese estremecimiento la hacía comprender que la vida del sufrimiento había empezado.
+
+Avergonzada y conmovida bajaba los ojos a medida que yo leía. Su tez blanca y rosada resaltaba aun con mayor frescura en contraste con su albo vestido y cabello destrenzado.
+
+Un temor vago me asaltó a mí también, como a mi padre, al notar el particular colorido de su tez; pero esa impresión fue olvidada nuevamente para recordarla después.
+
+Pasé el día en casa de mi tía, cumplí la recomendación de Antonio y me persuadí de que ella lo amaba también. Debía volver a Bogotá en esos días: estaba impaciente y deseaba tener la dicha de ver otra vez a mi novia después de mes y medio de ausencia.
+
+Al tiempo de despedirme quisieron acompañarme hasta cierto punto del camino para que Dolores me mostrara un lindo sitio al pie de la serranía, que ella había descubierto algunos días antes en uno de sus paseos.
+
+Dolores se manifestaba muy risueña y festiva. El amor que la animaba formaba como una aureola en torno suyo. ¿Qué importa la ausencia si hay seguridad de amar y ser amado?
+
+Al llegar a una angosta vereda que había hecho abrir por en medio del monte, tomó la delantera. Yo la seguía, admirando su esbelto talle y su gracia y serenidad para manejar un brioso potro que sólo con ella se había mostrado obediente y dócil.
+
+Pocos momentos después llegamos a un sitio más abierto: un riachuelo cristalino bajaba saltando por escalones de piedras y reposaba en aquel lugar entre un bello lecho de musgos y de temblantes y variados helechos. Altísimos árboles se alzaban a un lado del riachuelo, impidiendo con su tupida sombra que otros arbustos creciesen a su lado.
+
+Varios troncos viejos y piedras envueltas en verde lana cubrían el suelo, alfombrado por una suave arena dorada. Empezaba a caer el sol y la sombra de aquel sitio producía un delicioso fresco. Bandadas de pájaros vistosos, entre los que charlaban numerosos loros y pericos, llegaban a posarse en las altas copas de los árboles, dorados por los últimos rayos del sol.
+
+Nos desmontamos, y sacando mi tía algunos dulces y un coco curiosamente engastado en bruñida plata, nos invitó a que tomásemos un refrigerio campestre.
+
+\-¿Qué bello sería pasar su vida aquí, no es cierto? -exclamó Dolores.
+
+\-¿Sola? -contestó sonriéndome.
+
+No replicó sino con solo una mirada tierna que se dirigía a mi amigo ausente, y continuó conversación alegremente. ¡Pobre niña!..., pero feliz todavía en su ignorancia de lo porvenir.
