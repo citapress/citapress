@@ -7,8 +7,8 @@ releaseformat: Year
 templateKey: book-page
 author: Soledad Acosta de Samper
 isbn: 978-1-961368-24-8
-post_image: https://ucarecdn.com/8d906255-9cfd-4691-ab66-7a2d0c5d4bc3/comingsoon.jpg
-square_image: https://ucarecdn.com/b69e5df3-f864-4827-b7fb-afe8df0fddfe/square-coming-soon.jpg
+post_image: https://2x3xqwnyz5.ucarecd.net/07eed951-5b3e-4bc9-bf76-f97b9d3f94be/tempImageDuzDCL.heic
+square_image: https://2x3xqwnyz5.ucarecd.net/4fb3ef65-9cb2-40ee-9ce1-56980c370261/tempImageHSjthY.heic
 genre:
   - fiction
   - novella
