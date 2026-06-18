@@ -11,6 +11,11 @@ media_library:
   settings:
     autoFilename: true
     previewStep: true
+    # Uploadcare stores the bare CDN URL, which for HEIC uploads (iPhone/Mac
+    # default) can't be decoded by the browser or the Netlify image proxy.
+    # Appending a format conversion makes every stored cover a web format.
+    # Resizing stays on Netlify, so this is one cached transform per image.
+    defaultOperations: '/format/auto/'
 
 public_folder: /img
 
