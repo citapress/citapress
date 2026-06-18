@@ -7,7 +7,7 @@ releaseformat: Year
 templateKey: book-page
 author: Soledad Acosta de Samper
 isbn: 978-1-961368-24-8
-post_image: https://2x3xqwnyz5.ucarecd.net/07eed951-5b3e-4bc9-bf76-f97b9d3f94be/tempImageDuzDCL.heic
+post_image: https://2x3xqwnyz5.ucarecd.net/3b5c946a-5fcf-4df7-9295-bd04e825ee10/tempImage5cpc6Z.heic
 square_image: https://2x3xqwnyz5.ucarecd.net/4fb3ef65-9cb2-40ee-9ce1-56980c370261/tempImageHSjthY.heic
 genre:
   - fiction
