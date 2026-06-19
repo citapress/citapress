@@ -328,7 +328,7 @@ const PeopleIndex = ({ location, intl }) => {
                   <b>Jessi Haley</b> es la coordinadora editorial y de proyectos
                   de Cita. Jessi anteriormente administró el programa de
                   escritura creativa en la Universidad de Chicago y formó parte
-                  del equipo editorial de Chicago Review y Colloquium Magazine.
+                  del equipo editorial de <i>Chicago Review</i> y <i>Colloquium Magazine</i>.
                 </p>
               </div>{" "}
             </div>{" "}
