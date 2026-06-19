@@ -73,7 +73,7 @@ const PeopleIndex = ({ location, intl }) => {
               <div className="column">
                 <p>
                   <b>Mariana Matos</b> is Cita’s Communications and Design Coordinator. Mariana
-                  is an interdisciplinary designer based in Detroit, MI.
+                  is an artist and interdisciplinary designer.
                 </p>
               </div>
             </div>
@@ -82,15 +82,15 @@ const PeopleIndex = ({ location, intl }) => {
                        <div className="flex">
               <div className="column">
                 <img
-                  src="/img/people/ethan-sketch.jpeg"
-                  alt="Illustration of Ethan Werner"
+                  src="/img/people/jasmine-sketch.jpeg"
+                  alt="Illustration of Jasmine Jones"
                   width="150px"
                   height="auto"
                 />
               </div>
               <div className="column">
                 <p>
-                  <b>Ethan Werner</b> is Cita’s Editorial Intern for Summer 2025. Ethan is a recent graduate from the Master of Arts Program in the Humanities at the University of Chicago. His scholarship focuses on digital culture and media accessibility.
+                  <b>Jasmine Jones</b> is Cita’s Editorial Intern for Summer 2026. Jasmine is a recent graduate of the Master of the Arts Program in the Humanities at the University of Chicago with a specialization in creative writing.
                 </p>
               </div>
             </div>
@@ -247,7 +247,7 @@ const PeopleIndex = ({ location, intl }) => {
             <p>
               <b>Other contributors and supporters:</b> Nate Angell (Mozilla
               Open Leaders mentor and friend), Tien Mimi Nguyen (Write Speak
-              Code SF advocate), Camilo Villegas (Web Dev support), Mindy Seu, Katherine Maher, and Vicky Checo (Former Board Members)
+              Code SF advocate), Camilo Villegas (Web Dev support), Mindy Seu, Katherine Maher, and Vicky Checo (Former Board Members), Ethan Werner (Former Intern)
             </p>{" "}
             <p>
               <b>Video credits:</b> Fantasy by Podington Bear, Icons by Creative
@@ -343,8 +343,22 @@ const PeopleIndex = ({ location, intl }) => {
               </div>
               <div className="column">
                 <p>
-                  <b>Mariana Matos</b> Es Coordinadora de Comunicación y Diseño de Cita. Mariana es una diseñadora interdisciplinaria ubicada en Detroit, MI.
+                  <b>Mariana Matos</b> Es Coordinadora de Comunicación y Diseño de Cita. Mariana es una artista y diseñadora interdisciplinaria.
                 </p>
+              </div>{" "}
+            </div>{" "}
+            <div className="flex">
+              {" "}
+              <div className="column">
+                <img
+                  src="/img/people/jasmine-sketch.jpg"
+                  alt="Illustration of Jasmine Jones"
+                  width="150px"
+                  height="auto"
+                />
+              </div>{" "}
+              <div className="column">
+                <p><b>Jasmine Jones</b> es la practicante editorial de Cita para el verano de 2026. Jasmine se graduó recientemente del programa de Maestría en Humanidades de la Universidad de Chicago, con especialización en escritura creativa..</p>
               </div>{" "}
             </div>{" "}
             <div className="flex">
@@ -465,7 +479,7 @@ const PeopleIndex = ({ location, intl }) => {
             <p>
               <b>Otros colaboradores:</b> Nate Angell (Mozilla Open Leaders
               mentor and friend), Mindy Seu and Katherine Maher (Former Board Members), Tien Mimi
-              Nguyen (Write Speak Code SF advocate)
+              Nguyen (Write Speak Code SF advocate), Ethan Werner
             </p>{" "}
             <p>
               <b>Diseñadoras:</b> Josie Bellini, Antonela Debiasi, Fiorella
