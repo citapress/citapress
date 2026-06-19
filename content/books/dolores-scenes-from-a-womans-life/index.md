@@ -35,7 +35,7 @@ description: >-
   <p>This new translation by Sara Abadía updates an unpublished nineteenth century English translation of an iconic Latin American feminist text, making it accessible to readers in English in a way that corresponds to Acosta de Samper’s original vision. </p>
 
 
-  <p>The translation of Dolores was made possible thanks to the generous sponsorship of writer Sharon Bard.</p>
+  <p>The book was made possible thanks to the generous sponsorship of writer Sharon Bard.</p>
 foreword: >-
   <b>Translation & Foreword: </b> Sara Abadía Alvarado is a literary scholar and
   professor of performing arts based in Boston. <i>En medio de una noche
