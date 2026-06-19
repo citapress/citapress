@@ -222,7 +222,7 @@ const PeopleIndex = ({ location, intl }) => {
               .
             </p>{" "}
             <p>
-              <b>Designers:</b> Josie Bellini, Antonela Debiasi, Juliana Castro V., Fiorella
+              <b>Designers:</b> Josie Bellini, Juliana Castro V., Antonela Debiasi, Fiorella
               Ferroni, Thaïs Jacoponi, Kassie John, Irina Koryagina, Annika Leppäaho, Mariana Matos, Kathy
               Mueller, Jiwon Park, Laura Ramírez, Natalia Rojas, Mariana Sanín A., Laura Savina,
               Lauren Smedley, Luce Terrasson, Catalina Vásquez, Shuhua Xiong, Jean Yang, Mer Young, Petra
@@ -325,7 +325,7 @@ const PeopleIndex = ({ location, intl }) => {
               </div>{" "}
               <div className="column">
                 <p>
-                  <b>Jessi Haley</b> es la coordinadora editorial y de proyectos
+                  <b>Jessi Haley</b> es la directora editorial
                   de Cita. Jessi anteriormente administró el programa de
                   escritura creativa en la Universidad de Chicago y formó parte
                   del equipo editorial de <i>Chicago Review</i> y <i>Colloquium Magazine</i>.
@@ -478,20 +478,20 @@ const PeopleIndex = ({ location, intl }) => {
             </p>{" "}
             <p>
               <b>Otros colaboradores:</b> Nate Angell (Mozilla Open Leaders
-              mentor and friend), Mindy Seu and Katherine Maher (Former Board Members), Tien Mimi
-              Nguyen (Write Speak Code SF advocate), Ethan Werner
+              mentor y amigo); Sharon Bard (patrocinador del libro); Vicky Checo, Mindy Seu and Katherine Maher (antiguos miembros de la junta asesoras); Tien Mimi
+              Nguyen (Write Speak Code SF advocate); Ethan Werner (2025 interno)
             </p>{" "}
             <p>
-              <b>Diseñadoras:</b> Josie Bellini, Antonela Debiasi, Fiorella
-              Ferroni, Thaïs Jacoponi, Irina Koryagina, Annika Leppäaho, Kathy
-              Mueller, Jiwon Park, Laura Ramírez, Natalia Rojas, Laura Savina,
-              Lauren Smedley, Luce Terrasson, Catalina Vásquez, Jean Yang, Petra
-              Zehner
+              <b>Diseñadoras:</b> Josie Bellini, Juliana Castro V., Antonela Debiasi, Fiorella
+              Ferroni, Thaïs Jacoponi, Kassie John, Irina Koryagina, Annika Leppäaho, Mariana Matos, Kathy
+              Mueller, Jiwon Park, Laura Ramírez, Natalia Rojas, Mariana Sanín A., Laura Savina,
+              Lauren Smedley, Luce Terrasson, Catalina Vásquez, Shuhua Xiong, Jean Yang, Mer Young, Petra
+              Zehner, Dajia Zhou
             </p>{" "}
             <p>
-              <b>Escritoras:</b> Ana María Carvajal, Francesca Gargallo, Bonnie
-              Hurd Smith, Christy Hyman, Carol MacKay, Heather Ostman, Krithika
-              Varagur, Gabrielle Welsh
+              <b>Escritoras:</b> Sara Abadía Alvarado, JoAnn Borri, Mikita Brottman, Ana María Carvajal, Francesca Gargallo, Catherine
+              J. Golden, Bonnie Hurd Smith, Christy Hyman, Erin Marie Lynch, Carol MacKay, Victoria Namkung, Heather
+              Ostman, Krithika Varagur, Gabrielle Welsh
             </p>{" "}
             <p>
               <b>Otros créditos:</b> Fantasy by Podington Bear, Icons by
