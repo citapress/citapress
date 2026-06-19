@@ -222,14 +222,14 @@ const PeopleIndex = ({ location, intl }) => {
               .
             </p>{" "}
             <p>
-              <b>Designers:</b> Josie Bellini, Antonela Debiasi, Fiorella
-              Ferroni, Thaïs Jacoponi, Irina Koryagina, Annika Leppäaho, Kathy
-              Mueller, Jiwon Park, Laura Ramírez, Natalia Rojas, Laura Savina,
+              <b>Designers:</b> Josie Bellini, Antonela Debiasi, Juliana Castro V., Fiorella
+              Ferroni, Thaïs Jacoponi, Kassie John, Irina Koryagina, Annika Leppäaho, Mariana Matos, Kathy
+              Mueller, Jiwon Park, Laura Ramírez, Natalia Rojas, Mariana Sanín A., Laura Savina,
               Lauren Smedley, Luce Terrasson, Catalina Vásquez, Shuhua Xiong, Jean Yang, Mer Young, Petra
               Zehner, Dajia Zhou
             </p>{" "}
             <p>
-              <b>Writers:</b> Mikita Brottman, Ana María Carvajal, Francesca Gargallo, Catherine
+              <b>Writers:</b> Sara Abadía Alvarado, JoAnn Borri, Mikita Brottman, Ana María Carvajal, Francesca Gargallo, Catherine
               J. Golden, Bonnie Hurd Smith, Christy Hyman, Erin Marie Lynch, Carol MacKay, Victoria Namkung, Heather
               Ostman, Krithika Varagur, Gabrielle Welsh
             </p>{" "}
@@ -246,7 +246,7 @@ const PeopleIndex = ({ location, intl }) => {
             </p>{" "}
             <p>
               <b>Other contributors and supporters:</b> Nate Angell (Mozilla
-              Open Leaders mentor and friend), Tien Mimi Nguyen (Write Speak
+              Open Leaders mentor and friend), Sharon Bard (Book Sponsor), Tien Mimi Nguyen (Write Speak
               Code SF advocate), Camilo Villegas (Web Dev support), Mindy Seu, Katherine Maher, and Vicky Checo (Former Board Members), Ethan Werner (Former Intern)
             </p>{" "}
             <p>
