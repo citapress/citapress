@@ -47,9 +47,17 @@ published: false
 ---
 ## Acknowledgements
 
-## Translator's Foreword
+Soledad Acosta de Samper has always belonged in the Cita Press catalog. Our founder, Juliana Castro Varón, is from Colombia, where Samper's legacy has continued to expand opportunities for women even in the period in which recognition for her was unjustly scarce. We are finally able to formally welcome her to our library, thanks to Sara Abadía Alvarado, who brought this project to us. We are thrilled to be part of sharing an essential feminist legacy with readers around the world, in English and in Spanish.
 
-**Translator’s Foreword**
+This book would not exist without the scholarship of Carolina Alzate and Monserrat Ordóñez, whose work has brought Soledad back into the light. We are also indebted to La Biblioteca Virtual del Banco de la República for making the source text for this translation available to all, and to the Biblioteca Digital Soledad Acosta de Samper maintained by the Universidad de los Andes and Biblioteca Nacional de Colombia.
+
+Thank you to Sara for trusting Cita with this project, and for her thoughtful attention as a translator and writer. Thank you to Mariana Sanín Angel for creating a cover that is in direct conversation with the text, and with Colombia’s natural landscape and design history. 
+
+The art direction and editorial design for this book is by Mariana Matos, guided by the design vision of Juliana Castro Varón. Jessi Haley edited the English translation. Jasmine Jones provided editorial and promotional support. 
+
+Finally, we are deeply grateful to Sharon Bard, whose sponsorship expanded the possibilities for this edition and directly supported the work of our contributors.
+
+## Translator's Foreword
 
 Soledad Acosta de Samper spoke English, traveled the world, wrote every day, and saved the newspaper clippings in which her novels appeared to turn them into albums. She married for love, had four daughters—one of them, a nun and a poet, published the version of the *Novena de Aguinaldos* that is sung during the nine days leading up to Christmas in Colombia, Venezuela, and Ecuador—founded five magazines, established herself as a journalist and historian, fought for women’s place in society, and resisted the censorship imposed on her most renowned female protagonist today in Latin America: Dolores.
 	
@@ -62,15 +70,11 @@ The 1980s, fortunately, brought with them a feminism committed to revisiting and
 
 *Dolores* is something of a unicorn in the practice of translation for several reasons. To start with, there exists an English translation produced in New York in the late nineteenth century. We do not know the translator’s name or the exact date of their work, since neither appears in the printed version. It is rare for a modern translator to have access to a version produced in the same period as the original work, and this access  offers  unique opportunities. On the one hand, the translation serves as a source for the idioms of nineteenth-century English; on the other, as evidence of the ideas that the translator held about a Colombian woman writer. For instance, there are passages in the English version in which Dolores’s complexion is described as “pure” or “white,” words that do not appear in the Spanish manuscript, although the latter does portray her with rosy cheeks and beautiful skin. In other moments, when Acosta devotes several sentences to describing the customs of Bogotá at the time—many of them employing words now obsolete—the nineteenth-century translator opts for a mixture of approximate equivalents and Spanish words explained (sometimes, though not always) through footnotes.
 
-
 Yet this is not the most interesting feature. In the original English translation of *Dolores*, the entire third part of the novel is omitted. The book is a framed narrative: although Dolores is the protagonist, she is not the narrator; her story is told by her cousin Pedro. In the first part, his voice predominates; the second combines his words with the letters Dolores sends him. The third section—the one eliminated in the nineteenth-century translation—consists entirely of the protagonist’s diaries, in which she writes in which her voice, previously mediated through letters and recounted conversations, comes through directly, with marked intensity. This structure is a way of circumventing the public’s preference for a male narrator and allowing Dolores to have the final word in her own story, without Pedro having to speak for her, as Alzate notes—a reading I share.
-
 
 Though the absence of the third part of the book is striking, the most fascinating aspect of the manuscript comes from an act of coauthorship that corrects it: Acosta de Samper herself translated, by hand, the omitted third part. Or rather, she revisited it (not to say rewrote it). Every writer knows the temptation to keep revising a text indefinitely, as well as the experience of rereading a book long after it has been published. Time, distance, and experience turn us into editors and expanders. Translation, moreover, offers the possibility of giving a text something like a parallel life, in which it can exist in another register. That is precisely what Acosta de Samper did upon returning to her novel *Dolores*. In her English version, the final section abounds in paraphrases and in beautiful added passages that do not appear in the original Spanish text.
 
-
 All of these reasons make *Dolores* a particularly fascinating challenge for a contemporary translator. This is how I chose to approach the text: I decided to preserve the anglicisms and nineteenth-century syntactic structures used by the original translator whenever they did not alter the meaning of the source text. Naturally, I did not include explanations unnecessary for a modern reader, nor did I add comments regarding race or femininity that are absent from the original. Whenever possible, I kept Spanish words that have no direct translation and included their meanings in the glossary, following Alzate’s definitions in the [2021 edition published by the Universidad de los Andes,](https://ediciones.uniandes.edu.co/gpd-dolores-9789587980967-680d2b6c9d6c3.html) which presents the authorized text. As for the stimulating—yet challenging—third part, in which Acosta de Samper restores what is missing, but also resorts to paraphrasing in order to adapt the long sentences of Spanish syntax to the English version, I left them almost intact. Where I encountered passages of particular beauty and poetic force, which also add a layer of complexity to the story and to the psychology of the character, I retained them, while carefully marking the beginning and end of these additions in the footnotes for curious readers who may wish to trace the transformations of the text.
-
 
 Finally, I would like to extend my deepest thanks to Jessi Haley and Juliana Castro Varón  for making Cita Press possible and for giving a home to thousands of women writers who, like Soledad, do not always find a place in truly feminist and democratic publishing circuits. I dare say the author would be delighted to see *Dolores* reach so many readers around the world. Thank you, thank you. ***—Sara Abadía*** 
 
@@ -84,7 +88,7 @@ Sara Abadía is a Colombian writer and educator. She studied Literature at Unive
 >
 > *Nature is a drama with characters.*
 
-“WHAT a pretty girl!” exclaimed Antonio, seeing a group on horseback passing through the middle of the square in the village of N\*\*\* [^1], just then arrived to take part in the local festivities, appointed for the following day.
+“WHAT a pretty girl!” exclaimed Antonio, seeing a group on horseback passing through the middle of the square in the village of N\*\** [^1], just then arrived to take part in the local festivities, appointed for the following day.
 
 Antonio González had been a fellow student and my favorite friend from my youth. Upon saying goodbye at university, both of us having obtained the degree of Doctor, he offered to visit my town during the parish festivals, and accordingly had arrived the day before at N\*\**. Looking for amusement – and finding everything interesting, with the enthusiasm of early youth – we were overseeing the construction of the barriers in the square for the bullfight happening the next day. It was then that, like I said before, there passed a party on horseback, in the midst of which stood out, like a precious lily in the middle of a field, the most beautiful flower of the district: my cousin Dolores.
 
@@ -288,7 +292,7 @@ On my departure Dolores proposed to accompany me part of the way, to point out a
 
 She was in charming spirits, full of the animation inspired by a love that seemed to form a kind of halo around her. What matters a short separation knowing one’s love is reciprocated? At a part of the road where a narrow pass opens a mountain, she took the lead and I followed—not without admiration of her graceful figure, and graceful and serene management of a fiery horse, which to her alone was docile and obedient.
 
-In a short time we passed into a more open country. A mountain stream came tumbling over rocks into a basin surrounded by quivering, varied furze and pasture. he stream was bordered on either side and arched by thick foliage of lofty trees, through which the sun never penetrated, preventing the growth of vegetation beneath, where detached rocks, and decayed trunks of old trees green with moss, partially covered the soil, carpeted by a soft, golden sand. The sun had begun to set, and the lengthened shadows produced a delicious freshness in that spot; flocks of colorful native birds, talkative parrots and paroquets, had collected on the tops of the trees, gilded by the last retiring rays. Here we dismounted, and my aunt, who had accompanied us, bringing out some sweets, with a coca-nut shell curiously embossed in polished silver, invited us to a rural entertainment.
+In a short time we passed into a more open country. A mountain stream came tumbling over rocks into a basin surrounded by quivering, varied furze and pasture. The stream was bordered on either side and arched by thick foliage of lofty trees, through which the sun never penetrated, preventing the growth of vegetation beneath, where detached rocks, and decayed trunks of old trees green with moss, partially covered the soil, carpeted by a soft, golden sand. The sun had begun to set, and the lengthened shadows produced a delicious freshness in that spot; flocks of colorful native birds, talkative parrots and paroquets, had collected on the tops of the trees, gilded by the last retiring rays. Here we dismounted, and my aunt, who had accompanied us, bringing out some sweets, with a coca-nut shell curiously embossed in polished silver, invited us to a rural entertainment.
 
 “How delightful it would be," said Dolores, “to pass one’s life in such a place as this."
 
@@ -706,7 +710,7 @@ The wedding was magnificent, if not particularly joyous. The lady was not especi
 
 Eight days after I arrived in the vicinity of N\*\**, but instead of entering the village, took a by-road that brought me to the valley of Dolores’ residence. On arriving at the path that years before I had passed in the company of my cousin, I could not but think of her graceful figure, her brilliant look, her joyous words. I heard the echo of her silvery laugh, which appeared still to vibrate in the solitude. What changes had occurred since then! —my aunt was dead, my poor father had followed her, my love was the wife of another (I do not know if I have mentioned her marriage with Don Basilio), and last my cousin, then a happy girl, now buried in affliction. I had avoided the village that brought back so many sad remembrances, and knew nothing of Dolores.
 
-As I approached the cottage unusual sounds reached me, and under a tree were several. horses ready saddled. I gave mine the spur and arrived at the door the same moment that the priest of the village and several persons were issuing from it, and the old priest, recognizing me, said, “What a coincidence to meet you here," at the same time detaining me at the door. He was a respectable old man, who had been the village pastor since I was a child.
+As I approached the cottage unusual sounds reached me, and under a tree were several horses ready saddled. I gave mine the spur and arrived at the door the same moment that the priest of the village and several persons were issuing from it, and the old priest, recognizing me, said, “What a coincidence to meet you here," at the same time detaining me at the door. He was a respectable old man, who had been the village pastor since I was a child.
 
 “Is Dolores within?” I asked after the first salutation.
 
@@ -810,18 +814,17 @@ I received a letter from my cousin Pedro. It was dated from Bogotá on his way b
 
 ## Bibliography
 
-Acosta de Samper, Soledad. *Dolores*. Bogotá, Ediciones Uniandes, 2021.
+Acosta de Samper, Soledad. *Dolores*. Bogotá: Ediciones Uniandes, 2021.
 
+Acosta de Samper, Soledad. *Dolores: The Story of a Leper.* New York, 1899. https://babel.banrepcultural.org/digital/collection/p17054coll26/id/15636
 
-Acosta de Samper, Soledad. *Dolores*. *The Story of a Leper.* New York, 1899. https://babel.banrepcultural.org/digital/collection/p17054coll26/id/15636
+Acosta de Samper, Soledad. *Dolores: Cuadros de la vida de una mujer.* Serialized in *El Mensajero: diario de la mañana.* (Volume 1, Nos. 59-70, January 187). https://babel.banrepcultural.org/digital/collection/p17054coll26/id/15705
 
+Acosta de Samper, Soledad. "Dolores: Cuadros de la vida de una mujer." In *Novelas y cuadros de la vida Sur-America*. Gante:  Imprenta de Eug. Vanderhaeeghen, 1869. https://www.cervantesvirtual.com/obra-visor/novelas-y-cuadros-de-la-vida-suramericana--0/html/ff243e56-82b1-11df-acc7-002185ce6064_2.html#I\_0\_
 
 Alzare, Carolina. *Soledad Acosta de Samper y el discurso letrado de género, 1853-1881.* Bogotá, Iberoamericana, 2015.
 
-
 Alzate, Carolina & Ordóñez, Montserrat et al. *Soledad Acosta de Samper. Escritura, género y	nación en el siglo XIX.* Editorial Iberoamericana Vervuert, 2005.
-
-
 
 ## Glossary
 
