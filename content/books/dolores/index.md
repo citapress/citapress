@@ -1,5 +1,5 @@
 ---
-title: "Dolores "
+title: "Dolores: Cuadros de la vida de una mujer"
 publication: 2026-06-12T01:15:00.000-07:00
 publishformat: Month and year
 release: 1867-06-12T02:00:00.000-08:00
@@ -22,10 +22,51 @@ theme:
   - first-person-narrator
   - mental-health
 lang: es
-description: TBD
-foreword: TBD
+description: >-
+  <p><b><I> “Mándame, te lo suplico, algunos libros. Quiero alimentar mi
+  espíritu con bellas ideas.” </b></i></p>
+
+
+  <p>
+foreword: >-
+  <p><b>Prólogo:</b> Sara Abadía Alvarado</p>
+
+
+  <p><b>Portada:</b> Mariana Sanín A. es ilustradora y diseñadora de Colombia. También le gusta escribir poemas, relatos cortos, y haikus para niños (y adultos).  </p>
 published: false
 ---
+## AGRADECIMIENTOS
+
+Soledad Acosta de Samper siempre ha pertenecido al catálogo de Cita Press. Nuestra fundadora, Juliana Castro Varón, es de Colombia, donde el legado de Samper ha continuado a crear más oportunidades para las mujeres incluso en el periodo en el que el reconocimiento de ella fue injustamente escaso. Finalmente podemos darle la bienvenida oficialmente a nuestra biblioteca, gracias a Sara Abadía Alvarado, quien nos trajo este proyecto. Somos entusiasmadas ser parte de compartir un legado feminista esencial en inglés y español con lectores de todo el mundo. 
+
+Este libro no existiría sin la erudición de Carolina Alzate y Monserrat Ordóñez, cuyos trabajos han regresado a Soledad al primer plano. También estamos en deuda hacia La Biblioteca Virtual del Banco de la República para asegurar que la fuente para esta traducción sea disponible para todos, y a la Biblioteca Digital Soledad Acosta de Samper mantenido por la Universidad de de los Andes y la Biblioteca Nacional de Colombia. 
+
+Gracias a Sara por confiar en Cita este proyecto, y por su atención cuidadosa como traductora y escritora. Gracias a Mariana Sanín Angel por crear una portada que está en conversación directa con el texto y con el paisaje natural y la historia de diseño de Colombia.
+
+La dirección artística y el diseño editorial para este libro es de Mariana Matos y guiado por la visión de diseño de Juliana Castro Varón. Jessi Haley editó la traducción inglés. Jasmine Jones proveía apoyo editorial y promocional. 
+
+Al fin, estamos profundamente agradecidas a Sharon Bard, cuyo patrocinio expandió las posibilidades para esta edición y apoyó directamente el trabajo de nuestros colaboradores.  
+
+## PRÓLOGO DE LA TRADUCTORA
+
+Soledad Acosta de Samper hablaba inglés, viajaba por el mundo, escribía todos los días y guardaba los recortes de periódico donde aparecían sus novelas para convertirlos en álbumes. Se casó por amor, tuvo cuatro hijas —una de ellas, monja y poeta, publicó la versión de la *Novena de Aguinaldos* que se canta durante los nueve días previos a la Navidad en Colombia, Venezuela y Ecuador—, fundó cinco revistas, se estableció como periodista e historiadora, luchó por el lugar de las mujeres en la sociedad y resistió la censura que pesó sobre su protagonista femenina más reconocida hoy en América Latina: Dolores.
+
+Acosta fue una de las escritoras más prolíficas de su momento (incluyendo a escritores hombres y mujeres): escribió “veintiuna novelas, cuarenta y ocho cuentos, cuatro obras de teatro, cuarenta y tres estudios sociales y literarios, veintiún tratados de historia, y fundó y dirigió cinco periódicos (en los cuales fue ella quien contribuyó la mayor cantidad de textos de ficción y no-ficción); hizo además numerosas traducciones” (Alzate, 21, paréntesis mío). Como muchas escritoras del siglo XIX, fue censurada y posteriormente olvidada. La suya fue una generación de pensadores, políticamente comprometida con dictar la manera en que las personas debían formarse como ciudadanos de una nación civilizada. Esto incluía, por supuesto, el lugar de la mujer, constantemente relegada al silencio y la sumisión y encargada del hogar y de los hijos. La escritura de Acosta fue políticamente comprometida y abiertamente opinionada. Los años ochenta, afortunadamente, trajeron consigo un feminismo comprometido con revisitar y rescatar el canon literario de las mujeres escritoras. Acosta fue recuperada en esa década por académicas pioneras como Monserrat Ordóñez y Carolina Alzate, cuyas enseñanzas dieron paso a este proyecto de traducción, con el que espero seguir llenando los vacíos de producción y de estudios literarios en torno a la autora. Debió de haber sido difícil inscribirla en una tradición en su tiempo, pero, como tantas otras, estaba escribiendo —como hoy puede comprobar el lector con este libro— para el futuro. Su retrato de costumbres resulta casi fantástico ante la transformación que atraviesa su protagonista.
+
+*Dolores*, titulada con el nombre de su heroína, fue escrita en 1847. Relata la historia de una joven bogotana del siglo XIX que descubre un secreto familiar que, poco a poco, irá acabando con su vida. A través de sus cartas y su diario nos adentramos en su mundo interior, lleno de reflexiones sobre el significado de la muerte y el amor, la religión y la naturaleza, la enfermedad y la juventud. El libro se publicó el mismo año que *María*, de Jorge Isaacs, novela que desde entonces ha sido reconocida como la novela fundacional de Colombia y ha tenido más de 150 ediciones (mientras que *Dolores* ha tenido sólo cuatro en los últimos 150 años). Aunque quizá no fue reconocida por su brillantez en el momento de su publicación, *Dolores* es hoy la obra de Acosta más estudiada y revisada por la crítica.	
+
+*Dolores* es un unicornio en la práctica de la traducción por varias razones. Aquí describo las tres más importantes. Existe una traducción al inglés realizada a finales del siglo XIX en Nueva York. Desconocemos el nombre del traductor y la fecha exacta, pues no figuran en la versión impresa. No siempre un traductor moderno cuenta con una versión realizada en la misma época que la obra original, lo cual ofrece una oportunidad excepcional: por un lado, como fuente para conocer los manierismos del inglés de entonces; por otro, como testimonio de las concepciones que ese traductor tenía sobre una autora colombiana. Por ejemplo, hay pasajes en los que la tez de Dolores se describe como “pura” o “blanca”, palabras que no aparecen en el manuscrito en español, aunque este sí la retrata con mejillas rosadas y piel hermosa. En otras instancias, cuando Acosta dedica varias oraciones a describir las costumbres de la Bogotá de la época —muchas de ellas usando vocablos hoy en desuso—, el traductor decimonónico opta por una mezcla de equivalentes posibles y de palabras en español explicadas (a veces sí, a veces no) mediante notas al pie.	
+
+Pero esto no es lo más inusual. En la traducción original de *Dolores* se omite por completo la tercera parte de la novela. La obra es una narración enmarcada: aunque Dolores es la protagonista, no es quien narra la historia, sino Pedro, su primo. En la primera parte, su voz predomina; la segunda combina sus palabras con las cartas que Dolores le envía; y la tercera —la que se elimina en la traducción del siglo XIX— consiste enteramente en los diarios de la protagonista, quien en este punto se entrega con mayor intensidad a la escritura. Esta estructura es una forma de burlar la preferencia del público por un narrador masculino y permitir que sea Dolores quien tenga la última palabra en su propia historia, sin que Pedro tenga que hablar por ella, como señala Alzate, a cuya lectura me sumo.
+
+Por último —y quizá la razón más fascinante—, Acosta de Samper tradujo a mano la tercera parte omitida. O, mejor dicho, la revisó (por no decir que la reescribió). Todo escritor conoce bien la tentación de seguir editando un texto indefinidamente, así como la experiencia de releer un libro tiempo después de haberlo publicado. La distancia, el tiempo y la experiencia nos vuelven correctores y ampliadores. La traducción, además, ofrece la posibilidad de darle algo así como una vida paralela a un texto, en la que puede existir en otro registro. Eso mismo hizo la autora al reencontrarse con su novela *Dolores*. En su traducción al inglés, la tercera parte está llena de paráfrasis y de pasajes bellísimos añadidos que no se encuentran en el original en español.	
+
+Todas estas razones hacen de *Dolores* un reto particularmente fascinante para una traductora contemporánea. Esta es la manera en que decidí aproximarme al texto: opté por conservar los anglicismos y las estructuras sintácticas propias del siglo XIX utilizadas por el traductor original, siempre que no alteraran el sentido del texto fuente. Por supuesto, no incluí explicaciones innecesarias para un lector actual ni impulsos por añadir comentarios sobre raza o feminidad que no figuran en el original. Siempre que pude, mantuve palabras en español sin traducción directa y añadí su significado en el glosario, siguiendo las definiciones de Alzate en la edición de 2021 de la Universidad de los Andes, que presenta el texto autorizado. En cuanto a la estimulante —aunque retadora— tercera parte, donde la autora recurre al parafraseo para acomodar las largas oraciones de la sintaxis española a la versión en inglés, las dejé casi intactas. Allí donde encontré pasajes de especial belleza y fuerza poética, que además agregan una capa de complejidad a la historia y a la psicología del personaje, los conservé, pero fui cuidadosa en rastrear el inicio y el final de estos añadidos en las notas al pie, para los lectores curiosos que deseen seguir el proceso de transformación del texto.
+
+Para terminar, quiero agradecer infinitamente a Jessi Haley y a Juliana Castro Varón por hacer posible Cita Press y por darle un hogar a miles de mujeres escritoras que, como Soledad, no siempre encuentran cabida en circuitos editoriales verdaderamente feministas y democráticos. Me atrevo a decir que la autora estaría exultante al ver a *Dolores* llegar a tantos lectores alrededor del mundo. Gracias, gracias.
+
+
+
 ## PARTE PRIMERA
 
 > *La nature est un drame avec des personnages.*\
@@ -267,7 +308,7 @@ Nos desmontamos, y sacando mi tía algunos dulces y un coco curiosamente engasta
 
 No replicó sino con solo una mirada tierna que se dirigía a mi amigo ausente, y continuó conversación alegremente. ¡Pobre niña!..., pero feliz todavía en su ignorancia de lo porvenir.
 
-## PARTE SEGUNDA 
+## PARTE SEGUNDA
 
 *La douleur est une limière nous éclaire la vie.* \
 *El dolor es una luz que ilumina nuestra vida.*\
@@ -276,3 +317,9 @@ No replicó sino con solo una mirada tierna que se dirigía a mi amigo ausente, 
 Dos meses después de haber llegado a Bogotá recibí de Dolores su primera carta, la que he conservado con otras muchas como recuerdos de mi prima, cuyo claro talento fue ignorado de todos menos de mí. 
 
 «Querido primo», me decía: «aguardaba recibir noticia de tu llegada para escribirte, y después, cuando quise hacerlo, los acontecimientos que han tenido lugar en casa y en mi vida, me lo habían impedido... No sabía si debería confiarte el horrible secreto que he descubierto; pero el corazón necesita desahogarse, y sé bien que eres no solamente mi hermano sino un amigo muy querido que simpatiza con mis penas. No hace mucho que leía que 'lo que hace las amistades indisolubles y duplica su encanto, es aquel sentimiento que falta al amor: la seguridad'. ¡Oh! la amistad es lo único que puede ahora consolarme, ya que otro sentimiento me será prohibido... No hace mucho, ¿te acuerdas? veía el mundo bello, alegre, encantador; todo me sonreía... pero ahora, ¡gran Dios!... ¡un terremoto ha cubierto de ruinas el sitio en que se levantaba el templo de mis esperanzas!
+
+
+
+## BIOGRAFÍAS DE LAS COLABORADORAS 
+
+**Sara Abadía Alvarado** es una escritora y educadora colombiana. Estudió Literatura en la Universidad de los Andes, donde descubrió la obra de Soledad Acosta de Samper, autora con quien mantiene un diálogo constante. Realizó un MFA en escritura creativa en español en la Universidad de Nueva York, donde escribió su primera novela y tradujo poesía bajo la tutoría de Mariela Dreyfus. Ha publicado relatos y artículos en *070*, *NACLA* y con la editorial Laguna. En 2023 fue seleccionada para la *Antología III* de la Feria del Libro de Nueva York con su cuento “Anamorfosis”. Actualmente vive en Boston, donde enseña teatro a jóvenes de East Boston. Escribe desde una ambición consciente y una fe persistente en la capacidad de la literatura para trascender el tiempo.
