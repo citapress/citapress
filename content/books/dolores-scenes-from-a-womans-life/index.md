@@ -74,11 +74,12 @@ All of these reasons make *Dolores* a particularly fascinating challenge for a c
 
 Finally, I would like to extend my deepest thanks to Jessi Haley and Juliana Castro Varón  for making Cita Press possible and for giving a home to thousands of women writers who, like Soledad, do not always find a place in truly feminist and democratic publishing circuits. I dare say the author would be delighted to see *Dolores* reach so many readers around the world. Thank you, thank you. ***—Sara Abadía*** 
 
+- - -
+
 ## PART ONE
 
 > <small>***La nature est un drame avec de personnages.*** <br>
 > Nature is a drama with characters.</small>
->
 >
 > <small>—VICTOR HUGO</small>
 
@@ -293,6 +294,8 @@ In a short time we passed into a more open country. A mountain stream came tumbl
 “Alone?” I answered, with a smile.
 
 She did not reply but with a tender look intended for my absent friend; and then in a happy mood continued the conversation. Poor girl… but still happy in the ignorance of what was yet to come!
+
+- - -
 
 ## PART TWO
 
@@ -613,6 +616,8 @@ I took leave, promising to speak to my aunt, which I did, and at last convinced 
 
 A few days after, I joined my travelling companion at Honda. We descended the Magdalena river together without accident or occurrence of anything remarkable, and embarked at Santa Marta on the first of the next month.
 
+- - -
+
 ## PART THREE
 
 > <small>*Sólo te busco en la selva más lejana*<br>
@@ -695,8 +700,6 @@ But the events that followed are so fully described in a letter afterwards recei
 >
 > My mind is a chaos, my existence a horrible nightmare. Send me some books, I beg you. I wish to feed my soul with beautiful thoughts. I would live with the dead, and converse with them…………………
 
-- - -
-
 The letter of Dolores left a deep impression. That a character so mild and amiable should have been so completely changed by her sufferings, the measure of which it strongly portrayed. I looked out some good books and sent them to her. For several years following this I received but brief notes, all evincing a crushing sadness, and some religious doubt and hate of the world, which gave me great pain. My father wrote that he never saw her again, but sent a person weekly to carry the things she needed, and to bring him such information as he could gather respecting her.
 
 Antonio had long repented of his violent conduct with me, and we kept up an active correspondence. It was a terrible blow when he first learned the horrible lot of Dolores, and the impossibility of their union; but, severe as it was, he recovered from it, and with redoubled energy overcame the pain it cost him by devoting himself to labor, and the study of his profession. He soon became known as a man of talent, distinguished both by his eloquence and attention to business, and rose to an honorable position in the state.
@@ -731,7 +734,7 @@ I did my duty and assisted at the interment, which she directed should be in the
 
 Among her papers was found a will leaving her property to me, and a number of compositions in prose and verse. Here are a few fragments of a Diary, the contents of which exhibited most clearly her character, her moral sufferings, her vacillations, and her desperation.
 
-- - -
+{{ readFile "static/img/colon.svg" | safeHTML }}
 
 **June 23th, 1843**
 
