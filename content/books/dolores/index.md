@@ -786,7 +786,7 @@ Yo cumplí con mi deber. Asistí al entierro. Había dispuesto que la enterrasen
 
 Entre sus papeles hallé un testamento a mi favor y varias composiciones en prosa y verso. He aquí algunos fragmentos de un diario que llevaba y que hacen comprender mejor su carácter y los horribles padecimientos morales que sufría, sus vacilaciones y su desesperación.
 
-
+***
 
 ## BIOGRAFÍAS DE LAS COLABORADORAS
 
