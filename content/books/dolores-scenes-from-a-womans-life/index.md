@@ -58,7 +58,6 @@ Finally, we are deeply grateful to Sharon Bard, whose sponsorship expanded the p
 
 Soledad Acosta de Samper spoke English, traveled the world, wrote every day, and saved the newspaper clippings in which her novels appeared to turn them into albums. She married for love, had four daughters—one of them, a nun and a poet, published the version of the *Novena de Aguinaldos* that is sung during the nine days leading up to Christmas in Colombia, Venezuela, and Ecuador—founded five magazines, established herself as a journalist and historian, fought for women’s place in society, and resisted the censorship imposed on her most renowned female protagonist today in Latin America: Dolores.
 	
-
 Acosta was one of the most prolific writers of her time among both male and female writers. She wrote “twenty-one novels, forty-eight short stories, four plays, forty-three social and literary studies, twenty-one historical treatises, and founded and directed five newspapers (in which she herself contributed the majority of the fiction and nonfiction texts); she also produced numerous translations”. Like many women writers of the nineteenth century, she was censored and later forgotten. Her generation was one of thinkers, politically committed to defining how individuals were to be shaped as citizens of a civilized nation. This included, of course, the place of women, who were constantly relegated to silence and submission and assigned responsibility for the home and children. Acosta’s writing was politically engaged and openly opinionated. 
 
 The 1980s, fortunately, brought with them a feminism committed to revisiting and recovering the literary canon of women writers. Acosta was recovered during that decade by pioneering scholars such as Monserrat Ordóñez and Carolina Alzate, whose teachings paved the way for this translation project, through which I hope to continue filling the gaps in literary production and scholarship surrounding the author. It must have been difficult to situate her within a tradition in her own time, but, like so many others, she was writing—as the reader can now see in this book—for the future. Her portrayal of social customs appears almost fantastical in light of the transformation undergone by her protagonist.
@@ -77,9 +76,9 @@ Finally, I would like to extend my deepest thanks to Jessi Haley and Juliana Cas
 
 ## PART ONE
 
-> *La nature est un drame avec de personnages.* 
-> *Nature is a drama with characters.*
-> —VICTOR HUGO
+> <small>*La nature est un drame avec de personnages.* 
+> *Nature is a drama with characters.*</small>
+> <small>—VICTOR HUGO</small>
 
 
 
@@ -297,9 +296,9 @@ She did not reply but with a tender look intended for my absent friend; and then
 
 ## PART TWO
 
-> *La douleur est une lumière qui nous èclaire la vie* 
-> *Pain is a light that illuminates our lives*
-> —BALZAC
+> <small>*La douleur est une lumière qui nous èclaire la vie* 
+> *Pain is a light that illuminates our lives*</small>
+> <small>—BALZAC</small>
 
 It was two months after my return to Bogotá that I received the first letter from Dolores, which I have preserved with many others as remembrances of my cousin, whose distinct talent was unknown by everyone but myself.
 
@@ -615,21 +614,22 @@ A few days after, I joined my travelling companion at Honda. We descended the Ma
 
 ## PART THREE
 
-> *Sólo te busco en la selva más lejana*
+> <small>*Sólo te busco en la selva más lejana*
 > *tétrico albergue, asilo tenebroso*
-> *no pisado jamás de huella humana.*
+> *no pisado jamás de huella humana.*</small>
 >
-> *I only seek you in the farthest of forest*
+> <small>*I only seek you in the farthest of forest*
 > *Gloomy shelter, dark refuge*
-> *Never trodden by human footprints.*
-> —VICENTA MATURANA
+> *Never trodden by human footprints.*</small>
+
+> <small>—VICENTA MATURANA</small>
 >
-> *Je meurs, et sur ma tombe, ou lentement j’arrive,* 
-> *nul ne viendra verser des pleurs.* 
+><small> *Je meurs, et sur ma tombe, ou lentement j’arrive,* 
+> *nul ne viendra verser des pleurs.* </small>
 >
-> *I am dying, and on my grave, where I am slowly arriving,*
-> *No one will come to shed tears.*
-> —GILBERT
+><small> *I am dying, and on my grave, where I am slowly arriving,*
+> *No one will come to shed tears.*</small>
+> <small>—GILBERT</small>
 
 During the first months of my stay in Europe I received several letters from my father, containing particulars of the health of Dolores. Notwithstanding the best medical advice, she grew worse every day. All hope of recovery was given up; the horrible and mysterious disease continued its ravages, destroying not the beauty alone, but almost the human appearance of my unfortunate cousin. She lived in the dark, depriving herself of air and light, begging that she might be permitted to hide from an atmosphere that suffocated her.
 
