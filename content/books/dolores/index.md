@@ -308,9 +308,9 @@ No replicó sino con solo una mirada tierna que se dirigía a mi amigo ausente, 
 
 ## PARTE SEGUNDA
 
-*La douleur est une limière nous éclaire la vie.* \
-*El dolor es una luz que ilumina nuestra vida.*\
-–BALZAC 
+><small>*La douleur est une limière nous éclaire la vie.* \
+>*El dolor es una luz que ilumina nuestra vida.*\
+–BALZAC </small>
 
 Dos meses después de haber llegado a Bogotá recibí de Dolores su primera carta, la que he conservado con otras muchas como recuerdos de mi prima, cuyo claro talento fue ignorado de todos menos de mí. 
 
