@@ -664,11 +664,17 @@ Algunos días después me reuní con mi compañero en Honda y bajamos el Magdale
 
 ## PARTE TERCERA
 
-> Sólo busco en la selva más lejana tétrico albergue, asilo tenebroso no pisado jamás de huella humana. 
+> *Sólo busco en la selva más lejana* \
+> *tétrico albergue, asilo tenebroso*\
+> *no pisado jamás de huella humana.* 
 >
 > VICENTA MATURANA                
 >
-> *Je meurs, et sur ma tomble, ou lentement j'arrive,nul ne viendra verser des pleurs.*
+> *Je meurs, et sur ma tomble, ou lentement j'arrive,*\
+> *nul ne viendra verser des pleurs.*
+>
+> *Me muero, y sobre mi tumba, a la que llego lentamente,*\
+> *nadie vendrá a derramar lágrimas.*
 >
 > GILBERT               
 
