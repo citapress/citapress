@@ -615,7 +615,9 @@ A few days after, I joined my travelling companion at Honda. We descended the Ma
 ## PART THREE
 
 > <small>*Sólo te busco en la selva más lejana*
+
 > *tétrico albergue, asilo tenebroso*
+
 > *no pisado jamás de huella humana.*</small>
 >
 > <small>*I only seek you in the farthest of forest*
