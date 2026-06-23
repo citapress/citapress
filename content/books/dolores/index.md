@@ -314,6 +314,8 @@ No replicó sino con solo una mirada tierna que se dirigía a mi amigo ausente, 
 
 Dos meses después de haber llegado a Bogotá recibí de Dolores su primera carta, la que he conservado con otras muchas como recuerdos de mi prima, cuyo claro talento fue ignorado de todos menos de mí. 
 
+
+
 > «Querido primo», **me decía:** «aguardaba recibir noticia de tu llegada para escribirte, y después, cuando quise hacerlo, los acontecimientos que han tenido lugar en casa y en mi vida, me lo habían impedido... No sabía si debería confiarte el horrible secreto que he descubierto; pero el corazón necesita desahogarse, y sé bien que eres no solamente mi hermano sino un amigo muy querido que simpatiza con mis penas. No hace mucho que leía que 'lo que hace las amistades indisolubles y duplica su encanto, es aquel sentimiento que falta al amor: la seguridad'. ¡Oh! la amistad es lo único que puede ahora consolarme, ya que otro sentimiento me será prohibido... No hace mucho, ¿te acuerdas? veía el mundo bello, alegre, encantador; todo me sonreía... pero ahora, ¡gran Dios!... ¡un terremoto ha cubierto de ruinas el sitio en que se levantaba el templo de mis esperanzas!
 >
 > Perdóname, Pedro, esta palabrería con que procuro retardar la confesión de mis penas: esto sólo te demuestra el terror que me causa ver escrito lo que casi no me atrevo a pensar.
@@ -796,51 +798,35 @@ Entre sus papeles hallé un testamento a mi favor y varias composiciones en pros
 
 «Hace un año que sufro sola, aislada, abandonada por el mundo entero en este desierto. ¡Oh! Si hubiera alguien que se acordara de mí ¿cómo no me hubieran de llegar ráfagas de consuelo que inspiraran resignación a este corazón desgarrado? A lo lejos en la llanura corren y se divierten. Mañana es día de San Juan, aniversario de las fiestas de N\*\**. ¡Las fiestas! ¡qué de recuerdos me traen a la memoria! Hoy encontré por casualidad un ramo de jazmines secos ¿podrá creerse que este ser monstruoso que aparece ante mí al acercarme al espejo es la bella niña a quien fueron regaladas estas flores? Antonio, Antonio, tú a quien amo en el secreto de mi alma, cuya memoria es mi único consuelo, Antonio, ¿te acordarás acaso todavía de la infeliz a quien amaste? ¡Si supieras cómo me persigue tu imagen! Resuena tu nombre en el susurrante ramaje de los árboles, en el murmullo de la corriente, en el perfume de mis flores favoritas, en el viento que silba, entre las páginas del libro en que me fijo, en la punta de la pluma con que escribo; veo tus iniciales en el ancho campo estrellado, entre las nubes al caer el sol, entre la arena del riachuelo en que me baño... ¡Dios Santo! ¡que este amor sea tan grande, tan profundo, tan inagotable, y sin embargo mi corazón ardiente yace mudo para siempre!»
 
-
-
 **Diciembre 8 de 1843** 
 
 «La vida es un negro ataúd en el cual nos hallamos encerrados. ¿La muerte es acaso principio de otra vida? ¡Que ironía! En el fondo de mi pensamiento sólo hallo el sentimiento de la nada. Si hubiera un Dios justo y misericordioso como lo quieren pintar, ¿dejaría penar una alma desgraciada como yo? ¡Oh! ¡muerte ven, ven a socorrer al ser más infeliz de la tierra! Soledad en todas partes, silencio, quietud, desesperante calma en la naturaleza... El cielo me inspira horror con su espantosa hermosura; la luna no me conmueve con su tan elogiada belleza; el campo me causa tedio; las flores me traen recuerdos de mi pasada vida. Flores, campos, puros aromas, armonías de la naturaleza que son emblemas de vida ¿por qué venir a causar tan hondos sentimientos a la que ya no existe?...»
-
-
 
 **Mayo de 1844** 
 
 «...Espantosa martirio... la enfermedad no sigue su curso ordinario. ¿Viviré aún muchos años? Hay noches en que despierto llena de agitación: soñé que al fin pude conseguir una pistola; pero al quererme matar no dio fuego y en mi pugna por dispararla desperté... Otras veces imagino que estoy nadando en un caudaloso río, y me dejo llevar dulcemente por las olas que van consumiéndome; pero al sentir que me ahogo, me despierta un intenso movimiento de alegría.»
 
-
-
 **Febrero de 1864** 
 
 «Recibí hoy una carta de Pedro que me ha consolado. Hay todavía alguien, además de mi buen tío, que se acuerda de mí... Había dicho que esta carta me había consolado... ¡mentira! La he vuelto a leer y me ha causado un sufrimiento nuevo. Me habla de su vida tranquila, de sus estudios y proyectos para lo porvenir. Los hombres son los seres más crueles de la creación: se complacen en hacernos comprender nuestro infortunio. En los siglos de la media, cuando se le declaraba lázaro a alguno, era inmediatamente considerado como un cadáver: lo llevaban a la iglesia, le cantaban la misa de difuntos y lo recluían por el resto de sus días como ser inmundo... Pero al menos ellos no volvían a tener comunicación con la sociedad; morían moralmente y jamás llegaban a sus oídos los ecos de la vida de los seres que amaron. Y yo, yo que me he retirado al fondo de un bosque americano, hasta aquí me persigue el recuerdo... ¿Amar qué es? Amar es sentir gratas emociones: los médicos dicen que el lazarino ha perdido el sistema nervioso ¿para qué siento yo, por qué recuerdo con ternura los seres que amé?»
-
-
 
 **Abril de 1845** 
 
 «¡Dios, la religión, la vida futura! ¡Cuestiones insondables! ¡Terribles vacilaciones del alma! ¡Si mi mal fuera solamente físico, si tuviera solamente enfermo el cuerpo! Pero cambia la naturaleza del carácter y cada día siento que me vuelvo cruel como una fiera de estos montes, fría y dura ante la humanidad como las piedras de la quebrada. Hay momentos en que en un acceso de locura vuelo a mis flores, que parecen insultarme con su hermosura, y las despedazo, las tiro al viento: un momento después me vuelve la razón, las busco enternecida y lloro al encontrarlas marchitas. Otras veces mi alma se rebela, no puede creer en que un Dios bueno me haga sufrir tanto, y en mi rebeldía niego su existencia: después... me humillo, me prosterno y caigo en una adoración sin fin ante el Ser Supremo...»
 
-
-
 **Setiembre de 1845** 
 
 «Siempre el silencio, la soledad, la ausencia de una voz amiga que me acaricie con un tono de simpatía. ¡La eterna separación! ¿Podrá haber idea más aterradora para un ser nacido para amar?»
 
-
-
 **1.º de enero de 1846** 
 
 «Atravieso una época de desaliento y de letargo completo. He vivido últimamente como en sueños... No estoy triste ni desesperada. Siento que en mi corazón no hay nada, todo me es indiferente: la vida es el sufrimiento, la muerte... todo pasa y se mezcla en las tinieblas de mi alma, y nada me llega a conmover. ¡Una emoción! Una emoción aunque fuera de pena, de miedo, de espanto (lo único a que puedo aspirar) sería bendecida por mí como un alivio: ¡tal es el estado en que me encuentro! Es peor esto que mi loca desesperación de los tiempos pasados. Vegeto como un árbol carcomido: vivo como una roca en un lugar desierto...»
-
-
 
 **Marzo de 1846** 
 
 «A veces me propongo estudiar, leer, aprender para hacer algo, dedicarme al trabajo intelectual y olvidar así mi situación; procuro huir de mí misma, pero siempre, siempre el pensamiento me persigue, y como dice un autor francés: *'Le chagrín monte en croupe et galope avec moi'*.
 
 La mujer es esencialmente amante, y en todos los acontecimientos de la vida quiere brillar solamente ante los seres que ama. La vanidad en ella es por amor, como en el hombre es por ambición. ¿Para quién aprendo yo? Mis estudios, mi instrucción, mi talento, si acaso fuera cierto que lo tuviera, todo esto es inútil, pues jamás podré inspirar un sentimiento de admiración: estoy sola, sola para siempre...»
-
-
 
 **Setiembre 6 de 1846** 
 
@@ -856,7 +842,7 @@ Acosta de Samper, Soledad. *Dolores: The Story of a Leper.* New York: 1899. <
 
 Acosta de Samper, Soledad. *Dolores: Cuadros de la vida de una mujer.* Serialized in *El Mensajero: diario de la mañana.*(Volume 1, Nos. 59-70, January 187). <https://babel.banrepcultural.org/digital/collection/p17054coll26/id/15705>
 
-Acosta de Samper, Soledad. "Dolores: Cuadros de la vida de una mujer." In *Novelas y cuadros de la vida Sur-America*. Gante: Imprenta de Eug. Vanderhaeeghen, 1869. [https://www.cervantesvirtual.com/obra-visor/novelas-y-cuadros-de-la-vida-suramericana--0/html/ff243e56-82b1-11df-acc7-002185ce6064_2.html#I\_0\](https://www.cervantesvirtual.com/obra-visor/novelas-y-cuadros-de-la-vida-suramericana--0/html/ff243e56-82b1-11df-acc7-002185ce6064_2.html#I%5C_0%5C)_
+Acosta de Samper, Soledad. "Dolores: Cuadros de la vida de una mujer." In *Novelas y cuadros de la vida Sur-America*. Gante: Imprenta de Eug. Vanderhaeeghen, 1869. [https://www.cervantesvirtual.com/obra-visor/novelas-y-cuadros-de-la-vida-suramericana--0/html/ff243e56-82b1-11df-acc7-002185ce6064*2.html#I_0](https://www.cervantesvirtual.com/obra-visor/novelas-y-cuadros-de-la-vida-suramericana--0/html/ff243e56-82b1-11df-acc7-002185ce6064_2.html#I%5C_0%5C)*
 
 Alzare, Carolina. *Soledad Acosta de Samper y el discurso letrado de género, 1853-1881.* Bogotá: Iberoamericana, 2015.
 
