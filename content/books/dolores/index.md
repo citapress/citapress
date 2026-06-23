@@ -67,10 +67,10 @@ Para terminar, quiero agradecer infinitamente a Jessi Haley y a Juliana Castro V
 
 ## PARTE PRIMERA
 
-> *La nature est un drame avec des personnages.*\
-> *La naturaleza es un drama con personajes.*
+> <small>*La nature est un drame avec des personnages.*\
+> *La naturaleza es un drama con personajes.*</small>
 >
-> –VÍCTOR HUGO
+> <small>–VÍCTOR HUGO</small>
 
 \-¡Qué linda muchacha! -exclamó Antonio al ver pasar por la mitad de la plaza de la aldea de N\*\** algunas personas a caballo, que llegaban de una hacienda con el objeto de asistir a las fiestas del lugar, señaladas para el día siguiente.
 
@@ -667,19 +667,19 @@ Algunos días después me reuní con mi compañero en Honda y bajamos el Magdale
 
 ## PARTE TERCERA
 
-> *Sólo busco en la selva más lejana* \
+> <small>*Sólo busco en la selva más lejana* \
 > *tétrico albergue, asilo tenebroso*\
-> *no pisado jamás de huella humana.* 
+> *no pisado jamás de huella humana.* </small>
 >
-> VICENTA MATURANA                
+> <small>—VICENTA MATURANA   </small>            
 >
-> *Je meurs, et sur ma tomble, ou lentement j'arrive,*\
-> *nul ne viendra verser des pleurs.*
+> <small>*Je meurs, et sur ma tomble, ou lentement j'arrive,*\
+> *nul ne viendra verser des pleurs.*</small>
 >
-> *Me muero, y sobre mi tumba, a la que llego lentamente,*\
-> *nadie vendrá a derramar lágrimas.*
+> <small>*Me muero, y sobre mi tumba, a la que llego lentamente,*\
+> *nadie vendrá a derramar lágrimas.*</small>
 >
-> GILBERT               
+> <small>—GILBERT   </small>            
 
 Durante los primeros meses de mi permanencia en Europa, recibí varias cartas de mi padre en que me daba cuenta de la salud de Dolores. Empeoraba cada día, y al cabo de algunos meses ya todos habían perdido completamente las esperanzas. A pesar de los esfuerzos que hacían, consultando a los médicos más afamados del país, la horrible y misteriosa enfermedad continuaba con su mano desoladora destruyendo la belleza y aun la figura humana de mi infeliz prima. Ella vivía oculta, sin aire y sin luz, rogando que le permitiesen huir lejos de aquella atmósfera que la sofocaba.
 
