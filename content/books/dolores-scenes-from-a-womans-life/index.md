@@ -420,7 +420,7 @@ I found the usual company collected; on one side of the room, around the piano, 
 
 A little flutter took place in the company upon my arrival. All eyes were turned upon me, and for the moment there was an interruption of conversation. Mercedes received me with hauteur, turning her back after a slight salutation, hardly looking at me. The master of the house merely acknowledged me, and the company was as cold as ice; but, in the midst of the partial silence caused by my arrival, Don Basilio, addressing me in a loud voice, with his accustomed pedantry, said:
 
-“Talking of the king of Rome, or, as the English say, talking of the devil—it is but a moment, young man, since we were talking of you,”;and added, looking round with a significant air, “have you recently received any news from your interesting relations, with whom I became acquainted last year in the village of N\*\**?”
+“Talking of the king of Rome, or, as the English say, talking of the devil—it is but a moment, young man, since we were talking of you.” He added, looking round with a significant air, “have you recently received any news from your interesting relations, with whom I became acquainted last year in the village of N\*\**?”
 
 I do not know what I answered, but shortly afterwards, approaching Mercedes, I told her I came to take leave, as I propose to be absent for some days.
 
@@ -616,9 +616,9 @@ A few days after, I joined my travelling companion at Honda. We descended the Ma
 
 ## PART THREE
 
-> *Sólo te busco en la selva más lejana
-> Tétrico albergue, asilo tenebroso
-> No pisado jamás de huella humana.*
+> *Sólo te busco en la selva más lejana*\
+> *Tétrico albergue, asilo tenebroso*\
+> *No pisado jamás de huella humana.*
 >
 > *I only seek you in the farthest of forest*\
 > *Gloomy shelter, dark refuge*\
