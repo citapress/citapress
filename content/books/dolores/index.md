@@ -314,99 +314,99 @@ No replicó sino con solo una mirada tierna que se dirigía a mi amigo ausente, 
 
 Dos meses después de haber llegado a Bogotá recibí de Dolores su primera carta, la que he conservado con otras muchas como recuerdos de mi prima, cuyo claro talento fue ignorado de todos menos de mí. 
 
-«Querido primo», me decía: «aguardaba recibir noticia de tu llegada para escribirte, y después, cuando quise hacerlo, los acontecimientos que han tenido lugar en casa y en mi vida, me lo habían impedido... No sabía si debería confiarte el horrible secreto que he descubierto; pero el corazón necesita desahogarse, y sé bien que eres no solamente mi hermano sino un amigo muy querido que simpatiza con mis penas. No hace mucho que leía que 'lo que hace las amistades indisolubles y duplica su encanto, es aquel sentimiento que falta al amor: la seguridad'. ¡Oh! la amistad es lo único que puede ahora consolarme, ya que otro sentimiento me será prohibido... No hace mucho, ¿te acuerdas? veía el mundo bello, alegre, encantador; todo me sonreía... pero ahora, ¡gran Dios!... ¡un terremoto ha cubierto de ruinas el sitio en que se levantaba el templo de mis esperanzas!
-
-Perdóname, Pedro, esta palabrería con que procuro retardar la confesión de mis penas: esto sólo te demuestra el terror que me causa ver escrito lo que casi no me atrevo a pensar.
-
-Pero, ¡valor! empezaré.
-
-Algunos días después de tu partida me dirigía una tarde a la pieza de mi tía, cuando al pasar por el corredor del patio de entrada, oí que un viejo arrendatario que vivió en los confines de la hacienda preguntaba por ella. Llevaba una carta en la mano, y al saber que era para mi tía la tomé y me preparaba a entregársela, cuando al notar que el viejo Simón la había llevado dio un grito diciendo:
-
-\-¡Tira esa carta, Dolores, tírala!
-
-Yo hice instintivamente lo que me mandaba y la dejé caer. Mi tía hizo entonces que me lavara las manos, y mandando llevar un brasero, no tomó la carta en sus manos sino después de haberla hecho fumigar.
-
-Yo estaba tan admirada al ver aquella escena, que casi no acertaba a preguntar la causa de los súbitos temores de mi tía; al fin la cosa me pareció hasta chistosa y exclamé riéndome:
-
-\-¿Está envenenado ese papel, tía? ¿El viejo Simón tendrá sus rasgos a lo Borgia, como en la historia que leíamos el otro día?
-
-\-No te burles, hija mía -me contestó con seriedad-: el veneno que puede contener ese papel es más horrible que todos los que han inventado los hombres.
-
-Al decir estas palabras, acabó de leer la carta y tirándola al brasero, la vio consumirse lentamente.
-
-\-Es preciso que me explique usted este misterio...
-
-\-En esto no creas que hay misterio romántico -me dijo con acento triste, interrumpiéndome. ¿No sabes que en las inmediaciones de N\*\** hay lazarinos? Uno de esos desgraciados me ha enviado esa carta.
-
-\-¿Y quién es?
-
-\-¡Quién! un infeliz a quien he mandado algunos socorros y vive en una choza arruinada no lejos de la de Simón.
-
-\-¡Pobrecito! ¡Y vive solo como todos ellos! Solo, en medio del monte, sin que nadie le hable ni se le acerque jamás. Vivirá y morirá aislado sin sentir una mano amiga... ¡Dios mío! ¡qué horrible suerte, qué crueldad!
-
-Y se me apretaba el corazón con indecible angustia.
-
-\-La sociedad es muy bárbara, tía -añadí-; rechaza de su seno al desgraciado...
-
-\-Así es -me contestó-, ¿pero que remedio? Se dice que esa espantosa enfermedad se comunica con la mayor facilidad. ¿No es mejor en tal caso que sufra uno solo en vez de muchos? Por mi parte, Dolores, te confieso que el aspecto de un lazarino me espanta y querría más bien morir que acercármelo.
-
-\-¿Y cómo conoció usted a ese infeliz? ¿Por qué lo protege, tía? Mucho me ha interesado: el sobrescrito de la carta estaba muy bien puesto... y aún me parece que la letra no me es enteramente desconocida.
-
-\-¿Por qué lo protejo, me preguntas? ¿No se ha de procurar siempre aliviar a los que sufren?
-
-Mi tía cortó la conversación bruscamente. Aunque en los subsiguientes días no hablamos del episodio
-
-de la carta, esto me había impresionado mucho. El invierno entró con toda la fuerza que tú sabes se desencadenan las lluvias en estos climas. Estábamos completamente solas en la hacienda: nadie se atrevía a atravesar los ríos crecidos y los caminos inundados para venirnos a visitar. A veces me despertaba en medio de la noche al ruido de una fuerte tempestad, y al oír caer la lluvia, el trueno rasgar el aire y mugir el viento contra las ventanas bien cerradas, y sintiéndome abrigada en mi pieza y rodeada de tantas comodidades, mi espíritu se trasportaba a las chozas solitarias de esos parias de nuestra sociedad: los lazarinos. Veía con la imaginación a esos infelices, presas de terribles sufrimientos, en medio de las montañas y de la intemperie, y solos, siempre solos...
-
-Una noche había leído hasta muy tarde, estudiando francés en los libros que me dejaste: procuraba aprender y adelantar en mis estudios, educar mi espíritu e instruirme para ser menos ignorante; el roce con *algunas* personas de la capital me había hecho comprender últimamente cuán indispensable es saber. Me acosté pues tarde, y empezaba a dormitar cuando creí oír pasos en el patio exterior y como el cuchicheo de dos voces que hablaban bajo. Mi perro favorito, que pasa la noche en mi cuarto, se levantó de repente y se salió por la ventana abierta al corredor, y un momento después oí que se abalanzaba sobre alguien en el patio. La voz de mi tía lo hizo retirarse. ¡Cosa extraña! ¡Mi tía que se recogía a las ocho, andaba por los corredores de la casa a media noche! Me levanté resuelta a indagar esto y entreabrí la puerta que daba al corredor extremo. Entonces oí una voz de hombre que decía por lo bajo:  '¡Adiós, Juana!' Esta voz me causó grande estremecimiento: creí soñar...
-
-\-Aguárdese un momento -contestó mi tía-, voy a traerle el retrato que mandé hacer para usted por un pintor quiteño que por casualidad estuvo aquí ahora días.
-
-Al decir esto sentí que la tía Juana entró a su cuarto, y aprovechándome de la oscuridad, salí al corredor prontamente y me situé en un ángulo desde donde, agazapada, pude ver un bulto que aguardaba inmóvil en medio del patio.
-
-El temor y la vaga aprehensión que había sentido al oír la voz del desconocido desaparecieron al ver que no era una fantasma, un sueño de mi imaginación. ¡Sin embargo, no podía comprender que la tía Juana tuviera *citas* a media noche y regalara su retrato!... Era cierto que poco antes le rogué que se hiciese retratar por un pintor de paso que hizo el mío también. Un momento después volvió, y apoyándose sobre la baranda del corredor dijo, atando a una cuerda un paquete envuelto:
-
-\-No está tan parecida como yo quisiera -y cuando el bulto se acercó, añadió-; va también la 'Imitación de Cristo', de Dolores, que se la cambié por una nueva.
-
-\-No sabe usted cuánto provecho me hará esto -exclamó con voz conmovida el desconocido-... ¡Oh, pobre hija mía!... ¡su retrato!...
-
-Esa voz, ese acento me heló la sangre, y por un momento no sé lo que pasó por mí. Una idea increíble, un terror horrible me dejó como anonadada. Me puse en pie, fría, temblando.
-
-\-Váyase pronto, Jerónimo -contestó mi tía-, he oído un ruido del lado del cuarto de Dolores y...
-
-Nada más oí. Había conocido la voz de mi padre y mi tía lo nombró. ¡Mi padre, que yo creía muerto hacía seis años! No reflexioné en el misterio de aquella aparición, y bajando las gradas del corredor que caían al patio corrí hacia el bulto, y acercándome le eché los brazos al cuello. Al ver mi acción, tanto mi tía como mi padre, pues él era, dieron un grito de horror: éste último se separó de mí con desesperación, su cubrió la cara con la *ruana* en que estaba envuelto y quiso huir; yo pugnaba por seguirlo, y mi tía que había bajado detrás de mí me detuvo.
-
-\-¡Dolores -gritaba ésta-, Dolores, no te acerques, por Dios!... ¡está lazarino!
-
-\-¿Lazarino? ¡qué me importa! Mi padre no ha muerto y quiero abrazarlo.
-
-No te puedes figurar la escena que hubo entonces... Al fin mi tía logró que mi padre se fuera, y llamando a las sirvientas me llevó por fuerza a mi cuarto; y allí quitándome los vestidos que tenía los hizo tirar al patio para ser quemados al día siguiente.
-
-No consentí que mi tía me dejase hasta que no me refiriera la causa de este acontecimiento y me hiciera saber inmediatamente por qué se hallaba mi padre oculto y en aquel estado... Conversamos largo tiempo y no me quedé sola sino cuando empezaban a entrar los primeros rayos de la aurora por la ventana abierta. Me levanté entonces y recostándome contra la ventana contemplé el bello paisaje que se extendía a mis ojos. En el horizonte se veía la cadena de altos y azulosos cerros, y más cerca colinas cubiertas de verde grama sobre las que pacían las vacas y retozaban los potros y caballos; los bosquecillos de arbustos y los árboles frente de la casa se balanceaban a impulso de las auras y entre sus ramas ya empezaban a cantar los pajarillos. A un lado la corraleja llena de mugientes torneros, cuyo aliento sano se unía al aroma de las flores que trepaban por el balcón... ¡El día, el paisaje, los rumores campestres eran bellos y admirables!... pero yo veía todo triste y sin animación. La faz de mi vida ha cambiado; ya nada puede ser risueño para mí. ¡Mi padre vive, pero vive sufriendo!
-
-¿No es cierto, Pedro, que el lázaro es una enfermedad horrorosa? Al saber cuál es la herencia que me aguarda, todos tratarían de retirarse de mi lado y procurarían descubrir en mí los síntomas precursores; ¡estaría condenada a vivir aislada! Mi padre que me amaba con ternura no quiso que esa mancha empañase mi frente, y por eso resolvió desaparecer. Ha vivido escondido en los más recónditos rincones de la provincia y hace apenas un año que mi tía y tu padre saben dónde se halla... ¿Pero, yo, podré vivir contenta lejos de mi desgraciado padre? Sería justo que engañase a los demás ocultando la enfermedad a que la suerte puede condenarme? Mi padre me ha hecho saber de ningún modo permitirá que se sepa que él existe... En tu última carta me dices que Antonio tiene esperanzas de alcanzar más pronto de lo que creía una posición que le permita pedir mi mano. Ya es tarde, primo mío: es preciso que renuncie a esa idea... ¡que me olvide! Mi desdicha no debe encadenarlo. No le digas nunca la causa, pero hazle perder la esperanza. Me creerá variable, ingrata... ¿pero qué puedo hacer? Este sacrificio es grande, muy grande, pero no tiene remedio.
-
-Adiós. Escríbele palabras de consuelo a la que sufre tanto.
+> «Querido primo», **me decía:** «aguardaba recibir noticia de tu llegada para escribirte, y después, cuando quise hacerlo, los acontecimientos que han tenido lugar en casa y en mi vida, me lo habían impedido... No sabía si debería confiarte el horrible secreto que he descubierto; pero el corazón necesita desahogarse, y sé bien que eres no solamente mi hermano sino un amigo muy querido que simpatiza con mis penas. No hace mucho que leía que 'lo que hace las amistades indisolubles y duplica su encanto, es aquel sentimiento que falta al amor: la seguridad'. ¡Oh! la amistad es lo único que puede ahora consolarme, ya que otro sentimiento me será prohibido... No hace mucho, ¿te acuerdas? veía el mundo bello, alegre, encantador; todo me sonreía... pero ahora, ¡gran Dios!... ¡un terremoto ha cubierto de ruinas el sitio en que se levantaba el templo de mis esperanzas!
+>
+> Perdóname, Pedro, esta palabrería con que procuro retardar la confesión de mis penas: esto sólo te demuestra el terror que me causa ver escrito lo que casi no me atrevo a pensar.
+>
+> Pero, ¡valor! empezaré.
+>
+> Algunos días después de tu partida me dirigía una tarde a la pieza de mi tía, cuando al pasar por el corredor del patio de entrada, oí que un viejo arrendatario que vivió en los confines de la hacienda preguntaba por ella. Llevaba una carta en la mano, y al saber que era para mi tía la tomé y me preparaba a entregársela, cuando al notar que el viejo Simón la había llevado dio un grito diciendo:
+>
+> \-¡Tira esa carta, Dolores, tírala!
+>
+> Yo hice instintivamente lo que me mandaba y la dejé caer. Mi tía hizo entonces que me lavara las manos, y mandando llevar un brasero, no tomó la carta en sus manos sino después de haberla hecho fumigar.
+>
+> Yo estaba tan admirada al ver aquella escena, que casi no acertaba a preguntar la causa de los súbitos temores de mi tía; al fin la cosa me pareció hasta chistosa y exclamé riéndome:
+>
+> \-¿Está envenenado ese papel, tía? ¿El viejo Simón tendrá sus rasgos a lo Borgia, como en la historia que leíamos el otro día?
+>
+> \-No te burles, hija mía -me contestó con seriedad-: el veneno que puede contener ese papel es más horrible que todos los que han inventado los hombres.
+>
+> Al decir estas palabras, acabó de leer la carta y tirándola al brasero, la vio consumirse lentamente.
+>
+> \-Es preciso que me explique usted este misterio...
+>
+> \-En esto no creas que hay misterio romántico -me dijo con acento triste, interrumpiéndome. ¿No sabes que en las inmediaciones de N\*\** hay lazarinos? Uno de esos desgraciados me ha enviado esa carta.
+>
+> \-¿Y quién es?
+>
+> \-¡Quién! un infeliz a quien he mandado algunos socorros y vive en una choza arruinada no lejos de la de Simón.
+>
+> \-¡Pobrecito! ¡Y vive solo como todos ellos! Solo, en medio del monte, sin que nadie le hable ni se le acerque jamás. Vivirá y morirá aislado sin sentir una mano amiga... ¡Dios mío! ¡qué horrible suerte, qué crueldad!
+>
+> Y se me apretaba el corazón con indecible angustia.
+>
+> \-La sociedad es muy bárbara, tía -añadí-; rechaza de su seno al desgraciado...
+>
+> \-Así es -me contestó-, ¿pero que remedio? Se dice que esa espantosa enfermedad se comunica con la mayor facilidad. ¿No es mejor en tal caso que sufra uno solo en vez de muchos? Por mi parte, Dolores, te confieso que el aspecto de un lazarino me espanta y querría más bien morir que acercármelo.
+>
+> \-¿Y cómo conoció usted a ese infeliz? ¿Por qué lo protege, tía? Mucho me ha interesado: el sobrescrito de la carta estaba muy bien puesto... y aún me parece que la letra no me es enteramente desconocida.
+>
+> \-¿Por qué lo protejo, me preguntas? ¿No se ha de procurar siempre aliviar a los que sufren?
+>
+> Mi tía cortó la conversación bruscamente. Aunque en los subsiguientes días no hablamos del episodio
+>
+> de la carta, esto me había impresionado mucho. El invierno entró con toda la fuerza que tú sabes se desencadenan las lluvias en estos climas. Estábamos completamente solas en la hacienda: nadie se atrevía a atravesar los ríos crecidos y los caminos inundados para venirnos a visitar. A veces me despertaba en medio de la noche al ruido de una fuerte tempestad, y al oír caer la lluvia, el trueno rasgar el aire y mugir el viento contra las ventanas bien cerradas, y sintiéndome abrigada en mi pieza y rodeada de tantas comodidades, mi espíritu se trasportaba a las chozas solitarias de esos parias de nuestra sociedad: los lazarinos. Veía con la imaginación a esos infelices, presas de terribles sufrimientos, en medio de las montañas y de la intemperie, y solos, siempre solos...
+>
+> Una noche había leído hasta muy tarde, estudiando francés en los libros que me dejaste: procuraba aprender y adelantar en mis estudios, educar mi espíritu e instruirme para ser menos ignorante; el roce con *algunas* personas de la capital me había hecho comprender últimamente cuán indispensable es saber. Me acosté pues tarde, y empezaba a dormitar cuando creí oír pasos en el patio exterior y como el cuchicheo de dos voces que hablaban bajo. Mi perro favorito, que pasa la noche en mi cuarto, se levantó de repente y se salió por la ventana abierta al corredor, y un momento después oí que se abalanzaba sobre alguien en el patio. La voz de mi tía lo hizo retirarse. ¡Cosa extraña! ¡Mi tía que se recogía a las ocho, andaba por los corredores de la casa a media noche! Me levanté resuelta a indagar esto y entreabrí la puerta que daba al corredor extremo. Entonces oí una voz de hombre que decía por lo bajo:  '¡Adiós, Juana!' Esta voz me causó grande estremecimiento: creí soñar...
+>
+> \-Aguárdese un momento -contestó mi tía-, voy a traerle el retrato que mandé hacer para usted por un pintor quiteño que por casualidad estuvo aquí ahora días.
+>
+> Al decir esto sentí que la tía Juana entró a su cuarto, y aprovechándome de la oscuridad, salí al corredor prontamente y me situé en un ángulo desde donde, agazapada, pude ver un bulto que aguardaba inmóvil en medio del patio.
+>
+> El temor y la vaga aprehensión que había sentido al oír la voz del desconocido desaparecieron al ver que no era una fantasma, un sueño de mi imaginación. ¡Sin embargo, no podía comprender que la tía Juana tuviera *citas* a media noche y regalara su retrato!... Era cierto que poco antes le rogué que se hiciese retratar por un pintor de paso que hizo el mío también. Un momento después volvió, y apoyándose sobre la baranda del corredor dijo, atando a una cuerda un paquete envuelto:
+>
+> \-No está tan parecida como yo quisiera -y cuando el bulto se acercó, añadió-; va también la 'Imitación de Cristo', de Dolores, que se la cambié por una nueva.
+>
+> \-No sabe usted cuánto provecho me hará esto -exclamó con voz conmovida el desconocido-... ¡Oh, pobre hija mía!... ¡su retrato!...
+>
+> Esa voz, ese acento me heló la sangre, y por un momento no sé lo que pasó por mí. Una idea increíble, un terror horrible me dejó como anonadada. Me puse en pie, fría, temblando.
+>
+> \-Váyase pronto, Jerónimo -contestó mi tía-, he oído un ruido del lado del cuarto de Dolores y...
+>
+> Nada más oí. Había conocido la voz de mi padre y mi tía lo nombró. ¡Mi padre, que yo creía muerto hacía seis años! No reflexioné en el misterio de aquella aparición, y bajando las gradas del corredor que caían al patio corrí hacia el bulto, y acercándome le eché los brazos al cuello. Al ver mi acción, tanto mi tía como mi padre, pues él era, dieron un grito de horror: éste último se separó de mí con desesperación, su cubrió la cara con la *ruana* en que estaba envuelto y quiso huir; yo pugnaba por seguirlo, y mi tía que había bajado detrás de mí me detuvo.
+>
+> \-¡Dolores -gritaba ésta-, Dolores, no te acerques, por Dios!... ¡está lazarino!
+>
+> \-¿Lazarino? ¡qué me importa! Mi padre no ha muerto y quiero abrazarlo.
+>
+> No te puedes figurar la escena que hubo entonces... Al fin mi tía logró que mi padre se fuera, y llamando a las sirvientas me llevó por fuerza a mi cuarto; y allí quitándome los vestidos que tenía los hizo tirar al patio para ser quemados al día siguiente.
+>
+> No consentí que mi tía me dejase hasta que no me refiriera la causa de este acontecimiento y me hiciera saber inmediatamente por qué se hallaba mi padre oculto y en aquel estado... Conversamos largo tiempo y no me quedé sola sino cuando empezaban a entrar los primeros rayos de la aurora por la ventana abierta. Me levanté entonces y recostándome contra la ventana contemplé el bello paisaje que se extendía a mis ojos. En el horizonte se veía la cadena de altos y azulosos cerros, y más cerca colinas cubiertas de verde grama sobre las que pacían las vacas y retozaban los potros y caballos; los bosquecillos de arbustos y los árboles frente de la casa se balanceaban a impulso de las auras y entre sus ramas ya empezaban a cantar los pajarillos. A un lado la corraleja llena de mugientes torneros, cuyo aliento sano se unía al aroma de las flores que trepaban por el balcón... ¡El día, el paisaje, los rumores campestres eran bellos y admirables!... pero yo veía todo triste y sin animación. La faz de mi vida ha cambiado; ya nada puede ser risueño para mí. ¡Mi padre vive, pero vive sufriendo!
+>
+> ¿No es cierto, Pedro, que el lázaro es una enfermedad horrorosa? Al saber cuál es la herencia que me aguarda, todos tratarían de retirarse de mi lado y procurarían descubrir en mí los síntomas precursores; ¡estaría condenada a vivir aislada! Mi padre que me amaba con ternura no quiso que esa mancha empañase mi frente, y por eso resolvió desaparecer. Ha vivido escondido en los más recónditos rincones de la provincia y hace apenas un año que mi tía y tu padre saben dónde se halla... ¿Pero, yo, podré vivir contenta lejos de mi desgraciado padre? Sería justo que engañase a los demás ocultando la enfermedad a que la suerte puede condenarme? Mi padre me ha hecho saber de ningún modo permitirá que se sepa que él existe... En tu última carta me dices que Antonio tiene esperanzas de alcanzar más pronto de lo que creía una posición que le permita pedir mi mano. Ya es tarde, primo mío: es preciso que renuncie a esa idea... ¡que me olvide! Mi desdicha no debe encadenarlo. No le digas nunca la causa, pero hazle perder la esperanza. Me creerá variable, ingrata... ¿pero qué puedo hacer? Este sacrificio es grande, muy grande, pero no tiene remedio.
+>
+> Adiós. Escríbele palabras de consuelo a la que sufre tanto.
 
 Al cabo de algunos días recibí esta otra carta:
 
-«Me escribes, querido amigo, y tus palabras han sido para mí un verdadero consuelo: ¡gracias, oh, mil gracias! Me preguntas con interés los pormenores de la desaparición de mi padre y cómo vivió tanto tiempo oculto, sin que nadie adivinase ni pudiese sospechar que vivía.
-
-He reunido todo lo que acerca de este particular he podido descubrir, y procuraré explicarte las cosas como pasaron.
-
-Tú sabes que desde que murió mi madre, mi padre había concentrado en mí todo su afecto y me cuidaba con la ternura de una mujer. Tenía yo doce años, cuando sintiendo mi padre algunas novedades en su salud que lo alarmaron partió para Bogotá. Allí consultó varios médicos que le dijeron que los síntomas que sentía eran los de una enfermedad incurable y horrorosa: el lázaro. Desesperado, volvió para N\*\** sin determinar la conducta que debía seguir. Pero al llegar a las márgenes del Magdalena, su espíritu exaltado le presentó la imagen del suicidio como la única salida menos mala y solo remedio que tenía su situación. Se desmontó y en un momento de demencia se precipitó al río con la intención de dejarse ahogar. Pero tú recordarás que mi padre era muy buen narrador. El instinto natural y el apego que se tiene a la vida lo obligaron a no dejarse consumir, y aunque exánime arribó al otro lado. Allí lo amparó un infeliz que vivía en una triste choza en la orilla del río. ¡Qué casualidad! Su protector estaba también lazarino, y vivía en aquellas soledades manteniéndose con algunos socorros que le enviaban del vecino pueblo y el producto de un pantanal y otras sementerillas que cultivaba y mandaba a vender a las inmediaciones con sus dos hijos que lo acompañaban. Mi padre permaneció con él algunos días y concibió la idea de huir del mundo para siempre, y ocultando sus padecimientos no dejarle esa misteriosa herencia a su hija.
-
-Con el producto de una cantidad de oro y algunas joyas que llevaba entre el bolsillo vivió algún tiempo. ¿Vivir bajo el pie de igualdad con un ser vulgar no es la peor de las desgracias? Compró pues una choza en el monte y allí vegetó, solo, aislado y profundamente desgraciado más de cinco años. Algunas veces bajaba a las márgenes del Magdalena, visitaba al lazarino y estudiaba en él los progresos y estragos que hacía el mal que ambos padecían. Otras ocasiones, vestido como campesino, penetraba de noche a los pueblos más cercanos y preguntaba por la suerte de su familia. ¡Cuántas veces no podía tener noticia alguna y se volvía desconsolado a su montaña!
-
-Un día bajó a la choza de su compañero en infortunio, y encontró a los dos muchachos llorando en el quicio de la puerta.
-
-El lazarino había muerto. Ese espectáculo conmovió a mi padre y les propuso que lo siguieran a su desierto. Ellos, una niña de doce años y un muchacho de catorce, aceptaron su oferta con gratitud. Hacía muchos meses que mi padre no había sabido nada con certeza de su familia, y estaba sumamente inquieto; por otra parte, la muerte del lazarino le hizo comprender que la suya podía estar cerca, y no pudo menos que desear verme por última vez.
-
-Emprendió, pues, viaje hacia N\*\**, viaje penosísimo al través de aquellas desiertas llanuras de pajonales interminables, acompañado por los dos muchachos.
-
-En los confines de la hacienda de mi tía había una choza abandonada, y allí eligió su domicilio. Sus compañeros no sabían quién era él y así pudo mandar sin cuidado una carta dirigida a tu padre, revelándole su existencia y pidiéndole noticias de su familia. Ya te puedes figurar la admiración que semejante revelación le causaría a tu padre. Nunca se había tenido la menor duda de que el mío no se hubiese ahogado al atravesar imprudentemente el Magdalena. Cuando aquel se persuadió de la verdad consultó con la tía Juana lo que debía hacer: su primer impulso había sido buscar a mi infeliz padre y llevarlo nuevamente a su cas, aunque él rehusase seguirlo. Pero tú sabes el horror que mi tía le tiene a esa enfermedad, y de ningún modo accedió a la propuesta. Decía (me aseguran que en esto tenía razón) que teniendo yo por herencia predisposición a ese mal, era preciso precaverme en lo posible de todo contagio. Convinieron en que de la hacienda se le enviaría todo lo que necesitaba, pero que viviría lejos de todos sus parientes y su existencia continuaría ignorada por todos. Mi padre, ¡oh infeliz!, nunca había tenido otra pretensión que la de verme ocultamente y de lejos... ¿Te acuerdas de la tarde en que te despediste de nosotros? Él se hallaba oculto entre las breñas a orillas del riachuelo; nos contemplaba alegres y el eco de nuestra risa llegaba hasta sus oídos.
-
-Me dicen que su enfermedad está en el último período... que sufre horriblemente; peo no me es permitido verlo ni aliviarlo. Vivo ahora siempre triste, retraída: mi carácter ha cambiado totalmente. Dime ¿qué ha dicho Antonio? ¿Me olvida con facilidad?... Preguntas necias, ¿no es cierto? Hablemos de ti: me dices que tu matrimonio no podrá ser tan presto como pensabas, pero tú al menos vives en una atmósfera de esperanza. Hemos sido hermanos: a ti te toca la dicha, a mí... No, Dios sabe lo que hace: habrá medido mis fuerzas y resignación. Adiós...»
+> «Me escribes, querido amigo, y tus palabras han sido para mí un verdadero consuelo: ¡gracias, oh, mil gracias! Me preguntas con interés los pormenores de la desaparición de mi padre y cómo vivió tanto tiempo oculto, sin que nadie adivinase ni pudiese sospechar que vivía.
+>
+> He reunido todo lo que acerca de este particular he podido descubrir, y procuraré explicarte las cosas como pasaron.
+>
+> Tú sabes que desde que murió mi madre, mi padre había concentrado en mí todo su afecto y me cuidaba con la ternura de una mujer. Tenía yo doce años, cuando sintiendo mi padre algunas novedades en su salud que lo alarmaron partió para Bogotá. Allí consultó varios médicos que le dijeron que los síntomas que sentía eran los de una enfermedad incurable y horrorosa: el lázaro. Desesperado, volvió para N\*\** sin determinar la conducta que debía seguir. Pero al llegar a las márgenes del Magdalena, su espíritu exaltado le presentó la imagen del suicidio como la única salida menos mala y solo remedio que tenía su situación. Se desmontó y en un momento de demencia se precipitó al río con la intención de dejarse ahogar. Pero tú recordarás que mi padre era muy buen narrador. El instinto natural y el apego que se tiene a la vida lo obligaron a no dejarse consumir, y aunque exánime arribó al otro lado. Allí lo amparó un infeliz que vivía en una triste choza en la orilla del río. ¡Qué casualidad! Su protector estaba también lazarino, y vivía en aquellas soledades manteniéndose con algunos socorros que le enviaban del vecino pueblo y el producto de un pantanal y otras sementerillas que cultivaba y mandaba a vender a las inmediaciones con sus dos hijos que lo acompañaban. Mi padre permaneció con él algunos días y concibió la idea de huir del mundo para siempre, y ocultando sus padecimientos no dejarle esa misteriosa herencia a su hija.
+>
+> Con el producto de una cantidad de oro y algunas joyas que llevaba entre el bolsillo vivió algún tiempo. ¿Vivir bajo el pie de igualdad con un ser vulgar no es la peor de las desgracias? Compró pues una choza en el monte y allí vegetó, solo, aislado y profundamente desgraciado más de cinco años. Algunas veces bajaba a las márgenes del Magdalena, visitaba al lazarino y estudiaba en él los progresos y estragos que hacía el mal que ambos padecían. Otras ocasiones, vestido como campesino, penetraba de noche a los pueblos más cercanos y preguntaba por la suerte de su familia. ¡Cuántas veces no podía tener noticia alguna y se volvía desconsolado a su montaña!
+>
+> Un día bajó a la choza de su compañero en infortunio, y encontró a los dos muchachos llorando en el quicio de la puerta.
+>
+> El lazarino había muerto. Ese espectáculo conmovió a mi padre y les propuso que lo siguieran a su desierto. Ellos, una niña de doce años y un muchacho de catorce, aceptaron su oferta con gratitud. Hacía muchos meses que mi padre no había sabido nada con certeza de su familia, y estaba sumamente inquieto; por otra parte, la muerte del lazarino le hizo comprender que la suya podía estar cerca, y no pudo menos que desear verme por última vez.
+>
+> Emprendió, pues, viaje hacia N\*\**, viaje penosísimo al través de aquellas desiertas llanuras de pajonales interminables, acompañado por los dos muchachos.
+>
+> En los confines de la hacienda de mi tía había una choza abandonada, y allí eligió su domicilio. Sus compañeros no sabían quién era él y así pudo mandar sin cuidado una carta dirigida a tu padre, revelándole su existencia y pidiéndole noticias de su familia. Ya te puedes figurar la admiración que semejante revelación le causaría a tu padre. Nunca se había tenido la menor duda de que el mío no se hubiese ahogado al atravesar imprudentemente el Magdalena. Cuando aquel se persuadió de la verdad consultó con la tía Juana lo que debía hacer: su primer impulso había sido buscar a mi infeliz padre y llevarlo nuevamente a su cas, aunque él rehusase seguirlo. Pero tú sabes el horror que mi tía le tiene a esa enfermedad, y de ningún modo accedió a la propuesta. Decía (me aseguran que en esto tenía razón) que teniendo yo por herencia predisposición a ese mal, era preciso precaverme en lo posible de todo contagio. Convinieron en que de la hacienda se le enviaría todo lo que necesitaba, pero que viviría lejos de todos sus parientes y su existencia continuaría ignorada por todos. Mi padre, ¡oh infeliz!, nunca había tenido otra pretensión que la de verme ocultamente y de lejos... ¿Te acuerdas de la tarde en que te despediste de nosotros? Él se hallaba oculto entre las breñas a orillas del riachuelo; nos contemplaba alegres y el eco de nuestra risa llegaba hasta sus oídos.
+>
+> Me dicen que su enfermedad está en el último período... que sufre horriblemente; peo no me es permitido verlo ni aliviarlo. Vivo ahora siempre triste, retraída: mi carácter ha cambiado totalmente. Dime ¿qué ha dicho Antonio? ¿Me olvida con facilidad?... Preguntas necias, ¿no es cierto? Hablemos de ti: me dices que tu matrimonio no podrá ser tan presto como pensabas, pero tú al menos vives en una atmósfera de esperanza. Hemos sido hermanos: a ti te toca la dicha, a mí... No, Dios sabe lo que hace: habrá medido mis fuerzas y resignación. Adiós...»
 
 Estas noticias de N\*\** me entristecieron mucho. El estado de dolor mórbido a veces, exaltado otras que revelaban las cartas de Dolores me alarmó. Escribí a mi padre aconsejándole que procurasen distraerla, pues ese pensamiento continuo en una cosa tan dolorosa podía predisponerla más que todo a que estallase en ella la enfermedad de su padre. Una reflexión me consolaba; rara vez se han visto casos de que los hijos de los lazarinos sufran la enfermedad; casi siempre salta una generación para aparecer en los nietos. Sin embargo, comprendía y aprobaba su noble conducta al desear romper con Antonio. Yo no me atrevía a quitar repentinamente las esperanzas a mi amigo; lo veía tan feliz que me parecía una crueldad inútil apagar aquel fuego y vida, aquel vigor y energía que animaban, sus trabajos y lo hacían triunfar de todas las dificultades.
 
