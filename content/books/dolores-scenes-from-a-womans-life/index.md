@@ -25,7 +25,7 @@ description: >-
   <p>Soledad Acosta de Samper (1833-1913) was a groundbreaking Colombian author,
   journalist, historian, feminist and publisher. <i>Dolores</i>, her first
   novella, tells the story of a spirited, beautiful young woman whose life is
-  upended by a devastating diagnosis just as she falls in love for the first
+  upended by a devastating family secret just as she falls in love for the first
   time. Through the lens of one family's story, the narrative reflects on
   societal attitudes towards gender, class, and illness, revealing what has (and
   hasn't) changed across centuries. Dolores presents an immersive portrait of
@@ -33,7 +33,7 @@ description: >-
   of nature in vivid detail. </p>
 
 
-  <p>This new translation by Sara Abadía updates an unpublished nineteenth century English translation of an iconic Latin American feminist text, making it accessible to readers in English in a way that corresponds to Acosta de Samper’s original vision. </p>
+  <p>This new translation by Sara Abadía Alvarado updates an unpublished nineteenth century English translation of an iconic Latin American feminist text, making it accessible to readers in English in a way that corresponds to Acosta de Samper’s original vision. </p>
 
 
   <p>The book was made possible thanks to the generous sponsorship of writer Sharon Bard.</p>
