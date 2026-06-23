@@ -77,9 +77,11 @@ Finally, I would like to extend my deepest thanks to Jessi Haley and Juliana Cas
 
 ## PART ONE
 
-> *La nature est un drame avec de personnages.* —Victor Hugo
->
+> *La nature est un drame avec de personnages.* 
 > *Nature is a drama with characters.*
+> —VICTOR HUGO
+
+
 
 “WHAT a pretty girl!” exclaimed Antonio, seeing a group on horseback passing through the middle of the square in the village of N\*\** [^1], just then arrived to take part in the local festivities, appointed for the following day.
 
@@ -295,9 +297,9 @@ She did not reply but with a tender look intended for my absent friend; and then
 
 ## PART TWO
 
-> *La douleur est une lumière qui nous èclaire la vie* —Balzac
->
-> *Pain is a light that illuminates our lives* 
+> *La douleur est une lumière qui nous èclaire la vie* 
+> *Pain is a light that illuminates our lives*
+> —BALZAC
 
 It was two months after my return to Bogotá that I received the first letter from Dolores, which I have preserved with many others as remembrances of my cousin, whose distinct talent was unknown by everyone but myself.
 
@@ -613,23 +615,21 @@ A few days after, I joined my travelling companion at Honda. We descended the Ma
 
 ## PART THREE
 
-> *Sólo te busco en la selva más lejana*\
-> *Tétrico albergue, asilo tenebroso*\
-> *No pisado jamás de huella humana.*
+> *Sólo te busco en la selva más lejana*
+> *tétrico albergue, asilo tenebroso*
+> *no pisado jamás de huella humana.*
 >
-> *I only seek you in the farthest of forest*\
-> *Gloomy shelter, dark refuge*\
+> *I only seek you in the farthest of forest*
+> *Gloomy shelter, dark refuge*
 > *Never trodden by human footprints.*
+> —VICENTA MATURANA
 >
-> —Vicenta Maturana
+> *Je meurs, et sur ma tombe, ou lentement j’arrive,* 
+> *nul ne viendra verser des pleurs.* 
 >
-> *Je meurs, et sur ma tombe, ou lentement j’arrive,* \
-> *Nul ne viendra verser des pleurs.* 
->
-> *I am dying, and on my grave, where I am slowly arriving,*\
+> *I am dying, and on my grave, where I am slowly arriving,*
 > *No one will come to shed tears.*
->
-> —Gilbert
+> —GILBERT
 
 During the first months of my stay in Europe I received several letters from my father, containing particulars of the health of Dolores. Notwithstanding the best medical advice, she grew worse every day. All hope of recovery was given up; the horrible and mysterious disease continued its ravages, destroying not the beauty alone, but almost the human appearance of my unfortunate cousin. She lived in the dark, depriving herself of air and light, begging that she might be permitted to hide from an atmosphere that suffocated her.
 
