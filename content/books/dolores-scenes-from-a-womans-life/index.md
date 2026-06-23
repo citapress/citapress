@@ -22,15 +22,11 @@ theme:
   - mental-health
 lang: en
 description: >-
-  <p>Soledad Acosta de Samper (1833-1913) was a groundbreaking Colombian author,
-  journalist, historian, feminist and publisher. <i>Dolores</i>, her first
-  novella, tells the story of a spirited, beautiful young woman whose life is
-  upended by a devastating family secret just as she falls in love for the first
-  time. Through the lens of one family's story, the narrative reflects on
-  societal attitudes towards gender, class, and illness, revealing what has (and
-  hasn't) changed across centuries. Dolores presents an immersive portrait of
-  nineteenth-century Colombia, rendering landscapes, public life, and elements
-  of nature in vivid detail. </p>
+  <p><b><I> Send me some books, I beg you.I wish to feed my soul with beautiful
+  thoughts.</b></I></p>
+
+
+  <p>Soledad Acosta de Samper (1833-1913) was a groundbreaking Colombian author, journalist, historian, feminist and publisher. <i>Dolores</i>, her first novella, tells the story of a spirited, beautiful young woman whose life is upended by a devastating family secret just as she falls in love for the first time. Through the lens of one family's story, the narrative reflects on societal attitudes towards gender, class, and illness, revealing what has (and hasn't) changed across centuries. Dolores presents an immersive portrait of nineteenth-century Colombia, rendering landscapes, public life, and elements of nature in vivid detail. </p>
 
 
   <p>This new translation by Sara Abadía Alvarado updates an unpublished nineteenth century English translation of an iconic Latin American feminist text, making it accessible to readers in English in a way that corresponds to Acosta de Samper’s original vision. </p>
@@ -695,7 +691,7 @@ But the events that followed are so fully described in a letter afterwards recei
 >
 > So I returned to the cottage for recovery… Yes, recovery! Oh, sad humanity! would it not have been better that I had died? But such is human nature; we all desire to live, the miserable as well as the happy… Yes, Pedro, while I gained strength and succeeded in preserving a miserable existence, my poor aunt died of terror, apprehension, and anxiety on my account. A violent fever set in, and at the end of two days she succumbed to it, without the knowledge of anyone, but beset by the remembrance, and continually calling for me. You may perhaps think it unnatural that I can tranquilly relate the death of one who loved me so sincerely and affectionately. I do not know how to answer you; I do not know myself. It appears to me that I have lost all sensibility. I never shed tears; the fountain is dried up; I do not complain nor am I moved by anything that occurs. I desire death, anxiously desire it, but I dare not seek, and strive to avoid it.
 >
-> My mind is a chaos, my existence a horrible nightmare. Send me some books, I beg you.I wish to feed my soul with beautiful thoughts. I would live with the dead, and converse with them………………….
+> My mind is a chaos, my existence a horrible nightmare. Send me some books, I beg you. I wish to feed my soul with beautiful thoughts. I would live with the dead, and converse with them…………………
 
 ***
 
