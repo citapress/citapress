@@ -76,11 +76,11 @@ Finally, I would like to extend my deepest thanks to Jessi Haley and Juliana Cas
 
 ## PART ONE
 
-> <small>*La nature est un drame avec de personnages.* <br>
-> *Nature is a drama with characters.*</small>
+> <small>***La nature est un drame avec de personnages.*** <br>
+> Nature is a drama with characters.</small>
+>
+>
 > <small>—VICTOR HUGO</small>
-
-
 
 “WHAT a pretty girl!” exclaimed Antonio, seeing a group on horseback passing through the middle of the square in the village of N\*\** [^1], just then arrived to take part in the local festivities, appointed for the following day.
 
@@ -298,7 +298,7 @@ She did not reply but with a tender look intended for my absent friend; and then
 
 > <small>*La douleur est une lumière qui nous èclaire la vie* <br>
 > *Pain is a light that illuminates our lives*</small>
-
+>
 > <small>—BALZAC</small>
 
 It was two months after my return to Bogotá that I received the first letter from Dolores, which I have preserved with many others as remembrances of my cousin, whose distinct talent was unknown by everyone but myself.
@@ -622,15 +622,15 @@ A few days after, I joined my travelling companion at Honda. We descended the Ma
 > <small>*I only seek you in the farthest of forest*<br>
 > *Gloomy shelter, dark refuge*<br>
 > *Never trodden by human footprints.*</small>
-
+>
 > <small>—VICENTA MATURANA</small>
 >
-><small> *Je meurs, et sur ma tombe, ou lentement j’arrive,* <br>
+> <small> *Je meurs, et sur ma tombe, ou lentement j’arrive,* <br>
 > *nul ne viendra verser des pleurs.* </small>
 >
-><small> *I am dying, and on my grave, where I am slowly arriving,*<br>
+> <small> *I am dying, and on my grave, where I am slowly arriving,*<br>
 > *No one will come to shed tears.*</small>
-
+>
 > <small>—GILBERT</small>
 
 During the first months of my stay in Europe I received several letters from my father, containing particulars of the health of Dolores. Notwithstanding the best medical advice, she grew worse every day. All hope of recovery was given up; the horrible and mysterious disease continued its ravages, destroying not the beauty alone, but almost the human appearance of my unfortunate cousin. She lived in the dark, depriving herself of air and light, begging that she might be permitted to hide from an atmosphere that suffocated her.
@@ -669,7 +669,7 @@ At last, amongst others, I received the following letter from herself:
 >
 > And so it was done. We then conversed with apparent tranquility upon the best manner of regulating my future life, while the hearts of both were bleeding. When we arrived at the narrow pass that you may remember, I pushed forward in silence. At the turn leading to the cottage, looking back, I saw through the trees that my aunt had stopped, and stood contemplating me in deep distress. Probably I shall never see her more!...
 
-***
+- - -
 
 For a long time I heard nothing particular of Dolores. My father wrote that she continued to live in her solitude, and had prohibited the approach of anyone. At last I received a letter written in great trouble. One day, while at the house of my aunt, a message came informing him that she was seriously ill, which my aunt became so alarmed upon hearing that, notwithstanding her promise to the contrary, she insisted on accompanying him to the cottage.
 
@@ -695,7 +695,7 @@ But the events that followed are so fully described in a letter afterwards recei
 >
 > My mind is a chaos, my existence a horrible nightmare. Send me some books, I beg you. I wish to feed my soul with beautiful thoughts. I would live with the dead, and converse with them…………………
 
-***
+- - -
 
 The letter of Dolores left a deep impression. That a character so mild and amiable should have been so completely changed by her sufferings, the measure of which it strongly portrayed. I looked out some good books and sent them to her. For several years following this I received but brief notes, all evincing a crushing sadness, and some religious doubt and hate of the world, which gave me great pain. My father wrote that he never saw her again, but sent a person weekly to carry the things she needed, and to bring him such information as he could gather respecting her.
 
