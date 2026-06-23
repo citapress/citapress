@@ -572,35 +572,35 @@ Volví a perder el juicio y por muchos días estuve entre la vida y la muerte. C
 
 La siguiente carta de Dolores hará comprender mejor que otras explicaciones la causa del viaje imprevisto de mi padre.
 
-«No sé si recibiste una carta que te escribí hace algunos días. Es posible que se haya extraviado o que no hubieras entendido lo que en ella te decía. Ahora pienso explicarte con más claridad la causa del desorden de mi espíritu: estoy en completa calma y me creo capaz de abarcar con ánimo mi situación... ¡Con ánimo! ¡gran Dios! En calma... ¡qué ironía!... no, Pedro, estoy loca, desesperada.
-
-He tenido momentos de verdadera demencia...
-
-Sin embargo, quiero vencer la repugnancia, el horror que siento. Es preciso referírtelo todo.
-
-Desde que estuve en el Espinal empecé a sentir mucho malestar, una agitación de nervios constante y una completa postración de ánimo. Sentía por turnos y en algunas horas, frío, calor, fuerza, debilidad, valor, desaliento, temor, audacia, en fin, los sentimientos más contradictorios y las sensaciones más diversas. Al volver a N\*\** consulté a tu padre: me hizo varias preguntas y leí en su semblante la mayor emoción y desconsuelo a medida que le refería los síntomas del extraño mal que padecía. El pobre tío procuró infundirme valor asegurándome que esas novedades provenían de mis recientes penas.
-
-Mi tía se empeñó en que consultase con otros médicos, pero yo no quería que me viese nadie. Al fin viendo que mi salud no mejoraba, llamaron sin consultarme a varias personas de los alrededores que pasan aquí por médicos, y su experiencia, si no el diploma, los hace dignos del título de doctores que les dan.
-
-Se reunieron, pues, un día en la hacienda. Yo me presenté temblando, pero me acogieron con tanta bondad y me trataron con tan alegres chanzas, que fui perdiendo en presencia de ellos el horrible temor que me asaltaba. Antes de separarme comprendí que esos señores debían reunirse en la sala para dar su opinión. Quise saber la verdad y resolví oír ocultamente la consulta. Me retiré a mi cuarto, pero saliendo inmediatamente entré a una alcoba vecina de la sala y separada de ésta sólo por un cancel.
-
-Me había tardado algunos momentos y cuando llegué a mi observatorio ya estaba empezada la conversación.
-
-\-¡Pobre niña! -decía uno de ellos; me parece que no hay esperanza...
-
-\-El lázaro está en su segundo período apenas -repuso otro-, y creo que se podría hacer algún esfuerzo.
-
-\-Eso apenas retardaría por algunos días más...
-
-No supe qué más dijeron, ni lo que pasó por mí. Había procurado hacerme fuerte y ver con serenidad el mal que podía, que debía esperar. Pero al tener la seguridad de que era cierto lo que sólo temía, al encontrarme cara a cara con el espectro que había presentido, al contemplar de repente el horror de mi situación, no pude resistir a semejante dolor, y aunque no perdí el sentido, me tiré al suelo dominada por un completa postración de espíritu. No lloraba, ni me quejaba: mi desesperación no admitía desahogo. Un sollozo prolongado en el corredor me hizo volver en mí. Conocí la voz de mi tía, salí... ¡al menos, pensé, podremos llorar juntas! Guiada por el mismo interés que me animaba, también había querido conocer el fallo de los médicos, y al oír sus palabras no había podido resistir a su emoción.
-
-Me le acerqué, pero al levantar los ojos y verme a su lado no pudo reprimir cierto movimiento de repugnancia que corrigió inmediatamente con una tierna mirada.
-
-Hija mía, me dijo alargándome las manos, ven, abrázame.
-
-Pero su primer movimiento había sido como una puñalada para mí: no lo pude olvidar, y huyendo entré a mi cuarto sin querer oírla, y me encerré. ¡Me sentía sola, completamente abandonada en el mundo! Después de esto no recuerdo más. Parece que mi tía, cansándose de llamarme y no teniendo contestación alguna se había alarmado, ¡y auxiliada por tu padre forzaron la puerta y me encontraron loca!
-
-Sí, Pedro, fue tal mi desesperación que perdí el juicio por algunos días. Cuando volví a la razón y contemplé la horrible existencia que me aguardaba, en lo primero que pensé fue en escribirte. Tú has sido siempre un amigo en cuya simpatía creo; un hermano, cuyo apoyo ha sido mi consuelo siempre. A ti apelé: no recuerdo qué te decía; todavía había en mi mente una nube de demencia. Tu padre me dice que no ha perdido completamente la esperanza, y parte para Bogotá a consultar él mismo los mejores médicos del país. ¡Si hubiera esperanza, Dios mío!... ¡si hubiera esperanza!»
+> «No sé si recibiste una carta que te escribí hace algunos días. Es posible que se haya extraviado o que no hubieras entendido lo que en ella te decía. Ahora pienso explicarte con más claridad la causa del desorden de mi espíritu: estoy en completa calma y me creo capaz de abarcar con ánimo mi situación... ¡Con ánimo! ¡gran Dios! En calma... ¡qué ironía!... no, Pedro, estoy loca, desesperada.
+>
+> He tenido momentos de verdadera demencia...
+>
+> Sin embargo, quiero vencer la repugnancia, el horror que siento. Es preciso referírtelo todo.
+>
+> Desde que estuve en el Espinal empecé a sentir mucho malestar, una agitación de nervios constante y una completa postración de ánimo. Sentía por turnos y en algunas horas, frío, calor, fuerza, debilidad, valor, desaliento, temor, audacia, en fin, los sentimientos más contradictorios y las sensaciones más diversas. Al volver a N\*\** consulté a tu padre: me hizo varias preguntas y leí en su semblante la mayor emoción y desconsuelo a medida que le refería los síntomas del extraño mal que padecía. El pobre tío procuró infundirme valor asegurándome que esas novedades provenían de mis recientes penas.
+>
+> Mi tía se empeñó en que consultase con otros médicos, pero yo no quería que me viese nadie. Al fin viendo que mi salud no mejoraba, llamaron sin consultarme a varias personas de los alrededores que pasan aquí por médicos, y su experiencia, si no el diploma, los hace dignos del título de doctores que les dan.
+>
+> Se reunieron, pues, un día en la hacienda. Yo me presenté temblando, pero me acogieron con tanta bondad y me trataron con tan alegres chanzas, que fui perdiendo en presencia de ellos el horrible temor que me asaltaba. Antes de separarme comprendí que esos señores debían reunirse en la sala para dar su opinión. Quise saber la verdad y resolví oír ocultamente la consulta. Me retiré a mi cuarto, pero saliendo inmediatamente entré a una alcoba vecina de la sala y separada de ésta sólo por un cancel.
+>
+> Me había tardado algunos momentos y cuando llegué a mi observatorio ya estaba empezada la conversación.
+>
+> \-¡Pobre niña! -decía uno de ellos; me parece que no hay esperanza...
+>
+> \-El lázaro está en su segundo período apenas -repuso otro-, y creo que se podría hacer algún esfuerzo.
+>
+> \-Eso apenas retardaría por algunos días más...
+>
+> No supe qué más dijeron, ni lo que pasó por mí. Había procurado hacerme fuerte y ver con serenidad el mal que podía, que debía esperar. Pero al tener la seguridad de que era cierto lo que sólo temía, al encontrarme cara a cara con el espectro que había presentido, al contemplar de repente el horror de mi situación, no pude resistir a semejante dolor, y aunque no perdí el sentido, me tiré al suelo dominada por un completa postración de espíritu. No lloraba, ni me quejaba: mi desesperación no admitía desahogo. Un sollozo prolongado en el corredor me hizo volver en mí. Conocí la voz de mi tía, salí... ¡al menos, pensé, podremos llorar juntas! Guiada por el mismo interés que me animaba, también había querido conocer el fallo de los médicos, y al oír sus palabras no había podido resistir a su emoción.
+>
+> Me le acerqué, pero al levantar los ojos y verme a su lado no pudo reprimir cierto movimiento de repugnancia que corrigió inmediatamente con una tierna mirada.
+>
+> Hija mía, me dijo alargándome las manos, ven, abrázame.
+>
+> Pero su primer movimiento había sido como una puñalada para mí: no lo pude olvidar, y huyendo entré a mi cuarto sin querer oírla, y me encerré. ¡Me sentía sola, completamente abandonada en el mundo! Después de esto no recuerdo más. Parece que mi tía, cansándose de llamarme y no teniendo contestación alguna se había alarmado, ¡y auxiliada por tu padre forzaron la puerta y me encontraron loca!
+>
+> Sí, Pedro, fue tal mi desesperación que perdí el juicio por algunos días. Cuando volví a la razón y contemplé la horrible existencia que me aguardaba, en lo primero que pensé fue en escribirte. Tú has sido siempre un amigo en cuya simpatía creo; un hermano, cuyo apoyo ha sido mi consuelo siempre. A ti apelé: no recuerdo qué te decía; todavía había en mi mente una nube de demencia. Tu padre me dice que no ha perdido completamente la esperanza, y parte para Bogotá a consultar él mismo los mejores médicos del país. ¡Si hubiera esperanza, Dios mío!... ¡si hubiera esperanza!»
 
 La carta a que se refería Dolores era la que había determinado mi partida para N\*\**, partida que se había interrumpido trágicamente.
 
