@@ -852,15 +852,15 @@ Después de leer las primeras líneas una nube pasó ante mis ojos. Pedro me dab
 
 Acosta de Samper, Soledad. *Dolores*. Bogotá: Ediciones Uniandes, 2021.
 
-Acosta de Samper, Soledad. *Dolores: The Story of a Leper.* New York, 1899. <https://babel.banrepcultural.org/digital/collection/p17054coll26/id/15636>
+Acosta de Samper, Soledad. *Dolores: The Story of a Leper.* New York: 1899. <https://babel.banrepcultural.org/digital/collection/p17054coll26/id/15636>
 
 Acosta de Samper, Soledad. *Dolores: Cuadros de la vida de una mujer.* Serialized in *El Mensajero: diario de la mañana.*(Volume 1, Nos. 59-70, January 187). <https://babel.banrepcultural.org/digital/collection/p17054coll26/id/15705>
 
 Acosta de Samper, Soledad. "Dolores: Cuadros de la vida de una mujer." In *Novelas y cuadros de la vida Sur-America*. Gante: Imprenta de Eug. Vanderhaeeghen, 1869. [https://www.cervantesvirtual.com/obra-visor/novelas-y-cuadros-de-la-vida-suramericana--0/html/ff243e56-82b1-11df-acc7-002185ce6064_2.html#I\_0\](https://www.cervantesvirtual.com/obra-visor/novelas-y-cuadros-de-la-vida-suramericana--0/html/ff243e56-82b1-11df-acc7-002185ce6064_2.html#I%5C_0%5C)_
 
-Alzare, Carolina. *Soledad Acosta de Samper y el discurso letrado de género, 1853-1881.* Bogotá, Iberoamericana, 2015.
+Alzare, Carolina. *Soledad Acosta de Samper y el discurso letrado de género, 1853-1881.* Bogotá: Iberoamericana, 2015.
 
-Alzate, Carolina & Ordóñez, Montserrat et al. *Soledad Acosta de Samper. Escritura, género y nación en el siglo XIX.*Editorial Iberoamericana Vervuert, 2005.
+Alzate, Carolina & Ordóñez, Montserrat et al. *Soledad Acosta de Samper. Escritura, género y nación en el siglo XIX.* Editorial Iberoamericana Vervuert, 2005.
 
 ## BIOGRAFÍAS DE LAS COLABORADORAS
 
