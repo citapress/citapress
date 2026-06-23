@@ -356,8 +356,6 @@ Y se me apretaba el corazón con indecible angustia.
 
 Mi tía cortó la conversación bruscamente. Aunque en los subsiguientes días no hablamos del episodio
 
-
-
 de la carta, esto me había impresionado mucho. El invierno entró con toda la fuerza que tú sabes se desencadenan las lluvias en estos climas. Estábamos completamente solas en la hacienda: nadie se atrevía a atravesar los ríos crecidos y los caminos inundados para venirnos a visitar. A veces me despertaba en medio de la noche al ruido de una fuerte tempestad, y al oír caer la lluvia, el trueno rasgar el aire y mugir el viento contra las ventanas bien cerradas, y sintiéndome abrigada en mi pieza y rodeada de tantas comodidades, mi espíritu se trasportaba a las chozas solitarias de esos parias de nuestra sociedad: los lazarinos. Veía con la imaginación a esos infelices, presas de terribles sufrimientos, en medio de las montañas y de la intemperie, y solos, siempre solos...
 
 Una noche había leído hasta muy tarde, estudiando francés en los libros que me dejaste: procuraba aprender y adelantar en mis estudios, educar mi espíritu e instruirme para ser menos ignorante; el roce con *algunas* personas de la capital me había hecho comprender últimamente cuán indispensable es saber. Me acosté pues tarde, y empezaba a dormitar cuando creí oír pasos en el patio exterior y como el cuchicheo de dos voces que hablaban bajo. Mi perro favorito, que pasa la noche en mi cuarto, se levantó de repente y se salió por la ventana abierta al corredor, y un momento después oí que se abalanzaba sobre alguien en el patio. La voz de mi tía lo hizo retirarse. ¡Cosa extraña! ¡Mi tía que se recogía a las ocho, andaba por los corredores de la casa a media noche! Me levanté resuelta a indagar esto y entreabrí la puerta que daba al corredor extremo. Entonces oí una voz de hombre que decía por lo bajo:  '¡Adiós, Juana!' Esta voz me causó grande estremecimiento: creí soñar...
@@ -375,8 +373,6 @@ El temor y la vaga aprehensión que había sentido al oír la voz del desconocid
 Esa voz, ese acento me heló la sangre, y por un momento no sé lo que pasó por mí. Una idea increíble, un terror horrible me dejó como anonadada. Me puse en pie, fría, temblando.
 
 \-Váyase pronto, Jerónimo -contestó mi tía-, he oído un ruido del lado del cuarto de Dolores y...
-
-
 
 Nada más oí. Había conocido la voz de mi padre y mi tía lo nombró. ¡Mi padre, que yo creía muerto hacía seis años! No reflexioné en el misterio de aquella aparición, y bajando las gradas del corredor que caían al patio corrí hacia el bulto, y acercándome le eché los brazos al cuello. Al ver mi acción, tanto mi tía como mi padre, pues él era, dieron un grito de horror: éste último se separó de mí con desesperación, su cubrió la cara con la *ruana* en que estaba envuelto y quiso huir; yo pugnaba por seguirlo, y mi tía que había bajado detrás de mí me detuvo.
 
@@ -536,8 +532,6 @@ Antonio me miró sin contestarme y yo añadí:
 
 \-Un misterio en la vida de una mujer no puede ser bueno. Exijo que se me diga en qué consiste. Yo no soy héroe de novela, y si se me engaña que sea con algo verosímil.
 
-
-
 \-No tengo libertad para revelártelo: Dolores me ha exigido el secreto.
 
 \-¡El secreto! ¡Y yo que empezaba a creerle!...
@@ -570,8 +564,6 @@ Antonio fuera de sí ya, se acercó con el brazo levantado.
 
 Entonces olvidé toda consideración, y mostrándole la puerta dijo:
 
-
-
 \-Salga usted. Arregle las cosas como quiera y para cuando quiera.
 
 Al día siguiente a las seis de la tarde me llevaban desmayado para la casa en que vivía. Cuando volví a recuperar mis sentidos me encontré tendido en la cama. Era de noche, y sentada a los pies de la cama vi dormida a la casera: traté de hablar y moverme, pero un dolor agudísimo en el pecho me obligó a estarme quieto. Estaba solo, sin pariente ni amigo que se condoliera de mí; la caridad de los dueños de casa era mi único amparo. Recordé entonces lo que me había sucedido: me vi nuevamente al frente de Antonio detrás de las colinas de San Diego; cada uno de nosotros tenía una pistola en la mano, Julián me servía de testigo. La expresión de la fisonomía de Antonio era temible: me miraba con todo el odio nacido de su anterior cariño. En ese momento olvidé todo sentimiento religioso, todo recuerdo de mi padre... un profundo desaliento de la vida me dominaba; deseaba verdaderamente morir en aquel momento, le apunté a Antonio, pero la memoria de Dolores y de su pena al saber que yo habría causado su muerte me hizo volver a mejores sentimientos y disparé al aire; pero al mismo tiempo sentí una fuerte conmoción y sin saber cómo, me encontré en el suelo... No recordaba más.
@@ -579,8 +571,6 @@ Al día siguiente a las seis de la tarde me llevaban desmayado para la casa en q
 Volví a perder el juicio y por muchos días estuve entre la vida y la muerte. Cuando mis ojos se abrieron nuevamente a la luz y a la razón encontré a mi lado a mi padre, que acababa de llegar de N\*\** sin haber tenido noticia del estado en que me hallaba.
 
 La siguiente carta de Dolores hará comprender mejor que otras explicaciones la causa del viaje imprevisto de mi padre.
-
-
 
 «No sé si recibiste una carta que te escribí hace algunos días. Es posible que se haya extraviado o que no hubieras entendido lo que en ella te decía. Ahora pienso explicarte con más claridad la causa del desorden de mi espíritu: estoy en completa calma y me creo capaz de abarcar con ánimo mi situación... ¡Con ánimo! ¡gran Dios! En calma... ¡qué ironía!... no, Pedro, estoy loca, desesperada.
 
@@ -674,7 +664,59 @@ Algunos días después me reuní con mi compañero en Honda y bajamos el Magdale
 
 ## PARTE TERCERA
 
+> Sólo busco en la selva más lejana tétrico albergue, asilo tenebroso no pisado jamás de huella humana. 
+>
+> VICENTA MATURANA                
+>
+>
+> *Je meurs, et sur ma tomble, ou lentement j'arrive,nul ne viendra verser des pleurs.*
+>
+> GILBERT               
+>
 
+Durante los primeros meses de mi permanencia en Europa, recibí varias cartas de mi padre en que me daba cuenta de la salud de Dolores. Empeoraba cada día, y al cabo de algunos meses ya todos habían perdido completamente las esperanzas. A pesar de los esfuerzos que hacían, consultando a los médicos más afamados del país, la horrible y misteriosa enfermedad continuaba con su mano desoladora destruyendo la belleza y aun la figura humana de mi infeliz prima. Ella vivía oculta, sin aire y sin luz, rogando que le permitiesen huir lejos de aquella atmósfera que la sofocaba.
+
+Al fin entre otras cartas recibí la siguiente, de Dolores:
+
+«¡Ya no hay remedio, mi querido Pedro! Hace dos meses que he muerto para el mundo y me hallo en esta soledad. Tú escucharás con paciencia mis quejas, ¡oh, tenme piedad!
+
+Pero no, ¿por qué quejarme? La Providencia es ciega, y hay momentos... No me atrevo a leer lo que hay en el fondo de mi alma. Voy a referirte cómo fue  mi despedida de mi tía y la llegada aquí. Si mi carta es incoherente, perdónamela: ¡mi espíritu cede a veces a tantos sufrimientos!
+
+No sé si tú lo sabías, pero fueron tantas mis instancias, que al fin logré que se empezara a construir una casita, una pequeña choza, aunque aseada y cómoda, en el sitio que indiqué. Yo misma quise ir a mostrar el lugar exacto en que debía quedar. Sin embargo se pasaron meses antes de que la acabasen, y aunque yo rogaba que la concluyeran pronto, conocí que mi tía no podía resolverse a esta separación. Pero fatigada ya de rogar, amenacé seriamente que me huiría de la casa y conseguí mi deseo.
+
+Yo permanecía oculta siempre y hablaba con mi tía y tu padre al través de la reja de la ventana de mi cuarto, y por entre las rendijas de mi puerta.
+
+Un día me vinieron a decir que la casa estaba concluida y habían llevado los muebles necesarios, mis pájaros y algunas flores. Mi pobre tía se había esmerado en que tuviese cuantas comodidades podía apetecer. Tu padre me vino a decir, después de hacerme algunas recomendaciones higiénicas, que entre lo que habían llevado a mi futura casa se hallaba un pequeño botiquín y una relación sobre el modo de usarlo. Ahí encontrarás todo', me dijo, según la marcha de la enfermedad hasta, hasta... Al pronunciar estas palabras el buen anciano que tanto me había mimado prorrumpió en sollozos. Yo había entreabierto la puerta para hablar con él más cómodamente, y al oír aquella señal de vivísimo dolor, sentí en mi corazón una desesperación indomable, y abriendo la puerta enteramente me hinqué en el suelo exclamando con angustia:
+
+¡Oh, tío, tío!... usted tiene en su poder el hacerme penar menos; ¡oh, por Dios, deme un remedio!... ¡un remedio que acorte mi vida!
+
+Tu padre se cubrió la cara con las manos y no me contestó. Pero en eso oí que mi tía venía por el corredor e inmediatamente me volvió el juicio, y haciendo un esfuerzo de voluntad violento me levanté y entrando a mi pieza cerré la puerta. Pero ella me había visto y me gritó golpeando en la puerta:
+
+\-¡Dolores, Dolores! este sacrificio es demasiado grande, tú no puedes dejarme así.
+
+\-Tuve una debilidad de un instante; pero eso ya pasó -le contesté con voz segura-: mañana me quiero ir a la madrugada, pero ruego por última vez que a mi salida nadie se me acerque.
+
+Esa noche dormí tranquila. Ya había pasado la agitación y me sentía fuerte ante mi resolución. Antes de aclarar el día me vinieron a decir que mi caballo estaba preparado. Me levanté, y saliendo de mi cuarto atravesé el corredor en que estaba mi pajarera y vi por última vez el jardín, la alberca, los árboles... todo, todo lo que me recordaba mi feliz niñez y los sueños de mi corta juventud. No quise pensar, ni detenerme: la luz fría y triste del amanecer empezaba a iluminar los objetos que tomaban un aspecto fantástico. Mi perro favorito me siguió dando saltos de alegría.
+
+El mayordomo, que debía acompañarme hasta mi choza y dos o tres sirvientes más me esperaban en el patio. Yo no quise aceptar el apoyo de nadie y de un salto monté a caballo.
+
+\-¡Adiós! -dije con voz ahogada dirigiéndome a los criados, díganle a mi tía...
+
+No pude añadir otra cosa, y azotando con las riendas al caballo, que es muy brioso, salí como un relámpago del patio seguida por el mayordomo. No sé qué sentí entonces. Mi vida entera en sus más íntimos pormenores pasó ante mi imaginación, como dicen sucede a los que se están ahogando. Creo que iba a perder el sentido y dejarme caer del caballo, cuando un grito ahogado por la distancia me hizo detener mi cabalgadura, y mirando hacia atrás vi venir a mi tía que había montado y me seguía.
+
+\-¡Hija mía, Dolores! -me dijo al acercarse-. ¿Creías que yo permitiría que salieras de mi casa como una criminal sin que te acompañara siquiera hasta tu destierro?
+
+\-Perdón, tía; sí lo creí, y me desgarraba el corazón esta idea; pero como usted me había ofrecido no volverme a ver...
+
+\-Sí, sí, lo dije. ¿Pero cómo dejar de verte, de hablarte por la última vez?
+
+Dejé volar mi pañuelo al viento para ver de dónde venía y poniéndome del lado opuesto le contesté:
+
+\-Una sola vez y al aire libre no podrá serle funesto. Prométame, sin embargo, que no se acercará: si no me lo ofrece, juro, tía, que pondré en acción mi amenaza y me iré lejos de aquí: me ocultaré y moriré en el fondo del monte.
+
+\-Tía -añadí después-, ésta es nuestra última conversación. Hablemos con toda la cordura y resignación que puede tener un cristiano en su lecho de muerte. No permitamos que nos interrumpan lágrimas, y no seamos débiles. El sacrificio indispensable está hecho; aceptémoslo como una prueba enviada por la Providencia. Cuando lleguemos a orillas del monte me adelantaré sin decir nada. No pronunciemos la palabra adiós; ambas necesitamos de un valor que nos abandonaría si nos despidiésemos.
+
+Así se hizo. Conversamos tranquilamente, en apariencia, del modo como arreglaría mi vida, pero teníamos el corazón despedazado. Cuando llegamos al estrecho camino que recordarás, me adelanté en silencio y al cruzar por la vereda que conduce a mi choza volví involuntariamente la cara: al través de los árboles vi a mi tía que se había detenido y me miraba partir con profunda pena. ¡Probablemente no la volveré a ver jamás!»
 
 ## BIOGRAFÍAS DE LAS COLABORADORAS
 
