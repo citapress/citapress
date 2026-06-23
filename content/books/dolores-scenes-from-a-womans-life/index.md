@@ -614,23 +614,22 @@ A few days after, I joined my travelling companion at Honda. We descended the Ma
 
 ## PART THREE
 
-> <small>*Sólo te busco en la selva más lejana*
-
-> *tétrico albergue, asilo tenebroso*
-
-> *no pisado jamás de huella humana.*</small>
+> <small>*Sólo te busco en la selva más lejana*<br>
+> *tétrico albergue, asilo tenebroso*<br>
+> *no pisado jamás de huella humana.*</small><br>
 >
-> <small>*I only seek you in the farthest of forest*
-> *Gloomy shelter, dark refuge*
+> <small>*I only seek you in the farthest of forest*<br>
+> *Gloomy shelter, dark refuge*<br>
 > *Never trodden by human footprints.*</small>
 
 > <small>—VICENTA MATURANA</small>
 >
-><small> *Je meurs, et sur ma tombe, ou lentement j’arrive,* 
+><small> *Je meurs, et sur ma tombe, ou lentement j’arrive,* <br>
 > *nul ne viendra verser des pleurs.* </small>
 >
-><small> *I am dying, and on my grave, where I am slowly arriving,*
+><small> *I am dying, and on my grave, where I am slowly arriving,*<br>
 > *No one will come to shed tears.*</small>
+
 > <small>—GILBERT</small>
 
 During the first months of my stay in Europe I received several letters from my father, containing particulars of the health of Dolores. Notwithstanding the best medical advice, she grew worse every day. All hope of recovery was given up; the horrible and mysterious disease continued its ravages, destroying not the beauty alone, but almost the human appearance of my unfortunate cousin. She lived in the dark, depriving herself of air and light, begging that she might be permitted to hide from an atmosphere that suffocated her.
