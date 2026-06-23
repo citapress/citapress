@@ -744,8 +744,47 @@ Volví a mi choza a cuidarme... ¡sí, me cuidé! ¡Oh triste humanidad! ¿no er
 
 Mi espíritu es un caos: mi existencia una horrible pesadilla. Mándame, te lo suplico, algunos libros. Quiero alimentar mi espíritu con bellas ideas: deseo vivir con los muertos y comunicar con ellos.»
 
-***
+- - -
 
+La carta de Dolores me impresionó vivamente. Comprendí que su carácter tan dulce había cambiado con el sufrimiento, y esto me dio la medida de sus penas. Busqué algunos libros buenos y se los envié. Durante los siguientes años recibí apenas algunas breves cartas de Dolores: el fondo de ellas era una tristeza desgarradora a veces, con cierta incredulidad religiosa y odio al género humano en sus pensamientos, que me llenaban de pena. Mi padre me escribía que nunca la había vuelto a ver, pero que mandaba una persona todas las semanas a llevarle lo que podía necesitar y recoger noticias de ella.
+
+Antonio se había arrepentido de su conducta ligera conmigo, y continuábamos una correspondencia muy activa. El primer golpe de dolor al comprender la horrible suerte de Dolores y la imposibilidad de que jamás fuera suya; ese rudo golpe no fue para él causa de desaliento: su carácter enérgico no permitía eso, y al contrario procuró vencer su pena dedicándose a un trabajo arduo y a un estudio constante. Pronto se hizo conocer como un hombre de talento, laborioso y elocuente, y alcanzó a ocupar un lugar honroso entre los estadistas del país.
+
+Había pasado varios años estudiando en Europa y me preparaba a volver a la patria, cuando llegó la noticia de la muerte de mi padre. No diré lo que sentí entonces... Dolores me escribió también manifestándome la desolación en que había quedado. Aunque al principio me repugnaba la idea de visitar mi hogar vacío, no pude resistir al deseo de volver al lado de Dolores y me embarqué.
+
+Llegué a Bogotá de paso, pero allí me detuvo Antonio para que asistiese a su matrimonio. Se casaba con una señorita de las mejores familias de la capital rica y digna de mucha estimación. Inmediatamente le escribí a Dolores la causa de mi detención, participándole la noticia del brillante matrimonio que hacía Antonio.
+
+El matrimonio fue rumboso si no alegre. La novia no era bella; pero sus modales cultos, educación esmerada y bondad natural, hacían olvidar sus pocos atractivos. Cuando, después de la ceremonia me despedí de Antonio en la puerta de su casa, me entregó una carta para Dolores; carta que había escrito ese día, y en sus ojos vi brillar una lágrima, último tributo a sus ensueños juveniles.
+
+Ocho días después llegaba a las cercanías de N\*\** y en vez de entrar al pueblo me dirigí inmediatamente por un camino extraviado al rincón del valle en que vivía Dolores. Al llegar a la vereda que años antes había pasado con mi prima, mi imaginación me trajo otra vez el recuerdo del esbelto talle de Dolores, su brillante mirada y alegres palabras: oía de nuevo el eco de su argentina risa que me parecía vibraba todavía en aquellas soledades. ¡Cómo había cambiado mi vida desde entonces! Mi tía había muerto, mi pobre padre también, mi novia era la esposa de otro (no sé si he dicho que casó con don Basilio) y en fin, mi prima, la alegre niña de otro tiempo, era un ser profundamente desgraciado. No había querido entrar al pueblo que tenía para mí tan tristes recuerdos, y nada sabía de Dolores.
+
+Cuando me acerqué al sitio en que debía hallarse ha choza de mi prima, sentí cierto rumor que me admiró. Bajo un árbol estaban varios caballos ensillados: piqué el mío y llegué a la puerta de la casita a tiempo que salían de ella el cura y varios vecinos de N\*\**.
+
+\-¡Qué encuentro tan casual! -dijo el cura al reconocerme y deteniéndome en la puerta.
+
+Era un respetable anciano que había sido cura de mi pueblo desde mi infancia.
+
+\-¿Dolores está adentro? -pregunté después de haberle saludado.
+
+\-¿Qué? Deseo hablarla.
+
+\-No, no entre -me contestó tomándome la mano.
+
+\-¿Qué ha sucedido?
+
+\-¡Pobre niña! -me dijo con voz conmovida-: ¡ésta mañana dejó de padecer!
+
+\-¡Dios mío! -exclamé sintiendo que hasta el último eslabón que me ligaba a los recuerdos de mi provincia había desaparecido; y entonces comprendí cuán necesario había sido para mí ese afecto.
+
+Sentándome en silencio en el quicio de la puerta de la casa de Dolores, escondí la cara entre las manos. Los que rodeaban al cura se alejaron por un sentimiento de delicadeza; el cura se sentó a mi lado.
+
+\-Su muerte fue la de una cristiana -dijo el buen sacerdote-. Hace algunos días me mandó rogar que viniera a verla; que no había necesidad de que me acercase, pues hablaría conmigo al través de la puerta de su alcoba. Vine varias veces y ayer se confesó y recibió los auxilios de la religión. Esta mañana me fueron a decir que se estaba muriendo, y hasta entonces no pude verla: ¡no le diré a usted cuán cambiada estaba!
+
+\-Ahora -añadió al cabo de un momento-, habiéndola visto espirar volvía a la parroquia para disponer el entierro.
+
+Yo cumplí con mi deber. Asistí al entierro. Había dispuesto que la enterrasen en el patio de la casita y mandó que todo aquello quedase inhabitado.
+
+Entre sus papeles hallé un testamento a mi favor y varias composiciones en prosa y verso. He aquí algunos fragmentos de un diario que llevaba y que hacen comprender mejor su carácter y los horribles padecimientos morales que sufría, sus vacilaciones y su desesperación.
 
 
 
