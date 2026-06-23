@@ -22,7 +22,7 @@ theme:
   - mental-health
 lang: en
 description: >-
-  <p><b><I> Send me some books, I beg you.I wish to feed my soul with beautiful
+  <p><b><I> Send me some books, I beg you. I wish to feed my soul with beautiful
   thoughts.</b></I></p>
 
 
