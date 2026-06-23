@@ -734,7 +734,7 @@ I did my duty and assisted at the interment, which she directed should be in the
 
 Among her papers was found a will leaving her property to me, and a number of compositions in prose and verse. Here are a few fragments of a Diary, the contents of which exhibited most clearly her character, her moral sufferings, her vacillations, and her desperation.
 
-{{ readFile "static/img/colon.svg" | safeHTML }}
+![alt text]("static/img/colon.svg")
 
 **June 23th, 1843**
 
