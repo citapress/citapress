@@ -9,6 +9,7 @@ author: Soledad Acosta de Samper
 isbn: 978-1-961368-24-8
 post_image: https://2x3xqwnyz5.ucarecd.net/c9ae7dae-0dc4-488b-a6b4-f91f30fa04a6/-/format/auto/tempImageZo8qKN.heic
 square_image: https://2x3xqwnyz5.ucarecd.net/4fb3ef65-9cb2-40ee-9ce1-56980c370261/-/format/auto/tempImageHSjthY.heic
+language_link: https://citapress.org/es/dolores/
 genre:
   - fiction
   - novella
@@ -822,9 +823,9 @@ Acosta de Samper, Soledad. *Dolores: Cuadros de la vida de una mujer.* Serialize
 
 Acosta de Samper, Soledad. "Dolores: Cuadros de la vida de una mujer." In *Novelas y cuadros de la vida Sur-America*. Gante:  Imprenta de Eug. Vanderhaeeghen, 1869. https://www.cervantesvirtual.com/obra-visor/novelas-y-cuadros-de-la-vida-suramericana--0/html/ff243e56-82b1-11df-acc7-002185ce6064_2.html#I\_0\_
 
-Alzare, Carolina. *Soledad Acosta de Samper y el discurso letrado de género, 1853-1881.* Bogotá, Iberoamericana, 2015.
+Alzare, Carolina. *Soledad Acosta de Samper y el discurso letrado de género, 1853-1881.* Bogotá: Iberoamericana, 2015.
 
-Alzate, Carolina & Ordóñez, Montserrat et al. *Soledad Acosta de Samper. Escritura, género y	nación en el siglo XIX.* Editorial Iberoamericana Vervuert, 2005.
+Alzate, Carolina & Ordóñez, Montserrat et al. *Soledad Acosta de Samper. Escritura, género y nación en el siglo XIX.* Editorial Iberoamericana Vervuert, 2005.
 
 ## GLOSSARY
 
