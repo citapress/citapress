@@ -45,7 +45,7 @@ foreword: >-
   <p><b> Cover:</b> Mariana Sanín A. is an illustrator and designer from Colombia. She also likes writing poems, short stories and haikus for children (and grownups).</p>
 published: false
 ---
-## Acknowledgements
+## ACKNOWLEDGEMENTS
 
 Soledad Acosta de Samper has always belonged in the Cita Press catalog. Our founder, Juliana Castro Varón, is from Colombia, where Samper's legacy has continued to expand opportunities for women even in the period in which recognition for her was unjustly scarce. We are finally able to formally welcome her to our library, thanks to Sara Abadía Alvarado, who brought this project to us. We are thrilled to be part of sharing an essential feminist legacy with readers around the world, in English and in Spanish.
 
@@ -57,7 +57,7 @@ The art direction and editorial design for this book is by Mariana Matos, guided
 
 Finally, we are deeply grateful to Sharon Bard, whose sponsorship expanded the possibilities for this edition and directly supported the work of our contributors.
 
-## Translator's Foreword
+## TRANSLATOR'S FOREWORD
 
 Soledad Acosta de Samper spoke English, traveled the world, wrote every day, and saved the newspaper clippings in which her novels appeared to turn them into albums. She married for love, had four daughters—one of them, a nun and a poet, published the version of the *Novena de Aguinaldos* that is sung during the nine days leading up to Christmas in Colombia, Venezuela, and Ecuador—founded five magazines, established herself as a journalist and historian, fought for women’s place in society, and resisted the censorship imposed on her most renowned female protagonist today in Latin America: Dolores.
 	
@@ -78,11 +78,7 @@ All of these reasons make *Dolores* a particularly fascinating challenge for a c
 
 Finally, I would like to extend my deepest thanks to Jessi Haley and Juliana Castro Varón  for making Cita Press possible and for giving a home to thousands of women writers who, like Soledad, do not always find a place in truly feminist and democratic publishing circuits. I dare say the author would be delighted to see *Dolores* reach so many readers around the world. Thank you, thank you. ***—Sara Abadía*** 
 
-**Bio**
-
-Sara Abadía is a Colombian writer and educator. She studied Literature at Universidad de los Andes, where she first encountered the work of Soledad Acosta de Samper, an author with whom she continues to hold an ongoing dialogue. Her work has appeared in *070*, *NACLA*, and with Laguna Press. In 2023, she was selected for *Anthology III* of the New York Book Fair for her short story “Anamorfosis.” *En medio de una noche eterna* is her debut novel, written during her Master’s program in Creative Writing in Spanish at NYU, under the supervision and guidance of Rita Indiana, Amelia Bande, and Silvina López Medín. She currently lives in Boston, where she teaches theater to young people in East Boston. She writes with deliberate ambition and a sustained belief in literature’s power to outlast time.
-
-## Part One
+## PART ONE
 
 > *La nature est un drame avec de personnages.* —Victor Hugo
 >
@@ -300,7 +296,7 @@ In a short time we passed into a more open country. A mountain stream came tumbl
 
 She did not reply but with a tender look intended for my absent friend; and then in a happy mood continued the conversation. Poor girl… but still happy in the ignorance of what was yet to come!
 
-## Part Two
+## PART TWO
 
 > *La douleur est une lumière qui nous èclaire la vie* —Balzac
 >
@@ -618,7 +614,7 @@ I took leave, promising to speak to my aunt, which I did, and at last convinced 
 
 A few days after, I joined my travelling companion at Honda. We descended the Magdalena river together without accident or occurrence of anything remarkable, and embarked at Santa Marta on the first of the next month.
 
-## Part Three
+## PART THREE
 
 > *Sólo te busco en la selva más lejana
 > Tétrico albergue, asilo tenebroso
@@ -812,7 +808,7 @@ I received a letter from my cousin Pedro. It was dated from Bogotá on his way b
 
 [^19]: **Translator’s Note:** I have opted to leave the last diary entry the way Acosta de Samper translated it. Although she added some extra lines, the order and meaning remains the same as the Spanish version, only enhancing the images on some sections. I believe it is the right choice of ending for this edition. 
 
-## Bibliography
+## BIBLIOGRAPHY
 
 Acosta de Samper, Soledad. *Dolores*. Bogotá: Ediciones Uniandes, 2021.
 
@@ -826,7 +822,7 @@ Alzare, Carolina. *Soledad Acosta de Samper y el discurso letrado de género, 18
 
 Alzate, Carolina & Ordóñez, Montserrat et al. *Soledad Acosta de Samper. Escritura, género y	nación en el siglo XIX.* Editorial Iberoamericana Vervuert, 2005.
 
-## Glossary
+## GLOSSARY
 
 *In order of appearance.*
 
@@ -871,3 +867,9 @@ Alzate, Carolina & Ordóñez, Montserrat et al. *Soledad Acosta de Samper. Escri
 
 * A *cachaco* was a young man in 19th-century Bogotá. Elegant and gentlemanly, he was different from the period’s “dandy” because he was not particularly thought of as overly concerned with his appearance. 
 * *Ñapangas* or *cintureras*: Mestiza or mulatta women who worked as peasants or domestic servants. According to Soledad Acosta de Samper in *Un chistoso de aldea* (1905), *cinturera* referred in the lowlands to women who wore skirts without bodices (Alzate, *Nuevo diccionario de americanismos*).
+
+## CONTRIBUTOR BIOS
+
+**Sara Abadía Alvarado** is a Colombian writer and educator. She studied Literature at Universidad de los Andes, where she first encountered the work of Soledad Acosta de Samper, an author with whom she continues to hold an ongoing dialogue. Her work has appeared in *070*, *NACLA*, and with Laguna Press. In 2023, she was selected for *Anthology III* of the New York Book Fair for her short story “Anamorfosis.” *En medio de una noche eterna* is her debut novel, written during her Master’s program in Creative Writing in Spanish at NYU, under the supervision and guidance of Rita Indiana, Amelia Bande, and Silvina López Medín. She currently lives in Boston, where she teaches theater to young people in East Boston. She writes with deliberate ambition and a sustained belief in literature’s power to outlast time.
+
+**Mariana Sanín A.** is an illustrator and designer from Colombia. She also likes writing poems, short stories and haikus for children (and grownups).
