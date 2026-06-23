@@ -65,8 +65,6 @@ Todas estas razones hacen de *Dolores* un reto particularmente fascinante para u
 
 Para terminar, quiero agradecer infinitamente a Jessi Haley y a Juliana Castro Varón por hacer posible Cita Press y por darle un hogar a miles de mujeres escritoras que, como Soledad, no siempre encuentran cabida en circuitos editoriales verdaderamente feministas y democráticos. Me atrevo a decir que la autora estaría exultante al ver a *Dolores* llegar a tantos lectores alrededor del mundo. Gracias, gracias.
 
-
-
 ## PARTE PRIMERA
 
 > *La nature est un drame avec des personnages.*\
@@ -318,8 +316,366 @@ Dos meses después de haber llegado a Bogotá recibí de Dolores su primera cart
 
 «Querido primo», me decía: «aguardaba recibir noticia de tu llegada para escribirte, y después, cuando quise hacerlo, los acontecimientos que han tenido lugar en casa y en mi vida, me lo habían impedido... No sabía si debería confiarte el horrible secreto que he descubierto; pero el corazón necesita desahogarse, y sé bien que eres no solamente mi hermano sino un amigo muy querido que simpatiza con mis penas. No hace mucho que leía que 'lo que hace las amistades indisolubles y duplica su encanto, es aquel sentimiento que falta al amor: la seguridad'. ¡Oh! la amistad es lo único que puede ahora consolarme, ya que otro sentimiento me será prohibido... No hace mucho, ¿te acuerdas? veía el mundo bello, alegre, encantador; todo me sonreía... pero ahora, ¡gran Dios!... ¡un terremoto ha cubierto de ruinas el sitio en que se levantaba el templo de mis esperanzas!
 
+Perdóname, Pedro, esta palabrería con que procuro retardar la confesión de mis penas: esto sólo te demuestra el terror que me causa ver escrito lo que casi no me atrevo a pensar.
+
+Pero, ¡valor! empezaré.
+
+Algunos días después de tu partida me dirigía una tarde a la pieza de mi tía, cuando al pasar por el corredor del patio de entrada, oí que un viejo arrendatario que vivió en los confines de la hacienda preguntaba por ella. Llevaba una carta en la mano, y al saber que era para mi tía la tomé y me preparaba a entregársela, cuando al notar que el viejo Simón la había llevado dio un grito diciendo:
+
+\-¡Tira esa carta, Dolores, tírala!
+
+Yo hice instintivamente lo que me mandaba y la dejé caer. Mi tía hizo entonces que me lavara las manos, y mandando llevar un brasero, no tomó la carta en sus manos sino después de haberla hecho fumigar.
+
+Yo estaba tan admirada al ver aquella escena, que casi no acertaba a preguntar la causa de los súbitos temores de mi tía; al fin la cosa me pareció hasta chistosa y exclamé riéndome:
+
+\-¿Está envenenado ese papel, tía? ¿El viejo Simón tendrá sus rasgos a lo Borgia, como en la historia que leíamos el otro día?
+
+\-No te burles, hija mía -me contestó con seriedad-: el veneno que puede contener ese papel es más horrible que todos los que han inventado los hombres.
+
+Al decir estas palabras, acabó de leer la carta y tirándola al brasero, la vio consumirse lentamente.
+
+\-Es preciso que me explique usted este misterio...
+
+\-En esto no creas que hay misterio romántico -me dijo con acento triste, interrumpiéndome. ¿No sabes que en las inmediaciones de N\*\** hay lazarinos? Uno de esos desgraciados me ha enviado esa carta.
+
+\-¿Y quién es?
+
+\-¡Quién! un infeliz a quien he mandado algunos socorros y vive en una choza arruinada no lejos de la de Simón.
+
+\-¡Pobrecito! ¡Y vive solo como todos ellos! Solo, en medio del monte, sin que nadie le hable ni se le acerque jamás. Vivirá y morirá aislado sin sentir una mano amiga... ¡Dios mío! ¡qué horrible suerte, qué crueldad!
+
+Y se me apretaba el corazón con indecible angustia.
+
+\-La sociedad es muy bárbara, tía -añadí-; rechaza de su seno al desgraciado...
+
+\-Así es -me contestó-, ¿pero que remedio? Se dice que esa espantosa enfermedad se comunica con la mayor facilidad. ¿No es mejor en tal caso que sufra uno solo en vez de muchos? Por mi parte, Dolores, te confieso que el aspecto de un lazarino me espanta y querría más bien morir que acercármelo.
+
+\-¿Y cómo conoció usted a ese infeliz? ¿Por qué lo protege, tía? Mucho me ha interesado: el sobrescrito de la carta estaba muy bien puesto... y aún me parece que la letra no me es enteramente desconocida.
+
+\-¿Por qué lo protejo, me preguntas? ¿No se ha de procurar siempre aliviar a los que sufren?
+
+Mi tía cortó la conversación bruscamente. Aunque en los subsiguientes días no hablamos del episodio
 
 
-## BIOGRAFÍAS DE LAS COLABORADORAS 
+
+de la carta, esto me había impresionado mucho. El invierno entró con toda la fuerza que tú sabes se desencadenan las lluvias en estos climas. Estábamos completamente solas en la hacienda: nadie se atrevía a atravesar los ríos crecidos y los caminos inundados para venirnos a visitar. A veces me despertaba en medio de la noche al ruido de una fuerte tempestad, y al oír caer la lluvia, el trueno rasgar el aire y mugir el viento contra las ventanas bien cerradas, y sintiéndome abrigada en mi pieza y rodeada de tantas comodidades, mi espíritu se trasportaba a las chozas solitarias de esos parias de nuestra sociedad: los lazarinos. Veía con la imaginación a esos infelices, presas de terribles sufrimientos, en medio de las montañas y de la intemperie, y solos, siempre solos...
+
+Una noche había leído hasta muy tarde, estudiando francés en los libros que me dejaste: procuraba aprender y adelantar en mis estudios, educar mi espíritu e instruirme para ser menos ignorante; el roce con *algunas* personas de la capital me había hecho comprender últimamente cuán indispensable es saber. Me acosté pues tarde, y empezaba a dormitar cuando creí oír pasos en el patio exterior y como el cuchicheo de dos voces que hablaban bajo. Mi perro favorito, que pasa la noche en mi cuarto, se levantó de repente y se salió por la ventana abierta al corredor, y un momento después oí que se abalanzaba sobre alguien en el patio. La voz de mi tía lo hizo retirarse. ¡Cosa extraña! ¡Mi tía que se recogía a las ocho, andaba por los corredores de la casa a media noche! Me levanté resuelta a indagar esto y entreabrí la puerta que daba al corredor extremo. Entonces oí una voz de hombre que decía por lo bajo:  '¡Adiós, Juana!' Esta voz me causó grande estremecimiento: creí soñar...
+
+\-Aguárdese un momento -contestó mi tía-, voy a traerle el retrato que mandé hacer para usted por un pintor quiteño que por casualidad estuvo aquí ahora días.
+
+Al decir esto sentí que la tía Juana entró a su cuarto, y aprovechándome de la oscuridad, salí al corredor prontamente y me situé en un ángulo desde donde, agazapada, pude ver un bulto que aguardaba inmóvil en medio del patio.
+
+El temor y la vaga aprehensión que había sentido al oír la voz del desconocido desaparecieron al ver que no era una fantasma, un sueño de mi imaginación. ¡Sin embargo, no podía comprender que la tía Juana tuviera *citas* a media noche y regalara su retrato!... Era cierto que poco antes le rogué que se hiciese retratar por un pintor de paso que hizo el mío también. Un momento después volvió, y apoyándose sobre la baranda del corredor dijo, atando a una cuerda un paquete envuelto:
+
+\-No está tan parecida como yo quisiera -y cuando el bulto se acercó, añadió-; va también la 'Imitación de Cristo', de Dolores, que se la cambié por una nueva.
+
+\-No sabe usted cuánto provecho me hará esto -exclamó con voz conmovida el desconocido-... ¡Oh, pobre hija mía!... ¡su retrato!...
+
+Esa voz, ese acento me heló la sangre, y por un momento no sé lo que pasó por mí. Una idea increíble, un terror horrible me dejó como anonadada. Me puse en pie, fría, temblando.
+
+\-Váyase pronto, Jerónimo -contestó mi tía-, he oído un ruido del lado del cuarto de Dolores y...
+
+
+
+Nada más oí. Había conocido la voz de mi padre y mi tía lo nombró. ¡Mi padre, que yo creía muerto hacía seis años! No reflexioné en el misterio de aquella aparición, y bajando las gradas del corredor que caían al patio corrí hacia el bulto, y acercándome le eché los brazos al cuello. Al ver mi acción, tanto mi tía como mi padre, pues él era, dieron un grito de horror: éste último se separó de mí con desesperación, su cubrió la cara con la *ruana* en que estaba envuelto y quiso huir; yo pugnaba por seguirlo, y mi tía que había bajado detrás de mí me detuvo.
+
+\-¡Dolores -gritaba ésta-, Dolores, no te acerques, por Dios!... ¡está lazarino!
+
+\-¿Lazarino? ¡qué me importa! Mi padre no ha muerto y quiero abrazarlo.
+
+No te puedes figurar la escena que hubo entonces... Al fin mi tía logró que mi padre se fuera, y llamando a las sirvientas me llevó por fuerza a mi cuarto; y allí quitándome los vestidos que tenía los hizo tirar al patio para ser quemados al día siguiente.
+
+No consentí que mi tía me dejase hasta que no me refiriera la causa de este acontecimiento y me hiciera saber inmediatamente por qué se hallaba mi padre oculto y en aquel estado... Conversamos largo tiempo y no me quedé sola sino cuando empezaban a entrar los primeros rayos de la aurora por la ventana abierta. Me levanté entonces y recostándome contra la ventana contemplé el bello paisaje que se extendía a mis ojos. En el horizonte se veía la cadena de altos y azulosos cerros, y más cerca colinas cubiertas de verde grama sobre las que pacían las vacas y retozaban los potros y caballos; los bosquecillos de arbustos y los árboles frente de la casa se balanceaban a impulso de las auras y entre sus ramas ya empezaban a cantar los pajarillos. A un lado la corraleja llena de mugientes torneros, cuyo aliento sano se unía al aroma de las flores que trepaban por el balcón... ¡El día, el paisaje, los rumores campestres eran bellos y admirables!... pero yo veía todo triste y sin animación. La faz de mi vida ha cambiado; ya nada puede ser risueño para mí. ¡Mi padre vive, pero vive sufriendo!
+
+¿No es cierto, Pedro, que el lázaro es una enfermedad horrorosa? Al saber cuál es la herencia que me aguarda, todos tratarían de retirarse de mi lado y procurarían descubrir en mí los síntomas precursores; ¡estaría condenada a vivir aislada! Mi padre que me amaba con ternura no quiso que esa mancha empañase mi frente, y por eso resolvió desaparecer. Ha vivido escondido en los más recónditos rincones de la provincia y hace apenas un año que mi tía y tu padre saben dónde se halla... ¿Pero, yo, podré vivir contenta lejos de mi desgraciado padre? Sería justo que engañase a los demás ocultando la enfermedad a que la suerte puede condenarme? Mi padre me ha hecho saber de ningún modo permitirá que se sepa que él existe... En tu última carta me dices que Antonio tiene esperanzas de alcanzar más pronto de lo que creía una posición que le permita pedir mi mano. Ya es tarde, primo mío: es preciso que renuncie a esa idea... ¡que me olvide! Mi desdicha no debe encadenarlo. No le digas nunca la causa, pero hazle perder la esperanza. Me creerá variable, ingrata... ¿pero qué puedo hacer? Este sacrificio es grande, muy grande, pero no tiene remedio.
+
+Adiós. Escríbele palabras de consuelo a la que sufre tanto.
+
+Al cabo de algunos días recibí esta otra carta:
+
+«Me escribes, querido amigo, y tus palabras han sido para mí un verdadero consuelo: ¡gracias, oh, mil gracias! Me preguntas con interés los pormenores de la desaparición de mi padre y cómo vivió tanto tiempo oculto, sin que nadie adivinase ni pudiese sospechar que vivía.
+
+He reunido todo lo que acerca de este particular he podido descubrir, y procuraré explicarte las cosas como pasaron.
+
+Tú sabes que desde que murió mi madre, mi padre había concentrado en mí todo su afecto y me cuidaba con la ternura de una mujer. Tenía yo doce años, cuando sintiendo mi padre algunas novedades en su salud que lo alarmaron partió para Bogotá. Allí consultó varios médicos que le dijeron que los síntomas que sentía eran los de una enfermedad incurable y horrorosa: el lázaro. Desesperado, volvió para N\*\** sin determinar la conducta que debía seguir. Pero al llegar a las márgenes del Magdalena, su espíritu exaltado le presentó la imagen del suicidio como la única salida menos mala y solo remedio que tenía su situación. Se desmontó y en un momento de demencia se precipitó al río con la intención de dejarse ahogar. Pero tú recordarás que mi padre era muy buen narrador. El instinto natural y el apego que se tiene a la vida lo obligaron a no dejarse consumir, y aunque exánime arribó al otro lado. Allí lo amparó un infeliz que vivía en una triste choza en la orilla del río. ¡Qué casualidad! Su protector estaba también lazarino, y vivía en aquellas soledades manteniéndose con algunos socorros que le enviaban del vecino pueblo y el producto de un pantanal y otras sementerillas que cultivaba y mandaba a vender a las inmediaciones con sus dos hijos que lo acompañaban. Mi padre permaneció con él algunos días y concibió la idea de huir del mundo para siempre, y ocultando sus padecimientos no dejarle esa misteriosa herencia a su hija.
+
+Con el producto de una cantidad de oro y algunas joyas que llevaba entre el bolsillo vivió algún tiempo. ¿Vivir bajo el pie de igualdad con un ser vulgar no es la peor de las desgracias? Compró pues una choza en el monte y allí vegetó, solo, aislado y profundamente desgraciado más de cinco años. Algunas veces bajaba a las márgenes del Magdalena, visitaba al lazarino y estudiaba en él los progresos y estragos que hacía el mal que ambos padecían. Otras ocasiones, vestido como campesino, penetraba de noche a los pueblos más cercanos y preguntaba por la suerte de su familia. ¡Cuántas veces no podía tener noticia alguna y se volvía desconsolado a su montaña!
+
+Un día bajó a la choza de su compañero en infortunio, y encontró a los dos muchachos llorando en el quicio de la puerta.
+
+El lazarino había muerto. Ese espectáculo conmovió a mi padre y les propuso que lo siguieran a su desierto. Ellos, una niña de doce años y un muchacho de catorce, aceptaron su oferta con gratitud. Hacía muchos meses que mi padre no había sabido nada con certeza de su familia, y estaba sumamente inquieto; por otra parte, la muerte del lazarino le hizo comprender que la suya podía estar cerca, y no pudo menos que desear verme por última vez.
+
+Emprendió, pues, viaje hacia N\*\**, viaje penosísimo al través de aquellas desiertas llanuras de pajonales interminables, acompañado por los dos muchachos.
+
+En los confines de la hacienda de mi tía había una choza abandonada, y allí eligió su domicilio. Sus compañeros no sabían quién era él y así pudo mandar sin cuidado una carta dirigida a tu padre, revelándole su existencia y pidiéndole noticias de su familia. Ya te puedes figurar la admiración que semejante revelación le causaría a tu padre. Nunca se había tenido la menor duda de que el mío no se hubiese ahogado al atravesar imprudentemente el Magdalena. Cuando aquel se persuadió de la verdad consultó con la tía Juana lo que debía hacer: su primer impulso había sido buscar a mi infeliz padre y llevarlo nuevamente a su cas, aunque él rehusase seguirlo. Pero tú sabes el horror que mi tía le tiene a esa enfermedad, y de ningún modo accedió a la propuesta. Decía (me aseguran que en esto tenía razón) que teniendo yo por herencia predisposición a ese mal, era preciso precaverme en lo posible de todo contagio. Convinieron en que de la hacienda se le enviaría todo lo que necesitaba, pero que viviría lejos de todos sus parientes y su existencia continuaría ignorada por todos. Mi padre, ¡oh infeliz!, nunca había tenido otra pretensión que la de verme ocultamente y de lejos... ¿Te acuerdas de la tarde en que te despediste de nosotros? Él se hallaba oculto entre las breñas a orillas del riachuelo; nos contemplaba alegres y el eco de nuestra risa llegaba hasta sus oídos.
+
+Me dicen que su enfermedad está en el último período... que sufre horriblemente; peo no me es permitido verlo ni aliviarlo. Vivo ahora siempre triste, retraída: mi carácter ha cambiado totalmente. Dime ¿qué ha dicho Antonio? ¿Me olvida con facilidad?... Preguntas necias, ¿no es cierto? Hablemos de ti: me dices que tu matrimonio no podrá ser tan presto como pensabas, pero tú al menos vives en una atmósfera de esperanza. Hemos sido hermanos: a ti te toca la dicha, a mí... No, Dios sabe lo que hace: habrá medido mis fuerzas y resignación. Adiós...»
+
+Estas noticias de N\*\** me entristecieron mucho. El estado de dolor mórbido a veces, exaltado otras que revelaban las cartas de Dolores me alarmó. Escribí a mi padre aconsejándole que procurasen distraerla, pues ese pensamiento continuo en una cosa tan dolorosa podía predisponerla más que todo a que estallase en ella la enfermedad de su padre. Una reflexión me consolaba; rara vez se han visto casos de que los hijos de los lazarinos sufran la enfermedad; casi siempre salta una generación para aparecer en los nietos. Sin embargo, comprendía y aprobaba su noble conducta al desear romper con Antonio. Yo no me atrevía a quitar repentinamente las esperanzas a mi amigo; lo veía tan feliz que me parecía una crueldad inútil apagar aquel fuego y vida, aquel vigor y energía que animaban, sus trabajos y lo hacían triunfar de todas las dificultades.
+
+Así se pasaron varios meses. Al fin recibí la noticia de la muerte del padre de Dolores: escribió ella algunas líneas en que me manifestaba su angustia. No podía llorar públicamente la pérdida que había hecho, ni vestirse de luto, pues él le había hecho saber en sus últimos momentos que quería que su sacrificio sirviera al menos para preservar a su hija de las miradas recelosas de una sociedad que sabría lo que ella debía esperar al conocer la causa de su muerte.
+
+Viéndola tan abatida, mi tía quiso distraerla y la llevó hasta el Espinal. Ambas me escribieron entonces rogándome que fuese a verlas por algunos días, ya que estaban más cerca de Bogotá.
+
+Accedí a ese deseo y fui a pasar una semana con ellas. ¡Cómo podía prever las consecuencias que esa visita tendría para mí!
+
+Nada podía consolar a Dolores; estaba pálida y en todos sus movimientos se veía la profunda pena que la agobiaba. Entonces me volvió a pedir encarecidamente que desengañase a Antonio, pero me hizo prometer que jamás le diría la causa del rompimiento que ella deseaba.
+
+A mi vuelta procuré hacer comprender a Antonio la repugnancia que Dolores manifestaba por el matrimonio, y lo imposible que sería que se realizasen sus esperanzas. Ésta era una obra ardua, y frecuentemente no tenía valor para desconsolarlo enteramente.
+
+Por otra parte mis proyectos matrimoniales habían tomado un aspecto que me causaba mucha desconfianza en lo porvenir. Don Basilio se había hecho presentar en casa de mi novia como aspirante a la mano de Mercedes, quien le mostraba siempre un ceño esquivo; pero los padres lo acogían con cierta atención que me disgustaba. Poco a poco descubrí que a medida que se acataba a don Basilio se me trataba con mayor indiferencia. Una vez me dijo Mercedes que estaba muy triste porque sus padres habían tenido malos informes de mí; que ella me había defendido, pero no podía impedir un viaje que se preparaba con dirección a Chiquinquirá. Hacía muchos años que su madre había hecho una promesa a la Virgen, pero hasta entonces no le ocurrió cumplirla, sin duda con la intención, me decía Mercedes, de separarnos. Quise tener una explicación acerca de los informes que de mí habían tenido, pero Mercedes no me lo permitió, asegurándome que no sabía cuáles eran los cargos que se me hacían, y que, cuando ella averiguase de qué se me acusaba yo podría defenderme mejor.
+
+Comprendí que ésta debía ser obra de don Basilio y prometí esperar. A los pocos días las familias de Mercedes partía para Chiquinquirá. Durante las primeras semanas de su ausencia estuve profundamente abatido y mi mayor gusto era conversar largamente con Antonio de nuestras mutuas penas. Mercedes me escribía con frecuencia, pero al fin me dijo que no volverían a Bogotá tan pronto como habían pensado; que su madre había deseado quedarse algunos meses en San Gil con la familia que tenía allá. Cada vez que recibía una carta de Mercedes era motivo fiesta para mí, pero al fin empezaron a escasear, bajo pretexto de que su madre le había prohibido que me escribiese. Entonces todavía amaba y me creía amado, y aunque sufría mucho en aquel tiempo lo recuerdo con ternura: «todos los demás placeres no equivalen a nuestras penas», decía un autor francés. Pero poco a poco me fui enseñando a su silencio y ya no deseaba sus cartas con tanta impaciencia. No sé por qué motivo dieron en esos días en Bogotá muchos bailes y tertulias: asistí a ellos y confieso que no estuve triste. Sin embargo, llevaba siempre en el alma un malestar, una pena oculta que revestía la memoria de Mercedes.
+
+Se habían pasado cuatro meses sin recibir noticia alguna de ella cuando a un día llegó a mis manos una carta suya, y comprendí con profunda tristeza que mi corazón ya no sentía la dicha de antes. Mercedes me decía que habiéndole dicho a su padre que debían volver a Bogotá porque ya se cumplía el plazo en que se debía verificar nuestro matrimonio, éste le había notificado que con su consentimiento nunca sería mi esposa. No le quiso explicar la causa de su resolución, pero añadió que tenía seguridad de que bastaría una ausencia prolongada para que mutuamente nos olvidásemos. La carta de Mercedes era sumamente afectuosa, tal vez más que ninguna otra; pero con aquel magnetismo, aquella intuición que hay entre dos personas se aman y que queda aun después de haberse amado; con esa revelación del alma, digo, que se comprende sin poderse explicar, sentí hasta en sus expresiones más cariñosas cierto despego y frialdad. La cadena de sentimientos y simpatías estaba a punto de romperse entre los dos. Desde ese día empecé a resignarme a su ausencia y a familiarizarme con la posibilidad de que nuestra suerte podía ser desunida.
+
+Un negocio importante del padre de Mercedes trajo a toda la familia a Bogotá por fin. Apenas supe su llegada imprevista mi corazón se galvanizó por un momento y me dirigí inmediatamente a su casa. ¡Triste desengaño! Aquella impresión fue pasajera y pronto me sentí otra vez tranquilo. Sin embargo, hacía un esfuerzo para pensar que al verla seria otra vez dichoso, y al entrar a la casa repasaba con la imaginación todas las soñadas escenas con que antes había revestido la esperanza que ahora iba a ser colmada. Llegué, la vi bella como siempre, pero en sus ojos se había apagado la luz que faltaba en los míos. Nos hablamos: yo procuré ocultar mi indiferencia; ella estaba distraída... Al despedirme se apoderó de mí un pesar inmenso. ¡Es tan desalentador sentir el corazón vacío, sin emociones ni entusiasmo!
+
+No quería tener ninguna explicación con ella y temía que hubiera entre nosotros una reconciliación que ya no se deseaba. Así me fui retirando de su casa, y aunque ella no podía menos que notar la frialdad que había en nuestras relaciones nada me dijo. La vi más hermosa que nunca, cubierta de galas, en el teatro y en tertulias: oí hablar de las conquistas que había hecho y de los pretendientes que tenía, entre los cuales se hallaban en primer lugar don Basilio y Julián que había vuelto a Bogotá; pero en lugar de los celos y la pena que antes hubiera sentido al verla tan obsequiada, mi corazón permaneció tranquilo. Había perdido la facultad de sentir aquellos nobles celos que son el síntoma del amor. No hay duda que hay celos, o más bien cierta envidia, en un corazón que no ama, pero no puede haber amor vehemente sin ellos.
+
+¡Pobre Mercedes! A veces procuraba llamarme a su lado y encubría su indiferencia cuanto le era posible, como yo la mía. Yo estaba muy triste entonces: ¡el corazón humano, sin exceptuar el mío, me parecía tan pequeño, variable e indigno, bien que en lo íntimo de él guardase el recuerdo de la mujer que amé como un ángel, pero que se había convertido para mí en un ser débil, fútil, y fácilmente llevado por la voluntad ajena! A veces la conciencia me acusaba de haber cambiado yo también. Era cierto, pero no había empezado a sentirme indiferente sino cuando advertí en ella despego. Su silencio y sus vacilaciones durante nuestra separación me la habían mostrado bajo otra luz, y el antiguo ideal había desaparecido para mí.
+
+Fluctuaban mis sentimientos en este vaivén anárquico, en que nada espera uno ni desea, cuando recibí otra carta de Dolores, carta que me llenó de aprehensión penosísima. Luego que la leí, tomé la resolución de partir al día siguiente para N\*\**. La misma noche fui a despedirme de Mercedes.
+
+Estaba muy abatido, y en esa situación el ánimo está dispuesto a aceptar con agradecimiento cualquiera simpatía. Creo que si Mercedes me hubiera acogido aquella noche como en otro tiempo, tal vez habría recuperado su imperio sobre mi corazón. Cuánta gratitud hubiera tenido hacia ella al ser inspirado por el sentimiento que creía ser el mayor bien dado a los mortales: ¡el amor!
+
+Subí muy conmovido las escaleras de su casa; mi voz tembló al saludarla.
+
+La tertulia estaba completa como la de casi todas las noches. En un lado de la sala y alrededor del piano había un grupo compuesto de Mercedes y algunas amigas: una de ellas tocaba una pieza, mientras que don Basilio disertaba sobre la ópera de donde había sido tomada; Juan volvía las hojas del papel de música y miraba lánguidamente a Mercedes. Al lado opuesto, el padre de ella jugaba tresillo con dos o tres amigos de don Basilio, sencillos congresistas de provincias lejanas, que vestían casacas muy apretadas, cuellos muy tiesos, trabillas muy tirantes, y por último *usaban* unas manos tan negras y toscas, que se conocía cuáles habían sido sus antecedentes.
+
+Noté que mi llegada produjo impresión. Todos los ojos se fijaron en mí con curiosidad y se interrumpieron las conversaciones empezadas. Mercedes me recibió desdeñosamente, volteándome la espalda después de haberme saludado ligeramente y sin mirarme. El dueño de casa apenas me contestó y toda la concurrencia me recibió con frialdad. En medio del silencio general causado por mi llegada don Basilio se dirigió a mí y dijo con voz sonora y su acostumbrada pedantería.
+
+\-«Hablando del rey de Roma, etc. o más bien como dicen los ingleses: *Talk of the devil*...». Se hablaba de usted, joven, hace un momento -y añadió mirando a todos con aire significativo-, ¿ha tenido usted últimamente noticias de sus interesantes parientas a quienes conocí el año pasado en N\*\**?
+
+No sé qué le contesté. Un momento después, acercándome a Mercedes le dije que venía a despedirme porque tenía que ausentarme algunos días.
+
+\-Naturalmente -me contestó sonrojándose con suma contrariedad.
+
+\-¿Por qué naturalmente? Usted no sabe a dónde voy...
+
+\-¿Cómo no he de adivinar?... El engañado puede a veces abrir los ojos.
+
+\-¿El engañado?
+
+\-O la engañada, si usted gusta.
+
+\-Explíquese, Mercedes.
+
+\-Lo haré. Sepa usted que hoy ya comprendo la falsedad de la conducta de usted, y tenga por seguro que entre nosotros acabó todo compromiso.
+
+\-¿Y de qué soy culpable, por Dios?
+
+\-Ahora no tengo tiempo para explicarme. Bástele saber que lo sé todo... y añadió con ironía: ¡comprendo que usted quiera ir a visitar a la persona que prefiere!
+
+\-No entiendo.
+
+\-¿No? Pues, entonces hágame el favor de saludar a su prima Dolores de mi parte.
+
+\-Mercedes, usted es muy injusta, y no sé quién ha podido inventar semejante...
+
+Ella no pudo menos que volver los ojos hacia don Basilio al interrumpirme diciendo:
+
+\-No sé por qué se ha tomado usted la pena de venir a despedirse. Entre usted y yo no hay ni puede haber simpatía: yo no me intereso en sus asuntos particulares.
+
+Inmediatamente comprendí que todo esto era obra de don Basilio. Mi orgullo se exaltó, y no quise humillarme pidiendo explicaciones.
+
+\-Ya veo -le contesté mirando a mi rival-, ya veo que mi dignidad me impide defenderme; la fortaleza está en manos del enemigo y sería inútil procurar rechazar las calumnias que ciertas personas saben inventar.
+
+Y saludando con aire altivo a Mercedes y a toda la concurrencia salí de la sala seguido por la mirada maligna y la perversa sonrisa de don Basilio. En la puerta me alcanzó Julián, y ofreciéndome la mano me dijo:
+
+\-No crea usted, Pedro, que yo he tenido parte en la conspiración que comprendo se había preparado contra usted, pues yo soy enemigo de estas cosas y tengo verdadero aprecio por usted.
+
+Le agradecí este acto de espontaneidad y nos separamos.
+
+Atravesé las calles que me separaban de casa, y odio, deseo de vengarme, profunda humillación al verme vencido por ese aventurero de pluma, desprecio por Mercedes que servía de instrumento, todo esto bullía en mi mente y hacía latir mi corazón. En medio de todo recordaba que al salir había visto que la mirada de Mercedes me siguió, humedecida y melancólica... ¡No volví a verla sino años después, y en qué circunstancias!
+
+Al llegar a casa me dijeron que alguien me aguardaba: era Antonio. Al acercarme para saludarlo dio un paso atrás y rechazando mi mano dijo con destemplanza:
+
+\-¡Deseo primero si le doy la mano a un amigo o a un traidor a la amistad!
+
+\-¡Usted!
+
+\-Explícate... ¡Esto me faltaba! -exclamé con desaliento. Esto me faltaba para volverme loco... Vengo de casa de Mercedes que rompió conmigo definitivamente.
+
+\-¿Y no dijo la causa?
+
+\-Me dio a entender que creía en una calumnia...
+
+\-¡Calumnia! Tal vez ella tenía razón... ¡Pedro, Pedro! Todavía me queda una esperanza: ¡tu lealtad de tantos años! Dime la verdad -añadió tuteándome otra vez-; es tan triste perderlo todo un día... Contéstame, ¿amabas acaso a Dolores antes de conocerla yo? O en tu viaje al Espinal, ahora cuatro meses... ¡Oh! ¡Dime la verdad!
+
+\-Te juro en nombre de nuestra amistad y por todo lo que hay más sagrado, que Dolores ha sido siempre solamente una hermana para mí.
+
+\-No sé qué creer... He estado pensado mucho en tu conducta últimamente y es inexplicable. Desde que estuviese en el Espinal has procurado siempre disuadirme de mis proyectos con respecto a Dolores, y no me permites que hable de ella; todo esto con cierto aire misterioso que no puedes ocultar y sin decirme la causa de tan extraño cambio. El amigo Durán me dijo también en días pasados que ya nadie veía a Dolores, que vivía siempre retirada en su hacienda... ¡En estos días han circulado aquí rumores acerca de ella y de ti que no acierto a repetirlos! ¡Dime si esto es verdad!
+
+\-¿Qué verdad? -pregunté angustiado y sin saber qué contestar.
+
+\-Dime si... ¿tú debes casarte con ella?
+
+\-Esa es una infame mentira forjada por don Basilio; ¡y que tú, Antonio, hayas podido dar oídos a esto!
+
+\-¡Por don Basilio!...
+
+Y un momento después añadió:
+
+\-Tienes razón, Pedro, deber ser mentira entonces. Me admiro cómo no lo había pensado antes. Me dijeron aquí que pensabas irte mañana para N\*\**; no espero más tiempo; no quiero creer en la repugnancia de Dolores por el matrimonio; ¿no me has dicho que me ama? Pues bien, tú mismo llevarás una carta pidiendo la mano de tu prima, y de cualquier modo haremos el matrimonio. Éste es el mejor modo de contestar a semejante calumnia.
+
+\-¡Eso no puede ser! -exclamé sin pensar en las consecuencias de mis palabras.
+
+\-¿Por qué?
+
+\-Ella dice que jamás se casará.
+
+Antonio me miró sin contestarme y yo añadí:
+
+\-Hay en su vida un misterio que no puedo revelar.
+
+\-¿Un misterio?
+
+\-Sí.
+
+\-Un misterio en la vida de una mujer no puede ser bueno. Exijo que se me diga en qué consiste. Yo no soy héroe de novela, y si se me engaña que sea con algo verosímil.
+
+
+
+\-No tengo libertad para revelártelo: Dolores me ha exigido el secreto.
+
+\-¡El secreto! ¡Y yo que empezaba a creerle!...
+
+Y levantándose, se caló el sombrero con aire decidido, y con voz temblorosa de rabia me impuso silencio diciendo:
+
+\-Basta ya. Nadie se burla de mí impunemente. No me replique usted; no quiero cometer una falta aquí: yo mandaré amigos que arreglen el asunto entre los dos.
+
+\-¡Un desafío!
+
+\-Así lo entiendo ¿acaso la cobardía es otra de las cualidades que lo distinguen a usted?
+
+\-La cólera te ciega, Antonio -contesté procurando guardar mi razón-. Entre los dos no puede haber desafío. ¡Esto es hasta ridículo! Escúchame: te he dado mi palabra de que en estoy hay una horrible equivocación.
+
+\-¿Qué pruebas me puede usted dar para creer que sus palabras son verídicas, puesto que asegura que Dolores no puede casarse?
+
+\-El tiempo...
+
+\-¡El tiempo!... ¡Usted es un cobarde!
+
+\-¡No permito que nadie me diga semejante cosa!
+
+\-Entonces acepta mi reto, o contesta a mi pregunta.
+
+\-Antonio -exclamé, haciendo el último esfuerzo para no perder mi serenidad-, Antonio, esto es absurdo. Si las circunstancias lo exigen, separémonos, ¡pero no como enemigos!
+
+Antonio fuera de sí ya, se acercó con el brazo levantado.
+
+\-¡Cobarde e hipócrita! -gritó.
+
+Entonces olvidé toda consideración, y mostrándole la puerta dijo:
+
+
+
+\-Salga usted. Arregle las cosas como quiera y para cuando quiera.
+
+Al día siguiente a las seis de la tarde me llevaban desmayado para la casa en que vivía. Cuando volví a recuperar mis sentidos me encontré tendido en la cama. Era de noche, y sentada a los pies de la cama vi dormida a la casera: traté de hablar y moverme, pero un dolor agudísimo en el pecho me obligó a estarme quieto. Estaba solo, sin pariente ni amigo que se condoliera de mí; la caridad de los dueños de casa era mi único amparo. Recordé entonces lo que me había sucedido: me vi nuevamente al frente de Antonio detrás de las colinas de San Diego; cada uno de nosotros tenía una pistola en la mano, Julián me servía de testigo. La expresión de la fisonomía de Antonio era temible: me miraba con todo el odio nacido de su anterior cariño. En ese momento olvidé todo sentimiento religioso, todo recuerdo de mi padre... un profundo desaliento de la vida me dominaba; deseaba verdaderamente morir en aquel momento, le apunté a Antonio, pero la memoria de Dolores y de su pena al saber que yo habría causado su muerte me hizo volver a mejores sentimientos y disparé al aire; pero al mismo tiempo sentí una fuerte conmoción y sin saber cómo, me encontré en el suelo... No recordaba más.
+
+Volví a perder el juicio y por muchos días estuve entre la vida y la muerte. Cuando mis ojos se abrieron nuevamente a la luz y a la razón encontré a mi lado a mi padre, que acababa de llegar de N\*\** sin haber tenido noticia del estado en que me hallaba.
+
+La siguiente carta de Dolores hará comprender mejor que otras explicaciones la causa del viaje imprevisto de mi padre.
+
+
+
+«No sé si recibiste una carta que te escribí hace algunos días. Es posible que se haya extraviado o que no hubieras entendido lo que en ella te decía. Ahora pienso explicarte con más claridad la causa del desorden de mi espíritu: estoy en completa calma y me creo capaz de abarcar con ánimo mi situación... ¡Con ánimo! ¡gran Dios! En calma... ¡qué ironía!... no, Pedro, estoy loca, desesperada.
+
+He tenido momentos de verdadera demencia...
+
+Sin embargo, quiero vencer la repugnancia, el horror que siento. Es preciso referírtelo todo.
+
+Desde que estuve en el Espinal empecé a sentir mucho malestar, una agitación de nervios constante y una completa postración de ánimo. Sentía por turnos y en algunas horas, frío, calor, fuerza, debilidad, valor, desaliento, temor, audacia, en fin, los sentimientos más contradictorios y las sensaciones más diversas. Al volver a N\*\** consulté a tu padre: me hizo varias preguntas y leí en su semblante la mayor emoción y desconsuelo a medida que le refería los síntomas del extraño mal que padecía. El pobre tío procuró infundirme valor asegurándome que esas novedades provenían de mis recientes penas.
+
+Mi tía se empeñó en que consultase con otros médicos, pero yo no quería que me viese nadie. Al fin viendo que mi salud no mejoraba, llamaron sin consultarme a varias personas de los alrededores que pasan aquí por médicos, y su experiencia, si no el diploma, los hace dignos del título de doctores que les dan.
+
+Se reunieron, pues, un día en la hacienda. Yo me presenté temblando, pero me acogieron con tanta bondad y me trataron con tan alegres chanzas, que fui perdiendo en presencia de ellos el horrible temor que me asaltaba. Antes de separarme comprendí que esos señores debían reunirse en la sala para dar su opinión. Quise saber la verdad y resolví oír ocultamente la consulta. Me retiré a mi cuarto, pero saliendo inmediatamente entré a una alcoba vecina de la sala y separada de ésta sólo por un cancel.
+
+Me había tardado algunos momentos y cuando llegué a mi observatorio ya estaba empezada la conversación.
+
+\-¡Pobre niña! -decía uno de ellos; me parece que no hay esperanza...
+
+\-El lázaro está en su segundo período apenas -repuso otro-, y creo que se podría hacer algún esfuerzo.
+
+\-Eso apenas retardaría por algunos días más...
+
+No supe qué más dijeron, ni lo que pasó por mí. Había procurado hacerme fuerte y ver con serenidad el mal que podía, que debía esperar. Pero al tener la seguridad de que era cierto lo que sólo temía, al encontrarme cara a cara con el espectro que había presentido, al contemplar de repente el horror de mi situación, no pude resistir a semejante dolor, y aunque no perdí el sentido, me tiré al suelo dominada por un completa postración de espíritu. No lloraba, ni me quejaba: mi desesperación no admitía desahogo. Un sollozo prolongado en el corredor me hizo volver en mí. Conocí la voz de mi tía, salí... ¡al menos, pensé, podremos llorar juntas! Guiada por el mismo interés que me animaba, también había querido conocer el fallo de los médicos, y al oír sus palabras no había podido resistir a su emoción.
+
+Me le acerqué, pero al levantar los ojos y verme a su lado no pudo reprimir cierto movimiento de repugnancia que corrigió inmediatamente con una tierna mirada.
+
+Hija mía, me dijo alargándome las manos, ven, abrázame.
+
+Pero su primer movimiento había sido como una puñalada para mí: no lo pude olvidar, y huyendo entré a mi cuarto sin querer oírla, y me encerré. ¡Me sentía sola, completamente abandonada en el mundo! Después de esto no recuerdo más. Parece que mi tía, cansándose de llamarme y no teniendo contestación alguna se había alarmado, ¡y auxiliada por tu padre forzaron la puerta y me encontraron loca!
+
+Sí, Pedro, fue tal mi desesperación que perdí el juicio por algunos días. Cuando volví a la razón y contemplé la horrible existencia que me aguardaba, en lo primero que pensé fue en escribirte. Tú has sido siempre un amigo en cuya simpatía creo; un hermano, cuyo apoyo ha sido mi consuelo siempre. A ti apelé: no recuerdo qué te decía; todavía había en mi mente una nube de demencia. Tu padre me dice que no ha perdido completamente la esperanza, y parte para Bogotá a consultar él mismo los mejores médicos del país. ¡Si hubiera esperanza, Dios mío!... ¡si hubiera esperanza!»
+
+La carta a que se refería Dolores era la que había determinado mi partida para N\*\**, partida que se había interrumpido trágicamente.
+
+Apenas pude levantarme quise acompañar a mi padre a casa de los mejores médicos de Bogotá, quienes nos dieron algunos medicamentos con los cuales decían haberse mejorando notablemente varios lazarinos. Mi padre regresó a N\*\**. Yo me quedé solo, triste, enfermo todavía, desalentado y si proyectos ya para lo porvenir.
+
+En eso supe que un rico capitalista partía enfermo para Europa y deseaba llevar un médico que lo asistiera durante su viaje. Me le ofrecí y me aceptó con gusto: pero antes de partir no pude resistir al deseo de ir a abrazar a mi padre y ver a mis parientes. Por otra parte deseaba arreglar las pocas propiedades de que podía disponer para tener algunos recursos con que subsistir algunos años en Europa.
+
+Llegué inesperadamente a N\*\**, y después de haber pasado algunas horas con mi padre fui a casa de la tía Juana. Estaba sola y muy triste: la enfermedad de Dolores no tenía ningún alivio. Me decía que no quería vivir sino en la hacienda; y prorrumpiendo en llanto la pobre tía añadió, que no se dejaba ver de nadie, y no permitía que se le acercasen. Yo traté de consolarla diciendo que iría a verla y procuraría dulcificar sus pensamientos y mejorar su género de vida.
+
+Al principio mi prima rehusó verme, pero cuando le hice saber que partía pronto para un viaje tan lejano accedió a mi deseo.
+
+Estaba sentada en un sillón y el cuarto muy oscuro: así con su vestido blanco se veía como un espectro entre las sombras. No quería que yo me acercase a ella; pero usando de mis prerrogativas de primo y hermano le tomé las manos por fuerza y abriendo de improviso una ventana quise contemplar los estragos que aquel mal había hecho en ella.
+
+Estaba ya empezando el tercer período de la enfermedad. La linda color de rosa que había asustado a mi padre, y que es el primer síntoma del mal, se cambió en desencajamiento y en la palidez amarillenta que había notado en ella en el Espinal: ahora se mostraba abotagada y su cutis áspera tenía un color morado. Su belleza había desaparecido completamente y sólo sus ojos conservaban un brillo demasiado vivo. Comprendí que ya no tenía esperanzas de mejoría, pero procuré ocultar mi sorpresa: ciertamente no esperaba encontrar en ella semejante cambio. Al principio permaneció callada, pero cuando le expliqué las penas de la tía Juana, me confió que su aparente despego y el deseo de aislarse prevenían de un plan que había ideado y que tenía la determinación de llevar a cabo.
+
+\-Quería que mi tía se enseñe a nuestra separación, pues no pienso vivir más tiempo a su lado.
+
+\-¿Y dónde te irás?
+
+\-Viviré sola. Mi tía tiene un horror, una repugnancia singular al mal que sufro, y sé que vivirá martirizada. Por otra parte, es tal el temor que me causa una voz extraña... veo a la humanidad entera como un enemigo que me persigue, que me acosa, y he resuelto separarme de todo el que me tema.
+
+\-¿Pero cómo?
+
+\-¿No recuerdas aquel sitio tan lindo donde nos despedimos la última vez que estuviste aquí?
+
+\-¿La quebradita?
+
+\-Allí quiero mandar hacer una casita y acompañada por los muchachos que sirvieron a mi padre hasta sus últimos momentos (ellos no me tienen repugnancia) viviré aislada, pero en mi soledad estaré tranquila.
+
+\-Ésa es una locura, Dolores ¿cómo sería tu vida en medio del monte? No, eso no puede ser.
+
+\-En lugar de disuadirme, Pedro, tenme lástima y ayúdame a llevara a cabo mi propósito. Si no -añadió apretándose las manos con ademán desesperado-, si no, huiré, me iré sola al monte y moriré como una fiera de los bosques. Mira: he sentido mayor desesperación al comprender que inspiro horror. ¡Dios mío! Si no me permiten vivir sola, ocultarme a todos los ojos, no sé qué haré... no es difícil quitarse uno la vida.
+
+El estado de exasperación en que se hallaba la pobre joven no admitía razonamientos y tuve que ofrecerla mi cooperación a su plan.
+
+\-¿Y Antonio? -preguntó al cabo de un momento de silencio y haciendo un esfuerzo para serenarse.
+
+\-¿No lo he visto, acaso no has sabido?...
+
+\-Sí, tu padre me lo refirió todo. ¡Ya he sido la causa de tus penas y peligros, y sin embargo ni un consuelo, ni una señal de gratitud has recibido de mí! Perdóname: las penas nos hacen egoístas. Te confesaré mi debilidad: me llena de espanto la idea de que Antonio me recuerde con repugnancia.
+
+\-¿Pero no es peor que te tenga en mal concepto?
+
+\-Sí, es cierto; no lo había pensado. ¡Que lo sepa todo!
+
+Y al decir esto prorrumpió en amargo llanto.
+
+\-Dile también a Mercedes lo que quieras -añadió.
+
+\-Ya Mercedes no es nada para mí. No quiero darle explicaciones: ella debió haber tenido fe en mi lealtad.
+
+Dolores me miró un momento.
+
+\-Tú no la amaste nunca, pues cuando uno ama no tiene orgullo: no puede haber resentimiento duradero, ni pique, ni mala voluntad respecto del ser amado.
+
+\-No hablemos más de ella. Mercedes tiene otros pretendientes y yo ni la recuerdo.
+
+Me despedía prometiéndole hablar con mi tía, lo que efectivamente hice, procurando hacerle comprender que la vida de Dolores dependía de que hiciese su voluntad.
+
+Algunos días después me reuní con mi compañero en Honda y bajamos el Magdalena sin novedad, embarcándonos en Santamarta a principios del siguiente mes.
+
+## PARTE TERCERA
+
+
+
+## BIOGRAFÍAS DE LAS COLABORADORAS
 
 **Sara Abadía Alvarado** es una escritora y educadora colombiana. Estudió Literatura en la Universidad de los Andes, donde descubrió la obra de Soledad Acosta de Samper, autora con quien mantiene un diálogo constante. Realizó un MFA en escritura creativa en español en la Universidad de Nueva York, donde escribió su primera novela y tradujo poesía bajo la tutoría de Mariela Dreyfus. Ha publicado relatos y artículos en *070*, *NACLA* y con la editorial Laguna. En 2023 fue seleccionada para la *Antología III* de la Feria del Libro de Nueva York con su cuento “Anamorfosis”. Actualmente vive en Boston, donde enseña teatro a jóvenes de East Boston. Escribe desde una ambición consciente y una fe persistente en la capacidad de la literatura para trascender el tiempo.
