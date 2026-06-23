@@ -744,6 +744,9 @@ Volví a mi choza a cuidarme... ¡sí, me cuidé! ¡Oh triste humanidad! ¿no er
 
 Mi espíritu es un caos: mi existencia una horrible pesadilla. Mándame, te lo suplico, algunos libros. Quiero alimentar mi espíritu con bellas ideas: deseo vivir con los muertos y comunicar con ellos.»
 
+***
+
+
 
 
 ## BIOGRAFÍAS DE LAS COLABORADORAS
