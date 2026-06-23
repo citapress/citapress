@@ -734,7 +734,7 @@ I did my duty and assisted at the interment, which she directed should be in the
 
 Among her papers was found a will leaving her property to me, and a number of compositions in prose and verse. Here are a few fragments of a Diary, the contents of which exhibited most clearly her character, her moral sufferings, her vacillations, and her desperation.
 
-![alt text]("static/img/colon.svg") <svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 124 59" width="50">
+![alt text]("static/img/colon.svg") <svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 124 59" width="10">
   <path d="M0,11.9L11,0l10.9,11.9-10.9,11.8L0,11.9ZM0,46.3l11-11.9,10.9,11.9-10.9,11.8L0,46.3ZM50.6,11.9L61.6,0l10.9,11.9-10.9,11.8-11-11.8ZM50.6,46.3l11-11.9,10.9,11.9-10.9,11.8-11-11.8ZM101.2,11.9L112.3,0l10.9,11.9-10.9,11.8-11-11.8ZM101.2,46.3l11-11.9,10.9,11.9-10.9,11.8-11-11.8Z"/>
 </svg>
 
