@@ -351,7 +351,7 @@ Estas formas de violencia a menudo se desarrollan de manera impactante en ciudad
 
 Además del daño directo, la violencia de género puede afectar a las mujeres en zonas urbanas de maneras invisibles. La ansiedad y el miedo que las mujeres sienten mientras circulan por los espacios urbanos limita su derecho a la ciudad, incluso antes de que se produzca cualquier caso de violencia directa. El miedo también está encarnado en lo que autoras feministas como Keisha-Khan Perry (2013) han denominado *violencia lenta* o *muerte lenta* de dolor, ansiedad y depresión, que sienten particularmente las madres en Brasil cuyos hijos han sido asesinados o lesionados. Otras autoras como Christen Smith (2018) han utilizado el término *trauma persistente*, para referirse a los efectos físicos y emocionales de larga duración a causa de la violencia generalizada, a menudo sancionada por el Estado, que sufren particularmente las mujeres negras.<sup class="c16 c10"><a href="#ftnt21" id="ftnt_ref21">[21]</a></sup><span class="c2"> Las mujeres también se ven afectadas inmediatamente como parejas, esposas y madres que tendrán que asumir la responsabilidad exclusiva del sustento de sus familias. Otras capas de discriminación interseccional ‒que incluyen la orientación sexual y la identidad de género, los estándares de imagen corporal (cabello afro, piel oscura, lenguaje y acento, forma de vestir), las prácticas religiosas (donde las creencias y los rituales afrolatinoamericanos son principalmente estigmatizados) y los marcadores de actividad política‒ hacen que las personas sean más propensas a estar expuestas a formas de violencia perdurable. Reforzando estas formas de violencia interseccional y de género se encuentra la violencia perpetrada por el Estado y especialmente por la policía. La figura 1 destaca parte de la opresión interseccional cotidiana que experimentan las mujeres en Maré y destaca cómo las mujeres trans, las lesbianas, aquellas que son más masculinas y las mujeres de escasos recursos económicos están más expuestas a esa violencia.
 
-![dibujo observacional de las opresiones interseccionales](/img/coming-soon.jpg "dibujo observacional de las opresiones interseccionales")
+![dibujo observacional de las opresiones interseccionales](/img/books/mujeres-resistiendo-la-violencia/body/figura1_1.png "dibujo observacional de las opresiones interseccionales")
 
 <p class="c15" id="h.41mghml"><b><i><center>Figura 1.1: Dibujo observacional de las opresiones interseccionales cotidianas que experimentan las mujeres en Maré, Río de Janeiro, basado en un grupo focal con cinco mujeres. Crédito: Mila de Choch (McIlwaine, 2022a).</b></i></center></p>
 
@@ -417,7 +417,7 @@ En términos de un panorama más amplio de la violencia urbana y los conflictos 
 
 <div class="full-width">
 
-![Tenemos derecho a cuidarnos a nosotras mismas». Ilustración basada en un grupo focal con cinco mujeres de Ma](/img/coming-soon.jpg "Tenemos derecho a cuidarnos a nosotras mismas». Ilustración basada en un grupo de enfoque con cinco mujeres de Ma")
+![Tenemos derecho a cuidarnos a nosotras mismas». Ilustración basada en un grupo focal con cinco mujeres de Ma](/img/books/mujeres-resistiendo-la-violencia/body/figura1_2.jpg "Tenemos derecho a cuidarnos a nosotras mismas». Ilustración basada en un grupo de enfoque con cinco mujeres de Ma")
 
 </div>
 
@@ -692,7 +692,7 @@ La victoria política de Argentina en diciembre de 2020 sobre la legalización d
 
 Esta victoria, ampliamente celebrada, fue el resultado de una intensa campaña que en los últimos años se destacó por «los pañuelazos», cuyo símbolo son los *pañuelos verdes* en forma de bufandas, pulseras, blusas y hasta para cubrir sus caras que usan las activistas por el aborto. Argentina tiene una larga historia de activismo popular por la legalización del aborto. A principios de la década de 1980, el aborto formaba parte de las campañas feministas por la liberación sexual: una imagen icónica de la agenda feminista argentina de 1983 muestra a la activista feminista María Elena Oddone con una pancarta que decía: «No a la maternidad, sí al placer».
 
-![Maria Elena Oddone](/img/coming-soon.jpg "María Elena Oddone sostiene un cartel que dice ‘No a la maternidad, sí al placer’ en 1984")
+![Maria Elena Oddone](/img/books/mujeres-resistiendo-la-violencia/body/figura3_1.jpeg "María Elena Oddone sostiene un cartel que dice ‘No a la maternidad, sí al placer’ en 1984")
 
 <p><b><i><center>Figura 3.1: María Elena Oddone sostiene un cartel que dice ‘No a la maternidad, sí al placer’ en 1984. Crédito: Wikimedia Commons.</b></i></center/></p>
 
@@ -797,7 +797,7 @@ Somos 2074 y Muchas Más es una asociación de organizaciones y redes feministas
 <h3 class="c14" id="h.184mhaj">Educación sexual </h3>
 El acceso a la información es primordial para la gestión de la fertilidad, al igual que el acceso a tipos de educación sexual que podrían reducir los estereotipos de género sobre el sexo y la sexualidad. Pero la educación sexual también ha sido un campo de batalla: muchos países de América Latina cuentan con directrices de educación sexual bien diseñadas, progresistas e inclusivas, preparadas por formuladores de políticas bien informados e integradas a guías acordadas internacionalmente. Sin embargo, en varios países, una nueva ola de conservadores morales se ha opuesto con éxito a estos programas.
 
-![figura 3.2](/img/coming-soon.jpg "figura 3.2")
+![figura 3.2](/img/books/mujeres-resistiendo-la-violencia/body/figura3_2.jpeg "figura 3.2")
 
 <p class="c15" id="h.3s49zyc"><b><i><center>Figura 3.2: Mujeres de la campaña Somos 2074 y Muchas Más contra la impunidad. Crédito: Somos 2074 y Muchas Más.</b></i></center></p>
 
@@ -966,7 +966,7 @@ El 3 de marzo de 2016 fue brutalmente asesinada por dos hombres que irrumpieron 
             
    
 
-![Figura 4.1: Berta Cáceres, líderesa indígena lenca, feminista y activista del medioambiente hondureña](/img/coming-soon.jpg "Figura 4.1: Berta Cáceres, líderesa indígena lenca, feminista y activista del medioambiente hondureña")
+![Figura 4.1: Berta Cáceres, líderesa indígena lenca, feminista y activista del medioambiente hondureña](/img/books/mujeres-resistiendo-la-violencia/body/figura4_1.jpeg "Figura 4.1: Berta Cáceres, líderesa indígena lenca, feminista y activista del medioambiente hondureña")
 
 <p class="c15" id="h.14ykbeg"><b><i><center>Figura 4.1: Berta Cáceres, líderesa indígena lenca, feminista y activista del medioambiente hondureña. Crédito: Coolloud.</b></i></center></p>
 
@@ -1048,7 +1048,7 @@ En el ámbito nacional, otras redes de mujeres, junto con sus comunidades, han l
 
 > Somos trashumantes. Algunos de nosotros/as criamos cabras y hacemos quesos para el consumo local; otros/as tienen cultivos, y otros/as son pirquineros. Nosotro/as vivimos y producimos en armonía con nuestra Madre Tierra. Nuestra forma de vivir y producir es ancestral y protege nuestra biodiversidad. El impacto de la extracción de litio será devastador para nuestras comunidades y nuestro ecosistema: las empresas se van a seguir apropiando del agua y de las tierras, incluidas las que están en el salar de Maricunga. Las aguas, la tierra y el aire serán contaminadas. Cerrarán nuestras rutas tradicionales, las cuales seguimos para que nuestro ganado tenga pasto \[…], bloquearán el acceso a nuestros sitios sagrados ancestrales, destruirán nuestras formas de vivir y de producir \[…]. Se debe evitar el daño a nuestra Madre Tierra y a nuestras comunidades. \[…] Estamos sufriendo violencia estatal: se nos ha negado el acceso a nuestras tierras ancestrales y nos hemos visto obligados a arrendar terrenos en nuestros propios territorios \[…]. Estos terrenos pertenecen a familias del negocio minero que no viven aquí. Se nos ha negado nuestro derecho a la consulta previa e informada, como lo indica el Convenio 169. Por eso tuvimos que demandar al Gobierno. (Araya, 2022)
 
-![Figura 4.2: Ercilia Araya en el Primer Panel sobre las Violaciones de Derechos Humanos de Pueblos Indígenas en Dictadura.](/img/coming-soon.jpg "Figura 4.2: Ercilia Araya en el Primer Panel sobre las Violaciones de Derechos Humanos de Pueblos Indígenas en Dictadura.")
+![Figura 4.2: Ercilia Araya en el Primer Panel sobre las Violaciones de Derechos Humanos de Pueblos Indígenas en Dictadura.](/img/books/mujeres-resistiendo-la-violencia/body/figura4_2.jpeg "Figura 4.2: Ercilia Araya en el Primer Panel sobre las Violaciones de Derechos Humanos de Pueblos Indígenas en Dictadura.")
 
 <p class="c15" id="h.1vsw3ci"><b><i><center>Figura 4.2: Ercilia Araya en el Primer Panel sobre las Violaciones de Derechos Humanos de Pueblos Indígenas en Dictadura. Crédito: Observatorio Ciudadano (2018).</b></i></center></p>
 
@@ -1258,7 +1258,7 @@ Las respuestas del público a <i>Efêmera</i> en Brighton ponen de relieve la tr
 
 </div>
 
-![Figura 5.1: Póster de la obra de teatro Efêmera en Río de Janeiro, 2017.](/img/coming-soon.jpg "Figura 5.1: Póster de la obra de teatro Efêmera en Río de Janeiro, 2017.")
+![Figura 5.1: Póster de la obra de teatro Efêmera en Río de Janeiro, 2017.](/img/books/mujeres-resistiendo-la-violencia/body/figura5_1.jpg "Figura 5.1: Póster de la obra de teatro Efêmera en Río de Janeiro, 2017.")
 
 <p class="c15" id="h.1smtxgf"><b><i><center>Figura 5.1: Póster de la obra de teatro </i>Efêmera<i> en Río de Janeiro, 2017.</b></i></center></p>
 
@@ -1366,7 +1366,7 @@ Toda esta presión ha desembocado en un proceso judicial contra la directora del
 
 El arte feminista contemporáneo a menudo sitúa la memoria en su centro, como indica claramente el podcast sobre el caso del Hogar Seguro de Guatemala (Morris, 2021). Recordar en el arte es algo más que registrar acontecimientos o experiencias para la posteridad. Especialmente en el arte feminista, la memoria funciona a menudo como una reflexión sobre el presente, como un cuestionamiento o quizás como un espejo de las injusticias actuales. Artistas como Doris Salcedo (Bogotá, 1958), Natalia Iguiñiz (Lima, 1973), Lucila Quieto (Buenos Aires, 1977) y Claudia Martínez Garay (Ayacucho, 1983) recurren a la memoria personal y colectiva para reflexionar sobre el trauma, la pérdida y sus secuelas. Al hacerlo, también denuncian la violencia que causó el daño, aliando su arte al activismo feminista. Aparte de sus representaciones fotográficas más estáticas de las ruinas físicas de la violencia, Natalia Iguiñiz también ha creado una investigación basada en el arte sobre una activista feminista concreta brutalmente asesinada por la violencia política en 1992. Al examinar la vida y obra de María Elena Moyano, asesinada y dinamitada por Sendero Luminoso en un acto comunitario, Iguiñiz reflexiona sobre el trato que recibió Moyano por parte de aliados y enemigos políticos, y ofrece un espejo a los activistas y los políticos contemporáneos. Las múltiples identidades de Moyano como feminista y organizadora política y la intersección de factores de desigualdad que la afectaron como mujer negra de origen pobre hicieron su vida vulnerable, así como ejemplar para muchos otros.</span><sup class="c16 c10"><a href="#ftnt53" id="ftnt_ref53">\[53]</a></sup><span class="c2"> De hecho, en respuesta a la pregunta en torno a lo que es el arte conmemorativo, Amanda Jara, hija del cantante de protesta chileno Víctor Jara dice: «Es mirarnos a nosotros mismos, y ver de dónde venimos, lo que hemos hecho, es mirarnos en el espejo» (Morris &amp; McGibbon, 2017).
 
-![Independencia de Buscando a María Elena](/img/coming-soon.jpg "Figura 6.1")
+![Independencia de Buscando a María Elena](/img/books/mujeres-resistiendo-la-violencia/body/figura6_1.jpg "Figura 6.1")
 
 <p class="c15" id="h.44bvf6o"><center><i><b>Figura 6.1: </i>Independencia de Buscando a María Elena,<i> 2011. Crédito: Natalia Iguiñiz. </b></i></p></center>
 

@@ -60,7 +60,7 @@ This riveting story is rooted in Gilman’s life and patriarchal Victorian Ameri
 
 ## The Yellow Wall-Paper
 
-![woman in chair](/img/coming-soon.jpg "woman in chair")
+![woman in chair](/img/books/the-yellow-wall-paper/body/yellowwallpaper1.jpg "woman in chair")
 
 It is very seldom that mere ordinary people like John and myself secure ancestral halls for the summer.
 
@@ -390,7 +390,7 @@ I have watched John when he did not know I was looking, and come into the room s
 
 She didn’t know I was in the room, and when I asked her in a quiet, a very quiet voice, with the most restrained manner possible, what she was doing with the paper—she turned around as if she had been caught stealing, and looked quite angry—asked me why I should frighten her so!
 
-![two women](/img/coming-soon.jpg "two women")
+![two women](/img/books/the-yellow-wall-paper/body/yellowwallpaper2.jpg "two women")
 
 Then she said that the paper stained everything it touched, that she had found yellow smooches on all my clothes and John’s, and she wished we would be more careful!
 
@@ -576,4 +576,4 @@ I kept on creeping just the same, but I looked at him over my shoulder.
 
 Now why should that man have fainted? But he did, and right across my path by the wall, so that I had to creep over him every time!
 
-![fainted](/img/coming-soon.jpg "fainted")
+![fainted](/img/books/the-yellow-wall-paper/body/yellowwallpaper3.jpg "fainted")
