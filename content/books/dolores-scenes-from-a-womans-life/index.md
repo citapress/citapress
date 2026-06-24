@@ -54,6 +54,7 @@ The art direction and editorial design for this book is by Mariana Matos, guided
 
 Finally, we are deeply grateful to Sharon Bard, whose sponsorship expanded the possibilities for this edition and directly supported the work of our contributors.
 
+
 ## TRANSLATOR'S FOREWORD
 
 Soledad Acosta de Samper spoke English, traveled the world, wrote every day, and saved the newspaper clippings in which her novels appeared to turn them into albums. She married for love, had four daughters—one of them, a nun and a poet, published the version of the *Novena de Aguinaldos* that is sung during the nine days leading up to Christmas in Colombia, Venezuela, and Ecuador—founded five magazines, established herself as a journalist and historian, fought for women’s place in society, and resisted the censorship imposed on her most renowned female protagonist today in Latin America: Dolores.
@@ -394,7 +395,7 @@ This state of things continued for some months, until we received intelligence o
 
 My aunt, seeing her broken down condition, in the hope that a change of air and scene might prove of service, brought her to Espinal, both at the same time asking me to visit them there, as the distance was less from Bogotá.
 
-I accepted the invitation, and went to spend a week with them. How was I to foresee the  consequences of that visit to myself!
+I accepted the invitation, and went to spend a week with them. How was I to foresee the consequences of that visit to myself!
 
 Nothing appeared to bring consolation to Dolores. She was as pale as possible, and every movement expressed the agony of her situation. She then reiterated the request that I should convince Antonio of the impossibility of their union, but without disclosing the true reason.
 
@@ -624,17 +625,17 @@ A few days after, I joined my travelling companion at Honda. We descended the Ma
 > *tétrico albergue, asilo tenebroso*<br>
 > *no pisado jamás de huella humana.*</small><br>
 >
-> <small>*I only seek you in the farthest of forest*<br>
-> *Gloomy shelter, dark refuge*<br>
-> *Never trodden by human footprints.*</small>
+> <small>I only seek you in the farthest of forest<br>
+> Gloomy shelter, dark refuge<br>
+> Never trodden by human footprints.</small>
 >
 > <small>—VICENTA MATURANA</small>
 >
 > <small> *Je meurs, et sur ma tombe, ou lentement j’arrive,* <br>
 > *nul ne viendra verser des pleurs.* </small>
 >
-> <small> *I am dying, and on my grave, where I am slowly arriving,*<br>
-> *No one will come to shed tears.*</small>
+> <small> I am dying, and on my grave, where I am slowly arriving,<br>
+> No one will come to shed tears.</small>
 >
 > <small>—GILBERT</small>
 
@@ -674,7 +675,9 @@ At last, amongst others, I received the following letter from herself:
 >
 > And so it was done. We then conversed with apparent tranquility upon the best manner of regulating my future life, while the hearts of both were bleeding. When we arrived at the narrow pass that you may remember, I pushed forward in silence. At the turn leading to the cottage, looking back, I saw through the trees that my aunt had stopped, and stood contemplating me in deep distress. Probably I shall never see her more!...
 
-- - -
+<svg id="colon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 124 59">
+  <path d="M0,11.9L11,0l10.9,11.9-10.9,11.8L0,11.9ZM0,46.3l11-11.9,10.9,11.9-10.9,11.8L0,46.3ZM50.6,11.9L61.6,0l10.9,11.9-10.9,11.8-11-11.8ZM50.6,46.3l11-11.9,10.9,11.9-10.9,11.8-11-11.8ZM101.2,11.9L112.3,0l10.9,11.9-10.9,11.8-11-11.8ZM101.2,46.3l11-11.9,10.9,11.9-10.9,11.8-11-11.8Z"/>
+</svg>
 
 For a long time I heard nothing particular of Dolores. My father wrote that she continued to live in her solitude, and had prohibited the approach of anyone. At last I received a letter written in great trouble. One day, while at the house of my aunt, a message came informing him that she was seriously ill, which my aunt became so alarmed upon hearing that, notwithstanding her promise to the contrary, she insisted on accompanying him to the cottage.
 
@@ -778,6 +781,8 @@ A woman is essentially a loving being, and in all of life’s events wants only 
 
 I received a letter from my cousin Pedro. It was dated from Bogotá on his way back from Europe. When it was given to me I was so glad! I will hear at last a loving human voice that will bring me news from Antonio. I went out to the edge of the running stream, my favorite seat. I felt my dull heart beating against my side… I thought I heard Antonio’s voice in the low music of the murmuring water. He will send me a message, a kind word with Pedro, I thought. But oh! What a surprise! My cousin only speaks to me about Antonio’s marriage. Antonio’s marriage! Oh! Fool, fool that I have been in all these years!... I knew I would never see him again, but the idea that he would love another woman as he loved me never passes my mind. I woke as from a dream, it seemed to me the years that have gone were happy, oh! So happy while my delusion lasted… Everything around me spoke of him; there is not a corner in my cottage where he did not live in spirit; there is not a tree, a plant, a flower, a radiant star, a lovely weed, that is not in it something of Antonio for me… I don’t know what I felt; though it was midday everything was dark about me. I felt I was really dying. This news stabbed me to the heart. I only needed a strong emotion that my soul would leave forever this tainted body. I know, I have studied my malady too well not to know the symptoms of death. I have prepared everything for this last act of my miserable life… oh! Merciful God I am coming to thee at last! I love thee only… Antonio, my loved one on earth, has forgotten me, but oh! My Saviour, my Redeemer! Make Him as happy as thou hast made me unfortunate; instead of my long martyrdom give him felicity, give him health, give him success, give him joy… Now I am ready, and I will go to thee, Christ and rest forever on thy compassionate and tender Heart!...[^19]
 
+- - -
+
 [^1]: The author uses the initial N to refer to towns whose names she does not want to specify. In the 2021 edition of the novel published by Ediciones Uniandes, Carolina Alzate speculates that this could be referring to a town near Natagaima, currently in Tolima. She also noted that, at the time, universities were in the capital, Bogotá, and well-positioned young men went there to get education. Transportation was difficult, so students sometimes spent years abroad.
 
 [^2]: A *cachaco* was a young man in 19th-century Bogotá. Elegant and gentlemanly, he was different from the period’s “dandy” because he was not particularly thought of as overly concerned with his appearance. I have chosen to leave the term in the original Spanish because it was also used to mean traditional men from Bogotá - making it only of the city.
@@ -816,6 +821,7 @@ I received a letter from my cousin Pedro. It was dated from Bogotá on his way b
 
 [^19]: **Translator’s Note:** I have opted to leave the last diary entry the way Acosta de Samper translated it. Although she added some extra lines, the order and meaning remains the same as the Spanish version, only enhancing the images on some sections. I believe it is the right choice of ending for this edition. 
 
+
 ## BIBLIOGRAPHY
 
 Acosta de Samper, Soledad. *Dolores*. Bogotá: Ediciones Uniandes, 2021.
@@ -829,6 +835,7 @@ Acosta de Samper, Soledad. "Dolores: Cuadros de la vida de una mujer." In *Novel
 Alzare, Carolina. *Soledad Acosta de Samper y el discurso letrado de género, 1853-1881.* Bogotá: Iberoamericana, 2015.
 
 Alzate, Carolina & Ordóñez, Montserrat et al. *Soledad Acosta de Samper. Escritura, género y nación en el siglo XIX.* Editorial Iberoamericana Vervuert, 2005.
+
 
 ## GLOSSARY
 
@@ -875,6 +882,7 @@ Alzate, Carolina & Ordóñez, Montserrat et al. *Soledad Acosta de Samper. Escri
 
 * A *cachaco* was a young man in 19th-century Bogotá. Elegant and gentlemanly, he was different from the period’s “dandy” because he was not particularly thought of as overly concerned with his appearance. 
 * *Ñapangas* or *cintureras*: Mestiza or mulatta women who worked as peasants or domestic servants. According to Soledad Acosta de Samper in *Un chistoso de aldea* (1905), *cinturera* referred in the lowlands to women who wore skirts without bodices (Alzate, *Nuevo diccionario de americanismos*).
+
 
 ## CONTRIBUTOR BIOS
 
