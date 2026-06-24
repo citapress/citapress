@@ -39,11 +39,11 @@ hr {
   background-color: $blue;
   border: none;
   height: 2px;
-  margin-top: 2em;
-  margin-bottom: 1em;
+  margin-top: 2em; /* 50px */
+  margin-bottom: 1em; /* 50px */
   @media screen and (min-width: 768px) {
     width: 50%;
-    margin: 40px auto;
+    margin: 2em auto 1em auto; /* 40px auto*/
   }
 }
 
