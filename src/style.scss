@@ -18,6 +18,10 @@ h1, h2, h3, h4, p {
   text-rendering: optimizeLegibility;
 }
 
+h2 {
+  margin-block-start: 2em;
+}
+
 a {
   color: $primary-color;
   &:hover {
@@ -35,8 +39,8 @@ hr {
   background-color: $blue;
   border: none;
   height: 2px;
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin-top: 2em;
+  margin-bottom: 1em;
   @media screen and (min-width: 768px) {
     width: 50%;
     margin: 40px auto;
