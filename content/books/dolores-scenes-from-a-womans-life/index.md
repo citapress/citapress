@@ -79,7 +79,7 @@ Finally, I would like to extend my deepest thanks to Jessi Haley and Juliana Cas
 
 ## PART ONE
 
-> <small>***La nature est un drame avec de personnages.*** <br>
+> <small>*La nature est un drame avec de personnages.*<br>
 > Nature is a drama with characters.</small>
 >
 > <small>—VICTOR HUGO</small>
@@ -301,7 +301,7 @@ She did not reply but with a tender look intended for my absent friend; and then
 ## PART TWO
 
 > <small>*La douleur est une lumière qui nous èclaire la vie* <br>
-> *Pain is a light that illuminates our lives*</small>
+> Pain is a light that illuminates our lives</small>
 >
 > <small>—BALZAC</small>
 
