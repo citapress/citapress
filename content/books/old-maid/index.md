@@ -8,8 +8,8 @@ sortingdate: 2022-05-18T23:36:49.314Z
 templateKey: book-page
 author: Edith Wharton
 isbn: 978-1-961368-00-2
-post_image: https://ucarecdn.com/e02374a6-1c2e-4b79-8fb6-6e1ef9b6b84b/old-maid-cover.jpg
-square_image: https://ucarecdn.com/67758d5c-e9e0-4790-9ec1-1a20a636cb9d/old-maid-square.jpg
+post_image: /img/books/old-maid/post.jpg
+square_image: /img/books/old-maid/square.jpg
 download: The_Old_Maid_v3.pdf
 download_ebook: The_Old_Maid_v3.epub
 download_name: Download PDF

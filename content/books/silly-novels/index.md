@@ -8,8 +8,8 @@ sortingdate: 2018-04-07T00:06:01.342Z
 templateKey: book-page
 author: George Eliot
 isbn: 978-1-961368-10-1
-post_image: https://ucarecdn.com/f9913cec-bca4-406e-b598-22a299e3ae96/cover-silly-novels.png
-square_image: https://ucarecdn.com/6b0cbf5d-48f2-4f80-a259-319af121f74e/sillynovels.png
+post_image: /img/books/silly-novels/post.png
+square_image: /img/books/silly-novels/square.png
 download: ""
 language_link: novelas-tontas
 genre:

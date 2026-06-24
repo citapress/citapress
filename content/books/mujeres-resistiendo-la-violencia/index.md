@@ -8,8 +8,8 @@ sortingdate: 2017-11-01T22:43:00.000Z
 templateKey: book-page
 author: "Colectivo Women Resisting Violence "
 isbn: 978-1-961368-19-4
-post_image: https://ucarecdn.com/c3b975c9-812e-4ab5-a82a-f41b8fc027a8/
-square_image: https://ucarecdn.com/8e14e046-0435-404b-a7af-fd4f3b9970e8/template-book-contemporary-collection-thumbnail.jpg
+post_image: /img/books/mujeres-resistiendo-la-violencia/post.jpg
+square_image: /img/books/mujeres-resistiendo-la-violencia/square.jpg
 download: mujeres-resistiendo-la-violencia.pdf
 download_ebook: mujeres-resistiendo-la-violencia.epub
 download_name: Download PDF
@@ -351,7 +351,7 @@ Estas formas de violencia a menudo se desarrollan de manera impactante en ciudad
 
 Además del daño directo, la violencia de género puede afectar a las mujeres en zonas urbanas de maneras invisibles. La ansiedad y el miedo que las mujeres sienten mientras circulan por los espacios urbanos limita su derecho a la ciudad, incluso antes de que se produzca cualquier caso de violencia directa. El miedo también está encarnado en lo que autoras feministas como Keisha-Khan Perry (2013) han denominado *violencia lenta* o *muerte lenta* de dolor, ansiedad y depresión, que sienten particularmente las madres en Brasil cuyos hijos han sido asesinados o lesionados. Otras autoras como Christen Smith (2018) han utilizado el término *trauma persistente*, para referirse a los efectos físicos y emocionales de larga duración a causa de la violencia generalizada, a menudo sancionada por el Estado, que sufren particularmente las mujeres negras.<sup class="c16 c10"><a href="#ftnt21" id="ftnt_ref21">[21]</a></sup><span class="c2"> Las mujeres también se ven afectadas inmediatamente como parejas, esposas y madres que tendrán que asumir la responsabilidad exclusiva del sustento de sus familias. Otras capas de discriminación interseccional ‒que incluyen la orientación sexual y la identidad de género, los estándares de imagen corporal (cabello afro, piel oscura, lenguaje y acento, forma de vestir), las prácticas religiosas (donde las creencias y los rituales afrolatinoamericanos son principalmente estigmatizados) y los marcadores de actividad política‒ hacen que las personas sean más propensas a estar expuestas a formas de violencia perdurable. Reforzando estas formas de violencia interseccional y de género se encuentra la violencia perpetrada por el Estado y especialmente por la policía. La figura 1 destaca parte de la opresión interseccional cotidiana que experimentan las mujeres en Maré y destaca cómo las mujeres trans, las lesbianas, aquellas que son más masculinas y las mujeres de escasos recursos económicos están más expuestas a esa violencia.
 
-![dibujo observacional de las opresiones interseccionales](https://ucarecdn.com/f510cc7c-49a9-4f23-940d-7ea19990d340/ "dibujo observacional de las opresiones interseccionales")
+![dibujo observacional de las opresiones interseccionales](/img/coming-soon.jpg "dibujo observacional de las opresiones interseccionales")
 
 <p class="c15" id="h.41mghml"><b><i><center>Figura 1.1: Dibujo observacional de las opresiones interseccionales cotidianas que experimentan las mujeres en Maré, Río de Janeiro, basado en un grupo focal con cinco mujeres. Crédito: Mila de Choch (McIlwaine, 2022a).</b></i></center></p>
 
@@ -417,7 +417,7 @@ En términos de un panorama más amplio de la violencia urbana y los conflictos 
 
 <div class="full-width">
 
-![Tenemos derecho a cuidarnos a nosotras mismas». Ilustración basada en un grupo focal con cinco mujeres de Ma](https://ucarecdn.com/0e1fa585-f57a-46aa-87c7-d7e5252e83f9/ "Tenemos derecho a cuidarnos a nosotras mismas». Ilustración basada en un grupo de enfoque con cinco mujeres de Ma")
+![Tenemos derecho a cuidarnos a nosotras mismas». Ilustración basada en un grupo focal con cinco mujeres de Ma](/img/coming-soon.jpg "Tenemos derecho a cuidarnos a nosotras mismas». Ilustración basada en un grupo de enfoque con cinco mujeres de Ma")
 
 </div>
 
@@ -561,7 +561,7 @@ Durante la pandemia, además, las trabajadoras del hogar se vieron afectadas de 
 
 Las organizaciones de trabajadoras del hogar respondieron a la pandemia por medio de una campaña regional denominada Cuida a Quien te Cuida (#CuidaAQuienTeCuida). Esta fue lanzada inicialmente por sindicatos de trabajadoras del hogar de México, Argentina, Brasil y Chile, y luego se extendió por todo el continente en redes sociales. La campaña concientizó sobre la exposición al virus de las trabajadoras del hogar, incluso en cuarentena, y les proporcionó información sobre las medidas de protección que debían tomar si seguían trabajando durante la pandemia. En México, la campaña corrió a cargo del Centro Nacional para la Capacitación Profesional y Liderazgo de las Empleadas del Hogar (CACEH) y consiguieron el apoyo de artistas y productores de cine que se unieron a sus esfuerzos para concientizar a las personas empleadoras sobre los derechos de las trabajadoras del hogar [ver «<a class="c11" href="#h.1x0gk37">Lideresas inspiradoras que cambian percepciones</a>», en este capítulo]. Por medio de las redes sociales, la campaña instó a las trabajadoras y a sus empleadores a firmar un contrato escrito en el que se estipularan las horas de trabajo, las tareas, las vacaciones y los salarios.<sup class="c16 c10"><a href="#ftnt27" id="ftnt_ref27">\[27]</a></sup>
 
-![figura2_1](https://ucarecdn.com/69ab26c4-0c38-4a27-8e98-ea56dd120dbd/ "figura2_1")
+![figura2_1](/img/books/mujeres-resistiendo-la-violencia/body/figura2.1.jpeg "figura2_1")
 
 <p class="c15" id="h.3q5sasy"><center><b><i>Figura 2.1: Póster de la campaña Cuida a Quien te Cuida. Crédito: Contagio de Consciencia/Facebook.</center></b></i> </p>
 
@@ -612,7 +612,7 @@ En México, el CACEH fue establecido en el 2000 como un espacio autónomo para q
 
 CACEH apoya a las mujeres para que se conviertan en lideresas que promuevan y difundan los derechos y las obligaciones de las trabajadoras del hogar dentro de la comunidad. Una importante reciente innovación de CACEH fue una aplicación gratuita para teléfonos móviles llamada Dignas que está diseñada para ayudar a las trabajadoras a negociar con sus empleadores y garantizar que reciban sus derechos según la legislación laboral existente en México. La aplicación incluye un resumen de los derechos laborales y una calculadora que, por ejemplo, con datos sobre el salario y el tiempo de trabajo, puede indicar a la trabajadora el número de días de vacaciones y la bonificación anual que le corresponde, así como el importe de la compensación que por ley le corresponde en caso de despido. Marcelina Bautista (2022) de CACEH explica: «Dignas es una gran herramienta digital que está ayudando a las trabajadoras a calcular sus derechos laborales. Ahora lo estamos actualizando para incluir cálculos de otros derechos laborales».
 
-![figura2.2](https://ucarecdn.com/e4a6a2ca-fb5c-490f-b4fd-02882ce83b2a/ "figura2.2")
+![figura2.2](/img/books/mujeres-resistiendo-la-violencia/body/figura2_2_mujeres.jpeg "figura2.2")
 
 <p class="c15" id="h.3hv69ve"><center><b><i>Figura 2.2: La aplicación móvil Dignas. Crédito: CACEH, México.</center></b></i></p>
 CACEH ha organizado conjuntamente, con la Comisión Mexicana de Derechos Humanos, foros sobre los derechos y la dignidad centrándose en temas específicos que incluyen la discriminación y la VCMN en el lugar de trabajo. Para llegar a más mujeres, realizan talleres en los parques donde las trabajadoras del hogar suelen congregarse los domingos, su día libre. También ofrecen una serie de sesiones de formación sobre temas como la autoestima y el bienestar, el sistema de seguridad social, la seguridad y la salud, el liderazgo y la VCMN en el trabajo. Durante la pandemia, los cursos de capacitación se empezaron a hacer en línea, pero recientemente se reiniciaron las sesiones de capacitación presenciales en varios lugares del país.
@@ -692,7 +692,7 @@ La victoria política de Argentina en diciembre de 2020 sobre la legalización d
 
 Esta victoria, ampliamente celebrada, fue el resultado de una intensa campaña que en los últimos años se destacó por «los pañuelazos», cuyo símbolo son los *pañuelos verdes* en forma de bufandas, pulseras, blusas y hasta para cubrir sus caras que usan las activistas por el aborto. Argentina tiene una larga historia de activismo popular por la legalización del aborto. A principios de la década de 1980, el aborto formaba parte de las campañas feministas por la liberación sexual: una imagen icónica de la agenda feminista argentina de 1983 muestra a la activista feminista María Elena Oddone con una pancarta que decía: «No a la maternidad, sí al placer».
 
-![Maria Elena Oddone](https://ucarecdn.com/92572a32-efbb-4cd8-a0c1-8d81628d0945/ "María Elena Oddone sostiene un cartel que dice ‘No a la maternidad, sí al placer’ en 1984")
+![Maria Elena Oddone](/img/coming-soon.jpg "María Elena Oddone sostiene un cartel que dice ‘No a la maternidad, sí al placer’ en 1984")
 
 <p><b><i><center>Figura 3.1: María Elena Oddone sostiene un cartel que dice ‘No a la maternidad, sí al placer’ en 1984. Crédito: Wikimedia Commons.</b></i></center/></p>
 
@@ -797,7 +797,7 @@ Somos 2074 y Muchas Más es una asociación de organizaciones y redes feministas
 <h3 class="c14" id="h.184mhaj">Educación sexual </h3>
 El acceso a la información es primordial para la gestión de la fertilidad, al igual que el acceso a tipos de educación sexual que podrían reducir los estereotipos de género sobre el sexo y la sexualidad. Pero la educación sexual también ha sido un campo de batalla: muchos países de América Latina cuentan con directrices de educación sexual bien diseñadas, progresistas e inclusivas, preparadas por formuladores de políticas bien informados e integradas a guías acordadas internacionalmente. Sin embargo, en varios países, una nueva ola de conservadores morales se ha opuesto con éxito a estos programas.
 
-![figura 3.2](https://ucarecdn.com/d54987b4-a460-4a73-ab0b-ad61341e142f/ "figura 3.2")
+![figura 3.2](/img/coming-soon.jpg "figura 3.2")
 
 <p class="c15" id="h.3s49zyc"><b><i><center>Figura 3.2: Mujeres de la campaña Somos 2074 y Muchas Más contra la impunidad. Crédito: Somos 2074 y Muchas Más.</b></i></center></p>
 
@@ -966,7 +966,7 @@ El 3 de marzo de 2016 fue brutalmente asesinada por dos hombres que irrumpieron 
             
    
 
-![Figura 4.1: Berta Cáceres, líderesa indígena lenca, feminista y activista del medioambiente hondureña](https://ucarecdn.com/c1521bde-41e8-4f09-ab28-8a0d69aefbf5/ "Figura 4.1: Berta Cáceres, líderesa indígena lenca, feminista y activista del medioambiente hondureña")
+![Figura 4.1: Berta Cáceres, líderesa indígena lenca, feminista y activista del medioambiente hondureña](/img/coming-soon.jpg "Figura 4.1: Berta Cáceres, líderesa indígena lenca, feminista y activista del medioambiente hondureña")
 
 <p class="c15" id="h.14ykbeg"><b><i><center>Figura 4.1: Berta Cáceres, líderesa indígena lenca, feminista y activista del medioambiente hondureña. Crédito: Coolloud.</b></i></center></p>
 
@@ -1048,7 +1048,7 @@ En el ámbito nacional, otras redes de mujeres, junto con sus comunidades, han l
 
 > Somos trashumantes. Algunos de nosotros/as criamos cabras y hacemos quesos para el consumo local; otros/as tienen cultivos, y otros/as son pirquineros. Nosotro/as vivimos y producimos en armonía con nuestra Madre Tierra. Nuestra forma de vivir y producir es ancestral y protege nuestra biodiversidad. El impacto de la extracción de litio será devastador para nuestras comunidades y nuestro ecosistema: las empresas se van a seguir apropiando del agua y de las tierras, incluidas las que están en el salar de Maricunga. Las aguas, la tierra y el aire serán contaminadas. Cerrarán nuestras rutas tradicionales, las cuales seguimos para que nuestro ganado tenga pasto \[…], bloquearán el acceso a nuestros sitios sagrados ancestrales, destruirán nuestras formas de vivir y de producir \[…]. Se debe evitar el daño a nuestra Madre Tierra y a nuestras comunidades. \[…] Estamos sufriendo violencia estatal: se nos ha negado el acceso a nuestras tierras ancestrales y nos hemos visto obligados a arrendar terrenos en nuestros propios territorios \[…]. Estos terrenos pertenecen a familias del negocio minero que no viven aquí. Se nos ha negado nuestro derecho a la consulta previa e informada, como lo indica el Convenio 169. Por eso tuvimos que demandar al Gobierno. (Araya, 2022)
 
-![Figura 4.2: Ercilia Araya en el Primer Panel sobre las Violaciones de Derechos Humanos de Pueblos Indígenas en Dictadura.](https://ucarecdn.com/ac54dd7a-1a96-4cb4-8af5-667482e7a551/ "Figura 4.2: Ercilia Araya en el Primer Panel sobre las Violaciones de Derechos Humanos de Pueblos Indígenas en Dictadura.")
+![Figura 4.2: Ercilia Araya en el Primer Panel sobre las Violaciones de Derechos Humanos de Pueblos Indígenas en Dictadura.](/img/coming-soon.jpg "Figura 4.2: Ercilia Araya en el Primer Panel sobre las Violaciones de Derechos Humanos de Pueblos Indígenas en Dictadura.")
 
 <p class="c15" id="h.1vsw3ci"><b><i><center>Figura 4.2: Ercilia Araya en el Primer Panel sobre las Violaciones de Derechos Humanos de Pueblos Indígenas en Dictadura. Crédito: Observatorio Ciudadano (2018).</b></i></center></p>
 
@@ -1258,7 +1258,7 @@ Las respuestas del público a <i>Efêmera</i> en Brighton ponen de relieve la tr
 
 </div>
 
-![Figura 5.1: Póster de la obra de teatro Efêmera en Río de Janeiro, 2017.](https://ucarecdn.com/da8d28f1-cc71-451e-8721-e2caa99c16a5/ "Figura 5.1: Póster de la obra de teatro Efêmera en Río de Janeiro, 2017.")
+![Figura 5.1: Póster de la obra de teatro Efêmera en Río de Janeiro, 2017.](/img/coming-soon.jpg "Figura 5.1: Póster de la obra de teatro Efêmera en Río de Janeiro, 2017.")
 
 <p class="c15" id="h.1smtxgf"><b><i><center>Figura 5.1: Póster de la obra de teatro </i>Efêmera<i> en Río de Janeiro, 2017.</b></i></center></p>
 
@@ -1366,7 +1366,7 @@ Toda esta presión ha desembocado en un proceso judicial contra la directora del
 
 El arte feminista contemporáneo a menudo sitúa la memoria en su centro, como indica claramente el podcast sobre el caso del Hogar Seguro de Guatemala (Morris, 2021). Recordar en el arte es algo más que registrar acontecimientos o experiencias para la posteridad. Especialmente en el arte feminista, la memoria funciona a menudo como una reflexión sobre el presente, como un cuestionamiento o quizás como un espejo de las injusticias actuales. Artistas como Doris Salcedo (Bogotá, 1958), Natalia Iguiñiz (Lima, 1973), Lucila Quieto (Buenos Aires, 1977) y Claudia Martínez Garay (Ayacucho, 1983) recurren a la memoria personal y colectiva para reflexionar sobre el trauma, la pérdida y sus secuelas. Al hacerlo, también denuncian la violencia que causó el daño, aliando su arte al activismo feminista. Aparte de sus representaciones fotográficas más estáticas de las ruinas físicas de la violencia, Natalia Iguiñiz también ha creado una investigación basada en el arte sobre una activista feminista concreta brutalmente asesinada por la violencia política en 1992. Al examinar la vida y obra de María Elena Moyano, asesinada y dinamitada por Sendero Luminoso en un acto comunitario, Iguiñiz reflexiona sobre el trato que recibió Moyano por parte de aliados y enemigos políticos, y ofrece un espejo a los activistas y los políticos contemporáneos. Las múltiples identidades de Moyano como feminista y organizadora política y la intersección de factores de desigualdad que la afectaron como mujer negra de origen pobre hicieron su vida vulnerable, así como ejemplar para muchos otros.</span><sup class="c16 c10"><a href="#ftnt53" id="ftnt_ref53">\[53]</a></sup><span class="c2"> De hecho, en respuesta a la pregunta en torno a lo que es el arte conmemorativo, Amanda Jara, hija del cantante de protesta chileno Víctor Jara dice: «Es mirarnos a nosotros mismos, y ver de dónde venimos, lo que hemos hecho, es mirarnos en el espejo» (Morris &amp; McGibbon, 2017).
 
-![Independencia de Buscando a María Elena](https://ucarecdn.com/45ebcb3f-792f-4bee-92df-3c132a84dafd/ "Figura 6.1")
+![Independencia de Buscando a María Elena](/img/coming-soon.jpg "Figura 6.1")
 
 <p class="c15" id="h.44bvf6o"><center><i><b>Figura 6.1: </i>Independencia de Buscando a María Elena,<i> 2011. Crédito: Natalia Iguiñiz. </b></i></p></center>
 
