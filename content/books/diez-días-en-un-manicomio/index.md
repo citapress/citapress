@@ -8,8 +8,8 @@ sortingdate: 2016-11-01T11:21:00.000Z
 templateKey: book-page
 author: Nellie Bly
 isbn: 978-1-961368-23-1
-post_image: https://ucarecdn.com/0b04fe2e-4af2-4345-9e99-2ba8314dbb14/diez_dias_cover.jpg
-square_image: https://ucarecdn.com/039a60c3-2d99-4652-ada6-1d619d00f658/diez_dias_square.jpg
+post_image: /img/books/diez-días-en-un-manicomio/post.jpg
+square_image: /img/books/diez-días-en-un-manicomio/square.jpg
 language_link: ten-days-in-a-mad-house
 genre:
   - nonfiction
@@ -104,7 +104,7 @@ Tenía escasa confianza en mi capacidad para engañar a los expertos en locura, 
 
 A mí sola me correspondieron las preparaciones preliminares de mi calvario. Sólo se decidió una cosa de antemano: que debía ocultarme bajo el seudónimo de Nellie Brown, cuyas iniciales coincidían con las de mi propio nombre y con el monograma de mis sábanas, para que no hubiera problema en seguir el rastro de mis movimientos y asistirme en cualquier dificultad o peligro en que pudiera verme envuelta. Había formas de ingresar al pabellón para dementes, pero yo no las conocía. Podía seguir uno de dos caminos. O bien, fingía demencia en casa de ciertos amigos y me hacía ingresar voluntariamente con el acuerdo de dos médicos competentes, o podía llegar a mi destino por vía de las cortes judiciales.
 
-![Nellie practica la demencia en casa](https://ucarecdn.com/c93d293a-cbd4-4def-85c3-33d85e71721a/tempImage1tRIr3.heic "Nellie practica la demencia en casa")
+![Nellie practica la demencia en casa](/img/books/diez-días-en-un-manicomio/body/1-nellie.png "Nellie practica la demencia en casa")
 
 Tras reflexionar, creí más prudente no incordiar a mis amigos ni conseguir que ningún médico bondadoso me ayudara en mi propósito. Además, para ayudarme a llegar a Blackwell’s Island, mis amigos habrían tenido que fingir pobreza y, por desgracia, para el fin que perseguía, mi relación con los desventurados, excepto conmigo misma, era muy superficial. Así, decidí el plan que me llevó a cumplir con éxito mi misión. Conseguí que me internaran en el pabellón de dementes de Blackwell's Island, donde pasé diez días y diez noches y viví una experiencia que nunca olvidaré. Asumí el papel de una pobre y desafortunada loca, y sentí que era mi deber no eludir ninguno de los resultados desagradables que surgieran. Me convertí en una de las locas de la ciudad durante ese tiempo, tuve muchas experiencias y vi y oí más acerca del tratamiento concedido a esta clase indefensa de nuestra población, y cuando había visto y oído lo suficiente, mi liberación fue rápidamente asegurada. Abandoné el manicomio con placer y pesar: placer por poder disfrutar de la vida una vez más, y pesar por no poder llevar conmigo a algunas de las desventuradas mujeres que vivieron y sufrieron a mi lado, quienes, estoy convencida, están tan cuerdas como yo misma lo estaba y lo sigo estando.
 
@@ -270,7 +270,7 @@ Respondí que eso creía. 
 
 Le dije que no lo sabía, y luego la señora Stanard le dio un montón de información sobre mí: le habló de mi extraño comportamiento al llegar al Hogar, de cómo no había pegado ojo en toda la noche y que, en su opinión, yo era una pobre desafortunada que había enloquecido tras recibir tratos inhumanos. La señora Stanard y los otros dos oficiales hablaron otro rato, y se ordenó a Tom Bockert que nos llevara hasta el tribunal en un coche. 
 
-![En manos de la policía](https://ucarecdn.com/d37b72f0-9bbc-4915-8798-7e7fc58b031e/tempImage1VTMFZ.heic "En manos de la policía")
+![En manos de la policía](/img/books/diez-días-en-un-manicomio/body/2-policia.png "En manos de la policía")
 
 –Ven conmigo –dijo Bockert–, encontraré ese baúl tuyo. 
 
@@ -324,7 +324,7 @@ En ese punto, alguien más que había escuchado el breve diálogo afirmó que ha
 
 Comencé a temblar por algo que era más que frío, y miré al extraño grupo de gente a mi alrededor, compuesto por hombres y mujeres de humilde vestimenta, con historias de dificultades, abuso y pobreza impresas en el rostro. Algunos conversaban ansiosamente con sus amigos, mientras que otros permanecían sentados con una mirada de absoluta desesperanza. Aquí y allá se veían funcionarios bien vestidos y alimentados que observaban la escena con pasividad, casi con indiferencia. Para ellos era el mismo cuento de siempre. Una desafortunada más que se añadía a una larga lista que hacía tiempo había dejado de ser interesante o preocupante para ellos.
 
-![Nellie ante el juez Duffy](https://ucarecdn.com/06e03b97-1566-444c-97a7-c1aef04d761f/tempImageZdpF6m.heic "Nellie ante el juez Duffy")
+![Nellie ante el juez Duffy](/img/books/diez-días-en-un-manicomio/body/3-duffy.png "Nellie ante el juez Duffy")
 
 –Ven aquí, niña, y descúbrete el rostro –instó el juez Duffy, en un tono que me sorprendió por la rudeza, que me parecía impensable en ese amable rostro suyo. 
 
@@ -436,7 +436,7 @@ Luego, volviéndose hacia la señora Stanard, le preguntó si no podía alojarme
 
 Pero saqué la lengua, y él la observó de manera sagaz. Luego me tomó el pulso y escuchó los latidos de mi corazón. No tenía ni idea de cómo debía latir el corazón de una persona loca, así que contuve el aliento mientras él escuchaba, hasta que, cuando el médico se retiró, tuve que tomar una bocanada de aire. Después, el doctor estudió el efecto de la luz en mis pupilas. Sosteniendo su mano a medio palmo de mi cara, me dijo que la observara y, retirándola con presteza, examinó mis ojos. Me quedé intrigada por cómo se vería la locura en el ojo, así que pensé que lo mejor que podía hacer en esas circunstancias era mirar al vacío. Eso hice, mantuve los ojos fijos y sin parpadear frente a su mano, y, cuando la apartó, hice todo lo posible por seguir sin parpadear.
 
-![Un experto en locura trabajando](https://ucarecdn.com/e839d24f-65e9-479f-8a35-efa6cb790082/tempImagenxlMsD.heic "Un experto en locura trabajando")
+![Un experto en locura trabajando](/img/books/diez-días-en-un-manicomio/body/4-experto.png "Un experto en locura trabajando")
 
 –¿Qué drogas has estado tomando? –me preguntó entonces. 
 
@@ -542,7 +542,7 @@ Así que me puse el chal raído por las polillas, abrigándome con su olor a enc
 
 –¿No lo sabe usted? En Cuba.
 
-![Positivamente loca](https://ucarecdn.com/4349a660-732c-4d61-8cd0-65f46b44cb14/tempImage6u61rh.heic "Positivamente loca")
+![Positivamente loca](/img/books/diez-días-en-un-manicomio/body/5-doctor.png "Positivamente loca")
 
 Procedió a sentarse junto a mí, me tomó el pulso, examinó mi lengua y, por último, dijo:
 
@@ -886,7 +886,7 @@ Me condujeron a la habitación 28 y me dejaron ahí, intentando abrirme un hueco
 
 –Bueno, no deberías esperar ninguna amabilidad en este sitio, porque no vas a recibirla – dijo ella, y salió cerrando la puerta tras de sí. 
 
-![Su dormitorio](https://ucarecdn.com/7bb471ca-5af9-4c5a-ba17-0fd351c6bea0/tempImageFg4S1Q.heic "Su dormitorio")
+![Su dormitorio](/img/books/diez-días-en-un-manicomio/body/6-dormitorio.png "Su dormitorio")
 
 Debajo de mí había una sábana y un hule, y me cubría una sábana y una manta negra de lana. Nunca sentí nada tan molesto como la manta de lana cuando trataba de mantenerla sobre mis hombros para evitar que el frío se colara debajo. Cuando la jalaba hacia arriba, mis pies quedaban al descubierto; cuando la bajaba, mis hombros quedaban expuestos. No había en el cuarto absolutamente nada, excepto la cama y yo misma. Como habían cerrado la puerta, imaginé que me dejarían sola toda la noche, pero me llegó el sonido de dos mujeres marchando con pies pesados por el pasillo. Se detenían frente a cada puerta, la abrían y, unos momentos después, se oía que la cerraban de nuevo. Hicieron todo eso, a lo largo del pasillo y hasta llegar a mi puerta, sin esforzarse en lo más mínimo en guardar silencio. Ahí se detuvieron un instante; introdujeron la llave en la cerradura y la giraron. Observé a quienes estaban a punto de entrar, con sus vestidos a rayas blancas y marrones, abrochados con botones de latón, largos delantales blancos, un ancho cinturón en la cintura del que colgaban un montón de llaves, y pequeñas cofias blancas en la cabeza. Dado que iban vestidas como las asistentas diurnas, supe que eran enfermeras. La primera llevaba una linterna y dirigió su haz hacia mi rostro mientras le decía a su compañera:
 
@@ -988,7 +988,7 @@ Pasaron de largo, pero otras ocuparon sus lugares. ¿Pueden imaginar esa visión
 
 Miré los bellos jardines, que creí reconfortantes para las pobres criaturas confinadas en la isla, y me reí de mis propias ideas. ¿Cómo podrían disfrutarlos? No se les permite tocar el césped; sólo está ahí para contemplarlo. Vi a algunas pacientes que recogían con impaciencia y cuidado una nuez o una hoja que había caído en su camino, pero no se les permitía conservarlas. Las enfermeras siempre las instaban a tirar aquellos pedacitos de consuelo divino. 
 
-![Reclusas tranquilas de paseo](https://ucarecdn.com/06a23f34-2b16-4a20-9dab-e5db79dd47dc/tempImagehYl2vf.heic "Reclusas tranquilas de paseo")
+![Reclusas tranquilas de paseo](/img/books/diez-días-en-un-manicomio/body/7-reclusas.png "Reclusas tranquilas de paseo")
 
 Al pasar por un pabellón bajo, donde estaban recluidas incontables lunáticas, leí un lema inscrito en el muro: “Mientras haya vida, hay esperanza”. Lo absurdo del mensaje me golpeó con una auténtica sacudida. Me hubiera gustado escribir sobre las rejas que conducen al manicomio: “Aquella que entre debe dejar afuera la esperanza”. 
 

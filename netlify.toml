@@ -1,8 +1,0 @@
-[images]
-  # Uploadcare serves uploads from both the legacy ucarecdn.com host and
-  # per-project CDN subdomains (e.g. 2x3xqwnyz5.ucarecd.net). Allow both so
-  # new CMS uploads don't get rejected with a 400 by the image proxy.
-  remote_images = [
-    "https://ucarecdn\\.com/.*",
-    "https://.*\\.ucarecd\\.net/.*"
-  ]

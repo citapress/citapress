@@ -8,8 +8,8 @@ sortingdate: 2021-10-12T23:48:09.231Z
 templateKey: book-page
 author: Mary Wollstonecraft Shelley
 isbn: 978-1-961368-13-2
-post_image: https://ucarecdn.com/03466662-6504-4ec2-ae25-bdcfc02b6492/cover-mathilda.jpg
-square_image: https://ucarecdn.com/c9aac782-38ec-443f-b13c-af711e2cdffd/thumbnail-mathilda.jpg
+post_image: /img/books/mathilda/post.jpg
+square_image: /img/books/mathilda/square.jpg
 genre:
   - fiction
   - novella

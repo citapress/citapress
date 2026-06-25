@@ -3,20 +3,6 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 
 media_folder: static/img
-
-media_library:
-  name: uploadcare
-  config:
-    publicKey: '1d116da9be63b10bf383'
-  settings:
-    autoFilename: true
-    previewStep: true
-    # Uploadcare stores the bare CDN URL, which for HEIC uploads (iPhone/Mac
-    # default) can't be decoded by the browser or the Netlify image proxy.
-    # Appending a format conversion makes every stored cover a web format.
-    # Resizing stays on Netlify, so this is one cached transform per image.
-    defaultOperations: '/format/auto/'
-
 public_folder: /img
 
 collections:
@@ -25,8 +11,8 @@ collections:
     folder: 'content/books'
     create: true
     slug: 'index'
-    media_folder: ''
-    public_folder: ''
+    media_folder: '/static/img/books'
+    public_folder: '/img/books'
     path: '{{title}}/index'
     editor:
       preview: false
@@ -40,8 +26,8 @@ collections:
       - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'book-page' }
       - { label: 'Author', name: 'author', widget: 'string' }
       - { label: 'ISBN', name: 'isbn', widget: 'string' }
-      - { label: 'Post Image (max 500kb - preferable .jpg - lowercase name - no spaces)', name: post_image, widget: image, required: true, media_library: [{config: [{max_file_size: 62500}]}] }
-      - { label: 'Square Thumbnail (max 500kb - preferable .jpg - lowercase name - no spaces square)', name: square_image, widget: image, required: true, media_library: [{config: [{max_file_size: 62500}]}] }
+      - { label: 'Post Image (max 500kb - preferable .jpg - lowercase name - no spaces)', name: post_image, widget: image, required: true }
+      - { label: 'Square Thumbnail (max 500kb - preferable .jpg - lowercase name - no spaces square)', name: square_image, widget: image, required: true }
       - { label: 'Download guide', name: 'download', widget: 'string', required: false }
       - { label: 'Second Download Link', name: 'download_ebook', widget: 'string', required: false }
       - { label: 'Second Download Title', name: 'download_name', widget: 'string', required: false }

@@ -19,8 +19,8 @@ foreword: 'Cover: <a href="http://irinakoryagina.com/">Irina Koryagina</a>, a
 date: 2012-05-01T22:12:03.284Z
 title: La clarisa pobre
 isbn: 978-1-961368-06-4
-post_image: https://ucarecdn.com/d2513f19-c2b4-4e89-8794-a6839604966b/cover-poor-clare.jpg
-square_image: https://ucarecdn.com/7e1ed5de-8296-442f-850a-5e917086b881/thumbnail-poor-clare.jpg
+post_image: /img/books/la-clarisa-pobre/post.jpg
+square_image: /img/books/la-clarisa-pobre/square.jpg
 download_ebook: ""
 time_period:
   - 19th

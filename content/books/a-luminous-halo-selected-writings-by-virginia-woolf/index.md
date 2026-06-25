@@ -8,8 +8,8 @@ sortingdate: ""
 templateKey: book-page
 author: Virginia Woolf
 isbn: 978-1-961368-21-7
-post_image: https://ucarecdn.com/1cd7f200-ae15-4c87-b281-91471bb8d919/woolfcover.jpeg
-square_image: https://ucarecdn.com/195e4c4b-cfb3-4e67-97fa-16cfc6d952d8/woolfthumbnail.jpeg
+post_image: /img/books/a-luminous-halo-selected-writings-by-virginia-woolf/post.jpg
+square_image: /img/books/a-luminous-halo-selected-writings-by-virginia-woolf/square.jpg
 download: a-luminous-halo.pdf
 download_ebook: a-luminous-halo.epub
 download_name: Download PDF
@@ -53,7 +53,7 @@ foreword: >-
   <p><b>Cover:</b> Mariana Matos is an interdisciplinary designer based in Detroit, MI. She is the Communications & Design Coordinator for Cita Press. 
 published: true
 ---
-![The Sitting Room Logo: The silhouette of two woman sitting at a table in old-timey dresses. One writes with a quill while the other reads. ](https://ucarecdn.com/a8b6ff34-25a2-4e61-893c-a270297690b2/Sitting-Room-Logo.jpg "Sitting Room Logo")
+![The Sitting Room Logo: The silhouette of two woman sitting at a table in old-timey dresses. One writes with a quill while the other reads. ](/img/books/a-luminous-halo-selected-writings-by-virginia-woolf/body/Sitting-Room-Logo.jpg "Sitting Room Logo")
 
 ## ACKNOWLEDGEMENTS
 

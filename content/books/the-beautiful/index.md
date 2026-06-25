@@ -8,8 +8,8 @@ sortingdate: 2018-04-12T00:30:54.040Z
 templateKey: book-page
 author: Vernon Lee
 isbn: 978-1-961368-15-6
-post_image: https://ucarecdn.com/391207df-b8b0-4fcf-a3fb-54986df07fcb/cover-the-beautiful.png
-square_image: https://ucarecdn.com/8a92bc18-e556-4bf1-ad7e-fe4451e7a375/thebeautiful.png
+post_image: /img/books/the-beautiful/body/cover-the-beautiful.png
+square_image: /img/books/the-beautiful/square.png
 genre:
   - nonfiction
   - essay
@@ -32,7 +32,7 @@ description: >-
 foreword: "Cover: Juliana Castro Varón is a Colombian graphic designer and
   author, and the founder and design director of Cita Press."
 ---
-![Cover of The Beautiful, featuring colorful abstract shapes on a white background](https://ucarecdn.com/391207df-b8b0-4fcf-a3fb-54986df07fcb/cover-the-beautiful.png "Cover, The Beautiful")
+![Cover of The Beautiful, featuring colorful abstract shapes on a white background](/img/books/the-beautiful/body/cover-the-beautiful.png "Cover, The Beautiful")
 
 <p>CONTENTS</p><br>
   <ul class="toc">
