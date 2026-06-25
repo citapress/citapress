@@ -839,6 +839,8 @@ Alzate, Carolina & Montserrat Ordóñez, et al. *Soledad Acosta de Samper. Escri
 
 Petit, Julien, Juan Pablo Fajardo González, equipo TRansHistor(ia), Patricia Córdoba Ibagos, Ignacio Martínez Villalba,  Lucas Ospina Villalba, José Andrés Díaz Ruíz, & Natalia Gutiérrez Montes. *Tipo lito calavera: historias del diseño gráfico en Colombia en el siglo XX*. Bogotá: Banco de la República, 2022. 
 
+**Explore more:** https://www.are.na/cita-press/dolores-scenes-from-a-woman-s-life
+
 \---
 
 ## GLOSSARY
