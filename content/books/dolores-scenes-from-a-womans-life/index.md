@@ -4,7 +4,7 @@ publication: 2026-06-12T14:02:00.000-07:00
 publishformat: Month and year
 release: 1867-06-05T12:30:00.000-07:45
 releaseformat: Year
-sortingdate: 1901-06-25T07:57:00.000Z
+sortingdate: 1897-02-02T07:57:00.000Z
 templateKey: book-page
 author: Soledad Acosta de Samper
 isbn: 978-1-961368-24-8
