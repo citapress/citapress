@@ -889,6 +889,8 @@ Petit, Julien, Juan Pablo Fajardo González, equipo TRansHistor(ia), Patricia C�
 * A *cachaco* was a young man in 19th-century Bogotá. Elegant and gentlemanly, he was different from the period’s “dandy” because he was not particularly thought of as overly concerned with his appearance. 
 * *Ñapangas* or *cintureras*: Mestiza or mulatta women who worked as peasants or domestic servants. According to Soledad Acosta de Samper in *Un chistoso de aldea* (1905), *cinturera* referred in the lowlands to women who wore skirts without bodices (Alzate, *Nuevo diccionario de americanismos*).
 
+---
+
 ## CONTRIBUTOR BIOS
 
 **Sara Abadía Alvarado** is a Colombian writer and educator. She studied Literature at Universidad de los Andes, where she first encountered the work of Soledad Acosta de Samper, an author with whom she continues to hold an ongoing dialogue. Her work has appeared in *070*, *NACLA*, and with Laguna Press. In 2023, she was selected for *Anthology III* of the New York Book Fair for her short story “Anamorfosis.” *En medio de una noche eterna* is her debut novel, written during her Master’s program in Creative Writing in Spanish at NYU, under the supervision and guidance of Rita Indiana, Amelia Bande, and Silvina López Medín. She currently lives in Boston, where she teaches theater to young people in East Boston. She writes with deliberate ambition and a sustained belief in literature’s power to outlast time.
