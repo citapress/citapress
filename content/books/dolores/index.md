@@ -870,6 +870,8 @@ Petit, Julien, Juan Pablo Fajardo González, equipo TRansHistor(ia), Patricia C�
 
 **Más información:** https://www.are.na/cita-press/dolores-scenes-from-a-woman-s-life
 
+---
+
 ## BIOGRAFÍAS DE LAS COLABORADORAS
 
 **Sara Abadía Alvarado** es una escritora y educadora colombiana. Estudió Literatura en la Universidad de los Andes, donde descubrió la obra de Soledad Acosta de Samper, autora con quien mantiene un diálogo constante. Realizó un MFA en escritura creativa en español en la Universidad de Nueva York, donde escribió su primera novela y tradujo poesía bajo la tutoría de Mariela Dreyfus. Ha publicado relatos y artículos en *070*, *NACLA* y con la editorial Laguna. En 2023 fue seleccionada para la *Antología III* de la Feria del Libro de Nueva York con su cuento “Anamorfosis”. Actualmente vive en Boston, donde enseña teatro a jóvenes de East Boston. Escribe desde una ambición consciente y una fe persistente en la capacidad de la literatura para trascender el tiempo.
