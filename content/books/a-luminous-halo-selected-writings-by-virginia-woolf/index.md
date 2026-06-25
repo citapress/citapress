@@ -63,9 +63,11 @@ published: true
 
 *JoAnn Borri, curator of the Woolf Wall at The Sitting Room Library, is a guest editor and the curator of this collection.* 
 
-- - -
+<svg id="colon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 124 59">
+  <path d="M0,11.9L11,0l10.9,11.9-10.9,11.8L0,11.9ZM0,46.3l11-11.9,10.9,11.9-10.9,11.8L0,46.3ZM50.6,11.9L61.6,0l10.9,11.9-10.9,11.8-11-11.8ZM50.6,46.3l11-11.9,10.9,11.9-10.9,11.8-11-11.8ZM101.2,11.9L112.3,0l10.9,11.9-10.9,11.8-11-11.8ZM101.2,46.3l11-11.9,10.9,11.9-10.9,11.8-11-11.8Z"/>
+</svg>
 
-*This book would not exist without several friendships for which I am eternally thankful, and the partnership created between the Sitting Room Library and Cita Press. I am forever indebted to J. J. Wilson for the unfettered access to the Woolf Wall and archives, and for expanding and guiding my understanding of the works of Virginia Woolf.  Also, my deepest thanks to Jessi Haley who took seriously my idea of organizing these selected writings into a single collection, and made it happen. Thanks also to Juliana Castro Varón, Mariana Matos and Educopia, and my dear Sitting Room friends who cheered me on as this book was becoming a reality.* 
+*This book would not exist without several friendships for which I am eternally thankful, and the partnership created between the Sitting Room Library and Cita Press. I am forever indebted to J. J. Wilson for the unfettered access to the Woolf Wall and archives, and for expanding and guiding my understanding of the works of Virginia Woolf. Also, my deepest thanks to Jessi Haley who took seriously my idea of organizing these selected writings into a single collection, and made it happen. Thanks also to Juliana Castro Varón, Mariana Matos and Educopia, and my dear Sitting Room friends who cheered me on as this book was becoming a reality.* 
 
 *And, of course I will be forever grateful for Virginia Woolf herself. Reading Woolf—her novels, essays, diaries, and letters—has filled my mind with thoughts, questions and ideas that have enriched my life.* 
 
