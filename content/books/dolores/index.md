@@ -46,7 +46,9 @@ Gracias a Sara por confiar en Cita este proyecto, y por su atención cuidadosa c
 
 La dirección artística y el diseño editorial para este libro es de Mariana Matos y guiado por la visión de diseño de Juliana Castro Varón. Jessi Haley editó la traducción inglés. Jasmine Jones proveía apoyo editorial y promocional. 
 
-Al fin, estamos profundamente agradecidas a Sharon Bard, cuyo patrocinio expandió las posibilidades para esta edición y apoyó directamente el trabajo de nuestros colaboradores.  
+Al fin, estamos profundamente agradecidas a Sharon Bard, cuyo patrocinio expandió las posibilidades para esta edición y apoyó directamente el trabajo de nuestros colaboradores. 
+
+- - -  
 
 ## PRÓLOGO DE LA TRADUCTORA
 
@@ -66,10 +68,12 @@ Todas estas razones hacen de *Dolores* un reto particularmente fascinante para u
 
 Para terminar, quiero agradecer infinitamente a Jessi Haley y a Juliana Castro Varón por hacer posible Cita Press y por darle un hogar a miles de mujeres escritoras que, como Soledad, no siempre encuentran cabida en circuitos editoriales verdaderamente feministas y democráticos. Me atrevo a decir que la autora estaría exultante al ver a *Dolores* llegar a tantos lectores alrededor del mundo. Gracias, gracias.
 
+- - - 
+
 ## PARTE PRIMERA
 
 > <small>*La nature est un drame avec des personnages.*\
-> *La naturaleza es un drama con personajes.*</small>
+> La naturaleza es un drama con personajes.</small>
 >
 > <small>–VÍCTOR HUGO</small>
 
@@ -307,10 +311,12 @@ Nos desmontamos, y sacando mi tía algunos dulces y un coco curiosamente engasta
 
 No replicó sino con solo una mirada tierna que se dirigía a mi amigo ausente, y continuó conversación alegremente. ¡Pobre niña!..., pero feliz todavía en su ignorancia de lo porvenir.
 
+- - - 
+
 ## PARTE SEGUNDA
 
 > <small>*La douleur est une limière nous éclaire la vie.* \
->*El dolor es una luz que ilumina nuestra vida.*</small>
+>El dolor es una luz que ilumina nuestra vida.</small>
 
 > <small>–BALZAC </small>
 
@@ -666,6 +672,8 @@ Me despedía prometiéndole hablar con mi tía, lo que efectivamente hice, procu
 
 Algunos días después me reuní con mi compañero en Honda y bajamos el Magdalena sin novedad, embarcándonos en Santamarta a principios del siguiente mes.
 
+- - - 
+
 ## PARTE TERCERA
 
 > <small>*Sólo busco en la selva más lejana* \
@@ -677,8 +685,8 @@ Algunos días después me reuní con mi compañero en Honda y bajamos el Magdale
 > <small>*Je meurs, et sur ma tomble, ou lentement j'arrive,*\
 > *nul ne viendra verser des pleurs.*</small>
 >
-> <small>*Me muero, y sobre mi tumba, a la que llego lentamente,*\
-> *nadie vendrá a derramar lágrimas.*</small>
+> <small>Me muero, y sobre mi tumba, a la que llego lentamente,\
+> nadie vendrá a derramar lágrimas.</small>
 >
 > <small>—GILBERT   </small>            
 
@@ -726,7 +734,9 @@ Al fin entre otras cartas recibí la siguiente, de Dolores:
 >
 > Así se hizo. Conversamos tranquilamente, en apariencia, del modo como arreglaría mi vida, pero teníamos el corazón despedazado. Cuando llegamos al estrecho camino que recordarás, me adelanté en silencio y al cruzar por la vereda que conduce a mi choza volví involuntariamente la cara: al través de los árboles vi a mi tía que se había detenido y me miraba partir con profunda pena. ¡Probablemente no la volveré a ver jamás!»
 
-- - -
+<svg id="colon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 124 59">
+  <path d="M0,11.9L11,0l10.9,11.9-10.9,11.8L0,11.9ZM0,46.3l11-11.9,10.9,11.9-10.9,11.8L0,46.3ZM50.6,11.9L61.6,0l10.9,11.9-10.9,11.8-11-11.8ZM50.6,46.3l11-11.9,10.9,11.9-10.9,11.8-11-11.8ZM101.2,11.9L112.3,0l10.9,11.9-10.9,11.8-11-11.8ZM101.2,46.3l11-11.9,10.9,11.9-10.9,11.8-11-11.8Z"/>
+</svg>
 
 Por mucho tiempo no volví a recibir noticias de Dolores: mi padre me decía apenas que continuaba en su soledad y había prohibido que nadie se le acercase. Una vez me escribió lleno de tribulación. Parece que un día le vinieron a decir que Dolores estaba sumamente indispuesta: él se hallaba en la hacienda de mi tía y no pudo evitar que supiese lo que decían de Dolores. La tía Juana se alarmó y quiso a todo trance, y si acordarse de su promesa, acompañar a mi padre a la choza de mi prima.
 
@@ -752,7 +762,9 @@ Mejor será trascribir ahora una parte de la carta que recibí de Dolores, dánd
 >
 > Mi espíritu es un caos: mi existencia una horrible pesadilla. Mándame, te lo suplico, algunos libros. Quiero alimentar mi espíritu con bellas ideas: deseo vivir con los muertos y comunicar con ellos.»
 
-- - -
+<svg id="colon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 124 59">
+  <path d="M0,11.9L11,0l10.9,11.9-10.9,11.8L0,11.9ZM0,46.3l11-11.9,10.9,11.9-10.9,11.8L0,46.3ZM50.6,11.9L61.6,0l10.9,11.9-10.9,11.8-11-11.8ZM50.6,46.3l11-11.9,10.9,11.9-10.9,11.8-11-11.8ZM101.2,11.9L112.3,0l10.9,11.9-10.9,11.8-11-11.8ZM101.2,46.3l11-11.9,10.9,11.9-10.9,11.8-11-11.8Z"/>
+</svg>
 
 La carta de Dolores me impresionó vivamente. Comprendí que su carácter tan dulce había cambiado con el sufrimiento, y esto me dio la medida de sus penas. Busqué algunos libros buenos y se los envié. Durante los siguientes años recibí apenas algunas breves cartas de Dolores: el fondo de ellas era una tristeza desgarradora a veces, con cierta incredulidad religiosa y odio al género humano en sus pensamientos, que me llenaban de pena. Mi padre me escribía que nunca la había vuelto a ver, pero que mandaba una persona todas las semanas a llevarle lo que podía necesitar y recoger noticias de ella.
 
@@ -794,7 +806,9 @@ Yo cumplí con mi deber. Asistí al entierro. Había dispuesto que la enterrasen
 
 Entre sus papeles hallé un testamento a mi favor y varias composiciones en prosa y verso. He aquí algunos fragmentos de un diario que llevaba y que hacen comprender mejor su carácter y los horribles padecimientos morales que sufría, sus vacilaciones y su desesperación.
 
-- - -
+<svg id="colon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 124 59">
+  <path d="M0,11.9L11,0l10.9,11.9-10.9,11.8L0,11.9ZM0,46.3l11-11.9,10.9,11.9-10.9,11.8L0,46.3ZM50.6,11.9L61.6,0l10.9,11.9-10.9,11.8-11-11.8ZM50.6,46.3l11-11.9,10.9,11.9-10.9,11.8-11-11.8ZM101.2,11.9L112.3,0l10.9,11.9-10.9,11.8-11-11.8ZM101.2,46.3l11-11.9,10.9,11.9-10.9,11.8-11-11.8Z"/>
+</svg>
 
 **23 de junio de 1843** 
 
@@ -835,6 +849,8 @@ La mujer es esencialmente amante, y en todos los acontecimientos de la vida quie
 «Ya todo acabó para mí. Pronto moriré: mi mano apenas puede trazar estas líneas con dificultad. ¡Cuánto había deseado este día! pero ¿porqué no he tenido la dicha de morir antes, cuando tenía una ilusión? Acaso soy injusta; pero este golpe aflojó, por decirlo así, la última, cadena que me ligaba a la existencia. Recibí una carta de Pedro fechada en Bogotá: ¡pobre primo mío! pensé al abrirla; pronto podré oír tu voz; y también por él tendré alguna noticia directa de Antonio... Mi corazón latía con una dulce emoción y me sentía desfallecer. Me senté a orillas del riachuelo que corre murmurando cerca de mi habitación. ¡Con cuánto gusto había visto llegar al sirviente que trajo la carta! La imagen de Antonio vagaba en torno mío...
 
 Después de leer las primeras líneas una nube pasó ante mis ojos. Pedro me daba parte del matrimonio de Antonio ¡el matrimonio de Antonio! ¿Por qué rehusaba creerlo al principio? No es él libre para amar a otra? Sin embargo, la desolación más completa, más agobiadora se apoderó de mí: me hinqué sobre la playa y me dejé llevar por toda la tempestad de mi dolor. Me veía sola, ¡oh! ¡cuán sola!, sin la única simpatía que anhelaba. Todo en torno mío me hablaba de Antonio, y sólo su recuerdo poblaba mi triste habitación. No había rincón de mi choza, no había árbol o flor en mi jardín, ni estrella en el azul del cielo, ni pajarillo, que trinara, que no me dijera algo en nombre de él. Mi vida hacía parte de su recuerdo; ¿y ahora? Él ama a otra ¡qué absurda idea! ¡a cuántas no habrá amado desde que nos separamos! ¡Cosa rara! esto no me había preocupado antes, y ahora esta idea no me abandona un momento. Como que mi alma esperaba este último desengaño para desprenderse de este cuerpo miserable. Comprendo que todos los síntomas son de una pronta muerte. ¡Gracias, Dios mío! Dejo ya todo sufrimiento; pero él es mi pensamiento en estos momentos supremos: ¡oh! ¡*él* me olvidará y será dichoso!»
+
+- - - 
 
 ## BIBLIOGRAPHÍA
 
