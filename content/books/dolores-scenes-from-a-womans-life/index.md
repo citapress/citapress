@@ -1,16 +1,16 @@
 ---
 title: "Dolores: Scenes from a Woman's Life"
 publication: 2026-06-12T14:02:00.000-07:00
-publishformat: Month and year
+publishformat: Year
 release: 1867-06-05T12:30:00.000-07:45
-releaseformat: Year
+releaseformat: Month and year
 sortingdate: 1897-02-02T07:57:00.000Z
 templateKey: book-page
 author: Soledad Acosta de Samper
 isbn: 978-1-961368-24-8
 post_image: /img/books/dolores-scenes-from-a-womans-life/post.jpeg
 square_image: /img/books/dolores-scenes-from-a-womans-life/square.jpeg
-language_link: https://citapress.org/es/dolores/
+language_link: citapress.org/es/dolores/
 genre:
   - fiction
   - novella
@@ -54,7 +54,6 @@ Thank you to Sara for trusting Cita with this project, and for her thoughtful at
 The art direction and editorial design for this book is by Mariana Matos, guided by the design vision of Juliana Castro Varón. Jessi Haley edited the English translation. Jasmine Jones provided editorial and promotional support. 
 
 Finally, we are deeply grateful to Sharon Bard, whose sponsorship expanded the possibilities for this edition and directly supported the work of our contributors.
-
 
 ## TRANSLATOR'S FOREWORD
 
@@ -822,7 +821,6 @@ I received a letter from my cousin Pedro. It was dated from Bogotá on his way b
 
 [^19]: **Translator’s Note:** I have opted to leave the last diary entry the way Acosta de Samper translated it. Although she added some extra lines, the order and meaning remains the same as the Spanish version, only enhancing the images on some sections. I believe it is the right choice of ending for this edition. 
 
-
 ## BIBLIOGRAPHY
 
 Acosta de Samper, Soledad. *Dolores*. Bogotá: Ediciones Uniandes, 2021.
@@ -833,10 +831,15 @@ Acosta de Samper, Soledad. *Dolores: Cuadros de la vida de una mujer.* Serialize
 
 Acosta de Samper, Soledad. "Dolores: Cuadros de la vida de una mujer." In *Novelas y cuadros de la vida Sur-America*. Gante:  Imprenta de Eug. Vanderhaeeghen, 1869. https://www.cervantesvirtual.com/obra-visor/novelas-y-cuadros-de-la-vida-suramericana--0/html/ff243e56-82b1-11df-acc7-002185ce6064_2.html#I\_0\_
 
+Alzate, Carolina & Isabel Corpas de Posada. *Biblioteca Digital de Acosta de Samper.* Universidad de los Andes & Biblioteca Nacional de Colombia. Est. 2019. https://soledadacosta.uniandes.edu.co/
+
 Alzare, Carolina. *Soledad Acosta de Samper y el discurso letrado de género, 1853-1881.* Bogotá: Iberoamericana, 2015.
 
-Alzate, Carolina & Ordóñez, Montserrat et al. *Soledad Acosta de Samper. Escritura, género y nación en el siglo XIX.* Editorial Iberoamericana Vervuert, 2005.
+Alzate, Carolina & Montserrat Ordóñez, et al. *Soledad Acosta de Samper. Escritura, género y nación en el siglo XIX.* Madrid: Editorial Iberoamericana Vervuert, 2005.
 
+Petit, Julien, Juan Pablo Fajardo González, equipo TRansHistor(ia), Patricia Córdoba Ibagos, Ignacio Martínez Villalba,  Lucas Ospina Villalba, José Andrés Díaz Ruíz, & Natalia Gutiérrez Montes. *Tipo lito calavera: historias del diseño gráfico en Colombia en el siglo XX*. Bogotá: Banco de la República, 2022. 
+
+\---
 
 ## GLOSSARY
 
@@ -883,7 +886,6 @@ Alzate, Carolina & Ordóñez, Montserrat et al. *Soledad Acosta de Samper. Escri
 
 * A *cachaco* was a young man in 19th-century Bogotá. Elegant and gentlemanly, he was different from the period’s “dandy” because he was not particularly thought of as overly concerned with his appearance. 
 * *Ñapangas* or *cintureras*: Mestiza or mulatta women who worked as peasants or domestic servants. According to Soledad Acosta de Samper in *Un chistoso de aldea* (1905), *cinturera* referred in the lowlands to women who wore skirts without bodices (Alzate, *Nuevo diccionario de americanismos*).
-
 
 ## CONTRIBUTOR BIOS
 
