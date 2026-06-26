@@ -38,7 +38,7 @@ published: false
 ---
 ## AGRADECIMIENTOS
 
-Soledad Acosta de Samper siempre ha pertenecido al catálogo de Cita Press. Nuestra fundadora, Juliana Castro Varón, es de Colombia, donde el legado de Samper ha continuado a crear más oportunidades para las mujeres incluso en el periodo en el que el reconocimiento de ella fue injustamente escaso. Finalmente podemos darle la bienvenida oficialmente a nuestra biblioteca, gracias a Sara Abadía Alvarado, quien nos trajo este proyecto. Somos entusiasmadas ser parte de compartir un legado feminista esencial en inglés y español con lectores de todo el mundo. 
+Soledad Acosta de Samper siempre ha pertenecido al catálogo de Cita Press. Nuestra fundadora, Juliana Castro Varón, es de Colombia, donde el legado de Samper ha continuado a crear más oportunidades para las mujeres incluso en el periodo en el que el reconocimiento de ella fue injustamente escaso. Finalmente podemos darle la bienvenida oficialmente a nuestra biblioteca, gracias a Sara Abadía Alvarado, quien nos trajo este proyecto. Estamos entusiasmadas de ser parte de un legado feminista esencial en inglés y español con lectores de todo el mundo. 
 
 Este libro no existiría sin la erudición de Carolina Alzate y Monserrat Ordóñez, cuyos trabajos han regresado a Soledad al primer plano. También estamos en deuda hacia La Biblioteca Virtual del Banco de la República para asegurar que la fuente para esta traducción sea disponible para todos, y a la Biblioteca Digital Soledad Acosta de Samper mantenido por la Universidad de de los Andes y la Biblioteca Nacional de Colombia. 
 
@@ -850,7 +850,7 @@ Después de leer las primeras líneas una nube pasó ante mis ojos. Pedro me dab
 
 - - -
 
-## BIBLIOGRAPHÍA
+## BIBLIOGRAFÍA
 
 Acosta de Samper, Soledad. *Dolores*. Bogotá: Ediciones Uniandes, 2021.
 
