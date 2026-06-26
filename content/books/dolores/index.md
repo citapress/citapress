@@ -40,7 +40,7 @@ published: false
 
 Soledad Acosta de Samper siempre ha pertenecido al catálogo de Cita Press. Nuestra fundadora, Juliana Castro Varón, es de Colombia, donde el legado de Samper ha continuado a crear más oportunidades para las mujeres incluso en el periodo en el que el reconocimiento de ella fue injustamente escaso. Finalmente podemos darle la bienvenida oficialmente a nuestra biblioteca, gracias a Sara Abadía Alvarado, quien nos trajo este proyecto. Estamos entusiasmadas de ser parte de un legado feminista esencial en inglés y español con lectores de todo el mundo. 
 
-Este libro no existiría sin la erudición de Carolina Alzate y Monserrat Ordóñez, cuyos trabajos han regresado a Soledad al primer plano. También estamos en deuda hacia La Biblioteca Virtual del Banco de la República para asegurar que la fuente para esta traducción sea disponible para todos, y a la Biblioteca Digital Soledad Acosta de Samper mantenido por la Universidad de de los Andes y la Biblioteca Nacional de Colombia. 
+Este libro no existiría sin la erudición de Carolina Alzate y Monserrat Ordóñez, cuyos estudios han traído a Soledad a la luz otra vez. También estamos en deuda hacia La Biblioteca Virtual del Banco de la República para asegurar que la fuente para esta traducción sea disponible para todos, y a la Biblioteca Digital Soledad Acosta de Samper mantenido por la Universidad de de los Andes y la Biblioteca Nacional de Colombia. 
 
 Gracias a Sara por confiar en Cita este proyecto, y por su atención cuidadosa como traductora y escritora. Gracias a Mariana Sanín Angel por crear una portada que está en conversación directa con el texto y con el paisaje natural y la historia de diseño de Colombia.
 
