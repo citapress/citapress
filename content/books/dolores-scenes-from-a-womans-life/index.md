@@ -35,9 +35,9 @@ description: >-
 
   <p>The book was made possible thanks to the generous sponsorship of writer Sharon Bard.</p>
 foreword: >-
-  <b>Translation & Foreword: </b> Sara Abadía Alvarado is a literary scholar and
-  professor of performing arts based in Boston. <i>En medio de una noche
-  eterna</i> is her debut novel.
+  <b>Translation & Foreword: </b> Sara Abadía Alvarado is a Colombian writer and
+  educator based in Boston, where she teaches theater to young people. <i>En
+  medio de una noche eterna</i> is her debut novel.
 
 
   <p><b> Cover:</b> Mariana Sanín A. is an illustrator and designer from Colombia. She also likes writing poems, short stories and haikus for children (and grownups).</p>
