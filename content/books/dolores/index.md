@@ -10,7 +10,7 @@ author: Soledad Acosta de Samper
 isbn: 978-1-961368-25-5
 post_image: /img/books/dolores/post.jpeg
 square_image: /img/books/dolores/square.jpeg
-language_link: https://citapress.org/dolores-scenes-from-a-womans-life/
+language_link: /dolores-scenes-from-a-womans-life
 genre:
   - fiction
   - novella
