@@ -6,6 +6,7 @@ import Layout from "../components/layout/layout"
 import Seo from "../components/seo"
 import TextConfiguration from '../components/textConfiguration/textConfiguration';
 import { resizedImage, responsiveSrcSet } from "../utils/image"
+import slugFromLink from "../utils/slugFromLink"
 
 const PORTRAIT_WIDTHS = [200, 397, 800];
 const PORTRAIT_ASPECT = 397 / 612;
@@ -21,7 +22,7 @@ const BookPostReadTemplate = ({
   const coverSource = post.frontmatter.post_image;
   const coverSrc = resizedImage(coverSource, { width: 397, height: 612 });
   const coverSrcSet = responsiveSrcSet(coverSource, PORTRAIT_WIDTHS, { aspectRatio: PORTRAIT_ASPECT });
-  const where = post.frontmatter.language_link ? `${post.frontmatter.language_link}/read` : null;
+  const where = post.frontmatter.language_link ? `${slugFromLink(post.frontmatter.language_link)}/read` : null;
   const postReference = useRef(null);
 
   const checkFormat = (f) => {

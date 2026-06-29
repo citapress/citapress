@@ -10,7 +10,7 @@ author: Santa Teresa de Jesús (Santa Teresa de Ávila)
 isbn: 978-1-961368-03-3
 post_image: /img/books/meditaciones-sobre-los-cantares/post.jpg
 square_image: /img/books/meditaciones-sobre-los-cantares/square.jpg
-language_link: meditations-on-the-song-of-songs
+language_link: meditaciones
 genre:
   - nonfiction
   - essay

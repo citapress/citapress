@@ -5,7 +5,7 @@ release: 1924-07-10T23:12:03.284Z
 templateKey: book-page
 author: Edith Wharton
 download: http://link.com
-language_link: la-solterona
+language_link: old-maid
 genre:
   - short-stories
 theme:

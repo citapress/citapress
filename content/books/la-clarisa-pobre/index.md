@@ -4,7 +4,7 @@ release: 2019-05-01T22:12:03.284Z
 templateKey: book-page
 author: Elizabeth Gaskell
 download: ""
-language_link: poor-clare
+language_link: poor-claire
 genre:
   - novella
 theme:
