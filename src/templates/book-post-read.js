@@ -6,6 +6,7 @@ import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import Layout from "../components/layout/layout"
 import Seo from "../components/seo"
 import TextConfiguration from '../components/textConfiguration/textConfiguration';
+import slugFromLink from "../utils/slugFromLink"
 
 const BookPostReadTemplate = ({
   data: { previous, next, site, markdownRemark: post },
@@ -15,7 +16,7 @@ const BookPostReadTemplate = ({
   const isBrowser = typeof window !== "undefined"
   const siteTitle = site.siteMetadata?.title || `Title`;
   const image = getImage(post.frontmatter.post_image);
-  const where = `${post.frontmatter.language_link}/read`;
+  const where = `${slugFromLink(post.frontmatter.language_link)}/read`;
   const postReference = useRef(null);
 
   const checkFormat = (f) => {

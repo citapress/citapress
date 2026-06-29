@@ -13,7 +13,7 @@ square_image: thumbnail-sui-sin-far2.jpg
 download: citapress.org
 download_ebook: citapress.org
 download_name: ""
-language_link: citapress.org
+language_link: ""
 genre:
   - short-stories
   - essay

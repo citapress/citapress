@@ -7,7 +7,7 @@ isbn: "1231232131232112"
 post_image: old-maid-cover-ES.jpg
 square_image: old-maid-square-ES.jpg
 download: http://link.com
-language_link: la-solterona
+language_link: old-maid
 genre:
   - short-stories
 time_period:
