@@ -41,7 +41,7 @@ foreword: >-
 
 
   <p><b> Cover:</b> Mariana Sanín A. is an illustrator and designer from Colombia. She also likes writing poems, short stories and haikus for children (and grownups).</p>
-published: false
+published: true
 ---
 ## ACKNOWLEDGEMENTS
 
