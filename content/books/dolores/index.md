@@ -34,7 +34,7 @@ foreword: >-
 
 
   <p><b>Portada:</b> Mariana Sanín A. es ilustradora y diseñadora de Colombia. También le gusta escribir poemas, relatos cortos, y haikus para niños (y adultos).  </p>
-published: false
+published: true
 ---
 ## AGRADECIMIENTOS
 
