@@ -33,8 +33,8 @@ const AboutIndex = ({ location, intl }) => {
                 <h3 className="bluu">Manifesto:</h3>
                 <ul>
                   <li>To elevate the work of those who first addressed gender inequality </li>
-                  <li>To use open-source resources and actively credit them </li>
-                  <li>To maintain the content in open-access platforms, licenses and formats</li>
+                  <li>To use open source resources and actively credit them </li>
+                  <li>To maintain the content in open access platforms, licenses and formats</li>
                   <li>To give free access to the content</li>
                   <li>To make visible and celebrate the work of contributors</li>
                   <li>To pair classic literature with contemporary open scholarship and design</li>
