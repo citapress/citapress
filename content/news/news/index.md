@@ -3,9 +3,19 @@ title: News
 lang: en
 templateKey: news-page
 ---
+## 2026
+
+* **July 2026 (Event)** Join Cita's editorial director Jessi Haley at the Eureka Valley/Harvey Milk Branch for "[New Life in the Public Domain](https://sfpl.org/events/2026/07/25/speaker-new-life-public-domain)," part of Summer Stride programming at the San Francisco Public Library, on July 25! 
+* July 2026 (Press)
+* July 2026 (Announcement)
+* June 2026 (Publication)
+* May 2026 (Event)
+* April 2026 (Event)
+* March 2026 (Event)
+
 ## 2025
 
-* **November 2025 (Event)** Cita is part of the Book Exhibit at [PAMLA's 122nd Annual Conference](https://www.pamla.org/pamla2025/) in San Francisco[](https://www.instagram.com/detroitartbookfair/?hl=en). We'll join other presses and booksellers at the InterContinental (floors 3-4) from November 20-23. 
+* **November 2025 (Event)** Cita is part of the Book Exhibit at [PAMLA's 122nd Annual Conference](https://www.pamla.org/pamla2025/) in San Francisco. We'll join other presses and booksellers at the InterContinental (floors 3-4) from November 20-23. 
 * **November 2025 (Announcement)** Cita has signed the [Open Heritage Statement ](< https://openheritagestatement.org/ >)to support a global call for equitable access to public domain heritage in the digital environment.
 * **October 2025 (Event)** We'll be at the[ Detroit Art Book Fair](<>)! Join us at Trinosophes on Saturday, October 11 (12-6 pm) and Sunday, October 12 (12-4 pm). 
 * **October 2025 (Event)** On Tuesday, October 14 from 7-9 pm PT, Cita editorial director Jessi Haley is on the Litquake panel “Scribbling Women” Strike Back!, hosted by Mrs. Dalloway's in Berkeley.  This band of women is taking a multifaceted approach all with the same aim: to recover the voices of women who have been erased or lost. Free; suggested donation $10-$15. [RSVP + details here](https://litquake2025.sched.com/event/28SCE/scribbling-women-strike-back). 
