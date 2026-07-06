@@ -97,12 +97,12 @@ const BlogIndex = ({ data, location, intl }) => {
           </span>
           .{" "}
           <a
-            href="https://www.youtube.com/watch?v=F21bP9pydE0"
+            href="https://www.zeffy.com/en-US/ticketing/cita-presss-memberships"
             target="_blank"
             rel="noreferrer"
-            data-title="Youtube"
+            data-title="Membership"
           >
-            Watch our video
+           Support our work
           </a>
           ,{" "}
           <a href="https://citapress.substack.com" data-title="Collaborate">
