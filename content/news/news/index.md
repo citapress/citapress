@@ -6,12 +6,12 @@ templateKey: news-page
 ## 2026
 
 * **July 2026 (Event)** Join Cita's editorial director Jessi Haley at the Eureka Valley/Harvey Milk Branch for "[New Life in the Public Domain](https://sfpl.org/events/2026/07/25/speaker-new-life-public-domain)," part of Summer Stride programming at the San Francisco Public Library, on July 25! 
-* July 2026 (Press)
-* July 2026 (Announcement)
-* June 2026 (Publication)
-* May 2026 (Event)
-* April 2026 (Event)
-* March 2026 (Event)
+* **July 2026 (Press)** "[Why Soledad Acosta de Samper’s *Dolores* is a Unicorn in the Practice of Translation](https://www.are.na/block/47495487?blockId=47495487&blockProfileId=cita-press&blockChannelId=dolores-scenes-from-a-woman-s-life&mode=Show&intent=title)" by Sara Abadía Alvarado is in *Literary Hub*, alongside [an excerpt](https://lithub.com/dolores/) from her translation of the text for Cita Press.
+* **July 2026 (Announcement)** Cita launches Book Friends: our new membership program. [Learn more and support our work](https://www.zeffy.com/en-US/ticketing/cita-presss-memberships)! 
+* **June 2026 (Publication)** *Dolores* by Soledad Acosta de Samper is out now — in English and in Spanish! Translation and foreword by Sara Abadía Alvarado; cover by Mariana Sanín A. 
+* **May 2026 (Event)** Cita is an exhibitor at the fifth annual [Santa Rosa Zine Fest ](https://www.santarosazinefest.com)at the Northwest Santa Rosa Library on May 2. 
+* **April 2026 (Event)** We're partnering with The Ruby to host a [Transcribe Harper \[Pizza] Party](https://luma.com/hq2y5umj) in San Francisco on April 30. Come transcribe poems and eat (free) pizza with us! 
+* **March 2026 (Event)** On Tuesday, March 24, Cita will be cohosting a Transcribe Harper \[Pizza] Party at the Sitting Room Library in Penngrove, CA. [Details here.](https://sittingroomlibrary.org/news-%26-events)
 
 ## 2025
 
