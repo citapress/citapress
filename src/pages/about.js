@@ -42,8 +42,10 @@ const AboutIndex = ({ location, intl }) => {
                   <li>To be participatory, crowdsourced and open to new voices and collaborations</li>
                 </ul>
                 <p>
-                  <span className="bluu">Advisory Board:</span> <a href="https://openreflections.wordpress.com/" target="_blank" rel="noreferrer">Janneke Adema</a>, Gita Manaktala, and <a href="https://educopia.org/jessica-meyerson/" target="_blank" rel="noreferrer">Jessica Meyerson</a>.
+                  <span className="bluu">Advisory Board:</span> <a href="https://openreflections.wordpress.com/" target="_blank" rel="noreferrer">Janneke Adema</a>, <a href="https://julianacastro.co/" target="_blank" rel="noreferrer">Juliana Castro Varón</a>, Gita Manaktala, and <a href="https://educopia.org/jessica-meyerson/" target="_blank" rel="noreferrer">Jessica Meyerson</a>.
                 </p>
+                  <p><span className="bluu">Get involved: </span> Support our work by becoming a <a href="https://www.zeffy.com/en-US/ticketing/cita-presss-memberships/" target="_blank" rel="noreferrer">Book Friend!</a>
+          </p>
               </>
             ) : (
               <>
@@ -67,8 +69,7 @@ const AboutIndex = ({ location, intl }) => {
             <p><span className="bluu">How:</span> <span className="blue">cita</span> is a collaborative labor of love between designers and writers that relies on public domain writings and open source texts, fonts, code, and images. All the content of <span className="blue">cita</span> is either in the public domain or licensed under a Creative Commons license, meaning it’s free forever, and available for reuse and adaptation (see individual books for specific licenses and terms). We also publish a free monthly newsletter on feminist literary and design history: <a href="https://citapress.substack.com">Cita Press Bulletin</a>.</p>
             <p><span className="bluu">Why:</span> Women authors have historically been underrepresented and underpublicized in the male-dominated, profit-driven publishing industry. We make these women writers’ works accessible to all, in free editions. While the work we have published so far is by women, we are interested in publishing work by writers whose genders have been historically marginalized in the publishing and literary&nbsp;landscape.</p>
             <p><span className="bluu">Who:</span> <span className="blue">cita</span> is fiscally sponsored by Educopia and financially supported by the Mellon Foundation. Read more about <a href="https://educopia.org/cita-press-scaling-small/" target="_blank" rel="noreferrer">Cita Press - Scaling Small</a>, a three-year project project implementing new projects and funding models for the press. <span className="blue">cita</span> was created by <a href="http://julianacastro.co" target="_blank" rel="noreferrer">Juliana Castro</a>. <span className="blue">cita</span>'s Editorial Director is Jessi Haley and our Communications and Design Coordinator is Mariana Matos. We work in collaboration with a growing list of <a href="https://citapress.org/people/">contributors</a>.</p>
-          <p><span className="bluu">Get involved: </span> Support our work by becoming a <a href="https://www.zeffy.com/en-US/ticketing/cita-presss-memberships/" target="_blank" rel="noreferrer">Book Friend!</a>
-          </p>
+          
           ) : (
           <>
             <p><span className="bluu">Qué:</span> Libros de dominio público cuidadosamente diseñados escritos por mujeres en ediciones contemporáneas gratuitas para impresión y web.</p>
