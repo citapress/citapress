@@ -8,7 +8,7 @@ sortingdate: 2016-11-01T11:21:00.000Z
 templateKey: book-page
 author: Nellie Bly
 isbn: 978-1-961368-23-1
-post_image: /img/books/diez-días-en-un-manicomio/post.jpg
+post_image: /img/books/diez_dias_cover.jpg
 square_image: /img/books/diez-días-en-un-manicomio/square.jpg
 language_link: ten-days-in-a-mad-house
 genre:
