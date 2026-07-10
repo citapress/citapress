@@ -10,7 +10,7 @@
   "dependencies": {
     "gatsby": "^5.15.0",
     "gatsby-plugin-feed": "^5.15.0",
-    "gatsby-plugin-google-analytics": "^5.15.0",
+    "gatsby-plugin-google-gtag": "^5.16.0",
     "gatsby-plugin-intl": "^5.10.0",
     "gatsby-plugin-manifest": "^5.15.0",
     "gatsby-plugin-offline": "^6.15.0",

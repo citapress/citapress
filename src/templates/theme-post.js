@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 import { injectIntl, Link } from "gatsby-plugin-intl"
 
 import Layout from "../components/layout/layout"
+import Seo from "../components/seo"
 import { resizedImage, responsiveSrcSet } from "../utils/image"
 
 const SQUARE_WIDTHS = [300, 600, 900];
@@ -64,6 +65,18 @@ const ThemeBookPostTemplate = ({
         })}
       </ul>
     </Layout>
+  )
+}
+
+export const Head = ({ location }) => {
+  const theme = location.pathname.split('/').filter(Boolean).slice(-1)[0] || 'Theme';
+  const label = theme.replace(/-/g, ' ');
+  return (
+    <Seo
+      title={`Books about ${label}`}
+      description={`Free feminist books about ${label}, published open-access by Cita Press.`}
+      pathname={location.pathname}
+    />
   )
 }
 

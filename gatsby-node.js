@@ -294,6 +294,7 @@ exports.createSchemaCustomization = ({ actions }) => {
     type SiteSiteMetadata {
       author: Author
       siteUrl: String
+      image: String
       social: Social
     }
 
@@ -317,6 +318,14 @@ exports.createSchemaCustomization = ({ actions }) => {
       sortingdate: Date @dateformat
       templateKey: String
       published: Boolean
+      author: String
+      isbn: String
+      post_image: String
+      square_image: String
+      language_link: String
+      genre: [String]
+      theme: [String]
+      time_period: [String]
       download_name: String
       third_download: String
       third_download_name: String

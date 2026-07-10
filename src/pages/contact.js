@@ -54,4 +54,10 @@ export default injectIntl(ContactIndex)
  *
  * See: https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-head/
  */
-export const Head = () => <Seo title="Contact" />
+export const Head = ({ location }) => (
+  <Seo
+    title="Contact"
+    description="Get in touch with Cita Press — questions, suggestions, and collaborations are welcome at info@citapress.org."
+    pathname={location.pathname}
+  />
+)

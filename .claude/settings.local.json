@@ -1,38 +1,22 @@
 {
   "permissions": {
     "allow": [
-      "Bash(npm outdated:*)",
-      "Bash(npm view:*)",
-      "Bash(do echo:*)",
-      "Bash(npm show:*)",
-      "Bash(cat:*)",
-      "Bash(node *)",
-      "Bash(curl -sS -i \"https://citapress.org/.netlify/images?url=https%3A%2F%2Fucarecdn.com%2F195e4c4b-cfb3-4e67-97fa-16cfc6d952d8%2Fwoolfthumbnail.jpeg&w=600&h=600&fit=cover\")",
-      "Bash(curl -s \"https://citapress.org/dolores-scenes-from-a-womans-life/read/\")",
+      "Bash(git pull *)",
       "Bash(git fetch *)",
+      "Bash(git ls-remote *)",
+      "Bash(sed -i '' 's/^language_link: citapress.org$/language_link: \"\"/' cypherpunk-women/index.md an-immortal-book-selected-writings-by-sui-sin-far/index.md)",
+      "Bash(sed -i '' 's/^language_link: la-solterona$/language_link: old-maid/' la-solterona/index.md)",
+      "Bash(sed -i '' 's/^language_link: poor-clare$/language_link: poor-claire/' la-clarisa-pobre/index.md)",
+      "Bash(sed -i '' 's/^language_link: meditations-on-the-song-of-songs$/language_link: meditaciones/' meditaciones-sobre-los-cantares/index.md)",
       "Bash(git ls-tree *)",
-      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" \"https://2x3xqwnyz5.ucarecd.net/8d906255-9cfd-4691-ab66-7a2d0c5d4bc3/comingsoon.jpg\")",
-      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" \"https://ucarecdn.com/8d906255-9cfd-4691-ab66-7a2d0c5d4bc3/comingsoon.jpg\")",
-      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" \"https://citapress.org/.netlify/images?url=https%3A%2F%2F2x3xqwnyz5.ucarecd.net%2F8d906255-9cfd-4691-ab66-7a2d0c5d4bc3%2Fcomingsoon.jpg&w=397&h=612&fit=cover\")",
-      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" \"https://citapress.org/.netlify/images?url=https%3A%2F%2Fucarecdn.com%2F8d906255-9cfd-4691-ab66-7a2d0c5d4bc3%2Fcomingsoon.jpg&w=397&h=612&fit=cover\")",
-      "Bash(git fsck *)",
-      "Bash(git -C /tmp/citapress-origin merge-base --is-ancestor a6b6ab5 origin/master)",
-      "Bash(cp .claude/settings.local.json /tmp/settings.local.json.bak)",
+      "Bash(git stash *)",
+      "Bash(git checkout *)",
+      "Bash(sed -i '' 's#^language_link: https://citapress.org/dolores-scenes-from-a-womans-life/$#language_link: dolores-scenes-from-a-womans-life#' dolores/index.md)",
+      "Bash(sed -i '' 's#^language_link: dolores/$#language_link: dolores#' dolores-scenes-from-a-womans-life/index.md)",
       "Bash(git add *)",
-      "Bash(git commit *)",
-      "WebSearch",
-      "WebFetch(domain:uploadcare.com)",
-      "Bash(nslookup 2x3xqwnyz5.ucarecd.net)",
-      "Bash(nslookup ucarecdn.com)",
-      "Bash(curl -s -o /dev/null -w \"  custom net : http=%{http_code} dns=%{time_namelookup}s\\\\n\" \"https://2x3xqwnyz5.ucarecd.net/887b97a8-8af9-40da-b3bc-cbaa6c80067c/\")",
-      "Bash(curl -s -o /dev/null -w \"  ucarecdn   : http=%{http_code} dns=%{time_namelookup}s\\\\n\" \"https://ucarecdn.com/887b97a8-8af9-40da-b3bc-cbaa6c80067c/\")",
-      "Bash(curl -s -o /dev/null -w \"  awakening via prod proxy: http=%{http_code}\\\\n\" \"https://citapress.org/.netlify/images?url=https%3A%2F%2Fucarecdn.com%2Fa8deaafb-320d-41b8-a829-ae87f1642bbb%2Fcover-the-awakening.png&w=300&h=300&fit=cover\")",
-      "Bash(curl -s -o /dev/null -w \"  uploadcare demo file: http=%{http_code}\\\\n\" \"https://ucarecdn.com/a6f8abc8-f92e-4d4d-9e9b-7e7e0c8d3b3a/\")",
-      "Bash(dig +short ucarecd.net)",
-      "Bash(dig +short NS ucarecd.net)",
-      "Bash(curl -s \"https://citapress.org/\")"
-    ],
-    "deny": [],
-    "ask": []
+      "Bash(git commit -q -m 'Normalize language_link to slug and fix broken pairs *)",
+      "Bash(git push *)",
+      "Bash(git rebase *)"
+    ]
   }
 }

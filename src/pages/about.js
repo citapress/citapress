@@ -86,4 +86,10 @@ const AboutIndex = ({ location, intl }) => {
 }
 
 export default injectIntl(AboutIndex)
-export const Head = () => <Seo title="About" />
+export const Head = ({ location }) => (
+  <Seo
+    title="About"
+    description="Cita Press celebrates and distributes the work of women authors in the public domain, inspired by the open-source and radical publishing movements."
+    pathname={location.pathname}
+  />
+)

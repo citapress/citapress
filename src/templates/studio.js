@@ -87,7 +87,13 @@ const StudioTemplate = ({
 
 export default injectIntl(StudioTemplate)
 
-export const Head = () => <Seo title="Studio" />
+export const Head = ({ location }) => (
+  <Seo
+    title="Studio"
+    description="Cita Press Studio: design and publishing experiments from the Cita Press community."
+    pathname={location.pathname}
+  />
+)
 
 export const pageQuery = graphql`
   query studioListQuery($language: String!) {

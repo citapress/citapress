@@ -529,4 +529,10 @@ const PeopleIndex = ({ location, intl }) => {
 
 export default injectIntl(PeopleIndex);
 
-export const Head = () => <Seo title="People" />;
+export const Head = ({ location }) => (
+  <Seo
+    title="People"
+    description="Meet the editors, designers, and collaborators behind Cita Press."
+    pathname={location.pathname}
+  />
+);

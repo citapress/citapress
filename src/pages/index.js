@@ -188,7 +188,43 @@ export default injectIntl(BlogIndex)
  *
  * See: https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-head/
  */
-export const Head = () => <Seo title="All Books" />
+export const Head = ({ location }) => (
+  <Seo
+    title="Free Books by Women"
+    description="Cita Press is an intersectional feminist indie press publishing open-access books authored by women, free to read and download in English and Spanish."
+    pathname={location.pathname}
+  >
+    <script type="application/ld+json">
+      {JSON.stringify({
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Organization",
+            "@id": "https://citapress.org/#org",
+            name: "Cita Press",
+            url: "https://citapress.org",
+            logo: "https://citapress.org/img/cita.jpg",
+            description:
+              "Feminist indie press publishing open-access books authored by women.",
+            sameAs: [
+              "https://twitter.com/citapress",
+              "https://facebook.com/citapress",
+              "https://instagram.com/cita.press",
+              "https://github.com/citapress/citapress",
+            ],
+          },
+          {
+            "@type": "WebSite",
+            name: "Cita Press",
+            url: "https://citapress.org",
+            publisher: { "@id": "https://citapress.org/#org" },
+            inLanguage: ["en", "es"],
+          },
+        ],
+      })}
+    </script>
+  </Seo>
+)
 
 export const pageQuery = graphql`
   query blogListQuery($language: String!) {

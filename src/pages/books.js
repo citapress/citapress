@@ -82,7 +82,13 @@ export default injectIntl(BlogIndex)
  *
  * See: https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-head/
  */
-export const Head = () => <Seo title="All books" />
+export const Head = ({ location }) => (
+  <Seo
+    title="All books"
+    description="Browse the full Cita Press catalog: free, open-access books by women, available to read online or download in English and Spanish."
+    pathname={location.pathname}
+  />
+)
 
 export const pageQuery = graphql`
 query blogListQuery($language: String!) {

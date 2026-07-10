@@ -5,8 +5,9 @@
  */
 import React from 'react';
 
-export const onRenderBody = ({ setHeadComponents, setHtmlAttributes }) => {
-  setHtmlAttributes({ lang: `en` })
+// <html lang> is set per page by the Seo component via the Head API,
+// so the Spanish pages get lang="es" instead of a hardcoded "en".
+export const onRenderBody = ({ setHeadComponents }) => {
   setHeadComponents([
     <link
       key="bluu-regular"

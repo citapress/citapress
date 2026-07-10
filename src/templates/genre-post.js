@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 import { injectIntl, Link } from "gatsby-plugin-intl"
 
 import Layout from "../components/layout/layout"
+import Seo from "../components/seo"
 import { resizedImage, responsiveSrcSet } from "../utils/image"
 
 const SQUARE_WIDTHS = [300, 600, 900];
@@ -65,6 +66,18 @@ const GenreBookPostTemplate = ({
         })}
       </ul>
     </Layout>
+  )
+}
+
+export const Head = ({ location }) => {
+  const genre = location.pathname.split('/').filter(Boolean).slice(-1)[0] || 'Genre';
+  const label = genre.replace(/-/g, ' ');
+  return (
+    <Seo
+      title={`${label} books`}
+      description={`Free feminist books in the ${label} genre, published open-access by Cita Press.`}
+      pathname={location.pathname}
+    />
   )
 }
 

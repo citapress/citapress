@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 import { injectIntl, Link } from "gatsby-plugin-intl"
 
 import Layout from "../components/layout/layout"
+import Seo from "../components/seo"
 import { resizedImage, responsiveSrcSet } from "../utils/image"
 
 const SQUARE_WIDTHS = [300, 600, 900];
@@ -65,6 +66,18 @@ const TimePeriodBookPostTemplate = ({
         })}
       </ul>
     </Layout>
+  )
+}
+
+export const Head = ({ location }) => {
+  const period = location.pathname.split('/').filter(Boolean).slice(-1)[0] || 'Time Period';
+  const label = period.replace(/-/g, ' ');
+  return (
+    <Seo
+      title={`Books from the ${label}`}
+      description={`Free feminist books from the ${label}, published open-access by Cita Press.`}
+      pathname={location.pathname}
+    />
   )
 }
 

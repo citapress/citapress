@@ -7,6 +7,7 @@ import Seo from "../components/seo"
 import BooksList from "../components/bookList/bookList"
 import { resizedImage, responsiveSrcSet } from "../utils/image"
 import slugFromLink from "../utils/slugFromLink"
+import stripHtml from "../utils/seoText"
 
 const PORTRAIT_WIDTHS = [200, 397, 800];
 const PORTRAIT_ASPECT = 397 / 612;
@@ -125,12 +126,60 @@ const BookPostTemplate = ({
   )
 }
 
-export const Head = ({ data: { markdownRemark: post } }) => {
+export const Head = ({ data: { site, markdownRemark: post }, location }) => {
+  const siteUrl = site.siteMetadata.siteUrl
+  const description = stripHtml(post.frontmatter.description) || post.excerpt
+  const barePath = post.fields.slug
+  const lang = post.frontmatter.lang || "en"
+  const otherSlug = slugFromLink(post.frontmatter.language_link)
+  const otherPath = otherSlug ? `/${otherSlug}/` : null
+  const alternates = otherPath
+    ? lang === "es"
+      ? { en: otherPath, es: barePath }
+      : { en: barePath, es: otherPath }
+    : null
+
+  const bookJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Book",
+    name: post.frontmatter.title,
+    author: { "@type": "Person", name: post.frontmatter.author },
+    inLanguage: lang,
+    isbn: post.frontmatter.isbn || undefined,
+    image: post.frontmatter.post_image
+      ? siteUrl + post.frontmatter.post_image
+      : undefined,
+    url: siteUrl + barePath,
+    bookFormat: "https://schema.org/EBook",
+    isAccessibleForFree: true,
+    datePublished: post.frontmatter.publicationISO || undefined,
+    publisher: {
+      "@type": "Organization",
+      name: "Cita Press",
+      url: siteUrl,
+    },
+    offers: {
+      "@type": "Offer",
+      price: "0",
+      priceCurrency: "USD",
+      availability: "https://schema.org/InStock",
+      url: siteUrl + barePath,
+    },
+  }
+
   return (
     <Seo
       title={post.frontmatter.title}
-      description={post.frontmatter.description || post.excerpt}
-    />
+      description={description}
+      pathname={location.pathname}
+      canonicalPath={barePath}
+      image={post.frontmatter.post_image}
+      lang={lang}
+      alternates={alternates}
+      ogType="book"
+    >
+      <script type="application/ld+json">{JSON.stringify(bookJsonLd)}</script>
+    </Seo>
   )
 }
 
@@ -144,6 +193,7 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        siteUrl
       }
     }
     markdownRemark(id: { eq: $id }) {
@@ -169,6 +219,7 @@ export const pageQuery = graphql`
         release(formatString: "MMMM DD, YYYY")
         releaseformat
         publication(formatString: "MMMM DD, YYYY")
+        publicationISO: publication(formatString: "YYYY-MM-DD")
         publishformat
         description
         foreword

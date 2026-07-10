@@ -8,16 +8,20 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
+  // Emits .cache/typegen/schema.graphql so the IDE's GraphQL plugin can
+  // validate the page queries instead of flagging every field as unknown.
+  graphqlTypegen: true,
   siteMetadata: {
-    title: `Cita`,
+    title: `Cita Press`,
     author: {
-      name: `Fabian Rios`,
-      summary: `citapress dev collaborator.`,
+      name: `Cita Press`,
+      summary: `A feminist indie press publishing free books by women.`,
     },
-    description: `Citapress main page.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Cita Press is an intersectional feminist indie press publishing open-access books authored by women, free to read and download in English and Spanish.`,
+    siteUrl: `https://citapress.org`,
+    image: `/img/cita-book-covers-sample2.jpg`,
     social: {
-      twitter: `fabianriosarias`,
+      twitter: `citapress`,
     },
   },
   plugins: [
@@ -107,33 +111,42 @@ module.exports = {
         feeds: [
           {
             serialize: ({ query: { site, allMarkdownRemark } }) => {
+              const plainText = html =>
+                (html || "")
+                  .replace(/<[^>]*>/g, " ")
+                  .replace(/&[#\w]+;/g, " ")
+                  .replace(/\s+/g, " ")
+                  .trim()
               return allMarkdownRemark.nodes.map(node => {
                 return Object.assign({}, node.frontmatter, {
-                  description: node.excerpt,
+                  description: plainText(node.frontmatter.description) || node.excerpt,
                   date: node.frontmatter.date,
                   url: site.siteMetadata.siteUrl + node.fields.slug,
                   guid: site.siteMetadata.siteUrl + node.fields.slug,
-                  custom_elements: [{ "content:encoded": node.html }],
                 })
               })
             },
             query: `{
-              allMarkdownRemark(sort: {frontmatter: {date: DESC}}) {
+              allMarkdownRemark(
+                sort: {frontmatter: {date: DESC}}
+                filter: {frontmatter: {templateKey: {eq: "book-page"}, published: {eq: true}}}
+                limit: 20
+              ) {
                 nodes {
                   excerpt
-                  html
                   fields {
                     slug
                   }
                   frontmatter {
                     title
                     date
+                    description
                   }
                 }
               }
             }`,
             output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
+            title: "Cita Press — New Books",
           },
         ],
       },
@@ -147,15 +160,18 @@ module.exports = {
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
-        // theme_color: `#663399`,
+        theme_color: `#3634fb`,
         display: `minimal-ui`,
         icon: `src/images/favicon-32x32.png`, // This path is relative to the root of the site.
       },
     },
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
-        trackingId: "G-V1J3CFLFXH",
+        trackingIds: ["G-V1J3CFLFXH"],
+        pluginConfig: {
+          head: true,
+        },
       }
     },
     {
@@ -167,7 +183,22 @@ module.exports = {
         redirect: false,
       },
     },
-    `gatsby-plugin-sitemap`,
+    {
+      resolve: `gatsby-plugin-sitemap`,
+      options: {
+        excludes: [
+          `/en`,
+          `/en/`,
+          `/en/**`,
+          `/es`,
+          `/es/`,
+          `/es/**`,
+          `/404*`,
+          `/**/404*`,
+          `/offline-plugin-app-shell-fallback/`,
+        ],
+      },
+    },
     {
       resolve: `gatsby-plugin-offline`,
       options: {

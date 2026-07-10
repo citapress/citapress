@@ -1,2 +1,4 @@
 User-agent: *
 Disallow:
+
+Sitemap: https://citapress.org/sitemap-index.xml

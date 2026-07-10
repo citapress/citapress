@@ -45,7 +45,13 @@ const NewsTemplate = ({
 
 export default injectIntl(NewsTemplate)
 
-export const Head = () => <Seo title="News" />
+export const Head = ({ location }) => (
+  <Seo
+    title="News"
+    description="News and updates from Cita Press: new books, events, and projects."
+    pathname={location.pathname}
+  />
+)
 
 export const pageQuery = graphql`
   query blogListQuery($language: String!) {

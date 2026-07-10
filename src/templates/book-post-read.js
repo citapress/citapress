@@ -7,6 +7,7 @@ import Seo from "../components/seo"
 import TextConfiguration from '../components/textConfiguration/textConfiguration';
 import { resizedImage, responsiveSrcSet } from "../utils/image"
 import slugFromLink from "../utils/slugFromLink"
+import stripHtml from "../utils/seoText"
 
 const PORTRAIT_WIDTHS = [200, 397, 800];
 const PORTRAIT_ASPECT = 397 / 612;
@@ -240,11 +241,27 @@ const BookPostReadTemplate = ({
   )
 }
 
-export const Head = ({ data: { markdownRemark: post } }) => {
+export const Head = ({ data: { markdownRemark: post }, location }) => {
+  const description = stripHtml(post.frontmatter.description) || post.excerpt
+  const readPath = `${post.fields.slug}read/`
+  const lang = post.frontmatter.lang || "en"
+  const otherSlug = slugFromLink(post.frontmatter.language_link)
+  const otherReadPath = otherSlug ? `/${otherSlug}/read/` : null
+  const alternates = otherReadPath
+    ? lang === "es"
+      ? { en: otherReadPath, es: readPath }
+      : { en: readPath, es: otherReadPath }
+    : null
+
   return (
     <Seo
-      title={post.frontmatter.title}
-      description={post.frontmatter.description || post.excerpt}
+      title={`Read ${post.frontmatter.title} online`}
+      description={description}
+      pathname={location.pathname}
+      canonicalPath={readPath}
+      image={post.frontmatter.post_image}
+      lang={lang}
+      alternates={alternates}
     />
   )
 }
@@ -265,6 +282,9 @@ export const pageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       id
       excerpt(pruneLength: 160)
+      fields {
+        slug
+      }
       headings {
         id
         depth
