@@ -3,6 +3,18 @@ title: noticias
 lang: es
 templateKey: news-page
 ---
+**2026**
+
+* **Julio 2026 (Evento)** Únase con a la directora editorial de Cita, Jessi Haley, en Eureka Valley/Harvey Milk Branch para "[New Life in the Public Domain](<>),” parte de los programas Summer Stride en el San Francisco Public Library, el 25 de julio! 
+
+* **Julio 2026 (Prensa)** "[Why Soledad Acosta de Samper’s *Dolores* is a Unicorn in the Practice of Translation](https://www.are.na/block/47495487?blockId=47495487&blockProfileId=cita-press&blockChannelId=dolores-scenes-from-a-woman-s-life&mode=Show&intent=title)" por Sara Abadía Alvarado está disponible en *Literary Hub*, al lado de [un pasaje](https://lithub.com/dolores/) de su traducción del texto para Cita Press. 
+
+* **Julio 2026 (Anuncio)** Cita lanza Book Friends: nuestro nuevo programa de membresía. ¡[Aprende más y apoya nuestro trabajo!](https://www.zeffy.com/en-US/ticketing/cita-presss-memberships)
+
+* **Junio 2026 (Lanzamiento)** *Dolores* por Soledad Acosta de Samper se lanza ahora — ¡en inglés y en español! Traducción y prólogo por Sara Abadía Alvarado; portada por Mariana Sanín A. 
+
+
+
 **2025**
 
 * **July de 2025 (Anuncio)** Nos complace anunciar la publicación de la nueva traducción al español de *Diez días en un manicomio,* de Daniel Saldaña París para el Cita Press Literary Translation & Technology project. ¡Es la primera traducción de un libro entero que comisionamos especialmente para Cita! Lean el ensayo de Daniel sobre el proyecto, «La traducción, la IA y la carga política de las palabras», en el epílogo de ambas ediciones de *Diez días en un manicomio (Ten Days in a Mad-House)*, de Nellie Bly. La traducción al inglés del ensayo es de Christina MacSweeney. También pueden encontrarlo, junto con una grabación de audio, en el Especial de *Asymptote* de julio de 2025 «[What A.I. Can't Do](https://www.asymptotejournal.com/special-feature/translation-ai-and-the-political-weight-of-words-daniel-saldana-paris/)».
