@@ -5,11 +5,11 @@ templateKey: news-page
 ---
 **2026**
 
-* **Julio de 2026 (Evento)** Únase con a la directora editorial de Cita, Jessi Haley, en Eureka Valley/Harvey Milk Branch para "[New Life in the Public Domain](<>),” parte de los programas Summer Stride en el San Francisco Public Library, el 25 de julio! 
+* **Julio de 2026 (Evento)** Únase con la directora editorial de Cita, Jessi Haley, en Eureka Valley/Harvey Milk Branch para "[New Life in the Public Domain](<>),” parte de los programas Summer Stride en el San Francisco Public Library, el 25 de julio! 
 * **Julio de 2026 (Prensa)** "[Why Soledad Acosta de Samper’s *Dolores* is a Unicorn in the Practice of Translation](https://www.are.na/block/47495487?blockId=47495487&blockProfileId=cita-press&blockChannelId=dolores-scenes-from-a-woman-s-life&mode=Show&intent=title)" por Sara Abadía Alvarado está disponible en *Literary Hub*, al lado de [un pasaje](https://lithub.com/dolores/) de su traducción del texto para Cita Press. 
 * **Julio de 2026 (Anuncio)** Cita lanza Book Friends: nuestro nuevo programa de membresía. ¡[Aprende más y apoya nuestro trabajo!](https://www.zeffy.com/en-US/ticketing/cita-presss-memberships)
 * **Junio de 2026 (Lanzamiento)** *Dolores* por Soledad Acosta de Samper se lanza ahora — ¡en inglés y en español! Traducción y prólogo por Sara Abadía Alvarado; portada por Mariana Sanín A. 
-* **Mayo de 2026 (Evento)** Cita es una exhibidora en la quinta anual [Santa Rosa Zine Fest](https://www.santarosazinefest.com/) en la Northwest Santa Rosa Library en el 2 de mayo. 
+* **Mayo de 2026 (Evento)** Cita es una exhibidora en la quinta anual [Santa Rosa Zine Fest](https://www.santarosazinefest.com/) en la Northwest Santa Rosa Library el 2 de mayo. 
 * **Abril de 2026 (Evento)** Estamos colaborando con The Ruby para albergar una fiesta \[Transcribe Harper [Pizza] Party] (https://luma.com/hq2y5umj) en San Francisco el 30 de abril. ¡Ven a transcribir poemas y a comer pizza (gratis) con nosotros!
 * **Marzo de 2026 (Evento)** El martes 24 de marzo, Cita co-presentará una fiesta Transcribe Harper \[Pizza] Party en la Sitting Room Library de Penngrove, CA. [Detalles aquí. ](https://sittingroomlibrary.org/news-%26-events)
 
