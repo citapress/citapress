@@ -823,6 +823,13 @@ iframe{
     padding: 10px 30px;
     font-weight: bold;
   }
+  &-blue {
+    background-color: $blue;
+    color: #fff;
+    &:hover {
+      background-color: #000;
+    }
+  }
 }
 
 .progress-bar {
@@ -977,4 +984,122 @@ span.gif-link {
 
 .carousel-image {
   animation: fadeIn 300ms ease-in;
+}
+
+.support-hero {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  img {
+    width: 100%;
+    max-width: 320px;
+  }
+  @media screen and (min-width: 768px) {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 60px;
+    img {
+      width: 40%;
+      max-width: 380px;
+    }
+  }
+}
+
+.support-header {
+  line-height: 1.2;
+}
+
+.support-copy {
+  hr {
+    @media screen and (min-width: 768px) {
+      width: 100%;
+      margin: 2em 0 1em 0;
+    }
+  }
+  .support-tagline + hr {
+    @media screen and (min-width: 768px) {
+      margin-top: 1.1em;
+    }
+  }
+  .btn {
+    margin-bottom: 20px;
+  }
+}
+
+.support-tagline {
+  color: $blue;
+  font-style: italic;
+  font-size: 1.5em;
+  text-align: center;
+  margin: 0;
+}
+
+.pricing-table {
+  margin-top: 60px;
+
+  th,
+  td {
+    border: none;
+    border-bottom: 1px solid $blue;
+    text-align: left;
+    vertical-align: top;
+    padding: 15px 10px 15px 0;
+  }
+  thead th {
+    font-weight: bold;
+    font-size: 1.2em;
+  }
+
+  th:first-child,
+  td:first-child {
+    width: 15%;
+  }
+  th:nth-child(2),
+  td:nth-child(2) {
+    width: 20%;
+  }
+  th:last-child,
+  td:last-child {
+    width: 65%;
+  }
+
+  @media screen and (min-width: 768px) {
+    tbody tr {
+      height: 130px;
+    }
+  }
+
+  @media screen and (max-width: 767px) {
+    thead {
+      display: none;
+    }
+    tr {
+      display: block;
+      border-bottom: 1px solid $blue;
+      padding: 15px 0;
+    }
+    td,
+    td:first-child,
+    td:nth-child(2),
+    td:last-child {
+      display: block;
+      width: auto;
+      border: none;
+      padding: 4px 0;
+    }
+    td:first-child {
+      font-size: 1.2em;
+    }
+    td[data-label]:before {
+      content: attr(data-label) ": ";
+      font-weight: 500;
+    }
+  }
+}
+
+.support-footnote {
+  font-style: italic;
+  font-size: 0.85em;
+  margin-top: 20px;
 }
