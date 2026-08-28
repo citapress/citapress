@@ -207,9 +207,8 @@ export const Head = ({ location }) => (
             description:
               "Feminist indie press publishing open-access books authored by women.",
             sameAs: [
-              "https://twitter.com/citapress",
-              "https://facebook.com/citapress",
-              "https://instagram.com/cita.press",
+              "https://www.instagram.com/cita.press/",
+              "https://citapress.substack.com",
               "https://github.com/citapress/citapress",
             ],
           },

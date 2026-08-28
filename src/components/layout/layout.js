@@ -51,8 +51,8 @@ const Layout = ({ location, children, intl, where }) => {
             <ChangeLanguage where={where} />
             <div className="message">
               <div className="social">
-                <a className="social-img" href="http://facebook.com/citapress"><img src="/img/fb.png" alt="fb" /></a>
-                <a className="social-img" href="http://twitter.com/citapress"><img src="/img/tw.png" alt="tw" /></a>
+                <a className="social-img" href="https://www.instagram.com/cita.press/" target="_blank" rel="noreferrer"><img src="/img/ig.svg" alt="Instagram" /></a>
+                <a className="social-img" href="https://citapress.substack.com/" target="_blank" rel="noreferrer"><img src="/img/substack.svg" alt="Substack" /></a>
               </div>
               <div className='footer-rights'>
                 Some rights reserved <img className='some-rights' alt="cc" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"/> CC BY-SA 4.0 / {new Date().getFullYear()} &nbsp; <a href="https://github.com/citapress/citapress" target="_blank" rel="noreferrer">Github</a>

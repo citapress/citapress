@@ -14,7 +14,7 @@ const ContactIndex = ({ location, intl }) => {
           <div className="english-version">
             <p>
               <span className="inside-title">Contact:</span>
-              If you have questions, suggestions, or compliments, find us on <a href="https://github.com/citapress/citapress/">Github</a>, <a href="http://twitter.com/citapress">Twitter</a>, <a href="http://fb.com/citapress">Facebook </a> or <a href="http://instagram.com/cita.press">Instagram</a>, or write to us to <a href="mailto:info@citapress.org?Subject=Hello%20Hola%20Ciao">info@citapress.org</a>.
+              If you have questions, suggestions, or compliments, find us on <a href="https://github.com/citapress/citapress/">Github</a>, <a href="https://www.instagram.com/cita.press/">Instagram</a> or <a href="https://citapress.substack.com/">Substack</a>, or write to us to <a href="mailto:info@citapress.org?Subject=Hello%20Hola%20Ciao">info@citapress.org</a>.
             </p>
             <p>
               For partnership offers, license questions, complaints, reading suggestions and press inquiries, please contact Jessi Haley at <a href="mailto:jessi@citapress.org?Subject=Hello%20Hola%20Ciao">jessi@citapress.org</a>.
@@ -29,7 +29,7 @@ const ContactIndex = ({ location, intl }) => {
           ) : (
             <div className="spanish-version">
               <p>
-                <span className="inside-title">Contacto:</span><span>Si tienes preguntas, sugerencias o flores, encuéntranos en <a href="https://github.com/citapress/citapress/">Github</a>, <a href="http://twitter.com/citapress">Twitter</a>, <a href="http://fb.com/citapress">Facebook </a> o <a href="http://instagram.com/cita.press">Instagram</a>, o escríbenos a <a href="mailto:info@citapress.org?Subject=Hello%20Hola%20Ciao">info@citapress.org</a>. </span>
+                <span className="inside-title">Contacto:</span><span>Si tienes preguntas, sugerencias o flores, encuéntranos en <a href="https://github.com/citapress/citapress/">Github</a>, <a href="https://www.instagram.com/cita.press/">Instagram</a> o <a href="https://citapress.substack.com/">Substack</a>, o escríbenos a <a href="mailto:info@citapress.org?Subject=Hello%20Hola%20Ciao">info@citapress.org</a>. </span>
               </p>
               <p>
                 Para colaboraciones, preguntas sobre propiedad intelectual, quejas, sugerencias de lectura o solicitudes de prensa, por favor escribir a Juliana Castro a <a href="mailto:juliana@citapress.org?Subject=Hello%20Hola%20Ciao">juliana@citapress.org</a>.

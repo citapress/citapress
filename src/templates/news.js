@@ -34,9 +34,9 @@ const NewsTemplate = ({
       />
       <hr />
       { intl.locale === 'en' ? (
-        <p>Don’t want to miss a thing? Follow us: <a href="http://instagram.com/cita.press">Instagram</a>, <a href="http://twitter.com/citapress">Twitter</a>, <a href="http://fb.com/citapress">Facebook</a>, <a href="https://github.com/jjcastro/cita-press">GitHub</a>, etc.</p>
+        <p>Don’t want to miss a thing? Follow us: <a href="https://www.instagram.com/cita.press/">Instagram</a>, <a href="https://citapress.substack.com">Substack</a>, <a href="https://github.com/jjcastro/cita-press">GitHub</a>, etc.</p>
         ) : (
-          <p>¿No quieres perderte nada? Síguenos: <a href="http://instagram.com/cita.press">Instagram</a>, <a href="http://twitter.com/citapress">Twitter</a>, <a href="http://fb.com/citapress">Facebook</a>, <a href="https://github.com/jjcastro/cita-press">GitHub</a>, etc.</p>
+          <p>¿No quieres perderte nada? Síguenos: <a href="https://www.instagram.com/cita.press/">Instagram</a>, <a href="https://citapress.substack.com">Substack</a>, <a href="https://github.com/jjcastro/cita-press">GitHub</a>, etc.</p>
         )
       }
     </Layout>
