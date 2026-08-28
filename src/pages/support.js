@@ -14,7 +14,7 @@ const SupportIndex = ({ location, intl }) => {
       {intl.locale === 'en' ? (
         <div className="english-version">
           <div className="support-hero">
-            <img src="/img/new-illustration.png" alt="A hand-drawn illustration of two waving books" />
+            <img src="/img/smile-blue-square.gif" alt="A hand-drawn illustration of two waving books" />
             <div className="support-copy">
               <h1 className="bluu support-header">like our work? become a cita book friend!</h1>
               <hr />
@@ -64,7 +64,7 @@ const SupportIndex = ({ location, intl }) => {
       ) : (
         <div className="spanish-version">
           <div className="support-hero">
-            <img src="/img/new-illustration.png" alt="Una ilustración dibujada a mano de dos libros saludando" />
+            <img src="/img/smile-blue-square.gif" alt="Una ilustración dibujada a mano de dos libros saludando" />
             <div className="support-copy">
               <h1 className="bluu support-header">¿te gusta nuestro trabajo? ¡hazte cita book friend!</h1>
               <hr />
