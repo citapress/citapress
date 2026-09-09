@@ -11,10 +11,10 @@ isbn: 978-1-961368-24-8
 post_image: /img/books/images.webp
 square_image: /img/books/dolores-scenes-from-a-womans-life/square.jpeg
 download: dolores-cover-guide-cita.pdf
-download_ebook: dolores.epub
-download_name: Download EPUB
-third_download_name: dolores.pdf
-third_download: Download PDF
+download_ebook: ""
+download_name: Download Guide
+third_download_name: Download EPUB
+third_download: dolores.epub
 language_link: dolores
 genre:
   - fiction
