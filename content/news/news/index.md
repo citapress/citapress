@@ -5,12 +5,14 @@ templateKey: news-page
 ---
 ## 2026
 
-* **July 2026 (Event)** Join Cita's editorial director Jessi Haley at the Eureka Valley/Harvey Milk Branch for "[New Life in the Public Domain](https://sfpl.org/events/2026/07/25/speaker-new-life-public-domain)," part of Summer Stride programming at the San Francisco Public Library, on July 25! 
+* **October-November 2026 (Virtual Reading Group)** Join Cita's editorial director Jessi Haley for a  virtual reading group on "[New Life in the Public Domain](https://sfpl.org/events/2026/07/25/speaker-new-life-public-domain)," part of Bathers Library's fall reading group series. Mondays starting October 26, 5-7 pm PT; [description here](https://batherslibrary.cargo.site/current-reading-groups). **[Sign up now](https://bathers-library.square.site/product/fall-winter-reading-groups-26-27/BAUMK6KMZ6SQ2LASWCB7KQO4?cs=true&cst=custom)!** 
+* **October 2026 (Events)** Find us in-person at[ Litquake's Small Press Book Fair](https://www.eventbrite.com/e/litquakes-small-press-book-fair-tickets-1999643630929?aff=oddtdtcreator) (October 4, San Francisco) and the [Detroit Art Book Fair ](https://detroitartbookfair.org/)(October 10-11). Jessi Haley will represent Cita Press and *A Luminous Halo* for the National Book Critics Circle panel "[The Author/Critic Dilemma](https://litquake2026.sched.com/event/2VTU6/nbcc-presents-the-authorcritic-dilemma)" at Page Street Co-Writingfor Litquake (October 13). 
+* **July 2026 (Event)** Join Cita's editorial director Jessi Haley at the Eureka Valley/Harvey Milk Branch for "[New Life in the Public Domain](<>)," part of Summer Stride programming at the San Francisco Public Library, on July 25! 
 * **July 2026 (Press)** "[Why Soledad Acosta de Samper’s *Dolores* is a Unicorn in the Practice of Translation](https://www.are.na/block/47495487?blockId=47495487&blockProfileId=cita-press&blockChannelId=dolores-scenes-from-a-woman-s-life&mode=Show&intent=title)" by Sara Abadía Alvarado is in *Literary Hub*, alongside [an excerpt](https://lithub.com/dolores/) from her translation of the text for Cita Press.
 * **July 2026 (Announcement)** Cita launches Book Friends: our new membership program. [Learn more and support our work](https://www.zeffy.com/en-US/ticketing/cita-presss-memberships)! 
 * **June 2026 (Publication)** *Dolores* by Soledad Acosta de Samper is out now — in English and in Spanish! Translation and foreword by Sara Abadía Alvarado; cover by Mariana Sanín A. 
 * **May 2026 (Event)** Cita is an exhibitor at the fifth annual [Santa Rosa Zine Fest ](https://www.santarosazinefest.com)at the Northwest Santa Rosa Library on May 2. 
-* **April 2026 (Event)** We're partnering with The Ruby to host a [Transcribe Harper \[Pizza] Party](https://luma.com/hq2y5umj) in San Francisco on April 30. Come transcribe poems and eat (free) pizza with us! 
+* **April 2026 (Event)** We're partnering with The Ruby to host a \[Transcribe Harper [Pizza] Party](https://luma.com/hq2y5umj) in San Francisco on April 30. Come transcribe poems and eat (free) pizza with us! 
 * **March 2026 (Event)** On Tuesday, March 24, Cita will be cohosting a Transcribe Harper \[Pizza] Party at the Sitting Room Library in Penngrove, CA. [Details here.](https://sittingroomlibrary.org/news-%26-events)
 
 ## 2025
