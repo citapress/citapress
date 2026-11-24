@@ -96,10 +96,10 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'mini-publication' }
       - { label: 'Short description (1 sentence)', name: 'description', widget: 'text', hint: "Shown under the title. You can use <em>…</em> for book titles in italics." }
-      - { label: 'Category', name: 'category', widget: 'select', options: [{ label: 'Mini-Zine', value: 'mini-zine' }, { label: 'Reading Guide', value: 'reading-guide' }, { label: 'Extra Content', value: 'extra-content' }, { label: 'Other', value: 'other' }] }
+      - { label: 'Category', name: 'category', widget: 'select', options: [{ label: 'Mini-Zine', value: 'mini-zine' }, { label: 'Reading Guide', value: 'reading-guide' }, { label: 'Extra Content', value: 'extra-content' }, { label: 'Other Category', value: 'other' }] }
       - { label: 'Theme', name: 'theme', widget: 'select', options: ["motherhood", "LGBTQ+", "politics" ,"religion", "sex-romance", "suspense-gothic", "race", "science-technology", "first-person-narrator", "banned-book", "mental-health"], multiple: true, required: false }
       - { label: 'Cover image (vertical, max 500kb - preferable .jpg - lowercase name - no spaces)', name: 'cover_image', widget: 'image', required: false }
-      - { label: 'Upload PDF', name: 'pdf_file', widget: 'file', required: false, media_folder: '/static/downloads', public_folder: '/downloads', hint: "Upload a new PDF here, OR fill in the existing download below." }
+      - { label: 'Upload PDF (max 20mb)', name: 'pdf_file', widget: 'file', required: false, media_folder: '/static/downloads', public_folder: '/downloads', hint: "Upload a new PDF here (max 20mb), OR fill in the existing download below.", media_library: { config: { max_file_size: 20971520 } } }
       - { label: 'Existing PDF (file name in downloads or full URL)', name: 'pdf_link', widget: 'string', required: false, hint: "Reuse a PDF that's already on a book page, e.g. dolores-cover-guide-cita.pdf" }
       - { label: 'Sorting Date', name: 'sortingdate', widget: 'datetime', picker_utc: true, required: false }
       - { label: 'Language', name: 'lang', widget: 'select', options: [en, es] }
