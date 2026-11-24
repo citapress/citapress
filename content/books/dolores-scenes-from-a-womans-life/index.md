@@ -38,7 +38,7 @@ description: >-
   <p>This new translation by Sara Abadía Alvarado updates an unpublished nineteenth century English translation of an iconic Latin American feminist text, making it accessible to readers in English in a way that corresponds to Acosta de Samper’s original vision. </p>
 
 
-  <p><b>[Purchase a bilingual print edition] (https://shop.ingramspark.com/b/084?params=OQtNW2gH6XCyNvfpI3KAIPtCPYJCsBkyeVENo2S1B5X) of the book, which includes the visual reading guide by Mariana Sanín A, translator Sara Abadía Alvarado's foreword, and an author bio by Jasmine Jones. </p></b>
+  <p><b><a href="https://shop.ingramspark.com/b/084?params=OQtNW2gH6XCyNvfpI3KAIPtCPYJCsBkyeVENo2S1B5X">Purchase a bilingual print edition</a> of the book, which includes the visual reading guide by Mariana Sanín A, translator Sara Abadía Alvarado's foreword, and an author bio by Jasmine Jones. </p></b>
 
 
   <p>The book was made possible thanks to the generous sponsorship of writer Sharon Bard.</p>
