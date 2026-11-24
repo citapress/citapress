@@ -70,9 +70,19 @@
   "Spanish": "Spanish",
   "Back to Top": "Back to the Start",
   "Download PDF": "Download PDF",
-  "Download Epub" : "Download Epub",
+  "Download Epub": "Download Epub",
   "Reading Guide": "Reading Guide",
   "Women Resisting Violence (English)": "Women Resisting Violence (English)",
   "Please accept statistics cookies to view this content.": "Please accept statistics cookies to view this content.",
-  "Please accept marketing cookies to view this content.": "Please accept marketing cookies to view this content."
+  "Please accept marketing cookies to view this content.": "Please accept marketing cookies to view this content.",
+  "mini-publications": "Mini-publications",
+  "Category": "Category",
+  "mini-zine": "Mini-Zine",
+  "reading-guide": "Reading Guide",
+  "extra-content": "Extra Content",
+  "other": "Other",
+  "mini-zine-tag": "Zine",
+  "reading-guide-tag": "Guide",
+  "extra-content-tag": "Extra",
+  "other-tag": "Other"
 }

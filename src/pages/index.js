@@ -237,7 +237,7 @@ export const pageQuery = graphql`
       filter: {
         frontmatter: {
           lang: { eq: $language }
-          templateKey: { nin: ["news-page", "studio-page"] }
+          templateKey: { nin: ["news-page", "studio-page", "mini-publication"] }
         }
       }
     ) {
