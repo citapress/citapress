@@ -1208,9 +1208,9 @@ span.gif-link {
 
 .mini-heading {
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
   align-items: flex-start;
-  gap: 10px;
+  gap: 8px;
   margin-top: 16px;
 }
 
