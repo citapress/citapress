@@ -34,7 +34,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         filter: {
           frontmatter: {
             lang: {eq: "en"}
-            templateKey: { nin: ["news-page", "studio-page"] }
+            templateKey: { nin: ["news-page", "studio-page", "mini-publication"] }
           }
         }
         limit: 1000
@@ -96,7 +96,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         sort: {frontmatter: {date: DESC}}
         filter: {
           frontmatter: {
-            templateKey: { nin: ["news-page", "studio-page"] }
+            templateKey: { nin: ["news-page", "studio-page", "mini-publication"] }
           }
         }
         limit: 1000
@@ -326,6 +326,10 @@ exports.createSchemaCustomization = ({ actions }) => {
       genre: [String]
       theme: [String]
       time_period: [String]
+      category: String
+      cover_image: String
+      pdf_file: String
+      pdf_link: String
       download_name: String
       third_download: String
       third_download_name: String

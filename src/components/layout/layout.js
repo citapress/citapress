@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Link, FormattedMessage } from "gatsby-plugin-intl"
 import ChangeLanguage from "../changeLanguage/changeLanguage"
+import Webring from "../webring/webring"
 import Marquee from "react-fast-marquee";
 // import * as classes from "./layout.module.scss"
 
@@ -21,7 +22,13 @@ const Layout = ({ location, children, intl, where }) => {
       <ul className="navigation">
         <li><Link to="/support"><FormattedMessage id="support" /></Link></li>
         <li><Link to="/about"><FormattedMessage id="about" /></Link></li>
-        <li><Link to="/books"><FormattedMessage id="books" /></Link></li>
+        <li className="has-submenu">
+          <Link to="/books"><FormattedMessage id="books" /></Link>
+          <ul className="submenu">
+            <li><Link to="/books"><FormattedMessage id="books" /></Link></li>
+            <li><Link to="/mini-publications"><FormattedMessage id="mini-publications" /></Link></li>
+          </ul>
+        </li>
         <li><Link to="/people"><FormattedMessage id="people" /></Link></li>
         <li><Link to="/news"><FormattedMessage id="news" /></Link></li>
         <li><Link to="/contact"><FormattedMessage id="contact" /></Link></li>
@@ -37,6 +44,7 @@ const Layout = ({ location, children, intl, where }) => {
       <header className={`global-header bluu ${pathnamestriped}`}>{header}</header>
       <main className={`main-wrapper ${pathnamestriped}`}>
         <div className='internal-wrapper'>{children}</div>
+        {pathnamestriped !== 'studio' && <Webring />}
       </main>
       <footer className={`${pathnamestriped}`}>
         {pathnamestriped === 'studio'?

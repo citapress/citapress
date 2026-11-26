@@ -54,7 +54,7 @@
   "Buy fun things, support free books!": "¡Compra cosas divertidas, apoya libros gratuitos!",
   "cita is": "cita: una biblioteca y editorial que destaca, publica y promueve obras feministas. Emparejamos autoras y diseñadoras contemporáneas con textos de acceso abierto, ¡y ponemos a disposición de forma gratuita libros cuidadosamente diseñados! cita: una obra de amor.",
   "about_left_entry": "En español, <span class='blue'>“cita“</span> significa reunión, acuerdo o compromiso. También es el sufijo diminutivo para sustantivos femeninos",
-  "Watch our video!" : "¡Mira nuestro <a href='https://www.youtube.com/watch?v=F21bP9pydE0' target='_blank'>video!</a>",
+  "Watch our video!": "¡Mira nuestro <a href='https://www.youtube.com/watch?v=F21bP9pydE0' target='_blank'>video!</a>",
   "All books": "Todos los libros",
   "Related posts": "Entradas Relacionados",
   "Thank you, we will contact you.": "Muchas gracias, le contáctaremos.",
@@ -74,5 +74,15 @@
   "Buy Print Copy": "Comprar copia impresa",
   "Women Resisting Violence (English)": "Women Resisting Violence (English)",
   "Please accept statistics cookies to view this content.": "Por favor, acepte las cookies de estadísticas para ver este contenido.",
-  "Please accept marketing cookies to view this content.": "Por favor, acepte las cookies de marketing para ver este contenido."
+  "Please accept marketing cookies to view this content.": "Por favor, acepte las cookies de marketing para ver este contenido.",
+  "mini-publications": "Mini-publicaciones",
+  "Category": "Categoría",
+  "mini-zine": "Mini-zine",
+  "reading-guide": "Guía de lectura",
+  "extra-content": "Contenido extra",
+  "other": "Otra categoría",
+  "mini-zine-tag": "Zine",
+  "reading-guide-tag": "Guía",
+  "extra-content-tag": "Extra",
+  "other-tag": "Otro"
 }

@@ -29,7 +29,7 @@ collections:
       - { label: 'Post Image (max 500kb - preferable .jpg - lowercase name - no spaces)', name: post_image, widget: image, required: true }
       - { label: 'Square Thumbnail (max 500kb - preferable .jpg - lowercase name - no spaces square)', name: square_image, widget: image, required: true }
       - { label: 'Download guide', name: 'download', widget: 'string', required: false }
-      - { label: 'Second Download Link', name: 'download_ebook', widget: 'string', required: false }
+      - { label: 'EPUB Download Link', name: 'download_ebook', widget: 'string', required: false }
       - { label: 'Second Download Title', name: 'download_name', widget: 'string', required: false }
       - { label: 'Third Download Link', name: 'third_download_name', widget: 'string', required: false }
       - { label: 'Third Download Title', name: 'third_download', widget: 'string', required: false }
@@ -81,3 +81,26 @@ collections:
       - { label: 'Image8', name: 'image8', widget: 'string', required: false }
       - { label: 'Image9', name: 'image9', widget: 'string', required: false }
       - { label: 'Front page block', name: 'body', widget: 'markdown' }
+  - name: mini_publications
+    label: Mini-publications
+    label_singular: Mini-publication
+    folder: 'content/mini-publications'
+    create: true
+    slug: 'index'
+    path: '{{title}}/index'
+    media_folder: '/static/img/mini-publications'
+    public_folder: '/img/mini-publications'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'mini-publication' }
+      - { label: 'Short description (1 sentence)', name: 'description', widget: 'text', hint: "Shown under the title. You can use <em>…</em> for book titles in italics." }
+      - { label: 'Category', name: 'category', widget: 'select', options: [{ label: 'Mini-Zine', value: 'mini-zine' }, { label: 'Reading Guide', value: 'reading-guide' }, { label: 'Extra Content', value: 'extra-content' }, { label: 'Other Category', value: 'other' }] }
+      - { label: 'Theme', name: 'theme', widget: 'select', options: ["motherhood", "LGBTQ+", "politics" ,"religion", "sex-romance", "suspense-gothic", "race", "science-technology", "first-person-narrator", "banned-book", "mental-health"], multiple: true, required: false }
+      - { label: 'Cover image (vertical, max 500kb - preferable .jpg - lowercase name - no spaces)', name: 'cover_image', widget: 'image', required: false }
+      - { label: 'Upload PDF (max 20mb)', name: 'pdf_file', widget: 'file', required: false, media_folder: '/static/downloads', public_folder: '/downloads', hint: "Upload a new PDF here (max 20mb), OR fill in the existing download below.", media_library: { config: { max_file_size: 20971520 } } }
+      - { label: 'Existing PDF (file name in downloads or full URL)', name: 'pdf_link', widget: 'string', required: false, hint: "Reuse a PDF that's already on a book page, e.g. dolores-cover-guide-cita.pdf" }
+      - { label: 'Sorting Date', name: 'sortingdate', widget: 'datetime', picker_utc: true, required: false }
+      - { label: 'Language', name: 'lang', widget: 'select', options: [en, es] }
+      - { label: 'is Published?', name: 'published', widget: 'boolean', default: true, required: false }
